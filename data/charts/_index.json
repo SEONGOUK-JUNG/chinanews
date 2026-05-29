@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-05-29T19:22:06.145085+09:00",
+  "updated_at_kst": "2026-05-29T23:30:31.150653+09:00",
   "items": [
     {
       "id": "600519",
@@ -48,14 +48,14 @@
       "ticker": "BABA",
       "name": "알리바바 ADR",
       "file": "BABA.json",
-      "count": 251
+      "count": 252
     },
     {
       "id": "PDD",
       "ticker": "PDD",
       "name": "핀둬둬",
       "file": "PDD.json",
-      "count": 251
+      "count": 252
     },
     {
       "id": "005930",
