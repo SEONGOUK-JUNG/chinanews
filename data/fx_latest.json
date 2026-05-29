@@ -1,45 +1,56 @@
 {
-  "run_at_kst": "2026-05-29T14:07:56.490141+09:00",
-  "source": "한국은행 ECOS API",
-  "source_url": "https://ecos.bok.or.kr/",
+  "run_at_kst": "2026-05-29T15:08:49.007077+09:00",
+  "source": "Yahoo Finance (yfinance)",
+  "source_url": "https://finance.yahoo.com/currencies",
+  "delay": "15-20min",
   "rates": {
     "usd_krw": {
       "name": "USD/KRW",
-      "memo": "원/달러 매매기준율",
-      "date": "20260529",
-      "value": 1505.8,
-      "prev_date": "20260528",
-      "prev_value": 1501.6,
-      "change_pct": 0.2797
-    },
-    "jpy_krw": {
-      "name": "JPY/KRW (100엔)",
-      "memo": "원/엔(100엔)",
-      "date": "20260529",
-      "value": 945.56,
-      "prev_date": "20260528",
-      "prev_value": 941.41,
-      "change_pct": 0.4408
+      "memo": "달러/원",
+      "value": 1503.77,
+      "prev_value": 1493.6899,
+      "change_pct": 0.6748,
+      "source": "yfinance",
+      "ticker": "USDKRW=X"
     },
     "cny_krw": {
       "name": "CNY/KRW",
-      "memo": "원/위안",
-      "date": "20260529",
-      "value": 1754.48,
-      "prev_date": "20260528",
-      "prev_value": 1745.91,
-      "change_pct": 0.4909
+      "memo": "위안/원",
+      "value": 222.186,
+      "prev_value": 220.602,
+      "change_pct": 0.718,
+      "source": "yfinance",
+      "ticker": "CNYKRW=X"
+    },
+    "jpy_krw": {
+      "name": "JPY/KRW (100엔)",
+      "memo": "엔/원 (×100 보정)",
+      "value": 941.6,
+      "prev_value": 935.8,
+      "change_pct": 0.6198,
+      "source": "yfinance",
+      "ticker": "JPYKRW=X"
+    },
+    "eur_krw": {
+      "name": "EUR/KRW",
+      "memo": "유로/원",
+      "value": 1750.2,
+      "prev_value": 1739.7,
+      "change_pct": 0.6036,
+      "source": "yfinance",
+      "ticker": "EURKRW=X"
     }
   },
   "derived": {
     "usd_cny": {
-      "name": "USD/CNY (파생)",
-      "value": 0.8583,
-      "formula": "USD/KRW ÷ CNY/KRW",
-      "note": "한국은행 직접 고시 아님. 교차환율 추정값."
+      "name": "USD/CNY",
+      "memo": "달러/위안 (Yahoo 직접)",
+      "value": 6.7687,
+      "prev_value": 6.7791,
+      "change_pct": -0.1534,
+      "source": "yfinance",
+      "ticker": "USDCNY=X"
     }
   },
-  "errors": [
-    "EUR/KRW fetch failed"
-  ]
+  "errors": []
 }
