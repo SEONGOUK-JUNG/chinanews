@@ -1,0 +1,124 @@
+{
+  "updated_at_kst": "2026-05-29T19:22:06.145085+09:00",
+  "items": [
+    {
+      "id": "600519",
+      "ticker": "600519.SS",
+      "name": "귀주모태주",
+      "file": "600519.json",
+      "count": 243
+    },
+    {
+      "id": "601318",
+      "ticker": "601318.SS",
+      "name": "중국평안",
+      "file": "601318.json",
+      "count": 243
+    },
+    {
+      "id": "300750",
+      "ticker": "300750.SZ",
+      "name": "CATL",
+      "file": "300750.json",
+      "count": 243
+    },
+    {
+      "id": "0700.HK",
+      "ticker": "0700.HK",
+      "name": "텐센트",
+      "file": "0700_HK.json",
+      "count": 247
+    },
+    {
+      "id": "9988.HK",
+      "ticker": "9988.HK",
+      "name": "알리바바",
+      "file": "9988_HK.json",
+      "count": 247
+    },
+    {
+      "id": "9618.HK",
+      "ticker": "9618.HK",
+      "name": "징둥",
+      "file": "9618_HK.json",
+      "count": 247
+    },
+    {
+      "id": "BABA",
+      "ticker": "BABA",
+      "name": "알리바바 ADR",
+      "file": "BABA.json",
+      "count": 251
+    },
+    {
+      "id": "PDD",
+      "ticker": "PDD",
+      "name": "핀둬둬",
+      "file": "PDD.json",
+      "count": 251
+    },
+    {
+      "id": "005930",
+      "ticker": "005930.KS",
+      "name": "삼성전자",
+      "file": "005930.json",
+      "count": 243
+    },
+    {
+      "id": "000660",
+      "ticker": "000660.KS",
+      "name": "SK하이닉스",
+      "file": "000660.json",
+      "count": 243
+    },
+    {
+      "id": "csi300",
+      "ticker": "000300.SS",
+      "name": "CSI 300",
+      "file": "csi300.json",
+      "count": 243
+    },
+    {
+      "id": "sse",
+      "ticker": "000001.SS",
+      "name": "SSE COMP",
+      "file": "sse.json",
+      "count": 243
+    },
+    {
+      "id": "szse",
+      "ticker": "399001.SZ",
+      "name": "SZSE COMP",
+      "file": "szse.json",
+      "count": 243
+    },
+    {
+      "id": "hsi",
+      "ticker": "^HSI",
+      "name": "HSI 항셍",
+      "file": "hsi.json",
+      "count": 247
+    },
+    {
+      "id": "hscei",
+      "ticker": "^HSCE",
+      "name": "HSCEI",
+      "file": "hscei.json",
+      "count": 247
+    },
+    {
+      "id": "kospi",
+      "ticker": "^KS11",
+      "name": "KOSPI",
+      "file": "kospi.json",
+      "count": 244
+    },
+    {
+      "id": "kosdaq",
+      "ticker": "^KQ11",
+      "name": "KOSDAQ",
+      "file": "kosdaq.json",
+      "count": 244
+    }
+  ]
+}
