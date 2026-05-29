@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-05-29T16:52:03.858510+09:00",
+  "run_at_kst": "2026-05-29T18:34:42.772093+09:00",
   "sources": {
     "a_stocks": "AkShare (Eastmoney via 中国证监会)",
     "hk_us_kr": "Yahoo Finance (yfinance)"
@@ -53,9 +53,9 @@
       "ex": "홍콩",
       "sector": "IT",
       "type": "hk_stock",
-      "price": 428.4,
+      "price": 427.2,
       "prev_close": 425.0,
-      "change_pct": 0.8,
+      "change_pct": 0.52,
       "currency": "HKD",
       "found": true
     },
@@ -65,9 +65,9 @@
       "ex": "홍콩",
       "sector": "전자상거래",
       "type": "hk_stock",
-      "price": 121.4,
+      "price": 120.9,
       "prev_close": 121.8,
-      "change_pct": -0.33,
+      "change_pct": -0.74,
       "currency": "HKD",
       "found": true
     },
@@ -77,9 +77,9 @@
       "ex": "홍콩",
       "sector": "전자상거래",
       "type": "hk_stock",
-      "price": 112.6,
+      "price": 113.5,
       "prev_close": 114.2,
-      "change_pct": -1.4,
+      "change_pct": -0.61,
       "currency": "HKD",
       "found": true
     },
@@ -90,8 +90,8 @@
       "sector": "전자상거래",
       "type": "us_adr",
       "price": 126.16,
-      "prev_close": 127.54,
-      "change_pct": -1.08,
+      "prev_close": 126.12,
+      "change_pct": 0.03,
       "currency": "USD",
       "found": true
     },
@@ -102,8 +102,8 @@
       "sector": "전자상거래",
       "type": "us_adr",
       "price": 83.03,
-      "prev_close": 86.41,
-      "change_pct": -3.91,
+      "prev_close": 82.77,
+      "change_pct": 0.31,
       "currency": "USD",
       "found": true
     },
@@ -164,18 +164,18 @@
       "id": "hsi",
       "name": "HSI 항셍",
       "type": "index",
-      "price": 25140.28,
+      "price": 25182.39,
       "prev_close": 25006.16,
-      "change_pct": 0.54,
+      "change_pct": 0.7,
       "found": true
     },
     {
       "id": "hscei",
       "name": "HSCEI",
       "type": "index",
-      "price": 8413.28,
+      "price": 8425.82,
       "prev_close": 8364.41,
-      "change_pct": 0.58,
+      "change_pct": 0.73,
       "found": true
     },
     {
