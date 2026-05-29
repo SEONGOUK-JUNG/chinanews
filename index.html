@@ -806,16 +806,32 @@ function updateChartHeader(data){
 }
 
 function bindWatchlistClicks(){
-  document.querySelectorAll('.wl-row').forEach(row => {
-    row.addEventListener('click', () => {
-      const id = row.id;
-      if(!id || !id.startsWith('s-')) return;
-      let symbolId = id.substring(2);
-      if(symbolId.endsWith('-hk')) symbolId = symbolId.slice(0, -3) + '.HK';
-      else if(symbolId === 'baba') symbolId = 'BABA';
-      else if(symbolId === 'pdd')  symbolId = 'PDD';
-      loadChart(symbolId);
-    });
+  // 이벤트 위임: body에서 클릭 잡고 closest로 .wl-row 찾기
+  // (자식 요소 클릭도 잡고, 동적 추가된 행도 자동 처리)
+  document.body.addEventListener('click', (e) => {
+    const row = e.target.closest('.wl-row');
+    if(!row) return;
+    const id = row.id;
+    if(!id || !id.startsWith('s-')) return;
+    let symbolId = id.substring(2);
+    if(symbolId.endsWith('-hk')) symbolId = symbolId.slice(0, -3) + '.HK';
+    else if(symbolId === 'baba') symbolId = 'BABA';
+    else if(symbolId === 'pdd')  symbolId = 'PDD';
+    console.log('[Click] watchlist row:', id, '→', symbolId);
+    loadChart(symbolId);
+  });
+
+  // 인덱스 스트립 (CSI 300, HSI 등) 클릭도 같이 처리
+  document.body.addEventListener('click', (e) => {
+    const cell = e.target.closest('.idx-cell');
+    if(!cell) return;
+    const valEl = cell.querySelector('[id^="idx-"]');
+    if(!valEl) return;
+    const m = valEl.id.match(/^idx-([a-z0-9]+)-val$/);
+    if(!m) return;
+    const indexId = m[1];
+    console.log('[Click] index cell:', indexId);
+    loadChart(indexId);
   });
 }
 
