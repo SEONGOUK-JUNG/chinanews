@@ -211,11 +211,11 @@
   <div class="tb-side">
     <span class="conn-status">CONNECTED</span>
     <span class="item-dim">SHANGHAI</span>
-    <span class="item mono">14:23 CST</span>
+    <span class="item mono" id="clock-shanghai">--:--</span>
     <span class="item-dim">SEOUL</span>
-    <span class="item mono">15:23 KST</span>
+    <span class="item mono" id="clock-seoul">--:--</span>
     <span class="item-dim">NY</span>
-    <span class="item mono">02:23 EST</span>
+    <span class="item mono" id="clock-ny">--:--</span>
   </div>
 </div>
 
@@ -257,7 +257,7 @@
     </div>
 
     <div class="panel">
-      <div class="panel-head"><div class="panel-title">관심종목 <span class="badge-api">API</span></div><span class="panel-actions">+</span></div>
+      <div class="panel-head"><div class="panel-title">관심종목 <span class="badge-live">LIVE</span></div><span class="panel-actions">+</span></div>
       <div class="watchlist">
         <div class="wl-row" id="s-600519"><div><span class="tk">600519</span><span class="nm">귀주모태주</span></div><div class="px no-data">—</div><div class="ch"><span class="api-needed">로딩</span></div></div>
         <div class="wl-row" id="s-601318"><div><span class="tk">601318</span><span class="nm">중국평안</span></div><div class="px no-data">—</div><div class="ch"><span class="api-needed">로딩</span></div></div>
@@ -547,9 +547,9 @@
     <span><span class="key">F8</span> AI</span>
   </div>
   <div class="fb-right">
-    <span class="lic-warn">PROTOTYPE v0.2</span>
+    <span class="lic-warn">PROTOTYPE v0.3</span>
     <span>chinanews.kr</span>
-    <span>2026-04-23 14:23 KST</span>
+    <span id="footer-time">2026-05-29 KST</span>
   </div>
 </div>
 
@@ -566,10 +566,9 @@
     본 단말기는 데이터가 없는 위치에 임의의 숫자를 채워 넣지 않습니다.
     <strong style="color:var(--orange)">"데이터 없음" / "API 필요"</strong> 명시 후 추후 API 연동을 통해서만 채워집니다.
     실제 의사결정은 반드시 공식 출처(거래소·관계기관)에서 재확인 후 진행하시기 바랍니다.
-  </div>
   <div style="margin-top:9px;line-height:1.7">
     <strong style="color:var(--text)">현재 실측 데이터:</strong>
-    SunSirs(생의사) 2026-04-22 현물가격 11개 품목 · 환율 일부 · 그 외 모두 API 미연결
+    SunSirs(생의사) 원자재 11개 · 환율(yfinance) · 주식·지수(yfinance+AkShare) · 그 외 API 미연결
   </div>
 </div>
 
@@ -577,12 +576,10 @@
 function aiSend(){
   const q = document.getElementById('ai-q');
   if(!q.value) return;
-  alert('AI 어시스턴트는 백엔드 연결 후 활성화됩니다.\n질문: "' + q.value + '"\n\n현재는 프로토타입 UI 단계입니다.');
+  alert('AI 어시스턴트는 백엔드 연결 후 활성화됩니다.\n질문: "' + q.value + '"');
   q.value = '';
 }
-document.getElementById('ai-q').addEventListener('keypress', e=>{
-  if(e.key==='Enter') aiSend();
-});
+document.getElementById('ai-q').addEventListener('keypress', e=>{ if(e.key==='Enter') aiSend(); });
 
 document.querySelectorAll('.tb-tab').forEach(t=>{
   t.addEventListener('click', ()=>{
@@ -603,100 +600,47 @@ document.querySelectorAll('.tf-pill').forEach(t=>{
   });
 });
 
-// ═══════════════════════════════════════════════════════════
-// 환율 자동 갱신 (ECOS 한국은행 데이터)
-// 소스: data/fx_latest.json (ecos_fx_collector.py가 생성)
-// 갱신 주기: 5분
-// ═══════════════════════════════════════════════════════════
+// 환율 자동 갱신 (yfinance)
 async function loadFXRates(){
   try{
-    const r = await fetch('data/fx_latest.json?t=' + Date.now()); // 캐시 회피
-    if(!r.ok) throw new Error('FX fetch failed: HTTP ' + r.status);
+    const r = await fetch('data/fx_latest.json?t=' + Date.now());
+    if(!r.ok) throw new Error('FX fetch failed');
     const fx = await r.json();
-
-    const fmt = (v, decimals) => Number(v).toLocaleString('en-US', {
-      minimumFractionDigits: decimals, maximumFractionDigits: decimals
-    });
-
+    const fmt = (v,d) => Number(v).toLocaleString('en-US',{minimumFractionDigits:d,maximumFractionDigits:d});
     const updateOne = (id, value, changePct, decimals) => {
       const v = document.getElementById('fx-' + id + '-val');
       const c = document.getElementById('fx-' + id + '-chg');
-      if(v && value != null){
-        v.textContent = fmt(value, decimals);
-        v.classList.remove('no-data');
-        v.classList.add('mono');
-      }
+      if(v && value != null){ v.textContent = fmt(value, decimals); v.classList.remove('no-data'); v.classList.add('mono'); }
       if(c){
         if(changePct != null){
           const sign = changePct > 0 ? '▲' : (changePct < 0 ? '▼' : '—');
           c.textContent = sign + ' ' + (changePct >= 0 ? '+' : '') + changePct.toFixed(2) + '%';
           c.className = 'idx-chg mono ' + (changePct > 0 ? 'up' : (changePct < 0 ? 'down' : 'flat'));
-        }else{
-          c.innerHTML = '<span class="api-needed">파생</span>';
-        }
+        }else{ c.innerHTML = '<span class="api-needed">파생</span>'; }
       }
     };
-
-    if(fx.derived && fx.derived.usd_cny){
-      updateOne('usd-cny', fx.derived.usd_cny.value, null, 4);
-    }
-    if(fx.rates && fx.rates.cny_krw){
-      updateOne('cny-krw', fx.rates.cny_krw.value, fx.rates.cny_krw.change_pct, 2);
-    }
-    if(fx.rates && fx.rates.usd_krw){
-      updateOne('usd-krw', fx.rates.usd_krw.value, fx.rates.usd_krw.change_pct, 2);
-    }
-    console.log('[FX] loaded at', fx.run_at_kst);
-  }catch(e){
-    console.warn('[FX] load failed:', e.message);
-  }
+    if(fx.derived && fx.derived.usd_cny) updateOne('usd-cny', fx.derived.usd_cny.value, fx.derived.usd_cny.change_pct, 4);
+    if(fx.rates && fx.rates.cny_krw) updateOne('cny-krw', fx.rates.cny_krw.value, fx.rates.cny_krw.change_pct, 2);
+    if(fx.rates && fx.rates.usd_krw) updateOne('usd-krw', fx.rates.usd_krw.value, fx.rates.usd_krw.change_pct, 2);
+    console.log('[FX] loaded', fx.run_at_kst);
+  }catch(e){ console.warn('[FX] failed:', e.message); }
 }
-loadFXRates();                            // 페이지 로드 즉시
-setInterval(loadFXRates, 5 * 60 * 1000);  // 이후 5분마다
+loadFXRates();
+setInterval(loadFXRates, 5*60*1000);
 
-// ═══════════════════════════════════════════════════════════
-// 주식 시세 + 지수 자동 갱신
-// 소스: data/stocks_latest.json (stocks_collector.py가 생성)
-// 갱신 주기: 5분
-// ═══════════════════════════════════════════════════════════
-const STOCK_ID_MAP = {
-  '600519':  's-600519',
-  '601318':  's-601318',
-  '300750':  's-300750',
-  '0700.HK': 's-0700-hk',
-  '9988.HK': 's-9988-hk',
-  '9618.HK': 's-9618-hk',
-  'BABA':    's-baba',
-  'PDD':     's-pdd',
-  '005930':  's-005930',
-  '000660':  's-000660',
-};
-
-const INDEX_ID_MAP = {
-  'csi300': 'idx-csi300',
-  'sse':    'idx-sse',
-  'szse':   'idx-szse',
-  'hsi':    'idx-hsi',
-  'hscei':  'idx-hscei',
-  'kospi':  'idx-kospi',
-  'kosdaq': 'idx-kosdaq',
-};
+// 주식 + 지수 자동 갱신
+const STOCK_ID_MAP = {'600519':'s-600519','601318':'s-601318','300750':'s-300750','0700.HK':'s-0700-hk','9988.HK':'s-9988-hk','9618.HK':'s-9618-hk','BABA':'s-baba','PDD':'s-pdd','005930':'s-005930','000660':'s-000660'};
+const INDEX_ID_MAP = {'csi300':'idx-csi300','sse':'idx-sse','szse':'idx-szse','hsi':'idx-hsi','hscei':'idx-hscei','kospi':'idx-kospi','kosdaq':'idx-kosdaq'};
 
 async function loadStocks(){
   try{
     const r = await fetch('data/stocks_latest.json?t=' + Date.now());
-    if(!r.ok) throw new Error('stocks fetch failed: HTTP ' + r.status);
+    if(!r.ok) throw new Error('stocks fetch failed');
     const data = await r.json();
-
-    const fmt = (v, decimals) => Number(v).toLocaleString('en-US', {
-      minimumFractionDigits: decimals, maximumFractionDigits: decimals
-    });
-
-    const arrowOf = (pct) => pct > 0 ? '▲' : (pct < 0 ? '▼' : '—');
-    const classOf = (pct) => pct > 0 ? 'up' : (pct < 0 ? 'down' : 'flat');
-
-    // 관심종목 업데이트
-    for(const stock of (data.watchlist || [])){
+    const fmt = (v,d) => Number(v).toLocaleString('en-US',{minimumFractionDigits:d,maximumFractionDigits:d});
+    const arrowOf = p => p>0?'▲':(p<0?'▼':'—');
+    const classOf = p => p>0?'up':(p<0?'down':'flat');
+    for(const stock of (data.watchlist||[])){
       if(!stock.found) continue;
       const rowId = STOCK_ID_MAP[stock.id];
       if(!rowId) continue;
@@ -704,43 +648,49 @@ async function loadStocks(){
       if(!row) continue;
       const pxEl = row.querySelector('.px');
       const chEl = row.querySelector('.ch');
-      if(pxEl && stock.price != null){
-        pxEl.textContent = fmt(stock.price, 2);
-        pxEl.classList.remove('no-data');
-        pxEl.classList.add('mono');
-      }
+      if(pxEl && stock.price != null){ pxEl.textContent = fmt(stock.price, 2); pxEl.classList.remove('no-data'); pxEl.classList.add('mono'); }
       if(chEl && stock.change_pct != null){
-        chEl.innerHTML = `<span class="mono ${classOf(stock.change_pct)}">${arrowOf(stock.change_pct)} ${stock.change_pct >= 0 ? '+' : ''}${stock.change_pct.toFixed(2)}%</span>`;
+        chEl.innerHTML = '<span class="mono ' + classOf(stock.change_pct) + '">' + arrowOf(stock.change_pct) + ' ' + (stock.change_pct>=0?'+':'') + stock.change_pct.toFixed(2) + '%</span>';
       }
     }
-
-    // 지수 업데이트
-    for(const idx of (data.indices || [])){
+    for(const idx of (data.indices||[])){
       if(!idx.found) continue;
       const prefix = INDEX_ID_MAP[idx.id];
       if(!prefix) continue;
       const valEl = document.getElementById(prefix + '-val');
       const chgEl = document.getElementById(prefix + '-chg');
-      if(valEl && idx.price != null){
-        valEl.textContent = fmt(idx.price, 2);
-        valEl.classList.remove('no-data');
-        valEl.classList.add('mono');
-      }
+      if(valEl && idx.price != null){ valEl.textContent = fmt(idx.price, 2); valEl.classList.remove('no-data'); valEl.classList.add('mono'); }
       if(chgEl && idx.change_pct != null){
         chgEl.textContent = arrowOf(idx.change_pct) + ' ' + (idx.change_pct >= 0 ? '+' : '') + idx.change_pct.toFixed(2) + '%';
         chgEl.className = 'idx-chg mono ' + classOf(idx.change_pct);
       }
     }
-
-    console.log('[Stocks] loaded at', data.run_at_kst,
-      '· watchlist:', (data.watchlist||[]).filter(s=>s.found).length,
-      '· indices:', (data.indices||[]).filter(i=>i.found).length);
-  }catch(e){
-    console.warn('[Stocks] load failed:', e.message);
-  }
+    console.log('[Stocks] loaded', data.run_at_kst);
+  }catch(e){ console.warn('[Stocks] failed:', e.message); }
 }
 loadStocks();
-setInterval(loadStocks, 5 * 60 * 1000);
+setInterval(loadStocks, 5*60*1000);
+
+// 시간 위젯 자동 갱신
+function tzNow(tz){ return new Intl.DateTimeFormat('en-GB',{timeZone:tz,hour:'2-digit',minute:'2-digit',hour12:false}).format(new Date()); }
+function tzAbbrev(tz){
+  const parts = new Intl.DateTimeFormat('en-US',{timeZone:tz,timeZoneName:'short'}).formatToParts(new Date());
+  const x = parts.find(p => p.type === 'timeZoneName');
+  return x ? x.value : '';
+}
+function updateClocks(){
+  document.getElementById('clock-shanghai').textContent = tzNow('Asia/Shanghai') + ' ' + tzAbbrev('Asia/Shanghai');
+  document.getElementById('clock-seoul').textContent = tzNow('Asia/Seoul') + ' ' + tzAbbrev('Asia/Seoul');
+  document.getElementById('clock-ny').textContent = tzNow('America/New_York') + ' ' + tzAbbrev('America/New_York');
+  const f = document.getElementById('footer-time');
+  if(f){
+    const today = new Intl.DateTimeFormat('sv-SE',{timeZone:'Asia/Seoul',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
+    f.textContent = today + ' ' + tzNow('Asia/Seoul') + ' KST';
+  }
+}
+updateClocks();
+setInterval(updateClocks, 60*1000);
 </script>
+
 </body>
 </html>
