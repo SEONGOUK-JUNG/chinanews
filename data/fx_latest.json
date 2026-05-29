@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-05-29T18:37:10.156984+09:00",
+  "run_at_kst": "2026-05-29T18:38:02.500454+09:00",
   "source": "Yahoo Finance (yfinance)",
   "source_url": "https://finance.yahoo.com/currencies",
   "delay": "15-20min",
@@ -7,9 +7,9 @@
     "usd_krw": {
       "name": "USD/KRW",
       "memo": "달러/원",
-      "value": 1508.6801,
+      "value": 1508.36,
       "prev_value": 1493.6899,
-      "change_pct": 1.0036,
+      "change_pct": 0.9821,
       "source": "yfinance",
       "ticker": "USDKRW=X"
     },
