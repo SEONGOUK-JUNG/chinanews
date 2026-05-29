@@ -229,9 +229,9 @@
   <div class="idx-cell"><div class="idx-name">HSCEI H지수</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API 필요</span></div></div>
   <div class="idx-cell"><div class="idx-name">KOSPI</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API 필요</span></div></div>
   <div class="idx-cell"><div class="idx-name">KOSDAQ</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API 필요</span></div></div>
-  <div class="idx-cell"><div class="idx-name">USD/CNY</div><div class="idx-val mono">6.8650</div><div class="idx-chg up mono">▲ +0.08%</div></div>
-  <div class="idx-cell"><div class="idx-name">CNY/KRW</div><div class="idx-val mono">217.40</div><div class="idx-chg up mono">▲ +0.12%</div></div>
-  <div class="idx-cell"><div class="idx-name">USD/KRW</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API 필요</span></div></div>
+  <div class="idx-cell"><div class="idx-name">USD/CNY</div><div id="fx-usd-cny-val" class="idx-val no-data">—</div><div id="fx-usd-cny-chg" class="idx-chg"><span class="api-needed">로딩</span></div></div>
+  <div class="idx-cell"><div class="idx-name">CNY/KRW</div><div id="fx-cny-krw-val" class="idx-val no-data">—</div><div id="fx-cny-krw-chg" class="idx-chg"><span class="api-needed">로딩</span></div></div>
+  <div class="idx-cell"><div class="idx-name">USD/KRW</div><div id="fx-usd-krw-val" class="idx-val no-data">—</div><div id="fx-usd-krw-chg" class="idx-chg"><span class="api-needed">로딩</span></div></div>
   <div class="idx-cell"><div class="idx-name">WTI</div><div class="idx-val mono">89.67</div><div class="idx-chg up mono">▲ +2.57%</div></div>
   <div class="idx-cell"><div class="idx-name">BRENT</div><div class="idx-val mono">98.48</div><div class="idx-chg up mono">▲ +3.14%</div></div>
   <div class="idx-cell"><div class="idx-name">GOLD</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API 필요</span></div></div>
@@ -602,6 +602,57 @@ document.querySelectorAll('.tf-pill').forEach(t=>{
     t.classList.add('active');
   });
 });
+
+// ═══════════════════════════════════════════════════════════
+// 환율 자동 갱신 (ECOS 한국은행 데이터)
+// 소스: data/fx_latest.json (ecos_fx_collector.py가 생성)
+// 갱신 주기: 5분
+// ═══════════════════════════════════════════════════════════
+async function loadFXRates(){
+  try{
+    const r = await fetch('data/fx_latest.json?t=' + Date.now()); // 캐시 회피
+    if(!r.ok) throw new Error('FX fetch failed: HTTP ' + r.status);
+    const fx = await r.json();
+
+    const fmt = (v, decimals) => Number(v).toLocaleString('en-US', {
+      minimumFractionDigits: decimals, maximumFractionDigits: decimals
+    });
+
+    const updateOne = (id, value, changePct, decimals) => {
+      const v = document.getElementById('fx-' + id + '-val');
+      const c = document.getElementById('fx-' + id + '-chg');
+      if(v && value != null){
+        v.textContent = fmt(value, decimals);
+        v.classList.remove('no-data');
+        v.classList.add('mono');
+      }
+      if(c){
+        if(changePct != null){
+          const sign = changePct > 0 ? '▲' : (changePct < 0 ? '▼' : '—');
+          c.textContent = sign + ' ' + (changePct >= 0 ? '+' : '') + changePct.toFixed(2) + '%';
+          c.className = 'idx-chg mono ' + (changePct > 0 ? 'up' : (changePct < 0 ? 'down' : 'flat'));
+        }else{
+          c.innerHTML = '<span class="api-needed">파생</span>';
+        }
+      }
+    };
+
+    if(fx.derived && fx.derived.usd_cny){
+      updateOne('usd-cny', fx.derived.usd_cny.value, null, 4);
+    }
+    if(fx.rates && fx.rates.cny_krw){
+      updateOne('cny-krw', fx.rates.cny_krw.value, fx.rates.cny_krw.change_pct, 2);
+    }
+    if(fx.rates && fx.rates.usd_krw){
+      updateOne('usd-krw', fx.rates.usd_krw.value, fx.rates.usd_krw.change_pct, 2);
+    }
+    console.log('[FX] loaded at', fx.run_at_kst);
+  }catch(e){
+    console.warn('[FX] load failed:', e.message);
+  }
+}
+loadFXRates();                            // 페이지 로드 즉시
+setInterval(loadFXRates, 5 * 60 * 1000);  // 이후 5분마다
 </script>
 </body>
 </html>
