@@ -1,0 +1,607 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>차이나뉴스 터미널 · CHINANEWS Terminal — 한국인을 위한 중국 주식 금융 단말기</title>
+<meta name="description" content="중국 주식·ETF·지수·원자재·환율·금리, 한국 주식·DART 공시를 하나의 단말기에서. chinanews.kr">
+<link rel="canonical" href="https://chinanews.kr/">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#000000; --bg-1:#080808; --bg-2:#0d0d0d; --bg-3:#121212;
+    --panel:#0a0a0a; --panel-2:#141414;
+    --line:#1f1f1f; --line-2:#2a2a2a;
+    --text:#e8e8e8; --text-bright:#ffffff; --muted:#A8A8A8; --dim:#777777;
+    --orange:#E8C078; --orange-dim:#C9A058;
+    --amber:#F0CE92;
+    --yellow:#fde047;
+    --up:#ff3b3b;
+    --up-bg:rgba(255,59,59,.08);
+    --down:#1aff66;
+    --down-bg:rgba(26,255,102,.08);
+    --flat:#737373;
+    --cyan:#00d9ff;
+    --blue:#3b82f6;
+    --purple:#a855f7;
+    --line-grid:#1a1a1a;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{font-size:15px}
+  body{
+    font-family:"Inter","Noto Sans KR",-apple-system,sans-serif;
+    background:var(--bg);color:var(--text);
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+    text-rendering:optimizeLegibility;
+    min-height:100vh;line-height:1.5;
+    overflow-x:hidden;
+  }
+  .mono{font-family:"JetBrains Mono","SF Mono",Consolas,monospace;font-feature-settings:"tnum"}
+  a{color:inherit;text-decoration:none}
+  button{font-family:inherit;cursor:pointer}
+
+  .topbar{background:var(--bg-1);border-bottom:1px solid var(--line);height:38px;display:flex;align-items:center;font-size:13px;padding:0 14px;gap:14px}
+  .logo-mark{font-family:"Inter",sans-serif;font-weight:700;letter-spacing:-.3px;color:var(--orange);display:flex;align-items:center;gap:7px;font-size:14px}
+  .logo-mark::before{content:"◆";color:var(--orange)}
+  .tb-tabs{display:flex;gap:0;flex:1;margin-left:10px}
+  .tb-tab{padding:0 13px;height:38px;line-height:38px;color:#c8c8c8;cursor:pointer;border-right:1px solid var(--line);font-size:13px;font-weight:600;letter-spacing:.2px}
+  .tb-tab.active{color:var(--orange);background:var(--bg-2);font-weight:700}
+  .tb-tab:hover:not(.active){color:var(--text-bright);background:var(--bg-2)}
+  .tb-search{flex:1;max-width:440px;display:flex;align-items:center;background:var(--bg-2);border:1px solid var(--line);height:28px;padding:0 12px;gap:8px;border-radius:2px}
+  .tb-search input{background:transparent;border:none;outline:none;color:var(--text);font-size:13px;flex:1;font-family:inherit}
+  .tb-search input::placeholder{color:var(--muted)}
+  .tb-search .gd{font-size:11px;color:var(--orange);background:var(--bg);padding:2px 7px;border-radius:2px;border:1px solid var(--orange);font-weight:700;letter-spacing:1px}
+  .tb-side{display:flex;align-items:center;gap:16px;font-size:12px;color:var(--muted)}
+  .conn-status{display:flex;align-items:center;gap:5px;color:var(--up)}
+  .conn-status::before{content:"●";color:var(--up);animation:pulse 1.5s infinite}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
+  .tb-side .item{color:var(--text);font-weight:500}
+  .tb-side .item-dim{color:var(--muted)}
+
+  .idx-strip{background:var(--bg-2);border-bottom:1px solid var(--line);height:58px;display:flex;align-items:stretch;overflow-x:auto}
+  .idx-strip::-webkit-scrollbar{height:2px}
+  .idx-strip::-webkit-scrollbar-thumb{background:var(--line-2)}
+  .idx-cell{padding:7px 14px;border-right:1px solid var(--line);min-width:148px;cursor:pointer;transition:background .1s}
+  .idx-cell:hover{background:var(--bg-3)}
+  .idx-cell .idx-name{font-size:12px;color:#c0c0c0;text-transform:uppercase;letter-spacing:.8px;font-weight:700}
+  .idx-cell .idx-val{font-size:17px;font-weight:700;font-family:"JetBrains Mono",monospace;margin-top:3px;letter-spacing:-.3px;color:var(--text-bright)}
+  .idx-cell .idx-chg{font-size:12px;font-family:"JetBrains Mono",monospace;margin-top:2px;font-weight:700}
+  .up{color:var(--up)} .down{color:var(--down)} .flat{color:var(--flat)}
+  .no-data{color:var(--muted);font-style:italic;font-size:12px}
+  .api-needed{color:var(--orange);font-size:10px;padding:1px 5px;border:1px solid var(--orange-dim);border-radius:2px;background:rgba(232,192,120,.05);font-family:"JetBrains Mono",monospace;font-weight:700;letter-spacing:.5px}
+
+  .main{display:grid;grid-template-columns:280px 1fr 340px;gap:1px;background:var(--line);padding:1px}
+
+  .sidebar-l{background:var(--bg-1);display:flex;flex-direction:column;gap:1px}
+  .panel{background:var(--panel);border:none;padding:11px 13px}
+  .panel-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:9px;padding-bottom:7px;border-bottom:1px solid var(--line-2)}
+  .panel-title{font-size:12px;font-weight:700;color:var(--orange);text-transform:uppercase;letter-spacing:1.2px}
+  .panel-title .badge-live{display:inline-block;font-size:10px;color:var(--up);margin-left:7px;padding:1px 6px;background:var(--up-bg);border:1px solid var(--up);border-radius:2px;letter-spacing:1px;font-weight:700}
+  .panel-title .badge-api{display:inline-block;font-size:10px;color:var(--orange);margin-left:7px;padding:1px 6px;background:rgba(232,192,120,.1);border:1px solid var(--orange);border-radius:2px;letter-spacing:1px;font-weight:700}
+  .panel-actions{font-size:12px;color:var(--muted);cursor:pointer}
+  .panel-actions:hover{color:var(--orange)}
+
+  .watchlist{display:flex;flex-direction:column}
+  .wl-row{display:grid;grid-template-columns:1fr auto auto;gap:8px;padding:6px 0;font-size:13px;border-bottom:1px solid var(--line-grid);cursor:pointer;align-items:center}
+  .wl-row:hover{background:var(--bg-3)}
+  .wl-row:last-child{border-bottom:none}
+  .wl-row .tk{font-weight:700;color:var(--text-bright);font-family:"JetBrains Mono",monospace;font-size:12px}
+  .wl-row .nm{color:var(--muted);font-size:11px;display:block;margin-top:2px}
+  .wl-row .px{text-align:right;font-family:"JetBrains Mono",monospace;font-weight:600;font-size:13px}
+  .wl-row .ch{text-align:right;font-family:"JetBrains Mono",monospace;font-size:12px;min-width:52px}
+
+  .sector-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--line-grid)}
+  .sec-cell{background:var(--bg-2);padding:9px 5px;text-align:center;cursor:pointer;transition:background .1s}
+  .sec-cell:hover{background:var(--bg-3)}
+  .sec-cell .sec-name{font-size:11px;color:var(--muted);margin-bottom:3px}
+  .sec-cell .sec-val{font-size:13px;font-weight:700;font-family:"JetBrains Mono",monospace}
+
+  .center-main{background:var(--bg-1);display:flex;flex-direction:column;gap:1px;min-width:0}
+  .center-header{background:var(--bg-2);padding:11px 14px;border-bottom:1px solid var(--line);display:flex;align-items:center;gap:18px}
+  .ticker-display{font-family:"JetBrains Mono",monospace;font-size:17px;font-weight:700;color:var(--orange);letter-spacing:.5px}
+  .ticker-name{font-size:14px;color:var(--text-bright);font-weight:600}
+  .ticker-name .ex{font-size:12px;color:var(--muted);margin-left:7px}
+  .ticker-pin{margin-left:auto;display:flex;gap:10px;align-items:center;font-size:12px;color:var(--muted)}
+  .ticker-pin .px-big{font-size:22px;font-weight:700;font-family:"JetBrains Mono",monospace;color:var(--text-bright);letter-spacing:-.3px}
+  .ticker-pin .ch-big{font-size:15px;font-weight:700;font-family:"JetBrains Mono",monospace}
+
+  .ctab-strip{background:var(--bg-2);border-bottom:1px solid var(--line);display:flex;height:34px}
+  .ctab{padding:0 16px;height:34px;line-height:34px;font-size:12px;color:#c8c8c8;cursor:pointer;border-right:1px solid var(--line);letter-spacing:.8px;font-weight:700;text-transform:uppercase}
+  .ctab.active{color:var(--orange);border-bottom:2px solid var(--orange);background:var(--bg)}
+  .ctab:hover:not(.active){color:var(--text-bright)}
+
+  .chart-wrap{background:var(--bg);padding:14px;border-bottom:1px solid var(--line);position:relative;min-height:320px}
+  .chart-controls{display:flex;justify-content:space-between;align-items:center;margin-bottom:11px}
+  .tf-pills{display:flex;gap:1px}
+  .tf-pill{padding:5px 11px;font-size:12px;background:var(--bg-2);color:var(--muted);cursor:pointer;border:1px solid var(--line);font-family:"JetBrains Mono",monospace;font-weight:700}
+  .tf-pill.active{color:var(--orange);background:rgba(232,192,120,.1);border-color:var(--orange)}
+  .chart-canvas{height:280px;background:linear-gradient(180deg,rgba(232,192,120,.02) 0%,transparent 100%);position:relative;border:1px solid var(--line-grid)}
+  .chart-placeholder{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;color:var(--muted);font-size:13px;gap:10px}
+  .chart-placeholder .api-tag{padding:6px 14px;background:rgba(232,192,120,.1);border:1px solid var(--orange);color:var(--orange);font-family:"JetBrains Mono",monospace;font-size:12px;letter-spacing:1px;font-weight:700}
+  .chart-grid{position:absolute;inset:0;background-image:linear-gradient(to right,var(--line-grid) 1px,transparent 1px),linear-gradient(to bottom,var(--line-grid) 1px,transparent 1px);background-size:60px 30px;opacity:.5}
+
+  .sub-charts{display:grid;grid-template-columns:1fr 1fr;gap:1px;background:var(--line);padding:1px}
+  .sub-chart{background:var(--bg);padding:9px 11px;min-height:110px;position:relative}
+  .sub-chart h4{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:1.5px;font-weight:700;margin-bottom:6px}
+  .indicator-bar{height:80px;border:1px solid var(--line-grid);display:flex;align-items:center;justify-content:center;color:var(--muted);font-size:12px;font-family:"JetBrains Mono",monospace}
+
+  .grid-2col{display:grid;grid-template-columns:1fr 1fr;gap:1px;background:var(--line)}
+  .grid-3col{display:grid;grid-template-columns:1fr 1fr 1fr;gap:1px;background:var(--line)}
+
+  .dt{width:100%;border-collapse:collapse;font-size:13px}
+  .dt th{text-align:right;padding:6px 8px;font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:1px;font-weight:700;border-bottom:1px solid var(--line-2);font-family:"Inter",sans-serif}
+  .dt th:first-child{text-align:left}
+  .dt td{padding:5px 8px;font-family:"JetBrains Mono",monospace;text-align:right;border-bottom:1px solid var(--line-grid);font-size:12px}
+  .dt td:first-child{text-align:left;color:var(--text-bright);font-weight:500;font-family:"Inter","Noto Sans KR",sans-serif}
+  .dt tr:hover td{background:var(--bg-3)}
+  .dt .nd{color:var(--muted);font-style:italic;font-size:11px;font-family:"Inter",sans-serif}
+
+  .heatmap{display:grid;grid-template-columns:repeat(7,1fr);gap:1px;background:var(--line)}
+  .hm-cell{aspect-ratio:1.4/1;padding:6px;display:flex;flex-direction:column;justify-content:space-between;font-size:11px;cursor:pointer;transition:transform .1s}
+  .hm-cell:hover{transform:scale(1.05);z-index:2;position:relative;outline:1px solid var(--orange)}
+  .hm-cell .hm-name{color:var(--text);font-weight:600;font-size:11px;line-height:1.3}
+  .hm-cell .hm-val{text-align:right;font-family:"JetBrains Mono",monospace;font-weight:700;font-size:12px}
+  .hm-cell.hm-no{background:var(--bg-1);opacity:.5}
+  .hm-cell.hm-no .hm-val{color:var(--muted);font-size:10px}
+
+  .sidebar-r{background:var(--bg-1);display:flex;flex-direction:column;gap:1px}
+
+  .ai-panel{padding:11px 13px}
+  .ai-message{background:var(--bg-2);border-left:3px solid var(--orange);padding:11px 13px;margin-bottom:10px;font-size:13px;line-height:1.6}
+  .ai-message .label{font-size:11px;color:var(--orange);font-weight:700;letter-spacing:1px;margin-bottom:6px;text-transform:uppercase}
+  .ai-message .text{color:var(--text)}
+  .ai-input{display:flex;gap:0;border:1px solid var(--line-2);background:var(--bg)}
+  .ai-input input{flex:1;background:transparent;border:none;outline:none;color:var(--text);padding:10px 12px;font-size:13px;font-family:inherit}
+  .ai-input input::placeholder{color:var(--muted)}
+  .ai-input button{background:var(--orange);color:#000;border:none;padding:0 17px;font-size:12px;font-weight:700;letter-spacing:1px;cursor:pointer}
+
+  .footbar{background:#000;border-top:1px solid var(--line);padding:8px 14px;font-size:12px;color:var(--muted);display:flex;justify-content:space-between;align-items:center}
+  .fb-left{display:flex;gap:20px;flex-wrap:wrap}
+  .fb-left .key{color:var(--orange);font-family:"JetBrains Mono",monospace;font-weight:700;margin-right:4px}
+  .fb-right{display:flex;gap:16px;font-family:"JetBrains Mono",monospace}
+  .lic-warn{color:var(--orange);font-size:11px;background:rgba(232,192,120,.08);padding:2px 7px;border:1px solid var(--orange-dim);border-radius:2px;font-weight:700}
+
+  .order-block{background:var(--bg-2);padding:11px 13px;border:1px solid var(--line);font-size:12px}
+  .order-block .row{display:grid;grid-template-columns:88px 1fr;padding:5px 0;border-bottom:1px dotted var(--line-grid);align-items:center;font-size:12px}
+  .order-block .row .k{color:var(--muted)}
+  .order-block .row .v{font-family:"JetBrains Mono",monospace;color:var(--text);font-weight:500}
+  .order-block .row .v.nd{color:var(--muted);font-style:italic;font-family:"Inter",sans-serif}
+
+  @media(max-width:1400px){
+    .main{grid-template-columns:260px 1fr 320px}
+    .tb-tab{padding:0 10px;font-size:11px}
+  }
+  @media(max-width:1100px){
+    .main{grid-template-columns:1fr}
+    .tb-tab{padding:0 8px;font-size:11px}
+  }
+
+  ::-webkit-scrollbar{width:8px;height:8px}
+  ::-webkit-scrollbar-track{background:var(--bg)}
+  ::-webkit-scrollbar-thumb{background:var(--line-2);border-radius:4px}
+  ::-webkit-scrollbar-thumb:hover{background:var(--orange)}
+
+  .small{font-size:11px;color:var(--muted)}
+  .src-tag{font-size:10px;color:var(--orange);padding:2px 6px;background:var(--bg);border:1px solid var(--orange-dim);font-family:"JetBrains Mono",monospace;letter-spacing:.5px;display:inline-block;margin-left:5px;font-weight:700}
+  .src-tag.real{color:var(--up);border-color:var(--up)}
+  .ts{font-size:11px;color:var(--muted);font-family:"JetBrains Mono",monospace}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div class="logo-mark">CHINANEWS · TERMINAL</div>
+  <div class="tb-tabs">
+    <span class="tb-tab active">홈</span>
+    <span class="tb-tab">중국주식</span>
+    <span class="tb-tab">한국주식</span>
+    <span class="tb-tab">원자재</span>
+    <span class="tb-tab">환율·금리</span>
+    <span class="tb-tab">ETF</span>
+    <span class="tb-tab">옵션</span>
+    <span class="tb-tab">뉴스</span>
+    <span class="tb-tab">공시·SEC·DART</span>
+    <span class="tb-tab">AI</span>
+  </div>
+  <div class="tb-search">
+    <span class="gd">GO&gt;</span>
+    <input type="text" placeholder="종목 / 명령 입력 (예: 600519, BABA, 005930, COPPER)">
+  </div>
+  <div class="tb-side">
+    <span class="conn-status">CONNECTED</span>
+    <span class="item-dim">SHANGHAI</span>
+    <span class="item mono">14:23 CST</span>
+    <span class="item-dim">SEOUL</span>
+    <span class="item mono">15:23 KST</span>
+    <span class="item-dim">NY</span>
+    <span class="item mono">02:23 EST</span>
+  </div>
+</div>
+
+<div class="idx-strip">
+  <div class="idx-cell"><div class="idx-name">CSI 300</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API 필요</span></div></div>
+  <div class="idx-cell"><div class="idx-name">SSE COMP</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API 필요</span></div></div>
+  <div class="idx-cell"><div class="idx-name">SZSE COMP</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API 필요</span></div></div>
+  <div class="idx-cell"><div class="idx-name">CHINEXT</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API 필요</span></div></div>
+  <div class="idx-cell"><div class="idx-name">STAR 50</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API 필요</span></div></div>
+  <div class="idx-cell"><div class="idx-name">HSI 항셍</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API 필요</span></div></div>
+  <div class="idx-cell"><div class="idx-name">HSCEI H지수</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API 필요</span></div></div>
+  <div class="idx-cell"><div class="idx-name">KOSPI</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API 필요</span></div></div>
+  <div class="idx-cell"><div class="idx-name">KOSDAQ</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API 필요</span></div></div>
+  <div class="idx-cell"><div class="idx-name">USD/CNY</div><div class="idx-val mono">6.8650</div><div class="idx-chg up mono">▲ +0.08%</div></div>
+  <div class="idx-cell"><div class="idx-name">CNY/KRW</div><div class="idx-val mono">217.40</div><div class="idx-chg up mono">▲ +0.12%</div></div>
+  <div class="idx-cell"><div class="idx-name">USD/KRW</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API 필요</span></div></div>
+  <div class="idx-cell"><div class="idx-name">WTI</div><div class="idx-val mono">89.67</div><div class="idx-chg up mono">▲ +2.57%</div></div>
+  <div class="idx-cell"><div class="idx-name">BRENT</div><div class="idx-val mono">98.48</div><div class="idx-chg up mono">▲ +3.14%</div></div>
+  <div class="idx-cell"><div class="idx-name">GOLD</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API 필요</span></div></div>
+  <div class="idx-cell"><div class="idx-name">10Y CN</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API 필요</span></div></div>
+  <div class="idx-cell"><div class="idx-name">10Y KR</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API 필요</span></div></div>
+  <div class="idx-cell"><div class="idx-name">BTC</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API 필요</span></div></div>
+</div>
+
+<div class="main">
+
+  <div class="sidebar-l">
+
+    <div class="panel">
+      <div class="panel-head"><div class="panel-title">시장 펄스 <span class="badge-api">API</span></div><span class="panel-actions">⋯</span></div>
+      <div style="font-size:13px;line-height:1.7">
+        <div style="display:flex;justify-content:space-between"><span class="small">중국 시장 상태</span><span class="no-data">데이터 없음</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">상승/하락 비율</span><span class="no-data">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">52주 신고가</span><span class="no-data">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">52주 신저가</span><span class="no-data">—</span></div>
+        <div style="display:flex;justify-content:space-between;border-top:1px solid var(--line-2);padding-top:5px;margin-top:5px"><span class="small">후강통 北上 (¥억)</span><span class="no-data">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">심강통 北上 (¥억)</span><span class="no-data">—</span></div>
+      </div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-head"><div class="panel-title">관심종목 <span class="badge-api">API</span></div><span class="panel-actions">+</span></div>
+      <div class="watchlist">
+        <div class="wl-row"><div><span class="tk">600519</span><span class="nm">귀주모태주</span></div><div class="px no-data">—</div><div class="ch"><span class="api-needed">API</span></div></div>
+        <div class="wl-row"><div><span class="tk">601318</span><span class="nm">중국평안</span></div><div class="px no-data">—</div><div class="ch"><span class="api-needed">API</span></div></div>
+        <div class="wl-row"><div><span class="tk">300750</span><span class="nm">CATL</span></div><div class="px no-data">—</div><div class="ch"><span class="api-needed">API</span></div></div>
+        <div class="wl-row"><div><span class="tk">9988.HK</span><span class="nm">알리바바</span></div><div class="px no-data">—</div><div class="ch"><span class="api-needed">API</span></div></div>
+        <div class="wl-row"><div><span class="tk">0700.HK</span><span class="nm">텐센트</span></div><div class="px no-data">—</div><div class="ch"><span class="api-needed">API</span></div></div>
+        <div class="wl-row"><div><span class="tk">9618.HK</span><span class="nm">징둥</span></div><div class="px no-data">—</div><div class="ch"><span class="api-needed">API</span></div></div>
+        <div class="wl-row"><div><span class="tk">BABA</span><span class="nm">알리바바ADR</span></div><div class="px no-data">—</div><div class="ch"><span class="api-needed">API</span></div></div>
+        <div class="wl-row"><div><span class="tk">PDD</span><span class="nm">핀둬둬</span></div><div class="px no-data">—</div><div class="ch"><span class="api-needed">API</span></div></div>
+        <div class="wl-row"><div><span class="tk">005930</span><span class="nm">삼성전자</span></div><div class="px no-data">—</div><div class="ch"><span class="api-needed">API</span></div></div>
+        <div class="wl-row"><div><span class="tk">000660</span><span class="nm">SK하이닉스</span></div><div class="px no-data">—</div><div class="ch"><span class="api-needed">API</span></div></div>
+      </div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-head"><div class="panel-title">중국 섹터 <span class="badge-api">API</span></div></div>
+      <div class="sector-grid">
+        <div class="sec-cell"><div class="sec-name">금융</div><div class="sec-val no-data">—</div></div>
+        <div class="sec-cell"><div class="sec-name">소비재</div><div class="sec-val no-data">—</div></div>
+        <div class="sec-cell"><div class="sec-name">IT</div><div class="sec-val no-data">—</div></div>
+        <div class="sec-cell"><div class="sec-name">헬스</div><div class="sec-val no-data">—</div></div>
+        <div class="sec-cell"><div class="sec-name">에너지</div><div class="sec-val no-data">—</div></div>
+        <div class="sec-cell"><div class="sec-name">소재</div><div class="sec-val no-data">—</div></div>
+        <div class="sec-cell"><div class="sec-name">산업재</div><div class="sec-val no-data">—</div></div>
+        <div class="sec-cell"><div class="sec-name">통신</div><div class="sec-val no-data">—</div></div>
+        <div class="sec-cell"><div class="sec-name">부동산</div><div class="sec-val no-data">—</div></div>
+      </div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-head"><div class="panel-title">자금 흐름 (28D) <span class="badge-api">API</span></div></div>
+      <div style="font-size:12px;line-height:1.7">
+        <div style="display:flex;justify-content:space-between"><span class="small">외국인 北上</span><span class="no-data">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">내국인 南下</span><span class="no-data">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">ETF 순매수</span><span class="no-data">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">신용잔액 변동</span><span class="no-data">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">융자융권</span><span class="no-data">—</span></div>
+      </div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-head"><div class="panel-title">US 매크로 / FX <span class="badge-api">API</span></div></div>
+      <div style="font-size:12px;line-height:1.7">
+        <div style="display:flex;justify-content:space-between"><span class="small">DXY 달러지수</span><span class="no-data">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">2Y 미국채</span><span class="no-data">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">10Y 미국채</span><span class="no-data">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">Fed Funds Fut</span><span class="no-data">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">VIX</span><span class="no-data">—</span></div>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="center-main">
+
+    <div class="center-header">
+      <div class="ticker-display">600519.SH</div>
+      <div class="ticker-name">귀주모태주 <span class="ex">상해 · 백주</span></div>
+      <div class="ticker-pin">
+        <span class="px-big no-data">—</span>
+        <span class="ch-big"><span class="api-needed">API 필요</span></span>
+      </div>
+    </div>
+
+    <div class="ctab-strip">
+      <div class="ctab active">PRICE / TECH</div>
+      <div class="ctab">FUNDAMENTAL</div>
+      <div class="ctab">EARNINGS</div>
+      <div class="ctab">DIVIDEND</div>
+      <div class="ctab">NEWS</div>
+      <div class="ctab">공시 CSRC</div>
+      <div class="ctab">옵션</div>
+    </div>
+
+    <div class="chart-wrap">
+      <div class="chart-controls">
+        <div class="tf-pills">
+          <span class="tf-pill">1D</span>
+          <span class="tf-pill">5D</span>
+          <span class="tf-pill">1M</span>
+          <span class="tf-pill active">3M</span>
+          <span class="tf-pill">6M</span>
+          <span class="tf-pill">YTD</span>
+          <span class="tf-pill">1Y</span>
+          <span class="tf-pill">5Y</span>
+          <span class="tf-pill">MAX</span>
+        </div>
+        <div style="display:flex;gap:12px;align-items:center;font-size:12px;color:var(--muted)">
+          <span style="cursor:pointer">캔들</span>
+          <span style="cursor:pointer">라인</span>
+          <span style="cursor:pointer;color:var(--orange)">+ 지표</span>
+        </div>
+      </div>
+      <div class="chart-canvas">
+        <div class="chart-grid"></div>
+        <div class="chart-placeholder">
+          <span style="font-size:42px;opacity:.3">📈</span>
+          <div>가격 차트 데이터 없음</div>
+          <div class="api-tag">YAHOO FINANCE / SINA / EASTMONEY API 연동 필요</div>
+          <div style="margin-top:8px;font-size:11px;color:var(--muted)">참고: 무료 API 다수 존재 — 우측 API 문서 참조</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="sub-charts">
+      <div class="sub-chart">
+        <h4>RSI(14) / 스토캐스틱</h4>
+        <div class="indicator-bar">API 필요 · 데이터 없음</div>
+      </div>
+      <div class="sub-chart">
+        <h4>MACD / 거래량</h4>
+        <div class="indicator-bar">API 필요 · 데이터 없음</div>
+      </div>
+    </div>
+
+    <div class="panel" style="background:var(--bg);padding:10px 12px">
+      <div class="panel-head">
+        <div class="panel-title">원자재 가격 (핵심) <span class="badge-live">REAL</span><span class="ts" style="margin-left:6px">최종 갱신: 2026-04-22</span></div>
+        <span class="panel-actions">전체 →</span>
+      </div>
+      <table class="dt">
+        <thead>
+          <tr><th>품목</th><th>섹터</th><th>전일</th><th>당일</th><th>변동률</th><th>출처</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>LLDPE 선형저밀도PE</td><td>고무·플라스틱</td><td>8,321.67</td><td>8,266.67</td><td class="down">▼ 0.66%</td><td><span class="src-tag real">SUNSIRS</span></td></tr>
+          <tr><td>HDPE 고밀도PE</td><td>고무·플라스틱</td><td>10,232.50</td><td>10,195.00</td><td class="down">▼ 0.37%</td><td><span class="src-tag real">SUNSIRS</span></td></tr>
+          <tr><td>LDPE 저밀도PE</td><td>고무·플라스틱</td><td>11,350.00</td><td>11,266.67</td><td class="down">▼ 0.73%</td><td><span class="src-tag real">SUNSIRS</span></td></tr>
+          <tr><td>나프타</td><td>에너지</td><td>7,483.33</td><td>7,366.67</td><td class="down">▼ 1.56%</td><td><span class="src-tag real">SUNSIRS</span></td></tr>
+          <tr><td>부타디엔</td><td>화학</td><td>14,500.00</td><td>13,766.67</td><td class="down">▼ 5.06%</td><td><span class="src-tag real">SUNSIRS</span></td></tr>
+          <tr><td>옥수수</td><td>농산물</td><td>2,328.57</td><td>2,328.57</td><td class="flat">— 0.00%</td><td><span class="src-tag real">SUNSIRS</span></td></tr>
+          <tr><td>금속네오디뮴 Nd</td><td>희토류</td><td>1,070,000</td><td>1,070,000</td><td class="flat">— 0.00%</td><td><span class="src-tag real">SUNSIRS</span></td></tr>
+          <tr><td>산화 디스프로슘</td><td>희토류</td><td>1,405,000</td><td>1,410,000</td><td class="up">▲ 0.36%</td><td><span class="src-tag real">SUNSIRS</span></td></tr>
+          <tr><td>구리 (LME)</td><td>비철금속</td><td class="nd">데이터 없음</td><td class="nd">데이터 없음</td><td><span class="api-needed">LME API</span></td><td><span class="src-tag">PENDING</span></td></tr>
+          <tr><td>철광석 (62% Fe)</td><td>철강</td><td class="nd">데이터 없음</td><td class="nd">데이터 없음</td><td><span class="api-needed">SGX API</span></td><td><span class="src-tag">PENDING</span></td></tr>
+          <tr><td>금 (XAU)</td><td>귀금속</td><td class="nd">데이터 없음</td><td class="nd">데이터 없음</td><td><span class="api-needed">METAL API</span></td><td><span class="src-tag">PENDING</span></td></tr>
+        </tbody>
+      </table>
+      <div style="font-size:11px;color:var(--muted);margin-top:8px;font-style:italic">단위: CNY/톤 (SunSirs) · 출처: SunSirs 생의사 (실측 2026-04-22) · LME·SGX 등 추가 연동 예정</div>
+    </div>
+
+    <div class="panel" style="padding:10px 12px;background:var(--bg)">
+      <div class="panel-head"><div class="panel-title">중국 본토 시가총액 TOP 히트맵 <span class="badge-api">API 필요</span></div></div>
+      <div class="heatmap">
+        <div class="hm-cell hm-no"><div class="hm-name">600519 모태주</div><div class="hm-val">—</div></div>
+        <div class="hm-cell hm-no"><div class="hm-name">601398 공상은행</div><div class="hm-val">—</div></div>
+        <div class="hm-cell hm-no"><div class="hm-name">601288 농업은행</div><div class="hm-val">—</div></div>
+        <div class="hm-cell hm-no"><div class="hm-name">601857 중국석유</div><div class="hm-val">—</div></div>
+        <div class="hm-cell hm-no"><div class="hm-name">601318 평안보험</div><div class="hm-val">—</div></div>
+        <div class="hm-cell hm-no"><div class="hm-name">600036 초상은행</div><div class="hm-val">—</div></div>
+        <div class="hm-cell hm-no"><div class="hm-name">601628 중국인수</div><div class="hm-val">—</div></div>
+        <div class="hm-cell hm-no"><div class="hm-name">300750 CATL</div><div class="hm-val">—</div></div>
+        <div class="hm-cell hm-no"><div class="hm-name">600028 시노펙</div><div class="hm-val">—</div></div>
+        <div class="hm-cell hm-no"><div class="hm-name">601988 중국은행</div><div class="hm-val">—</div></div>
+        <div class="hm-cell hm-no"><div class="hm-name">000858 우량예</div><div class="hm-val">—</div></div>
+        <div class="hm-cell hm-no"><div class="hm-name">600276 형서의약</div><div class="hm-val">—</div></div>
+        <div class="hm-cell hm-no"><div class="hm-name">000333 메이디</div><div class="hm-val">—</div></div>
+        <div class="hm-cell hm-no"><div class="hm-name">600009 상해공항</div><div class="hm-val">—</div></div>
+        <div class="hm-cell hm-no"><div class="hm-name">600030 中信증권</div><div class="hm-val">—</div></div>
+        <div class="hm-cell hm-no"><div class="hm-name">600887 이리실업</div><div class="hm-val">—</div></div>
+        <div class="hm-cell hm-no"><div class="hm-name">000651 거리전기</div><div class="hm-val">—</div></div>
+        <div class="hm-cell hm-no"><div class="hm-name">600585 해라수니</div><div class="hm-val">—</div></div>
+        <div class="hm-cell hm-no"><div class="hm-name">600196 복성의약</div><div class="hm-val">—</div></div>
+        <div class="hm-cell hm-no"><div class="hm-name">601166 흥업은행</div><div class="hm-val">—</div></div>
+        <div class="hm-cell hm-no"><div class="hm-name">000002 만커</div><div class="hm-val">—</div></div>
+      </div>
+      <div style="font-size:11px;color:var(--muted);margin-top:8px;font-style:italic">색상: 적=상승(중국·한국식) · 녹=하락 · 데이터 연동 시 시가총액 비례 셀 크기 적용 예정</div>
+    </div>
+
+    <div class="grid-2col">
+      <div class="panel" style="background:var(--bg);padding:10px 12px">
+        <div class="panel-head"><div class="panel-title">크로스 자산 상관 (90D) <span class="badge-api">API</span></div></div>
+        <table class="dt">
+          <thead><tr><th></th><th>CSI300</th><th>HSI</th><th>USD/CNY</th><th>10Y CN</th><th>구리</th></tr></thead>
+          <tbody>
+            <tr><td>CSI300</td><td>1.00</td><td class="nd">—</td><td class="nd">—</td><td class="nd">—</td><td class="nd">—</td></tr>
+            <tr><td>HSI</td><td class="nd">—</td><td>1.00</td><td class="nd">—</td><td class="nd">—</td><td class="nd">—</td></tr>
+            <tr><td>USD/CNY</td><td class="nd">—</td><td class="nd">—</td><td>1.00</td><td class="nd">—</td><td class="nd">—</td></tr>
+            <tr><td>10Y CN</td><td class="nd">—</td><td class="nd">—</td><td class="nd">—</td><td>1.00</td><td class="nd">—</td></tr>
+            <tr><td>구리</td><td class="nd">—</td><td class="nd">—</td><td class="nd">—</td><td class="nd">—</td><td>1.00</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="panel" style="background:var(--bg);padding:10px 12px">
+        <div class="panel-head"><div class="panel-title">시나리오 분석기 <span class="badge-api">API</span></div></div>
+        <div style="font-size:12px;line-height:1.7">
+          <div style="display:flex;justify-content:space-between"><span class="small">"위안 약세" 시나리오</span><span class="no-data">계산 불가</span></div>
+          <div style="display:flex;justify-content:space-between"><span class="small">"中 부동산 침체 심화"</span><span class="no-data">계산 불가</span></div>
+          <div style="display:flex;justify-content:space-between"><span class="small">"인민은행 추가 완화"</span><span class="no-data">계산 불가</span></div>
+          <div style="display:flex;justify-content:space-between"><span class="small">"美·中 무역 충돌"</span><span class="no-data">계산 불가</span></div>
+          <div style="display:flex;justify-content:space-between"><span class="small">"H주 자금 유출"</span><span class="no-data">계산 불가</span></div>
+        </div>
+        <div style="margin-top:9px;font-size:11px;color:var(--muted)">시나리오는 가격·상관 데이터 연결 후 활성화됩니다.</div>
+      </div>
+    </div>
+
+    <div class="grid-2col">
+      <div class="panel" style="background:var(--bg);padding:10px 12px">
+        <div class="panel-head"><div class="panel-title">중국 시장 뉴스 <span class="badge-api">API</span></div></div>
+        <div style="font-size:12px;color:var(--muted);font-style:italic;text-align:center;padding:24px 0;line-height:1.6">
+          뉴스 데이터 없음<br>
+          <span class="api-needed" style="margin-top:6px;display:inline-block">신화사·재경망·21세기경제 RSS·NewsAPI 연동 필요</span>
+        </div>
+      </div>
+      <div class="panel" style="background:var(--bg);padding:10px 12px">
+        <div class="panel-head"><div class="panel-title">공시 · DART · CSRC · SEC <span class="badge-api">API</span></div></div>
+        <div style="font-size:12px;color:var(--muted);font-style:italic;text-align:center;padding:24px 0;line-height:1.6">
+          공시 데이터 없음<br>
+          <span class="api-needed" style="margin-top:6px;display:inline-block">DART OpenAPI / SEC EDGAR / CSRC 연동 필요</span>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="sidebar-r">
+
+    <div class="panel">
+      <div class="panel-head"><div class="panel-title">주문 · 체결 <span class="badge-api">중개사</span></div></div>
+      <div class="order-block">
+        <div class="row"><span class="k">매수/매도</span><span class="v nd">중개사 연동 필요</span></div>
+        <div class="row"><span class="k">종목</span><span class="v">600519.SH</span></div>
+        <div class="row"><span class="k">수량</span><span class="v nd">—</span></div>
+        <div class="row"><span class="k">주문유형</span><span class="v nd">—</span></div>
+        <div class="row"><span class="k">호가</span><span class="v nd">—</span></div>
+        <div class="row"><span class="k">예상 체결</span><span class="v nd">미연동</span></div>
+      </div>
+      <div style="margin-top:9px;color:var(--orange);font-size:11px;line-height:1.5">⚠ 실거래는 한국투자·미래에셋·키움 등 증권사 API 또는 후강통/A주 계좌 별도 필요</div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-head"><div class="panel-title">옵션 플로우 <span class="badge-api">API</span></div></div>
+      <div style="font-size:12px;line-height:1.7">
+        <div style="display:flex;justify-content:space-between"><span class="small">CALL/PUT 비율</span><span class="no-data">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">최대 매수 콜</span><span class="no-data">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">최대 매수 풋</span><span class="no-data">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">변동성 HV30</span><span class="no-data">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">변동성 IV30</span><span class="no-data">—</span></div>
+        <div style="margin-top:9px;font-size:11px;color:var(--muted)">홍콩 옵션·ADR 옵션·코스피200 옵션 별도 연동</div>
+      </div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-head"><div class="panel-title">실적 · 배당 캘린더 <span class="badge-api">API</span></div></div>
+      <table class="dt" style="font-size:12px">
+        <tbody><tr><td colspan="3" style="color:var(--muted);text-align:center;font-style:italic;font-family:Inter;padding:18px 0">데이터 없음 · 캘린더 API 연결 필요</td></tr></tbody>
+      </table>
+    </div>
+
+    <div class="panel">
+      <div class="panel-head"><div class="panel-title">탑 뉴스 <span class="badge-api">API</span></div></div>
+      <div class="small" style="color:var(--muted);font-style:italic;text-align:center;padding:18px 0;font-size:12px;line-height:1.6">
+        뉴스 데이터 미연결<br>
+        <span style="font-size:11px;display:block;margin-top:6px">신화사·블룸버그·로이터·연합인포맥스 등 RSS 또는 NewsAPI 연결 필요</span>
+      </div>
+    </div>
+
+    <div class="panel ai-panel">
+      <div class="panel-head"><div class="panel-title">AI 트레이드 어시스턴트 <span class="badge-live">GROQ</span></div></div>
+      <div class="ai-message">
+        <div class="label">AI · 시작 안내</div>
+        <div class="text">
+          안녕하세요. 차이나뉴스 터미널에 오신 것을 환영합니다.<br>
+          종목·시장·전략 질문 무엇이든 가능합니다.<br><br>
+          <strong style="color:var(--orange)">현재 모드:</strong> 무료 (Groq 기반 예정)<br>
+          <strong style="color:var(--orange)">제약:</strong> 시장 데이터 일부 미연결. 실시간 답변은 데이터 연동 후 정확도 향상.
+        </div>
+      </div>
+      <div class="ai-input">
+        <input type="text" placeholder="질문 입력... (예: 600519 가격 추세)" id="ai-q">
+        <button onclick="aiSend()">전송</button>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<div class="footbar">
+  <div class="fb-left">
+    <span><span class="key">F1</span> 도움말</span>
+    <span><span class="key">F2</span> 종목검색</span>
+    <span><span class="key">F3</span> 차트</span>
+    <span><span class="key">F4</span> 뉴스</span>
+    <span><span class="key">F5</span> 공시</span>
+    <span><span class="key">F6</span> 원자재</span>
+    <span><span class="key">F7</span> 환율</span>
+    <span><span class="key">F8</span> AI</span>
+  </div>
+  <div class="fb-right">
+    <span class="lic-warn">PROTOTYPE v0.2</span>
+    <span>chinanews.kr</span>
+    <span>2026-04-23 14:23 KST</span>
+  </div>
+</div>
+
+<div style="padding:18px 20px;background:var(--bg-2);border-top:1px solid var(--line);font-size:12px;color:var(--muted)">
+  <strong style="color:var(--orange);letter-spacing:1.5px;font-size:13px">데이터 소스 범례</strong>
+  <div style="display:flex;gap:22px;margin-top:11px;flex-wrap:wrap;align-items:center">
+    <span><span class="src-tag real">REAL</span> 실측 데이터 (출처 명시)</span>
+    <span><span class="api-needed">API 필요</span> 외부 API 연결 시 채워짐</span>
+    <span><span class="src-tag">PENDING</span> 다음 페이즈 연동 예정</span>
+    <span class="no-data">— 데이터 없음 · 가짜 숫자 사용하지 않음</span>
+  </div>
+  <div style="margin-top:12px;color:var(--muted);line-height:1.7">
+    <strong style="color:var(--text)">투명성 원칙:</strong>
+    본 단말기는 데이터가 없는 위치에 임의의 숫자를 채워 넣지 않습니다.
+    <strong style="color:var(--orange)">"데이터 없음" / "API 필요"</strong> 명시 후 추후 API 연동을 통해서만 채워집니다.
+    실제 의사결정은 반드시 공식 출처(거래소·관계기관)에서 재확인 후 진행하시기 바랍니다.
+  </div>
+  <div style="margin-top:9px;line-height:1.7">
+    <strong style="color:var(--text)">현재 실측 데이터:</strong>
+    SunSirs(생의사) 2026-04-22 현물가격 11개 품목 · 환율 일부 · 그 외 모두 API 미연결
+  </div>
+</div>
+
+<script>
+function aiSend(){
+  const q = document.getElementById('ai-q');
+  if(!q.value) return;
+  alert('AI 어시스턴트는 백엔드 연결 후 활성화됩니다.\n질문: "' + q.value + '"\n\n현재는 프로토타입 UI 단계입니다.');
+  q.value = '';
+}
+document.getElementById('ai-q').addEventListener('keypress', e=>{
+  if(e.key==='Enter') aiSend();
+});
+
+document.querySelectorAll('.tb-tab').forEach(t=>{
+  t.addEventListener('click', ()=>{
+    document.querySelectorAll('.tb-tab').forEach(x=>x.classList.remove('active'));
+    t.classList.add('active');
+  });
+});
+document.querySelectorAll('.ctab').forEach(t=>{
+  t.addEventListener('click', ()=>{
+    document.querySelectorAll('.ctab').forEach(x=>x.classList.remove('active'));
+    t.classList.add('active');
+  });
+});
+document.querySelectorAll('.tf-pill').forEach(t=>{
+  t.addEventListener('click', ()=>{
+    document.querySelectorAll('.tf-pill').forEach(x=>x.classList.remove('active'));
+    t.classList.add('active');
+  });
+});
+</script>
+</body>
+</html>

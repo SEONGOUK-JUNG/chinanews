@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>차이나 브릿지 레이더 편집국 조직도 v1.0 (MVP 17명)</title>
+<style>
+  :root{
+    --bg:#0a1628; --bg-2:#0f1e36; --panel:#142a4a; --panel-2:#1a3359;
+    --line:#22406b; --text:#e8eef7; --muted:#8fa2c2; --gold:#d4a857;
+    --gold-2:#e8c078; --accent:#4a8fd4; --accent-2:#6fa8e0;
+    --desk:#d4a857; --gather:#4a8fd4; --trans:#b08dd4; --analyst:#5ac8a5;
+    --publish:#e67e4f; --qa:#e04848; --human:#e8c078;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:-apple-system,"Malgun Gothic","Noto Sans KR",sans-serif;background:var(--bg);color:var(--text);line-height:1.6}
+  .container{max-width:1400px;margin:0 auto;padding:0 24px}
+
+  header{padding:48px 0 32px;border-bottom:1px solid var(--line);background:linear-gradient(180deg,var(--bg-2) 0%,var(--bg) 100%)}
+  .header-top{display:flex;justify-content:space-between;align-items:flex-end;flex-wrap:wrap;gap:20px}
+  h1{font-size:36px;font-weight:800;letter-spacing:-.5px}
+  h1 .accent{background:linear-gradient(135deg,var(--gold) 0%,var(--gold-2) 100%);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+  .subtitle{font-size:15px;color:var(--muted);margin-top:8px;max-width:720px}
+  .badge{background:var(--gold);color:#000;padding:6px 14px;border-radius:4px;font-size:12px;font-weight:700;letter-spacing:1px;text-transform:uppercase}
+
+  .meta-row{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:28px}
+  .meta-box{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:16px}
+  .meta-box .k{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:1px}
+  .meta-box .v{font-size:22px;font-weight:700;color:var(--gold);font-family:"SF Mono",monospace;margin-top:4px}
+
+  section{padding:48px 0;border-bottom:1px solid var(--line)}
+  h2{font-size:26px;font-weight:700;margin-bottom:20px;letter-spacing:-.3px}
+  h2 .num{color:var(--gold);font-family:"SF Mono",monospace;font-size:16px;margin-right:10px;font-weight:500}
+  h3{font-size:17px;font-weight:700;margin-bottom:14px;color:var(--gold)}
+
+  /* ===== PRINCIPLES ===== */
+  .principles{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px;margin-top:12px}
+  .principle{background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--gold);border-radius:6px;padding:16px}
+  .principle .n{font-family:"SF Mono",monospace;color:var(--gold);font-size:12px;font-weight:700;margin-bottom:8px}
+  .principle h4{font-size:14px;font-weight:700;margin-bottom:6px}
+  .principle p{font-size:12px;color:var(--muted);line-height:1.6}
+
+  /* ===== ORG CHART ===== */
+  .org-legend{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:24px}
+  .legend-item{display:flex;align-items:center;gap:6px;font-size:12px;color:var(--muted)}
+  .legend-dot{width:10px;height:10px;border-radius:50%}
+  .dot-human{background:var(--human)}
+  .dot-desk{background:var(--desk)}
+  .dot-gather{background:var(--gather)}
+  .dot-trans{background:var(--trans)}
+  .dot-analyst{background:var(--analyst)}
+  .dot-publish{background:var(--publish)}
+  .dot-qa{background:var(--qa)}
+
+  .org-chart{display:flex;flex-direction:column;align-items:center;gap:30px;padding:20px 0}
+  .tier{display:flex;justify-content:center;gap:14px;flex-wrap:wrap;width:100%;position:relative}
+  .tier::before{content:attr(data-label);position:absolute;left:0;top:50%;transform:translateY(-50%);font-size:10px;color:var(--muted);letter-spacing:2px;text-transform:uppercase;writing-mode:vertical-rl;opacity:.6}
+
+  .node{background:var(--panel);border:2px solid var(--line);border-radius:10px;padding:14px;min-width:180px;max-width:200px;text-align:center;cursor:pointer;transition:all .2s;position:relative}
+  .node:hover{transform:translateY(-3px);box-shadow:0 8px 24px rgba(0,0,0,.4)}
+  .node .role-id{font-family:"SF Mono",monospace;font-size:10px;color:var(--muted);margin-bottom:6px;letter-spacing:1px}
+  .node .role-title{font-size:13px;font-weight:700;margin-bottom:4px;line-height:1.3}
+  .node .role-dept{font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:.5px}
+  .node.human{border-color:var(--human);background:linear-gradient(135deg,rgba(232,192,120,.15) 0%,var(--panel) 100%)}
+  .node.desk{border-color:var(--desk)}
+  .node.gather{border-color:var(--gather)}
+  .node.trans{border-color:var(--trans)}
+  .node.analyst{border-color:var(--analyst)}
+  .node.publish{border-color:var(--publish)}
+  .node.qa{border-color:var(--qa)}
+  .node .avatar{width:40px;height:40px;border-radius:50%;background:var(--bg-2);margin:0 auto 10px;display:flex;align-items:center;justify-content:center;font-size:18px;border:2px solid var(--line)}
+  .node.human .avatar{background:var(--human);color:#000}
+  .node.desk .avatar{background:var(--desk);color:#000}
+  .node.gather .avatar{background:var(--gather)}
+  .node.trans .avatar{background:var(--trans)}
+  .node.analyst .avatar{background:var(--analyst);color:#000}
+  .node.publish .avatar{background:var(--publish)}
+  .node.qa .avatar{background:var(--qa)}
+
+  /* ===== JOB DESCRIPTIONS ===== */
+  .jd-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:16px;margin-top:24px}
+  .jd-card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:22px;position:relative;overflow:hidden}
+  .jd-card::before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px}
+  .jd-card.desk::before{background:var(--desk)}
+  .jd-card.gather::before{background:var(--gather)}
+  .jd-card.trans::before{background:var(--trans)}
+  .jd-card.analyst::before{background:var(--analyst)}
+  .jd-card.publish::before{background:var(--publish)}
+  .jd-card.qa::before{background:var(--qa)}
+  .jd-head{display:flex;align-items:center;gap:12px;margin-bottom:14px}
+  .jd-avatar{width:48px;height:48px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:22px;font-weight:700;flex-shrink:0}
+  .jd-card.desk .jd-avatar{background:var(--desk);color:#000}
+  .jd-card.gather .jd-avatar{background:var(--gather)}
+  .jd-card.trans .jd-avatar{background:var(--trans)}
+  .jd-card.analyst .jd-avatar{background:var(--analyst);color:#000}
+  .jd-card.publish .jd-avatar{background:var(--publish)}
+  .jd-card.qa .jd-avatar{background:var(--qa)}
+  .jd-meta{flex:1}
+  .jd-id{font-family:"SF Mono",monospace;font-size:10px;color:var(--muted);letter-spacing:1px}
+  .jd-title{font-size:15px;font-weight:700;margin-top:2px}
+  .jd-dept{font-size:11px;color:var(--gold);text-transform:uppercase;letter-spacing:1px;margin-top:2px}
+  .jd-body h5{font-size:11px;font-weight:700;color:var(--gold);text-transform:uppercase;letter-spacing:1px;margin:12px 0 6px;padding-top:12px;border-top:1px solid var(--line)}
+  .jd-body h5:first-child{padding-top:0;border-top:none;margin-top:0}
+  .jd-body p,.jd-body li{font-size:12.5px;color:var(--muted);line-height:1.65}
+  .jd-body ul{list-style:none;padding:0}
+  .jd-body li{padding:2px 0 2px 14px;position:relative}
+  .jd-body li::before{content:"▸";position:absolute;left:0;color:var(--gold);font-size:10px}
+  .jd-tools{display:flex;flex-wrap:wrap;gap:4px;margin-top:6px}
+  .jd-tool{font-size:10px;padding:2px 8px;background:var(--bg-2);color:var(--muted);border-radius:3px;border:1px solid var(--line);font-family:"SF Mono",monospace}
+
+  /* ===== WORKFLOW ===== */
+  .workflow{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px;margin-top:20px}
+  .wf-stage{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:16px;position:relative}
+  .wf-time{font-family:"SF Mono",monospace;font-size:13px;color:var(--gold);font-weight:700;margin-bottom:4px}
+  .wf-stage h5{font-size:13px;font-weight:700;margin-bottom:8px}
+  .wf-stage p{font-size:11.5px;color:var(--muted);margin-bottom:8px}
+  .wf-roles{display:flex;flex-wrap:wrap;gap:4px}
+  .wf-role{font-size:10px;padding:2px 7px;border-radius:3px;font-family:"SF Mono",monospace;font-weight:600}
+  .wf-role.desk{background:rgba(212,168,87,.15);color:var(--desk);border:1px solid var(--desk)}
+  .wf-role.gather{background:rgba(74,143,212,.15);color:var(--gather);border:1px solid var(--gather)}
+  .wf-role.trans{background:rgba(176,141,212,.15);color:var(--trans);border:1px solid var(--trans)}
+  .wf-role.analyst{background:rgba(90,200,165,.15);color:var(--analyst);border:1px solid var(--analyst)}
+  .wf-role.publish{background:rgba(230,126,79,.15);color:var(--publish);border:1px solid var(--publish)}
+  .wf-role.qa{background:rgba(224,72,72,.15);color:var(--qa);border:1px solid var(--qa)}
+
+  /* ===== IMPL ===== */
+  .impl-table{width:100%;border-collapse:collapse;margin-top:16px;background:var(--panel);border:1px solid var(--line);border-radius:8px;overflow:hidden}
+  .impl-table th{background:var(--bg-2);color:var(--gold);padding:12px;text-align:left;font-size:12px;text-transform:uppercase;letter-spacing:1px;border-bottom:1px solid var(--line)}
+  .impl-table td{padding:10px 12px;border-bottom:1px solid var(--line);font-size:12.5px;vertical-align:top}
+  .impl-table td:first-child{color:var(--gold);font-weight:600;font-family:"SF Mono",monospace;font-size:11px}
+  .impl-table tr:last-child td{border-bottom:none}
+
+  /* ===== EXPANSION ===== */
+  .expansion{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px;margin-top:16px}
+  .exp-phase{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:6px;padding:18px}
+  .exp-phase .stage{font-family:"SF Mono",monospace;font-size:11px;color:var(--gold);letter-spacing:2px;text-transform:uppercase;margin-bottom:4px}
+  .exp-phase h4{font-size:18px;font-weight:700;margin-bottom:10px}
+  .exp-phase .scale{font-size:13px;color:var(--muted);margin-bottom:12px}
+  .exp-phase ul{list-style:none}
+  .exp-phase li{font-size:12px;color:var(--muted);padding:3px 0 3px 14px;position:relative}
+  .exp-phase li::before{content:"→";position:absolute;left:0;color:var(--gold)}
+
+  .disclaimer{background:rgba(224,72,72,.08);border:1px solid rgba(224,72,72,.2);border-radius:6px;padding:14px 18px;font-size:12px;color:var(--muted);margin:24px 0;line-height:1.7}
+  .disclaimer strong{color:#ff9090}
+
+  footer{padding:32px 0;text-align:center;font-size:12px;color:var(--muted);border-top:1px solid var(--line)}
+
+  @media(max-width:760px){
+    .meta-row{grid-template-columns:1fr 1fr}
+    h1{font-size:26px}
+    .node{min-width:140px}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <div class="header-top">
+      <div>
+        <span class="badge">MVP 17명 · 1기</span>
+        <h1 style="margin-top:14px">차이나 브릿지 레이더 <span class="accent">편집국 조직도</span></h1>
+        <p class="subtitle">전세계 독자를 위한 중국 인텔리전스 미디어 — 뉴스룸 기능별 조직 v1.0</p>
+      </div>
+      <div style="text-align:right;font-size:12px;color:var(--muted)">
+        <div>운영자: <strong style="color:var(--human)">정성욱 발행인 (인간 1명)</strong></div>
+        <div>AI 직원: <strong style="color:var(--gold)">17명</strong></div>
+        <div>발행주기: 일간 (Daily)</div>
+        <div style="margin-top:6px">문서 기준일: 2026-04-23</div>
+      </div>
+    </div>
+    <div class="meta-row">
+      <div class="meta-box"><div class="k">조직 형태</div><div class="v">뉴스룸</div></div>
+      <div class="meta-box"><div class="k">계층 수</div><div class="v">6 tier</div></div>
+      <div class="meta-box"><div class="k">커버 언어</div><div class="v">4개</div></div>
+      <div class="meta-box"><div class="k">커버 소스</div><div class="v">4 카테고리</div></div>
+    </div>
+  </div>
+</header>
+
+<!-- ===== 편집 원칙 ===== -->
+<section>
+  <div class="container">
+    <h2><span class="num">00</span>편집 원칙 (Editorial Charter)</h2>
+    <p style="color:var(--muted);font-size:14px;max-width:800px">발행인(대표님)의 답변원칙을 조직 전체의 편집 헌장으로 공식 채택. 전 직원이 이 원칙 위반 시 즉시 QA팀이 개입.</p>
+    <div class="principles">
+      <div class="principle">
+        <div class="n">01</div>
+        <h4>근거 없는 단정 금지</h4>
+        <p>"~입니다", "~이 정확합니다" 표현은 출처 확인된 경우에만 허용. 애매한 주장은 즉시 반려.</p>
+      </div>
+      <div class="principle">
+        <div class="n">02</div>
+        <h4>출처 3분류 필수</h4>
+        <p>모든 사실 정보는 (1) 검증된 문서·검색, (2) 현장 발언, (3) 추론·가정 중 하나로 명시.</p>
+      </div>
+      <div class="principle">
+        <div class="n">03</div>
+        <h4>순환 논리 차단</h4>
+        <p>발행인·독자 발언을 "시장 진단"으로 재포장 금지. 발언은 "누구의 발언"으로만 인용.</p>
+      </div>
+      <div class="principle">
+        <div class="n">04</div>
+        <h4>확인 불가 명시</h4>
+        <p>모르는 것은 추측으로 메우지 않고 "현재 확인 범위 밖" 또는 "추가 확인 필요"로 명시.</p>
+      </div>
+      <div class="principle">
+        <div class="n">05</div>
+        <h4>의사결정 정보 신중</h4>
+        <p>가격·전망·경쟁 등 의사결정에 영향 주는 내용은 근거 약하면 보도 보류, 추가 취재 요청.</p>
+      </div>
+      <div class="principle">
+        <div class="n">06</div>
+        <h4>오류 인정·정정</h4>
+        <p>오류 지적 시 변명 없이 즉시 인정·정정. 정정 보도는 원문 상단 명시.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== 조직도 ===== -->
+<section>
+  <div class="container">
+    <h2><span class="num">01</span>조직도 (6계층)</h2>
+    <div class="org-legend">
+      <div class="legend-item"><span class="legend-dot dot-human"></span>발행인 (인간)</div>
+      <div class="legend-item"><span class="legend-dot dot-desk"></span>데스크</div>
+      <div class="legend-item"><span class="legend-dot dot-gather"></span>취재</div>
+      <div class="legend-item"><span class="legend-dot dot-trans"></span>번역</div>
+      <div class="legend-item"><span class="legend-dot dot-analyst"></span>분석·리포팅</div>
+      <div class="legend-item"><span class="legend-dot dot-publish"></span>편집·발행</div>
+      <div class="legend-item"><span class="legend-dot dot-qa"></span>품질관리</div>
+    </div>
+
+    <div class="org-chart">
+      <!-- Tier 0 -->
+      <div class="tier" data-label="Tier 0 · 경영">
+        <div class="node human">
+          <div class="avatar">👤</div>
+          <div class="role-id">HUMAN</div>
+          <div class="role-title">발행인 · 편집주간</div>
+          <div class="role-dept">정성욱 대표</div>
+        </div>
+      </div>
+
+      <!-- Tier 1 -->
+      <div class="tier" data-label="Tier 1 · 데스크">
+        <div class="node desk">
+          <div class="avatar">📋</div>
+          <div class="role-id">D-01</div>
+          <div class="role-title">데스크 에디터</div>
+          <div class="role-dept">Chief of Staff</div>
+        </div>
+      </div>
+
+      <!-- Tier 2 -->
+      <div class="tier" data-label="Tier 2 · 취재">
+        <div class="node gather"><div class="avatar">🇨🇳</div><div class="role-id">G-02</div><div class="role-title">중국 관영매체</div><div class="role-dept">신화·인민·국가통계국</div></div>
+        <div class="node gather"><div class="avatar">📰</div><div class="role-id">G-03</div><div class="role-title">중국 산업매체</div><div class="role-dept">재경망·21세기경제</div></div>
+        <div class="node gather"><div class="avatar">📊</div><div class="role-id">G-04</div><div class="role-title">데이터 크롤러</div><div class="role-dept">SunSirs·100ppi·SMM</div></div>
+        <div class="node gather"><div class="avatar">🌐</div><div class="role-id">G-05</div><div class="role-title">글로벌 매체</div><div class="role-dept">Bloomberg·Reuters</div></div>
+        <div class="node gather"><div class="avatar">🇰🇷</div><div class="role-id">G-06</div><div class="role-title">한국 매체</div><div class="role-dept">한경·매경·연합</div></div>
+      </div>
+
+      <!-- Tier 3 -->
+      <div class="tier" data-label="Tier 3 · 번역">
+        <div class="node trans"><div class="avatar">中</div><div class="role-id">T-07</div><div class="role-title">중한 번역</div><div class="role-dept">中文 → 한국어</div></div>
+        <div class="node trans"><div class="avatar">EN</div><div class="role-id">T-08</div><div class="role-title">영/일 한 번역</div><div class="role-dept">EN·JP → 한국어</div></div>
+      </div>
+
+      <!-- Tier 4 -->
+      <div class="tier" data-label="Tier 4 · 분석">
+        <div class="node analyst"><div class="avatar">⚗️</div><div class="role-id">A-09</div><div class="role-title">석유화학 기자</div><div class="role-dept">PE·나프타·BTX</div></div>
+        <div class="node analyst"><div class="avatar">💎</div><div class="role-id">A-10</div><div class="role-title">희토류·첨단소재</div><div class="role-dept">Nd·Dy·하프늄</div></div>
+        <div class="node analyst"><div class="avatar">🌾</div><div class="role-id">A-11</div><div class="role-title">식량·농산물</div><div class="role-dept">쌀·옥수수·TRQ</div></div>
+        <div class="node analyst"><div class="avatar">⚖️</div><div class="role-id">A-12</div><div class="role-title">정책·규제</div><div class="role-dept">한·중·글로벌</div></div>
+      </div>
+
+      <!-- Tier 5 -->
+      <div class="tier" data-label="Tier 5 · 발행">
+        <div class="node publish"><div class="avatar">✏️</div><div class="role-id">P-13</div><div class="role-title">카피 에디터</div><div class="role-dept">교열·감수</div></div>
+        <div class="node publish"><div class="avatar">🖥️</div><div class="role-id">P-14</div><div class="role-title">웹 퍼블리셔</div><div class="role-dept">사이트 업로드</div></div>
+        <div class="node publish"><div class="avatar">📧</div><div class="role-id">P-15</div><div class="role-title">뉴스레터·SNS</div><div class="role-dept">배포 채널</div></div>
+      </div>
+
+      <!-- Tier 6 -->
+      <div class="tier" data-label="Tier 6 · QA">
+        <div class="node qa"><div class="avatar">🔍</div><div class="role-id">Q-16</div><div class="role-title">팩트체커</div><div class="role-dept">수치·출처 검증</div></div>
+        <div class="node qa"><div class="avatar">🛡️</div><div class="role-id">Q-17</div><div class="role-title">컴플라이언스</div><div class="role-dept">편집원칙 감시</div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== JOB DESCRIPTIONS ===== -->
+<section>
+  <div class="container">
+    <h2><span class="num">02</span>포지션별 직무 기술서 (JD)</h2>
+
+    <h3 style="margin-top:24px">Tier 1 · 데스크 (1명)</h3>
+    <div class="jd-grid">
+      <div class="jd-card desk">
+        <div class="jd-head">
+          <div class="jd-avatar">📋</div>
+          <div class="jd-meta">
+            <div class="jd-id">D-01 · DESK EDITOR</div>
+            <div class="jd-title">데스크 에디터 (편집부국장)</div>
+            <div class="jd-dept">DESK · Chief of Staff</div>
+          </div>
+        </div>
+        <div class="jd-body">
+          <h5>핵심 업무</h5>
+          <ul>
+            <li>매일 05:00 아침 회의 소집, 당일 취재 방향 결정</li>
+            <li>취재부 5명에게 키워드·관심 테마 할당</li>
+            <li>14:00 중간 데스크 회의 (속보 vs 심층 분담)</li>
+            <li>17:00 최종 라인업 확정, 발행인 결재 요청</li>
+          </ul>
+          <h5>산출물</h5>
+          <p>일일 기사 리스트(아침), 속보 우선순위, 발행 라인업</p>
+          <h5>보고 라인</h5>
+          <p>↑ 발행인 / ↓ 전 부서</p>
+        </div>
+      </div>
+    </div>
+
+    <h3 style="margin-top:28px">Tier 2 · 취재부 (5명)</h3>
+    <div class="jd-grid">
+      <div class="jd-card gather">
+        <div class="jd-head"><div class="jd-avatar">🇨🇳</div><div class="jd-meta"><div class="jd-id">G-02 · GATHERER</div><div class="jd-title">중국 관영매체 담당</div><div class="jd-dept">GATHER · 공식 입장 추적</div></div></div>
+        <div class="jd-body">
+          <h5>커버 소스</h5>
+          <p>新华社, 人民日报, 中央电视台, 国家统计局, 人民银行, 工信部, 商务部 공식 발표</p>
+          <h5>핵심 업무</h5>
+          <ul><li>정책 발표·거시지표 실시간 수집</li><li>공식 발표문 원문 보존</li><li>중국 정부 톤·뉘앙스 기록</li></ul>
+          <h5>KPI</h5>
+          <p>수집 건수, 반영 시차 (발표 → 우리 사이트), 오보율</p>
+        </div>
+      </div>
+
+      <div class="jd-card gather">
+        <div class="jd-head"><div class="jd-avatar">📰</div><div class="jd-meta"><div class="jd-id">G-03 · GATHERER</div><div class="jd-title">중국 산업·경제매체 담당</div><div class="jd-dept">GATHER · 시장 시각</div></div></div>
+        <div class="jd-body">
+          <h5>커버 소스</h5>
+          <p>财经网, 21世纪经济报道, 第一财经, 界面新闻, 澎湃新闻, 经济观察报</p>
+          <h5>핵심 업무</h5>
+          <ul><li>기업·산업 동향 중심 취재</li><li>중국 내 애널리스트 리포트 추적</li><li>업계 내부자 관점 수집</li></ul>
+          <h5>KPI</h5>
+          <p>단독·심층 기사 발굴 건수, 관영매체와 교차 소스 비율</p>
+        </div>
+      </div>
+
+      <div class="jd-card gather">
+        <div class="jd-head"><div class="jd-avatar">📊</div><div class="jd-meta"><div class="jd-id">G-04 · GATHERER</div><div class="jd-title">데이터 크롤러</div><div class="jd-dept">GATHER · 숫자 추적</div></div></div>
+        <div class="jd-body">
+          <h5>커버 소스</h5>
+          <p>SunSirs (sunsirs.com), 100ppi.com, 上海有色网(SMM), Wind, 人民币中间价, CME 야간 선물</p>
+          <h5>핵심 업무</h5>
+          <ul><li>17개 핵심 품목 매일 가격 스크레이핑</li><li>환율·금리·유가 거시지표 수집</li><li>구조화된 JSON/CSV 생성</li></ul>
+          <h5>사용 도구</h5>
+          <div class="jd-tools"><span class="jd-tool">Python</span><span class="jd-tool">BeautifulSoup</span><span class="jd-tool">Playwright</span><span class="jd-tool">cron</span></div>
+        </div>
+      </div>
+
+      <div class="jd-card gather">
+        <div class="jd-head"><div class="jd-avatar">🌐</div><div class="jd-meta"><div class="jd-id">G-05 · GATHERER</div><div class="jd-title">글로벌 매체 담당</div><div class="jd-dept">GATHER · 외부 시각</div></div></div>
+        <div class="jd-body">
+          <h5>커버 소스</h5>
+          <p>Bloomberg, Reuters, Nikkei Asia, Financial Times, Wall Street Journal, South China Morning Post</p>
+          <h5>핵심 업무</h5>
+          <ul><li>중국 관련 글로벌 보도 수집</li><li>투자자·서방 시각 정리</li><li>중국 보도와 관점 차이 기록</li></ul>
+          <h5>KPI</h5>
+          <p>관점 차이 발굴 건수, 인용·언급 추적</p>
+        </div>
+      </div>
+
+      <div class="jd-card gather">
+        <div class="jd-head"><div class="jd-avatar">🇰🇷</div><div class="jd-meta"><div class="jd-id">G-06 · GATHERER</div><div class="jd-title">한국 매체 담당</div><div class="jd-dept">GATHER · 국내 맥락</div></div></div>
+        <div class="jd-body">
+          <h5>커버 소스</h5>
+          <p>한국경제, 매일경제, 전자신문, 연합인포맥스, 이데일리, 아시아경제, 산업통상자원부·환경부 고시</p>
+          <h5>핵심 업무</h5>
+          <ul><li>한국 업계·정책 동향 수집</li><li>TRQ·ESG 규제 추적</li><li>경쟁사 동향 파악</li></ul>
+          <h5>KPI</h5>
+          <p>정책 선제 포착률, 브릿지그룹 사업 직결 뉴스 커버리지</p>
+        </div>
+      </div>
+    </div>
+
+    <h3 style="margin-top:28px">Tier 3 · 번역팀 (2명)</h3>
+    <div class="jd-grid">
+      <div class="jd-card trans">
+        <div class="jd-head"><div class="jd-avatar">中</div><div class="jd-meta"><div class="jd-id">T-07 · TRANSLATOR</div><div class="jd-title">중한 번역가</div><div class="jd-dept">TRANSLATE · 中文 → 한국어</div></div></div>
+        <div class="jd-body">
+          <h5>핵심 업무</h5>
+          <ul><li>G-02·G-03·G-04 원문 1차 번역</li><li>정책 용어·산업 용어 정확 번역</li><li>중국식 표현의 한국 독자 이해 조정</li></ul>
+          <h5>편집 원칙</h5>
+          <p>직역·의역 비율 명시. 원문 핵심 문구는 원어 병기 (예: "共同富裕(공동부유)"). 중국 정부 수사는 그대로 전달하되 별도 해설 가능.</p>
+        </div>
+      </div>
+      <div class="jd-card trans">
+        <div class="jd-head"><div class="jd-avatar">EN</div><div class="jd-meta"><div class="jd-id">T-08 · TRANSLATOR</div><div class="jd-title">영한·일한 번역가</div><div class="jd-dept">TRANSLATE · EN/JP → 한국어</div></div></div>
+        <div class="jd-body">
+          <h5>핵심 업무</h5>
+          <ul><li>G-05 글로벌 매체 원문 번역</li><li>금융·무역 용어 정확 번역</li><li>Nikkei Asia 등 일본어 기사 처리</li></ul>
+          <h5>편집 원칙</h5>
+          <p>인명·기관명은 영문 병기. 경제 용어는 한국 관례 준수 (예: quantitative easing → 양적완화).</p>
+        </div>
+      </div>
+    </div>
+
+    <h3 style="margin-top:28px">Tier 4 · 분석·리포팅팀 (4명) — 브릿지 사업 직결</h3>
+    <div class="jd-grid">
+      <div class="jd-card analyst">
+        <div class="jd-head"><div class="jd-avatar">⚗️</div><div class="jd-meta"><div class="jd-id">A-09 · ANALYST</div><div class="jd-title">석유화학·플라스틱 기자</div><div class="jd-dept">ANALYST · 에코브릿지 직결</div></div></div>
+        <div class="jd-body">
+          <h5>담당 영역</h5>
+          <p>LLDPE/HDPE/LDPE, 나프타, BTX(톨루엔·벤젠·자일렌), 부타디엔, PVC, PP, PBAT/PLA</p>
+          <h5>핵심 업무</h5>
+          <ul><li>PE 3종 일간 가격 해설 (상·하류 원료 포함)</li><li>중국→한국 수입 경제성 분석</li><li>중동·미국 사태 영향 분석</li></ul>
+          <h5>금지사항</h5>
+          <p>구체 수출가·CFR 가격은 검증 없이 단정 금지. 가설은 "~로 추정됨" 표기.</p>
+        </div>
+      </div>
+
+      <div class="jd-card analyst">
+        <div class="jd-head"><div class="jd-avatar">💎</div><div class="jd-meta"><div class="jd-id">A-10 · ANALYST</div><div class="jd-title">희토류·첨단소재 전문기자</div><div class="jd-dept">ANALYST · 에이브릿지 직결</div></div></div>
+        <div class="jd-body">
+          <h5>담당 영역</h5>
+          <p>네오디뮴(Nd), 프라세오디뮴(Pr), 디스프로슘(Dy), 하프늄(Hf), 갈륨·게르마늄, 영구자석·반도체·항공우주 원료</p>
+          <h5>핵심 업무</h5>
+          <ul><li>희토류 9종 가격 동향</li><li>중국 수출통제 영향 모니터링</li><li>하프늄 등 미수록 품목은 별도 루트 조사 (중국 유색금속공업협회 등)</li></ul>
+          <h5>금지사항</h5>
+          <p>SunSirs 미수록 품목(하프늄 등)에 대해 추정 가격 단정 금지. "확인 범위 밖" 명시.</p>
+        </div>
+      </div>
+
+      <div class="jd-card analyst">
+        <div class="jd-head"><div class="jd-avatar">🌾</div><div class="jd-meta"><div class="jd-id">A-11 · ANALYST</div><div class="jd-title">식량·농산물 전문기자</div><div class="jd-dept">ANALYST · 에이브릿지 직결</div></div></div>
+        <div class="jd-body">
+          <h5>담당 영역</h5>
+          <p>쌀, 옥수수, 대두, 한국 TRQ, 중국 식량비축정책, 북대황농간그룹 등 중국 국영 농업기업</p>
+          <h5>핵심 업무</h5>
+          <ul><li>한·중 농산물 교역 동향</li><li>TRQ 저율관세 물량·가격 분석</li><li>중국 식량 정책 해석</li></ul>
+          <h5>금지사항</h5>
+          <p>중국 쌀 공개가격 부재 명시. 추정 시 근거·가정 모두 공개.</p>
+        </div>
+      </div>
+
+      <div class="jd-card analyst">
+        <div class="jd-head"><div class="jd-avatar">⚖️</div><div class="jd-meta"><div class="jd-id">A-12 · ANALYST</div><div class="jd-title">정책·규제 전문기자</div><div class="jd-dept">ANALYST · 거시 영향</div></div></div>
+        <div class="jd-body">
+          <h5>담당 영역</h5>
+          <p>중국 수출통제·산업정책, 한국 환경·자원 규제, EU CBAM, 미국 IRA/CHIPS, WTO·FTA</p>
+          <h5>핵심 업무</h5>
+          <ul><li>정책 발표 → 사업 영향 해석</li><li>한·중·글로벌 3축 정책 타임라인 관리</li><li>타임라인 사이트 섹션 업데이트</li></ul>
+          <h5>금지사항</h5>
+          <p>미확정 정책을 확정된 것처럼 서술 금지. "검토 중" / "시행 예정" / "시행 중" 명확 구분.</p>
+        </div>
+      </div>
+    </div>
+
+    <h3 style="margin-top:28px">Tier 5 · 편집·발행팀 (3명)</h3>
+    <div class="jd-grid">
+      <div class="jd-card publish">
+        <div class="jd-head"><div class="jd-avatar">✏️</div><div class="jd-meta"><div class="jd-id">P-13 · EDITOR</div><div class="jd-title">카피 에디터</div><div class="jd-dept">PUBLISH · 문장 감수</div></div></div>
+        <div class="jd-body">
+          <h5>핵심 업무</h5>
+          <ul><li>전 기사 맞춤법·문장 교열</li><li>한국어 독자 대상 문장 리듬 조정</li><li>제목·리드 작성·수정</li><li>"~입니다" 같은 단정 표현 검수 (원칙 01)</li></ul>
+          <h5>KPI</h5>
+          <p>오탈자율, 독자 지표(체류·클릭), 편집원칙 준수율</p>
+        </div>
+      </div>
+      <div class="jd-card publish">
+        <div class="jd-head"><div class="jd-avatar">🖥️</div><div class="jd-meta"><div class="jd-id">P-14 · PUBLISHER</div><div class="jd-title">웹 퍼블리셔</div><div class="jd-dept">PUBLISH · 사이트 운영</div></div></div>
+        <div class="jd-body">
+          <h5>핵심 업무</h5>
+          <ul><li>기사 HTML 업로드·태그 관리</li><li>원자재 가격 대시보드 일간 업데이트</li><li>사이트 다국어 (4언어) 페이지 동기화</li></ul>
+          <h5>사용 도구</h5>
+          <div class="jd-tools"><span class="jd-tool">Git</span><span class="jd-tool">Static Site Gen</span><span class="jd-tool">Cloudflare</span><span class="jd-tool">CMS</span></div>
+        </div>
+      </div>
+      <div class="jd-card publish">
+        <div class="jd-head"><div class="jd-avatar">📧</div><div class="jd-meta"><div class="jd-id">P-15 · DISTRIBUTOR</div><div class="jd-title">뉴스레터·SNS 매니저</div><div class="jd-dept">PUBLISH · 배포</div></div></div>
+        <div class="jd-body">
+          <h5>핵심 업무</h5>
+          <ul><li>일간 뉴스레터 템플릿 작성·발송</li><li>LinkedIn·X(트위터)·WeChat 공식계정 운영</li><li>독자 피드백 수집 → 데스크 전달</li></ul>
+          <h5>KPI</h5>
+          <p>구독자 수, 오픈율, 클릭률, 재공유율</p>
+        </div>
+      </div>
+    </div>
+
+    <h3 style="margin-top:28px">Tier 6 · 품질관리팀 (2명) — 편집국 면역체계</h3>
+    <div class="jd-grid">
+      <div class="jd-card qa">
+        <div class="jd-head"><div class="jd-avatar">🔍</div><div class="jd-meta"><div class="jd-id">Q-16 · FACT-CHECKER</div><div class="jd-title">팩트체커</div><div class="jd-dept">QA · 수치·출처 검증</div></div></div>
+        <div class="jd-body">
+          <h5>핵심 업무</h5>
+          <ul><li>모든 수치·인용·출처 교차 검증</li><li>의심 수치는 최소 2개 독립 소스 확인</li><li>오류 발견 시 즉시 P-14에게 정정 요청</li></ul>
+          <h5>작업 순서</h5>
+          <p>A-09~A-12 리포팅 → Q-16 검증 → P-13 교열 → P-14 발행. Q-16 미통과 기사 발행 불가.</p>
+        </div>
+      </div>
+      <div class="jd-card qa">
+        <div class="jd-head"><div class="jd-avatar">🛡️</div><div class="jd-meta"><div class="jd-id">Q-17 · COMPLIANCE</div><div class="jd-title">컴플라이언스·편집원칙 감시자</div><div class="jd-dept">QA · 편집헌장 수호</div></div></div>
+        <div class="jd-body">
+          <h5>핵심 업무</h5>
+          <ul><li>편집 원칙 6개 조항 실시간 모니터링</li><li>근거 없는 단정, 순환 논리, 출처 미표기 감지</li><li>위반 사례 주간 리포트 → 발행인</li><li>법적 리스크 (명예훼손·저작권) 사전 차단</li></ul>
+          <h5>권한</h5>
+          <p>발행 직전 단계에서도 기사 킬(kill) 권한. 단, 킬 사유는 반드시 서면 기록 → 발행인 검토.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== WORKFLOW ===== -->
+<section>
+  <div class="container">
+    <h2><span class="num">03</span>일일 운영 플로우 (Daily Rundown)</h2>
+    <p style="color:var(--muted);font-size:14px">한국 시간 기준. 중국·미국 시장 시차 고려한 24시간 뉴스룸 운영.</p>
+    <div class="workflow">
+      <div class="wf-stage">
+        <div class="wf-time">05:00 – 06:00</div>
+        <h5>야간 스캔 · 아침 브리핑 생성</h5>
+        <p>미국 야간 데이터 + 중국 조간 1차 수집. 데스크 자동 브리핑.</p>
+        <div class="wf-roles"><span class="wf-role gather">G-04</span><span class="wf-role gather">G-05</span><span class="wf-role desk">D-01</span></div>
+      </div>
+      <div class="wf-stage">
+        <div class="wf-time">06:00 – 07:00</div>
+        <h5>아침 편집회의</h5>
+        <p>데스크가 당일 라인업 확정. 취재부 키워드 배정.</p>
+        <div class="wf-roles"><span class="wf-role desk">D-01</span><span class="wf-role gather">ALL</span></div>
+      </div>
+      <div class="wf-stage">
+        <div class="wf-time">07:00 – 09:00</div>
+        <h5>1차 조간 속보 발행</h5>
+        <p>간밤 중요 이슈 속보. 번역·팩트체크 통과분만.</p>
+        <div class="wf-roles"><span class="wf-role trans">T-07</span><span class="wf-role qa">Q-16</span><span class="wf-role publish">P-14</span></div>
+      </div>
+      <div class="wf-stage">
+        <div class="wf-time">09:00 – 12:00</div>
+        <h5>중국 장 개장 모니터링</h5>
+        <p>상해증시·위안화·원자재 실시간. 필요시 속보.</p>
+        <div class="wf-roles"><span class="wf-role gather">G-04</span><span class="wf-role analyst">A-09</span><span class="wf-role analyst">A-10</span></div>
+      </div>
+      <div class="wf-stage">
+        <div class="wf-time">12:00 – 14:00</div>
+        <h5>점심 브리핑 · 오후 기획 회의</h5>
+        <p>오전 이슈 정리. 오후 심층 리포트 기획.</p>
+        <div class="wf-roles"><span class="wf-role desk">D-01</span><span class="wf-role analyst">ALL</span></div>
+      </div>
+      <div class="wf-stage">
+        <div class="wf-time">14:00 – 17:00</div>
+        <h5>심층 리포트 작성</h5>
+        <p>분석기자 4명 심층물. 팩트체커 투입.</p>
+        <div class="wf-roles"><span class="wf-role analyst">A-09~12</span><span class="wf-role qa">Q-16</span></div>
+      </div>
+      <div class="wf-stage">
+        <div class="wf-time">17:00 – 19:00</div>
+        <h5>편집·교열·최종 결재</h5>
+        <p>카피에디터 손질, 컴플라이언스 최종 감독, 발행인 결재.</p>
+        <div class="wf-roles"><span class="wf-role publish">P-13</span><span class="wf-role qa">Q-17</span><span class="wf-role human">HUMAN</span></div>
+      </div>
+      <div class="wf-stage">
+        <div class="wf-time">19:00 – 20:00</div>
+        <h5>석간 발행 · 뉴스레터</h5>
+        <p>당일 종합 발행. 뉴스레터 발송.</p>
+        <div class="wf-roles"><span class="wf-role publish">P-14</span><span class="wf-role publish">P-15</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== IMPL ===== -->
+<section>
+  <div class="container">
+    <h2><span class="num">04</span>Cowork 구현 매핑</h2>
+    <p style="color:var(--muted);font-size:14px">각 AI 직원을 Cowork·Claude 생태계의 어떤 기술 요소로 구현할지 제안.</p>
+    <table class="impl-table">
+      <thead><tr><th>ID</th><th>역할</th><th>구현 방식</th><th>트리거</th></tr></thead>
+      <tbody>
+        <tr><td>D-01</td><td>데스크 에디터</td><td>Main agent (대표님이 직접 대화하는 최상위)</td><td>수동 + 정시 자동</td></tr>
+        <tr><td>G-02~06</td><td>취재부 5명</td><td>Subagent + scheduled task (매 시간 자동 실행)</td><td>cron 스케줄</td></tr>
+        <tr><td>G-04</td><td>데이터 크롤러</td><td>Python 스크립트 (SunSirs·100ppi 스크래퍼) + MCP 서버</td><td>매 30분</td></tr>
+        <tr><td>T-07, T-08</td><td>번역 2명</td><td>Subagent (전용 프롬프트, 용어집 주입)</td><td>G-* 완료 시</td></tr>
+        <tr><td>A-09~12</td><td>분석기자 4명</td><td>각자 전용 skill + 전문 지식 베이스 (RAG)</td><td>T-* 완료 시</td></tr>
+        <tr><td>P-13</td><td>카피 에디터</td><td>Claude Opus 전용 프롬프트 (편집원칙 주입)</td><td>A-* 완료 시</td></tr>
+        <tr><td>P-14</td><td>웹 퍼블리셔</td><td>Git + 정적사이트 생성기 + GitHub Actions</td><td>최종 승인 시</td></tr>
+        <tr><td>P-15</td><td>뉴스레터·SNS</td><td>Claude + Gmail/X API MCP</td><td>일 1회 정시</td></tr>
+        <tr><td>Q-16</td><td>팩트체커</td><td>전용 subagent + WebSearch MCP (교차 검증)</td><td>모든 기사 발행 전</td></tr>
+        <tr><td>Q-17</td><td>컴플라이언스</td><td>Claude + 편집원칙 rule engine (6개 원칙 체크리스트)</td><td>발행 직전</td></tr>
+      </tbody>
+    </table>
+    <div class="disclaimer">
+      <strong>⚠ 구현 가능성 주의:</strong> 상기 매핑은 현재 Cowork·Claude Agent SDK 공개 기능 기준 제안입니다. 실제 구축 시 각 MCP 서버·스케줄러·RAG 인프라의 실사양 검토가 필요합니다. 특히 17개 에이전트 동시 실행 시 GPU·메모리·API 레이트 한도를 별도 측정 후 단계적 확장을 권합니다.
+    </div>
+  </div>
+</section>
+
+<!-- ===== EXPANSION ===== -->
+<section>
+  <div class="container">
+    <h2><span class="num">05</span>확장 로드맵 (17 → 100명)</h2>
+    <p style="color:var(--muted);font-size:14px">MVP 안정화 후 단계적 확장. 성급한 전체 세팅보다 검증 후 증원이 안전.</p>
+    <div class="expansion">
+      <div class="exp-phase">
+        <div class="stage">PHASE 1 · MVP</div>
+        <h4>17명 · 1기</h4>
+        <div class="scale">지금 단계</div>
+        <ul>
+          <li>기능별 최소 구성으로 일간 발행 안정화</li>
+          <li>한국어 단일 언어 우선</li>
+          <li>편집원칙 6개조 정착</li>
+          <li>운영 병목·오류 패턴 수집</li>
+        </ul>
+      </div>
+      <div class="exp-phase">
+        <div class="stage">PHASE 2 · 2기</div>
+        <h4>+15명 (총 32명)</h4>
+        <div class="scale">MVP 3개월 검증 후</div>
+        <ul>
+          <li>영어판 전담팀 (번역·편집·발행 5명)</li>
+          <li>중문판 전담팀 (4명)</li>
+          <li>일문판 전담팀 (3명)</li>
+          <li>독자 분석·SEO팀 신설 (3명)</li>
+        </ul>
+      </div>
+      <div class="exp-phase">
+        <div class="stage">PHASE 3 · 3기</div>
+        <h4>+30명 (총 62명)</h4>
+        <div class="scale">6개월 후 · 심층·특화</div>
+        <ul>
+          <li>산업별 분석 세분화 (반도체·배터리·EV·ESG)</li>
+          <li>데이터 시각화팀 (차트·인포그래픽 5명)</li>
+          <li>영상·팟캐스트팀 (5명)</li>
+          <li>업계 인물·기업 프로필팀</li>
+        </ul>
+      </div>
+      <div class="exp-phase">
+        <div class="stage">PHASE 4 · 4기</div>
+        <h4>+38명 (총 100명)</h4>
+        <div class="scale">1년 후 · 글로벌 표준</div>
+        <ul>
+          <li>B2B 리서치 리포트팀 (프리미엄 유료)</li>
+          <li>이벤트·컨퍼런스 기획팀</li>
+          <li>기업 맞춤 자문·컨설팅 리포팅팀</li>
+          <li>운영·기술 인프라팀 (관리자 지원)</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== NEXT ===== -->
+<section>
+  <div class="container">
+    <h2><span class="num">06</span>다음 단계 제안</h2>
+    <div style="background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:24px">
+      <h3 style="color:var(--gold);margin-bottom:14px">대표님 결재가 필요한 3가지</h3>
+      <ul style="list-style:none;padding:0">
+        <li style="padding:10px 0 10px 24px;position:relative;font-size:14px;border-bottom:1px solid var(--line)">
+          <span style="position:absolute;left:0;color:var(--gold);font-weight:700">①</span>
+          <strong>본 조직도 승인 여부</strong> — 17명 구성과 6계층 구조, 편집원칙 6개조로 진행할지
+        </li>
+        <li style="padding:10px 0 10px 24px;position:relative;font-size:14px;border-bottom:1px solid var(--line)">
+          <span style="position:absolute;left:0;color:var(--gold);font-weight:700">②</span>
+          <strong>1차 실구축 대상 선정</strong> — 17명 전체 vs. 핵심 3~5명 먼저 (추천: D-01 + G-04 + A-09 + A-10 + Q-16 = 5명 우선)
+        </li>
+        <li style="padding:10px 0 10px 24px;position:relative;font-size:14px">
+          <span style="position:absolute;left:0;color:var(--gold);font-weight:700">③</span>
+          <strong>구축 순서</strong> — (A) 각 포지션 상세 프롬프트부터 / (B) 데이터 크롤러부터 / (C) 발행 파이프라인부터
+        </li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <div>© 2026 BRIDGE GROUP · 차이나 브릿지 레이더 편집국 조직 설계서 v1.0</div>
+    <div style="margin-top:6px">Prepared for: 정성욱 발행인 · 2026-04-23 · MVP 1기 제안안</div>
+  </div>
+</footer>
+
+</body>
+</html>
