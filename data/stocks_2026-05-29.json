@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-05-29T16:41:55.582238+09:00",
+  "run_at_kst": "2026-05-29T16:52:03.858510+09:00",
   "sources": {
     "a_stocks": "AkShare (Eastmoney via 中国证监会)",
     "hk_us_kr": "Yahoo Finance (yfinance)"
@@ -53,9 +53,9 @@
       "ex": "홍콩",
       "sector": "IT",
       "type": "hk_stock",
-      "price": 428.6,
+      "price": 428.4,
       "prev_close": 425.0,
-      "change_pct": 0.85,
+      "change_pct": 0.8,
       "currency": "HKD",
       "found": true
     },
@@ -65,9 +65,9 @@
       "ex": "홍콩",
       "sector": "전자상거래",
       "type": "hk_stock",
-      "price": 121.5,
+      "price": 121.4,
       "prev_close": 121.8,
-      "change_pct": -0.25,
+      "change_pct": -0.33,
       "currency": "HKD",
       "found": true
     },
@@ -164,18 +164,18 @@
       "id": "hsi",
       "name": "HSI 항셍",
       "type": "index",
-      "price": 25160.3,
+      "price": 25140.28,
       "prev_close": 25006.16,
-      "change_pct": 0.62,
+      "change_pct": 0.54,
       "found": true
     },
     {
       "id": "hscei",
       "name": "HSCEI",
       "type": "index",
-      "price": 8421.51,
+      "price": 8413.28,
       "prev_close": 8364.41,
-      "change_pct": 0.68,
+      "change_pct": 0.58,
       "found": true
     },
     {
