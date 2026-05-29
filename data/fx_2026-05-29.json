@@ -1,0 +1,45 @@
+{
+  "run_at_kst": "2026-05-29T14:07:56.490141+09:00",
+  "source": "한국은행 ECOS API",
+  "source_url": "https://ecos.bok.or.kr/",
+  "rates": {
+    "usd_krw": {
+      "name": "USD/KRW",
+      "memo": "원/달러 매매기준율",
+      "date": "20260529",
+      "value": 1505.8,
+      "prev_date": "20260528",
+      "prev_value": 1501.6,
+      "change_pct": 0.2797
+    },
+    "jpy_krw": {
+      "name": "JPY/KRW (100엔)",
+      "memo": "원/엔(100엔)",
+      "date": "20260529",
+      "value": 945.56,
+      "prev_date": "20260528",
+      "prev_value": 941.41,
+      "change_pct": 0.4408
+    },
+    "cny_krw": {
+      "name": "CNY/KRW",
+      "memo": "원/위안",
+      "date": "20260529",
+      "value": 1754.48,
+      "prev_date": "20260528",
+      "prev_value": 1745.91,
+      "change_pct": 0.4909
+    }
+  },
+  "derived": {
+    "usd_cny": {
+      "name": "USD/CNY (파생)",
+      "value": 0.8583,
+      "formula": "USD/KRW ÷ CNY/KRW",
+      "note": "한국은행 직접 고시 아님. 교차환율 추정값."
+    }
+  },
+  "errors": [
+    "EUR/KRW fetch failed"
+  ]
+}
