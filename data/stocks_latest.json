@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-05-29T23:30:09.878269+09:00",
+  "run_at_kst": "2026-05-30T07:00:12.357760+09:00",
   "sources": {
     "a_stocks": "AkShare (Eastmoney via 中国证监会)",
     "hk_us_kr": "Yahoo Finance (yfinance)"
@@ -89,9 +89,9 @@
       "ex": "NYSE",
       "sector": "전자상거래",
       "type": "us_adr",
-      "price": 123.82,
+      "price": 124.22,
       "prev_close": 126.12,
-      "change_pct": -1.82,
+      "change_pct": -1.51,
       "currency": "USD",
       "found": true
     },
@@ -101,9 +101,9 @@
       "ex": "NASDAQ",
       "sector": "전자상거래",
       "type": "us_adr",
-      "price": 84.11,
+      "price": 84.44,
       "prev_close": 82.77,
-      "change_pct": 1.61,
+      "change_pct": 2.02,
       "currency": "USD",
       "found": true
     },

@@ -1,0 +1,201 @@
+{
+  "run_at_kst": "2026-05-30T07:00:12.357760+09:00",
+  "sources": {
+    "a_stocks": "AkShare (Eastmoney via 中国证监会)",
+    "hk_us_kr": "Yahoo Finance (yfinance)"
+  },
+  "watchlist": [
+    {
+      "id": "600519",
+      "name": "귀주모태주",
+      "ex": "상해",
+      "sector": "백주",
+      "type": "a_stock",
+      "price": 1326.0,
+      "change_pct": 3.97,
+      "prev_close": 1275.33,
+      "currency": "CNY",
+      "source": "yfinance",
+      "delay": "15~20min",
+      "found": true
+    },
+    {
+      "id": "601318",
+      "name": "중국평안",
+      "ex": "상해",
+      "sector": "보험",
+      "type": "a_stock",
+      "price": 53.5,
+      "change_pct": 2.1,
+      "prev_close": 52.4,
+      "currency": "CNY",
+      "source": "yfinance",
+      "delay": "15~20min",
+      "found": true
+    },
+    {
+      "id": "300750",
+      "name": "CATL 닝더스다이",
+      "ex": "심천",
+      "sector": "배터리",
+      "type": "a_stock",
+      "price": 424.0,
+      "change_pct": 2.0,
+      "prev_close": 415.68,
+      "currency": "CNY",
+      "source": "yfinance",
+      "delay": "15~20min",
+      "found": true
+    },
+    {
+      "id": "0700.HK",
+      "name": "텐센트",
+      "ex": "홍콩",
+      "sector": "IT",
+      "type": "hk_stock",
+      "price": 427.2,
+      "prev_close": 425.0,
+      "change_pct": 0.52,
+      "currency": "HKD",
+      "found": true
+    },
+    {
+      "id": "9988.HK",
+      "name": "알리바바",
+      "ex": "홍콩",
+      "sector": "전자상거래",
+      "type": "hk_stock",
+      "price": 120.9,
+      "prev_close": 121.8,
+      "change_pct": -0.74,
+      "currency": "HKD",
+      "found": true
+    },
+    {
+      "id": "9618.HK",
+      "name": "징둥",
+      "ex": "홍콩",
+      "sector": "전자상거래",
+      "type": "hk_stock",
+      "price": 113.5,
+      "prev_close": 114.2,
+      "change_pct": -0.61,
+      "currency": "HKD",
+      "found": true
+    },
+    {
+      "id": "BABA",
+      "name": "알리바바 ADR",
+      "ex": "NYSE",
+      "sector": "전자상거래",
+      "type": "us_adr",
+      "price": 124.22,
+      "prev_close": 126.12,
+      "change_pct": -1.51,
+      "currency": "USD",
+      "found": true
+    },
+    {
+      "id": "PDD",
+      "name": "핀둬둬",
+      "ex": "NASDAQ",
+      "sector": "전자상거래",
+      "type": "us_adr",
+      "price": 84.44,
+      "prev_close": 82.77,
+      "change_pct": 2.02,
+      "currency": "USD",
+      "found": true
+    },
+    {
+      "id": "005930",
+      "name": "삼성전자",
+      "ex": "KOSPI",
+      "sector": "반도체",
+      "type": "kr_stock",
+      "price": 317000.0,
+      "prev_close": 299500.0,
+      "change_pct": 5.84,
+      "currency": "KRW",
+      "found": true
+    },
+    {
+      "id": "000660",
+      "name": "SK하이닉스",
+      "ex": "KOSPI",
+      "sector": "반도체",
+      "type": "kr_stock",
+      "price": 2333000.0,
+      "prev_close": 2289000.0,
+      "change_pct": 1.92,
+      "currency": "KRW",
+      "found": true
+    }
+  ],
+  "indices": [
+    {
+      "id": "csi300",
+      "name": "CSI 300",
+      "type": "index",
+      "price": 4892.12,
+      "prev_close": 4912.77,
+      "change_pct": -0.42,
+      "found": true
+    },
+    {
+      "id": "sse",
+      "name": "SSE COMP",
+      "type": "index",
+      "price": 4068.57,
+      "prev_close": 4097.64,
+      "change_pct": -0.71,
+      "found": true
+    },
+    {
+      "id": "szse",
+      "name": "SZSE COMP",
+      "type": "index",
+      "price": 15575.13,
+      "prev_close": 15863.53,
+      "change_pct": -1.82,
+      "found": true
+    },
+    {
+      "id": "hsi",
+      "name": "HSI 항셍",
+      "type": "index",
+      "price": 25182.39,
+      "prev_close": 25006.16,
+      "change_pct": 0.7,
+      "found": true
+    },
+    {
+      "id": "hscei",
+      "name": "HSCEI",
+      "type": "index",
+      "price": 8425.82,
+      "prev_close": 8364.41,
+      "change_pct": 0.73,
+      "found": true
+    },
+    {
+      "id": "kospi",
+      "name": "KOSPI",
+      "type": "index",
+      "price": 8476.15,
+      "prev_close": 8185.29,
+      "change_pct": 3.55,
+      "found": true
+    },
+    {
+      "id": "kosdaq",
+      "name": "KOSDAQ",
+      "type": "index",
+      "price": 1074.8,
+      "prev_close": 1104.36,
+      "change_pct": -2.68,
+      "found": true
+    }
+  ],
+  "errors": []
+}
