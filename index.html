@@ -711,6 +711,8 @@ setInterval(updateClocks, 60*1000);
 // 캔들 차트 (TradingView Lightweight Charts)
 let chartInstance = null;
 let candleSeries = null;
+let _fullCandles = [];      // 전체 1년치 데이터 캐시
+let _currentPeriod = '3M';  // 기본 표시 기간
 
 function initChart(){
   const container = document.getElementById('chart-canvas');
@@ -761,8 +763,8 @@ async function loadChart(symbolId){
     if(!r.ok) throw new Error('HTTP ' + r.status);
     const data = await r.json();
     if(!data.candles || data.candles.length === 0) throw new Error('no candles');
-    candleSeries.setData(data.candles);
-    chartInstance.timeScale().fitContent();
+    _fullCandles = data.candles;  // 전체 데이터 캐시
+    applyChartPeriod(_currentPeriod);
     updateChartHeader(data);
     const ph = document.getElementById('chart-placeholder');
     if(ph) ph.style.display = 'none';
@@ -817,11 +819,11 @@ function bindWatchlistClicks(){
     if(symbolId.endsWith('-hk')) symbolId = symbolId.slice(0, -3) + '.HK';
     else if(symbolId === 'baba') symbolId = 'BABA';
     else if(symbolId === 'pdd')  symbolId = 'PDD';
-    console.log('[Click] watchlist row:', id, '→', symbolId);
+    console.log('[Click] watchlist row:', id, '->', symbolId);
     loadChart(symbolId);
   });
 
-  // 인덱스 스트립 (CSI 300, HSI 등) 클릭도 같이 처리
+  // 인덱스 스트립 (CSI 300, HSI 등) 클릭도 차트 갱신
   document.body.addEventListener('click', (e) => {
     const cell = e.target.closest('.idx-cell');
     if(!cell) return;
@@ -835,11 +837,54 @@ function bindWatchlistClicks(){
   });
 }
 
+// 차트 시간 범위 필터 (1D ~ MAX)
+function applyChartPeriod(period){
+  if(!candleSeries || _fullCandles.length === 0) return;
+  _currentPeriod = period;
+
+  const now = new Date();
+  let cutoffStr;
+
+  switch(period){
+    case '1D':  { const d=new Date(now); d.setDate(d.getDate()-1); cutoffStr=d.toISOString().slice(0,10); break; }
+    case '5D':  { const d=new Date(now); d.setDate(d.getDate()-7); cutoffStr=d.toISOString().slice(0,10); break; }
+    case '1M':  { const d=new Date(now); d.setMonth(d.getMonth()-1); cutoffStr=d.toISOString().slice(0,10); break; }
+    case '3M':  { const d=new Date(now); d.setMonth(d.getMonth()-3); cutoffStr=d.toISOString().slice(0,10); break; }
+    case '6M':  { const d=new Date(now); d.setMonth(d.getMonth()-6); cutoffStr=d.toISOString().slice(0,10); break; }
+    case 'YTD': { cutoffStr = now.getFullYear() + '-01-01'; break; }
+    case '1Y':
+    case '5Y':
+    case 'MAX':
+    default:    { cutoffStr = '1900-01-01'; break; }
+  }
+
+  const filtered = _fullCandles.filter(c => c.time >= cutoffStr);
+  if(filtered.length === 0){
+    candleSeries.setData(_fullCandles.slice(-1));
+  }else{
+    candleSeries.setData(filtered);
+  }
+  chartInstance.timeScale().fitContent();
+  console.log('[Chart] period:', period, '· filtered:', filtered.length, '/', _fullCandles.length);
+}
+
+function bindTimeButtons(){
+  document.body.addEventListener('click', (e) => {
+    const btn = e.target.closest('.tf-pill');
+    if(!btn) return;
+    document.querySelectorAll('.tf-pill').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    const period = btn.textContent.trim();
+    applyChartPeriod(period);
+  });
+}
+
 window.addEventListener('load', () => {
   if(window.LightweightCharts){
     initChart();
     loadChart('600519');
     bindWatchlistClicks();
+    bindTimeButtons();
   }else{
     console.warn('LightweightCharts 라이브러리 로드 실패');
   }
