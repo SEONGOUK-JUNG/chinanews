@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-05-30T07:00:12.357760+09:00",
+  "run_at_kst": "2026-05-30T09:30:10.859334+09:00",
   "sources": {
     "a_stocks": "AkShare (Eastmoney via 中国证监会)",
     "hk_us_kr": "Yahoo Finance (yfinance)"
