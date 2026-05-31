@@ -399,30 +399,77 @@
       </div>
     </div>
 
+    <!-- 원자재 시장 펄스 -->
     <div class="panel" style="background:var(--bg);padding:10px 12px">
       <div class="panel-head">
-        <div class="panel-title">원자재 가격 (핵심) <span class="badge-live">REAL</span><span class="ts" style="margin-left:6px">최종 갱신: 2026-04-22</span></div>
-        <span class="panel-actions">전체 →</span>
+        <div class="panel-title">원자재 시장 펄스 <span class="badge-live">DAILY</span><span class="ts" id="cm-pulse-ref" style="margin-left:6px"></span></div>
+      </div>
+      <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;margin-bottom:10px">
+        <div style="text-align:center;padding:8px;background:var(--line-grid);border-radius:4px">
+          <div style="font-size:11px;color:var(--muted);margin-bottom:2px">상승</div>
+          <div style="font-size:18px;font-weight:700;color:var(--up)" id="cm-pulse-up">—</div>
+        </div>
+        <div style="text-align:center;padding:8px;background:var(--line-grid);border-radius:4px">
+          <div style="font-size:11px;color:var(--muted);margin-bottom:2px">하락</div>
+          <div style="font-size:18px;font-weight:700;color:var(--down)" id="cm-pulse-down">—</div>
+        </div>
+        <div style="text-align:center;padding:8px;background:var(--line-grid);border-radius:4px">
+          <div style="font-size:11px;color:var(--muted);margin-bottom:2px">보합</div>
+          <div style="font-size:18px;font-weight:700;color:var(--muted)" id="cm-pulse-flat">—</div>
+        </div>
+      </div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;font-size:12px">
+        <div>
+          <div style="color:var(--up);font-weight:700;font-size:11px;margin-bottom:4px">▲ 상승 TOP 3</div>
+          <div id="cm-pulse-gainers" style="line-height:1.7;color:var(--text)">—</div>
+        </div>
+        <div>
+          <div style="color:var(--down);font-weight:700;font-size:11px;margin-bottom:4px">▼ 하락 TOP 3</div>
+          <div id="cm-pulse-losers" style="line-height:1.7;color:var(--text)">—</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 원자재 핵심 가격 16종 -->
+    <div class="panel" style="background:var(--bg);padding:10px 12px">
+      <div class="panel-head">
+        <div class="panel-title">원자재 핵심 가격 <span class="badge-live">REAL</span><span class="ts" id="cm-updated" style="margin-left:6px">로딩 중…</span></div>
+        <span class="panel-actions" id="cm-all-btn" style="cursor:pointer;color:var(--orange);font-weight:600">전체 →</span>
       </div>
       <table class="dt">
         <thead>
-          <tr><th>품목</th><th>섹터</th><th>전일</th><th>당일</th><th>변동률</th><th>출처</th></tr>
+          <tr><th>품목</th><th>섹터</th><th>전일</th><th>당일</th><th>변동률</th><th>단위</th></tr>
         </thead>
-        <tbody>
-          <tr><td>LLDPE 선형저밀도PE</td><td>고무·플라스틱</td><td>8,321.67</td><td>8,266.67</td><td class="down">▼ 0.66%</td><td><span class="src-tag real">SUNSIRS</span></td></tr>
-          <tr><td>HDPE 고밀도PE</td><td>고무·플라스틱</td><td>10,232.50</td><td>10,195.00</td><td class="down">▼ 0.37%</td><td><span class="src-tag real">SUNSIRS</span></td></tr>
-          <tr><td>LDPE 저밀도PE</td><td>고무·플라스틱</td><td>11,350.00</td><td>11,266.67</td><td class="down">▼ 0.73%</td><td><span class="src-tag real">SUNSIRS</span></td></tr>
-          <tr><td>나프타</td><td>에너지</td><td>7,483.33</td><td>7,366.67</td><td class="down">▼ 1.56%</td><td><span class="src-tag real">SUNSIRS</span></td></tr>
-          <tr><td>부타디엔</td><td>화학</td><td>14,500.00</td><td>13,766.67</td><td class="down">▼ 5.06%</td><td><span class="src-tag real">SUNSIRS</span></td></tr>
-          <tr><td>옥수수</td><td>농산물</td><td>2,328.57</td><td>2,328.57</td><td class="flat">— 0.00%</td><td><span class="src-tag real">SUNSIRS</span></td></tr>
-          <tr><td>금속네오디뮴 Nd</td><td>희토류</td><td>1,070,000</td><td>1,070,000</td><td class="flat">— 0.00%</td><td><span class="src-tag real">SUNSIRS</span></td></tr>
-          <tr><td>산화 디스프로슘</td><td>희토류</td><td>1,405,000</td><td>1,410,000</td><td class="up">▲ 0.36%</td><td><span class="src-tag real">SUNSIRS</span></td></tr>
-          <tr><td>구리 (LME)</td><td>비철금속</td><td class="nd">데이터 없음</td><td class="nd">데이터 없음</td><td><span class="api-needed">LME API</span></td><td><span class="src-tag">PENDING</span></td></tr>
-          <tr><td>철광석 (62% Fe)</td><td>철강</td><td class="nd">데이터 없음</td><td class="nd">데이터 없음</td><td><span class="api-needed">SGX API</span></td><td><span class="src-tag">PENDING</span></td></tr>
-          <tr><td>금 (XAU)</td><td>귀금속</td><td class="nd">데이터 없음</td><td class="nd">데이터 없음</td><td><span class="api-needed">METAL API</span></td><td><span class="src-tag">PENDING</span></td></tr>
+        <tbody id="cm-featured-body">
+          <tr><td colspan="6" style="color:var(--muted);font-style:italic;text-align:center;padding:14px 0">로딩 중…</td></tr>
         </tbody>
       </table>
-      <div style="font-size:11px;color:var(--muted);margin-top:8px;font-style:italic">단위: CNY/톤 (SunSirs) · 출처: SunSirs 생의사 (실측 2026-04-22) · LME·SGX 등 추가 연동 예정</div>
+    </div>
+
+    <!-- 전체 원자재 모달 -->
+    <div id="cm-modal" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,0.7);z-index:9999;align-items:center;justify-content:center">
+      <div style="background:var(--bg);border:1px solid var(--line-2);border-radius:6px;width:90%;max-width:1000px;max-height:85vh;display:flex;flex-direction:column">
+        <div style="display:flex;justify-content:space-between;align-items:center;padding:12px 16px;border-bottom:1px solid var(--line-2)">
+          <div>
+            <div style="font-size:14px;font-weight:700;color:var(--orange)">중국 원자재 전체 리스트</div>
+            <div style="font-size:11px;color:var(--muted);margin-top:2px" id="cm-modal-meta">전체 약 440종</div>
+          </div>
+          <div style="display:flex;gap:10px;align-items:center">
+            <input type="text" id="cm-modal-search" placeholder="품목/섹터 검색…" style="background:var(--line-grid);border:1px solid var(--line-2);color:var(--text);padding:5px 10px;border-radius:3px;font-size:12px;width:200px">
+            <span id="cm-modal-close" style="cursor:pointer;font-size:20px;color:var(--muted);padding:0 6px">×</span>
+          </div>
+        </div>
+        <div style="overflow:auto;flex:1;padding:0 16px 16px 16px">
+          <table class="dt" style="width:100%">
+            <thead style="position:sticky;top:0;background:var(--bg);z-index:1">
+              <tr><th>품목</th><th>섹터</th><th>전일</th><th>당일</th><th>변동률</th></tr>
+            </thead>
+            <tbody id="cm-modal-body">
+              <tr><td colspan="5" style="color:var(--muted);text-align:center;padding:14px 0">로딩 중…</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
     </div>
 
     <div class="panel" style="padding:10px 12px;background:var(--bg)">
@@ -1041,7 +1088,121 @@ async function loadPulse(){
   }
 }
 loadPulse();
-setInterval(loadPulse, 5 * 60 * 1000);  // 5분마다
+setInterval(loadPulse, 5 * 60 * 1000);
+
+// ─── 원자재 데이터 자동 갱신 (data/commodities.json) ───
+let _cmAllItems = [];
+function fmtPrice(v){
+  if(v === null || v === undefined) return '—';
+  if(Math.abs(v) >= 1000) return v.toLocaleString(undefined, {maximumFractionDigits: 2});
+  return v.toFixed(2);
+}
+function fmtPct(v){
+  if(v === null || v === undefined) return '—';
+  const cls = v > 0 ? 'up' : (v < 0 ? 'down' : 'flat');
+  const arrow = v > 0 ? '▲' : (v < 0 ? '▼' : '—');
+  const sign = v > 0 ? '+' : '';
+  return '<span class="' + cls + '">' + arrow + ' ' + sign + v.toFixed(2) + '%</span>';
+}
+function rowCommodity(item, featured){
+  const pp = fmtPrice(item.price_prev);
+  const pt = fmtPrice(item.price_today);
+  const pc = fmtPct(item.change_pct);
+  const sector = item.sector || item.category || '';
+  if(featured){
+    return '<tr><td>' + item.display_name + '</td><td>' + sector + '</td><td>' + pp + '</td><td>' + pt + '</td><td>' + pc + '</td><td style="font-size:10px;color:var(--muted)">' + (item.unit || 'CNY/t') + '</td></tr>';
+  } else {
+    return '<tr><td>' + (item.display_name || item.name) + '</td><td>' + sector + '</td><td>' + pp + '</td><td>' + pt + '</td><td>' + pc + '</td></tr>';
+  }
+}
+function renderCmModalBody(filterText){
+  const body = document.getElementById('cm-modal-body');
+  if(!body) return;
+  if(!_cmAllItems.length){
+    body.innerHTML = '<tr><td colspan="5" style="color:var(--muted);text-align:center;padding:14px 0">아직 전체 리스트가 수집되지 않았습니다.<br>매일 07:00 KST 자동 업데이트.</td></tr>';
+    return;
+  }
+  const q = (filterText || '').trim().toLowerCase();
+  const list = q ? _cmAllItems.filter(function(x){
+    return ((x.display_name || x.name || '') + ' ' + (x.sector || '')).toLowerCase().includes(q);
+  }) : _cmAllItems;
+  if(list.length === 0){
+    body.innerHTML = '<tr><td colspan="5" style="color:var(--muted);text-align:center;padding:14px 0">검색 결과 없음</td></tr>';
+    return;
+  }
+  body.innerHTML = list.map(function(it){ return rowCommodity(it, false); }).join('');
+}
+async function loadCommodities(){
+  try {
+    const r = await fetch('data/commodities.json?t=' + Date.now());
+    if(!r.ok) throw new Error('HTTP ' + r.status);
+    const d = await r.json();
+    if(d.pulse){
+      const refEl = document.getElementById('cm-pulse-ref');
+      if(refEl) refEl.textContent = d.ref_date ? '기준일 ' + d.ref_date : '';
+      const upEl = document.getElementById('cm-pulse-up');
+      const dnEl = document.getElementById('cm-pulse-down');
+      const ftEl = document.getElementById('cm-pulse-flat');
+      if(upEl) upEl.textContent = (d.pulse.up_count === undefined ? '—' : d.pulse.up_count);
+      if(dnEl) dnEl.textContent = (d.pulse.down_count === undefined ? '—' : d.pulse.down_count);
+      if(ftEl) ftEl.textContent = (d.pulse.flat_count === undefined ? '—' : d.pulse.flat_count);
+      const gEl = document.getElementById('cm-pulse-gainers');
+      const lEl = document.getElementById('cm-pulse-losers');
+      if(gEl && Array.isArray(d.pulse.top_gainers)){
+        gEl.innerHTML = d.pulse.top_gainers.map(function(x){
+          return '<div style="display:flex;justify-content:space-between"><span>' + x.name + '</span><span style="color:var(--up);font-weight:600">+' + x.change_pct.toFixed(2) + '%</span></div>';
+        }).join('');
+      }
+      if(lEl && Array.isArray(d.pulse.top_losers)){
+        lEl.innerHTML = d.pulse.top_losers.map(function(x){
+          return '<div style="display:flex;justify-content:space-between"><span>' + x.name + '</span><span style="color:var(--down);font-weight:600">' + x.change_pct.toFixed(2) + '%</span></div>';
+        }).join('');
+      }
+    }
+    const fb = document.getElementById('cm-featured-body');
+    if(fb && Array.isArray(d.featured)){
+      fb.innerHTML = d.featured.map(function(it){ return rowCommodity(it, true); }).join('');
+    }
+    const upd = document.getElementById('cm-updated');
+    if(upd) upd.textContent = d.ref_date ? '기준 ' + d.ref_date : '';
+    _cmAllItems = Array.isArray(d.all_items) ? d.all_items : [];
+    const metaEl = document.getElementById('cm-modal-meta');
+    if(metaEl){
+      if(_cmAllItems.length > 0){
+        metaEl.textContent = '전체 ' + _cmAllItems.length + '종 · 기준 ' + (d.ref_date || '—');
+      } else {
+        metaEl.textContent = (d.all_items_note || '전체 리스트 준비 중');
+      }
+    }
+    renderCmModalBody('');
+    console.log('[Commodities] loaded', d.updated_at_kst, '· featured:', (d.featured||[]).length, '· all:', _cmAllItems.length);
+  } catch(e) {
+    console.warn('[Commodities] failed:', e.message);
+    const fb = document.getElementById('cm-featured-body');
+    if(fb) fb.innerHTML = '<tr><td colspan="6" style="color:var(--muted);text-align:center;padding:14px 0">데이터 로딩 실패</td></tr>';
+  }
+}
+document.addEventListener('click', function(e){
+  if(e.target && e.target.id === 'cm-all-btn'){
+    const m = document.getElementById('cm-modal');
+    if(m) m.style.display = 'flex';
+  }
+  if(e.target && e.target.id === 'cm-modal-close'){
+    const m = document.getElementById('cm-modal');
+    if(m) m.style.display = 'none';
+  }
+  if(e.target && e.target.id === 'cm-modal'){
+    e.target.style.display = 'none';
+  }
+});
+document.addEventListener('input', function(e){
+  if(e.target && e.target.id === 'cm-modal-search'){
+    renderCmModalBody(e.target.value);
+  }
+});
+loadCommodities();
+setInterval(loadCommodities, 15 * 60 * 1000);
+  // 5분마다
 
 // 캔들 차트 (TradingView Lightweight Charts)
 let chartInstance = null;
