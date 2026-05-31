@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-05-31T07:00:06.400929+09:00",
+  "run_at_kst": "2026-05-31T09:30:05.906486+09:00",
   "source": "Yahoo Finance (yfinance)",
   "source_url": "https://finance.yahoo.com/currencies",
   "delay": "15-20min",
