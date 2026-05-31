@@ -1,0 +1,41 @@
+{
+  "updated_at_kst": "2026-05-31T17:30:00+09:00",
+  "ref_date": "2026-05-29",
+  "schema_version": "1.0",
+  "pulse": {
+    "up_count": 46,
+    "down_count": 63,
+    "flat_count": 329,
+    "total": 438,
+    "top_gainers": [
+      {"name": "염산", "change_pct": 12.86},
+      {"name": "이산인산 나트륨", "change_pct": 6.21},
+      {"name": "은", "change_pct": 4.24}
+    ],
+    "top_losers": [
+      {"name": "파라자일렌", "change_pct": -9.09},
+      {"name": "디메틸sulfoxide", "change_pct": -6.67},
+      {"name": "트리하이드록시메틸프로판", "change_pct": -3.66}
+    ]
+  },
+  "featured": [
+    {"display_name": "금",        "sunsirs_name": "황금",                "category": "귀금속",   "sector": "비철금속",   "unit": "CNY/g",  "price_prev": 967.78,    "price_today": 974.17,    "change_pct": 0.66},
+    {"display_name": "은",        "sunsirs_name": "은",                  "category": "귀금속",   "sector": "비철금속",   "unit": "CNY/kg", "price_prev": 17658.67,  "price_today": 18407.00,  "change_pct": 4.24},
+    {"display_name": "구리",      "sunsirs_name": "동",                  "category": "비철금속", "sector": "비철금속",   "unit": "CNY/t",  "price_prev": 103580.00, "price_today": 104843.33, "change_pct": 1.22},
+    {"display_name": "알루미늄",  "sunsirs_name": "알루미늄(알루미늄 잉곳)", "category": "비철금속", "sector": "비철금속",  "unit": "CNY/t",  "price_prev": 24151.67,  "price_today": 24223.33,  "change_pct": 0.30},
+    {"display_name": "원유",      "sunsirs_name": "원유",                "category": "에너지",   "sector": "에너지",     "unit": "USD/bbl","price_prev": 88.68,     "price_today": 88.90,     "change_pct": 0.25},
+    {"display_name": "석탄",      "sunsirs_name": "석탄",                "category": "에너지",   "sector": "에너지",     "unit": "CNY/t",  "price_prev": 859.00,    "price_today": 866.50,    "change_pct": 0.87},
+    {"display_name": "천연가스",  "sunsirs_name": "천연가스",            "category": "에너지",   "sector": "에너지",     "unit": "CNY/t",  "price_prev": 5850.00,   "price_today": 5834.00,   "change_pct": -0.27},
+    {"display_name": "옥수수",    "sunsirs_name": "옥수수",              "category": "농산물",   "sector": "농산물 및 부산물", "unit": "CNY/t",  "price_prev": 2320.00, "price_today": 2317.14,   "change_pct": -0.12},
+    {"display_name": "대두",      "sunsirs_name": "대두",                "category": "농산물",   "sector": "농산물 및 부산물", "unit": "CNY/t",  "price_prev": 4516.00, "price_today": 4512.00,   "change_pct": -0.09},
+    {"display_name": "옥수수 전분","sunsirs_name": "옥수수 전분",         "category": "농산물",   "sector": "농산물 및 부산물", "unit": "CNY/t",  "price_prev": 2980.00, "price_today": 2980.00,   "change_pct": 0.00},
+    {"display_name": "백설탕",    "sunsirs_name": "백설탕",              "category": "농산물",   "sector": "농산물 및 부산물", "unit": "CNY/t",  "price_prev": 5378.33, "price_today": 5373.33,   "change_pct": -0.09},
+    {"display_name": "달걀",      "sunsirs_name": "달걀",                "category": "농산물",   "sector": "농산물 및 부산물", "unit": "CNY/kg","price_prev": 9.62,    "price_today": 9.82,      "change_pct": 2.08},
+    {"display_name": "생 돼지",   "sunsirs_name": "생 돼지",             "category": "농산물",   "sector": "농산물 및 부산물", "unit": "CNY/kg","price_prev": 9.57,    "price_today": 9.57,      "change_pct": 0.00},
+    {"display_name": "팜오일",    "sunsirs_name": "팜오일",              "category": "농산물",   "sector": "농산물 및 부산물", "unit": "CNY/t",  "price_prev": 9374.00, "price_today": 9412.00,   "change_pct": 0.41},
+    {"display_name": "채종유",    "sunsirs_name": "채종유",              "category": "농산물",   "sector": "농산물 및 부산물", "unit": "CNY/t",  "price_prev": 10024.00,"price_today": 10154.00,  "change_pct": 1.30},
+    {"display_name": "대두유",    "sunsirs_name": "대두유",              "category": "농산물",   "sector": "농산물 및 부산물", "unit": "CNY/t",  "price_prev": 8652.00, "price_today": 8662.00,   "change_pct": 0.12}
+  ],
+  "all_items": [],
+  "all_items_note": "최초 1회는 featured 16종만. 다음 자동 실행(매일 07:00 KST)부터 전체 약 440종이 채워집니다."
+}
