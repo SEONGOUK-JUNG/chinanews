@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-05-31T23:31:06.288209+09:00",
+  "updated_at_kst": "2026-06-01T07:01:03.429050+09:00",
   "source": {
     "watchlist": "data/stocks_latest.json",
     "charts": "data/charts/*.json"
@@ -10,8 +10,8 @@
     "breadth_universe": "a_stock + hk_stock + us_adr"
   },
   "china_market": {
-    "status": "WEEKEND",
-    "label": "휴장 (주말)",
+    "status": "PRE",
+    "label": "장 시작 전",
     "color": "muted"
   },
   "breadth": {

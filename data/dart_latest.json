@@ -1,8 +1,8 @@
 {
-  "run_at_kst": "2026-05-31T23:31:07.700038+09:00",
+  "run_at_kst": "2026-06-01T07:01:05.146451+09:00",
   "source": "DART OpenAPI",
   "source_url": "https://opendart.fss.or.kr/",
-  "period": "20260517~20260531",
+  "period": "20260518~20260601",
   "total_companies": 20,
   "success_companies": 20,
   "total_disclosures": 53,
