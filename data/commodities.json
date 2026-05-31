@@ -45,7 +45,9 @@
       "unit": "CNY/g",
       "price_prev": 967.78,
       "price_today": 974.17,
-      "change_pct": 0.66
+      "change_pct": 0.66,
+      "date_prev": "2026-05-28",
+      "date_today": "2026-05-29"
     },
     {
       "display_name": "은",
@@ -55,7 +57,9 @@
       "unit": "CNY/kg",
       "price_prev": 17658.67,
       "price_today": 18407.0,
-      "change_pct": 4.24
+      "change_pct": 4.24,
+      "date_prev": "2026-05-28",
+      "date_today": "2026-05-29"
     },
     {
       "display_name": "구리",
@@ -65,7 +69,9 @@
       "unit": "CNY/t",
       "price_prev": 103580.0,
       "price_today": 104843.33,
-      "change_pct": 1.22
+      "change_pct": 1.22,
+      "date_prev": "2026-05-28",
+      "date_today": "2026-05-29"
     },
     {
       "display_name": "알루미늄",
@@ -75,7 +81,9 @@
       "unit": "CNY/t",
       "price_prev": 24151.67,
       "price_today": 24223.33,
-      "change_pct": 0.3
+      "change_pct": 0.3,
+      "date_prev": "2026-05-28",
+      "date_today": "2026-05-29"
     },
     {
       "display_name": "원유",
@@ -85,7 +93,9 @@
       "unit": "USD/bbl",
       "price_prev": 88.68,
       "price_today": 88.9,
-      "change_pct": 0.25
+      "change_pct": 0.25,
+      "date_prev": "2026-05-28",
+      "date_today": "2026-05-29"
     },
     {
       "display_name": "석탄",
@@ -95,7 +105,9 @@
       "unit": "CNY/t",
       "price_prev": 859.0,
       "price_today": 866.5,
-      "change_pct": 0.87
+      "change_pct": 0.87,
+      "date_prev": "2026-05-28",
+      "date_today": "2026-05-29"
     },
     {
       "display_name": "천연가스",
@@ -105,7 +117,9 @@
       "unit": "CNY/t",
       "price_prev": 5850.0,
       "price_today": 5834.0,
-      "change_pct": -0.27
+      "change_pct": -0.27,
+      "date_prev": "2026-05-28",
+      "date_today": "2026-05-29"
     },
     {
       "display_name": "옥수수",
@@ -115,7 +129,9 @@
       "unit": "CNY/t",
       "price_prev": 2320.0,
       "price_today": 2317.14,
-      "change_pct": -0.12
+      "change_pct": -0.12,
+      "date_prev": "2026-05-28",
+      "date_today": "2026-05-29"
     },
     {
       "display_name": "대두",
@@ -125,7 +141,9 @@
       "unit": "CNY/t",
       "price_prev": 4516.0,
       "price_today": 4512.0,
-      "change_pct": -0.09
+      "change_pct": -0.09,
+      "date_prev": "2026-05-28",
+      "date_today": "2026-05-29"
     },
     {
       "display_name": "옥수수 전분",
@@ -135,7 +153,9 @@
       "unit": "CNY/t",
       "price_prev": 2980.0,
       "price_today": 2980.0,
-      "change_pct": 0.0
+      "change_pct": 0.0,
+      "date_prev": "2026-05-28",
+      "date_today": "2026-05-29"
     },
     {
       "display_name": "백설탕",
@@ -145,7 +165,9 @@
       "unit": "CNY/t",
       "price_prev": 5378.33,
       "price_today": 5373.33,
-      "change_pct": -0.09
+      "change_pct": -0.09,
+      "date_prev": "2026-05-28",
+      "date_today": "2026-05-29"
     },
     {
       "display_name": "달걀",
@@ -155,7 +177,9 @@
       "unit": "CNY/kg",
       "price_prev": 9.62,
       "price_today": 9.82,
-      "change_pct": 2.08
+      "change_pct": 2.08,
+      "date_prev": "2026-05-28",
+      "date_today": "2026-05-29"
     },
     {
       "display_name": "생 돼지",
@@ -165,7 +189,9 @@
       "unit": "CNY/kg",
       "price_prev": 9.57,
       "price_today": 9.57,
-      "change_pct": 0.0
+      "change_pct": 0.0,
+      "date_prev": "2026-05-28",
+      "date_today": "2026-05-29"
     },
     {
       "display_name": "팜오일",
@@ -175,7 +201,9 @@
       "unit": "CNY/t",
       "price_prev": 9374.0,
       "price_today": 9412.0,
-      "change_pct": 0.41
+      "change_pct": 0.41,
+      "date_prev": "2026-05-28",
+      "date_today": "2026-05-29"
     },
     {
       "display_name": "채종유",
@@ -185,7 +213,9 @@
       "unit": "CNY/t",
       "price_prev": 10024.0,
       "price_today": 10154.0,
-      "change_pct": 1.3
+      "change_pct": 1.3,
+      "date_prev": "2026-05-28",
+      "date_today": "2026-05-29"
     },
     {
       "display_name": "대두유",
@@ -195,7 +225,9 @@
       "unit": "CNY/t",
       "price_prev": 8652.0,
       "price_today": 8662.0,
-      "change_pct": 0.12
+      "change_pct": 0.12,
+      "date_prev": "2026-05-28",
+      "date_today": "2026-05-29"
     }
   ],
   "all_items": [
@@ -3069,5 +3101,7 @@
       "price_today": 9000.0,
       "change_pct": -9.09
     }
-  ]
+  ],
+  "date_prev": "2026-05-28",
+  "date_today": "2026-05-29"
 }
