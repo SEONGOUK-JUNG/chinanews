@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-05-31T16:07:10.740084+09:00",
+  "updated_at_kst": "2026-05-31T16:34:08.473983+09:00",
   "items": [
     {
       "id": "600519",
@@ -20,6 +20,90 @@
       "ticker": "300750.SZ",
       "name": "CATL",
       "file": "300750.json",
+      "count": 1211
+    },
+    {
+      "id": "601398",
+      "ticker": "601398.SS",
+      "name": "공상은행",
+      "file": "601398.json",
+      "count": 1211
+    },
+    {
+      "id": "601288",
+      "ticker": "601288.SS",
+      "name": "농업은행",
+      "file": "601288.json",
+      "count": 1211
+    },
+    {
+      "id": "601857",
+      "ticker": "601857.SS",
+      "name": "중국석유",
+      "file": "601857.json",
+      "count": 1211
+    },
+    {
+      "id": "600036",
+      "ticker": "600036.SS",
+      "name": "초상은행",
+      "file": "600036.json",
+      "count": 1211
+    },
+    {
+      "id": "601628",
+      "ticker": "601628.SS",
+      "name": "중국인수",
+      "file": "601628.json",
+      "count": 1211
+    },
+    {
+      "id": "600028",
+      "ticker": "600028.SS",
+      "name": "시노펙",
+      "file": "600028.json",
+      "count": 1211
+    },
+    {
+      "id": "601988",
+      "ticker": "601988.SS",
+      "name": "중국은행",
+      "file": "601988.json",
+      "count": 1211
+    },
+    {
+      "id": "000858",
+      "ticker": "000858.SZ",
+      "name": "우량예",
+      "file": "000858.json",
+      "count": 1211
+    },
+    {
+      "id": "600276",
+      "ticker": "600276.SS",
+      "name": "형서의약",
+      "file": "600276.json",
+      "count": 1211
+    },
+    {
+      "id": "000333",
+      "ticker": "000333.SZ",
+      "name": "메이디",
+      "file": "000333.json",
+      "count": 1211
+    },
+    {
+      "id": "600009",
+      "ticker": "600009.SS",
+      "name": "상해공항",
+      "file": "600009.json",
+      "count": 1211
+    },
+    {
+      "id": "600030",
+      "ticker": "600030.SS",
+      "name": "CITIC증권",
+      "file": "600030.json",
       "count": 1211
     },
     {
@@ -44,9 +128,58 @@
       "count": 1227
     },
     {
+      "id": "0939.HK",
+      "ticker": "0939.HK",
+      "name": "건설은행",
+      "file": "0939_HK.json",
+      "count": 1227
+    },
+    {
+      "id": "1398.HK",
+      "ticker": "1398.HK",
+      "name": "공상은행H",
+      "file": "1398_HK.json",
+      "count": 1227
+    },
+    {
+      "id": "0941.HK",
+      "ticker": "0941.HK",
+      "name": "차이나모바일",
+      "file": "0941_HK.json",
+      "count": 1227
+    },
+    {
+      "id": "1288.HK",
+      "ticker": "1288.HK",
+      "name": "농업은행H",
+      "file": "1288_HK.json",
+      "count": 1227
+    },
+    {
+      "id": "0883.HK",
+      "ticker": "0883.HK",
+      "name": "CNOOC",
+      "file": "0883_HK.json",
+      "count": 1227
+    },
+    {
+      "id": "3690.HK",
+      "ticker": "3690.HK",
+      "name": "메이투안",
+      "file": "3690_HK.json",
+      "count": 1227
+    },
+    {
+      "id": "1810.HK",
+      "ticker": "1810.HK",
+      "name": "샤오미",
+      "file": "1810_HK.json",
+      "count": 1227
+    },
+    {
       "id": "BABA",
       "ticker": "BABA",
-      "name": "알리바바 ADR",
+      "name": "알리바바ADR",
       "file": "BABA.json",
       "count": 1255
     },
@@ -55,6 +188,62 @@
       "ticker": "PDD",
       "name": "핀둬둬",
       "file": "PDD.json",
+      "count": 1255
+    },
+    {
+      "id": "JD",
+      "ticker": "JD",
+      "name": "징둥ADR",
+      "file": "JD.json",
+      "count": 1255
+    },
+    {
+      "id": "BIDU",
+      "ticker": "BIDU",
+      "name": "바이두",
+      "file": "BIDU.json",
+      "count": 1255
+    },
+    {
+      "id": "NIO",
+      "ticker": "NIO",
+      "name": "니오",
+      "file": "NIO.json",
+      "count": 1255
+    },
+    {
+      "id": "LI",
+      "ticker": "LI",
+      "name": "리오토",
+      "file": "LI.json",
+      "count": 1255
+    },
+    {
+      "id": "XPEV",
+      "ticker": "XPEV",
+      "name": "샤오펑",
+      "file": "XPEV.json",
+      "count": 1255
+    },
+    {
+      "id": "TME",
+      "ticker": "TME",
+      "name": "텐센트뮤직",
+      "file": "TME.json",
+      "count": 1255
+    },
+    {
+      "id": "BILI",
+      "ticker": "BILI",
+      "name": "빌리빌리",
+      "file": "BILI.json",
+      "count": 1255
+    },
+    {
+      "id": "NTES",
+      "ticker": "NTES",
+      "name": "넷이즈",
+      "file": "NTES.json",
       "count": 1255
     },
     {
@@ -69,6 +258,97 @@
       "ticker": "000660.KS",
       "name": "SK하이닉스",
       "file": "000660.json",
+      "count": 1221
+    },
+    {
+      "id": "373220",
+      "ticker": "373220.KS",
+      "name": "LG에너지솔루션",
+      "file": "373220.json",
+      "count": 1056
+    },
+    {
+      "id": "005380",
+      "ticker": "005380.KS",
+      "name": "현대차",
+      "file": "005380.json",
+      "count": 1221
+    },
+    {
+      "id": "207940",
+      "ticker": "207940.KS",
+      "name": "삼성바이오로직스",
+      "file": "207940.json",
+      "count": 1221
+    },
+    {
+      "id": "035420",
+      "ticker": "035420.KS",
+      "name": "NAVER",
+      "file": "035420.json",
+      "count": 1221
+    },
+    {
+      "id": "005490",
+      "ticker": "005490.KS",
+      "name": "POSCO홀딩스",
+      "file": "005490.json",
+      "count": 1221
+    },
+    {
+      "id": "051910",
+      "ticker": "051910.KS",
+      "name": "LG화학",
+      "file": "051910.json",
+      "count": 1221
+    },
+    {
+      "id": "006400",
+      "ticker": "006400.KS",
+      "name": "삼성SDI",
+      "file": "006400.json",
+      "count": 1221
+    },
+    {
+      "id": "035720",
+      "ticker": "035720.KS",
+      "name": "카카오",
+      "file": "035720.json",
+      "count": 1221
+    },
+    {
+      "id": "068270",
+      "ticker": "068270.KS",
+      "name": "셀트리온",
+      "file": "068270.json",
+      "count": 1221
+    },
+    {
+      "id": "105560",
+      "ticker": "105560.KS",
+      "name": "KB금융",
+      "file": "105560.json",
+      "count": 1221
+    },
+    {
+      "id": "055550",
+      "ticker": "055550.KS",
+      "name": "신한지주",
+      "file": "055550.json",
+      "count": 1221
+    },
+    {
+      "id": "012330",
+      "ticker": "012330.KS",
+      "name": "현대모비스",
+      "file": "012330.json",
+      "count": 1221
+    },
+    {
+      "id": "000270",
+      "ticker": "000270.KS",
+      "name": "기아",
+      "file": "000270.json",
       "count": 1221
     },
     {
