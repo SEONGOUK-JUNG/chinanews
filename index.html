@@ -280,12 +280,12 @@
   <div class="sidebar-l">
 
     <div class="panel">
-      <div class="panel-head"><div class="panel-title">시장 펄스 <span class="badge-api">API</span></div><span class="panel-actions">⋯</span></div>
+      <div class="panel-head"><div class="panel-title">시장 펄스 <span class="badge-api" id="pulse-badge">API</span></div><span class="panel-actions">⋯</span></div>
       <div style="font-size:13px;line-height:1.7">
-        <div style="display:flex;justify-content:space-between"><span class="small">중국 시장 상태</span><span class="no-data">데이터 없음</span></div>
-        <div style="display:flex;justify-content:space-between"><span class="small">상승/하락 비율</span><span class="no-data">—</span></div>
-        <div style="display:flex;justify-content:space-between"><span class="small">52주 신고가</span><span class="no-data">—</span></div>
-        <div style="display:flex;justify-content:space-between"><span class="small">52주 신저가</span><span class="no-data">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">중국 시장 상태</span><span class="no-data" id="pulse-market-status">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">상승/하락 비율</span><span class="no-data" id="pulse-breadth">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">52주 신고가</span><span class="no-data" id="pulse-new-high">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">52주 신저가</span><span class="no-data" id="pulse-new-low">—</span></div>
         <div style="display:flex;justify-content:space-between;border-top:1px solid var(--line-2);padding-top:5px;margin-top:5px"><span class="small">후강통 北上 (¥억)</span><span class="no-data">—</span></div>
         <div style="display:flex;justify-content:space-between"><span class="small">심강통 北上 (¥억)</span><span class="no-data">—</span></div>
       </div>
@@ -963,6 +963,85 @@ async function loadDART(){
 }
 loadDART();
 setInterval(loadDART, 10 * 60 * 1000);
+
+// 시장 펄스 자동 갱신 (data/pulse.json)
+async function loadPulse(){
+  const elStatus  = document.getElementById('pulse-market-status');
+  const elBreadth = document.getElementById('pulse-breadth');
+  const elHigh    = document.getElementById('pulse-new-high');
+  const elLow     = document.getElementById('pulse-new-low');
+  if(!elStatus) return;
+  try{
+    const r = await fetch('data/pulse.json?t=' + Date.now());
+    if(!r.ok) throw new Error('HTTP ' + r.status);
+    const p = await r.json();
+
+    // 1) 중국 시장 상태
+    if(p.china_market){
+      const m = p.china_market;
+      elStatus.textContent = m.label || '—';
+      elStatus.classList.remove('no-data');
+      // color: up(녹/적), muted(회색) — 사이트 색 컨벤션 따라 OPEN 상태만 강조
+      if(m.status === 'OPEN'){
+        elStatus.style.color = 'var(--up)';      // 사이트 컨벤션: 상승 = red
+        elStatus.style.fontWeight = '700';
+      }else{
+        elStatus.style.color = 'var(--muted)';
+        elStatus.style.fontWeight = '500';
+      }
+    }
+
+    // 2) 상승/하락 비율
+    if(p.breadth && p.breadth.total > 0){
+      const b = p.breadth;
+      // 형식: "27 ▲ / 8 ▼  (35)"
+      elBreadth.innerHTML =
+        '<span style="color:var(--up);font-weight:700">' + b.up + ' ▲</span>' +
+        '<span style="color:var(--muted);margin:0 4px">/</span>' +
+        '<span style="color:var(--down);font-weight:700">' + b.down + ' ▼</span>' +
+        '<span style="color:var(--muted);margin-left:6px;font-size:11px">(' + b.total + ')</span>';
+      elBreadth.classList.remove('no-data');
+    }else{
+      elBreadth.textContent = '—';
+    }
+
+    // 3) 52주 신고가 종목 수
+    if(p.high_low_52w){
+      const hl = p.high_low_52w;
+      const nh = hl.new_high_count;
+      if(nh > 0){
+        // 종목명 툴팁 (상위 3개)
+        const tip = (hl.new_highs || []).slice(0,5).map(x => x.name + '(' + x.id + ')').join(', ');
+        elHigh.innerHTML = '<span style="color:var(--up);font-weight:700" title="' + tip + '">' + nh + ' 종</span>';
+      }else{
+        elHigh.textContent = '0 종';
+        elHigh.style.color = 'var(--muted)';
+      }
+      elHigh.classList.remove('no-data');
+
+      const nl = hl.new_low_count;
+      if(nl > 0){
+        const tipL = (hl.new_lows || []).slice(0,5).map(x => x.name + '(' + x.id + ')').join(', ');
+        elLow.innerHTML = '<span style="color:var(--down);font-weight:700" title="' + tipL + '">' + nl + ' 종</span>';
+      }else{
+        elLow.textContent = '0 종';
+        elLow.style.color = 'var(--muted)';
+      }
+      elLow.classList.remove('no-data');
+    }
+
+    console.log('[Pulse] loaded', p.updated_at_kst,
+                '· 시장:', p.china_market && p.china_market.status,
+                '· 상승/하락:', p.breadth && p.breadth.label,
+                '· 신고가:', p.high_low_52w && p.high_low_52w.new_high_count,
+                '· 신저가:', p.high_low_52w && p.high_low_52w.new_low_count);
+  }catch(e){
+    console.warn('[Pulse] failed:', e.message);
+    elStatus.textContent = '로딩 실패';
+  }
+}
+loadPulse();
+setInterval(loadPulse, 5 * 60 * 1000);  // 5분마다
 
 // 캔들 차트 (TradingView Lightweight Charts)
 let chartInstance = null;

@@ -1,0 +1,40 @@
+{
+  "updated_at_kst": "2026-05-31T17:00:03.154678+09:00",
+  "source": {
+    "watchlist": "data/stocks_latest.json",
+    "charts": "data/charts/*.json"
+  },
+  "config": {
+    "high_low_threshold_pct": 1.0,
+    "window_days": 252,
+    "breadth_universe": "a_stock + hk_stock + us_adr"
+  },
+  "china_market": {
+    "status": "WEEKEND",
+    "label": "휴장 (주말)",
+    "color": "muted"
+  },
+  "breadth": {
+    "up": 27,
+    "down": 8,
+    "flat": 0,
+    "total": 35,
+    "label": "27 / 8"
+  },
+  "high_low_52w": {
+    "checked": 50,
+    "no_chart": 0,
+    "new_high_count": 0,
+    "new_low_count": 1,
+    "new_highs": [],
+    "new_lows": [
+      {
+        "id": "LI",
+        "name": "리오토",
+        "close": 15.01,
+        "yr_low": 14.905,
+        "gap_pct": 0.7
+      }
+    ]
+  }
+}
