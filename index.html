@@ -461,10 +461,12 @@
         </div>
       </div>
       <div class="panel" style="background:var(--bg);padding:10px 12px">
-        <div class="panel-head"><div class="panel-title">공시 · DART · CSRC · SEC <span class="badge-api">API</span></div></div>
-        <div style="font-size:12px;color:var(--muted);font-style:italic;text-align:center;padding:24px 0;line-height:1.6">
-          공시 데이터 없음<br>
-          <span class="api-needed" style="margin-top:6px;display:inline-block">DART OpenAPI / SEC EDGAR / CSRC 연동 필요</span>
+        <div class="panel-head">
+          <div class="panel-title">공시 · DART <span class="badge-live">LIVE</span></div>
+          <span class="panel-actions"><a href="https://dart.fss.or.kr" target="_blank" rel="noopener" style="color:var(--orange);font-size:11px">DART →</a></span>
+        </div>
+        <div id="dart-list" style="font-size:12px;line-height:1.5">
+          <div style="color:var(--muted);font-style:italic;text-align:center;padding:24px 0">공시 로딩 중...</div>
         </div>
       </div>
     </div>
@@ -878,6 +880,43 @@ function bindTimeButtons(){
     applyChartPeriod(period);
   });
 }
+
+// DART 공시 자동 갱신
+async function loadDART(){
+  const listEl = document.getElementById('dart-list');
+  if(!listEl) return;
+  try{
+    const r = await fetch('data/dart_latest.json?t=' + Date.now());
+    if(!r.ok) throw new Error('HTTP ' + r.status);
+    const data = await r.json();
+    const items = data.disclosures || [];
+    if(items.length === 0){
+      listEl.innerHTML = '<div style="color:var(--muted);font-style:italic;text-align:center;padding:18px 0">최근 공시 없음</div>';
+      return;
+    }
+    // 공시 항목 렌더링 (최근 15건)
+    const rows = items.slice(0, 15).map(d => {
+      const dateOnly = (d.rcept_dt || '').replace(/-/g, '');
+      const md = dateOnly.length === 8 ? dateOnly.slice(4,6) + '-' + dateOnly.slice(6,8) : d.rcept_dt;
+      const reportShort = (d.report_nm || '').length > 38 ? (d.report_nm || '').slice(0, 38) + '…' : (d.report_nm || '');
+      return `<div style="padding:6px 0;border-bottom:1px solid var(--line-grid);cursor:pointer" onclick="window.open('${d.dart_url}', '_blank')">
+        <div style="display:flex;justify-content:space-between;gap:6px;align-items:start">
+          <span style="color:var(--orange);font-family:'JetBrains Mono',monospace;font-size:10px;font-weight:700">${d.stock_code}</span>
+          <span style="color:var(--muted);font-size:10px;font-family:'JetBrains Mono',monospace">${md}</span>
+        </div>
+        <div style="font-size:12px;color:var(--text);margin-top:2px;line-height:1.35">${reportShort}</div>
+        <div style="font-size:10px;color:var(--muted);margin-top:2px">${d.corp_name}${d.flr_nm ? ' · ' + d.flr_nm : ''}</div>
+      </div>`;
+    }).join('');
+    listEl.innerHTML = rows;
+    console.log('[DART] loaded', data.run_at_kst, '· items:', items.length);
+  }catch(e){
+    console.warn('[DART] failed:', e.message);
+    listEl.innerHTML = '<div style="color:var(--muted);font-style:italic;text-align:center;padding:18px 0">공시 데이터 로딩 실패</div>';
+  }
+}
+loadDART();
+setInterval(loadDART, 10 * 60 * 1000);  // 10분 간격
 
 window.addEventListener('load', () => {
   if(window.LightweightCharts){
