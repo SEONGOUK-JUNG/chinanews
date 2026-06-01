@@ -444,6 +444,26 @@
           <tr><td colspan="6" style="color:var(--muted);font-style:italic;text-align:center;padding:14px 0">로딩 중…</td></tr>
         </tbody>
       </table>
+      <div style="font-size:11px;color:var(--muted);margin-top:6px;font-style:italic">표 행을 클릭하면 아래에 차트가 표시됩니다.</div>
+    </div>
+
+    <!-- 원자재 전용 차트 패널 -->
+    <div class="panel" style="background:var(--bg);padding:10px 12px" id="cm-chart-panel">
+      <div class="panel-head">
+        <div>
+          <div class="panel-title" id="cm-chart-title">원자재 차트 <span class="badge-live">LINE</span></div>
+          <div style="font-size:11px;color:var(--muted);margin-top:2px" id="cm-chart-subtitle">표에서 원자재를 클릭하세요</div>
+        </div>
+        <div style="display:flex;gap:4px" id="cm-chart-buttons">
+          <span class="tf-pill cm-tf" data-cm-tf="1W">1W</span>
+          <span class="tf-pill cm-tf" data-cm-tf="1M">1M</span>
+          <span class="tf-pill cm-tf" data-cm-tf="3M">3M</span>
+          <span class="tf-pill cm-tf" data-cm-tf="6M">6M</span>
+          <span class="tf-pill cm-tf" data-cm-tf="1Y">1Y</span>
+          <span class="tf-pill cm-tf active" data-cm-tf="MAX">MAX</span>
+        </div>
+      </div>
+      <div id="cm-chart-canvas" style="width:100%;height:260px;background:var(--bg);margin-top:6px"></div>
     </div>
 
     <!-- 전체 원자재 모달 -->
@@ -1230,46 +1250,116 @@ document.addEventListener('input', function(e){
 loadCommodities();
 setInterval(loadCommodities, 15 * 60 * 1000);
 
-// ─── 원자재 차트 로더 (data/commodity_charts/{id}.json) ───
+// ─── 원자재 전용 차트 (주식 차트와 완전 분리) ───
+let _cmChartInstance = null;
+let _cmLineSeries = null;
+let _cmAllValues = [];   // 현재 로드된 종목의 전체 값
+let _cmCurrentPeriod = 'MAX';
+let _cmCurrentId = null;
+
+function _initCmChart(){
+  const el = document.getElementById('cm-chart-canvas');
+  if(!el || _cmChartInstance) return;
+  if(!window.LightweightCharts){
+    console.warn('LightweightCharts 라이브러리 없음 (원자재 차트)');
+    return;
+  }
+  _cmChartInstance = LightweightCharts.createChart(el, {
+    width: el.clientWidth,
+    height: el.clientHeight,
+    layout: { background:{type:'solid', color:'transparent'}, textColor: getComputedStyle(document.body).getPropertyValue('--text') || '#cfcfcf' },
+    grid: {
+      vertLines: { color: 'rgba(255,255,255,0.04)' },
+      horzLines: { color: 'rgba(255,255,255,0.04)' },
+    },
+    rightPriceScale: { borderVisible: false },
+    timeScale: { borderVisible: false, timeVisible: false, secondsVisible: false },
+  });
+  _cmLineSeries = _cmChartInstance.addLineSeries({
+    color: '#E8C078',
+    lineWidth: 2,
+    priceLineVisible: true,
+    lastValueVisible: true,
+  });
+  // 반응형 너비
+  window.addEventListener('resize', function(){
+    if(_cmChartInstance && el) _cmChartInstance.applyOptions({ width: el.clientWidth });
+  });
+}
+
+function _applyCmPeriod(period){
+  if(!_cmLineSeries || _cmAllValues.length === 0) return;
+  _cmCurrentPeriod = period;
+  const now = new Date();
+  let cutoffStr = null;
+  switch(period){
+    case '1W': { const d=new Date(now); d.setDate(d.getDate()-7);  cutoffStr=d.toISOString().slice(0,10); break; }
+    case '1M': { const d=new Date(now); d.setMonth(d.getMonth()-1); cutoffStr=d.toISOString().slice(0,10); break; }
+    case '3M': { const d=new Date(now); d.setMonth(d.getMonth()-3); cutoffStr=d.toISOString().slice(0,10); break; }
+    case '6M': { const d=new Date(now); d.setMonth(d.getMonth()-6); cutoffStr=d.toISOString().slice(0,10); break; }
+    case '1Y': { const d=new Date(now); d.setFullYear(d.getFullYear()-1); cutoffStr=d.toISOString().slice(0,10); break; }
+    case 'MAX':
+    default: cutoffStr = null;
+  }
+  const filtered = cutoffStr ? _cmAllValues.filter(function(p){ return p.time >= cutoffStr; }) : _cmAllValues;
+  _cmLineSeries.setData(filtered);
+  _cmChartInstance.timeScale().fitContent();
+  console.log('[CmChart] period:', period, '· filtered:', filtered.length, '/', _cmAllValues.length);
+}
+
 async function loadCommodityChart(commodityId, displayName){
   try {
-    if(!candleSeries){ initChart(); }
+    _initCmChart();
+    if(!_cmLineSeries) return;
     const r = await fetch('data/commodity_charts/' + commodityId + '.json?t=' + Date.now());
     if(!r.ok) throw new Error('HTTP ' + r.status);
     const d = await r.json();
     if(!Array.isArray(d.candles) || d.candles.length === 0){
-      console.warn('[CommodityChart] no candles for', commodityId);
+      console.warn('[CmChart] no candles for', commodityId);
       return;
     }
-    // 라인 차트로 변환 (현재 차트는 캔들이므로 일단 close 값으로 가상 OHLC 만들어 사용)
-    _fullCandles = d.candles.map(function(c){
-      return { time: c.time, open: c.value, high: c.value, low: c.value, close: c.value, volume: 0 };
-    });
-    candleSeries.setData(_fullCandles);
-    chartInstance.timeScale().fitContent();
-    // 종목 헤더 표시 (있을 경우)
-    const symEl = document.getElementById('chart-symbol');
-    if(symEl) symEl.textContent = (displayName || d.name || commodityId) + ' · ' + (d.unit || '');
-    const nameEl = document.getElementById('chart-symbol-name');
-    if(nameEl) nameEl.textContent = '원자재 · 일별 가격 (' + d.count + '일)';
-    console.log('[CommodityChart] loaded', commodityId, '· candles:', d.candles.length);
+    _cmCurrentId = commodityId;
+    _cmAllValues = d.candles.map(function(c){ return { time: c.time, value: c.value }; });
+    // 헤더 갱신
+    const titleEl = document.getElementById('cm-chart-title');
+    const subEl = document.getElementById('cm-chart-subtitle');
+    if(titleEl) titleEl.innerHTML = (displayName || d.name || commodityId) + ' <span class="badge-live">LINE</span> <span style="color:var(--muted);font-size:11px;font-weight:400;margin-left:6px">' + (d.unit || '') + '</span>';
+    if(subEl) subEl.textContent = '일별 가격 · ' + d.count + '일치 데이터';
+    // 현재 선택된 기간 유지
+    _applyCmPeriod(_cmCurrentPeriod);
+    // 차트 영역으로 스크롤
+    const chartEl = document.getElementById('cm-chart-canvas');
+    if(chartEl) chartEl.scrollIntoView({behavior: 'smooth', block: 'center'});
+    console.log('[CmChart] loaded', commodityId, '· candles:', d.candles.length);
   } catch(e) {
-    console.warn('[CommodityChart] failed:', e.message);
+    console.warn('[CmChart] failed:', e.message);
   }
 }
 
-// 원자재 행 클릭 → 차트 표시
+// 원자재 행 클릭 → 원자재 차트만 갱신 (주식 차트 건드리지 않음)
 document.addEventListener('click', function(e){
   const tr = e.target.closest('tr[data-cm-id]');
-  if(!tr) return;
-  const cid = tr.getAttribute('data-cm-id');
-  const nameCell = tr.querySelector('td');
-  const displayName = nameCell ? nameCell.textContent.trim() : '';
-  console.log('[Click] commodity:', cid, displayName);
-  loadCommodityChart(cid, displayName);
-  // 차트 영역으로 스크롤 (브라우저 위쪽)
-  const chartEl = document.getElementById('chart-canvas');
-  if(chartEl) chartEl.scrollIntoView({behavior: 'smooth', block: 'center'});
+  if(tr){
+    const cid = tr.getAttribute('data-cm-id');
+    const nameCell = tr.querySelector('td');
+    const displayName = nameCell ? nameCell.textContent.trim() : '';
+    console.log('[Click] commodity:', cid, displayName);
+    loadCommodityChart(cid, displayName);
+    return;
+  }
+  // 원자재 차트 시간 버튼
+  const btn = e.target.closest('.cm-tf');
+  if(btn){
+    document.querySelectorAll('.cm-tf').forEach(function(b){ b.classList.remove('active'); });
+    btn.classList.add('active');
+    const period = btn.getAttribute('data-cm-tf');
+    _applyCmPeriod(period);
+  }
+});
+
+// 첫 로드 시 금 차트로 시작 (다른 데이터 로드 후)
+window.addEventListener('load', function(){
+  setTimeout(function(){ loadCommodityChart('gold', '금'); }, 1500);
 });
   // 5분마다
 
