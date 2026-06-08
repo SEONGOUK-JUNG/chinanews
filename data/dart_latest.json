@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-06-08T13:01:19.307175+09:00",
+  "run_at_kst": "2026-06-08T23:31:14.565228+09:00",
   "source": "DART OpenAPI",
   "source_url": "https://opendart.fss.or.kr/",
   "period": "20260525~20260608",
@@ -7,6 +7,16 @@
   "success_companies": 20,
   "total_disclosures": 58,
   "disclosures": [
+    {
+      "stock_code": "005930",
+      "corp_name": "삼성전자",
+      "report_nm": "최대주주등소유주식변동신고서              ",
+      "flr_nm": "삼성전자",
+      "rcept_dt": "2026-06-08",
+      "rcept_no": "20260608800918",
+      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260608800918",
+      "rm": "유"
+    },
     {
       "stock_code": "005930",
       "corp_name": "삼성전자",
@@ -55,16 +65,6 @@
       "rcept_dt": "2026-06-05",
       "rcept_no": "20260605000061",
       "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260605000061",
-      "rm": ""
-    },
-    {
-      "stock_code": "005930",
-      "corp_name": "삼성전자",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "flr_nm": "이헌",
-      "rcept_dt": "2026-06-04",
-      "rcept_no": "20260604000077",
-      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260604000077",
       "rm": ""
     },
     {
