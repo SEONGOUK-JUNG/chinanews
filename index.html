@@ -369,8 +369,10 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
 
   <div class="center-main">
     <!-- ===== COMMODITY HERO (top priority) ===== -->
-    <!-- Commodity Pulse -->
-    <div class="panel" style="background:var(--bg);padding:10px 12px">
+    <!-- ===== Pulse (left) + Industrial Heatmap (right) row ===== -->
+    <div style="display:grid;grid-template-columns:minmax(280px,360px) minmax(0,1fr);gap:10px;align-items:start">
+    <!-- Commodity Pulse (left) -->
+    <div class="panel" style="background:var(--bg);padding:10px 12px;margin:0">
       <div class="panel-head">
         <div class="panel-title">Commodity Pulse <span class="badge-live">DAILY</span><span class="ts" id="cm-pulse-ref" style="margin-left:6px"></span></div>
       </div>
@@ -398,6 +400,13 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
           <div id="cm-pulse-losers" style="line-height:1.7;color:var(--text)">—</div>
         </div>
       </div>
+    </div>
+    <!-- Key Industrial Materials Heatmap (right) -->
+    <div class="panel" style="background:var(--bg);padding:10px 12px;margin:0">
+      <div class="panel-head"><div class="panel-title">Key Industrial Materials Heatmap <span class="badge-live">DAILY</span></div></div>
+      <div class="heatmap" id="ind-heatmap"><div class="hm-cell hm-no"><div class="hm-name">Loading…</div><div class="hm-val">—</div></div></div>
+      <div style="font-size:11px;color:var(--muted);margin-top:8px;font-style:italic">Color: red = up · green = down (CN convention)</div>
+    </div>
     </div>
 
 
@@ -435,13 +444,6 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
         </tbody>
       </table>
       <div style="font-size:11px;color:var(--muted);margin-top:6px;font-style:italic">Click a row to load its chart below.</div>
-    </div>
-
-    <!-- ===== Key Industrial Materials Heatmap ===== -->
-    <div class="panel" style="background:var(--bg);padding:10px 12px">
-      <div class="panel-head"><div class="panel-title">Key Industrial Materials Heatmap <span class="badge-live">DAILY</span></div></div>
-      <div class="heatmap" id="ind-heatmap"><div class="hm-cell hm-no"><div class="hm-name">Loading…</div><div class="hm-val">—</div></div></div>
-      <div style="font-size:11px;color:var(--muted);margin-top:8px;font-style:italic">Color: red = up · green = down (CN convention)</div>
     </div>
 
     <!-- ===== Featured Commodity Mini-Charts ===== -->
