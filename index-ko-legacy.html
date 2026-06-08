@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>차이나News 터미널 · CHINANEWS Terminal — KR인을 위한 중국 주식 Financials 단말기</title>
-<meta name="description" content="중국 주식·ETF·지수·Commodities·FX & Rates, KR 주식·DART Filings를 하나의 단말기에서. chinanews.kr">
+<title>차이나뉴스 터미널 · CHINANEWS Terminal — 한국인을 위한 중국 주식 금융 단말기</title>
+<meta name="description" content="중국 주식·ETF·지수·원자재·환율·금리, 한국 주식·DART 공시를 하나의 단말기에서. chinanews.kr">
 <link rel="canonical" href="https://chinanews.kr/">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
 <script src="https://unpkg.com/lightweight-charts@4.1.3/dist/lightweight-charts.standalone.production.js"></script>
@@ -190,7 +190,7 @@
   ::-webkit-scrollbar-thumb{background:var(--line-2);border-radius:4px}
   ::-webkit-scrollbar-thumb:hover{background:var(--orange)}
 
-  /* Symbol 검색 모달 */
+  /* 종목 검색 모달 */
   .modal-overlay{position:fixed;inset:0;background:rgba(0,0,0,.8);display:none;align-items:flex-start;justify-content:center;z-index:1000;padding-top:80px}
   .modal-overlay.open{display:flex}
   .modal-box{background:var(--bg-1);border:1px solid var(--orange);border-radius:6px;width:90%;max-width:600px;max-height:70vh;display:flex;flex-direction:column;overflow:hidden}
@@ -221,50 +221,29 @@
   .src-tag{font-size:10px;color:var(--orange);padding:2px 6px;background:var(--bg);border:1px solid var(--orange-dim);font-family:"JetBrains Mono",monospace;letter-spacing:.5px;display:inline-block;margin-left:5px;font-weight:700}
   .src-tag.real{color:var(--up);border-color:var(--up)}
   .ts{font-size:11px;color:var(--muted);font-family:"JetBrains Mono",monospace}
-  .lang-toggle{display:flex;border:1px solid var(--line-2);border-radius:3px;overflow:hidden;margin-right:6px}
-  .lang-toggle span{padding:2px 8px;font-size:11px;font-weight:700;cursor:pointer;color:var(--muted);letter-spacing:.5px}
-  .lang-toggle span.active{background:var(--orange);color:#000}
-  .topbar{overflow:hidden}
-  .tb-tabs{overflow:hidden;flex-shrink:1}
-  .tb-tab{flex-shrink:0}
-  .tb-search{max-width:280px;flex-shrink:1}
-  .tb-side{flex-shrink:0}
-  .idx-strip{flex-wrap:nowrap}
-  #cm-sparkgrid .up{color:var(--up)} #cm-sparkgrid .down{color:var(--down)}
 </style>
 </head>
 <body>
-<script>
-window.USD_CNY = null;
-window.CN_LANG = (function(){ try{ return localStorage.getItem('chinanews_lang')||'en'; }catch(e){ return 'en'; } })();
-window.CM_I18N = {names:{}, sectors:{}, categories:{}};
-function cmName(ko){ var L=window.CN_LANG||'en'; if(L==='ko') return (ko&&String(ko).trim())?ko:'(미상)'; if(!ko||!String(ko).trim()) return '(unnamed)'; return window.CM_I18N.names[ko]||ko; }
-function cmSector(ko){ var L=window.CN_LANG||'en'; if(L==='ko') return ko||''; return (window.CM_I18N.sectors[ko]!==undefined)?window.CM_I18N.sectors[ko]:(ko||''); }
-function usdEst(price,unit,ko){ if(price==null) return '\u2014'; if((unit&&String(unit).indexOf('USD')===0)||ko==='\uc6d0\uc720') return '$'+Number(price).toLocaleString(undefined,{maximumFractionDigits:2}); if(window.USD_CNY==null) return '\u2014'; return '$'+(price/window.USD_CNY).toLocaleString(undefined,{maximumFractionDigits:2}); }
-fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json();}).then(function(j){ window.CM_I18N=j; if(window.loadCommodities) window.loadCommodities(); if(window.__applyLang) window.__applyLang(); }).catch(function(e){ console.warn('i18n load failed', e); });
-</script>
-
 
 <div class="topbar">
   <div class="logo-mark">CHINANEWS · TERMINAL</div>
   <div class="tb-tabs">
-    <span class="tb-tab active">Home</span>
-    <span class="tb-tab">China Eq</span>
-    <span class="tb-tab">KR Eq</span>
-    <span class="tb-tab">Commodities</span>
-    <span class="tb-tab">FX & Rates</span>
+    <span class="tb-tab active">홈</span>
+    <span class="tb-tab">중국주식</span>
+    <span class="tb-tab">한국주식</span>
+    <span class="tb-tab">원자재</span>
+    <span class="tb-tab">환율·금리</span>
     <span class="tb-tab">ETF</span>
-    <span class="tb-tab">Options</span>
-    <span class="tb-tab">News</span>
-    <span class="tb-tab">Filings</span>
+    <span class="tb-tab">옵션</span>
+    <span class="tb-tab">뉴스</span>
+    <span class="tb-tab">공시·SEC·DART</span>
     <span class="tb-tab">AI</span>
   </div>
   <div class="tb-search">
     <span class="gd">GO&gt;</span>
-    <input type="text" placeholder="Symbol / 명령 입력 (예: 600519, BABA, 005930, COPPER)">
+    <input type="text" placeholder="종목 / 명령 입력 (예: 600519, BABA, 005930, COPPER)">
   </div>
   <div class="tb-side">
-    <div class="lang-toggle" id="lang-toggle"><span data-lang="en" class="active">EN</span><span data-lang="ko">KR어</span></div>
     <span class="conn-status">CONNECTED</span>
     <span class="item-dim">SHANGHAI</span>
     <span class="item mono" id="clock-shanghai">--:--</span>
@@ -276,24 +255,24 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
 </div>
 
 <div class="idx-strip">
-  <div class="idx-cell"><div class="idx-name">CSI 300</div><div id="idx-csi300-val" class="idx-val no-data">—</div><div id="idx-csi300-chg" class="idx-chg"><span class="api-needed">Loading</span></div></div>
-  <div class="idx-cell"><div class="idx-name">SSE COMP</div><div id="idx-sse-val" class="idx-val no-data">—</div><div id="idx-sse-chg" class="idx-chg"><span class="api-needed">Loading</span></div></div>
-  <div class="idx-cell"><div class="idx-name">SZSE COMP</div><div id="idx-szse-val" class="idx-val no-data">—</div><div id="idx-szse-chg" class="idx-chg"><span class="api-needed">Loading</span></div></div>
-  <div class="idx-cell"><div class="idx-name">CHINEXT</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API</span></div></div>
-  <div class="idx-cell"><div class="idx-name">STAR 50</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API</span></div></div>
-  <div class="idx-cell"><div class="idx-name">HSI 항셍</div><div id="idx-hsi-val" class="idx-val no-data">—</div><div id="idx-hsi-chg" class="idx-chg"><span class="api-needed">Loading</span></div></div>
-  <div class="idx-cell"><div class="idx-name">HSCEI H지수</div><div id="idx-hscei-val" class="idx-val no-data">—</div><div id="idx-hscei-chg" class="idx-chg"><span class="api-needed">Loading</span></div></div>
-  <div class="idx-cell"><div class="idx-name">KOSPI</div><div id="idx-kospi-val" class="idx-val no-data">—</div><div id="idx-kospi-chg" class="idx-chg"><span class="api-needed">Loading</span></div></div>
-  <div class="idx-cell"><div class="idx-name">KOSDAQ</div><div id="idx-kosdaq-val" class="idx-val no-data">—</div><div id="idx-kosdaq-chg" class="idx-chg"><span class="api-needed">Loading</span></div></div>
-  <div class="idx-cell"><div class="idx-name">USD/CNY</div><div id="fx-usd-cny-val" class="idx-val no-data">—</div><div id="fx-usd-cny-chg" class="idx-chg"><span class="api-needed">Loading</span></div></div>
-  <div class="idx-cell"><div class="idx-name">CNY/KRW</div><div id="fx-cny-krw-val" class="idx-val no-data">—</div><div id="fx-cny-krw-chg" class="idx-chg"><span class="api-needed">Loading</span></div></div>
-  <div class="idx-cell"><div class="idx-name">USD/KRW</div><div id="fx-usd-krw-val" class="idx-val no-data">—</div><div id="fx-usd-krw-chg" class="idx-chg"><span class="api-needed">Loading</span></div></div>
+  <div class="idx-cell"><div class="idx-name">CSI 300</div><div id="idx-csi300-val" class="idx-val no-data">—</div><div id="idx-csi300-chg" class="idx-chg"><span class="api-needed">로딩</span></div></div>
+  <div class="idx-cell"><div class="idx-name">SSE COMP</div><div id="idx-sse-val" class="idx-val no-data">—</div><div id="idx-sse-chg" class="idx-chg"><span class="api-needed">로딩</span></div></div>
+  <div class="idx-cell"><div class="idx-name">SZSE COMP</div><div id="idx-szse-val" class="idx-val no-data">—</div><div id="idx-szse-chg" class="idx-chg"><span class="api-needed">로딩</span></div></div>
+  <div class="idx-cell"><div class="idx-name">CHINEXT</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API 필요</span></div></div>
+  <div class="idx-cell"><div class="idx-name">STAR 50</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API 필요</span></div></div>
+  <div class="idx-cell"><div class="idx-name">HSI 항셍</div><div id="idx-hsi-val" class="idx-val no-data">—</div><div id="idx-hsi-chg" class="idx-chg"><span class="api-needed">로딩</span></div></div>
+  <div class="idx-cell"><div class="idx-name">HSCEI H지수</div><div id="idx-hscei-val" class="idx-val no-data">—</div><div id="idx-hscei-chg" class="idx-chg"><span class="api-needed">로딩</span></div></div>
+  <div class="idx-cell"><div class="idx-name">KOSPI</div><div id="idx-kospi-val" class="idx-val no-data">—</div><div id="idx-kospi-chg" class="idx-chg"><span class="api-needed">로딩</span></div></div>
+  <div class="idx-cell"><div class="idx-name">KOSDAQ</div><div id="idx-kosdaq-val" class="idx-val no-data">—</div><div id="idx-kosdaq-chg" class="idx-chg"><span class="api-needed">로딩</span></div></div>
+  <div class="idx-cell"><div class="idx-name">USD/CNY</div><div id="fx-usd-cny-val" class="idx-val no-data">—</div><div id="fx-usd-cny-chg" class="idx-chg"><span class="api-needed">로딩</span></div></div>
+  <div class="idx-cell"><div class="idx-name">CNY/KRW</div><div id="fx-cny-krw-val" class="idx-val no-data">—</div><div id="fx-cny-krw-chg" class="idx-chg"><span class="api-needed">로딩</span></div></div>
+  <div class="idx-cell"><div class="idx-name">USD/KRW</div><div id="fx-usd-krw-val" class="idx-val no-data">—</div><div id="fx-usd-krw-chg" class="idx-chg"><span class="api-needed">로딩</span></div></div>
   <div class="idx-cell"><div class="idx-name">WTI</div><div class="idx-val mono">89.67</div><div class="idx-chg up mono">▲ +2.57%</div></div>
   <div class="idx-cell"><div class="idx-name">BRENT</div><div class="idx-val mono">98.48</div><div class="idx-chg up mono">▲ +3.14%</div></div>
-  <div class="idx-cell"><div class="idx-name">GOLD</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API</span></div></div>
-  <div class="idx-cell"><div class="idx-name">10Y CN</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API</span></div></div>
-  <div class="idx-cell"><div class="idx-name">10Y KR</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API</span></div></div>
-  <div class="idx-cell"><div class="idx-name">BTC</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API</span></div></div>
+  <div class="idx-cell"><div class="idx-name">GOLD</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API 필요</span></div></div>
+  <div class="idx-cell"><div class="idx-name">10Y CN</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API 필요</span></div></div>
+  <div class="idx-cell"><div class="idx-name">10Y KR</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API 필요</span></div></div>
+  <div class="idx-cell"><div class="idx-name">BTC</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API 필요</span></div></div>
 </div>
 
 <div class="main">
@@ -301,59 +280,59 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
   <div class="sidebar-l">
 
     <div class="panel">
-      <div class="panel-head"><div class="panel-title">Market Pulse <span class="badge-api" id="pulse-badge">API</span></div><span class="panel-actions">⋯</span></div>
+      <div class="panel-head"><div class="panel-title">시장 펄스 <span class="badge-api" id="pulse-badge">API</span></div><span class="panel-actions">⋯</span></div>
       <div style="font-size:13px;line-height:1.7">
-        <div style="display:flex;justify-content:space-between"><span class="small">Market Status</span><span class="no-data" id="pulse-market-status">—</span></div>
-        <div style="display:flex;justify-content:space-between"><span class="small">Adv / Dec</span><span class="no-data" id="pulse-breadth">—</span></div>
-        <div style="display:flex;justify-content:space-between"><span class="small">52W Highs</span><span class="no-data" id="pulse-new-high">—</span></div>
-        <div style="display:flex;justify-content:space-between"><span class="small">52W Lows</span><span class="no-data" id="pulse-new-low">—</span></div>
-        <div style="display:flex;justify-content:space-between;border-top:1px solid var(--line-2);padding-top:5px;margin-top:5px"><span class="small">HK→SH (¥100M)</span><span class="no-data">—</span></div>
-        <div style="display:flex;justify-content:space-between"><span class="small">HK→SZ (¥100M)</span><span class="no-data">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">중국 시장 상태</span><span class="no-data" id="pulse-market-status">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">상승/하락 비율</span><span class="no-data" id="pulse-breadth">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">52주 신고가</span><span class="no-data" id="pulse-new-high">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">52주 신저가</span><span class="no-data" id="pulse-new-low">—</span></div>
+        <div style="display:flex;justify-content:space-between;border-top:1px solid var(--line-2);padding-top:5px;margin-top:5px"><span class="small">후강통 北上 (¥억)</span><span class="no-data">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">심강통 北上 (¥억)</span><span class="no-data">—</span></div>
       </div>
     </div>
 
     <div class="panel">
       <div class="panel-head">
-        <div class="panel-title">Watchlist <span class="badge-live">LIVE</span></div>
+        <div class="panel-title">관심종목 <span class="badge-live">LIVE</span></div>
         <span class="panel-actions" id="wl-add-btn" style="cursor:pointer;font-size:16px;color:var(--orange);font-weight:700">+</span>
       </div>
       <div class="watchlist" id="watchlist-container">
-        <div style="color:var(--muted);font-style:italic;text-align:center;padding:14px 0;font-size:11px">Loading…</div>
+        <div style="color:var(--muted);font-style:italic;text-align:center;padding:14px 0;font-size:11px">로딩 중...</div>
       </div>
     </div>
 
     <div class="panel">
-      <div class="panel-head"><div class="panel-title">China Sectors <span class="badge-api">API</span></div></div>
+      <div class="panel-head"><div class="panel-title">중국 섹터 <span class="badge-api">API</span></div></div>
       <div class="sector-grid">
-        <div class="sec-cell"><div class="sec-name">Financials</div><div class="sec-val no-data">—</div></div>
-        <div class="sec-cell"><div class="sec-name">Consumer</div><div class="sec-val no-data">—</div></div>
+        <div class="sec-cell"><div class="sec-name">금융</div><div class="sec-val no-data">—</div></div>
+        <div class="sec-cell"><div class="sec-name">소비재</div><div class="sec-val no-data">—</div></div>
         <div class="sec-cell"><div class="sec-name">IT</div><div class="sec-val no-data">—</div></div>
-        <div class="sec-cell"><div class="sec-name">Health</div><div class="sec-val no-data">—</div></div>
-        <div class="sec-cell"><div class="sec-name">Energy</div><div class="sec-val no-data">—</div></div>
-        <div class="sec-cell"><div class="sec-name">Materials</div><div class="sec-val no-data">—</div></div>
-        <div class="sec-cell"><div class="sec-name">Industrials</div><div class="sec-val no-data">—</div></div>
-        <div class="sec-cell"><div class="sec-name">Telecom</div><div class="sec-val no-data">—</div></div>
-        <div class="sec-cell"><div class="sec-name">Real Estate</div><div class="sec-val no-data">—</div></div>
+        <div class="sec-cell"><div class="sec-name">헬스</div><div class="sec-val no-data">—</div></div>
+        <div class="sec-cell"><div class="sec-name">에너지</div><div class="sec-val no-data">—</div></div>
+        <div class="sec-cell"><div class="sec-name">소재</div><div class="sec-val no-data">—</div></div>
+        <div class="sec-cell"><div class="sec-name">산업재</div><div class="sec-val no-data">—</div></div>
+        <div class="sec-cell"><div class="sec-name">통신</div><div class="sec-val no-data">—</div></div>
+        <div class="sec-cell"><div class="sec-name">부동산</div><div class="sec-val no-data">—</div></div>
       </div>
     </div>
 
     <div class="panel">
-      <div class="panel-head"><div class="panel-title">Fund Flows (28D) <span class="badge-api">API</span></div></div>
+      <div class="panel-head"><div class="panel-title">자금 흐름 (28D) <span class="badge-api">API</span></div></div>
       <div style="font-size:12px;line-height:1.7">
-        <div style="display:flex;justify-content:space-between"><span class="small">Northbound</span><span class="no-data">—</span></div>
-        <div style="display:flex;justify-content:space-between"><span class="small">Southbound</span><span class="no-data">—</span></div>
-        <div style="display:flex;justify-content:space-between"><span class="small">ETF Net Buy</span><span class="no-data">—</span></div>
-        <div style="display:flex;justify-content:space-between"><span class="small">Margin Balance</span><span class="no-data">—</span></div>
-        <div style="display:flex;justify-content:space-between"><span class="small">Margin Trading</span><span class="no-data">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">외국인 北上</span><span class="no-data">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">내국인 南下</span><span class="no-data">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">ETF 순매수</span><span class="no-data">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">신용잔액 변동</span><span class="no-data">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">융자융권</span><span class="no-data">—</span></div>
       </div>
     </div>
 
     <div class="panel">
-      <div class="panel-head"><div class="panel-title">US Macro / FX <span class="badge-api">API</span></div></div>
+      <div class="panel-head"><div class="panel-title">US 매크로 / FX <span class="badge-api">API</span></div></div>
       <div style="font-size:12px;line-height:1.7">
-        <div style="display:flex;justify-content:space-between"><span class="small">DXY Index</span><span class="no-data">—</span></div>
-        <div style="display:flex;justify-content:space-between"><span class="small">US 2Y</span><span class="no-data">—</span></div>
-        <div style="display:flex;justify-content:space-between"><span class="small">US 10Y</span><span class="no-data">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">DXY 달러지수</span><span class="no-data">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">2Y 미국채</span><span class="no-data">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">10Y 미국채</span><span class="no-data">—</span></div>
         <div style="display:flex;justify-content:space-between"><span class="small">Fed Funds Fut</span><span class="no-data">—</span></div>
         <div style="display:flex;justify-content:space-between"><span class="small">VIX</span><span class="no-data">—</span></div>
       </div>
@@ -362,81 +341,13 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
   </div>
 
   <div class="center-main">
-    <!-- ===== COMMODITY HERO (top priority) ===== -->
-    <!-- Commodity Chart Panel -->
-    <div class="panel" style="background:var(--bg);padding:10px 12px" id="cm-chart-panel">
-      <div class="panel-head">
-        <div>
-          <div class="panel-title" id="cm-chart-title">Commodity Chart <span class="badge-live">LINE</span></div>
-          <div style="font-size:11px;color:var(--muted);margin-top:2px" id="cm-chart-subtitle">Click a commodity in the table</div>
-        </div>
-        <div style="display:flex;gap:4px" id="cm-chart-buttons">
-          <span class="tf-pill cm-tf" data-cm-tf="1W">1W</span>
-          <span class="tf-pill cm-tf" data-cm-tf="1M">1M</span>
-          <span class="tf-pill cm-tf" data-cm-tf="3M">3M</span>
-          <span class="tf-pill cm-tf" data-cm-tf="6M">6M</span>
-          <span class="tf-pill cm-tf" data-cm-tf="1Y">1Y</span>
-          <span class="tf-pill cm-tf active" data-cm-tf="MAX">MAX</span>
-        </div>
-      </div>
-      <div id="cm-chart-canvas" style="width:100%;height:360px;background:var(--bg);margin-top:6px"></div>
-    </div>
-
-    <!-- Featured 16 -->
-    <div class="panel" style="background:var(--bg);padding:10px 12px">
-      <div class="panel-head">
-        <div class="panel-title">Featured Commodities <span class="badge-live">REAL</span><span class="ts" id="cm-updated" style="margin-left:6px">Loading…</span></div>
-        <span class="panel-actions" id="cm-all-btn" style="cursor:pointer;color:var(--orange);font-weight:600">All 438 →</span>
-      </div>
-      <table class="dt">
-        <thead>
-          <tr><th>Item</th><th>Sector</th><th id="cm-th-prev">Prev</th><th id="cm-th-today">Last</th><th>Chg%</th><th>USD</th><th>Unit</th></tr>
-        </thead>
-        <tbody id="cm-featured-body">
-          <tr><td colspan="6" style="color:var(--muted);font-style:italic;text-align:center;padding:14px 0">Loading…</td></tr>
-        </tbody>
-      </table>
-      <div style="font-size:11px;color:var(--muted);margin-top:6px;font-style:italic">Click a row to load its chart below.</div>
-    </div>
-
-    <!-- Commodity Pulse -->
-    <div class="panel" style="background:var(--bg);padding:10px 12px">
-      <div class="panel-head">
-        <div class="panel-title">Commodity Pulse <span class="badge-live">DAILY</span><span class="ts" id="cm-pulse-ref" style="margin-left:6px"></span></div>
-      </div>
-      <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;margin-bottom:10px">
-        <div style="text-align:center;padding:8px;background:var(--line-grid);border-radius:4px">
-          <div style="font-size:11px;color:var(--muted);margin-bottom:2px">Up</div>
-          <div style="font-size:18px;font-weight:700;color:var(--up)" id="cm-pulse-up">—</div>
-        </div>
-        <div style="text-align:center;padding:8px;background:var(--line-grid);border-radius:4px">
-          <div style="font-size:11px;color:var(--muted);margin-bottom:2px">Down</div>
-          <div style="font-size:18px;font-weight:700;color:var(--down)" id="cm-pulse-down">—</div>
-        </div>
-        <div style="text-align:center;padding:8px;background:var(--line-grid);border-radius:4px">
-          <div style="font-size:11px;color:var(--muted);margin-bottom:2px">Flat</div>
-          <div style="font-size:18px;font-weight:700;color:var(--muted)" id="cm-pulse-flat">—</div>
-        </div>
-      </div>
-      <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;font-size:12px">
-        <div>
-          <div style="color:var(--up);font-weight:700;font-size:11px;margin-bottom:4px">▲ Top Gainers</div>
-          <div id="cm-pulse-gainers" style="line-height:1.7;color:var(--text)">—</div>
-        </div>
-        <div>
-          <div style="color:var(--down);font-weight:700;font-size:11px;margin-bottom:4px">▼ Top Decliners</div>
-          <div id="cm-pulse-losers" style="line-height:1.7;color:var(--text)">—</div>
-        </div>
-      </div>
-    </div>
-
 
     <div class="center-header">
       <div class="ticker-display">600519.SH</div>
-      <div class="ticker-name">귀주모태주 <span class="ex">Shanghai · Baijiu</span></div>
+      <div class="ticker-name">귀주모태주 <span class="ex">상해 · 백주</span></div>
       <div class="ticker-pin">
         <span class="px-big no-data">—</span>
-        <span class="ch-big"><span class="api-needed">API</span></span>
+        <span class="ch-big"><span class="api-needed">API 필요</span></span>
       </div>
     </div>
 
@@ -446,8 +357,8 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
       <div class="ctab">EARNINGS</div>
       <div class="ctab">DIVIDEND</div>
       <div class="ctab">NEWS</div>
-      <div class="ctab">Filings CSRC</div>
-      <div class="ctab">Options</div>
+      <div class="ctab">공시 CSRC</div>
+      <div class="ctab">옵션</div>
     </div>
 
     <div class="chart-wrap">
@@ -464,50 +375,117 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
           <span class="tf-pill">MAX</span>
         </div>
         <div style="display:flex;gap:12px;align-items:center;font-size:12px;color:var(--muted)">
-          <span style="cursor:pointer">Candle</span>
-          <span style="cursor:pointer">Line</span>
-          <span style="cursor:pointer;color:var(--orange)">+ Ind.</span>
+          <span style="cursor:pointer">캔들</span>
+          <span style="cursor:pointer">라인</span>
+          <span style="cursor:pointer;color:var(--orange)">+ 지표</span>
         </div>
       </div>
       <div class="chart-canvas" id="chart-canvas">
         <div id="chart-placeholder" class="chart-placeholder">
           <span style="font-size:42px;opacity:.3">📈</span>
-          <div>Loading chart…</div>
+          <div>차트 로딩 중...</div>
         </div>
       </div>
     </div>
 
     <div class="sub-charts">
       <div class="sub-chart">
-        <h4>RSI(14) / Stochastic</h4>
-        <div class="indicator-bar">API required · no data</div>
+        <h4>RSI(14) / 스토캐스틱</h4>
+        <div class="indicator-bar">API 필요 · 데이터 없음</div>
       </div>
       <div class="sub-chart">
-        <h4>MACD / Volume</h4>
-        <div class="indicator-bar">API required · no data</div>
+        <h4>MACD / 거래량</h4>
+        <div class="indicator-bar">API 필요 · 데이터 없음</div>
       </div>
     </div>
 
-    <!-- All Commodities Modal -->
+    <!-- 원자재 시장 펄스 -->
+    <div class="panel" style="background:var(--bg);padding:10px 12px">
+      <div class="panel-head">
+        <div class="panel-title">원자재 시장 펄스 <span class="badge-live">DAILY</span><span class="ts" id="cm-pulse-ref" style="margin-left:6px"></span></div>
+      </div>
+      <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;margin-bottom:10px">
+        <div style="text-align:center;padding:8px;background:var(--line-grid);border-radius:4px">
+          <div style="font-size:11px;color:var(--muted);margin-bottom:2px">상승</div>
+          <div style="font-size:18px;font-weight:700;color:var(--up)" id="cm-pulse-up">—</div>
+        </div>
+        <div style="text-align:center;padding:8px;background:var(--line-grid);border-radius:4px">
+          <div style="font-size:11px;color:var(--muted);margin-bottom:2px">하락</div>
+          <div style="font-size:18px;font-weight:700;color:var(--down)" id="cm-pulse-down">—</div>
+        </div>
+        <div style="text-align:center;padding:8px;background:var(--line-grid);border-radius:4px">
+          <div style="font-size:11px;color:var(--muted);margin-bottom:2px">보합</div>
+          <div style="font-size:18px;font-weight:700;color:var(--muted)" id="cm-pulse-flat">—</div>
+        </div>
+      </div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;font-size:12px">
+        <div>
+          <div style="color:var(--up);font-weight:700;font-size:11px;margin-bottom:4px">▲ 상승 TOP 3</div>
+          <div id="cm-pulse-gainers" style="line-height:1.7;color:var(--text)">—</div>
+        </div>
+        <div>
+          <div style="color:var(--down);font-weight:700;font-size:11px;margin-bottom:4px">▼ 하락 TOP 3</div>
+          <div id="cm-pulse-losers" style="line-height:1.7;color:var(--text)">—</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 원자재 핵심 가격 16종 -->
+    <div class="panel" style="background:var(--bg);padding:10px 12px">
+      <div class="panel-head">
+        <div class="panel-title">원자재 핵심 가격 <span class="badge-live">REAL</span><span class="ts" id="cm-updated" style="margin-left:6px">로딩 중…</span></div>
+        <span class="panel-actions" id="cm-all-btn" style="cursor:pointer;color:var(--orange);font-weight:600">전체 →</span>
+      </div>
+      <table class="dt">
+        <thead>
+          <tr><th>품목</th><th>섹터</th><th id="cm-th-prev">전일</th><th id="cm-th-today">당일</th><th>변동률</th><th>단위</th></tr>
+        </thead>
+        <tbody id="cm-featured-body">
+          <tr><td colspan="6" style="color:var(--muted);font-style:italic;text-align:center;padding:14px 0">로딩 중…</td></tr>
+        </tbody>
+      </table>
+      <div style="font-size:11px;color:var(--muted);margin-top:6px;font-style:italic">표 행을 클릭하면 아래에 차트가 표시됩니다.</div>
+    </div>
+
+    <!-- 원자재 전용 차트 패널 -->
+    <div class="panel" style="background:var(--bg);padding:10px 12px" id="cm-chart-panel">
+      <div class="panel-head">
+        <div>
+          <div class="panel-title" id="cm-chart-title">원자재 차트 <span class="badge-live">LINE</span></div>
+          <div style="font-size:11px;color:var(--muted);margin-top:2px" id="cm-chart-subtitle">표에서 원자재를 클릭하세요</div>
+        </div>
+        <div style="display:flex;gap:4px" id="cm-chart-buttons">
+          <span class="tf-pill cm-tf" data-cm-tf="1W">1W</span>
+          <span class="tf-pill cm-tf" data-cm-tf="1M">1M</span>
+          <span class="tf-pill cm-tf" data-cm-tf="3M">3M</span>
+          <span class="tf-pill cm-tf" data-cm-tf="6M">6M</span>
+          <span class="tf-pill cm-tf" data-cm-tf="1Y">1Y</span>
+          <span class="tf-pill cm-tf active" data-cm-tf="MAX">MAX</span>
+        </div>
+      </div>
+      <div id="cm-chart-canvas" style="width:100%;height:260px;background:var(--bg);margin-top:6px"></div>
+    </div>
+
+    <!-- 전체 원자재 모달 -->
     <div id="cm-modal" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,0.7);z-index:9999;align-items:center;justify-content:center">
       <div style="background:var(--bg);border:1px solid var(--line-2);border-radius:6px;width:90%;max-width:1000px;max-height:85vh;display:flex;flex-direction:column">
         <div style="display:flex;justify-content:space-between;align-items:center;padding:12px 16px;border-bottom:1px solid var(--line-2)">
           <div>
-            <div style="font-size:14px;font-weight:700;color:var(--orange)">중국 Commodities All 리스트</div>
-            <div style="font-size:11px;color:var(--muted);margin-top:2px" id="cm-modal-meta">All 약 440종</div>
+            <div style="font-size:14px;font-weight:700;color:var(--orange)">중국 원자재 전체 리스트</div>
+            <div style="font-size:11px;color:var(--muted);margin-top:2px" id="cm-modal-meta">전체 약 440종</div>
           </div>
           <div style="display:flex;gap:10px;align-items:center">
-            <input type="text" id="cm-modal-search" placeholder="Item/Sector 검색…" style="background:var(--line-grid);border:1px solid var(--line-2);color:var(--text);padding:5px 10px;border-radius:3px;font-size:12px;width:200px">
+            <input type="text" id="cm-modal-search" placeholder="품목/섹터 검색…" style="background:var(--line-grid);border:1px solid var(--line-2);color:var(--text);padding:5px 10px;border-radius:3px;font-size:12px;width:200px">
             <span id="cm-modal-close" style="cursor:pointer;font-size:20px;color:var(--muted);padding:0 6px">×</span>
           </div>
         </div>
         <div style="overflow:auto;flex:1;padding:0 16px 16px 16px">
           <table class="dt" style="width:100%">
             <thead style="position:sticky;top:0;background:var(--bg);z-index:1">
-              <tr><th>Item</th><th>Sector</th><th id="cm-th-prev-modal">Prev</th><th id="cm-th-today-modal">Last</th><th>Chg%</th><th>USD</th></tr>
+              <tr><th>품목</th><th>섹터</th><th id="cm-th-prev-modal">전일</th><th id="cm-th-today-modal">당일</th><th>변동률</th></tr>
             </thead>
             <tbody id="cm-modal-body">
-              <tr><td colspan="5" style="color:var(--muted);text-align:center;padding:14px 0">Loading…</td></tr>
+              <tr><td colspan="5" style="color:var(--muted);text-align:center;padding:14px 0">로딩 중…</td></tr>
             </tbody>
           </table>
         </div>
@@ -515,7 +493,7 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
     </div>
 
     <div class="panel" style="padding:10px 12px;background:var(--bg)">
-      <div class="panel-head"><div class="panel-title">China A-share Market-Cap Heatmap <span class="badge-api">API</span></div></div>
+      <div class="panel-head"><div class="panel-title">중국 본토 시가총액 TOP 히트맵 <span class="badge-api">API 필요</span></div></div>
       <div class="heatmap">
         <div class="hm-cell hm-no"><div class="hm-name">600519 모태주</div><div class="hm-val">—</div></div>
         <div class="hm-cell hm-no"><div class="hm-name">601398 공상은행</div><div class="hm-val">—</div></div>
@@ -539,25 +517,12 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
         <div class="hm-cell hm-no"><div class="hm-name">601166 흥업은행</div><div class="hm-val">—</div></div>
         <div class="hm-cell hm-no"><div class="hm-name">000002 만커</div><div class="hm-val">—</div></div>
       </div>
-      <div style="font-size:11px;color:var(--muted);margin-top:8px;font-style:italic">색상: 적=Up(중국·KR식) · 녹=Down · 데이터 연동 시 시가총액 비례 셀 크기 적용 예정</div>
-    </div>
-
-    <!-- ===== Key Industrial Materials Heatmap ===== -->
-    <div class="panel" style="background:var(--bg);padding:10px 12px">
-      <div class="panel-head"><div class="panel-title">Key Industrial Materials Heatmap <span class="badge-live">DAILY</span></div></div>
-      <div class="heatmap" id="ind-heatmap"><div class="hm-cell hm-no"><div class="hm-name">Loading…</div><div class="hm-val">—</div></div></div>
-      <div style="font-size:11px;color:var(--muted);margin-top:8px;font-style:italic">Color: red = up · green = down (CN convention)</div>
-    </div>
-
-    <!-- ===== Featured Commodity Mini-Charts ===== -->
-    <div class="panel" style="background:var(--bg);padding:10px 12px">
-      <div class="panel-head"><div class="panel-title">Featured Commodity Mini-Charts <span class="badge-live">TREND</span></div></div>
-      <div id="cm-sparkgrid" style="display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:var(--line)"></div>
+      <div style="font-size:11px;color:var(--muted);margin-top:8px;font-style:italic">색상: 적=상승(중국·한국식) · 녹=하락 · 데이터 연동 시 시가총액 비례 셀 크기 적용 예정</div>
     </div>
 
     <div class="grid-2col">
       <div class="panel" style="background:var(--bg);padding:10px 12px">
-        <div class="panel-head"><div class="panel-title">Cross-Asset Correlation (90D) <span class="badge-api">API</span></div></div>
+        <div class="panel-head"><div class="panel-title">크로스 자산 상관 (90D) <span class="badge-api">API</span></div></div>
         <table class="dt">
           <thead><tr><th></th><th>CSI300</th><th>HSI</th><th>USD/CNY</th><th>10Y CN</th><th>구리</th></tr></thead>
           <tbody>
@@ -570,13 +535,13 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
         </table>
       </div>
       <div class="panel" style="background:var(--bg);padding:10px 12px">
-        <div class="panel-head"><div class="panel-title">Scenario Analyzer <span class="badge-api">API</span></div></div>
+        <div class="panel-head"><div class="panel-title">시나리오 분석기 <span class="badge-api">API</span></div></div>
         <div style="font-size:12px;line-height:1.7">
           <div style="display:flex;justify-content:space-between"><span class="small">"위안 약세" 시나리오</span><span class="no-data">계산 불가</span></div>
-          <div style="display:flex;justify-content:space-between"><span class="small">"中 Real Estate 침체 심화"</span><span class="no-data">계산 불가</span></div>
+          <div style="display:flex;justify-content:space-between"><span class="small">"中 부동산 침체 심화"</span><span class="no-data">계산 불가</span></div>
           <div style="display:flex;justify-content:space-between"><span class="small">"인민은행 추가 완화"</span><span class="no-data">계산 불가</span></div>
           <div style="display:flex;justify-content:space-between"><span class="small">"美·中 무역 충돌"</span><span class="no-data">계산 불가</span></div>
-          <div style="display:flex;justify-content:space-between"><span class="small">"H-share 자금 유출"</span><span class="no-data">계산 불가</span></div>
+          <div style="display:flex;justify-content:space-between"><span class="small">"H주 자금 유출"</span><span class="no-data">계산 불가</span></div>
         </div>
         <div style="margin-top:9px;font-size:11px;color:var(--muted)">시나리오는 가격·상관 데이터 연결 후 활성화됩니다.</div>
       </div>
@@ -584,19 +549,19 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
 
     <div class="grid-2col">
       <div class="panel" style="background:var(--bg);padding:10px 12px">
-        <div class="panel-head"><div class="panel-title">China Market News <span class="badge-api">API</span></div></div>
+        <div class="panel-head"><div class="panel-title">중국 시장 뉴스 <span class="badge-api">API</span></div></div>
         <div style="font-size:12px;color:var(--muted);font-style:italic;text-align:center;padding:24px 0;line-height:1.6">
-          News 데이터 없음<br>
+          뉴스 데이터 없음<br>
           <span class="api-needed" style="margin-top:6px;display:inline-block">신화사·재경망·21세기경제 RSS·NewsAPI 연동 필요</span>
         </div>
       </div>
       <div class="panel" style="background:var(--bg);padding:10px 12px">
         <div class="panel-head">
-          <div class="panel-title">Filings · DART <span class="badge-live">LIVE</span></div>
+          <div class="panel-title">공시 · DART <span class="badge-live">LIVE</span></div>
           <span class="panel-actions"><a href="https://dart.fss.or.kr" target="_blank" rel="noopener" style="color:var(--orange);font-size:11px">DART →</a></span>
         </div>
         <div id="dart-list" style="font-size:12px;line-height:1.5">
-          <div style="color:var(--muted);font-style:italic;text-align:center;padding:24px 0">Filings Loading…</div>
+          <div style="color:var(--muted);font-style:italic;text-align:center;padding:24px 0">공시 로딩 중...</div>
         </div>
       </div>
     </div>
@@ -606,67 +571,54 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
   <div class="sidebar-r">
 
     <div class="panel">
-      <div class="panel-head"><div class="panel-title">Order · Execution <span class="badge-api">Broker</span></div></div>
+      <div class="panel-head"><div class="panel-title">주문 · 체결 <span class="badge-api">중개사</span></div></div>
       <div class="order-block">
-        <div class="row"><span class="k">Buy/Sell</span><span class="v nd">Broker API required</span></div>
-        <div class="row"><span class="k">Symbol</span><span class="v">600519.SH</span></div>
-        <div class="row"><span class="k">Qty</span><span class="v nd">—</span></div>
-        <div class="row"><span class="k">Order Type</span><span class="v nd">—</span></div>
-        <div class="row"><span class="k">Bid/Ask</span><span class="v nd">—</span></div>
-        <div class="row"><span class="k">Est. Fill</span><span class="v nd">Not linked</span></div>
+        <div class="row"><span class="k">매수/매도</span><span class="v nd">중개사 연동 필요</span></div>
+        <div class="row"><span class="k">종목</span><span class="v">600519.SH</span></div>
+        <div class="row"><span class="k">수량</span><span class="v nd">—</span></div>
+        <div class="row"><span class="k">주문유형</span><span class="v nd">—</span></div>
+        <div class="row"><span class="k">호가</span><span class="v nd">—</span></div>
+        <div class="row"><span class="k">예상 체결</span><span class="v nd">미연동</span></div>
       </div>
-      <div style="margin-top:9px;color:var(--orange);font-size:11px;line-height:1.5">⚠ 실거래는 KR투자·미래에셋·키움 등 증권사 API 또는 후강통/A-share 계좌 별도 필요</div>
+      <div style="margin-top:9px;color:var(--orange);font-size:11px;line-height:1.5">⚠ 실거래는 한국투자·미래에셋·키움 등 증권사 API 또는 후강통/A주 계좌 별도 필요</div>
     </div>
 
     <div class="panel">
-      <div class="panel-head"><div class="panel-title">Options Flow <span class="badge-api">API</span></div></div>
+      <div class="panel-head"><div class="panel-title">옵션 플로우 <span class="badge-api">API</span></div></div>
       <div style="font-size:12px;line-height:1.7">
-        <div style="display:flex;justify-content:space-between"><span class="small">Call/Put Ratio</span><span class="no-data">—</span></div>
-        <div style="display:flex;justify-content:space-between"><span class="small">Max Call OI</span><span class="no-data">—</span></div>
-        <div style="display:flex;justify-content:space-between"><span class="small">Max Put OI</span><span class="no-data">—</span></div>
-        <div style="display:flex;justify-content:space-between"><span class="small">HV30</span><span class="no-data">—</span></div>
-        <div style="display:flex;justify-content:space-between"><span class="small">IV30</span><span class="no-data">—</span></div>
-        <div style="margin-top:9px;font-size:11px;color:var(--muted)">HK/ADR/KOSPI200 options — separate feed</div>
+        <div style="display:flex;justify-content:space-between"><span class="small">CALL/PUT 비율</span><span class="no-data">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">최대 매수 콜</span><span class="no-data">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">최대 매수 풋</span><span class="no-data">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">변동성 HV30</span><span class="no-data">—</span></div>
+        <div style="display:flex;justify-content:space-between"><span class="small">변동성 IV30</span><span class="no-data">—</span></div>
+        <div style="margin-top:9px;font-size:11px;color:var(--muted)">홍콩 옵션·ADR 옵션·코스피200 옵션 별도 연동</div>
       </div>
     </div>
 
     <div class="panel">
-      <div class="panel-head"><div class="panel-title">Earnings · Dividends <span class="badge-api">API</span></div></div>
+      <div class="panel-head"><div class="panel-title">실적 · 배당 캘린더 <span class="badge-api">API</span></div></div>
       <table class="dt" style="font-size:12px">
-        <tbody><tr><td colspan="3" style="color:var(--muted);text-align:center;font-style:italic;font-family:Inter;padding:18px 0">No data — calendar API required</td></tr></tbody>
+        <tbody><tr><td colspan="3" style="color:var(--muted);text-align:center;font-style:italic;font-family:Inter;padding:18px 0">데이터 없음 · 캘린더 API 연결 필요</td></tr></tbody>
       </table>
     </div>
 
     <div class="panel">
-      <div class="panel-head"><div class="panel-title">Top News <span class="badge-api">API</span></div></div>
+      <div class="panel-head"><div class="panel-title">탑 뉴스 <span class="badge-api">API</span></div></div>
       <div class="small" style="color:var(--muted);font-style:italic;text-align:center;padding:18px 0;font-size:12px;line-height:1.6">
-        News 데이터 미연결<br>
+        뉴스 데이터 미연결<br>
         <span style="font-size:11px;display:block;margin-top:6px">신화사·블룸버그·로이터·연합인포맥스 등 RSS 또는 NewsAPI 연결 필요</span>
       </div>
     </div>
 
-    <div class="panel">
-      <div class="panel-head"><div class="panel-title">Landed Cost Estimator <span class="badge-live">CALC</span></div></div>
-      <div class="small" style="margin-bottom:7px;line-height:1.5">Rough estimate for importers. Click a commodity row.</div>
-      <div style="font-size:12px;margin-bottom:5px">Selected: <span id="lc-name" style="color:var(--orange);font-weight:700">—</span></div>
-      <div style="display:flex;justify-content:space-between;padding:5px 0;border-bottom:1px solid var(--line-grid)"><span class="small">Spot (CNY)</span><span class="mono" id="lc-spot" style="font-weight:700">—</span></div>
-      <div style="display:flex;justify-content:space-between;padding:5px 0;border-bottom:1px solid var(--line-grid)"><span class="small">FOB est. (USD)</span><span class="mono" id="lc-fob" style="font-weight:700">—</span></div>
-      <div style="display:flex;justify-content:space-between;align-items:center;padding:5px 0"><span class="small">Freight (USD/unit)</span><input id="lc-freight" type="number" value="0" min="0" step="1" style="width:90px;background:var(--bg);border:1px solid var(--line-2);color:var(--text);padding:4px 7px;font-size:12px;font-family:JetBrains Mono,monospace;text-align:right;border-radius:2px"></div>
-      <div style="display:flex;justify-content:space-between;align-items:center;padding:5px 0"><span class="small">Import duty (%)</span><input id="lc-duty" type="number" value="0" min="0" step="0.1" style="width:90px;background:var(--bg);border:1px solid var(--line-2);color:var(--text);padding:4px 7px;font-size:12px;font-family:JetBrains Mono,monospace;text-align:right;border-radius:2px"></div>
-      <div style="display:flex;justify-content:space-between;align-items:center;padding:5px 0"><span class="small">VAT (%)</span><input id="lc-vat" type="number" value="0" min="0" step="0.1" style="width:90px;background:var(--bg);border:1px solid var(--line-2);color:var(--text);padding:4px 7px;font-size:12px;font-family:JetBrains Mono,monospace;text-align:right;border-radius:2px"></div>
-      <div style="display:flex;justify-content:space-between;padding:7px 0;margin-top:3px;border-top:1px solid var(--line-2)"><span class="small">Est. Landed (USD)</span><span class="mono" id="lc-total" style="font-weight:700;color:var(--orange);font-size:15px">—</span></div>
-      <div class="small" style="margin-top:7px;font-style:italic;line-height:1.5">Estimate — excludes insurance, handling & local fees. Verify with your forwarder.</div>
-    </div>
-
     <div class="panel ai-panel">
-      <div class="panel-head"><div class="panel-title">AI Trade Assistant <span class="badge-live">GROQ</span></div></div>
+      <div class="panel-head"><div class="panel-title">AI 트레이드 어시스턴트 <span class="badge-live">GROQ</span></div></div>
       <div class="ai-message">
         <div class="label">AI · 시작 안내</div>
         <div class="text">
-          Welcome to CHINANEWS Terminal.<br>
-          Ask anything about commodities, markets, or trade strategy.<br><br>
-          <strong style="color:var(--orange)">Mode:</strong> Free (Groq-based, planned)<br>
-          <strong style="color:var(--orange)">Note:</strong> Some market data not yet connected; accuracy improves once APIs are linked.
+          안녕하세요. 차이나뉴스 터미널에 오신 것을 환영합니다.<br>
+          종목·시장·전략 질문 무엇이든 가능합니다.<br><br>
+          <strong style="color:var(--orange)">현재 모드:</strong> 무료 (Groq 기반 예정)<br>
+          <strong style="color:var(--orange)">제약:</strong> 시장 데이터 일부 미연결. 실시간 답변은 데이터 연동 후 정확도 향상.
         </div>
       </div>
       <div class="ai-input">
@@ -680,13 +632,13 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
 
 <div class="footbar">
   <div class="fb-left">
-    <span><span class="key">F1</span> Help</span>
-    <span><span class="key">F2</span> Search</span>
-    <span><span class="key">F3</span> Chart</span>
-    <span><span class="key">F4</span> News</span>
-    <span><span class="key">F5</span> Filings</span>
-    <span><span class="key">F6</span> Commodities</span>
-    <span><span class="key">F7</span> FX</span>
+    <span><span class="key">F1</span> 도움말</span>
+    <span><span class="key">F2</span> 종목검색</span>
+    <span><span class="key">F3</span> 차트</span>
+    <span><span class="key">F4</span> 뉴스</span>
+    <span><span class="key">F5</span> 공시</span>
+    <span><span class="key">F6</span> 원자재</span>
+    <span><span class="key">F7</span> 환율</span>
     <span><span class="key">F8</span> AI</span>
   </div>
   <div class="fb-right">
@@ -698,43 +650,43 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
 </div>
 
 <div style="padding:18px 20px;background:var(--bg-2);border-top:1px solid var(--line);font-size:12px;color:var(--muted)">
-  <strong style="color:var(--orange);letter-spacing:1.5px;font-size:13px">Data Legend</strong>
+  <strong style="color:var(--orange);letter-spacing:1.5px;font-size:13px">데이터 소스 범례</strong>
   <div style="display:flex;gap:22px;margin-top:11px;flex-wrap:wrap;align-items:center">
-    <span><span class="src-tag real">REAL</span> Measured data</span>
-    <span><span class="api-needed">API</span> Fills when API connected</span>
-    <span><span class="src-tag">PENDING</span> Next-phase integration</span>
-    <span class="no-data">— No data · no placeholder numbers</span>
+    <span><span class="src-tag real">REAL</span> 실측 데이터 (출처 명시)</span>
+    <span><span class="api-needed">API 필요</span> 외부 API 연결 시 채워짐</span>
+    <span><span class="src-tag">PENDING</span> 다음 페이즈 연동 예정</span>
+    <span class="no-data">— 데이터 없음 · 가짜 숫자 사용하지 않음</span>
   </div>
   <div style="margin-top:12px;color:var(--muted);line-height:1.7">
     <strong style="color:var(--text)">투명성 원칙:</strong>
     본 단말기는 데이터가 없는 위치에 임의의 숫자를 채워 넣지 않습니다.
-    <strong style="color:var(--orange)">"데이터 없음" / "API"</strong> 명시 후 추후 API 연동을 통해서만 채워집니다.
+    <strong style="color:var(--orange)">"데이터 없음" / "API 필요"</strong> 명시 후 추후 API 연동을 통해서만 채워집니다.
     실제 의사결정은 반드시 공식 출처(거래소·관계기관)에서 재확인 후 진행하시기 바랍니다.
   <div style="margin-top:9px;line-height:1.7">
     <strong style="color:var(--text)">현재 실측 데이터:</strong>
-    중국 일일 현물 Commodities 100종+ · FX(yfinance) · 중국 증시·지수(yfinance+AkShare) · 그 외 API 미연결
+    SunSirs(생의사) 원자재 11개 · 환율(yfinance) · 주식·지수(yfinance+AkShare) · DART 공시 · 그 외 API 미연결
   </div>
 </div>
 
-<!-- Symbol 검색 모달 -->
+<!-- 종목 검색 모달 -->
 <div class="modal-overlay" id="search-modal">
   <div class="modal-box">
     <div class="modal-head">
-      <span class="title">Add Symbol</span>
+      <span class="title">종목 추가</span>
       <button class="close-btn" id="modal-close" title="닫기">✕</button>
     </div>
     <div class="modal-search">
-      <input type="text" id="modal-search-input" placeholder="Symbol 코드 또는 이름 검색 (예: 600519, 삼성, BABA, 텐센트)" autocomplete="off">
+      <input type="text" id="modal-search-input" placeholder="종목 코드 또는 이름 검색 (예: 600519, 삼성, BABA, 텐센트)" autocomplete="off">
     </div>
     <div class="modal-filters" id="modal-filters">
-      <span class="modal-filter active" data-filter="all">All</span>
-      <span class="modal-filter" data-filter="a_stock">A-share</span>
-      <span class="modal-filter" data-filter="hk_stock">H-share</span>
+      <span class="modal-filter active" data-filter="all">전체</span>
+      <span class="modal-filter" data-filter="a_stock">A주</span>
+      <span class="modal-filter" data-filter="hk_stock">H주</span>
       <span class="modal-filter" data-filter="us_adr">ADR</span>
-      <span class="modal-filter" data-filter="kr_stock">KR</span>
+      <span class="modal-filter" data-filter="kr_stock">한국</span>
     </div>
     <div class="modal-list" id="modal-list"></div>
-    <div class="modal-foot">총 <span id="modal-count">50</span>개 Symbol · 클릭 시 관심Add Symbol/제거</div>
+    <div class="modal-foot">총 <span id="modal-count">50</span>개 종목 · 클릭 시 관심종목 추가/제거</div>
   </div>
 </div>
 
@@ -772,7 +724,6 @@ async function loadFXRates(){
     const r = await fetch('data/fx_latest.json?t=' + Date.now());
     if(!r.ok) throw new Error('FX fetch failed');
     const fx = await r.json();
-    if(fx.derived && fx.derived.usd_cny) window.USD_CNY = fx.derived.usd_cny.value;
     const fmt = (v,d) => Number(v).toLocaleString('en-US',{minimumFractionDigits:d,maximumFractionDigits:d});
     const updateOne = (id, value, changePct, decimals) => {
       const v = document.getElementById('fx-' + id + '-val');
@@ -1182,9 +1133,9 @@ function rowCommodity(item, featured){
     // chart_id는 commodity_charts/{id}.json과 매핑
     const cid = item.chart_id || _DISPLAY_TO_CHART_ID[item.display_name] || '';
     const clickable = cid ? ' style="cursor:pointer" data-cm-id="' + cid + '" title="클릭하면 차트가 표시됩니다"' : '';
-    return '<tr' + clickable + '><td>' + cmName(item.display_name) + '</td><td>' + cmSector(item.sector||item.category||'') + '</td><td>' + pp + '</td><td>' + pt + '</td><td>' + pc + '</td><td>' + usdEst(item.price_today,item.unit,item.display_name) + '</td><td style="font-size:10px;color:var(--muted)">' + (item.unit || 'CNY/t') + '</td></tr>';
+    return '<tr' + clickable + '><td>' + item.display_name + '</td><td>' + sector + '</td><td>' + pp + '</td><td>' + pt + '</td><td>' + pc + '</td><td style="font-size:10px;color:var(--muted)">' + (item.unit || 'CNY/t') + '</td></tr>';
   } else {
-    return '<tr><td>' + cmName(item.display_name||item.name) + '</td><td>' + cmSector(item.sector||'') + '</td><td>' + pp + '</td><td>' + pt + '</td><td>' + pc + '</td><td>' + usdEst(item.price_today,item.unit,item.display_name) + '</td></tr>';
+    return '<tr><td>' + (item.display_name || item.name) + '</td><td>' + sector + '</td><td>' + pp + '</td><td>' + pt + '</td><td>' + pc + '</td></tr>';
   }
 }
 // 16종 display_name → chart_id 매핑
@@ -1229,12 +1180,12 @@ async function loadCommodities(){
       const lEl = document.getElementById('cm-pulse-losers');
       if(gEl && Array.isArray(d.pulse.top_gainers)){
         gEl.innerHTML = d.pulse.top_gainers.map(function(x){
-          return '<div style="display:flex;justify-content:space-between"><span>' + cmName(x.name) + '</span><span style="color:var(--up);font-weight:600">+' + x.change_pct.toFixed(2) + '%</span></div>';
+          return '<div style="display:flex;justify-content:space-between"><span>' + x.name + '</span><span style="color:var(--up);font-weight:600">+' + x.change_pct.toFixed(2) + '%</span></div>';
         }).join('');
       }
       if(lEl && Array.isArray(d.pulse.top_losers)){
         lEl.innerHTML = d.pulse.top_losers.map(function(x){
-          return '<div style="display:flex;justify-content:space-between"><span>' + cmName(x.name) + '</span><span style="color:var(--down);font-weight:600">' + x.change_pct.toFixed(2) + '%</span></div>';
+          return '<div style="display:flex;justify-content:space-between"><span>' + x.name + '</span><span style="color:var(--down);font-weight:600">' + x.change_pct.toFixed(2) + '%</span></div>';
         }).join('');
       }
     }
@@ -1572,120 +1523,5 @@ window.addEventListener('load', async () => {
 });
 </script>
 
-<script>
-/* ---- UI string dictionary (Korean -> English), text-node level ---- */
-var UI = {"홈": "Home", "중국주식": "China Eq", "한국주식": "KR Eq", "원자재": "Commodities", "환율·금리": "FX & Rates", "옵션": "Options", "뉴스": "News", "공시·SEC·DART": "Filings", "시장 펄스": "Market Pulse", "관심종목": "Watchlist", "중국 섹터": "China Sectors", "자금 흐름 (28D)": "Fund Flows (28D)", "US 매크로 / FX": "US Macro / FX", "원자재 시장 펄스": "Commodity Pulse", "원자재 핵심 가격": "Featured Commodities", "원자재 차트": "Commodity Chart", "원자재 전용 차트 패널": "Commodity Chart Panel", "원자재 핵심 가격 16종": "Featured 16", "전체 원자재 모달": "All Commodities Modal", "중요 산업재 히트맵": "Key Industrial Materials Heatmap", "핵심 원자재 미니차트": "Featured Commodity Mini-Charts", "색상: 적=상승 · 녹=하락 (중국식)": "Color: red = up · green = down (CN convention)", "중국 본토 시가총액 TOP 히트맵": "China A-share Market-Cap Heatmap", "크로스 자산 상관 (90D)": "Cross-Asset Correlation (90D)", "시나리오 분석기": "Scenario Analyzer", "중국 시장 뉴스": "China Market News", "공시 · DART": "Filings · DART", "주문 · 체결": "Order · Execution", "옵션 플로우": "Options Flow", "실적 · 배당 캘린더": "Earnings · Dividends", "탑 뉴스": "Top News", "AI 트레이드 어시스턴트": "AI Trade Assistant", "도착원가 계산기": "Landed Cost Estimator", "중국 시장 상태": "Market Status", "상승/하락 비율": "Adv / Dec", "52주 신고가": "52W Highs", "52주 신저가": "52W Lows", "후강통 北上 (¥억)": "HK→SH (¥100M)", "심강통 北上 (¥억)": "HK→SZ (¥100M)", "외국인 北上": "Northbound", "내국인 南下": "Southbound", "ETF 순매수": "ETF Net Buy", "신용잔액 변동": "Margin Balance", "융자융권": "Margin Trading", "DXY 달러지수": "DXY Index", "2Y 미국채": "US 2Y", "10Y 미국채": "US 10Y", "금융": "Financials", "소비재": "Consumer", "헬스": "Health", "에너지": "Energy", "소재": "Materials", "산업재": "Industrials", "통신": "Telecom", "부동산": "Real Estate", "상승": "Up", "하락": "Down", "보합": "Flat", "▲ 상승 TOP 3": "▲ Top Gainers", "▼ 하락 TOP 3": "▼ Top Decliners", "품목": "Item", "섹터": "Sector", "전일": "Prev", "당일": "Last", "변동률": "Chg%", "단위": "Unit", "전체 →": "All 438 →", "캔들": "Candle", "라인": "Line", "+ 지표": "+ Ind.", "RSI(14) / 스토캐스틱": "RSI(14) / Stochastic", "MACD / 거래량": "MACD / Volume", "API 필요 · 데이터 없음": "API required · no data", "차트 로딩 중...": "Loading chart…", "표 행을 클릭하면 아래에 차트가 표시됩니다.": "Click a row to load its chart below.", "표에서 원자재를 클릭하세요": "Click a commodity in the table", "수입 바이어용 개략 추정. 표의 원자재 행을 클릭하세요.": "Rough estimate for importers. Click a commodity row.", "현물가 (CNY)": "Spot (CNY)", "FOB 추정 (USD)": "FOB est. (USD)", "운임 (USD/단위)": "Freight (USD/unit)", "수입관세 (%)": "Import duty (%)", "부가세 (%)": "VAT (%)", "도착원가 추정 (USD)": "Est. Landed (USD)", "추정치 — 보험·하역·현지비용 제외. 포워더와 재확인하세요.": "Estimate — excludes insurance, handling & local fees. Verify with your forwarder.", "선택:": "Selected:", "매수/매도": "Buy/Sell", "종목": "Symbol", "수량": "Qty", "주문유형": "Order Type", "호가": "Bid/Ask", "예상 체결": "Est. Fill", "중개사 연동 필요": "Broker API required", "미연동": "Not linked", "중개사": "Broker", "CALL/PUT 비율": "Call/Put Ratio", "최대 매수 콜": "Max Call OI", "최대 매수 풋": "Max Put OI", "변동성 HV30": "HV30", "변동성 IV30": "IV30", "홍콩 옵션·ADR 옵션·코스피200 옵션 별도 연동": "HK/ADR/KOSPI200 options — separate feed", "데이터 없음 · 캘린더 API 연결 필요": "No data — calendar API required", "API 필요": "API", "로딩": "Loading", "로딩 중...": "Loading…", "로딩 중…": "Loading…", "데이터 소스 범례": "Data Legend", "실측 데이터 (출처 명시)": "Measured data", "외부 API 연결 시 채워짐": "Fills when API connected", "다음 페이즈 연동 예정": "Next-phase integration", "데이터 없음 · 가짜 숫자 사용하지 않음": "No data · no placeholder numbers", "도움말": "Help", "종목검색": "Search", "차트": "Chart", "공시": "Filings", "환율": "FX", "종목 추가": "Add Symbol", "전체": "All", "A주": "A-share", "H주": "H-share", "한국": "KR", "상해 · 백주": "Shanghai · Baijiu", "기준일": "Ref date", "기준": "Ref"};
-var REV = {}; for(var k in UI){ if(!REV[UI[k]]) REV[UI[k]] = k; }
-
-function _walkText(fn){
-  try{
-    var w = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, null, false);
-    var nodes = [], n;
-    while(n = w.nextNode()){ nodes.push(n); }
-    nodes.forEach(fn);
-  }catch(e){}
-}
-function applyMap(map){
-  _walkText(function(node){
-    var raw = node.nodeValue; if(!raw) return;
-    var tr = raw.trim(); if(!tr) return;
-    if(map[tr] !== undefined){ node.nodeValue = raw.replace(tr, map[tr]); }
-  });
-}
-window.__applyLang = function(){
-  // ensure dynamic commodity tables re-render in current language
-  if(window.loadCommodities) try{ window.loadCommodities(); }catch(e){}
-  if(window.CN_LANG === 'en'){ applyMap(UI); }
-  else { applyMap(REV); }
-  // toggle active state
-  var t = document.getElementById('lang-toggle');
-  if(t) t.querySelectorAll('span').forEach(function(s){ s.classList.toggle('active', s.getAttribute('data-lang')===window.CN_LANG); });
-  document.documentElement.lang = window.CN_LANG;
-};
-function setLang(lang){
-  if(lang === window.CN_LANG) return;
-  // first revert to Korean base if currently English, then apply target
-  if(window.CN_LANG === 'en'){ applyMap(REV); }
-  window.CN_LANG = lang;
-  try{ localStorage.setItem('chinanews_lang', lang); }catch(e){}
-  if(window.loadCommodities) try{ window.loadCommodities(); }catch(e){}
-  if(lang === 'en'){ applyMap(UI); }
-  var t = document.getElementById('lang-toggle');
-  if(t) t.querySelectorAll('span').forEach(function(s){ s.classList.toggle('active', s.getAttribute('data-lang')===lang); });
-  document.documentElement.lang = lang;
-}
-document.addEventListener('click', function(e){
-  var s = e.target.closest ? e.target.closest('#lang-toggle span[data-lang]') : null;
-  if(s){ setLang(s.getAttribute('data-lang')); }
-});
-
-/* ---- landed cost ---- */
-function updateLanded(){
-  var lc = window.__lc; if(!lc){ return; }
-  var nm=document.getElementById('lc-name'); if(nm) nm.textContent = cmName(lc.ko||lc.name);
-  var sp=document.getElementById('lc-spot'), fo=document.getElementById('lc-fob'), to=document.getElementById('lc-total');
-  if(sp) sp.textContent = (lc.price!=null? lc.price.toLocaleString(undefined,{maximumFractionDigits:2}) : '—') + (lc.unit? ' '+lc.unit : '');
-  if(window.USD_CNY==null || lc.price==null){ if(fo)fo.textContent='—'; if(to)to.textContent='—'; return; }
-  var isCny = (lc.unit||'').indexOf('CNY')===0;
-  var fob = isCny ? lc.price/window.USD_CNY : ((lc.unit||'').indexOf('USD')===0 ? lc.price : null);
-  if(fob==null){ if(fo)fo.textContent='n/a'; if(to)to.textContent='n/a'; return; }
-  if(fo) fo.textContent = '$'+fob.toLocaleString(undefined,{maximumFractionDigits:2});
-  var fr=parseFloat((document.getElementById('lc-freight')||{}).value)||0;
-  var du=parseFloat((document.getElementById('lc-duty')||{}).value)||0;
-  var vt=parseFloat((document.getElementById('lc-vat')||{}).value)||0;
-  var tot=(fob+fr)*(1+du/100)*(1+vt/100);
-  if(to) to.textContent = '$'+tot.toLocaleString(undefined,{maximumFractionDigits:2});
-}
-document.addEventListener('click', function(e){
-  var tr = e.target.closest ? e.target.closest('tr[data-cm-id]') : null;
-  if(!tr) return;
-  var tds = tr.querySelectorAll('td'); if(tds.length<5) return;
-  var ko = tr.getAttribute('data-cm-ko') || tds[0].textContent.trim();
-  var last = parseFloat((tds[3].textContent||'').replace(/[^0-9.\-]/g,''));
-  var unit = tds.length>=7 ? tds[6].textContent.trim() : 'CNY/t';
-  window.__lc = {name:tds[0].textContent.trim(), ko:ko, price:isNaN(last)?null:last, unit:unit};
-  updateLanded();
-});
-['lc-freight','lc-duty','lc-vat'].forEach(function(id){ var el=document.getElementById(id); if(el) el.addEventListener('input', updateLanded); });
-
-/* ---- initial + periodic apply (handles async-rendered content) ---- */
-window.addEventListener('load', function(){
-  var t=document.getElementById('lang-toggle'); if(t) t.querySelectorAll('span').forEach(function(s){ s.classList.toggle('active', s.getAttribute('data-lang')===window.CN_LANG); });
-  if(window.CN_LANG==='ko'){ setTimeout(function(){ applyMap(REV); if(window.loadCommodities){ try{ window.loadCommodities(); }catch(e){} } }, 400); }
-});
-</script>
-<script>
-(function(){
-  var FC={'금':'gold','은':'silver','구리':'copper','알루미늄':'aluminum','원유':'crude_oil','석탄':'coal','천연가스':'natural_gas','옥수수':'corn','대두':'soybean','옥수수 전분':'corn_starch','백설탕':'white_sugar','달걀':'egg','생 돼지':'live_pig','팜오일':'palm_oil','채종유':'rapeseed_oil','대두유':'soybean_oil'};
-  var IND=['동','알루미늄(알루미늄 잉곳)','아연(잉곳)','연(잉곳)','니켈(잉곳)','주석(잉곳)','코발트','탄산리튬','선형저밀도 폴리에틸렌','고밀도 폴리에틸렌','저밀도 폴리에틸렌','폴리프로필렌','폴리염화비닐','폴리스티렌','폴리카보네이트','아크릴로니트릴-부타디엔-스티렌','스티렌','파라자일렌','순수 벤젠','메탄올','페놀','아세톤','글리콜','원유','석탄','천연가스','나프타','가솔린','디젤유','철광석','열간 압연 코일','이형철근','뇨소'];
-  function nm(ko){ return (typeof cmName==='function')? cmName(ko) : ko; }
-  function hmColor(p){ if(p==null) return 'var(--bg-1)'; var a=Math.min(Math.abs(p)/3,1)*0.45+0.08; if(p>0) return 'rgba(255,59,59,'+a.toFixed(3)+')'; if(p<0) return 'rgba(26,255,102,'+a.toFixed(3)+')'; return 'var(--bg-2)'; }
-  function spark(vals){ if(!vals||!vals.length) return ''; var w=120,h=32,mn=Math.min.apply(null,vals),mx=Math.max.apply(null,vals),rg=(mx-mn)||1;
-    var pts=vals.map(function(v,i){ var x=(i/(Math.max(vals.length-1,1)))*w; var y=h-((v-mn)/rg)*(h-4)-2; return x.toFixed(1)+','+y.toFixed(1); });
-    var up=vals[vals.length-1]>=vals[0]; var col=up?'#ff3b3b':'#1aff66';
-    return '<svg width="100%" height="'+h+'" viewBox="0 0 '+w+' '+h+'" preserveAspectRatio="none"><polyline fill="none" stroke="'+col+'" stroke-width="1.5" points="'+pts.join(' ')+'"/></svg>'; }
-  function renderInd(){ fetch('data/commodities.json?t='+Date.now()).then(function(r){return r.json();}).then(function(d){
-      var map={}; (d.all_items||[]).forEach(function(it){ if(map[it.display_name]===undefined) map[it.display_name]=it; });
-      var host=document.getElementById('ind-heatmap'); if(!host) return;
-      var cells=IND.map(function(ko){ var it=map[ko]; if(!it) return ''; var p=it.change_pct;
-        return '<div class="hm-cell" style="background:'+hmColor(p)+'"><div class="hm-name">'+nm(ko)+'</div><div class="hm-val '+(p>0?'up':(p<0?'down':'flat'))+'">'+(p==null?'—':(p>0?'+':'')+p.toFixed(2)+'%')+'</div></div>'; }).filter(Boolean).join('');
-      if(cells) host.innerHTML=cells;
-    }).catch(function(e){ console.warn('ind heatmap', e); }); }
-  function renderSpark(){ fetch('data/commodities.json?t='+Date.now()).then(function(r){return r.json();}).then(function(d){
-      var feat=d.featured||[]; var host=document.getElementById('cm-sparkgrid'); if(!host) return;
-      host.innerHTML=feat.map(function(it){ var cid=FC[it.display_name]||''; var p=it.change_pct;
-        return '<div data-spark="'+cid+'" style="background:var(--bg);padding:8px 9px">'
-          +'<div style="font-size:11px;color:var(--text);font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">'+nm(it.display_name)+'</div>'
-          +'<div style="display:flex;justify-content:space-between;align-items:center;margin-top:2px"><span class="mono" style="font-size:11px;color:var(--text-bright)">'+(it.price_today!=null?it.price_today.toLocaleString():'—')+'</span>'
-          +'<span class="mono '+(p>0?'up':(p<0?'down':'flat'))+'" style="font-size:10px">'+(p>0?'+':'')+p.toFixed(2)+'%</span></div>'
-          +'<div class="spark-host" style="margin-top:4px;height:32px"></div></div>'; }).join('');
-      feat.forEach(function(it){ var cid=FC[it.display_name]; if(!cid) return;
-        fetch('data/commodity_charts/'+cid+'.json?t='+Date.now()).then(function(r){return r.json();}).then(function(c){
-          var cell=host.querySelector('[data-spark="'+cid+'"] .spark-host'); if(cell&&c.candles){ cell.innerHTML=spark(c.candles.map(function(x){return x.value;})); }
-        }).catch(function(){}); });
-    }).catch(function(e){ console.warn('spark', e); }); }
-  window.addEventListener('load', function(){ setTimeout(renderInd,900); setTimeout(renderSpark,1100); setInterval(renderInd,15*60*1000); setInterval(renderSpark,15*60*1000); });
-})();
-</script>
 </body>
 </html>

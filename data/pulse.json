@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-06-01T07:01:03.429050+09:00",
+  "updated_at_kst": "2026-06-08T13:01:17.962975+09:00",
   "source": {
     "watchlist": "data/stocks_latest.json",
     "charts": "data/charts/*.json"
@@ -10,30 +10,59 @@
     "breadth_universe": "a_stock + hk_stock + us_adr"
   },
   "china_market": {
-    "status": "PRE",
-    "label": "장 시작 전",
+    "status": "LUNCH",
+    "label": "점심 휴장",
     "color": "muted"
   },
   "breadth": {
-    "up": 27,
-    "down": 8,
-    "flat": 0,
+    "up": 12,
+    "down": 22,
+    "flat": 1,
     "total": 35,
-    "label": "27 / 8"
+    "label": "12 / 22"
   },
   "high_low_52w": {
     "checked": 50,
     "no_chart": 0,
-    "new_high_count": 0,
-    "new_low_count": 1,
-    "new_highs": [],
+    "new_high_count": 1,
+    "new_low_count": 4,
+    "new_highs": [
+      {
+        "id": "000333",
+        "name": "메이디",
+        "close": 83.08,
+        "yr_high": 83.75,
+        "gap_pct": 0.8
+      }
+    ],
     "new_lows": [
+      {
+        "id": "000858",
+        "name": "우량예",
+        "close": 80.14,
+        "yr_low": 80.0,
+        "gap_pct": 0.18
+      },
+      {
+        "id": "600276",
+        "name": "형서의약",
+        "close": 45.93,
+        "yr_low": 45.86,
+        "gap_pct": 0.15
+      },
+      {
+        "id": "600009",
+        "name": "상해공항",
+        "close": 23.13,
+        "yr_low": 23.11,
+        "gap_pct": 0.09
+      },
       {
         "id": "LI",
         "name": "리오토",
-        "close": 15.01,
-        "yr_low": 14.905,
-        "gap_pct": 0.7
+        "close": 14.2,
+        "yr_low": 14.06,
+        "gap_pct": 1.0
       }
     ]
   }
