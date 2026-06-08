@@ -363,6 +363,38 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
 
   <div class="center-main">
     <!-- ===== COMMODITY HERO (top priority) ===== -->
+    <!-- Commodity Pulse -->
+    <div class="panel" style="background:var(--bg);padding:10px 12px">
+      <div class="panel-head">
+        <div class="panel-title">Commodity Pulse <span class="badge-live">DAILY</span><span class="ts" id="cm-pulse-ref" style="margin-left:6px"></span></div>
+      </div>
+      <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;margin-bottom:10px">
+        <div style="text-align:center;padding:8px;background:var(--line-grid);border-radius:4px">
+          <div style="font-size:11px;color:var(--muted);margin-bottom:2px">Up</div>
+          <div style="font-size:18px;font-weight:700;color:var(--up)" id="cm-pulse-up">—</div>
+        </div>
+        <div style="text-align:center;padding:8px;background:var(--line-grid);border-radius:4px">
+          <div style="font-size:11px;color:var(--muted);margin-bottom:2px">Down</div>
+          <div style="font-size:18px;font-weight:700;color:var(--down)" id="cm-pulse-down">—</div>
+        </div>
+        <div style="text-align:center;padding:8px;background:var(--line-grid);border-radius:4px">
+          <div style="font-size:11px;color:var(--muted);margin-bottom:2px">Flat</div>
+          <div style="font-size:18px;font-weight:700;color:var(--muted)" id="cm-pulse-flat">—</div>
+        </div>
+      </div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;font-size:12px">
+        <div>
+          <div style="color:var(--up);font-weight:700;font-size:11px;margin-bottom:4px">▲ Top Gainers</div>
+          <div id="cm-pulse-gainers" style="line-height:1.7;color:var(--text)">—</div>
+        </div>
+        <div>
+          <div style="color:var(--down);font-weight:700;font-size:11px;margin-bottom:4px">▼ Top Decliners</div>
+          <div id="cm-pulse-losers" style="line-height:1.7;color:var(--text)">—</div>
+        </div>
+      </div>
+    </div>
+
+
     <!-- Commodity Chart Panel -->
     <div class="panel" style="background:var(--bg);padding:10px 12px" id="cm-chart-panel">
       <div class="panel-head">
@@ -399,37 +431,18 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
       <div style="font-size:11px;color:var(--muted);margin-top:6px;font-style:italic">Click a row to load its chart below.</div>
     </div>
 
-    <!-- Commodity Pulse -->
+    <!-- ===== Key Industrial Materials Heatmap ===== -->
     <div class="panel" style="background:var(--bg);padding:10px 12px">
-      <div class="panel-head">
-        <div class="panel-title">Commodity Pulse <span class="badge-live">DAILY</span><span class="ts" id="cm-pulse-ref" style="margin-left:6px"></span></div>
-      </div>
-      <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;margin-bottom:10px">
-        <div style="text-align:center;padding:8px;background:var(--line-grid);border-radius:4px">
-          <div style="font-size:11px;color:var(--muted);margin-bottom:2px">Up</div>
-          <div style="font-size:18px;font-weight:700;color:var(--up)" id="cm-pulse-up">—</div>
-        </div>
-        <div style="text-align:center;padding:8px;background:var(--line-grid);border-radius:4px">
-          <div style="font-size:11px;color:var(--muted);margin-bottom:2px">Down</div>
-          <div style="font-size:18px;font-weight:700;color:var(--down)" id="cm-pulse-down">—</div>
-        </div>
-        <div style="text-align:center;padding:8px;background:var(--line-grid);border-radius:4px">
-          <div style="font-size:11px;color:var(--muted);margin-bottom:2px">Flat</div>
-          <div style="font-size:18px;font-weight:700;color:var(--muted)" id="cm-pulse-flat">—</div>
-        </div>
-      </div>
-      <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;font-size:12px">
-        <div>
-          <div style="color:var(--up);font-weight:700;font-size:11px;margin-bottom:4px">▲ Top Gainers</div>
-          <div id="cm-pulse-gainers" style="line-height:1.7;color:var(--text)">—</div>
-        </div>
-        <div>
-          <div style="color:var(--down);font-weight:700;font-size:11px;margin-bottom:4px">▼ Top Decliners</div>
-          <div id="cm-pulse-losers" style="line-height:1.7;color:var(--text)">—</div>
-        </div>
-      </div>
+      <div class="panel-head"><div class="panel-title">Key Industrial Materials Heatmap <span class="badge-live">DAILY</span></div></div>
+      <div class="heatmap" id="ind-heatmap"><div class="hm-cell hm-no"><div class="hm-name">Loading…</div><div class="hm-val">—</div></div></div>
+      <div style="font-size:11px;color:var(--muted);margin-top:8px;font-style:italic">Color: red = up · green = down (CN convention)</div>
     </div>
 
+    <!-- ===== Featured Commodity Mini-Charts ===== -->
+    <div class="panel" style="background:var(--bg);padding:10px 12px">
+      <div class="panel-head"><div class="panel-title">Featured Commodity Mini-Charts <span class="badge-live">TREND</span></div></div>
+      <div id="cm-sparkgrid" style="display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:var(--line)"></div>
+    </div>
 
     <div class="center-header">
       <div class="ticker-display">600519.SH</div>
@@ -540,19 +553,6 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
         <div class="hm-cell hm-no"><div class="hm-name">000002 만커</div><div class="hm-val">—</div></div>
       </div>
       <div style="font-size:11px;color:var(--muted);margin-top:8px;font-style:italic">색상: 적=Up(중국·KR식) · 녹=Down · 데이터 연동 시 시가총액 비례 셀 크기 적용 예정</div>
-    </div>
-
-    <!-- ===== Key Industrial Materials Heatmap ===== -->
-    <div class="panel" style="background:var(--bg);padding:10px 12px">
-      <div class="panel-head"><div class="panel-title">Key Industrial Materials Heatmap <span class="badge-live">DAILY</span></div></div>
-      <div class="heatmap" id="ind-heatmap"><div class="hm-cell hm-no"><div class="hm-name">Loading…</div><div class="hm-val">—</div></div></div>
-      <div style="font-size:11px;color:var(--muted);margin-top:8px;font-style:italic">Color: red = up · green = down (CN convention)</div>
-    </div>
-
-    <!-- ===== Featured Commodity Mini-Charts ===== -->
-    <div class="panel" style="background:var(--bg);padding:10px 12px">
-      <div class="panel-head"><div class="panel-title">Featured Commodity Mini-Charts <span class="badge-live">TREND</span></div></div>
-      <div id="cm-sparkgrid" style="display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:var(--line)"></div>
     </div>
 
     <div class="grid-2col">
@@ -1218,7 +1218,7 @@ async function loadCommodities(){
     const d = await r.json();
     if(d.pulse){
       const refEl = document.getElementById('cm-pulse-ref');
-      if(refEl) refEl.textContent = d.ref_date ? '기준일 ' + d.ref_date : '';
+      if(refEl) refEl.textContent = d.ref_date ? (window.CN_LANG==='ko'?'기준일 ':'Ref date ') + d.ref_date : '';
       const upEl = document.getElementById('cm-pulse-up');
       const dnEl = document.getElementById('cm-pulse-down');
       const ftEl = document.getElementById('cm-pulse-flat');
@@ -1243,7 +1243,7 @@ async function loadCommodities(){
       fb.innerHTML = d.featured.map(function(it){ return rowCommodity(it, true); }).join('');
     }
     const upd = document.getElementById('cm-updated');
-    if(upd) upd.textContent = d.ref_date ? '기준 ' + d.ref_date : '';
+    if(upd) upd.textContent = d.ref_date ? (window.CN_LANG==='ko'?'기준 ':'Ref ') + d.ref_date : '';
     // 표 헤더에 일자 표시 (전일/당일 옆)
     function shortDate(s){
       // "2026-05-29" → "05-29"
@@ -1372,8 +1372,8 @@ async function loadCommodityChart(commodityId, displayName){
     // 헤더 갱신
     const titleEl = document.getElementById('cm-chart-title');
     const subEl = document.getElementById('cm-chart-subtitle');
-    if(titleEl) titleEl.innerHTML = (displayName || d.name || commodityId) + ' <span class="badge-live">LINE</span> <span style="color:var(--muted);font-size:11px;font-weight:400;margin-left:6px">' + (d.unit || '') + '</span>';
-    if(subEl) subEl.textContent = '일별 가격 · ' + d.count + '일치 데이터';
+    if(titleEl) titleEl.innerHTML = cmName(displayName || d.name || commodityId) + ' <span class="badge-live">LINE</span> <span style="color:var(--muted);font-size:11px;font-weight:400;margin-left:6px">' + (d.unit || '') + '</span>';
+    if(subEl) subEl.textContent = (window.CN_LANG==='ko'?('일별 가격 · '+d.count+'일치 데이터'):('Daily price · '+d.count+' days'));
     // 현재 선택된 기간 유지
     _applyCmPeriod(_cmCurrentPeriod);
     // 차트 영역으로 스크롤
