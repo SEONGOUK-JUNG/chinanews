@@ -152,12 +152,12 @@
   .hm-cell .hm-val{text-align:right;font-family:"JetBrains Mono",monospace;font-weight:700;font-size:12px}
   .hm-cell.hm-no{background:var(--bg-1);opacity:.5}
   .hm-cell.hm-no .hm-val{color:var(--muted);font-size:10px}
-  /* Compact industrial-materials heatmap (matrix style) — scoped so the A-share heatmap is unaffected */
-  #ind-heatmap{grid-template-columns:repeat(auto-fill,minmax(72px,1fr));gap:1px}
-  #ind-heatmap .hm-cell{aspect-ratio:auto;min-height:30px;padding:3px 5px;justify-content:center;gap:1px}
-  #ind-heatmap .hm-cell:hover{transform:scale(1.08)}
-  #ind-heatmap .hm-cell .hm-name{font-size:9px;font-weight:600;line-height:1.1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-  #ind-heatmap .hm-cell .hm-val{font-size:10px;font-weight:700;text-align:left;line-height:1.1}
+  /* Industrial-materials heatmap (matrix style) — scoped so the A-share heatmap is unaffected */
+  #ind-heatmap{grid-template-columns:repeat(auto-fill,minmax(104px,1fr));gap:1px}
+  #ind-heatmap .hm-cell{aspect-ratio:auto;min-height:48px;padding:6px 9px;justify-content:center;gap:3px}
+  #ind-heatmap .hm-cell:hover{transform:scale(1.06)}
+  #ind-heatmap .hm-cell .hm-name{font-size:11px;font-weight:600;line-height:1.15;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  #ind-heatmap .hm-cell .hm-val{font-size:12px;font-weight:700;text-align:left;line-height:1.15}
 
   .sidebar-r{background:var(--bg-1);display:flex;flex-direction:column;gap:1px}
 
@@ -374,17 +374,17 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
       <div class="panel-head">
         <div class="panel-title">Commodity Pulse <span class="badge-live">DAILY</span><span class="ts" id="cm-pulse-ref" style="margin-left:6px"></span></div>
       </div>
-      <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;margin-bottom:10px">
-        <div style="text-align:center;padding:8px;background:var(--line-grid);border-radius:4px">
-          <div style="font-size:11px;color:var(--muted);margin-bottom:2px">Up</div>
+      <div style="display:grid;grid-template-columns:1fr;gap:6px;margin-bottom:10px">
+        <div style="display:flex;align-items:center;justify-content:space-between;padding:7px 12px;background:var(--line-grid);border-radius:4px">
+          <div style="font-size:12px;color:var(--muted)">Up</div>
           <div style="font-size:18px;font-weight:700;color:var(--up)" id="cm-pulse-up">—</div>
         </div>
-        <div style="text-align:center;padding:8px;background:var(--line-grid);border-radius:4px">
-          <div style="font-size:11px;color:var(--muted);margin-bottom:2px">Down</div>
+        <div style="display:flex;align-items:center;justify-content:space-between;padding:7px 12px;background:var(--line-grid);border-radius:4px">
+          <div style="font-size:12px;color:var(--muted)">Down</div>
           <div style="font-size:18px;font-weight:700;color:var(--down)" id="cm-pulse-down">—</div>
         </div>
-        <div style="text-align:center;padding:8px;background:var(--line-grid);border-radius:4px">
-          <div style="font-size:11px;color:var(--muted);margin-bottom:2px">Flat</div>
+        <div style="display:flex;align-items:center;justify-content:space-between;padding:7px 12px;background:var(--line-grid);border-radius:4px">
+          <div style="font-size:12px;color:var(--muted)">Flat</div>
           <div style="font-size:18px;font-weight:700;color:var(--muted)" id="cm-pulse-flat">—</div>
         </div>
       </div>
