@@ -152,6 +152,12 @@
   .hm-cell .hm-val{text-align:right;font-family:"JetBrains Mono",monospace;font-weight:700;font-size:12px}
   .hm-cell.hm-no{background:var(--bg-1);opacity:.5}
   .hm-cell.hm-no .hm-val{color:var(--muted);font-size:10px}
+  /* Compact industrial-materials heatmap (matrix style) — scoped so the A-share heatmap is unaffected */
+  #ind-heatmap{grid-template-columns:repeat(auto-fill,minmax(72px,1fr));gap:1px}
+  #ind-heatmap .hm-cell{aspect-ratio:auto;min-height:30px;padding:3px 5px;justify-content:center;gap:1px}
+  #ind-heatmap .hm-cell:hover{transform:scale(1.08)}
+  #ind-heatmap .hm-cell .hm-name{font-size:9px;font-weight:600;line-height:1.1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  #ind-heatmap .hm-cell .hm-val{font-size:10px;font-weight:700;text-align:left;line-height:1.1}
 
   .sidebar-r{background:var(--bg-1);display:flex;flex-direction:column;gap:1px}
 
@@ -1202,9 +1208,16 @@ function renderCmModalBody(filterText){
     return;
   }
   const q = (filterText || '').trim().toLowerCase();
-  const list = q ? _cmAllItems.filter(function(x){
+  const _enName = function(it){
+    const ko = it.display_name || it.name || '';
+    const en = (window.CM_I18N && window.CM_I18N.names && window.CM_I18N.names[ko]);
+    return (en || ko);
+  };
+  const list = (q ? _cmAllItems.filter(function(x){
     return ((x.display_name || x.name || '') + ' ' + (x.sector || '')).toLowerCase().includes(q);
-  }) : _cmAllItems;
+  }) : _cmAllItems).slice().sort(function(a, b){
+    return _enName(a).toLowerCase().localeCompare(_enName(b).toLowerCase());
+  });
   if(list.length === 0){
     body.innerHTML = '<tr><td colspan="5" style="color:var(--muted);text-align:center;padding:14px 0">검색 결과 없음</td></tr>';
     return;
