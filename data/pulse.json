@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-06-08T23:31:13.233634+09:00",
+  "updated_at_kst": "2026-06-09T07:01:03.165610+09:00",
   "source": {
     "watchlist": "data/stocks_latest.json",
     "charts": "data/charts/*.json"
@@ -10,16 +10,16 @@
     "breadth_universe": "a_stock + hk_stock + us_adr"
   },
   "china_market": {
-    "status": "CLOSED",
-    "label": "장 마감",
+    "status": "PRE",
+    "label": "장 시작 전",
     "color": "muted"
   },
   "breadth": {
-    "up": 18,
-    "down": 16,
+    "up": 14,
+    "down": 20,
     "flat": 1,
     "total": 35,
-    "label": "18 / 16"
+    "label": "14 / 20"
   },
   "high_low_52w": {
     "checked": 50,
