@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-06-01T07:01:03.094374+09:00",
+  "updated_at_kst": "2026-06-08T13:01:17.689391+09:00",
   "items": [
     {
       "id": "600519",
@@ -181,175 +181,175 @@
       "ticker": "BABA",
       "name": "알리바바ADR",
       "file": "BABA.json",
-      "count": 1255
+      "count": 1256
     },
     {
       "id": "PDD",
       "ticker": "PDD",
       "name": "핀둬둬",
       "file": "PDD.json",
-      "count": 1255
+      "count": 1256
     },
     {
       "id": "JD",
       "ticker": "JD",
       "name": "징둥ADR",
       "file": "JD.json",
-      "count": 1255
+      "count": 1256
     },
     {
       "id": "BIDU",
       "ticker": "BIDU",
       "name": "바이두",
       "file": "BIDU.json",
-      "count": 1255
+      "count": 1256
     },
     {
       "id": "NIO",
       "ticker": "NIO",
       "name": "니오",
       "file": "NIO.json",
-      "count": 1255
+      "count": 1256
     },
     {
       "id": "LI",
       "ticker": "LI",
       "name": "리오토",
       "file": "LI.json",
-      "count": 1255
+      "count": 1256
     },
     {
       "id": "XPEV",
       "ticker": "XPEV",
       "name": "샤오펑",
       "file": "XPEV.json",
-      "count": 1255
+      "count": 1256
     },
     {
       "id": "TME",
       "ticker": "TME",
       "name": "텐센트뮤직",
       "file": "TME.json",
-      "count": 1255
+      "count": 1256
     },
     {
       "id": "BILI",
       "ticker": "BILI",
       "name": "빌리빌리",
       "file": "BILI.json",
-      "count": 1255
+      "count": 1256
     },
     {
       "id": "NTES",
       "ticker": "NTES",
       "name": "넷이즈",
       "file": "NTES.json",
-      "count": 1255
+      "count": 1256
     },
     {
       "id": "005930",
       "ticker": "005930.KS",
       "name": "삼성전자",
       "file": "005930.json",
-      "count": 1221
+      "count": 1220
     },
     {
       "id": "000660",
       "ticker": "000660.KS",
       "name": "SK하이닉스",
       "file": "000660.json",
-      "count": 1221
+      "count": 1220
     },
     {
       "id": "373220",
       "ticker": "373220.KS",
       "name": "LG에너지솔루션",
       "file": "373220.json",
-      "count": 1056
+      "count": 1061
     },
     {
       "id": "005380",
       "ticker": "005380.KS",
       "name": "현대차",
       "file": "005380.json",
-      "count": 1221
+      "count": 1220
     },
     {
       "id": "207940",
       "ticker": "207940.KS",
       "name": "삼성바이오로직스",
       "file": "207940.json",
-      "count": 1221
+      "count": 1220
     },
     {
       "id": "035420",
       "ticker": "035420.KS",
       "name": "NAVER",
       "file": "035420.json",
-      "count": 1221
+      "count": 1220
     },
     {
       "id": "005490",
       "ticker": "005490.KS",
       "name": "POSCO홀딩스",
       "file": "005490.json",
-      "count": 1221
+      "count": 1220
     },
     {
       "id": "051910",
       "ticker": "051910.KS",
       "name": "LG화학",
       "file": "051910.json",
-      "count": 1221
+      "count": 1220
     },
     {
       "id": "006400",
       "ticker": "006400.KS",
       "name": "삼성SDI",
       "file": "006400.json",
-      "count": 1221
+      "count": 1220
     },
     {
       "id": "035720",
       "ticker": "035720.KS",
       "name": "카카오",
       "file": "035720.json",
-      "count": 1221
+      "count": 1220
     },
     {
       "id": "068270",
       "ticker": "068270.KS",
       "name": "셀트리온",
       "file": "068270.json",
-      "count": 1221
+      "count": 1220
     },
     {
       "id": "105560",
       "ticker": "105560.KS",
       "name": "KB금융",
       "file": "105560.json",
-      "count": 1221
+      "count": 1220
     },
     {
       "id": "055550",
       "ticker": "055550.KS",
       "name": "신한지주",
       "file": "055550.json",
-      "count": 1221
+      "count": 1220
     },
     {
       "id": "012330",
       "ticker": "012330.KS",
       "name": "현대모비스",
       "file": "012330.json",
-      "count": 1221
+      "count": 1220
     },
     {
       "id": "000270",
       "ticker": "000270.KS",
       "name": "기아",
       "file": "000270.json",
-      "count": 1221
+      "count": 1220
     },
     {
       "id": "csi300",
@@ -391,14 +391,14 @@
       "ticker": "^KS11",
       "name": "KOSPI",
       "file": "kospi.json",
-      "count": 1222
+      "count": 1221
     },
     {
       "id": "kosdaq",
       "ticker": "^KQ11",
       "name": "KOSDAQ",
       "file": "kosdaq.json",
-      "count": 1221
+      "count": 1220
     }
   ]
 }
