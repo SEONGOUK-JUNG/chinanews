@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-06-09T07:01:03.165610+09:00",
+  "updated_at_kst": "2026-06-09T09:31:12.930725+09:00",
   "source": {
     "watchlist": "data/stocks_latest.json",
     "charts": "data/charts/*.json"
