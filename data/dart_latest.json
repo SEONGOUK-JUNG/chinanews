@@ -1,12 +1,32 @@
 {
-  "run_at_kst": "2026-06-09T07:01:04.511794+09:00",
+  "run_at_kst": "2026-06-09T09:31:15.807251+09:00",
   "source": "DART OpenAPI",
   "source_url": "https://opendart.fss.or.kr/",
   "period": "20260526~20260609",
   "total_companies": 20,
   "success_companies": 20,
-  "total_disclosures": 58,
+  "total_disclosures": 59,
   "disclosures": [
+    {
+      "stock_code": "017670",
+      "corp_name": "DB손해보험",
+      "report_nm": "투자설명서",
+      "flr_nm": "DB손해보험",
+      "rcept_dt": "2026-06-09",
+      "rcept_no": "20260609000003",
+      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260609000003",
+      "rm": ""
+    },
+    {
+      "stock_code": "017670",
+      "corp_name": "DB손해보험",
+      "report_nm": "효력발생안내( 2026.5.27. 제출 증권신고서(채무증권) )",
+      "flr_nm": "금융감독원",
+      "rcept_dt": "2026-06-09",
+      "rcept_no": "20260527100081",
+      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260527100081",
+      "rm": ""
+    },
     {
       "stock_code": "005930",
       "corp_name": "삼성전자",
@@ -485,26 +505,6 @@
       "rcept_dt": "2026-05-28",
       "rcept_no": "20260528000245",
       "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260528000245",
-      "rm": "공"
-    },
-    {
-      "stock_code": "005490",
-      "corp_name": "POSCO홀딩스",
-      "report_nm": "해외증권거래소등에신고한주요공시사항의국내신고              ",
-      "flr_nm": "POSCO홀딩스",
-      "rcept_dt": "2026-05-28",
-      "rcept_no": "20260528800058",
-      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260528800058",
-      "rm": "유"
-    },
-    {
-      "stock_code": "000270",
-      "corp_name": "케이티",
-      "report_nm": "대규모기업집단현황공시[연1회(동일인용)]",
-      "flr_nm": "케이티",
-      "rcept_dt": "2026-05-28",
-      "rcept_no": "20260528000858",
-      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260528000858",
       "rm": "공"
     }
   ]
