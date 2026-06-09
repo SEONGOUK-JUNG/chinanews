@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-06-09T09:31:12.452212+09:00",
+  "updated_at_kst": "2026-06-09T13:01:22.307183+09:00",
   "items": [
     {
       "id": "600519",
@@ -391,14 +391,14 @@
       "ticker": "^KS11",
       "name": "KOSPI",
       "file": "kospi.json",
-      "count": 1220
+      "count": 1221
     },
     {
       "id": "kosdaq",
       "ticker": "^KQ11",
       "name": "KOSDAQ",
       "file": "kosdaq.json",
-      "count": 1219
+      "count": 1220
     }
   ]
 }

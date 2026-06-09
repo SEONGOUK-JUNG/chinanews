@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-06-09T09:31:12.930725+09:00",
+  "updated_at_kst": "2026-06-09T13:01:23.664185+09:00",
   "source": {
     "watchlist": "data/stocks_latest.json",
     "charts": "data/charts/*.json"
@@ -10,16 +10,16 @@
     "breadth_universe": "a_stock + hk_stock + us_adr"
   },
   "china_market": {
-    "status": "PRE",
-    "label": "장 시작 전",
+    "status": "LUNCH",
+    "label": "점심 휴장",
     "color": "muted"
   },
   "breadth": {
-    "up": 14,
-    "down": 20,
-    "flat": 1,
+    "up": 11,
+    "down": 24,
+    "flat": 0,
     "total": 35,
-    "label": "14 / 20"
+    "label": "11 / 24"
   },
   "high_low_52w": {
     "checked": 50,
@@ -29,25 +29,25 @@
     "new_highs": [],
     "new_lows": [
       {
+        "id": "600519",
+        "name": "귀주모태주",
+        "close": 1255.75,
+        "yr_low": 1250.1,
+        "gap_pct": 0.45
+      },
+      {
         "id": "000858",
         "name": "우량예",
-        "close": 79.96,
-        "yr_low": 79.56,
-        "gap_pct": 0.5
+        "close": 79.21,
+        "yr_low": 79.09,
+        "gap_pct": 0.15
       },
       {
-        "id": "600276",
-        "name": "형서의약",
-        "close": 45.94,
-        "yr_low": 45.55,
-        "gap_pct": 0.86
-      },
-      {
-        "id": "600009",
-        "name": "상해공항",
-        "close": 23.01,
-        "yr_low": 22.92,
-        "gap_pct": 0.39
+        "id": "1810.HK",
+        "name": "샤오미",
+        "close": 27.08,
+        "yr_low": 26.98,
+        "gap_pct": 0.37
       }
     ]
   }
