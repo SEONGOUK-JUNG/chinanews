@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-06-09T15:46:25.027108+09:00",
+  "updated_at_kst": "2026-06-09T23:31:07.552262+09:00",
   "items": [
     {
       "id": "600519",
@@ -181,70 +181,70 @@
       "ticker": "BABA",
       "name": "알리바바ADR",
       "file": "BABA.json",
-      "count": 1255
+      "count": 1256
     },
     {
       "id": "PDD",
       "ticker": "PDD",
       "name": "핀둬둬",
       "file": "PDD.json",
-      "count": 1255
+      "count": 1256
     },
     {
       "id": "JD",
       "ticker": "JD",
       "name": "징둥ADR",
       "file": "JD.json",
-      "count": 1255
+      "count": 1256
     },
     {
       "id": "BIDU",
       "ticker": "BIDU",
       "name": "바이두",
       "file": "BIDU.json",
-      "count": 1255
+      "count": 1256
     },
     {
       "id": "NIO",
       "ticker": "NIO",
       "name": "니오",
       "file": "NIO.json",
-      "count": 1255
+      "count": 1256
     },
     {
       "id": "LI",
       "ticker": "LI",
       "name": "리오토",
       "file": "LI.json",
-      "count": 1255
+      "count": 1256
     },
     {
       "id": "XPEV",
       "ticker": "XPEV",
       "name": "샤오펑",
       "file": "XPEV.json",
-      "count": 1255
+      "count": 1256
     },
     {
       "id": "TME",
       "ticker": "TME",
       "name": "텐센트뮤직",
       "file": "TME.json",
-      "count": 1255
+      "count": 1256
     },
     {
       "id": "BILI",
       "ticker": "BILI",
       "name": "빌리빌리",
       "file": "BILI.json",
-      "count": 1255
+      "count": 1256
     },
     {
       "id": "NTES",
       "ticker": "NTES",
       "name": "넷이즈",
       "file": "NTES.json",
-      "count": 1255
+      "count": 1256
     },
     {
       "id": "005930",

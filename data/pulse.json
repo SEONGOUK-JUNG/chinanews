@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-06-09T15:46:25.364222+09:00",
+  "updated_at_kst": "2026-06-09T23:31:07.853080+09:00",
   "source": {
     "watchlist": "data/stocks_latest.json",
     "charts": "data/charts/*.json"
@@ -10,37 +10,44 @@
     "breadth_universe": "a_stock + hk_stock + us_adr"
   },
   "china_market": {
-    "status": "OPEN",
-    "label": "개장 (오후장)",
-    "color": "up"
+    "status": "CLOSED",
+    "label": "장 마감",
+    "color": "muted"
   },
   "breadth": {
-    "up": 16,
+    "up": 15,
     "down": 19,
-    "flat": 0,
+    "flat": 1,
     "total": 35,
-    "label": "16 / 19"
+    "label": "15 / 19"
   },
   "high_low_52w": {
     "checked": 50,
     "no_chart": 0,
     "new_high_count": 0,
-    "new_low_count": 2,
+    "new_low_count": 3,
     "new_highs": [],
     "new_lows": [
       {
         "id": "600519",
         "name": "귀주모태주",
-        "close": 1256.92,
+        "close": 1256.0,
         "yr_low": 1250.1,
-        "gap_pct": 0.55
+        "gap_pct": 0.47
       },
       {
         "id": "000858",
         "name": "우량예",
-        "close": 79.08,
+        "close": 79.11,
         "yr_low": 78.88,
-        "gap_pct": 0.25
+        "gap_pct": 0.29
+      },
+      {
+        "id": "1810.HK",
+        "name": "샤오미",
+        "close": 27.2,
+        "yr_low": 26.98,
+        "gap_pct": 0.82
       }
     ]
   }
