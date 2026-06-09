@@ -1,20 +1,70 @@
 {
-  "run_at_kst": "2026-06-09T15:46:27.044948+09:00",
+  "run_at_kst": "2026-06-09T23:31:09.236065+09:00",
   "source": "DART OpenAPI",
   "source_url": "https://opendart.fss.or.kr/",
   "period": "20260526~20260609",
   "total_companies": 20,
   "success_companies": 20,
-  "total_disclosures": 60,
+  "total_disclosures": 61,
   "disclosures": [
     {
       "stock_code": "000660",
       "corp_name": "SK하이닉스",
-      "report_nm": "주식등의대량보유상황보고서(약식)",
-      "flr_nm": "CapitalResearchandManagementCompany",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "flr_nm": "강춘호",
       "rcept_dt": "2026-06-09",
-      "rcept_no": "20260609000049",
-      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260609000049",
+      "rcept_no": "20260609000465",
+      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260609000465",
+      "rm": ""
+    },
+    {
+      "stock_code": "000660",
+      "corp_name": "SK하이닉스",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "flr_nm": "김주선",
+      "rcept_dt": "2026-06-09",
+      "rcept_no": "20260609000462",
+      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260609000462",
+      "rm": ""
+    },
+    {
+      "stock_code": "000660",
+      "corp_name": "SK하이닉스",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "flr_nm": "최준기",
+      "rcept_dt": "2026-06-09",
+      "rcept_no": "20260609000459",
+      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260609000459",
+      "rm": ""
+    },
+    {
+      "stock_code": "000660",
+      "corp_name": "SK하이닉스",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "flr_nm": "주영표",
+      "rcept_dt": "2026-06-09",
+      "rcept_no": "20260609000454",
+      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260609000454",
+      "rm": ""
+    },
+    {
+      "stock_code": "000660",
+      "corp_name": "SK하이닉스",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "flr_nm": "김현중",
+      "rcept_dt": "2026-06-09",
+      "rcept_no": "20260609000450",
+      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260609000450",
+      "rm": ""
+    },
+    {
+      "stock_code": "017670",
+      "corp_name": "DB손해보험",
+      "report_nm": "증권발행실적보고서",
+      "flr_nm": "DB손해보험",
+      "rcept_dt": "2026-06-09",
+      "rcept_no": "20260609000493",
+      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260609000493",
       "rm": ""
     },
     {
@@ -25,16 +75,6 @@
       "rcept_dt": "2026-06-09",
       "rcept_no": "20260609000003",
       "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260609000003",
-      "rm": ""
-    },
-    {
-      "stock_code": "017670",
-      "corp_name": "DB손해보험",
-      "report_nm": "효력발생안내( 2026.5.27. 제출 증권신고서(채무증권) )",
-      "flr_nm": "금융감독원",
-      "rcept_dt": "2026-06-09",
-      "rcept_no": "20260527100081",
-      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260527100081",
       "rm": ""
     },
     {
@@ -308,36 +348,6 @@
       "rm": "공"
     },
     {
-      "stock_code": "000660",
-      "corp_name": "SK하이닉스",
-      "report_nm": "기업지배구조보고서공시              ",
-      "flr_nm": "SK하이닉스",
-      "rcept_dt": "2026-05-29",
-      "rcept_no": "20260529801972",
-      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260529801972",
-      "rm": "유"
-    },
-    {
-      "stock_code": "000660",
-      "corp_name": "SK하이닉스",
-      "report_nm": "대규모기업집단현황공시[연1회공시및1/4분기용(개별회사)]",
-      "flr_nm": "SK하이닉스",
-      "rcept_dt": "2026-05-29",
-      "rcept_no": "20260529000991",
-      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260529000991",
-      "rm": "공"
-    },
-    {
-      "stock_code": "000660",
-      "corp_name": "SK하이닉스",
-      "report_nm": "[기재정정]특수관계인과의내부거래",
-      "flr_nm": "SK하이닉스",
-      "rcept_dt": "2026-05-29",
-      "rcept_no": "20260529000534",
-      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260529000534",
-      "rm": "공"
-    },
-    {
       "stock_code": "005380",
       "corp_name": "현대자동차",
       "report_nm": "기업가치제고계획(자율공시)              (2025년 이행현황)",
@@ -496,16 +506,6 @@
       "rcept_no": "20260528000629",
       "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260528000629",
       "rm": "공"
-    },
-    {
-      "stock_code": "035720",
-      "corp_name": "카카오",
-      "report_nm": "대규모기업집단현황공시[연1회공시및1/4분기용(대표회사)]",
-      "flr_nm": "카카오",
-      "rcept_dt": "2026-05-28",
-      "rcept_no": "20260528000575",
-      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260528000575",
-      "rm": "공정"
     }
   ]
 }
