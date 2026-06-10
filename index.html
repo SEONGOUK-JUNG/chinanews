@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>차이나News 터미널 · CHINANEWS Terminal — KR인을 위한 중국 주식 Financials 단말기</title>
+<title>CHINANEWS Terminal — China Markets & Commodities</title>
 <meta name="description" content="중국 주식·ETF·지수·Commodities·FX & Rates를 하나의 단말기에서. chinanews.kr">
 <link rel="canonical" href="https://chinanews.kr/">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
@@ -264,7 +264,7 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
     <input type="text" placeholder="Symbol / command (e.g. 600519, BABA, 005930, COPPER)">
   </div>
   <div class="tb-side">
-    <div class="lang-toggle" id="lang-toggle"><span data-lang="en" class="active">EN</span><span data-lang="ko">KR어</span></div>
+    <div class="lang-toggle" id="lang-toggle"><span data-lang="en" class="active">EN</span><span data-lang="ko">KR</span></div>
     <span class="conn-status">CONNECTED</span>
     <span class="item-dim">SHANGHAI</span>
     <span class="item mono" id="clock-shanghai">--:--</span>
@@ -416,7 +416,7 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
 
     <div class="center-header">
       <div class="ticker-display">600519.SH</div>
-      <div class="ticker-name">귀주모태주 <span class="ex">Shanghai · Baijiu</span></div>
+      <div class="ticker-name">Kweichow Moutai <span class="ex">Shanghai · Baijiu</span></div>
       <div class="ticker-pin">
         <span class="px-big no-data">—</span>
         <span class="ch-big"><span class="api-needed">API</span></span>
@@ -476,11 +476,11 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
       <div style="background:var(--bg);border:1px solid var(--line-2);border-radius:6px;width:90%;max-width:1000px;max-height:85vh;display:flex;flex-direction:column">
         <div style="display:flex;justify-content:space-between;align-items:center;padding:12px 16px;border-bottom:1px solid var(--line-2)">
           <div>
-            <div style="font-size:14px;font-weight:700;color:var(--orange)">중국 Commodities All 리스트</div>
-            <div style="font-size:11px;color:var(--muted);margin-top:2px" id="cm-modal-meta">All 약 440종</div>
+            <div style="font-size:14px;font-weight:700;color:var(--orange)">China Commodities — Full List</div>
+            <div style="font-size:11px;color:var(--muted);margin-top:2px" id="cm-modal-meta">≈440 items</div>
           </div>
           <div style="display:flex;gap:10px;align-items:center">
-            <input type="text" id="cm-modal-search" placeholder="Item/Sector 검색…" style="background:var(--line-grid);border:1px solid var(--line-2);color:var(--text);padding:5px 10px;border-radius:3px;font-size:12px;width:200px">
+            <input type="text" id="cm-modal-search" placeholder="Search item / sector…" style="background:var(--line-grid);border:1px solid var(--line-2);color:var(--text);padding:5px 10px;border-radius:3px;font-size:12px;width:200px">
             <span id="cm-modal-close" style="cursor:pointer;font-size:20px;color:var(--muted);padding:0 6px">×</span>
           </div>
         </div>
@@ -513,7 +513,7 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
     <div class="panel ai-panel" id="sec-ai">
       <div class="panel-head"><div class="panel-title">AI Trade Assistant <span class="badge-live">GROQ</span></div></div>
       <div class="ai-message">
-        <div class="label">AI · 시작 안내</div>
+        <div class="label">AI · Getting Started</div>
         <div class="text">
           Welcome to CHINANEWS Terminal.<br>
           Ask anything about commodities, markets, or trade strategy.<br><br>
@@ -522,8 +522,8 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
         </div>
       </div>
       <div class="ai-input">
-        <input type="text" placeholder="질문 입력... (예: 600519 가격 추세)" id="ai-q">
-        <button onclick="aiSend()">전송</button>
+        <input type="text" placeholder="Ask a question… (e.g., 600519 price trend)" id="ai-q">
+        <button onclick="aiSend()">Send</button>
       </div>
     </div>
 
@@ -542,7 +542,7 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
   </div>
   <div class="fb-right">
     <span class="lic-warn">PROTOTYPE v0.3</span>
-    <span>📊 데이터 갱신: <span id="data-updated" style="color:var(--orange);font-weight:700">--</span></span>
+    <span>📊 Data updated: <span id="data-updated" style="color:var(--orange);font-weight:700">--</span></span>
     <span>chinanews.kr</span>
     <span id="footer-time">2026-05-29 KST</span>
   </div>
@@ -557,13 +557,13 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
     <span class="no-data">— No data · no placeholder numbers</span>
   </div>
   <div style="margin-top:12px;color:var(--muted);line-height:1.7">
-    <strong style="color:var(--text)">투명성 원칙:</strong>
-    본 단말기는 데이터가 없는 위치에 임의의 숫자를 채워 넣지 않습니다.
-    <strong style="color:var(--orange)">"데이터 없음" / "API"</strong> 명시 후 추후 API 연동을 통해서만 채워집니다.
-    실제 의사결정은 반드시 공식 출처(거래소·관계기관)에서 재확인 후 진행하시기 바랍니다.
+    <strong style="color:var(--text)">Transparency policy:</strong>
+    This terminal never fills empty fields with placeholder numbers.
+    <strong style="color:var(--orange)">"No data" / "API"</strong> are shown until the data is filled via a connected API.
+    Always re-verify with official sources (exchanges, authorities) before any decision.
   <div style="margin-top:9px;line-height:1.7">
-    <strong style="color:var(--text)">현재 실측 데이터:</strong>
-    중국 일일 현물 Commodities 100종+ · FX(yfinance) · 중국 증시·지수(yfinance+AkShare) · 그 외 API 미연결
+    <strong style="color:var(--text)">Live measured data:</strong>
+    China daily spot commodities (100+) · FX (yfinance) · China equities & indices (yfinance + AkShare) · other feeds not yet connected
   </div>
 </div>
 
@@ -572,10 +572,10 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
   <div class="modal-box">
     <div class="modal-head">
       <span class="title">Add Symbol</span>
-      <button class="close-btn" id="modal-close" title="닫기">✕</button>
+      <button class="close-btn" id="modal-close" title="Close">✕</button>
     </div>
     <div class="modal-search">
-      <input type="text" id="modal-search-input" placeholder="Symbol 코드 또는 이름 검색 (예: 600519, 삼성, BABA, 텐센트)" autocomplete="off">
+      <input type="text" id="modal-search-input" placeholder="Search symbol or name (e.g., 600519, Samsung, BABA, Tencent)" autocomplete="off">
     </div>
     <div class="modal-filters" id="modal-filters">
       <span class="modal-filter active" data-filter="all">All</span>
@@ -585,7 +585,7 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
       <span class="modal-filter" data-filter="kr_stock">KR</span>
     </div>
     <div class="modal-list" id="modal-list"></div>
-    <div class="modal-foot">총 <span id="modal-count">50</span>개 Symbol · 클릭 시 관심Add Symbol/제거</div>
+    <div class="modal-foot"><span id="modal-count">50</span> symbols · click to add/remove</div>
   </div>
 </div>
 
@@ -593,7 +593,7 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
 function aiSend(){
   const q = document.getElementById('ai-q');
   if(!q.value) return;
-  alert('AI 어시스턴트는 백엔드 연결 후 활성화됩니다.\n질문: "' + q.value + '"');
+  alert('AI assistant activates once the backend is connected.\nQuestion: "' + q.value + '"');
   q.value = '';
 }
 document.getElementById('ai-q').addEventListener('keypress', e=>{ if(e.key==='Enter') aiSend(); });
@@ -653,7 +653,7 @@ async function loadFXRates(){
           const sign = changePct > 0 ? '▲' : (changePct < 0 ? '▼' : '—');
           c.textContent = sign + ' ' + (changePct >= 0 ? '+' : '') + changePct.toFixed(2) + '%';
           c.className = 'idx-chg mono ' + (changePct > 0 ? 'up' : (changePct < 0 ? 'down' : 'flat'));
-        }else{ c.innerHTML = '<span class="api-needed">파생</span>'; }
+        }else{ c.innerHTML = '<span class="api-needed">derived</span>'; }
       }
     };
     if(fx.derived && fx.derived.usd_cny) updateOne('usd-cny', fx.derived.usd_cny.value, fx.derived.usd_cny.change_pct, 4);
@@ -708,7 +708,7 @@ function renderWatchlist(){
   if(!container) return;
   const wl = getWatchlist();
   if(wl.length === 0){
-    container.innerHTML = '<div style="color:var(--muted);font-style:italic;text-align:center;padding:18px 0;font-size:11px">관심종목 없음<br><span style="font-size:10px">+ 버튼으로 추가</span></div>';
+    container.innerHTML = '<div style="color:var(--muted);font-style:italic;text-align:center;padding:18px 0;font-size:11px">No watchlist items<br><span style="font-size:10px">Add with the + button</span></div>';
     STOCK_ID_MAP = {};
     return;
   }
@@ -721,8 +721,8 @@ function renderWatchlist(){
     return `<div class="wl-row" id="${rowId}" data-symbol="${symbolId}">
       <div><span class="tk">${symbolId}</span><span class="nm">${item.name}</span></div>
       <div class="px no-data">—</div>
-      <div class="ch"><span class="api-needed">로딩</span></div>
-      <div class="wl-remove" title="제거" data-action="remove" data-symbol="${symbolId}">✕</div>
+      <div class="ch"><span class="api-needed">Loading</span></div>
+      <div class="wl-remove" title="Remove" data-action="remove" data-symbol="${symbolId}">✕</div>
     </div>`;
   }).filter(x => x).join('');
   container.innerHTML = rows;
@@ -756,7 +756,7 @@ function renderModalList(query, filter){
   });
   if(countEl) countEl.textContent = filtered.length;
   if(filtered.length === 0){
-    list.innerHTML = '<div style="padding:18px;text-align:center;color:var(--muted);font-style:italic;font-size:12px">검색 결과 없음</div>';
+    list.innerHTML = '<div style="padding:18px;text-align:center;color:var(--muted);font-style:italic;font-size:12px">No results</div>';
     return;
   }
   list.innerHTML = filtered.map(item => {
@@ -767,7 +767,7 @@ function renderModalList(query, filter){
         <span class="mr-name">${item.name}</span>
         <span class="mr-meta">${item.ex} · ${item.sector} · ${item.currency}</span>
       </div>
-      <span class="mr-action">${added ? '추가됨' : '+ 추가'}</span>
+      <span class="mr-action">${added ? 'Added' : '+ Add'}</span>
     </div>`;
   }).join('');
 }
@@ -963,7 +963,7 @@ async function loadPulse(){
       if(nh > 0){
         // 종목명 툴팁 (상위 3개)
         const tip = (hl.new_highs || []).slice(0,5).map(x => x.name + '(' + x.id + ')').join(', ');
-        elHigh.innerHTML = '<span style="color:var(--up);font-weight:700" title="' + tip + '">' + nh + ' 종</span>';
+        elHigh.innerHTML = '<span style="color:var(--up);font-weight:700" title="' + tip + '">' + nh + '</span>';
       }else{
         elHigh.textContent = '0 종';
         elHigh.style.color = 'var(--muted)';
@@ -973,7 +973,7 @@ async function loadPulse(){
       const nl = hl.new_low_count;
       if(nl > 0){
         const tipL = (hl.new_lows || []).slice(0,5).map(x => x.name + '(' + x.id + ')').join(', ');
-        elLow.innerHTML = '<span style="color:var(--down);font-weight:700" title="' + tipL + '">' + nl + ' 종</span>';
+        elLow.innerHTML = '<span style="color:var(--down);font-weight:700" title="' + tipL + '">' + nl + '</span>';
       }else{
         elLow.textContent = '0 종';
         elLow.style.color = 'var(--muted)';
@@ -1016,7 +1016,7 @@ function rowCommodity(item, featured){
   if(featured){
     // chart_id는 commodity_charts/{id}.json과 매핑
     const cid = item.chart_id || _DISPLAY_TO_CHART_ID[item.display_name] || '';
-    const clickable = cid ? ' style="cursor:pointer" data-cm-id="' + cid + '" title="클릭하면 차트가 표시됩니다"' : '';
+    const clickable = cid ? ' style="cursor:pointer" data-cm-id="' + cid + '" title="Click to load chart"' : '';
     return '<tr' + clickable + ' data-cm-ko="' + (item.display_name||'') + '" data-cm-unit="' + (item.unit||'CNY/t') + '"><td>' + cmName(item.display_name) + '</td><td>' + cmSector(item.sector||item.category||'') + '</td><td>' + pp + '</td><td>' + pt + '</td><td>' + pc + '</td><td>' + usdEst(item.price_today,item.unit,item.display_name) + '</td><td style="font-size:10px;color:var(--muted)">' + (item.unit || 'CNY/t') + '</td></tr>';
   } else {
     return '<tr style="cursor:pointer" data-cm-ko="' + (item.display_name||item.name||'') + '" data-cm-unit="' + (item.unit||'CNY/t') + '"><td>' + cmName(item.display_name||item.name) + '</td><td>' + cmSector(item.sector||'') + '</td><td>' + pp + '</td><td>' + pt + '</td><td>' + pc + '</td><td>' + usdEst(item.price_today,item.unit,item.display_name) + '</td></tr>';
@@ -1033,7 +1033,7 @@ function renderCmModalBody(filterText){
   const body = document.getElementById('cm-modal-body');
   if(!body) return;
   if(!_cmAllItems.length){
-    body.innerHTML = '<tr><td colspan="5" style="color:var(--muted);text-align:center;padding:14px 0">아직 전체 리스트가 수집되지 않았습니다.<br>매일 07:00 KST 자동 업데이트.</td></tr>';
+    body.innerHTML = '<tr><td colspan="5" style="color:var(--muted);text-align:center;padding:14px 0">Full list not collected yet.<br>Auto-updates daily at 07:00 KST.</td></tr>';
     return;
   }
   const q = (filterText || '').trim().toLowerCase();
@@ -1048,7 +1048,7 @@ function renderCmModalBody(filterText){
     return _enName(a).toLowerCase().localeCompare(_enName(b).toLowerCase());
   });
   if(list.length === 0){
-    body.innerHTML = '<tr><td colspan="5" style="color:var(--muted);text-align:center;padding:14px 0">검색 결과 없음</td></tr>';
+    body.innerHTML = '<tr><td colspan="5" style="color:var(--muted);text-align:center;padding:14px 0">No results</td></tr>';
     return;
   }
   body.innerHTML = list.map(function(it){ return rowCommodity(it, false); }).join('');
@@ -1117,7 +1117,7 @@ async function loadCommodities(){
   } catch(e) {
     console.warn('[Commodities] failed:', e.message);
     const fb = document.getElementById('cm-featured-body');
-    if(fb) fb.innerHTML = '<tr><td colspan="6" style="color:var(--muted);text-align:center;padding:14px 0">데이터 로딩 실패</td></tr>';
+    if(fb) fb.innerHTML = '<tr><td colspan="6" style="color:var(--muted);text-align:center;padding:14px 0">Data load failed</td></tr>';
   }
 }
 document.addEventListener('click', function(e){
@@ -1155,7 +1155,7 @@ function _initCmChart(){
     console.warn('LightweightCharts 라이브러리 없음 (원자재 차트)');
     return;
   }
-  _cmChartInstance = LightweightCharts.createChart(el, {
+  _cmChartInstance = LightweightCharts.createChart(el, { localization:{locale:'en-US'},
     width: el.clientWidth,
     height: el.clientHeight,
     layout: { background:{type:'solid', color:'transparent'}, textColor: getComputedStyle(document.body).getPropertyValue('--text') || '#cfcfcf' },
@@ -1264,7 +1264,7 @@ function initChart(){
   const container = document.getElementById('chart-canvas');
   if(!container || !window.LightweightCharts) return;
   if(chartInstance){ chartInstance.remove(); chartInstance = null; }
-  chartInstance = LightweightCharts.createChart(container, {
+  chartInstance = LightweightCharts.createChart(container, { localization:{locale:'en-US'},
     width: container.clientWidth, height: container.clientHeight,
     layout: { background: { type: 'solid', color: '#000000' }, textColor: '#A8A8A8', fontSize: 11, fontFamily: 'JetBrains Mono, monospace' },
     grid: { vertLines: { color: '#1a1a1a' }, horzLines: { color: '#1a1a1a' } },
@@ -1302,7 +1302,7 @@ async function loadChart(symbolId){
     const ph = document.getElementById('chart-placeholder');
     if(ph){
       ph.style.display = 'flex';
-      ph.innerHTML = '<span style="font-size:42px;opacity:.3">📈</span><div>차트 데이터 없음: ' + symbolId + '</div>';
+      ph.innerHTML = '<span style="font-size:42px;opacity:.3">📈</span><div>No chart data: ' + symbolId + '</div>';
     }
   }
 }
@@ -1570,4 +1570,4 @@ window.addEventListener('load', function(){
 </script>
 </body>
 </html>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
