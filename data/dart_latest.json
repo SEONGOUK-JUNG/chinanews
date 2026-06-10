@@ -1,12 +1,32 @@
 {
-  "run_at_kst": "2026-06-10T07:01:02.492534+09:00",
+  "run_at_kst": "2026-06-10T13:01:18.788633+09:00",
   "source": "DART OpenAPI",
   "source_url": "https://opendart.fss.or.kr/",
   "period": "20260527~20260610",
   "total_companies": 20,
   "success_companies": 20,
-  "total_disclosures": 58,
+  "total_disclosures": 59,
   "disclosures": [
+    {
+      "stock_code": "006400",
+      "corp_name": "삼성SDI",
+      "report_nm": "최대주주등소유주식변동신고서              ",
+      "flr_nm": "삼성SDI",
+      "rcept_dt": "2026-06-10",
+      "rcept_no": "20260610800111",
+      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260610800111",
+      "rm": "유"
+    },
+    {
+      "stock_code": "005490",
+      "corp_name": "POSCO홀딩스",
+      "report_nm": "중대재해발생(자회사의 주요경영사항)              ",
+      "flr_nm": "POSCO홀딩스",
+      "rcept_dt": "2026-06-10",
+      "rcept_no": "20260610800082",
+      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260610800082",
+      "rm": "유"
+    },
     {
       "stock_code": "000660",
       "corp_name": "SK하이닉스",
@@ -486,26 +506,6 @@
       "rcept_no": "20260528800739",
       "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260528800739",
       "rm": "유"
-    },
-    {
-      "stock_code": "035720",
-      "corp_name": "카카오",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "flr_nm": "윤영진",
-      "rcept_dt": "2026-05-28",
-      "rcept_no": "20260528000707",
-      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260528000707",
-      "rm": ""
-    },
-    {
-      "stock_code": "035720",
-      "corp_name": "카카오",
-      "report_nm": "대규모기업집단현황공시[연1회(동일인용)]",
-      "flr_nm": "김범수",
-      "rcept_dt": "2026-05-28",
-      "rcept_no": "20260528000629",
-      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260528000629",
-      "rm": "공"
     }
   ]
 }
