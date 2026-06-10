@@ -302,6 +302,21 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
 
 
     <div class="panel">
+      <div class="panel-head"><div class="panel-title">Landed Cost Estimator <span class="badge-live">CALC</span></div></div>
+      <div class="small" style="margin-bottom:7px;line-height:1.5">Rough estimate for importers. Click a commodity row.</div>
+      <div style="font-size:12px;margin-bottom:5px">Selected: <span id="lc-name" style="color:var(--orange);font-weight:700">—</span></div>
+      <div style="display:flex;justify-content:space-between;align-items:center;padding:5px 0;border-bottom:1px solid var(--line-grid)"><span class="small">Import to</span><select id="lc-origin" style="width:170px;background:var(--bg);border:1px solid var(--line-2);color:var(--text);padding:4px 7px;font-size:12px;font-family:JetBrains Mono,monospace;border-radius:2px"><option value="KR">Korea · KR–CN FTA</option><option value="US">USA · MFN</option><option value="EU">EU · MFN</option><option value="OTHER">Other · manual</option></select></div>
+      <div style="display:flex;justify-content:space-between;padding:5px 0;border-bottom:1px solid var(--line-grid)"><span class="small">Spot (CNY)</span><span class="mono" id="lc-spot" style="font-weight:700">—</span></div>
+      <div style="display:flex;justify-content:space-between;padding:5px 0;border-bottom:1px solid var(--line-grid)"><span class="small">FOB est. (USD)</span><span class="mono" id="lc-fob" style="font-weight:700">—</span></div>
+      <div style="display:flex;justify-content:space-between;align-items:center;padding:5px 0"><span class="small">Freight (USD/unit)</span><input id="lc-freight" type="number" value="0" min="0" step="1" style="width:90px;background:var(--bg);border:1px solid var(--line-2);color:var(--text);padding:4px 7px;font-size:12px;font-family:JetBrains Mono,monospace;text-align:right;border-radius:2px"></div>
+      <div style="display:flex;justify-content:space-between;align-items:center;padding:5px 0"><span class="small">Import duty (%)</span><input id="lc-duty" type="number" value="0" min="0" step="0.1" style="width:90px;background:var(--bg);border:1px solid var(--line-2);color:var(--text);padding:4px 7px;font-size:12px;font-family:JetBrains Mono,monospace;text-align:right;border-radius:2px"></div>
+      <div style="display:flex;justify-content:space-between;align-items:center;padding:5px 0"><span class="small">VAT (%)</span><input id="lc-vat" type="number" value="0" min="0" step="0.1" style="width:90px;background:var(--bg);border:1px solid var(--line-2);color:var(--text);padding:4px 7px;font-size:12px;font-family:JetBrains Mono,monospace;text-align:right;border-radius:2px"></div>
+      <div style="display:flex;justify-content:space-between;padding:7px 0;margin-top:3px;border-top:1px solid var(--line-2)"><span class="small">Est. Landed (USD)</span><span class="mono" id="lc-total" style="font-weight:700;color:var(--orange);font-size:15px">—</span></div>
+      <div class="small" id="lc-hsnote" style="margin-top:6px;color:var(--orange);line-height:1.5"></div>
+      <div class="small" style="margin-top:7px;font-style:italic;line-height:1.5">Estimate — excludes insurance, handling & local fees. Verify with your forwarder.</div>
+    </div>
+
+    <div class="panel">
       <div class="panel-head">
         <div class="panel-title">Watchlist <span class="badge-live">LIVE</span></div>
         <span class="panel-actions" id="wl-add-btn" style="cursor:pointer;font-size:16px;color:var(--orange);font-weight:700">+</span>
@@ -493,21 +508,6 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
         <div style="color:var(--muted);font-style:italic;text-align:center;padding:18px 0">News loading…</div>
       </div>
       <div style="font-size:10px;color:var(--muted);margin-top:7px;font-style:italic">Headlines link to source. Sources: mining.com · OilPrice.com</div>
-    </div>
-
-    <div class="panel">
-      <div class="panel-head"><div class="panel-title">Landed Cost Estimator <span class="badge-live">CALC</span></div></div>
-      <div class="small" style="margin-bottom:7px;line-height:1.5">Rough estimate for importers. Click a commodity row.</div>
-      <div style="font-size:12px;margin-bottom:5px">Selected: <span id="lc-name" style="color:var(--orange);font-weight:700">—</span></div>
-      <div style="display:flex;justify-content:space-between;align-items:center;padding:5px 0;border-bottom:1px solid var(--line-grid)"><span class="small">Import to</span><select id="lc-origin" style="width:170px;background:var(--bg);border:1px solid var(--line-2);color:var(--text);padding:4px 7px;font-size:12px;font-family:JetBrains Mono,monospace;border-radius:2px"><option value="KR">Korea · KR–CN FTA</option><option value="US">USA · MFN</option><option value="EU">EU · MFN</option><option value="OTHER">Other · manual</option></select></div>
-      <div style="display:flex;justify-content:space-between;padding:5px 0;border-bottom:1px solid var(--line-grid)"><span class="small">Spot (CNY)</span><span class="mono" id="lc-spot" style="font-weight:700">—</span></div>
-      <div style="display:flex;justify-content:space-between;padding:5px 0;border-bottom:1px solid var(--line-grid)"><span class="small">FOB est. (USD)</span><span class="mono" id="lc-fob" style="font-weight:700">—</span></div>
-      <div style="display:flex;justify-content:space-between;align-items:center;padding:5px 0"><span class="small">Freight (USD/unit)</span><input id="lc-freight" type="number" value="0" min="0" step="1" style="width:90px;background:var(--bg);border:1px solid var(--line-2);color:var(--text);padding:4px 7px;font-size:12px;font-family:JetBrains Mono,monospace;text-align:right;border-radius:2px"></div>
-      <div style="display:flex;justify-content:space-between;align-items:center;padding:5px 0"><span class="small">Import duty (%)</span><input id="lc-duty" type="number" value="0" min="0" step="0.1" style="width:90px;background:var(--bg);border:1px solid var(--line-2);color:var(--text);padding:4px 7px;font-size:12px;font-family:JetBrains Mono,monospace;text-align:right;border-radius:2px"></div>
-      <div style="display:flex;justify-content:space-between;align-items:center;padding:5px 0"><span class="small">VAT (%)</span><input id="lc-vat" type="number" value="0" min="0" step="0.1" style="width:90px;background:var(--bg);border:1px solid var(--line-2);color:var(--text);padding:4px 7px;font-size:12px;font-family:JetBrains Mono,monospace;text-align:right;border-radius:2px"></div>
-      <div style="display:flex;justify-content:space-between;padding:7px 0;margin-top:3px;border-top:1px solid var(--line-2)"><span class="small">Est. Landed (USD)</span><span class="mono" id="lc-total" style="font-weight:700;color:var(--orange);font-size:15px">—</span></div>
-      <div class="small" id="lc-hsnote" style="margin-top:6px;color:var(--orange);line-height:1.5"></div>
-      <div class="small" style="margin-top:7px;font-style:italic;line-height:1.5">Estimate — excludes insurance, handling & local fees. Verify with your forwarder.</div>
     </div>
 
     <div class="panel ai-panel" id="sec-ai">
