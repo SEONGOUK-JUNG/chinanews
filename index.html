@@ -254,19 +254,14 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
 <div class="topbar">
   <div class="logo-mark">CHINANEWS · TERMINAL</div>
   <div class="tb-tabs">
-    <span class="tb-tab active">Home</span>
-    <span class="tb-tab">China Eq</span>
-    <span class="tb-tab">KR Eq</span>
-    <span class="tb-tab">Commodities</span>
-    <span class="tb-tab">FX & Rates</span>
-    <span class="tb-tab">ETF</span>
-    <span class="tb-tab">Options</span>
-    <span class="tb-tab">News</span>
-    <span class="tb-tab">AI</span>
+    <span class="tb-tab active" data-target="top">Home</span>
+    <span class="tb-tab" data-target="sec-commodities">Commodities</span>
+    <span class="tb-tab" data-target="sec-news">News</span>
+    <span class="tb-tab" data-target="sec-ai">AI</span>
   </div>
   <div class="tb-search">
     <span class="gd">GO&gt;</span>
-    <input type="text" placeholder="Symbol / 명령 입력 (예: 600519, BABA, 005930, COPPER)">
+    <input type="text" placeholder="Symbol / command (e.g. 600519, BABA, 005930, COPPER)">
   </div>
   <div class="tb-side">
     <div class="lang-toggle" id="lang-toggle"><span data-lang="en" class="active">EN</span><span data-lang="ko">KR어</span></div>
@@ -286,8 +281,8 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
   <div class="idx-cell"><div class="idx-name">SZSE COMP</div><div id="idx-szse-val" class="idx-val no-data">—</div><div id="idx-szse-chg" class="idx-chg"><span class="api-needed">Loading</span></div></div>
   <div class="idx-cell"><div class="idx-name">CHINEXT</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API</span></div></div>
   <div class="idx-cell"><div class="idx-name">STAR 50</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API</span></div></div>
-  <div class="idx-cell"><div class="idx-name">HSI 항셍</div><div id="idx-hsi-val" class="idx-val no-data">—</div><div id="idx-hsi-chg" class="idx-chg"><span class="api-needed">Loading</span></div></div>
-  <div class="idx-cell"><div class="idx-name">HSCEI H지수</div><div id="idx-hscei-val" class="idx-val no-data">—</div><div id="idx-hscei-chg" class="idx-chg"><span class="api-needed">Loading</span></div></div>
+  <div class="idx-cell"><div class="idx-name">HSI</div><div id="idx-hsi-val" class="idx-val no-data">—</div><div id="idx-hsi-chg" class="idx-chg"><span class="api-needed">Loading</span></div></div>
+  <div class="idx-cell"><div class="idx-name">HSCEI</div><div id="idx-hscei-val" class="idx-val no-data">—</div><div id="idx-hscei-chg" class="idx-chg"><span class="api-needed">Loading</span></div></div>
   <div class="idx-cell"><div class="idx-name">KOSPI</div><div id="idx-kospi-val" class="idx-val no-data">—</div><div id="idx-kospi-chg" class="idx-chg"><span class="api-needed">Loading</span></div></div>
   <div class="idx-cell"><div class="idx-name">KOSDAQ</div><div id="idx-kosdaq-val" class="idx-val no-data">—</div><div id="idx-kosdaq-chg" class="idx-chg"><span class="api-needed">Loading</span></div></div>
   <div class="idx-cell"><div class="idx-name">USD/CNY</div><div id="fx-usd-cny-val" class="idx-val no-data">—</div><div id="fx-usd-cny-chg" class="idx-chg"><span class="api-needed">Loading</span></div></div>
@@ -322,7 +317,7 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
   <div class="center-main">
     <!-- ===== COMMODITY HERO (top priority) ===== -->
     <!-- ===== Pulse (left) + Industrial Heatmap (right) row ===== -->
-    <div style="display:grid;grid-template-columns:minmax(280px,360px) minmax(0,1fr);gap:10px;align-items:start">
+    <div id="sec-commodities" style="display:grid;grid-template-columns:minmax(280px,360px) minmax(0,1fr);gap:10px;align-items:start">
     <!-- Commodity Pulse (left) -->
     <div class="panel" style="background:var(--bg);padding:10px 12px;margin:0">
       <div class="panel-head">
@@ -492,6 +487,13 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
 
   <div class="sidebar-r">
 
+    <div class="panel" id="sec-news">
+      <div class="panel-head"><div class="panel-title">News <span class="badge-live">RSS</span></div></div>
+      <div id="news-list" style="font-size:12px;line-height:1.5">
+        <div style="color:var(--muted);font-style:italic;text-align:center;padding:18px 0">News loading…</div>
+      </div>
+      <div style="font-size:10px;color:var(--muted);margin-top:7px;font-style:italic">Headlines link to source. Sources: mining.com · OilPrice.com</div>
+    </div>
 
     <div class="panel">
       <div class="panel-head"><div class="panel-title">Landed Cost Estimator <span class="badge-live">CALC</span></div></div>
@@ -506,7 +508,7 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
       <div class="small" style="margin-top:7px;font-style:italic;line-height:1.5">Estimate — excludes insurance, handling & local fees. Verify with your forwarder.</div>
     </div>
 
-    <div class="panel ai-panel">
+    <div class="panel ai-panel" id="sec-ai">
       <div class="panel-head"><div class="panel-title">AI Trade Assistant <span class="badge-live">GROQ</span></div></div>
       <div class="ai-message">
         <div class="label">AI · 시작 안내</div>
@@ -598,8 +600,27 @@ document.querySelectorAll('.tb-tab').forEach(t=>{
   t.addEventListener('click', ()=>{
     document.querySelectorAll('.tb-tab').forEach(x=>x.classList.remove('active'));
     t.classList.add('active');
+    var tgt=t.getAttribute('data-target');
+    if(tgt==='top'){ window.scrollTo({top:0,behavior:'smooth'}); }
+    else if(tgt){ var el=document.getElementById(tgt); if(el) el.scrollIntoView({behavior:'smooth',block:'start'}); }
   });
 });
+function loadNews(){
+  var host=document.getElementById('news-list'); if(!host) return;
+  fetch('data/news_latest.json?t='+Date.now()).then(function(r){return r.json();}).then(function(d){
+    var items=(d.items||[]).slice(0,14);
+    if(!items.length){ host.innerHTML='<div style="color:var(--muted);font-style:italic;text-align:center;padding:14px 0">No news</div>'; return; }
+    function rel(s){ var t=new Date(s).getTime(); if(isNaN(t)) return ''; var m=Math.floor((Date.now()-t)/60000); if(m<60) return m+'m'; var h=Math.floor(m/60); if(h<24) return h+'h'; return Math.floor(h/24)+'d'; }
+    host.innerHTML=items.map(function(it){
+      var r=rel(it.date);
+      return '<a href="'+it.link+'" target="_blank" rel="noopener" style="display:block;padding:6px 0;border-bottom:1px solid var(--line-grid);text-decoration:none">'
+        +'<div style="font-size:12px;color:var(--text);line-height:1.35">'+(it.title||'')+'</div>'
+        +'<div style="font-size:10px;color:var(--muted);margin-top:2px">'+(it.source||'')+(r?' · '+r+' ago':'')+'</div></a>';
+    }).join('');
+  }).catch(function(e){ console.warn('news', e); host.innerHTML='<div style="color:var(--muted);font-style:italic;text-align:center;padding:14px 0">News load failed</div>'; });
+}
+loadNews();
+setInterval(loadNews, 15*60*1000);
 document.querySelectorAll('.ctab').forEach(t=>{
   t.addEventListener('click', ()=>{
     document.querySelectorAll('.ctab').forEach(x=>x.classList.remove('active'));
