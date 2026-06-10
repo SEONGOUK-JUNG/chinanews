@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-06-10T07:01:01.067021+09:00",
+  "updated_at_kst": "2026-06-10T13:01:17.468170+09:00",
   "source": {
     "watchlist": "data/stocks_latest.json",
     "charts": "data/charts/*.json"
@@ -10,51 +10,45 @@
     "breadth_universe": "a_stock + hk_stock + us_adr"
   },
   "china_market": {
-    "status": "PRE",
-    "label": "장 시작 전",
+    "status": "LUNCH",
+    "label": "점심 휴장",
     "color": "muted"
   },
   "breadth": {
-    "up": 14,
-    "down": 20,
-    "flat": 1,
+    "up": 18,
+    "down": 17,
+    "flat": 0,
     "total": 35,
-    "label": "14 / 20"
+    "label": "18 / 17"
   },
   "high_low_52w": {
     "checked": 50,
     "no_chart": 0,
-    "new_high_count": 0,
-    "new_low_count": 4,
-    "new_highs": [],
+    "new_high_count": 1,
+    "new_low_count": 2,
+    "new_highs": [
+      {
+        "id": "000333",
+        "name": "메이디",
+        "close": 84.65,
+        "yr_high": 84.88,
+        "gap_pct": 0.27
+      }
+    ],
     "new_lows": [
-      {
-        "id": "600519",
-        "name": "귀주모태주",
-        "close": 1256.0,
-        "yr_low": 1250.1,
-        "gap_pct": 0.47
-      },
-      {
-        "id": "000858",
-        "name": "우량예",
-        "close": 79.11,
-        "yr_low": 78.88,
-        "gap_pct": 0.29
-      },
       {
         "id": "1810.HK",
         "name": "샤오미",
-        "close": 27.2,
-        "yr_low": 26.98,
-        "gap_pct": 0.82
+        "close": 25.92,
+        "yr_low": 25.78,
+        "gap_pct": 0.54
       },
       {
-        "id": "PDD",
-        "name": "핀둬둬",
-        "close": 81.93,
-        "yr_low": 81.56,
-        "gap_pct": 0.45
+        "id": "035720",
+        "name": "카카오",
+        "close": 38050.0,
+        "yr_low": 37750.0,
+        "gap_pct": 0.79
       }
     ]
   }
