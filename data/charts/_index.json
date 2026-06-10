@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-06-10T23:31:11.326956+09:00",
+  "updated_at_kst": "2026-06-11T07:00:57.850105+09:00",
   "items": [
     {
       "id": "600519",
@@ -181,70 +181,70 @@
       "ticker": "BABA",
       "name": "Alibaba (ADR)",
       "file": "BABA.json",
-      "count": 1256
+      "count": 1255
     },
     {
       "id": "PDD",
       "ticker": "PDD",
       "name": "PDD Holdings",
       "file": "PDD.json",
-      "count": 1256
+      "count": 1255
     },
     {
       "id": "JD",
       "ticker": "JD",
       "name": "JD.com (ADR)",
       "file": "JD.json",
-      "count": 1256
+      "count": 1255
     },
     {
       "id": "BIDU",
       "ticker": "BIDU",
       "name": "Baidu",
       "file": "BIDU.json",
-      "count": 1256
+      "count": 1255
     },
     {
       "id": "NIO",
       "ticker": "NIO",
       "name": "NIO",
       "file": "NIO.json",
-      "count": 1256
+      "count": 1255
     },
     {
       "id": "LI",
       "ticker": "LI",
       "name": "Li Auto",
       "file": "LI.json",
-      "count": 1256
+      "count": 1255
     },
     {
       "id": "XPEV",
       "ticker": "XPEV",
       "name": "XPeng",
       "file": "XPEV.json",
-      "count": 1256
+      "count": 1255
     },
     {
       "id": "TME",
       "ticker": "TME",
       "name": "Tencent Music",
       "file": "TME.json",
-      "count": 1256
+      "count": 1255
     },
     {
       "id": "BILI",
       "ticker": "BILI",
       "name": "Bilibili",
       "file": "BILI.json",
-      "count": 1256
+      "count": 1255
     },
     {
       "id": "NTES",
       "ticker": "NTES",
       "name": "NetEase",
       "file": "NTES.json",
-      "count": 1256
+      "count": 1255
     },
     {
       "id": "005930",
@@ -391,14 +391,14 @@
       "ticker": "^KS11",
       "name": "KOSPI",
       "file": "kospi.json",
-      "count": 1221
+      "count": 1220
     },
     {
       "id": "kosdaq",
       "ticker": "^KQ11",
       "name": "KOSDAQ",
       "file": "kosdaq.json",
-      "count": 1220
+      "count": 1219
     }
   ]
 }
