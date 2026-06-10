@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-06-10T14:54:11.531226+09:00",
+  "updated_at_kst": "2026-06-10T23:31:11.594841+09:00",
   "source": {
     "watchlist": "data/stocks_latest.json",
     "charts": "data/charts/*.json"
@@ -10,45 +10,44 @@
     "breadth_universe": "a_stock + hk_stock + us_adr"
   },
   "china_market": {
-    "status": "OPEN",
-    "label": "개장 (오후장)",
-    "color": "up"
+    "status": "CLOSED",
+    "label": "장 마감",
+    "color": "muted"
   },
   "breadth": {
-    "up": 19,
-    "down": 15,
+    "up": 21,
+    "down": 13,
     "flat": 1,
     "total": 35,
-    "label": "19 / 15"
+    "label": "21 / 13"
   },
   "high_low_52w": {
     "checked": 50,
     "no_chart": 0,
-    "new_high_count": 1,
-    "new_low_count": 2,
-    "new_highs": [
-      {
-        "id": "000333",
-        "name": "메이디",
-        "close": 84.38,
-        "yr_high": 84.88,
-        "gap_pct": 0.59
-      }
-    ],
+    "new_high_count": 0,
+    "new_low_count": 3,
+    "new_highs": [],
     "new_lows": [
       {
-        "id": "1810.HK",
-        "name": "샤오미",
-        "close": 26.02,
-        "yr_low": 25.78,
-        "gap_pct": 0.93
+        "id": "000858",
+        "name": "Wuliangye",
+        "close": 79.14,
+        "yr_low": 78.6,
+        "gap_pct": 0.69
       },
       {
-        "id": "035720",
-        "name": "카카오",
-        "close": 37750.0,
-        "yr_low": 37400.0,
-        "gap_pct": 0.94
+        "id": "PDD",
+        "name": "PDD Holdings",
+        "close": 81.52,
+        "yr_low": 81.01,
+        "gap_pct": 0.63
+      },
+      {
+        "id": "LI",
+        "name": "Li Auto",
+        "close": 13.825,
+        "yr_low": 13.79,
+        "gap_pct": 0.25
       }
     ]
   }

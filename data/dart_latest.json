@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-06-10T14:54:13.651168+09:00",
+  "run_at_kst": "2026-06-10T23:31:12.792433+09:00",
   "source": "DART OpenAPI",
   "source_url": "https://opendart.fss.or.kr/",
   "period": "20260527~20260610",
@@ -18,6 +18,76 @@
       "rm": "유"
     },
     {
+      "stock_code": "005380",
+      "corp_name": "현대자동차",
+      "report_nm": "특수관계인으로부터기타유가증권매수",
+      "flr_nm": "현대자동차",
+      "rcept_dt": "2026-06-10",
+      "rcept_no": "20260610000653",
+      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260610000653",
+      "rm": "공"
+    },
+    {
+      "stock_code": "005380",
+      "corp_name": "현대자동차",
+      "report_nm": "특수관계인에대한출자",
+      "flr_nm": "현대자동차",
+      "rcept_dt": "2026-06-10",
+      "rcept_no": "20260610000640",
+      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260610000640",
+      "rm": "공"
+    },
+    {
+      "stock_code": "035420",
+      "corp_name": "NAVER",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "flr_nm": "김성호",
+      "rcept_dt": "2026-06-10",
+      "rcept_no": "20260610000431",
+      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260610000431",
+      "rm": ""
+    },
+    {
+      "stock_code": "035420",
+      "corp_name": "NAVER",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "flr_nm": "오성권",
+      "rcept_dt": "2026-06-10",
+      "rcept_no": "20260610000422",
+      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260610000422",
+      "rm": ""
+    },
+    {
+      "stock_code": "035420",
+      "corp_name": "NAVER",
+      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
+      "flr_nm": "임주열",
+      "rcept_dt": "2026-06-10",
+      "rcept_no": "20260610000413",
+      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260610000413",
+      "rm": ""
+    },
+    {
+      "stock_code": "035720",
+      "corp_name": "카카오",
+      "report_nm": "[기재정정]대규모기업집단현황공시[연1회공시및1/4분기용(대표회사)]",
+      "flr_nm": "카카오",
+      "rcept_dt": "2026-06-10",
+      "rcept_no": "20260610000659",
+      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260610000659",
+      "rm": "공"
+    },
+    {
+      "stock_code": "005490",
+      "corp_name": "POSCO홀딩스",
+      "report_nm": "불성실공시법인지정예고              ",
+      "flr_nm": "유가증권시장본부",
+      "rcept_dt": "2026-06-10",
+      "rcept_no": "20260610800805",
+      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260610800805",
+      "rm": "유"
+    },
+    {
       "stock_code": "005490",
       "corp_name": "POSCO홀딩스",
       "report_nm": "중대재해발생(자회사의 주요경영사항)              ",
@@ -26,6 +96,26 @@
       "rcept_no": "20260610800082",
       "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260610800082",
       "rm": "유"
+    },
+    {
+      "stock_code": "000270",
+      "corp_name": "케이티",
+      "report_nm": "신탁계약에의한취득상황보고서",
+      "flr_nm": "케이티",
+      "rcept_dt": "2026-06-10",
+      "rcept_no": "20260610000512",
+      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260610000512",
+      "rm": ""
+    },
+    {
+      "stock_code": "066570",
+      "corp_name": "케이티",
+      "report_nm": "신탁계약에의한취득상황보고서",
+      "flr_nm": "케이티",
+      "rcept_dt": "2026-06-10",
+      "rcept_no": "20260610000512",
+      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260610000512",
+      "rm": ""
     },
     {
       "stock_code": "000660",
@@ -278,16 +368,6 @@
       "rm": "유"
     },
     {
-      "stock_code": "035420",
-      "corp_name": "NAVER",
-      "report_nm": "[기재정정]대규모기업집단현황공시[연1회공시및1/4분기용(대표회사)]",
-      "flr_nm": "NAVER",
-      "rcept_dt": "2026-06-01",
-      "rcept_no": "20260601000228",
-      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260601000228",
-      "rm": "공"
-    },
-    {
       "stock_code": "035720",
       "corp_name": "카카오",
       "report_nm": "[기재정정]대규모기업집단현황공시[연1회공시및1/4분기용(대표회사)]",
@@ -295,7 +375,7 @@
       "rcept_dt": "2026-06-01",
       "rcept_no": "20260601001962",
       "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260601001962",
-      "rm": "공"
+      "rm": "공정"
     },
     {
       "stock_code": "005490",
@@ -368,26 +448,6 @@
       "rm": "공"
     },
     {
-      "stock_code": "005380",
-      "corp_name": "현대자동차",
-      "report_nm": "기업가치제고계획(자율공시)              (2025년 이행현황)",
-      "flr_nm": "현대자동차",
-      "rcept_dt": "2026-05-29",
-      "rcept_no": "20260529802007",
-      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260529802007",
-      "rm": "유"
-    },
-    {
-      "stock_code": "005380",
-      "corp_name": "현대자동차",
-      "report_nm": "특수관계인으로부터기타유가증권매수",
-      "flr_nm": "현대자동차",
-      "rcept_dt": "2026-05-29",
-      "rcept_no": "20260529002065",
-      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260529002065",
-      "rm": "공"
-    },
-    {
       "stock_code": "051910",
       "corp_name": "LG화학",
       "report_nm": "기업지배구조보고서공시              ",
@@ -405,16 +465,6 @@
       "rcept_dt": "2026-05-29",
       "rcept_no": "20260529800434",
       "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260529800434",
-      "rm": "유"
-    },
-    {
-      "stock_code": "035420",
-      "corp_name": "NAVER",
-      "report_nm": "기업지배구조보고서공시              ",
-      "flr_nm": "NAVER",
-      "rcept_dt": "2026-05-29",
-      "rcept_no": "20260529800258",
-      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260529800258",
       "rm": "유"
     },
     {
@@ -456,56 +506,6 @@
       "rcept_no": "20260529000056",
       "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260529000056",
       "rm": "공"
-    },
-    {
-      "stock_code": "066570",
-      "corp_name": "케이티",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "flr_nm": "이승훈",
-      "rcept_dt": "2026-05-29",
-      "rcept_no": "20260529001758",
-      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260529001758",
-      "rm": ""
-    },
-    {
-      "stock_code": "066570",
-      "corp_name": "케이티",
-      "report_nm": "기업지배구조보고서공시              ",
-      "flr_nm": "케이티",
-      "rcept_dt": "2026-05-29",
-      "rcept_no": "20260529800920",
-      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260529800920",
-      "rm": "유"
-    },
-    {
-      "stock_code": "066570",
-      "corp_name": "케이티",
-      "report_nm": "[기재정정]대규모기업집단현황공시[연1회공시및1/4분기용(대표회사)]",
-      "flr_nm": "케이티",
-      "rcept_dt": "2026-05-29",
-      "rcept_no": "20260529000056",
-      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260529000056",
-      "rm": "공"
-    },
-    {
-      "stock_code": "035420",
-      "corp_name": "NAVER",
-      "report_nm": "대규모기업집단현황공시[연1회공시및1/4분기용(대표회사)]",
-      "flr_nm": "NAVER",
-      "rcept_dt": "2026-05-28",
-      "rcept_no": "20260528000474",
-      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260528000474",
-      "rm": "공정"
-    },
-    {
-      "stock_code": "035720",
-      "corp_name": "카카오",
-      "report_nm": "기업지배구조보고서공시              ",
-      "flr_nm": "카카오",
-      "rcept_dt": "2026-05-28",
-      "rcept_no": "20260528800739",
-      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260528800739",
-      "rm": "유"
     }
   ]
 }
