@@ -1513,16 +1513,18 @@ function updateLanded(){
   }
 }
 document.addEventListener('click', function(e){
-  var tr = e.target.closest ? e.target.closest('tr[data-cm-id],tr[data-cm-ko]') : null;
-  if(!tr) return;
-  var tds = tr.querySelectorAll('td'); if(tds.length<5) return;
-  var ko = tr.getAttribute('data-cm-ko') || tds[0].textContent.trim();
-  var cid = tr.getAttribute('data-cm-id') || '';
-  var last = parseFloat((tds[3].textContent||'').replace(/[^0-9.\-]/g,''));
-  var unit = tr.getAttribute('data-cm-unit') || (tds.length>=7 ? tds[6].textContent.trim() : 'CNY/t');
-  window.__lc = {name:tds[0].textContent.trim(), ko:ko, cid:cid, price:isNaN(last)?null:last, unit:unit, hs:null};
-  tdApplyDuty();
-  updateLanded();
+  if(!e.target.closest) return;
+  var hm = e.target.closest('.hm-cell[data-cm-ko]');
+  var tr = e.target.closest('tr[data-cm-id],tr[data-cm-ko]');
+  var el = hm || tr; if(!el) return;
+  var ko = el.getAttribute('data-cm-ko') || '';
+  var cid = el.getAttribute('data-cm-id') || '';
+  var unit = el.getAttribute('data-cm-unit') || 'CNY/t';
+  var price;
+  if(hm){ price = parseFloat(el.getAttribute('data-cm-price')); }
+  else { var tds=el.querySelectorAll('td'); if(tds.length<5) return; if(!ko) ko=tds[0].textContent.trim(); price=parseFloat((tds[3].textContent||'').replace(/[^0-9.\-]/g,'')); if(!el.getAttribute('data-cm-unit')) unit=(tds.length>=7?tds[6].textContent.trim():'CNY/t'); }
+  window.__lc = {name:ko, ko:ko, cid:cid, price:isNaN(price)?null:price, unit:unit, hs:null};
+  tdApplyDuty(); updateLanded();
 });
 ['lc-freight','lc-duty','lc-vat'].forEach(function(id){ var el=document.getElementById(id); if(el) el.addEventListener('input', updateLanded); });
 var _lcOrg=document.getElementById('lc-origin'); if(_lcOrg) _lcOrg.addEventListener('change', function(){ tdApplyDuty(); updateLanded(); });
@@ -1547,7 +1549,7 @@ window.addEventListener('load', function(){
       var map={}; (d.all_items||[]).forEach(function(it){ if(map[it.display_name]===undefined) map[it.display_name]=it; });
       var host=document.getElementById('ind-heatmap'); if(!host) return;
       var cells=IND.map(function(ko){ var it=map[ko]; if(!it) return ''; var p=it.change_pct;
-        return '<div class="hm-cell" style="background:'+hmColor(p)+'"><div class="hm-name">'+nm(ko)+'</div><div class="hm-val '+(p>0?'up':(p<0?'down':'flat'))+'">'+(p==null?'—':(p>0?'+':'')+p.toFixed(2)+'%')+'</div></div>'; }).filter(Boolean).join('');
+        return '<div class="hm-cell" data-cm-ko="'+ko+'" data-cm-unit="'+(it.unit||'CNY/t')+'" data-cm-price="'+(it.price_today!=null?it.price_today:'')+'" style="background:'+hmColor(p)+'"><div class="hm-name">'+nm(ko)+'</div><div class="hm-val '+(p>0?'up':(p<0?'down':'flat'))+'">'+(p==null?'—':(p>0?'+':'')+p.toFixed(2)+'%')+'</div></div>'; }).filter(Boolean).join('');
       if(cells) host.innerHTML=cells;
     }).catch(function(e){ console.warn('ind heatmap', e); }); }
   function renderSpark(){ fetch('data/commodities.json?t='+Date.now()).then(function(r){return r.json();}).then(function(d){
