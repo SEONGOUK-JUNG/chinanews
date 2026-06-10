@@ -1,0 +1,95 @@
+{
+  "run_at_kst": "2026-06-10T13:55:18.525904+09:00",
+  "schema_version": "1.0",
+  "sources": [
+    "mining.com",
+    "OilPrice.com"
+  ],
+  "count": 14,
+  "items": [
+    {
+      "title": "Oil Prices Jump After U.S. Strikes Iran Over Downed Apache",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Jump-After-US-Strikes-Iran-Over-Downed-Apache.html",
+      "source": "OilPrice",
+      "date": "Tue, 09 Jun 2026 22:17:22 -0500"
+    },
+    {
+      "title": "America Just Added a Massive New Rare Earth Supply Source",
+      "link": "https://oilprice.com/Energy/Energy-General/America-Just-Added-a-Massive-New-Rare-Earth-Supply-Source.html",
+      "source": "OilPrice",
+      "date": "Tue, 09 Jun 2026 19:00:00 -0500"
+    },
+    {
+      "title": "Disconnected Oil Futures Market Could See Price Spike within Weeks",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Disconnected-Oil-Futures-Market-Could-See-Price-Spike-within-Weeks.html",
+      "source": "OilPrice",
+      "date": "Tue, 09 Jun 2026 18:00:00 -0500"
+    },
+    {
+      "title": "US passes DOMINANCE Act for critical minerals security",
+      "link": "https://www.mining.com/the-us-passes-dominance-act-for-critical-minerals-security/",
+      "source": "mining.com",
+      "date": "Tue, 09 Jun 2026 22:44:26 +0000"
+    },
+    {
+      "title": "DRC's Export Controls Are Reshaping the Battery Metals Market",
+      "link": "https://oilprice.com/Energy/Energy-General/DRCs-Export-Controls-Are-Reshaping-the-Battery-Metals-Market.html",
+      "source": "OilPrice",
+      "date": "Tue, 09 Jun 2026 17:00:00 -0500"
+    },
+    {
+      "title": "Nuclear and Natural Gas Are Teaming Up to Power the AI Data Center Boom",
+      "link": "https://oilprice.com/Energy/Energy-General/Nuclear-and-Natural-Gas-Are-Teaming-Up-to-Power-the-AI-Data-Center-Boom.html",
+      "source": "OilPrice",
+      "date": "Tue, 09 Jun 2026 16:00:00 -0500"
+    },
+    {
+      "title": "US Crude Oil, Gasoline Inventories Keep Sinking, but Prices Don’t Care",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Gasoline-Inventories-Keep-Sinking-but-Prices-Dont-Care.html",
+      "source": "OilPrice",
+      "date": "Tue, 09 Jun 2026 15:50:50 -0500"
+    },
+    {
+      "title": "Larvotto Resources inks gold offtake deal with Glencore",
+      "link": "https://www.mining.com/larvotto-resources-inks-gold-offtake-deal-with-glencore/",
+      "source": "mining.com",
+      "date": "Tue, 09 Jun 2026 20:44:32 +0000"
+    },
+    {
+      "title": "The Clock Is Ticking Down To Iraq’s Economic Disaster On 27 July",
+      "link": "https://oilprice.com/Energy/Crude-Oil/The-Clock-Is-Ticking-Down-To-Iraqs-Economic-Disaster-On-27-July.html",
+      "source": "OilPrice",
+      "date": "Tue, 09 Jun 2026 15:00:00 -0500"
+    },
+    {
+      "title": "BLM Opens Review of 126,744 Acres for Colorado Oil and Gas Lease Sale",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/BLM-Opens-Review-of-126744-Acres-for-Colorado-Oil-and-Gas-Lease-Sale.html",
+      "source": "OilPrice",
+      "date": "Tue, 09 Jun 2026 14:30:00 -0500"
+    },
+    {
+      "title": "Debt cycle points to stronger case for gold price: Sprott",
+      "link": "https://www.mining.com/debt-cycle-points-to-stronger-case-for-gold-price-sprott/",
+      "source": "mining.com",
+      "date": "Tue, 09 Jun 2026 17:17:35 +0000"
+    },
+    {
+      "title": "China reaffirms Japan rare earth ban despite US request",
+      "link": "https://www.mining.com/china-reaffirms-japan-rare-earth-ban-despite-us-request/",
+      "source": "mining.com",
+      "date": "Tue, 09 Jun 2026 16:09:51 +0000"
+    },
+    {
+      "title": "Sigma Lithium wins appeal in Brazil, removing $10M legal order",
+      "link": "https://www.mining.com/sigma-lithium-wins-appeal-in-brazil-removing-10m-legal-order/",
+      "source": "mining.com",
+      "date": "Tue, 09 Jun 2026 14:56:59 +0000"
+    },
+    {
+      "title": "Op-Ed: Lithium’s threat isn’t demand, but pricing",
+      "link": "https://www.mining.com/op-ed-lithiums-threat-isnt-demand-but-pricing/",
+      "source": "mining.com",
+      "date": "Tue, 09 Jun 2026 13:58:04 +0000"
+    }
+  ]
+}
