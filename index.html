@@ -279,8 +279,8 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
   <div class="idx-cell"><div class="idx-name">CSI 300</div><div id="idx-csi300-val" class="idx-val no-data">—</div><div id="idx-csi300-chg" class="idx-chg"><span class="api-needed">Loading</span></div></div>
   <div class="idx-cell"><div class="idx-name">SSE COMP</div><div id="idx-sse-val" class="idx-val no-data">—</div><div id="idx-sse-chg" class="idx-chg"><span class="api-needed">Loading</span></div></div>
   <div class="idx-cell"><div class="idx-name">SZSE COMP</div><div id="idx-szse-val" class="idx-val no-data">—</div><div id="idx-szse-chg" class="idx-chg"><span class="api-needed">Loading</span></div></div>
-  <div class="idx-cell"><div class="idx-name">CHINEXT</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API</span></div></div>
-  <div class="idx-cell"><div class="idx-name">STAR 50</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API</span></div></div>
+  <div class="idx-cell"><div class="idx-name">CHINEXT</div><div id="idx-chinext-val" class="idx-val no-data">—</div><div id="idx-chinext-chg" class="idx-chg"><span class="api-needed">Loading</span></div></div>
+  <div class="idx-cell"><div class="idx-name">STAR 50</div><div id="idx-star50-val" class="idx-val no-data">—</div><div id="idx-star50-chg" class="idx-chg"><span class="api-needed">Loading</span></div></div>
   <div class="idx-cell"><div class="idx-name">HSI</div><div id="idx-hsi-val" class="idx-val no-data">—</div><div id="idx-hsi-chg" class="idx-chg"><span class="api-needed">Loading</span></div></div>
   <div class="idx-cell"><div class="idx-name">HSCEI</div><div id="idx-hscei-val" class="idx-val no-data">—</div><div id="idx-hscei-chg" class="idx-chg"><span class="api-needed">Loading</span></div></div>
   <div class="idx-cell"><div class="idx-name">KOSPI</div><div id="idx-kospi-val" class="idx-val no-data">—</div><div id="idx-kospi-chg" class="idx-chg"><span class="api-needed">Loading</span></div></div>
@@ -671,7 +671,7 @@ function rowIdFor(symbolId){
   // 600519 → s-600519, 0700.HK → s-0700-hk, BABA → s-baba
   return 's-' + symbolId.toLowerCase().replace(/\./g, '-');
 }
-const INDEX_ID_MAP = {'csi300':'idx-csi300','sse':'idx-sse','szse':'idx-szse','hsi':'idx-hsi','hscei':'idx-hscei','kospi':'idx-kospi','kosdaq':'idx-kosdaq'};
+const INDEX_ID_MAP = {'csi300':'idx-csi300','sse':'idx-sse','szse':'idx-szse','hsi':'idx-hsi','hscei':'idx-hscei','kospi':'idx-kospi','kosdaq':'idx-kosdaq','chinext':'idx-chinext','star50':'idx-star50'};
 
 // universe 풀 + 관심종목 관리
 let UNIVERSE = [];
