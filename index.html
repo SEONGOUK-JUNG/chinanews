@@ -499,7 +499,7 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
       <div class="panel-head"><div class="panel-title">Landed Cost Estimator <span class="badge-live">CALC</span></div></div>
       <div class="small" style="margin-bottom:7px;line-height:1.5">Rough estimate for importers. Click a commodity row.</div>
       <div style="font-size:12px;margin-bottom:5px">Selected: <span id="lc-name" style="color:var(--orange);font-weight:700">—</span></div>
-      <div style="display:flex;justify-content:space-between;align-items:center;padding:5px 0;border-bottom:1px solid var(--line-grid)"><span class="small">Origin (FTA)</span><select id="lc-origin" style="width:150px;background:var(--bg);border:1px solid var(--line-2);color:var(--text);padding:4px 7px;font-size:12px;font-family:JetBrains Mono,monospace;border-radius:2px"><option value="CN">China · KR–CN FTA</option><option value="VN">Vietnam · RCEP</option><option value="US">USA · KORUS</option><option value="DE">Germany · KR–EU</option><option value="JP">Japan · RCEP</option><option value="OTHER">Other · MFN</option></select></div>
+      <div style="display:flex;justify-content:space-between;align-items:center;padding:5px 0;border-bottom:1px solid var(--line-grid)"><span class="small">Import to</span><select id="lc-origin" style="width:170px;background:var(--bg);border:1px solid var(--line-2);color:var(--text);padding:4px 7px;font-size:12px;font-family:JetBrains Mono,monospace;border-radius:2px"><option value="KR">Korea · KR–CN FTA</option><option value="US">USA · MFN</option><option value="EU">EU · MFN</option><option value="OTHER">Other · manual</option></select></div>
       <div style="display:flex;justify-content:space-between;padding:5px 0;border-bottom:1px solid var(--line-grid)"><span class="small">Spot (CNY)</span><span class="mono" id="lc-spot" style="font-weight:700">—</span></div>
       <div style="display:flex;justify-content:space-between;padding:5px 0;border-bottom:1px solid var(--line-grid)"><span class="small">FOB est. (USD)</span><span class="mono" id="lc-fob" style="font-weight:700">—</span></div>
       <div style="display:flex;justify-content:space-between;align-items:center;padding:5px 0"><span class="small">Freight (USD/unit)</span><input id="lc-freight" type="number" value="0" min="0" step="1" style="width:90px;background:var(--bg);border:1px solid var(--line-2);color:var(--text);padding:4px 7px;font-size:12px;font-family:JetBrains Mono,monospace;text-align:right;border-radius:2px"></div>
@@ -1017,9 +1017,9 @@ function rowCommodity(item, featured){
     // chart_id는 commodity_charts/{id}.json과 매핑
     const cid = item.chart_id || _DISPLAY_TO_CHART_ID[item.display_name] || '';
     const clickable = cid ? ' style="cursor:pointer" data-cm-id="' + cid + '" title="클릭하면 차트가 표시됩니다"' : '';
-    return '<tr' + clickable + '><td>' + cmName(item.display_name) + '</td><td>' + cmSector(item.sector||item.category||'') + '</td><td>' + pp + '</td><td>' + pt + '</td><td>' + pc + '</td><td>' + usdEst(item.price_today,item.unit,item.display_name) + '</td><td style="font-size:10px;color:var(--muted)">' + (item.unit || 'CNY/t') + '</td></tr>';
+    return '<tr' + clickable + ' data-cm-ko="' + (item.display_name||'') + '" data-cm-unit="' + (item.unit||'CNY/t') + '"><td>' + cmName(item.display_name) + '</td><td>' + cmSector(item.sector||item.category||'') + '</td><td>' + pp + '</td><td>' + pt + '</td><td>' + pc + '</td><td>' + usdEst(item.price_today,item.unit,item.display_name) + '</td><td style="font-size:10px;color:var(--muted)">' + (item.unit || 'CNY/t') + '</td></tr>';
   } else {
-    return '<tr><td>' + cmName(item.display_name||item.name) + '</td><td>' + cmSector(item.sector||'') + '</td><td>' + pp + '</td><td>' + pt + '</td><td>' + pc + '</td><td>' + usdEst(item.price_today,item.unit,item.display_name) + '</td></tr>';
+    return '<tr style="cursor:pointer" data-cm-ko="' + (item.display_name||item.name||'') + '" data-cm-unit="' + (item.unit||'CNY/t') + '"><td>' + cmName(item.display_name||item.name) + '</td><td>' + cmSector(item.sector||'') + '</td><td>' + pp + '</td><td>' + pt + '</td><td>' + pc + '</td><td>' + usdEst(item.price_today,item.unit,item.display_name) + '</td></tr>';
   }
 }
 // 16종 display_name → chart_id 매핑
@@ -1462,25 +1462,29 @@ document.addEventListener('click', function(e){
 });
 
 /* ---- landed cost (TradeDesk engine · ROK import basis) ---- */
-/* HS duty table: t = MFN general rate, fcn = FTA concessional rate (Korea import) */
-var TD_HS = {
-  '3901.10':{nm:'LLDPE resin', t:6.5, fcn:4.0},
-  '3901.20':{nm:'HDPE resin',  t:6.5, fcn:4.0},
-  '3902.10':{nm:'PP homopolymer', t:5.5, fcn:3.0},
-  '3907.99':{nm:'PBAT resin', t:6.5, fcn:3.2},
-  '1005.90':{nm:'Corn', t:328, fcn:0},
-  '1006.30':{nm:'Rice (milled)', t:513, fcn:0},
-  '8108.20':{nm:'Hafnium', t:0, fcn:0}
+/* Verified duty (%) for CHINA-ORIGIN goods by destination/importer. null = not in DB -> manual entry.
+   KR = KR–CN FTA preferential (Certificate of Origin required); US/EU = MFN base.
+   Excludes anti-dumping/countervailing duties & US Section 301 surcharges — verify before filing.
+   Sources: Korea customs + KR–CN FTA, USITC HTS (US), EU TARIC (EU). */
+var TD_DUTY = {
+  '3901.10':{name:'LLDPE/LDPE resin', KR:4.0, US:6.5, EU:null},
+  '3901.20':{name:'HDPE resin',       KR:4.0, US:6.5, EU:null},
+  '3902.10':{name:'PP homopolymer',   KR:3.0, US:6.5, EU:null},
+  '3907.99':{name:'PBAT resin',       KR:3.2, US:null, EU:null},
+  '1005.90':{name:'Corn',             KR:328, US:null, EU:null},
+  '1006.30':{name:'Rice (milled)',    KR:513, US:null, EU:null},
+  '8112.92':{name:'Hafnium (unwrought)', KR:0, US:null, EU:null}
 };
-/* origin -> FTA applicability (Korea as importer). y=1 -> concessional (fcn) applies */
-var TD_FTA = { CN:{y:1,nm:'Korea–China FTA'}, VN:{y:1,nm:'RCEP'}, US:{y:1,nm:'KORUS'}, DE:{y:1,nm:'Korea–EU FTA'}, JP:{y:0,nm:'RCEP'}, OTHER:{y:0,nm:'MFN'} };
 /* commodity chart_id -> HS code (only where a verified rate exists) */
 var TD_CM2HS = { corn:'1005.90' };
-function tdOrigin(){ var s=document.getElementById('lc-origin'); return s? s.value : 'CN'; }
+/* commodity Korean name -> HS code (covers trade products in the full list) */
+var TD_NAME2HS = { '선형저밀도 폴리에틸렌':'3901.10','저밀도 폴리에틸렌':'3901.10','고밀도 폴리에틸렌':'3901.20','폴리프로필렌':'3902.10','옥수수':'1005.90' };
+function tdDest(){ var s=document.getElementById('lc-origin'); return s? s.value : 'KR'; }
 function tdApplyDuty(){
   var lc=window.__lc; var dEl=document.getElementById('lc-duty'); if(!lc||!dEl) return;
-  var hs = lc.hs || (lc.cid && TD_CM2HS[lc.cid]) || null;
-  if(hs && TD_HS[hs]){ var f=TD_FTA[tdOrigin()]||{y:0}; dEl.value = (f.y ? TD_HS[hs].fcn : TD_HS[hs].t); lc.hs=hs; }
+  var hs = lc.hs || (lc.cid && TD_CM2HS[lc.cid]) || (lc.ko && TD_NAME2HS[lc.ko]) || null;
+  lc.hs = hs;
+  if(hs && TD_DUTY[hs]){ var r = TD_DUTY[hs][tdDest()]; if(r!=null) dEl.value = r; }
 }
 function updateLanded(){
   var lc = window.__lc; if(!lc){ return; }
@@ -1500,19 +1504,22 @@ function updateLanded(){
   if(to) to.textContent = '$'+tot.toLocaleString(undefined,{maximumFractionDigits:2});
   var note=document.getElementById('lc-hsnote');
   if(note){
-    var hs=lc.hs;
-    if(hs && TD_HS[hs]){ var f=TD_FTA[tdOrigin()]||{y:0,nm:'MFN'}; note.textContent='HS '+hs+' · '+TD_HS[hs].nm+' · '+f.nm+' applied · MFN '+TD_HS[hs].t+'% (ROK import basis)'; }
-    else { note.textContent='HS not mapped — enter duty manually. Duty/VAT shown on ROK-import basis.'; }
+    var hs=lc.hs, d=tdDest();
+    if(hs && TD_DUTY[hs]){
+      var r=TD_DUTY[hs][d];
+      var basis=(d==='KR'?'KR–CN FTA (CO req.)':(d==='US'?'US MFN':(d==='EU'?'EU MFN':'manual')));
+      note.textContent='HS '+hs+' · '+TD_DUTY[hs].name+' · '+(r!=null?('duty '+r+'% · '+basis):(d+': not in DB — enter manually'))+' · excl. AD/CVD & US 301; verify before filing.';
+    } else { note.textContent='HS not mapped — enter duty manually. Excl. AD/CVD & surcharges; verify before filing.'; }
   }
 }
 document.addEventListener('click', function(e){
-  var tr = e.target.closest ? e.target.closest('tr[data-cm-id]') : null;
+  var tr = e.target.closest ? e.target.closest('tr[data-cm-id],tr[data-cm-ko]') : null;
   if(!tr) return;
   var tds = tr.querySelectorAll('td'); if(tds.length<5) return;
   var ko = tr.getAttribute('data-cm-ko') || tds[0].textContent.trim();
   var cid = tr.getAttribute('data-cm-id') || '';
   var last = parseFloat((tds[3].textContent||'').replace(/[^0-9.\-]/g,''));
-  var unit = tds.length>=7 ? tds[6].textContent.trim() : 'CNY/t';
+  var unit = tr.getAttribute('data-cm-unit') || (tds.length>=7 ? tds[6].textContent.trim() : 'CNY/t');
   window.__lc = {name:tds[0].textContent.trim(), ko:ko, cid:cid, price:isNaN(last)?null:last, unit:unit, hs:null};
   tdApplyDuty();
   updateLanded();
@@ -1548,4 +1555,17 @@ window.addEventListener('load', function(){
       host.innerHTML=feat.map(function(it){ var cid=FC[it.display_name]||''; var p=it.change_pct;
         return '<div data-spark="'+cid+'" style="background:var(--bg);padding:8px 9px">'
           +'<div style="font-size:11px;color:var(--text);font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">'+nm(it.display_name)+'</div>'
-          +'<div style="display:flex;justify-conte
+          +'<div style="display:flex;justify-content:space-between;align-items:center;margin-top:2px"><span class="mono" style="font-size:11px;color:var(--text-bright)">'+(it.price_today!=null?it.price_today.toLocaleString():'—')+'</span>'
+          +'<span class="mono '+(p>0?'up':(p<0?'down':'flat'))+'" style="font-size:10px">'+(p>0?'+':'')+p.toFixed(2)+'%</span></div>'
+          +'<div class="spark-host" style="margin-top:4px;height:32px"></div></div>'; }).join('');
+      feat.forEach(function(it){ var cid=FC[it.display_name]; if(!cid) return;
+        fetch('data/commodity_charts/'+cid+'.json?t='+Date.now()).then(function(r){return r.json();}).then(function(c){
+          var cell=host.querySelector('[data-spark="'+cid+'"] .spark-host'); if(cell&&c.candles){ cell.innerHTML=spark(c.candles.map(function(x){return x.value;})); }
+        }).catch(function(){}); });
+    }).catch(function(e){ console.warn('spark', e); }); }
+  window.addEventListener('load', function(){ setTimeout(renderInd,900); setTimeout(renderSpark,1100); setInterval(renderInd,15*60*1000); setInterval(renderSpark,15*60*1000); });
+})();
+</script>
+</body>
+</html>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
