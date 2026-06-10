@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-06-10T13:01:17.468170+09:00",
+  "updated_at_kst": "2026-06-10T14:54:11.531226+09:00",
   "source": {
     "watchlist": "data/stocks_latest.json",
     "charts": "data/charts/*.json"
@@ -10,16 +10,16 @@
     "breadth_universe": "a_stock + hk_stock + us_adr"
   },
   "china_market": {
-    "status": "LUNCH",
-    "label": "점심 휴장",
-    "color": "muted"
+    "status": "OPEN",
+    "label": "개장 (오후장)",
+    "color": "up"
   },
   "breadth": {
-    "up": 18,
-    "down": 17,
-    "flat": 0,
+    "up": 19,
+    "down": 15,
+    "flat": 1,
     "total": 35,
-    "label": "18 / 17"
+    "label": "19 / 15"
   },
   "high_low_52w": {
     "checked": 50,
@@ -30,25 +30,25 @@
       {
         "id": "000333",
         "name": "메이디",
-        "close": 84.65,
+        "close": 84.38,
         "yr_high": 84.88,
-        "gap_pct": 0.27
+        "gap_pct": 0.59
       }
     ],
     "new_lows": [
       {
         "id": "1810.HK",
         "name": "샤오미",
-        "close": 25.92,
+        "close": 26.02,
         "yr_low": 25.78,
-        "gap_pct": 0.54
+        "gap_pct": 0.93
       },
       {
         "id": "035720",
         "name": "카카오",
-        "close": 38050.0,
-        "yr_low": 37750.0,
-        "gap_pct": 0.79
+        "close": 37750.0,
+        "yr_low": 37400.0,
+        "gap_pct": 0.94
       }
     ]
   }
