@@ -1,11 +1,11 @@
 {
-  "run_at_kst": "2026-06-11T23:31:17.303140+09:00",
+  "run_at_kst": "2026-06-12T07:01:04.734671+09:00",
   "source": "DART OpenAPI",
   "source_url": "https://opendart.fss.or.kr/",
-  "period": "20260528~20260611",
+  "period": "20260529~20260612",
   "total_companies": 20,
   "success_companies": 20,
-  "total_disclosures": 62,
+  "total_disclosures": 56,
   "disclosures": [
     {
       "stock_code": "051910",

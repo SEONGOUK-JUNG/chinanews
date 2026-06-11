@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-06-11T23:31:15.384913+09:00",
+  "updated_at_kst": "2026-06-12T07:01:03.420630+09:00",
   "source": {
     "watchlist": "data/stocks_latest.json",
     "charts": "data/charts/*.json"
@@ -10,22 +10,22 @@
     "breadth_universe": "a_stock + hk_stock + us_adr"
   },
   "china_market": {
-    "status": "CLOSED",
-    "label": "장 마감",
+    "status": "PRE",
+    "label": "장 시작 전",
     "color": "muted"
   },
   "breadth": {
-    "up": 8,
-    "down": 27,
+    "up": 11,
+    "down": 24,
     "flat": 0,
     "total": 35,
-    "label": "8 / 27"
+    "label": "11 / 24"
   },
   "high_low_52w": {
     "checked": 50,
     "no_chart": 0,
     "new_high_count": 1,
-    "new_low_count": 1,
+    "new_low_count": 0,
     "new_highs": [
       {
         "id": "000333",
@@ -35,14 +35,6 @@
         "gap_pct": 0.64
       }
     ],
-    "new_lows": [
-      {
-        "id": "PDD",
-        "name": "PDD Holdings",
-        "close": 79.53,
-        "yr_low": 78.87,
-        "gap_pct": 0.84
-      }
-    ]
+    "new_lows": []
   }
 }
