@@ -405,7 +405,7 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
     <div class="panel" style="background:var(--bg);padding:10px 12px">
       <div class="panel-head">
         <div class="panel-title">Featured Commodities <span class="badge-live">REAL</span><span class="ts" id="cm-updated" style="margin-left:6px">Loading…</span></div>
-        <span class="panel-actions" id="cm-all-btn" style="cursor:pointer;color:var(--orange);font-weight:600">All 438 →</span>
+        <span style="display:flex;gap:12px;align-items:center"><span class="panel-actions" id="cm-csv-btn" style="cursor:pointer;color:var(--muted);font-weight:600;font-size:11px" title="Download all commodities as CSV">⤓ CSV</span><span class="panel-actions" id="cm-all-btn" style="cursor:pointer;color:var(--orange);font-weight:600">All 438 →</span></span>
       </div>
       <table class="dt">
         <thead>
@@ -1576,6 +1576,61 @@ window.addEventListener('load', function(){
         }).catch(function(){}); });
     }).catch(function(e){ console.warn('spark', e); }); }
   window.addEventListener('load', function(){ setTimeout(renderInd,900); setTimeout(renderSpark,1100); setInterval(renderInd,15*60*1000); setInterval(renderSpark,15*60*1000); });
+})();
+</script>
+<script>
+/* ===== Quick wins: CSV export + sortable tables (decoupled, append-only) ===== */
+(function(){
+  // --- CSV export of all commodities ---
+  function toCsvVal(v){ v=(v==null?'':String(v)); return /[",\n]/.test(v)? '"'+v.replace(/"/g,'""')+'"' : v; }
+  function downloadCsv(){
+    fetch('data/commodities.json?t='+Date.now()).then(function(r){return r.json();}).then(function(d){
+      var nm=(typeof cmName==='function')?cmName:function(x){return x;};
+      var sec=(typeof cmSector==='function')?cmSector:function(x){return x;};
+      var rows=[['Item','Sector','Prev','Last','Chg%','Unit']];
+      var seen={};
+      (d.featured||[]).concat(d.all_items||[]).forEach(function(it){
+        var key=(it.display_name||it.name||'')+'|'+(it.price_today);
+        if(seen[key]) return; seen[key]=1;
+        rows.push([nm(it.display_name||it.name), sec(it.sector||it.category||''), it.price_prev, it.price_today, it.change_pct, it.unit||'CNY/t']);
+      });
+      var csv=rows.map(function(r){return r.map(toCsvVal).join(',');}).join('\n');
+      var blob=new Blob(['﻿'+csv],{type:'text/csv;charset=utf-8'});
+      var a=document.createElement('a'); a.href=URL.createObjectURL(blob);
+      a.download='chinanews_commodities_'+(d.ref_date||'')+'.csv'; document.body.appendChild(a); a.click();
+      setTimeout(function(){URL.revokeObjectURL(a.href); a.remove();},500);
+    }).catch(function(e){ alert('CSV export failed: '+e.message); });
+  }
+  document.addEventListener('click', function(e){ if(e.target && e.target.id==='cm-csv-btn') downloadCsv(); });
+
+  // --- Sortable tables (.dt) ---
+  function cellNum(s){ var n=parseFloat(String(s).replace(/[^0-9.\-]/g,'')); return isNaN(n)?null:n; }
+  function sortTable(table, col, asc){
+    var tb=table.tBodies[0]; if(!tb) return;
+    var rows=Array.prototype.slice.call(tb.querySelectorAll('tr'));
+    rows=rows.filter(function(r){return r.querySelectorAll('td').length>col;});
+    rows.sort(function(a,b){
+      var x=a.querySelectorAll('td')[col].textContent.trim(), y=b.querySelectorAll('td')[col].textContent.trim();
+      var nx=cellNum(x), ny=cellNum(y);
+      var r = (nx!=null&&ny!=null) ? (nx-ny) : x.localeCompare(y);
+      return asc? r : -r;
+    });
+    rows.forEach(function(r){ tb.appendChild(r); });
+  }
+  document.addEventListener('click', function(e){
+    var th=e.target.closest? e.target.closest('table.dt thead th') : null; if(!th) return;
+    var tr=th.parentNode, ths=Array.prototype.slice.call(tr.children), col=ths.indexOf(th);
+    var table=th.closest('table'); if(!table) return;
+    var asc = table.getAttribute('data-sort-col')==String(col) ? table.getAttribute('data-sort-asc')!=='true' : true;
+    table.setAttribute('data-sort-col',col); table.setAttribute('data-sort-asc',asc);
+    ths.forEach(function(h){ h.style.cursor='pointer'; h.textContent=h.textContent.replace(/[ ▲▼]+$/,''); });
+    th.textContent=th.textContent.replace(/[ ▲▼]+$/,'')+(asc?' ▲':' ▼');
+    sortTable(table, col, asc);
+  });
+  // hint: make headers look clickable
+  document.addEventListener('DOMContentLoaded', function(){
+    document.querySelectorAll('table.dt thead th').forEach(function(h){ h.style.cursor='pointer'; h.title='Click to sort'; });
+  });
 })();
 </script>
 </body>
