@@ -1638,6 +1638,27 @@ window.addEventListener('load', function(){
   });
 })();
 </script>
+<script>
+/* Header index ticker — auto-scroll marquee (right→left), live-value safe */
+(function(){
+  function init(){
+    var strip=document.querySelector('.idx-strip');
+    if(!strip || strip.classList.contains('idx-running')) return;
+    var cells=Array.prototype.slice.call(strip.children);
+    if(cells.length<2) return;
+    var st=document.createElement('style');
+    st.textContent='.idx-strip.idx-running{overflow:hidden}.idx-mq{display:flex;flex:0 0 auto;width:max-content;animation:idxscroll 55s linear infinite}.idx-strip.idx-running:hover .idx-mq{animation-play-state:paused}@keyframes idxscroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}@media(prefers-reduced-motion:reduce){.idx-mq{animation:none}}';
+    document.head.appendChild(st);
+    var mq=document.createElement('div'); mq.className='idx-mq';
+    cells.forEach(function(c){ mq.appendChild(c); });
+    cells.forEach(function(c){ var d=c.cloneNode(true); d.removeAttribute('id'); d.querySelectorAll('[id]').forEach(function(e){e.removeAttribute('id');}); mq.appendChild(d); });
+    strip.appendChild(mq); strip.classList.add('idx-running');
+    var n=cells.length;
+    setInterval(function(){ var a=mq.children; for(var i=0;i<n;i++){ if(a[n+i]&&a[i]) a[n+i].innerHTML=a[i].innerHTML.replace(/\sid="[^"]*"/g,''); } }, 3000);
+  }
+  if(document.readyState==='loading') document.addEventListener('DOMContentLoaded', init); else init();
+})();
+</script>
 </body>
 </html>
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
