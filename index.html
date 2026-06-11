@@ -1213,7 +1213,7 @@ function _applyCmPeriod(period){
   console.log('[CmChart] period:', period, '· filtered:', filtered.length, '/', _cmAllValues.length);
 }
 
-async function loadCommodityChart(commodityId, displayName){
+async function loadCommodityChart(commodityId, displayName, noScroll){
   try {
     _initCmChart();
     if(!_cmLineSeries) return;
@@ -1235,7 +1235,7 @@ async function loadCommodityChart(commodityId, displayName){
     _applyCmPeriod(_cmCurrentPeriod);
     // 차트 영역으로 스크롤
     const chartEl = document.getElementById('cm-chart-canvas');
-    if(chartEl) chartEl.scrollIntoView({behavior: 'smooth', block: 'center'});
+    if(chartEl && !noScroll) chartEl.scrollIntoView({behavior: 'smooth', block: 'center'});
     console.log('[CmChart] loaded', commodityId, '· candles:', d.candles.length);
   } catch(e) {
     console.warn('[CmChart] failed:', e.message);
@@ -1265,7 +1265,7 @@ document.addEventListener('click', function(e){
 
 // 첫 로드 시 금 차트로 시작 (다른 데이터 로드 후)
 window.addEventListener('load', function(){
-  setTimeout(function(){ loadCommodityChart('gold', '금'); }, 1500);
+  setTimeout(function(){ loadCommodityChart('gold', '금', true); }, 1500);
 });
   // 5분마다
 
