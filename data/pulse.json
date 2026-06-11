@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-06-11T09:31:16.253779+09:00",
+  "updated_at_kst": "2026-06-11T13:01:16.009008+09:00",
   "source": {
     "watchlist": "data/stocks_latest.json",
     "charts": "data/charts/*.json"
@@ -10,58 +10,52 @@
     "breadth_universe": "a_stock + hk_stock + us_adr"
   },
   "china_market": {
-    "status": "PRE",
-    "label": "장 시작 전",
+    "status": "LUNCH",
+    "label": "점심 휴장",
     "color": "muted"
   },
   "breadth": {
-    "up": 20,
-    "down": 15,
-    "flat": 0,
+    "up": 8,
+    "down": 26,
+    "flat": 1,
     "total": 35,
-    "label": "20 / 15"
+    "label": "8 / 26"
   },
   "high_low_52w": {
     "checked": 50,
     "no_chart": 0,
-    "new_high_count": 0,
-    "new_low_count": 5,
-    "new_highs": [],
+    "new_high_count": 1,
+    "new_low_count": 3,
+    "new_highs": [
+      {
+        "id": "000333",
+        "name": "Midea Group",
+        "close": 85.35,
+        "yr_high": 85.9,
+        "gap_pct": 0.64
+      }
+    ],
     "new_lows": [
       {
-        "id": "000858",
-        "name": "Wuliangye",
-        "close": 79.14,
-        "yr_low": 78.6,
-        "gap_pct": 0.69
+        "id": "601318",
+        "name": "Ping An Insurance",
+        "close": 52.51,
+        "yr_low": 52.1,
+        "gap_pct": 0.79
       },
       {
-        "id": "PDD",
-        "name": "PDD Holdings",
-        "close": 81.82,
-        "yr_low": 81.01,
-        "gap_pct": 1.0
+        "id": "600028",
+        "name": "Sinopec",
+        "close": 4.77,
+        "yr_low": 4.73,
+        "gap_pct": 0.85
       },
       {
-        "id": "LI",
-        "name": "Li Auto",
-        "close": 13.69,
-        "yr_low": 13.67,
-        "gap_pct": 0.15
-      },
-      {
-        "id": "XPEV",
-        "name": "XPeng",
-        "close": 14.86,
-        "yr_low": 14.72,
-        "gap_pct": 0.95
-      },
-      {
-        "id": "035720",
-        "name": "Kakao",
-        "close": 36550.0,
-        "yr_low": 36500.0,
-        "gap_pct": 0.14
+        "id": "1810.HK",
+        "name": "Xiaomi",
+        "close": 25.78,
+        "yr_low": 25.58,
+        "gap_pct": 0.78
       }
     ]
   }
