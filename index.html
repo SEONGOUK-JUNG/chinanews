@@ -4,6 +4,13 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>CHINANEWS Terminal — China Markets & Commodities</title>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#0d1117">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="CHINANEWS">
+<link rel="apple-touch-icon" href="icon.svg">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
 <meta name="description" content="중국 주식·ETF·지수·Commodities·FX & Rates를 하나의 단말기에서. chinanews.kr">
 <link rel="canonical" href="https://chinanews.kr/">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
@@ -404,6 +411,7 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
         </div>
       </div>
       <div id="cm-chart-canvas" style="width:100%;height:360px;background:var(--bg);margin-top:6px"></div>
+      <div id="cm-indicators" style="font-size:11px;color:var(--muted);margin-top:7px;font-family:'JetBrains Mono',monospace;line-height:1.6"></div>
     </div>
 
     <!-- Featured 16 -->
@@ -1226,6 +1234,7 @@ async function loadCommodityChart(commodityId, displayName, noScroll){
     }
     _cmCurrentId = commodityId;
     _cmAllValues = d.candles.map(function(c){ return { time: c.time, value: c.value }; });
+    if(window.renderCmIndicators) window.renderCmIndicators(_cmAllValues, d.unit);
     // 헤더 갱신
     const titleEl = document.getElementById('cm-chart-title');
     const subEl = document.getElementById('cm-chart-subtitle');
@@ -1657,6 +1666,25 @@ window.addEventListener('load', function(){
     setInterval(function(){ var a=mq.children; for(var i=0;i<n;i++){ if(a[n+i]&&a[i]) a[n+i].innerHTML=a[i].innerHTML.replace(/\sid="[^"]*"/g,''); } }, 3000);
   }
   if(document.readyState==='loading') document.addEventListener('DOMContentLoaded', init); else init();
+})();
+</script>
+<script>
+/* Commodity technical indicators (RSI/MACD/MA) — computed from held daily closes */
+(function(){
+  function ema(vals,p){ var k=2/(p+1), out=[], e; for(var i=0;i<vals.length;i++){ e=(i===0)?vals[i]:vals[i]*k+e*(1-k); out.push(e); } return out; }
+  function rsi(c,p){ if(c.length<p+1) return null; var g=0,l=0,i,d; for(i=1;i<=p;i++){ d=c[i]-c[i-1]; if(d>=0)g+=d; else l-=d; } g/=p; l/=p; for(i=p+1;i<c.length;i++){ d=c[i]-c[i-1]; g=(g*(p-1)+(d>0?d:0))/p; l=(l*(p-1)+(d<0?-d:0))/p; } if(l===0) return 100; var rs=g/l; return 100-100/(1+rs); }
+  function macd(c){ if(c.length<26) return null; var e12=ema(c,12), e26=ema(c,26), line=[]; for(var i=0;i<c.length;i++) line.push(e12[i]-e26[i]); var sig=ema(line.slice(25),9); var m=line[line.length-1], s=sig[sig.length-1]; return {macd:m, signal:s, hist:m-s}; }
+  function sma(c,p){ if(c.length<p) return null; var s=0; for(var i=c.length-p;i<c.length;i++) s+=c[i]; return s/p; }
+  window.renderCmIndicators=function(vals){
+    var el=document.getElementById('cm-indicators'); if(!el) return;
+    var c=(vals||[]).map(function(p){return p.value;}).filter(function(v){return v!=null && !isNaN(v);});
+    if(c.length<15){ el.textContent='Indicators need ≥15 days of data.'; return; }
+    var r=rsi(c,14), mk=macd(c), ma5=sma(c,5), ma20=sma(c,20), parts=[];
+    if(r!=null){ var z=r>=70?'overbought':(r<=30?'oversold':'neutral'), col=r>=70?'#ff5555':(r<=30?'#00e5a0':'var(--muted)'); parts.push('RSI(14) <b style="color:'+col+'">'+r.toFixed(1)+'</b> ('+z+')'); }
+    if(mk){ parts.push('MACD <b style="color:'+(mk.hist>=0?'#ff5555':'#00e5a0')+'">'+mk.macd.toFixed(2)+'</b> · sig '+mk.signal.toFixed(2)+' · '+(mk.hist>=0?'bullish':'bearish')); }
+    if(ma5!=null&&ma20!=null){ parts.push('MA5 '+ma5.toFixed(2)+' · MA20 '+ma20.toFixed(2)+' ('+(ma5>=ma20?'above':'below')+')'); }
+    el.innerHTML=parts.join('  &nbsp;|&nbsp;  ')+' <span style="color:var(--text3)">· from daily closes</span>';
+  };
 })();
 </script>
 </body>
