@@ -486,11 +486,11 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
     <div class="sub-charts">
       <div class="sub-chart">
         <h4>RSI(14) / Stochastic</h4>
-        <div class="indicator-bar">API required · no data</div>
+        <div class="indicator-bar" id="stk-rsi-bar">—</div>
       </div>
       <div class="sub-chart">
         <h4>MACD / Volume</h4>
-        <div class="indicator-bar">API required · no data</div>
+        <div class="indicator-bar" id="stk-macd-bar">—</div>
       </div>
     </div>
 
@@ -1316,6 +1316,7 @@ async function loadChart(symbolId){
     const data = await r.json();
     if(!data.candles || data.candles.length === 0) throw new Error('no candles');
     _fullCandles = data.candles;
+    if(window.renderStockIndicators) window.renderStockIndicators(data.candles);
     applyChartPeriod(_currentPeriod);
     updateChartHeader(data);
     const ph = document.getElementById('chart-placeholder');
@@ -1684,6 +1685,16 @@ window.addEventListener('load', function(){
     if(mk){ parts.push('MACD <b style="color:'+(mk.hist>=0?'#ff5555':'#00e5a0')+'">'+mk.macd.toFixed(2)+'</b> · sig '+mk.signal.toFixed(2)+' · '+(mk.hist>=0?'bullish':'bearish')); }
     if(ma5!=null&&ma20!=null){ parts.push('MA5 '+ma5.toFixed(2)+' · MA20 '+ma20.toFixed(2)+' ('+(ma5>=ma20?'above':'below')+')'); }
     el.innerHTML=parts.join('  &nbsp;|&nbsp;  ')+' <span style="color:var(--text3)">· from daily closes</span>';
+  };
+  window.renderStockIndicators=function(cd){
+    var rb=document.getElementById('stk-rsi-bar'), mb=document.getElementById('stk-macd-bar');
+    if(!cd||!cd.length) return;
+    var closes=cd.map(function(x){return x.close;}).filter(function(v){return v!=null&&!isNaN(v);});
+    var r=rsi(closes,14), mk=macd(closes), k=null, dd=null;
+    if(cd.length>=14){ var ks=[]; for(var j=13;j<cd.length;j++){ var hi=-Infinity,lo=Infinity; for(var t=j-13;t<=j;t++){ if(cd[t].high>hi)hi=cd[t].high; if(cd[t].low<lo)lo=cd[t].low; } ks.push(hi===lo?50:(cd[j].close-lo)/(hi-lo)*100); } k=ks[ks.length-1]; if(ks.length>=3) dd=(ks[ks.length-1]+ks[ks.length-2]+ks[ks.length-3])/3; }
+    var vol=cd[cd.length-1].volume;
+    if(rb){ var p=[]; if(r!=null){ var z=r>=70?'overbought':(r<=30?'oversold':'neutral'), col=r>=70?'#ff5555':(r<=30?'#00e5a0':'inherit'); p.push('RSI(14) <b style="color:'+col+'">'+r.toFixed(1)+'</b> ('+z+')'); } if(k!=null) p.push('Stoch %K '+k.toFixed(1)+(dd!=null?(' · %D '+dd.toFixed(1)):'')); rb.innerHTML=p.length?p.join(' &nbsp;|&nbsp; '):'—'; }
+    if(mb){ var q=[]; if(mk) q.push('MACD <b style="color:'+(mk.hist>=0?'#ff5555':'#00e5a0')+'">'+mk.macd.toFixed(2)+'</b> · sig '+mk.signal.toFixed(2)+' · '+(mk.hist>=0?'bullish':'bearish')); if(vol!=null) q.push('Vol '+Number(vol).toLocaleString('en-US')); mb.innerHTML=q.length?q.join(' &nbsp;|&nbsp; '):'—'; }
   };
 })();
 </script>
