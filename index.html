@@ -190,6 +190,16 @@
     .main{grid-template-columns:1fr}
     .tb-tab{padding:0 8px;font-size:11px}
   }
+  /* Mobile: stack Commodity Pulse over Heatmap, full width; fit charts */
+  @media(max-width:760px){
+    #sec-commodities{grid-template-columns:1fr !important}
+    #ind-heatmap{grid-template-columns:repeat(auto-fill,minmax(46%,1fr)) !important}
+    #cm-chart-canvas{height:240px !important}
+    .chart-wrap{min-height:220px}
+    .sub-charts{grid-template-columns:1fr}
+    #cm-sparkgrid{grid-template-columns:repeat(2,1fr) !important}
+    .heatmap{grid-template-columns:repeat(3,1fr)}
+  }
 
   ::-webkit-scrollbar{width:8px;height:8px}
   ::-webkit-scrollbar-track{background:var(--bg)}
