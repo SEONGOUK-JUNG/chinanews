@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-06-10T13:55:18.525904+09:00",
+  "run_at_kst": "2026-06-11T07:20:37.111433+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
-      "title": "Oil Prices Jump After U.S. Strikes Iran Over Downed Apache",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Jump-After-US-Strikes-Iran-Over-Downed-Apache.html",
+      "title": "Traders Are Shorting Oil As If The Hormuz Crisis Is Over",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Traders-Are-Shorting-Oil-As-If-The-Hormuz-Crisis-Is-Over.html",
       "source": "OilPrice",
-      "date": "Tue, 09 Jun 2026 22:17:22 -0500"
+      "date": "Wed, 10 Jun 2026 17:00:00 -0500"
     },
     {
-      "title": "America Just Added a Massive New Rare Earth Supply Source",
-      "link": "https://oilprice.com/Energy/Energy-General/America-Just-Added-a-Massive-New-Rare-Earth-Supply-Source.html",
+      "title": "The World’s Biggest Battery Maker Is Turning Away From EVs",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Worlds-Biggest-Battery-Maker-Is-Turning-Away-From-EVs.html",
       "source": "OilPrice",
-      "date": "Tue, 09 Jun 2026 19:00:00 -0500"
+      "date": "Wed, 10 Jun 2026 16:00:00 -0500"
     },
     {
-      "title": "Disconnected Oil Futures Market Could See Price Spike within Weeks",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Disconnected-Oil-Futures-Market-Could-See-Price-Spike-within-Weeks.html",
+      "title": "Oil Prices Are Up. Investment Isn’t Following",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Are-Up-Investment-Isnt-Following.html",
       "source": "OilPrice",
-      "date": "Tue, 09 Jun 2026 18:00:00 -0500"
+      "date": "Wed, 10 Jun 2026 15:00:00 -0500"
     },
     {
-      "title": "US passes DOMINANCE Act for critical minerals security",
-      "link": "https://www.mining.com/the-us-passes-dominance-act-for-critical-minerals-security/",
+      "title": "Germany’s Big LNG Deal With Canada May Never Deliver a Single Cargo",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Germanys-Big-LNG-Deal-With-Canada-May-Never-Deliver-a-Single-Cargo.html",
+      "source": "OilPrice",
+      "date": "Wed, 10 Jun 2026 14:00:00 -0500"
+    },
+    {
+      "title": "Central Asia Emerges as a New Front in the Minerals Supply Chain Battle",
+      "link": "https://oilprice.com/Metals/Commodities/Central-Asia-Emerges-as-a-New-Front-in-the-Minerals-Supply-Chain-Battle.html",
+      "source": "OilPrice",
+      "date": "Wed, 10 Jun 2026 13:00:00 -0500"
+    },
+    {
+      "title": "Energy Prices Drive U.S. Inflation To Three-Year High",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Energy-Prices-Drive-US-Inflation-To-Three-Year-High.html",
+      "source": "OilPrice",
+      "date": "Wed, 10 Jun 2026 12:30:00 -0500"
+    },
+    {
+      "title": "Mining M&A value surges in Q1, but deal count plunges: S&P",
+      "link": "https://www.mining.com/mining-ma-value-surges-in-q1-but-deal-count-plunges-sp/",
       "source": "mining.com",
-      "date": "Tue, 09 Jun 2026 22:44:26 +0000"
+      "date": "Wed, 10 Jun 2026 17:10:21 +0000"
     },
     {
-      "title": "DRC's Export Controls Are Reshaping the Battery Metals Market",
-      "link": "https://oilprice.com/Energy/Energy-General/DRCs-Export-Controls-Are-Reshaping-the-Battery-Metals-Market.html",
+      "title": "China Unveils Nuclear-Powered Floating Hub for Zero-Emission Shipping",
+      "link": "https://oilprice.com/Energy/Energy-General/China-Unveils-Nuclear-Powered-Floating-Hub-for-Zero-Emission-Shipping.html",
       "source": "OilPrice",
-      "date": "Tue, 09 Jun 2026 17:00:00 -0500"
+      "date": "Wed, 10 Jun 2026 12:00:00 -0500"
     },
     {
-      "title": "Nuclear and Natural Gas Are Teaming Up to Power the AI Data Center Boom",
-      "link": "https://oilprice.com/Energy/Energy-General/Nuclear-and-Natural-Gas-Are-Teaming-Up-to-Power-the-AI-Data-Center-Boom.html",
-      "source": "OilPrice",
-      "date": "Tue, 09 Jun 2026 16:00:00 -0500"
-    },
-    {
-      "title": "US Crude Oil, Gasoline Inventories Keep Sinking, but Prices Don’t Care",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Gasoline-Inventories-Keep-Sinking-but-Prices-Dont-Care.html",
-      "source": "OilPrice",
-      "date": "Tue, 09 Jun 2026 15:50:50 -0500"
-    },
-    {
-      "title": "Larvotto Resources inks gold offtake deal with Glencore",
-      "link": "https://www.mining.com/larvotto-resources-inks-gold-offtake-deal-with-glencore/",
+      "title": "Illegal mining gangs implicated in South Africa massacre that killed 12",
+      "link": "https://www.mining.com/illegal-mining-gangs-eyed-in-south-africa-massacre-that-killed-12/",
       "source": "mining.com",
-      "date": "Tue, 09 Jun 2026 20:44:32 +0000"
+      "date": "Wed, 10 Jun 2026 16:20:00 +0000"
     },
     {
-      "title": "The Clock Is Ticking Down To Iraq’s Economic Disaster On 27 July",
-      "link": "https://oilprice.com/Energy/Crude-Oil/The-Clock-Is-Ticking-Down-To-Iraqs-Economic-Disaster-On-27-July.html",
-      "source": "OilPrice",
-      "date": "Tue, 09 Jun 2026 15:00:00 -0500"
-    },
-    {
-      "title": "BLM Opens Review of 126,744 Acres for Colorado Oil and Gas Lease Sale",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/BLM-Opens-Review-of-126744-Acres-for-Colorado-Oil-and-Gas-Lease-Sale.html",
-      "source": "OilPrice",
-      "date": "Tue, 09 Jun 2026 14:30:00 -0500"
-    },
-    {
-      "title": "Debt cycle points to stronger case for gold price: Sprott",
-      "link": "https://www.mining.com/debt-cycle-points-to-stronger-case-for-gold-price-sprott/",
+      "title": "Central Asia Metals’ copper-zinc production outpaces last year",
+      "link": "https://www.mining.com/central-asia-metals-copper-zinc-production-outpaces-last-year/",
       "source": "mining.com",
-      "date": "Tue, 09 Jun 2026 17:17:35 +0000"
+      "date": "Wed, 10 Jun 2026 16:13:11 +0000"
     },
     {
-      "title": "China reaffirms Japan rare earth ban despite US request",
-      "link": "https://www.mining.com/china-reaffirms-japan-rare-earth-ban-despite-us-request/",
+      "title": "Chile copper mines pursue tie-up to cut costs",
+      "link": "https://www.mining.com/chile-copper-mines-pursue-tie-up-to-cut-costs/",
       "source": "mining.com",
-      "date": "Tue, 09 Jun 2026 16:09:51 +0000"
+      "date": "Wed, 10 Jun 2026 15:33:00 +0000"
     },
     {
-      "title": "Sigma Lithium wins appeal in Brazil, removing $10M legal order",
-      "link": "https://www.mining.com/sigma-lithium-wins-appeal-in-brazil-removing-10m-legal-order/",
+      "title": "British Columbia court reopens Seabridge Gold’s approval fight",
+      "link": "https://www.mining.com/british-columbia-court-reopens-seabridge-golds-approval-fight/",
       "source": "mining.com",
-      "date": "Tue, 09 Jun 2026 14:56:59 +0000"
+      "date": "Wed, 10 Jun 2026 15:13:01 +0000"
     },
     {
-      "title": "Op-Ed: Lithium’s threat isn’t demand, but pricing",
-      "link": "https://www.mining.com/op-ed-lithiums-threat-isnt-demand-but-pricing/",
+      "title": "Metals retreat amid Iran conflict and lingering rate-hike concerns",
+      "link": "https://www.mining.com/metals-retreat-amid-iran-conflict-and-lingering-rate-hike-concerns/",
       "source": "mining.com",
-      "date": "Tue, 09 Jun 2026 13:58:04 +0000"
+      "date": "Wed, 10 Jun 2026 15:10:44 +0000"
+    },
+    {
+      "title": "Ero Copper sees resource growth potential in Brazil",
+      "link": "https://www.mining.com/ero-copper-sees-resource-growth-potential-in-brazil/",
+      "source": "mining.com",
+      "date": "Wed, 10 Jun 2026 14:18:34 +0000"
     }
   ]
 }
