@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-06-11T15:46:35.110046+09:00",
+  "updated_at_kst": "2026-06-11T23:31:15.384913+09:00",
   "source": {
     "watchlist": "data/stocks_latest.json",
     "charts": "data/charts/*.json"
@@ -10,45 +10,38 @@
     "breadth_universe": "a_stock + hk_stock + us_adr"
   },
   "china_market": {
-    "status": "OPEN",
-    "label": "개장 (오후장)",
-    "color": "up"
+    "status": "CLOSED",
+    "label": "장 마감",
+    "color": "muted"
   },
   "breadth": {
-    "up": 9,
-    "down": 26,
+    "up": 8,
+    "down": 27,
     "flat": 0,
     "total": 35,
-    "label": "9 / 26"
+    "label": "8 / 27"
   },
   "high_low_52w": {
     "checked": 50,
     "no_chart": 0,
     "new_high_count": 1,
-    "new_low_count": 2,
+    "new_low_count": 1,
     "new_highs": [
       {
         "id": "000333",
         "name": "Midea Group",
-        "close": 85.14,
+        "close": 85.35,
         "yr_high": 85.9,
-        "gap_pct": 0.88
+        "gap_pct": 0.64
       }
     ],
     "new_lows": [
       {
-        "id": "601318",
-        "name": "Ping An Insurance",
-        "close": 52.55,
-        "yr_low": 52.1,
-        "gap_pct": 0.86
-      },
-      {
-        "id": "1810.HK",
-        "name": "Xiaomi",
-        "close": 25.68,
-        "yr_low": 25.58,
-        "gap_pct": 0.39
+        "id": "PDD",
+        "name": "PDD Holdings",
+        "close": 79.53,
+        "yr_low": 78.87,
+        "gap_pct": 0.84
       }
     ]
   }
