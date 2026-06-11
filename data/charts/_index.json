@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-06-11T09:31:15.917010+09:00",
+  "updated_at_kst": "2026-06-11T13:01:15.681951+09:00",
   "items": [
     {
       "id": "600519",
@@ -356,35 +356,35 @@
       "ticker": "000300.SS",
       "name": "CSI 300",
       "file": "csi300.json",
-      "count": 1211
+      "count": 1210
     },
     {
       "id": "sse",
       "ticker": "000001.SS",
       "name": "SSE COMP",
       "file": "sse.json",
-      "count": 1211
+      "count": 1210
     },
     {
       "id": "szse",
       "ticker": "399001.SZ",
       "name": "SZSE COMP",
       "file": "szse.json",
-      "count": 1211
+      "count": 1210
     },
     {
       "id": "hsi",
       "ticker": "^HSI",
       "name": "HSI 항셍",
       "file": "hsi.json",
-      "count": 1227
+      "count": 1226
     },
     {
       "id": "hscei",
       "ticker": "^HSCE",
       "name": "HSCEI",
       "file": "hscei.json",
-      "count": 1227
+      "count": 1226
     },
     {
       "id": "kospi",
