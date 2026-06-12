@@ -576,6 +576,14 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
       <div style="font-size:10px;color:var(--muted);margin-top:7px;font-style:italic">Headlines link to source. Sources: mining.com · OilPrice.com</div>
     </div>
 
+    <div class="panel" id="sec-china-news">
+      <div class="panel-head"><div class="panel-title">중국 경제 뉴스 <span class="badge-live">한국어</span></div></div>
+      <div id="china-news-list" style="font-size:12px;line-height:1.5">
+        <div style="color:var(--muted);font-style:italic;text-align:center;padding:18px 0">뉴스 로딩 중…</div>
+      </div>
+      <div style="font-size:10px;color:var(--muted);margin-top:7px;font-style:italic">헤드라인은 원문(출처)으로 연결됩니다 · 출처: Google News</div>
+    </div>
+
     <div class="panel ai-panel" id="sec-ai">
       <div class="panel-head"><div class="panel-title">AI Trade Assistant <span class="badge-live">GROQ</span></div></div>
       <div class="ai-message">
@@ -689,6 +697,22 @@ function loadNews(){
 }
 loadNews();
 setInterval(loadNews, 15*60*1000);
+function loadChinaNews(){
+  var host=document.getElementById('china-news-list'); if(!host) return;
+  fetch('data/china_news_latest.json?t='+Date.now()).then(function(r){return r.json();}).then(function(d){
+    var items=(d.items||[]).slice(0,12);
+    if(!items.length){ host.innerHTML='<div style="color:var(--muted);font-style:italic;text-align:center;padding:14px 0">뉴스 없음</div>'; return; }
+    function rel(s){ var t=new Date(s).getTime(); if(isNaN(t)) return ''; var m=Math.floor((Date.now()-t)/60000); if(m<60) return m+'m'; var h=Math.floor(m/60); if(h<24) return h+'h'; return Math.floor(h/24)+'d'; }
+    host.innerHTML=items.map(function(it){
+      var r=rel(it.date);
+      return '<a href="'+it.link+'" target="_blank" rel="noopener" style="display:block;padding:6px 0;border-bottom:1px solid var(--line-grid);text-decoration:none">'
+        +'<div style="font-size:12px;color:var(--text);line-height:1.35">'+(it.title||'')+'</div>'
+        +'<div style="font-size:10px;color:var(--muted);margin-top:2px">'+(it.source||'')+(r?' · '+r+' 전':'')+'</div></a>';
+    }).join('');
+  }).catch(function(e){ console.warn('china-news', e); host.innerHTML='<div style="color:var(--muted);font-style:italic;text-align:center;padding:14px 0">뉴스 로드 실패</div>'; });
+}
+loadChinaNews();
+setInterval(loadChinaNews, 15*60*1000);
 // ===== 상단 인덱스 띠: GOLD(현물 USD) + BTC 라이브 (키리스 공개 API) =====
 function loadMarkets(){
   // BTC — CoinGecko (키 불필요, CORS 허용)
@@ -1755,24 +1779,4 @@ window.addEventListener('load', function(){
     var mq=document.createElement('div'); mq.className='idx-mq';
     cells.forEach(function(c){ mq.appendChild(c); });
     cells.forEach(function(c){ var d=c.cloneNode(true); d.removeAttribute('id'); d.querySelectorAll('[id]').forEach(function(e){e.removeAttribute('id');}); mq.appendChild(d); });
-    strip.appendChild(mq); strip.classList.add('idx-running');
-    var n=cells.length;
-    setInterval(function(){ var a=mq.children; for(var i=0;i<n;i++){ if(a[n+i]&&a[i]) a[n+i].innerHTML=a[i].innerHTML.replace(/\sid="[^"]*"/g,''); } }, 3000);
-  }
-  if(document.readyState==='loading') document.addEventListener('DOMContentLoaded', init); else init();
-})();
-</script>
-<script>
-/* Commodity technical indicators (RSI/MACD/MA) — computed from held daily closes */
-(function(){
-  function ema(vals,p){ var k=2/(p+1), out=[], e; for(var i=0;i<vals.length;i++){ e=(i===0)?vals[i]:vals[i]*k+e*(1-k); out.push(e); } return out; }
-  function rsi(c,p){ if(c.length<p+1) return null; var g=0,l=0,i,d; for(i=1;i<=p;i++){ d=c[i]-c[i-1]; if(d>=0)g+=d; else l-=d; } g/=p; l/=p; for(i=p+1;i<c.length;i++){ d=c[i]-c[i-1]; g=(g*(p-1)+(d>0?d:0))/p; l=(l*(p-1)+(d<0?-d:0))/p; } if(l===0) return 100; var rs=g/l; return 100-100/(1+rs); }
-  function macd(c){ if(c.length<26) return null; var e12=ema(c,12), e26=ema(c,26), line=[]; for(var i=0;i<c.length;i++) line.push(e12[i]-e26[i]); var sig=ema(line.slice(25),9); var m=line[line.length-1], s=sig[sig.length-1]; return {macd:m, signal:s, hist:m-s}; }
-  function sma(c,p){ if(c.length<p) return null; var s=0; for(var i=c.length-p;i<c.length;i++) s+=c[i]; return s/p; }
-  window.renderCmIndicators=function(vals){
-    var el=document.getElementById('cm-indicators'); if(!el) return;
-    var c=(vals||[]).map(function(p){return p.value;}).filter(function(v){return v!=null && !isNaN(v);});
-    if(c.length<15){ el.textContent='Indicators need ≥15 days of data.'; return; }
-    var r=rsi(c,14), mk=macd(c), ma5=sma(c,5), ma20=sma(c,20), parts=[];
-    if(r!=null){ var z=r>=70?'overbought':(r<=30?'oversold':'neutral'), col=r>=70?'#ff5555':(r<=30?'#00e5a0':'var(--muted)'); parts.push('RSI(14) <b style="color:'+col+'">'+r.toFixed(1)+'</b> ('+z+')'); }
-    if(mk){ parts.pus
+    strip
