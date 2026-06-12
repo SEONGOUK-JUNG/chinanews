@@ -324,6 +324,21 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
 
     <div class="panel">
       <div class="panel-head">
+        <div class="panel-title">Featured Commodities <span class="badge-live">USD</span><span class="ts" id="cm-usd-updated" style="margin-left:6px"></span></div>
+      </div>
+      <table class="dt">
+        <thead>
+          <tr><th>Item</th><th style="text-align:right">USD</th><th style="text-align:right">Chg%</th></tr>
+        </thead>
+        <tbody id="cm-featured-usd-body">
+          <tr><td colspan="3" style="color:var(--muted);font-style:italic;text-align:center;padding:14px 0">Loading…</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+
+    <div class="panel">
+      <div class="panel-head">
         <div class="panel-title">Watchlist <span class="badge-live">LIVE</span></div>
         <span class="panel-actions" id="wl-add-btn" style="cursor:pointer;font-size:16px;color:var(--orange);font-weight:700">+</span>
       </div>
@@ -1107,6 +1122,17 @@ async function loadCommodities(){
     if(fb && Array.isArray(d.featured)){
       fb.innerHTML = d.featured.map(function(it){ return rowCommodity(it, true); }).join('');
     }
+    // 사이드바 컴팩트 패널 (품목 / 당일금액 USD / chg%)
+    const fbUsd = document.getElementById('cm-featured-usd-body');
+    if(fbUsd && Array.isArray(d.featured)){
+      fbUsd.innerHTML = d.featured.map(function(it){
+        const cid = it.chart_id || _DISPLAY_TO_CHART_ID[it.display_name] || '';
+        const clickable = cid ? ' style="cursor:pointer" data-cm-id="' + cid + '" title="Click to load chart"' : '';
+        return '<tr' + clickable + ' data-cm-ko="' + (it.display_name||'') + '" data-cm-unit="' + (it.unit||'CNY/t') + '"><td>' + cmName(it.display_name) + '</td><td style="text-align:right">' + usdEst(it.price_today,it.unit,it.display_name) + '</td><td style="text-align:right">' + fmtPct(it.change_pct) + '</td></tr>';
+      }).join('');
+    }
+    const usdUpd = document.getElementById('cm-usd-updated');
+    if(usdUpd) usdUpd.textContent = d.ref_date ? (window.CN_LANG==='ko'?'기준 ':'Ref ') + d.ref_date : '';
     const upd = document.getElementById('cm-updated');
     if(upd) upd.textContent = d.ref_date ? (window.CN_LANG==='ko'?'기준 ':'Ref ') + d.ref_date : '';
     // 표 헤더에 일자 표시 (전일/당일 옆)
@@ -1693,11 +1719,4 @@ window.addEventListener('load', function(){
     var r=rsi(closes,14), mk=macd(closes), k=null, dd=null;
     if(cd.length>=14){ var ks=[]; for(var j=13;j<cd.length;j++){ var hi=-Infinity,lo=Infinity; for(var t=j-13;t<=j;t++){ if(cd[t].high>hi)hi=cd[t].high; if(cd[t].low<lo)lo=cd[t].low; } ks.push(hi===lo?50:(cd[j].close-lo)/(hi-lo)*100); } k=ks[ks.length-1]; if(ks.length>=3) dd=(ks[ks.length-1]+ks[ks.length-2]+ks[ks.length-3])/3; }
     var vol=cd[cd.length-1].volume;
-    if(rb){ var p=[]; if(r!=null){ var z=r>=70?'overbought':(r<=30?'oversold':'neutral'), col=r>=70?'#ff5555':(r<=30?'#00e5a0':'inherit'); p.push('RSI(14) <b style="color:'+col+'">'+r.toFixed(1)+'</b> ('+z+')'); } if(k!=null) p.push('Stoch %K '+k.toFixed(1)+(dd!=null?(' · %D '+dd.toFixed(1)):'')); rb.innerHTML=p.length?p.join(' &nbsp;|&nbsp; '):'—'; }
-    if(mb){ var q=[]; if(mk) q.push('MACD <b style="color:'+(mk.hist>=0?'#ff5555':'#00e5a0')+'">'+mk.macd.toFixed(2)+'</b> · sig '+mk.signal.toFixed(2)+' · '+(mk.hist>=0?'bullish':'bearish')); if(vol!=null) q.push('Vol '+Number(vol).toLocaleString('en-US')); mb.innerHTML=q.length?q.join(' &nbsp;|&nbsp; '):'—'; }
-  };
-})();
-</script>
-</body>
-</html>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+    if(rb){ var p=[]; if(r!=null){ var z=r>=70?'overbought':(r<=30?'oversold':'neutral'), col=r>=70?'#ff5555':(r<=30?'#00e5a0':'inherit'); p.push('RSI(14) <b style="color:'+col+'">'+r
