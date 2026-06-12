@@ -10,12 +10,11 @@
     {"label": "차이신 서비스 PMI", "value": 54.4, "previous": 52.6, "display": "54.4", "ref": "2026-05", "hint": "민간 서비스업"},
     {"label": "GDP 성장률 (YoY)", "value": 5.0, "previous": 4.5, "display": "5.0%", "ref": "2026 Q1", "hint": "전년동기比"},
     {"label": "소비자물가 CPI (YoY)", "value": 1.2, "previous": 1.2, "display": "1.2%", "ref": "2026-05", "hint": "인플레이션"},
+    {"label": "생산자물가 PPI (YoY)", "value": 3.9, "previous": 2.8, "display": "+3.9%", "ref": "2026-05", "hint": "3년래 최고"},
     {"label": "도시 실업률", "value": 5.2, "previous": 5.4, "display": "5.2%", "ref": "2026-04", "hint": "조사실업률"},
     {"label": "기준금리 LPR (1년)", "value": 3.0, "previous": 3.0, "display": "3.00%", "ref": "2026-05", "hint": "대출우대금리"},
     {"label": "지급준비율 RRR", "value": 7.5, "previous": 7.5, "display": "7.50%", "ref": "2026-05", "hint": "지준율"},
     {"label": "무역수지", "value": 105.0, "previous": 84.8, "display": "+$105.0B", "ref": "2026-05", "hint": "월간 흑자"},
     {"label": "소매판매 (MoM)", "value": -0.48, "previous": -0.06, "display": "-0.48%", "ref": "2026-04", "hint": "전월比"},
     {"label": "USD/CNY", "value": 6.76, "previous": 6.76, "display": "6.76", "ref": "2026-06", "hint": "위안 환율"},
-    {"label": "상하이종합지수", "value": 4036, "previous": 3987, "display": "4,036", "ref": "2026-06", "hint": "SSE Composite"}
-  ]
-}
+  
