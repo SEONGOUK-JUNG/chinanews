@@ -311,10 +311,8 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
   <div class="idx-cell"><div class="idx-name">USD/KRW</div><div id="fx-usd-krw-val" class="idx-val no-data">—</div><div id="fx-usd-krw-chg" class="idx-chg"><span class="api-needed">Loading</span></div></div>
   <div class="idx-cell"><div class="idx-name">WTI</div><div class="idx-val mono">89.67</div><div class="idx-chg up mono">▲ +2.57%</div></div>
   <div class="idx-cell"><div class="idx-name">BRENT</div><div class="idx-val mono">98.48</div><div class="idx-chg up mono">▲ +3.14%</div></div>
-  <div class="idx-cell"><div class="idx-name">GOLD</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API</span></div></div>
-  <div class="idx-cell"><div class="idx-name">10Y CN</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API</span></div></div>
-  <div class="idx-cell"><div class="idx-name">10Y KR</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API</span></div></div>
-  <div class="idx-cell"><div class="idx-name">BTC</div><div class="idx-val no-data">—</div><div class="idx-chg"><span class="api-needed">API</span></div></div>
+  <div class="idx-cell"><div class="idx-name">GOLD</div><div id="idx-gold-val" class="idx-val no-data">—</div><div id="idx-gold-chg" class="idx-chg"><span class="api-needed">Loading</span></div></div>
+  <div class="idx-cell"><div class="idx-name">BTC</div><div id="idx-btc-val" class="idx-val no-data">—</div><div id="idx-btc-chg" class="idx-chg"><span class="api-needed">Loading</span></div></div>
 </div>
 
 <div class="main">
@@ -661,6 +659,31 @@ function loadNews(){
 }
 loadNews();
 setInterval(loadNews, 15*60*1000);
+// ===== 상단 인덱스 띠: GOLD(현물 USD) + BTC 라이브 (키리스 공개 API) =====
+function loadMarkets(){
+  // BTC — CoinGecko (키 불필요, CORS 허용)
+  fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd&include_24hr_change=true')
+    .then(function(r){return r.json();})
+    .then(function(j){
+      var b=j&&j.bitcoin; if(!b)return;
+      var v=document.getElementById('idx-btc-val'), c=document.getElementById('idx-btc-chg');
+      if(v&&b.usd!=null){ v.textContent='$'+Number(b.usd).toLocaleString(undefined,{maximumFractionDigits:0}); v.classList.remove('no-data'); }
+      if(c&&b.usd_24h_change!=null){ var p=Number(b.usd_24h_change); c.className='idx-chg mono '+(p>=0?'up':'down'); c.textContent=(p>=0?'▲ +':'▼ ')+p.toFixed(2)+'%'; }
+    }).catch(function(e){ console.warn('[BTC]', e); });
+  // GOLD 현물(USD/oz) — gold-api.com (키 불필요)
+  fetch('https://api.gold-api.com/price/XAU')
+    .then(function(r){return r.json();})
+    .then(function(j){
+      var price=(j&&j.price!=null)?j.price:((j&&j.ask!=null)?j.ask:null); if(price==null)return;
+      var v=document.getElementById('idx-gold-val'), c=document.getElementById('idx-gold-chg');
+      if(v){ v.textContent='$'+Number(price).toLocaleString(undefined,{maximumFractionDigits:2}); v.classList.remove('no-data'); }
+      if(c){ var ch=(j.chp!=null)?j.chp:((j.change_percent!=null)?j.change_percent:null);
+        if(ch!=null){ ch=Number(ch); c.className='idx-chg mono '+(ch>=0?'up':'down'); c.textContent=(ch>=0?'▲ +':'▼ ')+ch.toFixed(2)+'%'; }
+        else{ c.className='idx-chg mono'; c.textContent='spot'; } }
+    }).catch(function(e){ console.warn('[GOLD]', e); });
+}
+loadMarkets();
+setInterval(loadMarkets, 5*60*1000);
 document.querySelectorAll('.ctab').forEach(t=>{
   t.addEventListener('click', ()=>{
     document.querySelectorAll('.ctab').forEach(x=>x.classList.remove('active'));
