@@ -1,33 +1,57 @@
 {
-  "run_at_kst": "2026-06-12T15:56:19+09:00",
+  "run_at_kst": "2026-06-13T07:13:11+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
-  "count": 10,
+  "count": 12,
   "items": [
     {
-      "title": "중국 증시 반등 기미, 하반기 유망 분야는 \"AI하드웨어·원자재\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VRUg3VHRnQ0tmRS1ad3J6UERFaHotNDBtTzFKUTBXMmU5Sk16emZSTUVtanpUQ2ZmUnNSUHFDa2FiNzBxVEdhR3VVLWFOY1BKVzNsb1hfN2lTdzdpOTlicg?oc=5",
-      "source": "네이트",
-      "date": "Fri, 12 Jun 2026 06:44:00 GMT"
+      "title": "미중 틈새에서 '전략적 자율성' 외치는 ASEAN: 경제는 중국, 안보는 독립 노선",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yRmNjbzRkTW5ZSzRCREdsQTFBRkZheC1rOVlHX3hwZWt0VmJUay12WS1nQjZ2SzhvQzFsZm42X1hGNngzZGRfaVJYbExIbDA?oc=5",
+      "source": "toptvkorea.com",
+      "date": "Fri, 12 Jun 2026 18:27:01 GMT"
     },
     {
-      "title": "국제유가, 생각보다는 안 뛴 의외의 이유?…″중국이 수입 줄여 숨통″",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4R19mMlhwWUtMUVJ5S0IxQlVXNzMxaFhBRkZWc1dNdzVIVlhCVnBlQ3hhREJpbFd3cEM5emVXb2dFZTEzVHJUNURXMmVFQThHTEVTZW1BQzJDTVFVTVZjd2NNc0ExWVE?oc=5",
-      "source": "연합뉴스TV",
-      "date": "Fri, 12 Jun 2026 06:26:16 GMT"
-    },
-    {
-      "title": "중국은 주요 G7 회의를 앞두고 경제 협력 강화를 촉구했다.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRUFnd2hzcW5wUlhCT0tQWXEzVGZKaHVPS0IxeTBBZl93Z3lBTE5NUGRrc2NnYkY4NXAydXNhbnRQUHUxeTRyYzV5UzhTcHFUZzBiMjdfNFlIYUNKUmd3LVd2ZTI3cTdBTXNENDE2aFpmdklzcVpma1hnQlBqTkxDc2wtYzdndUxJazB5NU9lNC1YQzVNSzRvMGFKY3VIZW1YSkI0N0p5WFphdlR0eDA4QjRZbWg?oc=5",
+      "title": "예상치 못한 요인이 세계 석유 파동을 피하는 데 도움이 되었습니다.",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQWhUUmN6UVNpbnRJQ09SUElnMk5ubm9QT3JGRzlnTGpCZDh4Mmw1eElEMUhMVmpHQXRqNFZtVUdwNFF1UTNsREwtUDd4aUtud0VGX1hJNjVTTWN6M3lOWjJqcmFicV9ocmpqTjNjenFzazdZdjkxMlJ6LWQxOUMxTQ?oc=5",
       "source": "Vietnam.vn",
-      "date": "Fri, 12 Jun 2026 02:46:31 GMT"
+      "date": "Fri, 12 Jun 2026 15:02:31 GMT"
     },
     {
-      "title": "광주상공회의소, 중국 수이펀허(綏芬河)와 경제협력 물꼬… '동북아 진출 거점' 확보",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oWFFFZGRFSXZVQk1tY1J1WlhNYlN4YlBKUWhxN1VwaWI3T2lrUXhjZ1pnOUVIYVhsZGlsUFJ5VExxTm5XZzFyNmFrWWxNR2JVWllDdllOV18za05OcVZ3bjR4eWhyVmh3cHJSSQ?oc=5",
-      "source": "광주in",
-      "date": "Thu, 11 Jun 2026 10:58:17 GMT"
+      "title": "[알쓸다정] 중국의 일대일로(一帶一路) 정책이란?",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8ydVBuQXJad0Yza09PenRncUVORk94M0lLVWxFOVVaci01RnQyYV9WMjRTRi1nT2YwYkVwUU9XUXdkUkY5MWlXblhRSTlaM3pvZDhmSmJ5QmZvcE85WjdSZFFsUE5xZ3Nq?oc=5",
+      "source": "공감신문",
+      "date": "Fri, 12 Jun 2026 15:00:00 GMT"
+    },
+    {
+      "title": "시진핑 ‘4연임’ 절호의 찬스?…대규모 숙청 이어지나 | 김상순 박사 2편",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xVGNyZWIxVUZqbG9GMkZPMUpjM3VpY3NhM0xmVVFpMEdXdEhTTGhTZWdZZGVYYkJmQ0NDTW9YQXZ2VUpaa0xYeUJ1aXJTbEUyWk1jMWVYazQ?oc=5",
+      "source": "에포크타임스",
+      "date": "Fri, 12 Jun 2026 11:29:35 GMT"
+    },
+    {
+      "title": "부산진해경제자유구역청, 중국 장쑤성·상하이권 투자유치 네트워크 확대 박차",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1VSmFlaXJqWUF0enFwTWJ6OEJidi1GRmUzWjlHbWM5YU5BWVFRNDdIWl9ndmlROWJ6VXRkWjIxNmFNNHNnQzNoZDdxYjdFQQ?oc=5",
+      "source": "한인포스트",
+      "date": "Fri, 12 Jun 2026 09:02:21 GMT"
+    },
+    {
+      "title": "[차이나워치] 북중 밀착 띄운 中…대만·남중국해 압박 공세",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RLWo4U2pZOGdVd2poRWVhZ250dmNLZWVDeEQ1RV9FOVhKR25SMmpYT1lwTU5HbHpxTUpDZG9fUjFDVzQxVlBTZ0xFVVptQm1SeWx6ekFvZ2syeXlQYURpZzNpcGZKMTA?oc=5",
+      "source": "연합뉴스TV",
+      "date": "Fri, 12 Jun 2026 08:22:27 GMT"
+    },
+    {
+      "title": "중국 경제 내수 침체 탈피할까...중국증시 영향은?",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RcmpySFVfcmY1RXdhbl9lWmliVmRyMkdxa3BDczdlellIREp4M3ZKU0dJTllpbEFwX19iZmhUQUFDMWdmN1BjTzRzVGw1SlFNWmMyOUtVRUp1RE5GcnNKRDFjUThNNVVhXzV3VV9OVdIBc0FVX3lxTE5QMFphV2hyNVBCMDZEN2ZxUENjUTdkOFdVM1U3WnRjTGxDb1d1NGNvZTl5d0U3WjhVOFFYaF9wZkxFRWZhRGZMSnlEaDl1Z2RfLTZKNnFsT0VtVFQ4MnZDbDBxSGxlTzA4REtyV1ZlZXJvY28?oc=5",
+      "source": "초이스경제",
+      "date": "Fri, 12 Jun 2026 03:15:02 GMT"
+    },
+    {
+      "title": "중국이 원유 덜 수입해서…이란발 유가 대란에 뜻밖의 숨통",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4dUhMRUR6UHVzVkVlOXh3S1dRNkp1dzZHOHdQekJUS2o4UDRoQjMydXdrWDB3bkktTnhGYmtCam1iRHpTb2YzbXQ4eVpQcTZxWVA0SUhqbnRLVEnSAWBBVV95cUxQMnNhQng0ek9aSDNJSEpwdGNSRW9QTVppSS1KZkRfaG9hNjlCWS1NbXpQNmdTS2E3Y29VeVRRc0NORXNfc29ueXhtdnB6cktNMF9EdWw4THA5cGtSaDdhODM?oc=5",
+      "source": "연합뉴스",
+      "date": "Fri, 12 Jun 2026 02:43:58 GMT"
     },
     {
       "title": "中경제계획수장 \"에너지 안보 수준 상향…전면 절약전략 실시\"",
@@ -42,12 +66,6 @@
       "date": "Wed, 10 Jun 2026 08:04:00 GMT"
     },
     {
-      "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Tue, 09 Jun 2026 07:00:00 GMT"
-    },
-    {
       "title": "북 [노동신문], 시진핑 방북에 맞춰 “중국경제 활기있게 발전”",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iUkJnYlAzbTFScFAzOXZSdFZHWEo0Q09lYnlxN1R0c19lTlBGemtqYVBDd3EzMGw5R1Nkd0U2c3U0MkFaOVFKbDlQcVptWkNXaWpSQ1NnMFBSdUhGQU00V0tXT0tlckZ6MVZWQi13?oc=5",
       "source": "통일뉴스",
@@ -58,12 +76,6 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxSXV4a0ZJbDQ1WkJpUUMtZGxGQ0JLOXVzT2Exa05rdWY4d05uclBpTFdETnQyMUpYcTJRZmtqTDhEZFRhTVp6VjY3S21qT3dSc1RuSjUxSW5qVWxXSVBkNkNJanVYNlUtNWJ5VkQ0VdIBc0FVX3lxTE1RZDdhN3RBcFRoanBLZFZkMmlMcWVtNG1aSDlyYTk1T3ZRRGNXa2l6VHNxeE4wMGcxVVIzY3VHclBZOFdZTjYwV0diV191Sl9CYktLWjVQa0xvSXNLTjNQVGM1cUVaQnA4UkI3M2tIejdUR1k?oc=5",
       "source": "대전일보",
       "date": "Sun, 07 Jun 2026 22:00:00 GMT"
-    },
-    {
-      "title": "중국 26.1분기 경제성장률(5.0%)에 대한 현지 평가",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMFduOE92X1RuX0EtWTVta05GTzBGektIWkRMNUJpaVRxQWtwSThxZVdpNmlJYU1JRHVBUGJOY1UzeTRUc0NCUUtEZkRvNjJ6c3VqR2tYTVpXbVV4R09SdGl4SzBPVjVFRXRYT1hGbDU0Ul9rSFdOZ2YyTlZSRzdSdw?oc=5",
-      "source": "한국개발연구원(KDI)",
-      "date": "Mon, 18 May 2026 18:11:40 GMT"
     }
   ]
 }

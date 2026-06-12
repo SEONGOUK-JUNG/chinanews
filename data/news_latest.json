@@ -1,1 +1,95 @@
-{"run_at_kst":"2026-06-12T07:11:54+09:00","schema_version":"1.0","sources":["mining.com","OilPrice.com"],"count":14,"items":[{"title":"Iraq's Energy Sector Faces Its Most Important Test in Decades","link":"https://oilprice.com/Energy/Crude-Oil/Iraqs-Energy-Sector-Faces-Its-Most-Important-Test-in-Decades.html","source":"OilPrice","date":"Thu, 11 Jun 2026 17:00:00 -0500"},{"title":"Glencore to resume emissions spending at Quebec smelter","link":"https://www.mining.com/glencore-to-resume-emissions-spending-at-quebec-smelter/","source":"mining.com","date":"Thu, 11 Jun 2026 21:52:59 +0000"},{"title":"Big Tech's Private Power Plants Will Drive Up Your Energy Bill, Experts Warn","link":"https://oilprice.com/Energy/Energy-General/Big-Techs-Private-Power-Plants-Will-Drive-Up-Your-Energy-Bill-Experts-Warn.html","source":"OilPrice","date":"Thu, 11 Jun 2026 16:00:00 -0500"},{"title":"PeaceGold, SigraFi sign responsible artisanal gold supply deal in DRC","link":"https://www.mining.com/peacegold-sigrafi-sign-responsible-artisanal-gold-supply-deal-in-drc/","source":"mining.com","date":"Thu, 11 Jun 2026 20:19:15 +0000"},{"title":"The Reliability Crisis Utilities Don't Want to Talk About","link":"https://oilprice.com/Energy/Energy-General/The-Reliability-Crisis-Utilities-Dont-Want-to-Talk-About.html","source":"OilPrice","date":"Thu, 11 Jun 2026 15:00:00 -0500"},{"title":"Komatsu opens new distribution plant in Arizona","link":"https://www.mining.com/komatsu-opens-new-distribution-plant-in-arizona/","source":"mining.com","date":"Thu, 11 Jun 2026 19:43:53 +0000"},{"title":"9 Billion BOE on the Table as Kazakhstan Opens Biggest Licensing Round in Years","link":"https://oilprice.com/Energy/Energy-General/9-Billion-BOE-on-the-Table-as-Kazakhstan-Opens-Biggest-Licensing-Round-in-Years.html","source":"OilPrice","date":"Thu, 11 Jun 2026 14:00:00 -0500"},{"title":"OPEC Sees Oil Demand Growth Outpacing Supply Through 2027","link":"https://oilprice.com/Latest-Energy-News/World-News/OPEC-Sees-Oil-Demand-Growth-Outpacing-Supply-Through-2027.html","source":"OilPrice","date":"Thu, 11 Jun 2026 13:30:00 -0500"},{"title":"Britain's Electric Vehicle Market Is Booming as Fuel Prices Climb","link":"https://oilprice.com/Energy/Energy-General/Britains-Electric-Vehicle-Market-Is-Booming-as-Fuel-Prices-Climb.html","source":"OilPrice","date":"Thu, 11 Jun 2026 13:00:00 -0500"},{"title":"Oil Held the Biggest IPO Record. Tonight It Loses the Crown.","link":"https://oilprice.com/Latest-Energy-News/World-News/Oil-Held-the-Biggest-IPO-Record-Tonight-It-Loses-the-Crown.html","source":"OilPrice","date":"Thu, 11 Jun 2026 12:30:00 -0500"},{"title":"Troilus drills shallow gold, boosts Quebec satellite case","link":"https://www.mining.com/troilus-drills-shallow-gold-boosts-quebec-satellite-case/","source":"mining.com","date":"Thu, 11 Jun 2026 17:21:30 +0000"},{"title":"Larvotto buys Hammer Metals to expand copper holding in Queensland","link":"https://www.mining.com/larvotto-buys-hammer-metals-to-expand-copper-holding-in-queensland/","source":"mining.com","date":"Thu, 11 Jun 2026 17:02:24 +0000"},{"title":"Why Power Prices Are Rising Faster in Deregulated States","link":"https://oilprice.com/Energy/Energy-General/Why-Power-Prices-Are-Rising-Faster-in-Deregulated-States.html","source":"OilPrice","date":"Thu, 11 Jun 2026 12:00:00 -0500"},{"title":"Energy Fuels expects to hit 2026 uranium guidance by midyear","link":"https://www.mining.com/energy-fuels-expects-to-hit-2026-uranium-guidance-by-midyear/","source":"mining.com","date":"Thu, 11 Jun 2026 15:47:47 +0000"}]}
+{
+  "run_at_kst": "2026-06-13T07:10:01+09:00",
+  "schema_version": "1.0",
+  "sources": [
+    "mining.com",
+    "OilPrice.com"
+  ],
+  "count": 14,
+  "items": [
+    {
+      "title": "China's Fusion Reactor on Track for Ignition by 2027, Threatening U.S. Lead",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Chinas-Fusion-Reactor-on-Track-for-Ignition-by-2027-Threatening-US-Lead.html",
+      "source": "OilPrice",
+      "date": "Fri, 12 Jun 2026 17:00:00 -0500"
+    },
+    {
+      "title": "Mining’s next boom is off the map: Arctic ice, abyssal plains and asteroids",
+      "link": "https://www.mining.com/minings-next-boom-is-off-the-map-arctic-ice-abyssal-plains-and-asteroids/",
+      "source": "mining.com",
+      "date": "Fri, 12 Jun 2026 21:44:54 +0000"
+    },
+    {
+      "title": "Hertha Metals targets rare-earth magnet supply gap with Texas high-purity iron plant",
+      "link": "https://www.mining.com/hertha-metals-targets-rare-earth-magnet-supply-gap-with-texas-high-purity-iron-plant/",
+      "source": "mining.com",
+      "date": "Fri, 12 Jun 2026 21:03:19 +0000"
+    },
+    {
+      "title": "The Hidden Supply Chain Behind Every SpaceX Launch",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Hidden-Supply-Chain-Behind-Every-SpaceX-Launch.html",
+      "source": "OilPrice",
+      "date": "Fri, 12 Jun 2026 15:00:00 -0500"
+    },
+    {
+      "title": "U.S. and Uzbekistan Deepen Economic Ties With New Investment Pact",
+      "link": "https://oilprice.com/Energy/Energy-General/US-and-Uzbekistan-Deepen-Economic-Ties-With-New-Investment-Pact.html",
+      "source": "OilPrice",
+      "date": "Fri, 12 Jun 2026 13:00:00 -0500"
+    },
+    {
+      "title": "Pace of US Oil Drilling Inches Up",
+      "link": "https://oilprice.com/Energy/Energy-General/Pace-of-US-Oil-Drilling-Inches-Up.html",
+      "source": "OilPrice",
+      "date": "Fri, 12 Jun 2026 12:12:00 -0500"
+    },
+    {
+      "title": "U.S. Military Helping Move 7 Million Bpd Out of Persian Gulf, Wright Says",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Military-Helping-Move-7-Million-Bpd-Out-of-Persian-Gulf-Wright-Says.html",
+      "source": "OilPrice",
+      "date": "Fri, 12 Jun 2026 11:30:00 -0500"
+    },
+    {
+      "title": "A War of Words Sends Brent Crude to a Two-Month Low",
+      "link": "https://oilprice.com/Energy/Crude-Oil/A-War-of-Words-Sends-Brent-Crude-to-a-Two-Month-Low.html",
+      "source": "OilPrice",
+      "date": "Fri, 12 Jun 2026 10:54:00 -0500"
+    },
+    {
+      "title": "Triple Flag buys gold stream on Ravenswood mine for $440M",
+      "link": "https://www.mining.com/triple-flag-buys-gold-stream-on-ravenswood-mine-for-440m/",
+      "source": "mining.com",
+      "date": "Fri, 12 Jun 2026 15:51:18 +0000"
+    },
+    {
+      "title": "China’s gold market cools amid ETF outflows: report",
+      "link": "https://www.mining.com/chinas-gold-market-cools-amid-etf-outflows-report/",
+      "source": "mining.com",
+      "date": "Fri, 12 Jun 2026 15:43:47 +0000"
+    },
+    {
+      "title": "Europe Wary Of Too Much Dependence on U.S. LNG",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europe-Wary-Of-Too-Much-Dependence-on-US-LNG.html",
+      "source": "OilPrice",
+      "date": "Fri, 12 Jun 2026 10:30:00 -0500"
+    },
+    {
+      "title": "Norsk Hydro hit by second aluminum supply crisis",
+      "link": "https://www.mining.com/norsk-hydro-hit-by-second-aluminum-supply-crisis/",
+      "source": "mining.com",
+      "date": "Fri, 12 Jun 2026 15:23:00 +0000"
+    },
+    {
+      "title": "Nigeria's Crude Oil Production Hits 15-Month High",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Nigerias-Crude-Oil-Production-Hits-15-Month-High.html",
+      "source": "OilPrice",
+      "date": "Fri, 12 Jun 2026 09:30:00 -0500"
+    },
+    {
+      "title": "Marenica growth backs Elevate’s Namibia uranium push",
+      "link": "https://www.mining.com/marenica-growth-backs-elevates-namibia-uranium-push/",
+      "source": "mining.com",
+      "date": "Fri, 12 Jun 2026 13:32:30 +0000"
+    }
+  ]
+}
