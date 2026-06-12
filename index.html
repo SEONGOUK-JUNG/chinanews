@@ -379,6 +379,38 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
       }).catch(function(){ var el=document.getElementById('macro-grid'); if(el) el.innerHTML='<div style="color:var(--muted);font-style:italic;padding:10px">거시지표 수집 대기 중…</div>'; });
     })();
     </script>
+    <!-- ===== CHINA RATES & PROPERTY ===== -->
+    <div class="panel" id="sec-rates" style="background:var(--bg);padding:10px 12px;margin-bottom:10px">
+      <div class="panel-head">
+        <div class="panel-title">금리·통화·부동산 <span class="badge-live">MONTHLY</span><span class="ts" id="rates-updated" style="margin-left:6px"></span></div>
+        <span class="ts" id="rates-src" style="font-size:10px;color:var(--muted)"></span>
+      </div>
+      <div id="rates-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px;margin-top:6px">
+        <div style="color:var(--muted);font-style:italic;padding:10px">Loading…</div>
+      </div>
+    </div>
+    <script>
+    (function(){
+      fetch('data/rates_property_latest.json?t='+Date.now()).then(function(r){return r.json();}).then(function(d){
+        var el=document.getElementById('rates-grid'); if(!el)return;
+        el.innerHTML='';
+        (d.indicators||[]).forEach(function(it){
+          var delta=(it.value!=null&&it.previous!=null)?(it.value-it.previous):null;
+          var arrow='';
+          if(delta!=null&&Math.abs(delta)>1e-9){ arrow=(delta>0?'▲':'▼')+' '+(Math.round(Math.abs(delta)*100)/100); }
+          else if(delta!=null){ arrow='—'; }
+          var card=document.createElement('div');
+          card.style.cssText='background:var(--line-grid);border-radius:4px;padding:9px 11px;display:flex;flex-direction:column;gap:2px';
+          card.innerHTML='<div style="font-size:11px;color:var(--muted)">'+it.label+'</div>'+
+            '<div style="font-size:20px;font-weight:700;color:var(--text);font-family:\'JetBrains Mono\',monospace">'+it.display+'</div>'+
+            '<div style="font-size:10px;color:var(--muted)">'+(it.ref||'')+(arrow?(' · '+arrow):'')+(it.hint?(' · '+it.hint):'')+'</div>';
+          el.appendChild(card);
+        });
+        var u=document.getElementById('rates-updated'); if(u) u.textContent=(d.as_of||'');
+        var s=document.getElementById('rates-src'); if(s&&d.source){ s.textContent='출처: '+d.source; if(d.source_url) s.title=d.source_url; }
+      }).catch(function(){ var el=document.getElementById('rates-grid'); if(el) el.innerHTML='<div style="color:var(--muted);font-style:italic;padding:10px">지표 수집 대기 중…</div>'; });
+    })();
+    </script>
     <!-- ===== COMMODITY HERO (top priority) ===== -->
     <!-- ===== Pulse (left) + Industrial Heatmap (right) row ===== -->
     <div id="sec-commodities" style="display:grid;grid-template-columns:minmax(280px,360px) minmax(0,1fr);gap:10px;align-items:start">
@@ -1742,41 +1774,4 @@ window.addEventListener('load', function(){
     var tb=table.tBodies[0]; if(!tb) return;
     var rows=Array.prototype.slice.call(tb.querySelectorAll('tr'));
     rows=rows.filter(function(r){return r.querySelectorAll('td').length>col;});
-    rows.sort(function(a,b){
-      var x=a.querySelectorAll('td')[col].textContent.trim(), y=b.querySelectorAll('td')[col].textContent.trim();
-      var nx=cellNum(x), ny=cellNum(y);
-      var r = (nx!=null&&ny!=null) ? (nx-ny) : x.localeCompare(y);
-      return asc? r : -r;
-    });
-    rows.forEach(function(r){ tb.appendChild(r); });
-  }
-  document.addEventListener('click', function(e){
-    var th=e.target.closest? e.target.closest('table.dt thead th') : null; if(!th) return;
-    var tr=th.parentNode, ths=Array.prototype.slice.call(tr.children), col=ths.indexOf(th);
-    var table=th.closest('table'); if(!table) return;
-    var asc = table.getAttribute('data-sort-col')==String(col) ? table.getAttribute('data-sort-asc')!=='true' : true;
-    table.setAttribute('data-sort-col',col); table.setAttribute('data-sort-asc',asc);
-    ths.forEach(function(h){ h.style.cursor='pointer'; h.textContent=h.textContent.replace(/[ ▲▼]+$/,''); });
-    th.textContent=th.textContent.replace(/[ ▲▼]+$/,'')+(asc?' ▲':' ▼');
-    sortTable(table, col, asc);
-  });
-  document.addEventListener('DOMContentLoaded', function(){
-    document.querySelectorAll('table.dt thead th').forEach(function(h){ h.style.cursor='pointer'; h.title='Click to sort'; });
-  });
-})();
-</script>
-<script>
-/* Header index ticker — auto-scroll marquee (right→left), live-value safe */
-(function(){
-  function init(){
-    var strip=document.querySelector('.idx-strip');
-    if(!strip || strip.classList.contains('idx-running')) return;
-    var cells=Array.prototype.slice.call(strip.children);
-    if(cells.length<2) return;
-    var st=document.createElement('style');
-    st.textContent='.idx-strip.idx-running{overflow:hidden}.idx-mq{display:flex;flex:0 0 auto;width:max-content;animation:idxscroll 55s linear infinite}.idx-strip.idx-running:hover .idx-mq{animation-play-state:paused}@keyframes idxscroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}@media(prefers-reduced-motion:reduce){.idx-mq{animation:none}}';
-    document.head.appendChild(st);
-    var mq=document.createElement('div'); mq.className='idx-mq';
-    cells.forEach(function(c){ mq.appendChild(c); });
-    cells.forEach(function(c){ var d=c.cloneNode(true); d.removeAttribute('id'); d.querySelectorAll('[id]').forEach(function(e){e.removeAttribute('id');}); mq.appendChild(d); });
-    strip
+    rows.sort(function(
