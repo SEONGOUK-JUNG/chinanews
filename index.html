@@ -1300,7 +1300,7 @@ async function loadCommodityChart(commodityId, displayName, noScroll){
 
 // 원자재 행 클릭 → 원자재 차트만 갱신 (주식 차트 건드리지 않음)
 // 히트맵 한국어명 → chart_id (차트 데이터가 있는 품목만)
-var _HM_TO_CHART = {'동':'copper','알루미늄(알루미늄 잉곳)':'aluminum','원유':'crude_oil','석탄':'coal','천연가스':'natural_gas'};
+var _HM_TO_CHART = {'동':'copper','알루미늄(알루미늄 잉곳)':'aluminum','원유':'crude_oil','석탄':'coal','천연가스':'natural_gas','아연(잉곳)':'zinc','연(잉곳)':'lead','니켈(잉곳)':'nickel','주석(잉곳)':'tin','코발트':'cobalt','탄산리튬':'lithium_carbonate','선형저밀도 폴리에틸렌':'lldpe','고밀도 폴리에틸렌':'hdpe','저밀도 폴리에틸렌':'ldpe','폴리프로필렌':'pp','폴리염화비닐':'pvc','폴리스티렌':'ps','폴리카보네이트':'pc','아크릴로니트릴-부타디엔-스티렌':'abs','스티렌':'styrene','파라자일렌':'paraxylene','순수 벤젠':'benzene','메탄올':'methanol','페놀':'phenol','아세톤':'acetone','글리콜':'ethylene_glycol','나프타':'naphtha','가솔린':'gasoline','디젤유':'diesel','철광석':'iron_ore','열간 압연 코일':'hrc','이형철근':'rebar','뇨소':'urea'};
 document.addEventListener('click', function(e){
   // 히트맵 셀 클릭 → 해당 품목 차트 (차트 데이터 있는 품목만)
   var hmCell = e.target.closest('.hm-cell[data-cm-ko]');
@@ -1758,10 +1758,4 @@ window.addEventListener('load', function(){
     if(cd.length>=14){ var ks=[]; for(var j=13;j<cd.length;j++){ var hi=-Infinity,lo=Infinity; for(var t=j-13;t<=j;t++){ if(cd[t].high>hi)hi=cd[t].high; if(cd[t].low<lo)lo=cd[t].low; } ks.push(hi===lo?50:(cd[j].close-lo)/(hi-lo)*100); } k=ks[ks.length-1]; if(ks.length>=3) dd=(ks[ks.length-1]+ks[ks.length-2]+ks[ks.length-3])/3; }
     var vol=cd[cd.length-1].volume;
     if(rb){ var p=[]; if(r!=null){ var z=r>=70?'overbought':(r<=30?'oversold':'neutral'), col=r>=70?'#ff5555':(r<=30?'#00e5a0':'inherit'); p.push('RSI(14) <b style="color:'+col+'">'+r.toFixed(1)+'</b> ('+z+')'); } if(k!=null) p.push('Stoch %K '+k.toFixed(1)+(dd!=null?(' · %D '+dd.toFixed(1)):'')); rb.innerHTML=p.length?p.join(' &nbsp;|&nbsp; '):'—'; }
-    if(mb){ var q=[]; if(mk) q.push('MACD <b style="color:'+(mk.hist>=0?'#ff5555':'#00e5a0')+'">'+mk.macd.toFixed(2)+'</b> · sig '+mk.signal.toFixed(2)+' · '+(mk.hist>=0?'bullish':'bearish')); if(vol!=null) q.push('Vol '+Number(vol).toLocaleString('en-US')); mb.innerHTML=q.length?q.join(' &nbsp;|&nbsp; '):'—'; }
-  };
-})();
-</script>
-</body>
-</html>
-                                                                                                                                                                                                                                                                                                                                                                                                           
+ 
