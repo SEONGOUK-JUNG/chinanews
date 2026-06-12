@@ -393,22 +393,6 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
     </div>
 
 
-    <!-- Landed Cost (grouped with commodities) -->
-    <div class="panel" style="background:var(--bg);padding:10px 12px">
-      <div class="panel-head"><div class="panel-title">Landed Cost Estimator <span class="badge-live">CALC</span></div></div>
-      <div class="small" style="margin-bottom:7px;line-height:1.5">Rough estimate for importers. Click a commodity row.</div>
-      <div style="font-size:12px;margin-bottom:5px">Selected: <span id="lc-name" style="color:var(--orange);font-weight:700">—</span></div>
-      <div style="display:flex;justify-content:space-between;align-items:center;padding:5px 0;border-bottom:1px solid var(--line-grid)"><span class="small">Import to</span><select id="lc-origin" style="width:170px;background:var(--bg);border:1px solid var(--line-2);color:var(--text);padding:4px 7px;font-size:12px;font-family:JetBrains Mono,monospace;border-radius:2px"><option value="KR">Korea · KR–CN FTA</option><option value="US">USA · MFN</option><option value="EU">EU · MFN</option><option value="OTHER">Other · manual</option></select></div>
-      <div style="display:flex;justify-content:space-between;padding:5px 0;border-bottom:1px solid var(--line-grid)"><span class="small">Spot (CNY)</span><span class="mono" id="lc-spot" style="font-weight:700">—</span></div>
-      <div style="display:flex;justify-content:space-between;padding:5px 0;border-bottom:1px solid var(--line-grid)"><span class="small">FOB est. (USD)</span><span class="mono" id="lc-fob" style="font-weight:700">—</span></div>
-      <div style="display:flex;justify-content:space-between;align-items:center;padding:5px 0"><span class="small">Freight (USD/unit)</span><input id="lc-freight" type="number" value="0" min="0" step="1" style="width:90px;background:var(--bg);border:1px solid var(--line-2);color:var(--text);padding:4px 7px;font-size:12px;font-family:JetBrains Mono,monospace;text-align:right;border-radius:2px"></div>
-      <div style="display:flex;justify-content:space-between;align-items:center;padding:5px 0"><span class="small">Import duty (%)</span><input id="lc-duty" type="number" value="0" min="0" step="0.1" style="width:90px;background:var(--bg);border:1px solid var(--line-2);color:var(--text);padding:4px 7px;font-size:12px;font-family:JetBrains Mono,monospace;text-align:right;border-radius:2px"></div>
-      <div style="display:flex;justify-content:space-between;align-items:center;padding:5px 0"><span class="small">VAT (%)</span><input id="lc-vat" type="number" value="0" min="0" step="0.1" style="width:90px;background:var(--bg);border:1px solid var(--line-2);color:var(--text);padding:4px 7px;font-size:12px;font-family:JetBrains Mono,monospace;text-align:right;border-radius:2px"></div>
-      <div style="display:flex;justify-content:space-between;padding:7px 0;margin-top:3px;border-top:1px solid var(--line-2)"><span class="small">Est. Landed (USD)</span><span class="mono" id="lc-total" style="font-weight:700;color:var(--orange);font-size:15px">—</span></div>
-      <div class="small" id="lc-hsnote" style="margin-top:6px;color:var(--orange);line-height:1.5"></div>
-      <div class="small" style="margin-top:7px;font-style:italic;line-height:1.5">Estimate — excludes insurance, handling & local fees. Verify with your forwarder.</div>
-    </div>
-
     <!-- Commodity Chart Panel -->
     <div class="panel" style="background:var(--bg);padding:10px 12px" id="cm-chart-panel">
       <div class="panel-head">
@@ -539,6 +523,22 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
   </div>
 
   <div class="sidebar-r">
+
+    <!-- Landed Cost (moved above News) -->
+    <div class="panel" style="background:var(--bg);padding:10px 12px">
+      <div class="panel-head"><div class="panel-title">Landed Cost Estimator <span class="badge-live">CALC</span></div></div>
+      <div class="small" style="margin-bottom:7px;line-height:1.5">Rough estimate for importers. Click a commodity row.</div>
+      <div style="font-size:12px;margin-bottom:5px">Selected: <span id="lc-name" style="color:var(--orange);font-weight:700">—</span></div>
+      <div style="display:flex;justify-content:space-between;align-items:center;padding:5px 0;border-bottom:1px solid var(--line-grid)"><span class="small">Import to</span><select id="lc-origin" style="width:170px;background:var(--bg);border:1px solid var(--line-2);color:var(--text);padding:4px 7px;font-size:12px;font-family:JetBrains Mono,monospace;border-radius:2px"><option value="KR">Korea · KR–CN FTA</option><option value="US">USA · MFN</option><option value="EU">EU · MFN</option><option value="OTHER">Other · manual</option></select></div>
+      <div style="display:flex;justify-content:space-between;padding:5px 0;border-bottom:1px solid var(--line-grid)"><span class="small">Spot (CNY)</span><span class="mono" id="lc-spot" style="font-weight:700">—</span></div>
+      <div style="display:flex;justify-content:space-between;padding:5px 0;border-bottom:1px solid var(--line-grid)"><span class="small">FOB est. (USD)</span><span class="mono" id="lc-fob" style="font-weight:700">—</span></div>
+      <div style="display:flex;justify-content:space-between;align-items:center;padding:5px 0"><span class="small">Freight (USD/unit)</span><input id="lc-freight" type="number" value="0" min="0" step="1" style="width:90px;background:var(--bg);border:1px solid var(--line-2);color:var(--text);padding:4px 7px;font-size:12px;font-family:JetBrains Mono,monospace;text-align:right;border-radius:2px"></div>
+      <div style="display:flex;justify-content:space-between;align-items:center;padding:5px 0"><span class="small">Import duty (%)</span><input id="lc-duty" type="number" value="0" min="0" step="0.1" style="width:90px;background:var(--bg);border:1px solid var(--line-2);color:var(--text);padding:4px 7px;font-size:12px;font-family:JetBrains Mono,monospace;text-align:right;border-radius:2px"></div>
+      <div style="display:flex;justify-content:space-between;align-items:center;padding:5px 0"><span class="small">VAT (%)</span><input id="lc-vat" type="number" value="0" min="0" step="0.1" style="width:90px;background:var(--bg);border:1px solid var(--line-2);color:var(--text);padding:4px 7px;font-size:12px;font-family:JetBrains Mono,monospace;text-align:right;border-radius:2px"></div>
+      <div style="display:flex;justify-content:space-between;padding:7px 0;margin-top:3px;border-top:1px solid var(--line-2)"><span class="small">Est. Landed (USD)</span><span class="mono" id="lc-total" style="font-weight:700;color:var(--orange);font-size:15px">—</span></div>
+      <div class="small" id="lc-hsnote" style="margin-top:6px;color:var(--orange);line-height:1.5"></div>
+      <div class="small" style="margin-top:7px;font-style:italic;line-height:1.5">Estimate — excludes insurance, handling & local fees. Verify with your forwarder.</div>
+    </div>
 
     <div class="panel" id="sec-news">
       <div class="panel-head"><div class="panel-title">News <span class="badge-live">RSS</span></div></div>
@@ -1128,7 +1128,7 @@ async function loadCommodities(){
       fbUsd.innerHTML = d.featured.map(function(it){
         const cid = it.chart_id || _DISPLAY_TO_CHART_ID[it.display_name] || '';
         const clickable = cid ? ' style="cursor:pointer" data-cm-id="' + cid + '" title="Click to load chart"' : '';
-        return '<tr' + clickable + ' data-cm-ko="' + (it.display_name||'') + '" data-cm-unit="' + (it.unit||'CNY/t') + '"><td>' + cmName(it.display_name) + '</td><td style="text-align:right">' + usdEst(it.price_today,it.unit,it.display_name) + '</td><td style="text-align:right">' + fmtPct(it.change_pct) + '</td></tr>';
+        return '<tr' + clickable + ' data-cm-ko="' + (it.display_name||'') + '" data-cm-unit="' + (it.unit||'CNY/t') + '" data-cm-price="' + (it.price_today!=null?it.price_today:'') + '"><td>' + cmName(it.display_name) + '</td><td style="text-align:right">' + usdEst(it.price_today,it.unit,it.display_name) + '</td><td style="text-align:right">' + fmtPct(it.change_pct) + '</td></tr>';
       }).join('');
     }
     const usdUpd = document.getElementById('cm-usd-updated');
@@ -1572,7 +1572,9 @@ document.addEventListener('click', function(e){
   var cid = el.getAttribute('data-cm-id') || '';
   var unit = el.getAttribute('data-cm-unit') || 'CNY/t';
   var price;
+  var _ap=el.getAttribute('data-cm-price');
   if(hm){ price = parseFloat(el.getAttribute('data-cm-price')); }
+  else if(_ap!==null && _ap!==''){ price = parseFloat(_ap); }
   else { var tds=el.querySelectorAll('td'); if(tds.length<5) return; if(!ko) ko=tds[0].textContent.trim(); price=parseFloat((tds[3].textContent||'').replace(/[^0-9.\-]/g,'')); if(!el.getAttribute('data-cm-unit')) unit=(tds.length>=7?tds[6].textContent.trim():'CNY/t'); }
   window.__lc = {name:ko, ko:ko, cid:cid, price:isNaN(price)?null:price, unit:unit, hs:null};
   tdApplyDuty(); updateLanded();
@@ -1719,4 +1721,11 @@ window.addEventListener('load', function(){
     var r=rsi(closes,14), mk=macd(closes), k=null, dd=null;
     if(cd.length>=14){ var ks=[]; for(var j=13;j<cd.length;j++){ var hi=-Infinity,lo=Infinity; for(var t=j-13;t<=j;t++){ if(cd[t].high>hi)hi=cd[t].high; if(cd[t].low<lo)lo=cd[t].low; } ks.push(hi===lo?50:(cd[j].close-lo)/(hi-lo)*100); } k=ks[ks.length-1]; if(ks.length>=3) dd=(ks[ks.length-1]+ks[ks.length-2]+ks[ks.length-3])/3; }
     var vol=cd[cd.length-1].volume;
-    if(rb){ var p=[]; if(r!=null){ var z=r>=70?'overbought':(r<=30?'oversold':'neutral'), col=r>=70?'#ff5555':(r<=30?'#00e5a0':'inherit'); p.push('RSI(14) <b style="color:'+col+'">'+r
+    if(rb){ var p=[]; if(r!=null){ var z=r>=70?'overbought':(r<=30?'oversold':'neutral'), col=r>=70?'#ff5555':(r<=30?'#00e5a0':'inherit'); p.push('RSI(14) <b style="color:'+col+'">'+r.toFixed(1)+'</b> ('+z+')'); } if(k!=null) p.push('Stoch %K '+k.toFixed(1)+(dd!=null?(' · %D '+dd.toFixed(1)):'')); rb.innerHTML=p.length?p.join(' &nbsp;|&nbsp; '):'—'; }
+    if(mb){ var q=[]; if(mk) q.push('MACD <b style="color:'+(mk.hist>=0?'#ff5555':'#00e5a0')+'">'+mk.macd.toFixed(2)+'</b> · sig '+mk.signal.toFixed(2)+' · '+(mk.hist>=0?'bullish':'bearish')); if(vol!=null) q.push('Vol '+Number(vol).toLocaleString('en-US')); mb.innerHTML=q.length?q.join(' &nbsp;|&nbsp; '):'—'; }
+  };
+})();
+</script>
+</body>
+</html>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
