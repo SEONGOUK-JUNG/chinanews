@@ -5,11 +5,67 @@
   "source_url": "https://tradingeconomics.com/china/indicators",
   "note": "통화·금리·부동산 지표. 출처 Trading Economics(중국). 월/일 단위 갱신 항목 혼재 — 각 카드의 기준시점 표기 참조.",
   "indicators": [
-    {"label": "LPR 5년 (주담대 기준)", "value": 3.5, "previous": 3.5, "display": "3.50%", "ref": "2026-05", "hint": "12개월째 동결·사상 최저"},
-    {"label": "10년 국채금리", "value": 1.74, "previous": null, "display": "1.74%", "ref": "현재(6월)", "hint": "완화여력 축소 신호"},
-    {"label": "SHIBOR 3개월", "value": 1.41, "previous": null, "display": "1.41%", "ref": "현재(6월)", "hint": "은행간 단기금리"},
-    {"label": "통화량 M2 (YoY)", "value": 9.0, "previous": null, "display": "+9.0%", "ref": "2026-01", "hint": "CNY 347조·사상 최대"},
-    {"label": "위안화 대출증가율 (YoY)", "value": 5.6, "previous": null, "display": "+5.6%", "ref": "2026-04", "hint": "대출잔액 증가율"},
-    {"label": "70개도시 신규주택가격 (YoY)", "value": -3.5, "previous": -3.4, "display": "-3.5%", "ref": "2026-04", "hint": "34개월 연속 하락"}
+    {
+      "label": "LPR 5년 (주담대 기준)",
+      "value": 3.5,
+      "previous": 3.5,
+      "display": "3.50%",
+      "ref": "2026-05",
+      "hint": "12개월째 동결·사상 최저",
+      "label_en": "LPR 5Y (mortgage)",
+      "hint_en": "12 mo unchanged, record low"
+    },
+    {
+      "label": "10년 국채금리",
+      "value": 1.74,
+      "previous": null,
+      "display": "1.74%",
+      "ref": "현재(6월)",
+      "hint": "완화여력 축소 신호",
+      "label_en": "10Y Govt Bond",
+      "hint_en": "less easing room",
+      "ref_en": "current (Jun)"
+    },
+    {
+      "label": "SHIBOR 3개월",
+      "value": 1.41,
+      "previous": null,
+      "display": "1.41%",
+      "ref": "현재(6월)",
+      "hint": "은행간 단기금리",
+      "label_en": "SHIBOR 3M",
+      "hint_en": "interbank rate",
+      "ref_en": "current (Jun)"
+    },
+    {
+      "label": "통화량 M2 (YoY)",
+      "value": 9.0,
+      "previous": null,
+      "display": "+9.0%",
+      "ref": "2026-01",
+      "hint": "CNY 347조·사상 최대",
+      "label_en": "M2 Money Supply (YoY)",
+      "hint_en": "CNY 347T, record"
+    },
+    {
+      "label": "위안화 대출증가율 (YoY)",
+      "value": 5.6,
+      "previous": null,
+      "display": "+5.6%",
+      "ref": "2026-04",
+      "hint": "대출잔액 증가율",
+      "label_en": "Yuan Loan Growth (YoY)",
+      "hint_en": "outstanding loans"
+    },
+    {
+      "label": "70개도시 신규주택가격 (YoY)",
+      "value": -3.5,
+      "previous": -3.4,
+      "display": "-3.5%",
+      "ref": "2026-04",
+      "hint": "34개월 연속 하락",
+      "label_en": "70-City New Home Prices (YoY)",
+      "hint_en": "34 months of declines"
+    }
   ]
 }

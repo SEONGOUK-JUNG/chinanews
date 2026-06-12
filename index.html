@@ -347,107 +347,6 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
   </div>
 
   <div class="center-main">
-    <!-- ===== CHINA MACRO DASHBOARD ===== -->
-    <div class="panel" id="sec-macro" style="background:var(--bg);padding:10px 12px;margin-bottom:10px">
-      <div class="panel-head">
-        <div class="panel-title">China Macro · 중국 거시경제 <span class="badge-live">MONTHLY</span><span class="ts" id="macro-updated" style="margin-left:6px"></span></div>
-        <span class="ts" id="macro-src" style="font-size:10px;color:var(--muted)"></span>
-      </div>
-      <div id="macro-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px;margin-top:6px">
-        <div style="color:var(--muted);font-style:italic;padding:10px">Loading…</div>
-      </div>
-    </div>
-    <script>
-    (function(){
-      fetch('data/macro_latest.json?t='+Date.now()).then(function(r){return r.json();}).then(function(d){
-        var el=document.getElementById('macro-grid'); if(!el)return;
-        el.innerHTML='';
-        (d.indicators||[]).forEach(function(it){
-          var delta=(it.value!=null&&it.previous!=null)?(it.value-it.previous):null;
-          var arrow='';
-          if(delta!=null&&Math.abs(delta)>1e-9){ arrow=(delta>0?'▲':'▼')+' '+(Math.round(Math.abs(delta)*100)/100); }
-          else if(delta!=null){ arrow='—'; }
-          var card=document.createElement('div');
-          card.style.cssText='background:var(--line-grid);border-radius:4px;padding:9px 11px;display:flex;flex-direction:column;gap:2px';
-          card.innerHTML='<div style="font-size:11px;color:var(--muted)">'+it.label+'</div>'+
-            '<div style="font-size:20px;font-weight:700;color:var(--text);font-family:\'JetBrains Mono\',monospace">'+it.display+'</div>'+
-            '<div style="font-size:10px;color:var(--muted)">'+(it.ref||'')+(arrow?(' · '+arrow):'')+(it.hint?(' · '+it.hint):'')+'</div>';
-          el.appendChild(card);
-        });
-        var u=document.getElementById('macro-updated'); if(u) u.textContent=(d.as_of||'');
-        var s=document.getElementById('macro-src'); if(s&&d.source){ s.textContent='출처: '+d.source; if(d.source_url) s.title=d.source_url; }
-      }).catch(function(){ var el=document.getElementById('macro-grid'); if(el) el.innerHTML='<div style="color:var(--muted);font-style:italic;padding:10px">거시지표 수집 대기 중…</div>'; });
-    })();
-    </script>
-    <!-- ===== CHINA RATES & PROPERTY ===== -->
-    <div class="panel" id="sec-rates" style="background:var(--bg);padding:10px 12px;margin-bottom:10px">
-      <div class="panel-head">
-        <div class="panel-title">금리·통화·부동산 <span class="badge-live">MONTHLY</span><span class="ts" id="rates-updated" style="margin-left:6px"></span></div>
-        <span class="ts" id="rates-src" style="font-size:10px;color:var(--muted)"></span>
-      </div>
-      <div id="rates-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px;margin-top:6px">
-        <div style="color:var(--muted);font-style:italic;padding:10px">Loading…</div>
-      </div>
-    </div>
-    <script>
-    (function(){
-      fetch('data/rates_property_latest.json?t='+Date.now()).then(function(r){return r.json();}).then(function(d){
-        var el=document.getElementById('rates-grid'); if(!el)return;
-        el.innerHTML='';
-        (d.indicators||[]).forEach(function(it){
-          var delta=(it.value!=null&&it.previous!=null)?(it.value-it.previous):null;
-          var arrow='';
-          if(delta!=null&&Math.abs(delta)>1e-9){ arrow=(delta>0?'▲':'▼')+' '+(Math.round(Math.abs(delta)*100)/100); }
-          else if(delta!=null){ arrow='—'; }
-          var card=document.createElement('div');
-          card.style.cssText='background:var(--line-grid);border-radius:4px;padding:9px 11px;display:flex;flex-direction:column;gap:2px';
-          card.innerHTML='<div style="font-size:11px;color:var(--muted)">'+it.label+'</div>'+
-            '<div style="font-size:20px;font-weight:700;color:var(--text);font-family:\'JetBrains Mono\',monospace">'+it.display+'</div>'+
-            '<div style="font-size:10px;color:var(--muted)">'+(it.ref||'')+(arrow?(' · '+arrow):'')+(it.hint?(' · '+it.hint):'')+'</div>';
-          el.appendChild(card);
-        });
-        var u=document.getElementById('rates-updated'); if(u) u.textContent=(d.as_of||'');
-        var s=document.getElementById('rates-src'); if(s&&d.source){ s.textContent='출처: '+d.source; if(d.source_url) s.title=d.source_url; }
-      }).catch(function(){ var el=document.getElementById('rates-grid'); if(el) el.innerHTML='<div style="color:var(--muted);font-style:italic;padding:10px">지표 수집 대기 중…</div>'; });
-    })();
-    </script>
-    <!-- ===== STRATEGIC MATERIALS (business-direct) ===== -->
-    <div class="panel" id="sec-strategic" style="background:var(--bg);padding:10px 12px;margin-bottom:10px">
-      <div class="panel-head">
-        <div class="panel-title">전략 원자재 · PE·석유화학 &amp; 희토류 <span class="badge-live">DAILY</span><span class="ts" id="strat-ref" style="margin-left:6px"></span></div>
-      </div>
-      <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px">
-        <div>
-          <div style="font-size:11px;font-weight:700;color:var(--orange);margin-bottom:4px">석유화학·PE 체인 (에코브릿지)</div>
-          <table class="dt" style="width:100%"><tbody id="strat-pe"><tr><td style="color:var(--muted);font-style:italic;padding:8px 0">Loading…</td></tr></tbody></table>
-        </div>
-        <div>
-          <div style="font-size:11px;font-weight:700;color:var(--orange);margin-bottom:4px">희토류·전략소재 (에이브릿지)</div>
-          <table class="dt" style="width:100%"><tbody id="strat-re"><tr><td style="color:var(--muted);font-style:italic;padding:8px 0">Loading…</td></tr></tbody></table>
-        </div>
-      </div>
-      <div style="font-size:10px;color:var(--muted);margin-top:7px;font-style:italic">CNY 기준 · 색상: 적색=상승 · 녹색=하락 (중국 관례)</div>
-    </div>
-    <script>
-    (function(){
-      var PE=[["나프타","나프타"],["선형저밀도 폴리에틸렌","LLDPE"],["고밀도 폴리에틸렌","HDPE"],["저밀도 폴리에틸렌","LDPE"],["폴리프로필렌","PP"],["폴리염화비닐","PVC"],["순수 벤젠","벤젠"],["스티렌","스티렌"],["파라자일렌","파라자일렌(PX)"]];
-      var RE=[["산화네오디뮴","산화네오디뮴"],["산화프라세오디뮴","산화프라세오디뮴"],["프라세오디뮴네오디뮴산화물","Pr-Nd 산화물"],["산화디스프로슘","산화디스프로슘"],["금속네오디뮴","금속 네오디뮴"],["디스프로슘철합금","Dy-Fe 합금"],["안티모늄","안티모니"],["탄산리튬","탄산리튬"],["코발트","코발트"],["금속규소(공업규소)","금속규소"]];
-      fetch('data/commodities.json?t='+Date.now()).then(function(r){return r.json();}).then(function(d){
-        var m={}; (d.all_items||[]).forEach(function(x){ if(!(x.display_name in m)) m[x.display_name]=x; });
-        function row(disp,it){
-          if(!it) return '';
-          var p=Number(it.change_pct)||0, col=p>0?'var(--up)':(p<0?'var(--down)':'var(--muted)'), sg=p>0?'+':'';
-          return '<tr><td style="font-size:11px">'+disp+'</td>'+
-            '<td style="text-align:right;font-family:\'JetBrains Mono\',monospace;font-size:11px">'+Number(it.price_today).toLocaleString('en-US')+'</td>'+
-            '<td style="text-align:right;font-size:11px;color:'+col+'">'+sg+p.toFixed(2)+'%</td></tr>';
-        }
-        function fill(id,list){ var b=document.getElementById(id); if(!b)return; var h=list.map(function(x){return row(x[1],m[x[0]]);}).join(''); b.innerHTML=h||'<tr><td>—</td></tr>'; }
-        fill('strat-pe',PE); fill('strat-re',RE);
-        var rf=document.getElementById('strat-ref'); if(rf) rf.textContent=d.ref_date||'';
-      }).catch(function(){ var b=document.getElementById('strat-pe'); if(b) b.innerHTML='<tr><td style="color:var(--muted)">로드 실패</td></tr>'; });
-    })();
-    </script>
-
     <!-- ===== COMMODITY HERO (top priority) ===== -->
     <!-- ===== Pulse (left) + Industrial Heatmap (right) row ===== -->
     <div id="sec-commodities" style="display:grid;grid-template-columns:minmax(280px,360px) minmax(0,1fr);gap:10px;align-items:start">
@@ -532,6 +431,128 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
       <div class="panel-head"><div class="panel-title">Featured Commodity Mini-Charts <span class="badge-live">TREND</span></div></div>
       <div id="cm-sparkgrid" style="display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:var(--line)"></div>
     </div>
+
+    <!-- ===== STRATEGIC MATERIALS (business-direct) ===== -->
+    <div class="panel" id="sec-strategic" style="background:var(--bg);padding:10px 12px;margin-bottom:10px">
+      <div class="panel-head">
+        <div class="panel-title"><span id="strat-title">전략 원자재</span> <span class="badge-live">DAILY</span><span class="ts" id="strat-ref" style="margin-left:6px"></span></div>
+      </div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px">
+        <div>
+          <div id="strat-pe-h" style="font-size:11px;font-weight:700;color:var(--orange);margin-bottom:4px">석유화학·PE 체인 (에코브릿지)</div>
+          <table class="dt" style="width:100%"><tbody id="strat-pe"><tr><td style="color:var(--muted);font-style:italic;padding:8px 0">Loading…</td></tr></tbody></table>
+        </div>
+        <div>
+          <div id="strat-re-h" style="font-size:11px;font-weight:700;color:var(--orange);margin-bottom:4px">희토류·전략소재 (에이브릿지)</div>
+          <table class="dt" style="width:100%"><tbody id="strat-re"><tr><td style="color:var(--muted);font-style:italic;padding:8px 0">Loading…</td></tr></tbody></table>
+        </div>
+      </div>
+      <div id="strat-foot" style="font-size:10px;color:var(--muted);margin-top:7px;font-style:italic">CNY 기준 · 색상: 적색=상승 · 녹색=하락 (중국 관례)</div>
+    </div>
+    <script>
+    (function(){
+      var DATA=null;
+      var PE=[["나프타","나프타","Naphtha"],["선형저밀도 폴리에틸렌","LLDPE","LLDPE"],["고밀도 폴리에틸렌","HDPE","HDPE"],["저밀도 폴리에틸렌","LDPE","LDPE"],["폴리프로필렌","PP","PP"],["폴리염화비닐","PVC","PVC"],["순수 벤젠","벤젠","Benzene"],["스티렌","스티렌","Styrene"],["파라자일렌","파라자일렌(PX)","Paraxylene"]];
+      var RE=[["산화네오디뮴","산화네오디뮴","Neodymium Oxide"],["산화프라세오디뮴","산화프라세오디뮴","Praseodymium Oxide"],["프라세오디뮴네오디뮴산화물","Pr-Nd 산화물","Pr-Nd Oxide"],["산화디스프로슘","산화디스프로슘","Dysprosium Oxide"],["금속네오디뮴","금속 네오디뮴","Neodymium Metal"],["디스프로슘철합금","Dy-Fe 합금","Dy-Fe Alloy"],["안티모늄","안티모니","Antimony"],["탄산리튬","탄산리튬","Lithium Carbonate"],["코발트","코발트","Cobalt"],["금속규소(공업규소)","금속규소","Silicon Metal"]];
+      function render(){
+        if(!DATA) return;
+        var en=(window.CN_LANG==='en');
+        var m={}; (DATA.all_items||[]).forEach(function(x){ if(!(x.display_name in m)) m[x.display_name]=x; });
+        function row(disp,it){ if(!it) return '';
+          var p=Number(it.change_pct)||0, col=p>0?'var(--up)':(p<0?'var(--down)':'var(--muted)'), sg=p>0?'+':'';
+          return '<tr><td style="font-size:11px">'+disp+'</td><td style="text-align:right;font-family:\'JetBrains Mono\',monospace;font-size:11px">'+Number(it.price_today).toLocaleString('en-US')+'</td><td style="text-align:right;font-size:11px;color:'+col+'">'+sg+p.toFixed(2)+'%</td></tr>'; }
+        function fill(id,list){ var b=document.getElementById(id); if(!b)return; var idx=en?2:1; b.innerHTML=list.map(function(x){return row(x[idx],m[x[0]]);}).join('')||'<tr><td>—</td></tr>'; }
+        fill('strat-pe',PE); fill('strat-re',RE);
+        var T=document.getElementById('strat-title'); if(T) T.textContent=en?'Strategic Materials':'전략 원자재';
+        var ph=document.getElementById('strat-pe-h'); if(ph) ph.textContent=en?'Petrochem·PE Chain (Ecobridge)':'석유화학·PE 체인 (에코브릿지)';
+        var rh=document.getElementById('strat-re-h'); if(rh) rh.textContent=en?'Rare Earths (Abridge)':'희토류·전략소재 (에이브릿지)';
+        var ft=document.getElementById('strat-foot'); if(ft) ft.textContent=en?'CNY · red=up · green=down (CN convention)':'CNY 기준 · 색상: 적색=상승 · 녹색=하락 (중국 관례)';
+        var rf=document.getElementById('strat-ref'); if(rf) rf.textContent=DATA.ref_date||'';
+      }
+      window.__renderStrat=render;
+      fetch('data/commodities.json?t='+Date.now()).then(function(r){return r.json();}).then(function(d){ DATA=d; render(); setTimeout(render,800); }).catch(function(){ var b=document.getElementById('strat-pe'); if(b) b.innerHTML='<tr><td style="color:var(--muted)">—</td></tr>'; });
+      document.addEventListener('click', function(e){ var sp=e.target.closest?e.target.closest('#lang-toggle span[data-lang]'):null; if(sp) setTimeout(render,30); });
+    })();
+    </script>
+    <!-- ===== sec-rates ===== -->
+    <div class="panel" id="sec-rates" style="background:var(--bg);padding:10px 12px;margin-bottom:10px">
+      <div class="panel-head">
+        <div class="panel-title"><span id="rates-title">금리·통화·부동산</span> <span class="badge-live">MONTHLY</span><span class="ts" id="rates-updated" style="margin-left:6px"></span></div>
+        <span class="ts" id="rates-src" style="font-size:10px;color:var(--muted)"></span>
+      </div>
+      <div id="rates-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px;margin-top:6px">
+        <div style="color:var(--muted);font-style:italic;padding:10px">Loading…</div>
+      </div>
+    </div>
+    <script>
+    (function(){
+      var DATA=null;
+      function render(){
+        var el=document.getElementById('rates-grid'); if(!el||!DATA)return;
+        var en=(window.CN_LANG==='en');
+        var tt=document.getElementById('rates-title'); if(tt) tt.textContent= en?'Rates · Money · Property':'금리·통화·부동산';
+        el.innerHTML='';
+        (DATA.indicators||[]).forEach(function(it){
+          var delta=(it.value!=null&&it.previous!=null)?(it.value-it.previous):null;
+          var arrow=''; if(delta!=null&&Math.abs(delta)>1e-9){ arrow=(delta>0?'▲':'▼')+' '+(Math.round(Math.abs(delta)*100)/100); } else if(delta!=null){ arrow='—'; }
+          var label=en?(it.label_en||it.label):it.label;
+          var hint=en?(it.hint_en||''):(it.hint||'');
+          var ref=en?(it.ref_en||it.ref||''):(it.ref||'');
+          var card=document.createElement('div');
+          card.style.cssText='background:var(--line-grid);border-radius:4px;padding:9px 11px;display:flex;flex-direction:column;gap:2px';
+          card.innerHTML='<div style="font-size:11px;color:var(--muted)">'+label+'</div>'+
+            '<div style="font-size:20px;font-weight:700;color:var(--text);font-family:\'JetBrains Mono\',monospace">'+it.display+'</div>'+
+            '<div style="font-size:10px;color:var(--muted)">'+ref+(arrow?(' · '+arrow):'')+(hint?(' · '+hint):'')+'</div>';
+          el.appendChild(card);
+        });
+        var u=document.getElementById('rates-updated'); if(u) u.textContent=(DATA.as_of||'');
+        var sp=document.getElementById('rates-src'); if(sp&&DATA.source){ sp.textContent=(en?'Source: ':'출처: ')+DATA.source; }
+      }
+      window.__renderRates=render;
+      fetch('data/rates_property_latest.json?t='+Date.now()).then(function(r){return r.json();}).then(function(d){ DATA=d; render(); setTimeout(render,800); }).catch(function(){ var el=document.getElementById('rates-grid'); if(el) el.innerHTML='<div style="color:var(--muted);font-style:italic;padding:10px">…</div>'; });
+      document.addEventListener('click', function(e){ var s2=e.target.closest?e.target.closest('#lang-toggle span[data-lang]'):null; if(s2) setTimeout(render,30); });
+    })();
+    </script>
+    <!-- ===== sec-macro ===== -->
+    <div class="panel" id="sec-macro" style="background:var(--bg);padding:10px 12px;margin-bottom:10px">
+      <div class="panel-head">
+        <div class="panel-title"><span id="macro-title">중국 거시경제</span> <span class="badge-live">MONTHLY</span><span class="ts" id="macro-updated" style="margin-left:6px"></span></div>
+        <span class="ts" id="macro-src" style="font-size:10px;color:var(--muted)"></span>
+      </div>
+      <div id="macro-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px;margin-top:6px">
+        <div style="color:var(--muted);font-style:italic;padding:10px">Loading…</div>
+      </div>
+    </div>
+    <script>
+    (function(){
+      var DATA=null;
+      function render(){
+        var el=document.getElementById('macro-grid'); if(!el||!DATA)return;
+        var en=(window.CN_LANG==='en');
+        var tt=document.getElementById('macro-title'); if(tt) tt.textContent= en?'China Macro':'중국 거시경제';
+        el.innerHTML='';
+        (DATA.indicators||[]).forEach(function(it){
+          var delta=(it.value!=null&&it.previous!=null)?(it.value-it.previous):null;
+          var arrow=''; if(delta!=null&&Math.abs(delta)>1e-9){ arrow=(delta>0?'▲':'▼')+' '+(Math.round(Math.abs(delta)*100)/100); } else if(delta!=null){ arrow='—'; }
+          var label=en?(it.label_en||it.label):it.label;
+          var hint=en?(it.hint_en||''):(it.hint||'');
+          var ref=en?(it.ref_en||it.ref||''):(it.ref||'');
+          var card=document.createElement('div');
+          card.style.cssText='background:var(--line-grid);border-radius:4px;padding:9px 11px;display:flex;flex-direction:column;gap:2px';
+          card.innerHTML='<div style="font-size:11px;color:var(--muted)">'+label+'</div>'+
+            '<div style="font-size:20px;font-weight:700;color:var(--text);font-family:\'JetBrains Mono\',monospace">'+it.display+'</div>'+
+            '<div style="font-size:10px;color:var(--muted)">'+ref+(arrow?(' · '+arrow):'')+(hint?(' · '+hint):'')+'</div>';
+          el.appendChild(card);
+        });
+        var u=document.getElementById('macro-updated'); if(u) u.textContent=(DATA.as_of||'');
+        var sp=document.getElementById('macro-src'); if(sp&&DATA.source){ sp.textContent=(en?'Source: ':'출처: ')+DATA.source; }
+      }
+      window.__renderMacro=render;
+      fetch('data/macro_latest.json?t='+Date.now()).then(function(r){return r.json();}).then(function(d){ DATA=d; render(); setTimeout(render,800); }).catch(function(){ var el=document.getElementById('macro-grid'); if(el) el.innerHTML='<div style="color:var(--muted);font-style:italic;padding:10px">…</div>'; });
+      document.addEventListener('click', function(e){ var s2=e.target.closest?e.target.closest('#lang-toggle span[data-lang]'):null; if(s2) setTimeout(render,30); });
+    })();
+    </script>
+
 
     <div class="center-header">
       <div class="ticker-display">600519.SH</div>
