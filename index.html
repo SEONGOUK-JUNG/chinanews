@@ -1774,4 +1774,78 @@ window.addEventListener('load', function(){
     var tb=table.tBodies[0]; if(!tb) return;
     var rows=Array.prototype.slice.call(tb.querySelectorAll('tr'));
     rows=rows.filter(function(r){return r.querySelectorAll('td').length>col;});
-    rows.sort(function(
+    rows.sort(function(a,b){
+      var x=a.querySelectorAll('td')[col].textContent.trim(), y=b.querySelectorAll('td')[col].textContent.trim();
+      var nx=cellNum(x), ny=cellNum(y);
+      var r = (nx!=null&&ny!=null) ? (nx-ny) : x.localeCompare(y);
+      return asc? r : -r;
+    });
+    rows.forEach(function(r){ tb.appendChild(r); });
+  }
+  document.addEventListener('click', function(e){
+    var th=e.target.closest? e.target.closest('table.dt thead th') : null; if(!th) return;
+    var tr=th.parentNode, ths=Array.prototype.slice.call(tr.children), col=ths.indexOf(th);
+    var table=th.closest('table'); if(!table) return;
+    var asc = table.getAttribute('data-sort-col')==String(col) ? table.getAttribute('data-sort-asc')!=='true' : true;
+    table.setAttribute('data-sort-col',col); table.setAttribute('data-sort-asc',asc);
+    ths.forEach(function(h){ h.style.cursor='pointer'; h.textContent=h.textContent.replace(/[ ▲▼]+$/,''); });
+    th.textContent=th.textContent.replace(/[ ▲▼]+$/,'')+(asc?' ▲':' ▼');
+    sortTable(table, col, asc);
+  });
+  document.addEventListener('DOMContentLoaded', function(){
+    document.querySelectorAll('table.dt thead th').forEach(function(h){ h.style.cursor='pointer'; h.title='Click to sort'; });
+  });
+})();
+</script>
+<script>
+/* Header index ticker — auto-scroll marquee (right→left), live-value safe */
+(function(){
+  function init(){
+    var strip=document.querySelector('.idx-strip');
+    if(!strip || strip.classList.contains('idx-running')) return;
+    var cells=Array.prototype.slice.call(strip.children);
+    if(cells.length<2) return;
+    var st=document.createElement('style');
+    st.textContent='.idx-strip.idx-running{overflow:hidden}.idx-mq{display:flex;flex:0 0 auto;width:max-content;animation:idxscroll 55s linear infinite}.idx-strip.idx-running:hover .idx-mq{animation-play-state:paused}@keyframes idxscroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}@media(prefers-reduced-motion:reduce){.idx-mq{animation:none}}';
+    document.head.appendChild(st);
+    var mq=document.createElement('div'); mq.className='idx-mq';
+    cells.forEach(function(c){ mq.appendChild(c); });
+    cells.forEach(function(c){ var d=c.cloneNode(true); d.removeAttribute('id'); d.querySelectorAll('[id]').forEach(function(e){e.removeAttribute('id');}); mq.appendChild(d); });
+    strip.appendChild(mq); strip.classList.add('idx-running');
+    var n=cells.length;
+    setInterval(function(){ var a=mq.children; for(var i=0;i<n;i++){ if(a[n+i]&&a[i]) a[n+i].innerHTML=a[i].innerHTML.replace(/\sid="[^"]*"/g,''); } }, 3000);
+  }
+  if(document.readyState==='loading') document.addEventListener('DOMContentLoaded', init); else init();
+})();
+</script>
+<script>
+/* Commodity technical indicators (RSI/MACD/MA) — computed from held daily closes */
+(function(){
+  function ema(vals,p){ var k=2/(p+1), out=[], e; for(var i=0;i<vals.length;i++){ e=(i===0)?vals[i]:vals[i]*k+e*(1-k); out.push(e); } return out; }
+  function rsi(c,p){ if(c.length<p+1) return null; var g=0,l=0,i,d; for(i=1;i<=p;i++){ d=c[i]-c[i-1]; if(d>=0)g+=d; else l-=d; } g/=p; l/=p; for(i=p+1;i<c.length;i++){ d=c[i]-c[i-1]; g=(g*(p-1)+(d>0?d:0))/p; l=(l*(p-1)+(d<0?-d:0))/p; } if(l===0) return 100; var rs=g/l; return 100-100/(1+rs); }
+  function macd(c){ if(c.length<26) return null; var e12=ema(c,12), e26=ema(c,26), line=[]; for(var i=0;i<c.length;i++) line.push(e12[i]-e26[i]); var sig=ema(line.slice(25),9); var m=line[line.length-1], s=sig[sig.length-1]; return {macd:m, signal:s, hist:m-s}; }
+  function sma(c,p){ if(c.length<p) return null; var s=0; for(var i=c.length-p;i<c.length;i++) s+=c[i]; return s/p; }
+  window.renderCmIndicators=function(vals){
+    var el=document.getElementById('cm-indicators'); if(!el) return;
+    var c=(vals||[]).map(function(p){return p.value;}).filter(function(v){return v!=null && !isNaN(v);});
+    if(c.length<15){ el.textContent='Indicators need ≥15 days of data.'; return; }
+    var r=rsi(c,14), mk=macd(c), ma5=sma(c,5), ma20=sma(c,20), parts=[];
+    if(r!=null){ var z=r>=70?'overbought':(r<=30?'oversold':'neutral'), col=r>=70?'#ff5555':(r<=30?'#00e5a0':'var(--muted)'); parts.push('RSI(14) <b style="color:'+col+'">'+r.toFixed(1)+'</b> ('+z+')'); }
+    if(mk){ parts.push('MACD <b style="color:'+(mk.hist>=0?'#ff5555':'#00e5a0')+'">'+mk.macd.toFixed(2)+'</b> · sig '+mk.signal.toFixed(2)+' · '+(mk.hist>=0?'bullish':'bearish')); }
+    if(ma5!=null&&ma20!=null){ parts.push('MA5 '+ma5.toFixed(2)+' · MA20 '+ma20.toFixed(2)+' ('+(ma5>=ma20?'above':'below')+')'); }
+    el.innerHTML=parts.join('  &nbsp;|&nbsp;  ')+' <span style="color:var(--text3)">· from daily closes</span>';
+  };
+  window.renderStockIndicators=function(cd){
+    var rb=document.getElementById('stk-rsi-bar'), mb=document.getElementById('stk-macd-bar');
+    if(!cd||!cd.length) return;
+    var closes=cd.map(function(x){return x.close;}).filter(function(v){return v!=null&&!isNaN(v);});
+    var r=rsi(closes,14), mk=macd(closes), k=null, dd=null;
+    if(cd.length>=14){ var ks=[]; for(var j=13;j<cd.length;j++){ var hi=-Infinity,lo=Infinity; for(var t=j-13;t<=j;t++){ if(cd[t].high>hi)hi=cd[t].high; if(cd[t].low<lo)lo=cd[t].low; } ks.push(hi===lo?50:(cd[j].close-lo)/(hi-lo)*100); } k=ks[ks.length-1]; if(ks.length>=3) dd=(ks[ks.length-1]+ks[ks.length-2]+ks[ks.length-3])/3; }
+    var vol=cd[cd.length-1].volume;
+    if(rb){ var p=[]; if(r!=null){ var z=r>=70?'overbought':(r<=30?'oversold':'neutral'), col=r>=70?'#ff5555':(r<=30?'#00e5a0':'inherit'); p.push('RSI(14) <b style="color:'+col+'">'+r.toFixed(1)+'</b> ('+z+')'); } if(k!=null) p.push('Stoch %K '+k.toFixed(1)+(dd!=null?(' · %D '+dd.toFixed(1)):'')); rb.innerHTML=p.length?p.join(' &nbsp;|&nbsp; '):'—'; }
+    if(mb){ var q=[]; if(mk) q.push('MACD <b style="color:'+(mk.hist>=0?'#ff5555':'#00e5a0')+'">'+mk.macd.toFixed(2)+'</b> · sig '+mk.signal.toFixed(2)+' · '+(mk.hist>=0?'bullish':'bearish')); if(vol!=null) q.push('Vol '+Number(vol).toLocaleString('en-US')); mb.innerHTML=q.length?q.join(' &nbsp;|&nbsp; '):'—'; }
+  };
+})();
+</script>
+</body>
+</html>
