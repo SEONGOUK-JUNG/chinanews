@@ -1,0 +1,69 @@
+{
+  "run_at_kst": "2026-06-12T15:56:19+09:00",
+  "schema_version": "1.0",
+  "query": "중국 경제",
+  "source": "Google News (한국어)",
+  "count": 10,
+  "items": [
+    {
+      "title": "중국 증시 반등 기미, 하반기 유망 분야는 \"AI하드웨어·원자재\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VRUg3VHRnQ0tmRS1ad3J6UERFaHotNDBtTzFKUTBXMmU5Sk16emZSTUVtanpUQ2ZmUnNSUHFDa2FiNzBxVEdhR3VVLWFOY1BKVzNsb1hfN2lTdzdpOTlicg?oc=5",
+      "source": "네이트",
+      "date": "Fri, 12 Jun 2026 06:44:00 GMT"
+    },
+    {
+      "title": "국제유가, 생각보다는 안 뛴 의외의 이유?…″중국이 수입 줄여 숨통″",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4R19mMlhwWUtMUVJ5S0IxQlVXNzMxaFhBRkZWc1dNdzVIVlhCVnBlQ3hhREJpbFd3cEM5emVXb2dFZTEzVHJUNURXMmVFQThHTEVTZW1BQzJDTVFVTVZjd2NNc0ExWVE?oc=5",
+      "source": "연합뉴스TV",
+      "date": "Fri, 12 Jun 2026 06:26:16 GMT"
+    },
+    {
+      "title": "중국은 주요 G7 회의를 앞두고 경제 협력 강화를 촉구했다.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRUFnd2hzcW5wUlhCT0tQWXEzVGZKaHVPS0IxeTBBZl93Z3lBTE5NUGRrc2NnYkY4NXAydXNhbnRQUHUxeTRyYzV5UzhTcHFUZzBiMjdfNFlIYUNKUmd3LVd2ZTI3cTdBTXNENDE2aFpmdklzcVpma1hnQlBqTkxDc2wtYzdndUxJazB5NU9lNC1YQzVNSzRvMGFKY3VIZW1YSkI0N0p5WFphdlR0eDA4QjRZbWg?oc=5",
+      "source": "Vietnam.vn",
+      "date": "Fri, 12 Jun 2026 02:46:31 GMT"
+    },
+    {
+      "title": "광주상공회의소, 중국 수이펀허(綏芬河)와 경제협력 물꼬… '동북아 진출 거점' 확보",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oWFFFZGRFSXZVQk1tY1J1WlhNYlN4YlBKUWhxN1VwaWI3T2lrUXhjZ1pnOUVIYVhsZGlsUFJ5VExxTm5XZzFyNmFrWWxNR2JVWllDdllOV18za05OcVZ3bjR4eWhyVmh3cHJSSQ?oc=5",
+      "source": "광주in",
+      "date": "Thu, 11 Jun 2026 10:58:17 GMT"
+    },
+    {
+      "title": "中경제계획수장 \"에너지 안보 수준 상향…전면 절약전략 실시\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hX2ZFZTVZR2NLWk5NV3BJVGNra3ptWElubVFUTVV0bEdaUm0xODk3a2RQaFFSTDVEbDV5ZGhSM0JUYWllRDR3eFVNWTZxeFJleDZIdnJIb1lSOVFIMXU4etIBYEFVX3lxTE9hX2ZFZTVZR2NLWk5NV3BJVGNra3ptWElubVFUTVV0bEdaUm0xODk3a2RQaFFSTDVEbDV5ZGhSM0JUYWllRDR3eFVNWTZxeFJleDZIdnJIb1lSOVFIMXU4eg?oc=5",
+      "source": "연합뉴스",
+      "date": "Thu, 11 Jun 2026 02:58:04 GMT"
+    },
+    {
+      "title": "美경제 규모 추월할거란 ‘중국몽’...이제는 인도에 추월당할까 걱정",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kV0I1QVVxaDhVSjZoTHhxU0lWOUExZEVWc1dpYnpLdzVMMVo1cEVGM3FXMlMzTUZRRDNhcXhuYm5ZQlNYYkZfMjNGamRIclJCOTFTbmozTllWLUwxYzNuYk9QRkltZmJta292Vjlpam5rWFh1SF9rRg?oc=5",
+      "source": "조선일보",
+      "date": "Wed, 10 Jun 2026 08:04:00 GMT"
+    },
+    {
+      "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Tue, 09 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "북 [노동신문], 시진핑 방북에 맞춰 “중국경제 활기있게 발전”",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iUkJnYlAzbTFScFAzOXZSdFZHWEo0Q09lYnlxN1R0c19lTlBGemtqYVBDd3EzMGw5R1Nkd0U2c3U0MkFaOVFKbDlQcVptWkNXaWpSQ1NnMFBSdUhGQU00V0tXT0tlckZ6MVZWQi13?oc=5",
+      "source": "통일뉴스",
+      "date": "Tue, 09 Jun 2026 03:28:54 GMT"
+    },
+    {
+      "title": "[대일논단] 중국경제는 살아나는가, 버티는가",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxSXV4a0ZJbDQ1WkJpUUMtZGxGQ0JLOXVzT2Exa05rdWY4d05uclBpTFdETnQyMUpYcTJRZmtqTDhEZFRhTVp6VjY3S21qT3dSc1RuSjUxSW5qVWxXSVBkNkNJanVYNlUtNWJ5VkQ0VdIBc0FVX3lxTE1RZDdhN3RBcFRoanBLZFZkMmlMcWVtNG1aSDlyYTk1T3ZRRGNXa2l6VHNxeE4wMGcxVVIzY3VHclBZOFdZTjYwV0diV191Sl9CYktLWjVQa0xvSXNLTjNQVGM1cUVaQnA4UkI3M2tIejdUR1k?oc=5",
+      "source": "대전일보",
+      "date": "Sun, 07 Jun 2026 22:00:00 GMT"
+    },
+    {
+      "title": "중국 26.1분기 경제성장률(5.0%)에 대한 현지 평가",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMFduOE92X1RuX0EtWTVta05GTzBGektIWkRMNUJpaVRxQWtwSThxZVdpNmlJYU1JRHVBUGJOY1UzeTRUc0NCUUtEZkRvNjJ6c3VqR2tYTVpXbVV4R09SdGl4SzBPVjVFRXRYT1hGbDU0Ul9rSFdOZ2YyTlZSRzdSdw?oc=5",
+      "source": "한국개발연구원(KDI)",
+      "date": "Mon, 18 May 2026 18:11:40 GMT"
+    }
+  ]
+}
