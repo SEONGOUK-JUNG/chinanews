@@ -2,7 +2,7 @@
   "id": "rebar",
   "name": "이형철근",
   "unit": "CNY/t",
-  "updated_at_kst": "2026-06-12T15:17:16+09:00",
+  "updated_at_kst": "2026-06-13T07:07:39+09:00",
   "count": 40,
   "candles": [
     {
@@ -163,7 +163,7 @@
     },
     {
       "time": "2026-06-12",
-      "value": 3195.62
+      "value": 3197.28
     }
   ],
   "history_note": "2026-06 SunSirs 일별가(최근 6일) 시드. 이후 매일 누적.",
