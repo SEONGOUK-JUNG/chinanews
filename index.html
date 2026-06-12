@@ -739,14 +739,13 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
       <button class="close-btn" id="modal-close" title="Close">✕</button>
     </div>
     <div class="modal-search">
-      <input type="text" id="modal-search-input" placeholder="Search symbol or name (e.g., 600519, Samsung, BABA, Tencent)" autocomplete="off">
+      <input type="text" id="modal-search-input" placeholder="Search symbol or name (e.g., 600519, BABA, Tencent, BYD)" autocomplete="off">
     </div>
     <div class="modal-filters" id="modal-filters">
       <span class="modal-filter active" data-filter="all">All</span>
       <span class="modal-filter" data-filter="a_stock">A-share</span>
       <span class="modal-filter" data-filter="hk_stock">H-share</span>
       <span class="modal-filter" data-filter="us_adr">ADR</span>
-      <span class="modal-filter" data-filter="kr_stock">KR</span>
     </div>
     <div class="modal-list" id="modal-list"></div>
     <div class="modal-foot"><span id="modal-count">50</span> symbols · click to add/remove</div>
