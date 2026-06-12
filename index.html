@@ -347,6 +347,38 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
   </div>
 
   <div class="center-main">
+    <!-- ===== CHINA MACRO DASHBOARD ===== -->
+    <div class="panel" id="sec-macro" style="background:var(--bg);padding:10px 12px;margin-bottom:10px">
+      <div class="panel-head">
+        <div class="panel-title">China Macro · 중국 거시경제 <span class="badge-live">MONTHLY</span><span class="ts" id="macro-updated" style="margin-left:6px"></span></div>
+        <span class="ts" id="macro-src" style="font-size:10px;color:var(--muted)"></span>
+      </div>
+      <div id="macro-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px;margin-top:6px">
+        <div style="color:var(--muted);font-style:italic;padding:10px">Loading…</div>
+      </div>
+    </div>
+    <script>
+    (function(){
+      fetch('data/macro_latest.json?t='+Date.now()).then(function(r){return r.json();}).then(function(d){
+        var el=document.getElementById('macro-grid'); if(!el)return;
+        el.innerHTML='';
+        (d.indicators||[]).forEach(function(it){
+          var delta=(it.value!=null&&it.previous!=null)?(it.value-it.previous):null;
+          var arrow='';
+          if(delta!=null&&Math.abs(delta)>1e-9){ arrow=(delta>0?'▲':'▼')+' '+(Math.round(Math.abs(delta)*100)/100); }
+          else if(delta!=null){ arrow='—'; }
+          var card=document.createElement('div');
+          card.style.cssText='background:var(--line-grid);border-radius:4px;padding:9px 11px;display:flex;flex-direction:column;gap:2px';
+          card.innerHTML='<div style="font-size:11px;color:var(--muted)">'+it.label+'</div>'+
+            '<div style="font-size:20px;font-weight:700;color:var(--text);font-family:\'JetBrains Mono\',monospace">'+it.display+'</div>'+
+            '<div style="font-size:10px;color:var(--muted)">'+(it.ref||'')+(arrow?(' · '+arrow):'')+(it.hint?(' · '+it.hint):'')+'</div>';
+          el.appendChild(card);
+        });
+        var u=document.getElementById('macro-updated'); if(u) u.textContent=(d.as_of||'');
+        var s=document.getElementById('macro-src'); if(s&&d.source){ s.textContent='출처: '+d.source; if(d.source_url) s.title=d.source_url; }
+      }).catch(function(){ var el=document.getElementById('macro-grid'); if(el) el.innerHTML='<div style="color:var(--muted);font-style:italic;padding:10px">거시지표 수집 대기 중…</div>'; });
+    })();
+    </script>
     <!-- ===== COMMODITY HERO (top priority) ===== -->
     <!-- ===== Pulse (left) + Industrial Heatmap (right) row ===== -->
     <div id="sec-commodities" style="display:grid;grid-template-columns:minmax(280px,360px) minmax(0,1fr);gap:10px;align-items:start">
@@ -1660,7 +1692,6 @@ window.addEventListener('load', function(){
 <script>
 /* ===== Quick wins: CSV export + sortable tables (decoupled, append-only) ===== */
 (function(){
-  // --- CSV export of all commodities ---
   function toCsvVal(v){ v=(v==null?'':String(v)); return /[",\n]/.test(v)? '"'+v.replace(/"/g,'""')+'"' : v; }
   function downloadCsv(){
     fetch('data/commodities.json?t='+Date.now()).then(function(r){return r.json();}).then(function(d){
@@ -1682,7 +1713,6 @@ window.addEventListener('load', function(){
   }
   document.addEventListener('click', function(e){ if(e.target && e.target.id==='cm-csv-btn') downloadCsv(); });
 
-  // --- Sortable tables (.dt) ---
   function cellNum(s){ var n=parseFloat(String(s).replace(/[^0-9.\-]/g,'')); return isNaN(n)?null:n; }
   function sortTable(table, col, asc){
     var tb=table.tBodies[0]; if(!tb) return;
@@ -1706,7 +1736,6 @@ window.addEventListener('load', function(){
     th.textContent=th.textContent.replace(/[ ▲▼]+$/,'')+(asc?' ▲':' ▼');
     sortTable(table, col, asc);
   });
-  // hint: make headers look clickable
   document.addEventListener('DOMContentLoaded', function(){
     document.querySelectorAll('table.dt thead th').forEach(function(h){ h.style.cursor='pointer'; h.title='Click to sort'; });
   });
@@ -1746,16 +1775,4 @@ window.addEventListener('load', function(){
     if(c.length<15){ el.textContent='Indicators need ≥15 days of data.'; return; }
     var r=rsi(c,14), mk=macd(c), ma5=sma(c,5), ma20=sma(c,20), parts=[];
     if(r!=null){ var z=r>=70?'overbought':(r<=30?'oversold':'neutral'), col=r>=70?'#ff5555':(r<=30?'#00e5a0':'var(--muted)'); parts.push('RSI(14) <b style="color:'+col+'">'+r.toFixed(1)+'</b> ('+z+')'); }
-    if(mk){ parts.push('MACD <b style="color:'+(mk.hist>=0?'#ff5555':'#00e5a0')+'">'+mk.macd.toFixed(2)+'</b> · sig '+mk.signal.toFixed(2)+' · '+(mk.hist>=0?'bullish':'bearish')); }
-    if(ma5!=null&&ma20!=null){ parts.push('MA5 '+ma5.toFixed(2)+' · MA20 '+ma20.toFixed(2)+' ('+(ma5>=ma20?'above':'below')+')'); }
-    el.innerHTML=parts.join('  &nbsp;|&nbsp;  ')+' <span style="color:var(--text3)">· from daily closes</span>';
-  };
-  window.renderStockIndicators=function(cd){
-    var rb=document.getElementById('stk-rsi-bar'), mb=document.getElementById('stk-macd-bar');
-    if(!cd||!cd.length) return;
-    var closes=cd.map(function(x){return x.close;}).filter(function(v){return v!=null&&!isNaN(v);});
-    var r=rsi(closes,14), mk=macd(closes), k=null, dd=null;
-    if(cd.length>=14){ var ks=[]; for(var j=13;j<cd.length;j++){ var hi=-Infinity,lo=Infinity; for(var t=j-13;t<=j;t++){ if(cd[t].high>hi)hi=cd[t].high; if(cd[t].low<lo)lo=cd[t].low; } ks.push(hi===lo?50:(cd[j].close-lo)/(hi-lo)*100); } k=ks[ks.length-1]; if(ks.length>=3) dd=(ks[ks.length-1]+ks[ks.length-2]+ks[ks.length-3])/3; }
-    var vol=cd[cd.length-1].volume;
-    if(rb){ var p=[]; if(r!=null){ var z=r>=70?'overbought':(r<=30?'oversold':'neutral'), col=r>=70?'#ff5555':(r<=30?'#00e5a0':'inherit'); p.push('RSI(14) <b style="color:'+col+'">'+r.toFixed(1)+'</b> ('+z+')'); } if(k!=null) p.push('Stoch %K '+k.toFixed(1)+(dd!=null?(' · %D '+dd.toFixed(1)):'')); rb.innerHTML=p.length?p.join(' &nbsp;|&nbsp; '):'—'; }
- 
+    if(mk){ parts.pus
