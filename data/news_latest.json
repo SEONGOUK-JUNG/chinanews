@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-06-13T07:10:01+09:00",
+  "run_at_kst": "2026-06-14T07:12:50+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,60 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Fuel Tax Changes Hit Six States As Energy Inflation Accelerates",
+      "link": "https://oilprice.com/Energy/Energy-General/Fuel-Tax-Changes-Hit-Six-States-As-Energy-Inflation-Accelerates.html",
+      "source": "OilPrice",
+      "date": "Sat, 13 Jun 2026 16:00:00 -0500"
+    },
+    {
+      "title": "The Promise and Peril of Jamaica’s Offshore Oil Ambitions",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Promise-and-Peril-of-Jamaicas-Offshore-Oil-Ambitions.html",
+      "source": "OilPrice",
+      "date": "Sat, 13 Jun 2026 14:00:00 -0500"
+    },
+    {
+      "title": "Baffinland gets $110M loan, court-approved extension",
+      "link": "https://www.mining.com/baffinland-gets-110m-loan-court-approved-extension/",
+      "source": "mining.com",
+      "date": "Sat, 13 Jun 2026 17:30:17 +0000"
+    },
+    {
+      "title": "UK Sets January 2027 Deadline for Ban on Fuel Made From Russian Crude",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/UK-Sets-January-2027-Deadline-for-Ban-on-Fuel-Made-From-Russian-Crude.html",
+      "source": "OilPrice",
+      "date": "Sat, 13 Jun 2026 12:30:00 -0500"
+    },
+    {
+      "title": "Russia, China, and Iran Are Joining Forces Against Western Pressure",
+      "link": "https://oilprice.com/Geopolitics/North-America/Russia-China-and-Iran-Are-Joining-Forces-Against-Western-Pressure.html",
+      "source": "OilPrice",
+      "date": "Sat, 13 Jun 2026 12:00:00 -0500"
+    },
+    {
+      "title": "Rising Energy Bills Are Fueling a Global Home Battery Boom",
+      "link": "https://oilprice.com/Energy/Energy-General/Rising-Energy-Bills-Are-Fueling-a-Global-Home-Battery-Boom.html",
+      "source": "OilPrice",
+      "date": "Sat, 13 Jun 2026 10:00:00 -0500"
+    },
+    {
+      "title": "The Oil Market Could Be Weeks From a Breaking Point",
+      "link": "https://oilprice.com/Energy/Crude-Oil/The-Oil-Market-Could-Be-Weeks-From-a-Breaking-Point.html",
+      "source": "OilPrice",
+      "date": "Fri, 12 Jun 2026 18:00:00 -0500"
+    },
+    {
+      "title": "Op-Ed: Scripted to fail — Europe’s critical minerals blind spot",
+      "link": "https://www.mining.com/op-ed-scripted-to-fail-europes-critical-minerals-blind-spot/",
+      "source": "mining.com",
+      "date": "Fri, 12 Jun 2026 23:00:00 +0000"
+    },
+    {
+      "title": "Silver stockpile drawdown risk is misunderstood",
+      "link": "https://www.mining.com/silver-stockpile-drawdown-risk-is-misunderstood/",
+      "source": "mining.com",
+      "date": "Fri, 12 Jun 2026 22:03:00 +0000"
+    },
     {
       "title": "China's Fusion Reactor on Track for Ignition by 2027, Threatening U.S. Lead",
       "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Chinas-Fusion-Reactor-on-Track-for-Ignition-by-2027-Threatening-US-Lead.html",
@@ -20,7 +74,7 @@
       "date": "Fri, 12 Jun 2026 21:44:54 +0000"
     },
     {
-      "title": "Hertha Metals targets rare-earth magnet supply gap with Texas high-purity iron plant",
+      "title": "Hertha Metals targets rare earth magnet supply gap with Texas high-purity iron plant",
       "link": "https://www.mining.com/hertha-metals-targets-rare-earth-magnet-supply-gap-with-texas-high-purity-iron-plant/",
       "source": "mining.com",
       "date": "Fri, 12 Jun 2026 21:03:19 +0000"
@@ -32,64 +86,10 @@
       "date": "Fri, 12 Jun 2026 15:00:00 -0500"
     },
     {
-      "title": "U.S. and Uzbekistan Deepen Economic Ties With New Investment Pact",
-      "link": "https://oilprice.com/Energy/Energy-General/US-and-Uzbekistan-Deepen-Economic-Ties-With-New-Investment-Pact.html",
-      "source": "OilPrice",
-      "date": "Fri, 12 Jun 2026 13:00:00 -0500"
-    },
-    {
-      "title": "Pace of US Oil Drilling Inches Up",
-      "link": "https://oilprice.com/Energy/Energy-General/Pace-of-US-Oil-Drilling-Inches-Up.html",
-      "source": "OilPrice",
-      "date": "Fri, 12 Jun 2026 12:12:00 -0500"
-    },
-    {
-      "title": "U.S. Military Helping Move 7 Million Bpd Out of Persian Gulf, Wright Says",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Military-Helping-Move-7-Million-Bpd-Out-of-Persian-Gulf-Wright-Says.html",
-      "source": "OilPrice",
-      "date": "Fri, 12 Jun 2026 11:30:00 -0500"
-    },
-    {
-      "title": "A War of Words Sends Brent Crude to a Two-Month Low",
-      "link": "https://oilprice.com/Energy/Crude-Oil/A-War-of-Words-Sends-Brent-Crude-to-a-Two-Month-Low.html",
-      "source": "OilPrice",
-      "date": "Fri, 12 Jun 2026 10:54:00 -0500"
-    },
-    {
       "title": "Triple Flag buys gold stream on Ravenswood mine for $440M",
       "link": "https://www.mining.com/triple-flag-buys-gold-stream-on-ravenswood-mine-for-440m/",
       "source": "mining.com",
       "date": "Fri, 12 Jun 2026 15:51:18 +0000"
-    },
-    {
-      "title": "China’s gold market cools amid ETF outflows: report",
-      "link": "https://www.mining.com/chinas-gold-market-cools-amid-etf-outflows-report/",
-      "source": "mining.com",
-      "date": "Fri, 12 Jun 2026 15:43:47 +0000"
-    },
-    {
-      "title": "Europe Wary Of Too Much Dependence on U.S. LNG",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europe-Wary-Of-Too-Much-Dependence-on-US-LNG.html",
-      "source": "OilPrice",
-      "date": "Fri, 12 Jun 2026 10:30:00 -0500"
-    },
-    {
-      "title": "Norsk Hydro hit by second aluminum supply crisis",
-      "link": "https://www.mining.com/norsk-hydro-hit-by-second-aluminum-supply-crisis/",
-      "source": "mining.com",
-      "date": "Fri, 12 Jun 2026 15:23:00 +0000"
-    },
-    {
-      "title": "Nigeria's Crude Oil Production Hits 15-Month High",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Nigerias-Crude-Oil-Production-Hits-15-Month-High.html",
-      "source": "OilPrice",
-      "date": "Fri, 12 Jun 2026 09:30:00 -0500"
-    },
-    {
-      "title": "Marenica growth backs Elevate’s Namibia uranium push",
-      "link": "https://www.mining.com/marenica-growth-backs-elevates-namibia-uranium-push/",
-      "source": "mining.com",
-      "date": "Fri, 12 Jun 2026 13:32:30 +0000"
     }
   ]
 }
