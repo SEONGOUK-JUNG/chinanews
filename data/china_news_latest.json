@@ -1,27 +1,51 @@
 {
-  "run_at_kst": "2026-06-14T07:14:54+09:00",
+  "run_at_kst": "2026-06-15T07:20:31+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "시진핑의 중국몽이 ‘일장춘몽’인 이유",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uVnVOME14WTlEOU5uVmhnbDZQNzUwcm1OYjhwdmppS2V1WEtMT3IyMFNWMHZHTEZ4RFpPem9GV1YwVGFxRFdzZktnMUNFaTh5WFNCOTZFM3FPUExPVWlkV0ZuTnJHRjNkNVHSAW5BVV95cUxPQllpN0djeTdadEFtbEk3bmo2QVNMbEptSmFwS0cteWJLVXZFSUFyNG92ZlE0YWVmXzFUeWNDc3o4VjFrUUFXVnByb2lzdVZQMm5yTWZPOTdhOGtVOHlhTFBhZE0zMVVvT2c1bUNmUQ?oc=5",
+      "source": "조선일보",
+      "date": "Sun, 14 Jun 2026 20:00:00 GMT"
+    },
+    {
+      "title": "“실물경제 지원 지속”… 중국 사회융자 규모 7.8% 증가",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15ZG9jc01rb0FMUEQwTFJJUWZoOHFUWm5jMk1kQUVtRjZwREtTakdycjhQZjh2N0Nva3RGamxqNkVuUWxyb1JKRlYzamxMZnJyVWFkaDdKRXhSZTBGMDlRc3hpN1ZEaTRUQVlV0gFvQVVfeXFMTkdaWXB1bmN3NXItczA4WUo3bE80bnVXTFBtcmxNd1BMc1FIU0xpckVDSnBPVHkyWkxTa1hlOU9aUnpmS2NtVzlPU1hweHk4TDdIcXVta0F3S3NRUkFBeFhZSzN3bkNuYjNWZGN4NFZv?oc=5",
+      "source": "한국보험신문",
+      "date": "Sun, 14 Jun 2026 15:00:00 GMT"
+    },
+    {
+      "title": "대만, 중국인 제보 전용 사이트 개설…'정보전' 수위 높였다",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQnBTNmZaWU9JbmE4dG0zRkM0aS14bFM4VF9keVNlN0tNLVZmTWREX1lVYXE1N3A0RmwzRUpidGxXdHpIbnlMUHh2Z2hfZTllNEdEbmRfNlVYYlFfZ0lyclF2blBzZ2JoRHh4M3B1aHZid2V3WFUyY1ZCTUN2bzFTMw?oc=5",
+      "source": "이데일리",
+      "date": "Sun, 14 Jun 2026 13:38:00 GMT"
+    },
+    {
+      "title": "“시진핑, 북한을 ‘카드’에서 ‘파트너’로 격상…비핵화는 북중 관계에서 공식 사망”",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SY2tiS3FSZnh2RU9KYlNXaXpIVmRJU0lRcmpqaGs1cDA2UDMwNDhqN0ZmdXNnclZ2OG96RUludi11Tm9jMmVwZldyMnV0TmR4WGRXX1pxZHI?oc=5",
+      "source": "에포크타임스",
+      "date": "Sun, 14 Jun 2026 13:05:38 GMT"
+    },
+    {
+      "title": "'AI라는 든든한 버스에 올라타자'…중국 첨단산업 현장 가보니",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ENmx1SnZTUjYzY295Nk1sNWVJWlBxWG41MnE1Z2o5Y1BlclZFWk1iQWRFU3dhUmpENmtqUmRoUmxybzRsc2JLRWVyaWhCdFU?oc=5",
+      "source": "v.daum.net",
+      "date": "Sun, 14 Jun 2026 06:57:51 GMT"
+    },
+    {
+      "title": "5년 새 두 배 폭증…중국 국가 부채 2경2000조원 돌파",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPdGtmejlVTS15N1otTER1RWhPcEdBWG94VDV2d25IMGRsODcxdUl2OTJ5S05jQzBrclIyY1V1X3JYLXZxZURZMm54WHdwQ054aDduMF8yRlZtZ2drdFA0eWdHVV9xZHBLd01sbzcyVQ?oc=5",
+      "source": "진일보",
+      "date": "Sun, 14 Jun 2026 06:41:58 GMT"
+    },
+    {
       "title": "부동산 붕괴 겪는 中 경제… 왜 AI는 ‘구원투수’가 되지 못했나",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcE5FVFFGS0NCZnJUWDNzTmx6SnYtazdIZm1vT2Ezc0g1cDdSQk9pSExLUDdxS0gyZXNuQ3I3Mk5Wd1g5VWF0X0xZaHZ5b3k4ZWpyemlQNG1hTTVpNk5VN2hoZnliVzljU1RkUnp1bFRzVENwT3lHeDVXRDNnWFRaTWNOUWcwaGg5?oc=5",
       "source": "글로벌이코노믹",
       "date": "Sat, 13 Jun 2026 20:30:00 GMT"
-    },
-    {
-      "title": "1조 달러 탈출…중국이 서둘러 돈줄을 막는 이유 | 김상순 박사 3편",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sZnlLRFdvTVFNQ1Zsem5EQ3liRWtoT0o4bnlXa1V3dm9STkx1N0JaXzh6UWZrTkJqM3Z2TUIzM2dJbGpmYzY1bTg2cHRwMjFXdVZVSlFsMTk?oc=5",
-      "source": "에포크타임스",
-      "date": "Sat, 13 Jun 2026 09:22:53 GMT"
-    },
-    {
-      "title": "경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00eks3YmFrQkxSVlZuRjl1MmlyU1RzTmR1WU5rMFFnbXY4eWpiNXE1bGtRQWdIZGJLNTZKamU2TVZrekc1MzlEWnRQNUJMenNKX1F5SEp3?oc=5",
-      "source": "현대경제연구원",
-      "date": "Sat, 13 Jun 2026 03:28:19 GMT"
     },
     {
       "title": "캐빈 류 \"중국 경제의 방향, 세가지 변수에 달렸다\"",
@@ -36,22 +60,10 @@
       "date": "Sat, 13 Jun 2026 01:20:01 GMT"
     },
     {
-      "title": "고환율에 얼어붙은 여행 심리...일본·중국으로 수요 쏠림↑",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OTy1BZUN0bmpfV2JUaHBvdUY5bmRPWS1SOGxjN2ZaaldxSUg3UXFjUGVoMUhsdWMwenk1QmRYb1NjVTRidmNINGZ6VGdDNjNRRWVEZzZHZlJBQmltLU5hYVlYeU96WDRmU2Vj0gFvQVVfeXFMTzV2QjlubHhhaERXZktqMmE2bkVTWGJWeUJoV2dqRERCNjVCVWdQZFJORzhIV3FRLTBzOUFLcFlYVW5qUXZuZ2FQR3p6SzAzV1FmUWoyc0ZkTWJVcW41WGpuWEl6Umc5US1ycUJUd3Fv?oc=5",
-      "source": "ntoday.co.kr",
-      "date": "Sat, 13 Jun 2026 00:57:03 GMT"
-    },
-    {
       "title": "중국 경제 내수 침체 탈피할까...중국증시 영향은?",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RcmpySFVfcmY1RXdhbl9lWmliVmRyMkdxa3BDczdlellIREp4M3ZKU0dJTllpbEFwX19iZmhUQUFDMWdmN1BjTzRzVGw1SlFNWmMyOUtVRUp1RE5GcnNKRDFjUThNNVVhXzV3VV9OVdIBc0FVX3lxTE5QMFphV2hyNVBCMDZEN2ZxUENjUTdkOFdVM1U3WnRjTGxDb1d1NGNvZTl5d0U3WjhVOFFYaF9wZkxFRWZhRGZMSnlEaDl1Z2RfLTZKNnFsT0VtVFQ4MnZDbDBxSGxlTzA4REtyV1ZlZXJvY28?oc=5",
       "source": "초이스경제",
       "date": "Fri, 12 Jun 2026 03:15:02 GMT"
-    },
-    {
-      "title": "美경제 규모 추월할거란 ‘중국몽’...이제는 인도에 추월당할까 걱정",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kV0I1QVVxaDhVSjZoTHhxU0lWOUExZEVWc1dpYnpLdzVMMVo1cEVGM3FXMlMzTUZRRDNhcXhuYm5ZQlNYYkZfMjNGamRIclJCOTFTbmozTllWLUwxYzNuYk9QRkltZmJta292Vjlpam5rWFh1SF9rRg?oc=5",
-      "source": "조선일보",
-      "date": "Wed, 10 Jun 2026 08:04:00 GMT"
     },
     {
       "title": "북 [노동신문], 시진핑 방북에 맞춰 “중국경제 활기있게 발전”",
@@ -64,18 +76,6 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcG84TzlDRHplRkdkX3dhNGVWVjJNdnJ0dGRobjFhTzNtZklJOWtESmo2TFFQaWI4X1d2ZXpSZWNyTTBBQlBrVER2YnJSN1lONlJKVFlvNnlkTU9SbDQ0STI2b1liMDQ0bVhiR3lPcm5VT1g5c0p5X0d5TFJrV0xVSw?oc=5",
       "source": "한국개발연구원(KDI)",
       "date": "Sat, 30 May 2026 03:17:58 GMT"
-    },
-    {
-      "title": "경제는 ‘흔들’ 기술은 ‘질주’하는 중국의 딜레마, 실체는?",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZG1sWUFDY2l6bFoyeFBUdTdzUjgwU1o0clpaZm5hSk9QU0NvUE5uQWdaelg0OFhKNXI2dXk5VnNjSVE5R3lwMkpDMFFiRzc1LW9nYnVn?oc=5",
-      "source": "중앙일보",
-      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "중국, '올해 경제성장률 목표 4.5∼5%' … 1991년 이후 최저",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwYmlaSWNYSFphZkhNRUhFeU9TMUNnRGNyakhLU2xaM2pBbDhRemxxbWd0RjI4UGJFQzVBa1k4ejlmM2RldmsyRXVWc0tzeFBkMVZEQkV0cXNiOWFi0gFiQVVfeXFMTmcyZTkwcThQa1NzcW9mVzNpbnZZbnBOSFJJQW9wWExGbUxwUDNUZ0lQSW5hcTJZd0hkUmJZRFpnd3REWWxYbWU4QjNISGFDRVdNbVlIRC12M2NZdG51TWdGd1E?oc=5",
-      "source": "BBC",
-      "date": "Thu, 05 Mar 2026 08:00:00 GMT"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-06-14T07:12:50+09:00",
+  "run_at_kst": "2026-06-15T07:20:31+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Nuclear Drives \"All of the Above\" Trend in Energy Security",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Nuclear-Drives-All-of-the-Above-Trend-in-Energy-Security.html",
+      "source": "OilPrice",
+      "date": "Sun, 14 Jun 2026 16:00:00 -0500"
+    },
+    {
+      "title": "Alaska’s Untapped Oil Wealth Is Still Struggling to Find Investors",
+      "link": "https://oilprice.com/Energy/Energy-General/Alaskas-Untapped-Oil-Wealth-Is-Still-Struggling-to-Find-Investors.html",
+      "source": "OilPrice",
+      "date": "Sun, 14 Jun 2026 14:00:00 -0500"
+    },
+    {
+      "title": "Silicon Valley’s AI Dreams Face a Blue-Collar Reality",
+      "link": "https://oilprice.com/Energy/Energy-General/Silicon-Valleys-AI-Dreams-Face-a-Blue-Collar-Reality.html",
+      "source": "OilPrice",
+      "date": "Sun, 14 Jun 2026 12:00:00 -0500"
+    },
+    {
+      "title": "Fiji Blocks Controversial Australian-Backed Waste Incinerator Project",
+      "link": "https://oilprice.com/Energy/Energy-General/Fiji-Blocks-Controversial-Australian-Backed-Waste-Incinerator-Project.html",
+      "source": "OilPrice",
+      "date": "Sun, 14 Jun 2026 10:00:00 -0500"
+    },
     {
       "title": "Fuel Tax Changes Hit Six States As Energy Inflation Accelerates",
       "link": "https://oilprice.com/Energy/Energy-General/Fuel-Tax-Changes-Hit-Six-States-As-Energy-Inflation-Accelerates.html",
@@ -38,19 +62,7 @@
       "date": "Sat, 13 Jun 2026 12:00:00 -0500"
     },
     {
-      "title": "Rising Energy Bills Are Fueling a Global Home Battery Boom",
-      "link": "https://oilprice.com/Energy/Energy-General/Rising-Energy-Bills-Are-Fueling-a-Global-Home-Battery-Boom.html",
-      "source": "OilPrice",
-      "date": "Sat, 13 Jun 2026 10:00:00 -0500"
-    },
-    {
-      "title": "The Oil Market Could Be Weeks From a Breaking Point",
-      "link": "https://oilprice.com/Energy/Crude-Oil/The-Oil-Market-Could-Be-Weeks-From-a-Breaking-Point.html",
-      "source": "OilPrice",
-      "date": "Fri, 12 Jun 2026 18:00:00 -0500"
-    },
-    {
-      "title": "Op-Ed: Scripted to fail — Europe’s critical minerals blind spot",
+      "title": "Op-Ed: Scripted to fail — Europe’s critical minerals blind spot",
       "link": "https://www.mining.com/op-ed-scripted-to-fail-europes-critical-minerals-blind-spot/",
       "source": "mining.com",
       "date": "Fri, 12 Jun 2026 23:00:00 +0000"
@@ -60,12 +72,6 @@
       "link": "https://www.mining.com/silver-stockpile-drawdown-risk-is-misunderstood/",
       "source": "mining.com",
       "date": "Fri, 12 Jun 2026 22:03:00 +0000"
-    },
-    {
-      "title": "China's Fusion Reactor on Track for Ignition by 2027, Threatening U.S. Lead",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Chinas-Fusion-Reactor-on-Track-for-Ignition-by-2027-Threatening-US-Lead.html",
-      "source": "OilPrice",
-      "date": "Fri, 12 Jun 2026 17:00:00 -0500"
     },
     {
       "title": "Mining’s next boom is off the map: Arctic ice, abyssal plains and asteroids",
@@ -78,12 +84,6 @@
       "link": "https://www.mining.com/hertha-metals-targets-rare-earth-magnet-supply-gap-with-texas-high-purity-iron-plant/",
       "source": "mining.com",
       "date": "Fri, 12 Jun 2026 21:03:19 +0000"
-    },
-    {
-      "title": "The Hidden Supply Chain Behind Every SpaceX Launch",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Hidden-Supply-Chain-Behind-Every-SpaceX-Launch.html",
-      "source": "OilPrice",
-      "date": "Fri, 12 Jun 2026 15:00:00 -0500"
     },
     {
       "title": "Triple Flag buys gold stream on Ravenswood mine for $440M",

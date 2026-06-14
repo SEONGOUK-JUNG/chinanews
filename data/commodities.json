@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-06-14T07:09:28+09:00",
+  "updated_at_kst": "2026-06-15T07:10:15+09:00",
   "ref_date": "2026-06-12",
   "schema_version": "1.0",
   "adjustment_applied": true,
@@ -7,7 +7,7 @@
     "up_count": 66,
     "down_count": 45,
     "flat_count": 327,
-    "total": 438,
+    "total": 437,
     "top_gainers": [
       {
         "name": "황산",
@@ -908,6 +908,13 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "화학공업",
+      "sector": "",
+      "price_prev": 53833.33,
+      "price_today": 53833.33,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "황화나트륨",
       "sector": "화학공업",
       "price_prev": 2645.13,
@@ -982,6 +989,13 @@
       "sector": "화학공업",
       "price_prev": 3154.41,
       "price_today": 3154.41,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "화학공업",
+      "sector": "",
+      "price_prev": 11575.0,
+      "price_today": 11575.0,
       "change_pct": 0.0
     },
     {
@@ -1279,6 +1293,13 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "화학공업",
+      "sector": "",
+      "price_prev": 5348.33,
+      "price_today": 5348.33,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "부탄 케톤",
       "sector": "화학공업",
       "price_prev": 7911.06,
@@ -1416,6 +1437,13 @@
       "sector": "화학공업",
       "price_prev": 13443.8,
       "price_today": 13443.8,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "화학공업",
+      "sector": "",
+      "price_prev": 16750.0,
+      "price_today": 16750.0,
       "change_pct": 0.0
     },
     {
@@ -1566,6 +1594,13 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "화학공업",
+      "sector": "",
+      "price_prev": 4896.67,
+      "price_today": 4896.67,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "Potassium carbonate",
       "sector": "화학공업",
       "price_prev": 7810.92,
@@ -1689,6 +1724,13 @@
       "sector": "화학공업",
       "price_prev": 22264.46,
       "price_today": 22264.46,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "화학공업",
+      "sector": "",
+      "price_prev": 7366.67,
+      "price_today": 7366.67,
       "change_pct": 0.0
     },
     {
@@ -1853,6 +1895,13 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "화학공업",
+      "sector": "",
+      "price_prev": 27500.0,
+      "price_today": 27500.0,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "피로인산칼륨",
       "sector": "화학공업",
       "price_prev": 12834.61,
@@ -1899,6 +1948,13 @@
       "sector": "고무 및 프라스틱",
       "price_prev": 10144.48,
       "price_today": 10144.48,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "화학공업",
+      "sector": "",
+      "price_prev": 11000.0,
+      "price_today": 11000.0,
       "change_pct": 0.0
     },
     {
@@ -1993,6 +2049,13 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "화학공업",
+      "sector": "",
+      "price_prev": 13900.0,
+      "price_today": 13900.0,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "화이트 카드",
       "sector": "건축자재",
       "price_prev": 4141.63,
@@ -2018,6 +2081,13 @@
       "sector": "화학공업",
       "price_prev": 11966.73,
       "price_today": 11966.73,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "화학공업",
+      "sector": "",
+      "price_prev": 32.67,
+      "price_today": 32.67,
       "change_pct": 0.0
     },
     {
@@ -2119,6 +2189,13 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "화학공업",
+      "sector": "",
+      "price_prev": 17250.0,
+      "price_today": 17250.0,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "에폭시화 콩기름",
       "sector": "화학공업",
       "price_prev": 9680.2,
@@ -2144,6 +2221,13 @@
       "sector": "화학공업",
       "price_prev": 12517.5,
       "price_today": 12517.5,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "에너지",
+      "sector": "",
+      "price_prev": 2600.0,
+      "price_today": 2600.0,
       "change_pct": 0.0
     },
     {
@@ -2287,6 +2371,13 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "화학공업",
+      "sector": "",
+      "price_prev": 13500.0,
+      "price_today": 13500.0,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "알칼리",
       "sector": "화학공업",
       "price_prev": 2803.92,
@@ -2312,6 +2403,13 @@
       "sector": "",
       "price_prev": 440.0,
       "price_today": 440.0,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "화학공업",
+      "sector": "",
+      "price_prev": 11500.0,
+      "price_today": 11500.0,
       "change_pct": 0.0
     },
     {
@@ -2392,6 +2490,13 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "화학공업",
+      "sector": "",
+      "price_prev": 28250.0,
+      "price_today": 28250.0,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "일수화구연산",
       "sector": "화학공업",
       "price_prev": 5607.84,
@@ -2469,6 +2574,13 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "화학공업",
+      "sector": "",
+      "price_prev": 826.67,
+      "price_today": 826.67,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "연수기 소금",
       "sector": "화학공업",
       "price_prev": 968.02,
@@ -2487,6 +2599,13 @@
       "sector": "화학공업",
       "price_prev": 4239.26,
       "price_today": 4239.26,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "화학공업",
+      "sector": "",
+      "price_prev": 64566.67,
+      "price_today": 64566.67,
       "change_pct": 0.0
     },
     {
@@ -2553,6 +2672,13 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "화학공업",
+      "sector": "",
+      "price_prev": 20666.67,
+      "price_today": 20666.67,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "디에틸렌 글리콜 에틸 에테르 아세테이트",
       "sector": "화학공업",
       "price_prev": 14353.4,
@@ -2564,6 +2690,13 @@
       "sector": "화학공업",
       "price_prev": 12617.64,
       "price_today": 12617.64,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "화학공업",
+      "sector": "",
+      "price_prev": 2900.0,
+      "price_today": 2900.0,
       "change_pct": 0.0
     },
     {
@@ -2602,6 +2735,13 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "화학공업",
+      "sector": "",
+      "price_prev": 10533.33,
+      "price_today": 10533.33,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "프로피온알데하이드",
       "sector": "화학공업",
       "price_prev": 8249.03,
@@ -2623,10 +2763,24 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "화학공업",
+      "sector": "",
+      "price_prev": 10033.33,
+      "price_today": 10033.33,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "무연탄 여과재",
       "sector": "화학공업",
       "price_prev": 680.95,
       "price_today": 680.95,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "화학공업",
+      "sector": "",
+      "price_prev": 17250.0,
+      "price_today": 17250.0,
       "change_pct": 0.0
     },
     {
@@ -2658,10 +2812,31 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "화학공업",
+      "sector": "",
+      "price_prev": 5250.0,
+      "price_today": 5250.0,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "아이소옥탄산 나트륨",
       "sector": "화학공업",
       "price_prev": 24100.36,
       "price_today": 24100.36,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "화학공업",
+      "sector": "",
+      "price_prev": 16750.0,
+      "price_today": 16750.0,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "화학공업",
+      "sector": "",
+      "price_prev": 32933.33,
+      "price_today": 32933.33,
       "change_pct": 0.0
     },
     {
@@ -2721,6 +2896,13 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "화학공업",
+      "sector": "",
+      "price_prev": 22000.0,
+      "price_today": 22000.0,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "D80",
       "sector": "화학공업",
       "price_prev": 8678.8,
@@ -2746,6 +2928,13 @@
       "sector": "화학공업",
       "price_prev": 10514.7,
       "price_today": 10514.7,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "화학공업",
+      "sector": "",
+      "price_prev": 24433.33,
+      "price_today": 24433.33,
       "change_pct": 0.0
     },
     {
