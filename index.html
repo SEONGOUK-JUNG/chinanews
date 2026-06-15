@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>CHINANEWS — China Markets & Commodities</title>
+<title>CHINANEWS Terminal — China Markets & Commodities</title>
 <link rel="manifest" href="manifest.json">
 <meta name="theme-color" content="#0d1117">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -51,11 +51,7 @@
 
   .topbar{background:var(--bg-1);border-bottom:1px solid var(--line);height:38px;display:flex;align-items:center;font-size:13px;padding:0 14px;gap:14px}
   .logo-mark{font-family:"Inter",sans-serif;font-weight:700;letter-spacing:-.3px;color:var(--orange);display:flex;align-items:center;gap:7px;font-size:14px}
-  .logo-mark::before{content:none}
-  .cn-logo{flex:0 0 auto}
-  .cn-word{font-weight:800;letter-spacing:.3px}
-  .cn-tag{font-weight:500;font-size:10px;color:var(--muted);letter-spacing:.2px;margin-left:2px}
-  @media(max-width:640px){.cn-tag{display:none}}
+  .logo-mark::before{content:"◆";color:var(--orange)}
   .tb-tabs{display:flex;gap:0;flex:1;margin-left:10px}
   .tb-tab{padding:0 13px;height:38px;line-height:38px;color:#c8c8c8;cursor:pointer;border-right:1px solid var(--line);font-size:13px;font-weight:600;letter-spacing:.2px}
   .tb-tab.active{color:var(--orange);background:var(--bg-2);font-weight:700}
@@ -74,11 +70,11 @@
   .idx-strip{background:var(--bg-2);border-bottom:1px solid var(--line);height:58px;display:flex;align-items:stretch;overflow-x:auto}
   .idx-strip::-webkit-scrollbar{height:2px}
   .idx-strip::-webkit-scrollbar-thumb{background:var(--line-2)}
-  .idx-cell{padding:7px 14px;border-right:1px solid var(--line);min-width:148px;cursor:pointer;transition:background .1s}
+  .idx-cell{padding:7px 14px;border-right:1px solid var(--line);min-width:178px;cursor:pointer;transition:background .1s}
   .idx-cell:hover{background:var(--bg-3)}
   .idx-cell .idx-name{font-size:12px;color:#c0c0c0;text-transform:uppercase;letter-spacing:.8px;font-weight:700}
-  .idx-cell .idx-val{font-size:17px;font-weight:700;font-family:"JetBrains Mono",monospace;margin-top:3px;letter-spacing:-.3px;color:var(--text-bright)}
-  .idx-cell .idx-chg{font-size:12px;font-family:"JetBrains Mono",monospace;margin-top:2px;font-weight:700}
+  .idx-cell .idx-val{font-size:17px;font-weight:700;font-family:"JetBrains Mono",monospace;margin-top:3px;letter-spacing:-.3px;color:var(--text-bright);display:inline-block;vertical-align:middle}
+  .idx-cell .idx-chg{font-size:13px;font-family:"JetBrains Mono",monospace;margin-top:0;margin-left:8px;font-weight:700;display:inline-block;vertical-align:middle}
   .up{color:var(--up)} .down{color:var(--down)} .flat{color:var(--flat)}
   .no-data{color:var(--muted);font-style:italic;font-size:12px}
   .api-needed{color:var(--orange);font-size:10px;padding:1px 5px;border:1px solid var(--orange-dim);border-radius:2px;background:rgba(232,192,120,.05);font-family:"JetBrains Mono",monospace;font-weight:700;letter-spacing:.5px}
@@ -277,7 +273,7 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
 
 
 <div class="topbar">
-  <div class="logo-mark"><svg class="cn-logo" width="20" height="20" viewBox="0 0 32 32" aria-hidden="true"><line x1="16" y1="3" x2="16" y2="29" stroke-width="2.4" stroke-linecap="round" style="stroke:var(--up)"/><rect x="7" y="9" width="18" height="14" rx="2.5" fill="none" stroke="currentColor" stroke-width="2.2"/><rect x="12.5" y="11.5" width="7" height="9" rx="1" style="fill:var(--up)"/></svg><span class="cn-word">CHINANEWS</span><span class="cn-tag">China Markets &amp; Commodities</span></div>
+  <div class="logo-mark">CHINANEWS · TERMINAL</div>
   <div class="tb-tabs">
     <span class="tb-tab active" data-target="top">Home</span>
     <span class="tb-tab" data-target="sec-commodities">Commodities</span>
@@ -351,6 +347,70 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
   </div>
 
   <div class="center-main">
+    <!-- ===== CHINA MACRO DASHBOARD ===== -->
+    <div class="panel" id="sec-macro" style="background:var(--bg);padding:10px 12px;margin-bottom:10px">
+      <div class="panel-head">
+        <div class="panel-title">China Macro · 중국 거시경제 <span class="badge-live">MONTHLY</span><span class="ts" id="macro-updated" style="margin-left:6px"></span></div>
+        <span class="ts" id="macro-src" style="font-size:10px;color:var(--muted)"></span>
+      </div>
+      <div id="macro-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px;margin-top:6px">
+        <div style="color:var(--muted);font-style:italic;padding:10px">Loading…</div>
+      </div>
+    </div>
+    <script>
+    (function(){
+      fetch('data/macro_latest.json?t='+Date.now()).then(function(r){return r.json();}).then(function(d){
+        var el=document.getElementById('macro-grid'); if(!el)return;
+        el.innerHTML='';
+        (d.indicators||[]).forEach(function(it){
+          var delta=(it.value!=null&&it.previous!=null)?(it.value-it.previous):null;
+          var arrow='';
+          if(delta!=null&&Math.abs(delta)>1e-9){ arrow=(delta>0?'▲':'▼')+' '+(Math.round(Math.abs(delta)*100)/100); }
+          else if(delta!=null){ arrow='—'; }
+          var card=document.createElement('div');
+          card.style.cssText='background:var(--line-grid);border-radius:4px;padding:9px 11px;display:flex;flex-direction:column;gap:2px';
+          card.innerHTML='<div style="font-size:11px;color:var(--muted)">'+it.label+'</div>'+
+            '<div style="font-size:20px;font-weight:700;color:var(--text);font-family:\'JetBrains Mono\',monospace">'+it.display+'</div>'+
+            '<div style="font-size:10px;color:var(--muted)">'+(it.ref||'')+(arrow?(' · '+arrow):'')+(it.hint?(' · '+it.hint):'')+'</div>';
+          el.appendChild(card);
+        });
+        var u=document.getElementById('macro-updated'); if(u) u.textContent=(d.as_of||'');
+        var s=document.getElementById('macro-src'); if(s&&d.source){ s.textContent='출처: '+d.source; if(d.source_url) s.title=d.source_url; }
+      }).catch(function(){ var el=document.getElementById('macro-grid'); if(el) el.innerHTML='<div style="color:var(--muted);font-style:italic;padding:10px">거시지표 수집 대기 중…</div>'; });
+    })();
+    </script>
+    <!-- ===== CHINA RATES & PROPERTY ===== -->
+    <div class="panel" id="sec-rates" style="background:var(--bg);padding:10px 12px;margin-bottom:10px">
+      <div class="panel-head">
+        <div class="panel-title">금리·통화·부동산 <span class="badge-live">MONTHLY</span><span class="ts" id="rates-updated" style="margin-left:6px"></span></div>
+        <span class="ts" id="rates-src" style="font-size:10px;color:var(--muted)"></span>
+      </div>
+      <div id="rates-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px;margin-top:6px">
+        <div style="color:var(--muted);font-style:italic;padding:10px">Loading…</div>
+      </div>
+    </div>
+    <script>
+    (function(){
+      fetch('data/rates_property_latest.json?t='+Date.now()).then(function(r){return r.json();}).then(function(d){
+        var el=document.getElementById('rates-grid'); if(!el)return;
+        el.innerHTML='';
+        (d.indicators||[]).forEach(function(it){
+          var delta=(it.value!=null&&it.previous!=null)?(it.value-it.previous):null;
+          var arrow='';
+          if(delta!=null&&Math.abs(delta)>1e-9){ arrow=(delta>0?'▲':'▼')+' '+(Math.round(Math.abs(delta)*100)/100); }
+          else if(delta!=null){ arrow='—'; }
+          var card=document.createElement('div');
+          card.style.cssText='background:var(--line-grid);border-radius:4px;padding:9px 11px;display:flex;flex-direction:column;gap:2px';
+          card.innerHTML='<div style="font-size:11px;color:var(--muted)">'+it.label+'</div>'+
+            '<div style="font-size:20px;font-weight:700;color:var(--text);font-family:\'JetBrains Mono\',monospace">'+it.display+'</div>'+
+            '<div style="font-size:10px;color:var(--muted)">'+(it.ref||'')+(arrow?(' · '+arrow):'')+(it.hint?(' · '+it.hint):'')+'</div>';
+          el.appendChild(card);
+        });
+        var u=document.getElementById('rates-updated'); if(u) u.textContent=(d.as_of||'');
+        var s=document.getElementById('rates-src'); if(s&&d.source){ s.textContent='출처: '+d.source; if(d.source_url) s.title=d.source_url; }
+      }).catch(function(){ var el=document.getElementById('rates-grid'); if(el) el.innerHTML='<div style="color:var(--muted);font-style:italic;padding:10px">지표 수집 대기 중…</div>'; });
+    })();
+    </script>
     <!-- ===== COMMODITY HERO (top priority) ===== -->
     <!-- ===== Pulse (left) + Industrial Heatmap (right) row ===== -->
     <div id="sec-commodities" style="display:grid;grid-template-columns:minmax(280px,360px) minmax(0,1fr);gap:10px;align-items:start">
@@ -436,131 +496,9 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
       <div id="cm-sparkgrid" style="display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:var(--line)"></div>
     </div>
 
-    <!-- ===== STRATEGIC MATERIALS (business-direct) ===== -->
-    <div class="panel" id="sec-strategic" style="background:var(--bg);padding:10px 12px;margin-bottom:10px">
-      <div class="panel-head">
-        <div class="panel-title"><span id="strat-title">전략 원자재</span> <span class="badge-live">DAILY</span><span class="ts" id="strat-ref" style="margin-left:6px"></span></div>
-      </div>
-      <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px">
-        <div>
-          <div id="strat-pe-h" style="font-size:11px;font-weight:700;color:var(--orange);margin-bottom:4px">석유화학·PE 체인 (에코브릿지)</div>
-          <table class="dt" style="width:100%"><tbody id="strat-pe"><tr><td style="color:var(--muted);font-style:italic;padding:8px 0">Loading…</td></tr></tbody></table>
-        </div>
-        <div>
-          <div id="strat-re-h" style="font-size:11px;font-weight:700;color:var(--orange);margin-bottom:4px">희토류·전략소재 (에이브릿지)</div>
-          <table class="dt" style="width:100%"><tbody id="strat-re"><tr><td style="color:var(--muted);font-style:italic;padding:8px 0">Loading…</td></tr></tbody></table>
-        </div>
-      </div>
-      <div id="strat-foot" style="font-size:10px;color:var(--muted);margin-top:7px;font-style:italic">CNY 기준 · 색상: 적색=상승 · 녹색=하락 (중국 관례)</div>
-    </div>
-    <script>
-    (function(){
-      var DATA=null;
-      var PE=[["나프타","나프타","Naphtha"],["선형저밀도 폴리에틸렌","LLDPE","LLDPE"],["고밀도 폴리에틸렌","HDPE","HDPE"],["저밀도 폴리에틸렌","LDPE","LDPE"],["폴리프로필렌","PP","PP"],["폴리염화비닐","PVC","PVC"],["순수 벤젠","벤젠","Benzene"],["스티렌","스티렌","Styrene"],["파라자일렌","파라자일렌(PX)","Paraxylene"]];
-      var RE=[["산화네오디뮴","산화네오디뮴","Neodymium Oxide"],["산화프라세오디뮴","산화프라세오디뮴","Praseodymium Oxide"],["프라세오디뮴네오디뮴산화물","Pr-Nd 산화물","Pr-Nd Oxide"],["산화디스프로슘","산화디스프로슘","Dysprosium Oxide"],["금속네오디뮴","금속 네오디뮴","Neodymium Metal"],["디스프로슘철합금","Dy-Fe 합금","Dy-Fe Alloy"],["안티모늄","안티모니","Antimony"],["탄산리튬","탄산리튬","Lithium Carbonate"],["코발트","코발트","Cobalt"],["금속규소(공업규소)","금속규소","Silicon Metal"]];
-      function render(){
-        if(!DATA) return;
-        var en=(window.CN_LANG==='en');
-        var m={}; (DATA.all_items||[]).forEach(function(x){ if(!(x.display_name in m)) m[x.display_name]=x; });
-        function row(disp,it){ if(!it) return '';
-          var p=Number(it.change_pct)||0, col=p>0?'var(--up)':(p<0?'var(--down)':'var(--muted)'), sg=p>0?'+':'';
-          return '<tr><td style="font-size:11px">'+disp+'</td><td style="text-align:right;font-family:\'JetBrains Mono\',monospace;font-size:11px">'+Number(it.price_today).toLocaleString('en-US')+'</td><td style="text-align:right;font-size:11px;color:'+col+'">'+sg+p.toFixed(2)+'%</td></tr>'; }
-        function fill(id,list){ var b=document.getElementById(id); if(!b)return; var idx=en?2:1; b.innerHTML=list.map(function(x){return row(x[idx],m[x[0]]);}).join('')||'<tr><td>—</td></tr>'; }
-        fill('strat-pe',PE); fill('strat-re',RE);
-        var T=document.getElementById('strat-title'); if(T) T.textContent=en?'Strategic Materials':'전략 원자재';
-        var ph=document.getElementById('strat-pe-h'); if(ph) ph.textContent=en?'Petrochem·PE Chain (Ecobridge)':'석유화학·PE 체인 (에코브릿지)';
-        var rh=document.getElementById('strat-re-h'); if(rh) rh.textContent=en?'Rare Earths (Abridge)':'희토류·전략소재 (에이브릿지)';
-        var ft=document.getElementById('strat-foot'); if(ft) ft.textContent=en?'CNY · red=up · green=down (CN convention)':'CNY 기준 · 색상: 적색=상승 · 녹색=하락 (중국 관례)';
-        var rf=document.getElementById('strat-ref'); if(rf) rf.textContent=DATA.ref_date||'';
-      }
-      window.__renderStrat=render;
-      fetch('data/commodities.json?t='+Date.now()).then(function(r){return r.json();}).then(function(d){ DATA=d; render(); setTimeout(render,800); }).catch(function(){ var b=document.getElementById('strat-pe'); if(b) b.innerHTML='<tr><td style="color:var(--muted)">—</td></tr>'; });
-      document.addEventListener('click', function(e){ var sp=e.target.closest?e.target.closest('#lang-toggle span[data-lang]'):null; if(sp) setTimeout(render,30); });
-    })();
-    </script>
-    <!-- ===== sec-rates ===== -->
-    <div class="panel" id="sec-rates" style="background:var(--bg);padding:10px 12px;margin-bottom:10px">
-      <div class="panel-head">
-        <div class="panel-title"><span id="rates-title">금리·통화·부동산</span> <span class="badge-live">MONTHLY</span><span class="ts" id="rates-updated" style="margin-left:6px"></span></div>
-        <span class="ts" id="rates-src" style="font-size:10px;color:var(--muted)"></span>
-      </div>
-      <div id="rates-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px;margin-top:6px">
-        <div style="color:var(--muted);font-style:italic;padding:10px">Loading…</div>
-      </div>
-    </div>
-    <script>
-    (function(){
-      var DATA=null;
-      function render(){
-        var el=document.getElementById('rates-grid'); if(!el||!DATA)return;
-        var en=(window.CN_LANG==='en');
-        var tt=document.getElementById('rates-title'); if(tt) tt.textContent= en?'Rates · Money · Property':'금리·통화·부동산';
-        el.innerHTML='';
-        (DATA.indicators||[]).forEach(function(it){
-          var delta=(it.value!=null&&it.previous!=null)?(it.value-it.previous):null;
-          var arrow=''; if(delta!=null&&Math.abs(delta)>1e-9){ arrow=(delta>0?'▲':'▼')+' '+(Math.round(Math.abs(delta)*100)/100); } else if(delta!=null){ arrow='—'; }
-          var label=en?(it.label_en||it.label):it.label;
-          var hint=en?(it.hint_en||''):(it.hint||'');
-          var ref=en?(it.ref_en||it.ref||''):(it.ref||'');
-          var card=document.createElement('div');
-          card.style.cssText='background:var(--line-grid);border-radius:4px;padding:9px 11px;display:flex;flex-direction:column;gap:2px';
-          card.innerHTML='<div style="font-size:11px;color:var(--muted)">'+label+'</div>'+
-            '<div style="font-size:20px;font-weight:700;color:var(--text);font-family:\'JetBrains Mono\',monospace">'+it.display+'</div>'+
-            '<div style="font-size:10px;color:var(--muted)">'+ref+(arrow?(' · '+arrow):'')+(hint?(' · '+hint):'')+'</div>';
-          el.appendChild(card);
-        });
-        var u=document.getElementById('rates-updated'); if(u) u.textContent=(DATA.as_of||'');
-        var sp=document.getElementById('rates-src'); if(sp&&DATA.source){ sp.textContent=(en?'Source: ':'출처: ')+DATA.source; }
-      }
-      window.__renderRates=render;
-      fetch('data/rates_property_latest.json?t='+Date.now()).then(function(r){return r.json();}).then(function(d){ DATA=d; render(); setTimeout(render,800); }).catch(function(){ var el=document.getElementById('rates-grid'); if(el) el.innerHTML='<div style="color:var(--muted);font-style:italic;padding:10px">…</div>'; });
-      document.addEventListener('click', function(e){ var s2=e.target.closest?e.target.closest('#lang-toggle span[data-lang]'):null; if(s2) setTimeout(render,30); });
-    })();
-    </script>
-    <!-- ===== sec-macro ===== -->
-    <div class="panel" id="sec-macro" style="background:var(--bg);padding:10px 12px;margin-bottom:10px">
-      <div class="panel-head">
-        <div class="panel-title"><span id="macro-title">중국 거시경제</span> <span class="badge-live">MONTHLY</span><span class="ts" id="macro-updated" style="margin-left:6px"></span></div>
-        <span class="ts" id="macro-src" style="font-size:10px;color:var(--muted)"></span>
-      </div>
-      <div id="macro-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px;margin-top:6px">
-        <div style="color:var(--muted);font-style:italic;padding:10px">Loading…</div>
-      </div>
-    </div>
-    <script>
-    (function(){
-      var DATA=null;
-      function render(){
-        var el=document.getElementById('macro-grid'); if(!el||!DATA)return;
-        var en=(window.CN_LANG==='en');
-        var tt=document.getElementById('macro-title'); if(tt) tt.textContent= en?'China Macro':'중국 거시경제';
-        el.innerHTML='';
-        (DATA.indicators||[]).forEach(function(it){
-          var delta=(it.value!=null&&it.previous!=null)?(it.value-it.previous):null;
-          var arrow=''; if(delta!=null&&Math.abs(delta)>1e-9){ arrow=(delta>0?'▲':'▼')+' '+(Math.round(Math.abs(delta)*100)/100); } else if(delta!=null){ arrow='—'; }
-          var label=en?(it.label_en||it.label):it.label;
-          var hint=en?(it.hint_en||''):(it.hint||'');
-          var ref=en?(it.ref_en||it.ref||''):(it.ref||'');
-          var card=document.createElement('div');
-          card.style.cssText='background:var(--line-grid);border-radius:4px;padding:9px 11px;display:flex;flex-direction:column;gap:2px';
-          card.innerHTML='<div style="font-size:11px;color:var(--muted)">'+label+'</div>'+
-            '<div style="font-size:20px;font-weight:700;color:var(--text);font-family:\'JetBrains Mono\',monospace">'+it.display+'</div>'+
-            '<div style="font-size:10px;color:var(--muted)">'+ref+(arrow?(' · '+arrow):'')+(hint?(' · '+hint):'')+'</div>';
-          el.appendChild(card);
-        });
-        var u=document.getElementById('macro-updated'); if(u) u.textContent=(DATA.as_of||'');
-        var sp=document.getElementById('macro-src'); if(sp&&DATA.source){ sp.textContent=(en?'Source: ':'출처: ')+DATA.source; }
-      }
-      window.__renderMacro=render;
-      fetch('data/macro_latest.json?t='+Date.now()).then(function(r){return r.json();}).then(function(d){ DATA=d; render(); setTimeout(render,800); }).catch(function(){ var el=document.getElementById('macro-grid'); if(el) el.innerHTML='<div style="color:var(--muted);font-style:italic;padding:10px">…</div>'; });
-      document.addEventListener('click', function(e){ var s2=e.target.closest?e.target.closest('#lang-toggle span[data-lang]'):null; if(s2) setTimeout(render,30); });
-    })();
-    </script>
-
-
     <div class="center-header">
-      <div class="ticker-display">9988.HK</div>
-      <div class="ticker-name">Alibaba <span class="ex">Hong Kong · E-commerce</span></div>
+      <div class="ticker-display">600519.SH</div>
+      <div class="ticker-name">Kweichow Moutai <span class="ex">Shanghai · Baijiu</span></div>
       <div class="ticker-pin">
         <span class="px-big no-data">—</span>
         <span class="ch-big"><span class="api-needed">API</span></span>
@@ -683,7 +621,7 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
       <div class="ai-message">
         <div class="label">AI · Getting Started</div>
         <div class="text">
-          Welcome to CHINANEWS.<br>
+          Welcome to CHINANEWS Terminal.<br>
           Ask anything about commodities, markets, or trade strategy.<br><br>
           <strong style="color:var(--orange)">Mode:</strong> Free (Groq-based, planned)<br>
           <strong style="color:var(--orange)">Note:</strong> Some market data not yet connected; accuracy improves once APIs are linked.
@@ -743,13 +681,14 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
       <button class="close-btn" id="modal-close" title="Close">✕</button>
     </div>
     <div class="modal-search">
-      <input type="text" id="modal-search-input" placeholder="Search symbol or name (e.g., 600519, BABA, Tencent, BYD)" autocomplete="off">
+      <input type="text" id="modal-search-input" placeholder="Search symbol or name (e.g., 600519, Samsung, BABA, Tencent)" autocomplete="off">
     </div>
     <div class="modal-filters" id="modal-filters">
       <span class="modal-filter active" data-filter="all">All</span>
       <span class="modal-filter" data-filter="a_stock">A-share</span>
       <span class="modal-filter" data-filter="hk_stock">H-share</span>
       <span class="modal-filter" data-filter="us_adr">ADR</span>
+      <span class="modal-filter" data-filter="kr_stock">KR</span>
     </div>
     <div class="modal-list" id="modal-list"></div>
     <div class="modal-foot"><span id="modal-count">50</span> symbols · click to add/remove</div>
@@ -885,7 +824,7 @@ const INDEX_ID_MAP = {'csi300':'idx-csi300','sse':'idx-sse','szse':'idx-szse','h
 
 // universe 풀 + 관심종목 관리
 let UNIVERSE = [];
-const DEFAULT_WATCHLIST = ['9988.HK','0700.HK','601318','300750','9618.HK','PDD','3690.HK','1810.HK','002594','601857'];
+const DEFAULT_WATCHLIST = ['600519','601318','300750','0700.HK','9988.HK','9618.HK','BABA','PDD','005930','000660'];
 
 function getWatchlist(){
   try{
@@ -1640,7 +1579,7 @@ window.addEventListener('load', async () => {
   bindModal();
   if(window.LightweightCharts){
     initChart();
-    loadChart('9988.HK');
+    loadChart('600519');
     bindWatchlistClicks();
     bindTimeButtons();
   }else{
@@ -1652,7 +1591,7 @@ window.addEventListener('load', async () => {
 
 <script>
 /* ---- UI string dictionary (Korean -> English), text-node level ---- */
-var UI = {"홈": "Home", "중국주식": "China Eq", "한국주식": "KR Eq", "원자재": "Commodities", "환율·금리": "FX & Rates", "옵션": "Options", "뉴스": "News", "공시·SEC·DART": "Filings", "시장 펄스": "Market Pulse", "관심종목": "Watchlist", "중국 섹터": "China Sectors", "자금 흐름 (28D)": "Fund Flows (28D)", "US 매크로 / FX": "US Macro / FX", "원자재 시장 펄스": "Commodity Pulse", "원자재 핵심 가격": "Featured Commodities", "원자재 차트": "Commodity Chart", "원자재 전용 차트 패널": "Commodity Chart Panel", "원자재 핵심 가격 16종": "Featured 16", "전체 원자재 모달": "All Commodities Modal", "중요 산업재 히트맵": "Key Industrial Materials Heatmap", "핵심 원자재 미니차트": "Featured Commodity Mini-Charts", "색상: 적=상승 · 녹=하락 (중국식)": "Color: red = up · green = down (CN convention)", "중국 본토 시가총액 TOP 히트맵": "China A-share Market-Cap Heatmap", "크로스 자산 상관 (90D)": "Cross-Asset Correlation (90D)", "시나리오 분석기": "Scenario Analyzer", "중국 시장 뉴스": "China Market News", "공시 · DART": "Filings · DART", "주문 · 체결": "Order · Execution", "옵션 플로우": "Options Flow", "실적 · 배당 캘린더": "Earnings · Dividends", "탑 뉴스": "Top News", "AI 트레이드 어시스턴트": "AI Trade Assistant", "도착원가 계산기": "Landed Cost Estimator", "중국 시장 상태": "Market Status", "상승/하락 비율": "Adv / Dec", "52주 신고가": "52W Highs", "52주 신저가": "52W Lows", "후강통 北上 (¥억)": "HK→SH (¥100M)", "심강통 北上 (¥억)": "HK→SZ (¥100M)", "외국인 北上": "Northbound", "내국인 南下": "Southbound", "ETF 순매수": "ETF Net Buy", "신용잔액 변동": "Margin Balance", "융자융권": "Margin Trading", "DXY 달러지수": "DXY Index", "2Y 미국채": "US 2Y", "10Y 미국채": "US 10Y", "금융": "Financials", "소비재": "Consumer", "헬스": "Health", "에너지": "Energy", "소재": "Materials", "산업재": "Industrials", "통신": "Telecom", "부동산": "Real Estate", "상승": "Up", "하락": "Down", "보합": "Flat", "▲ 상승 TOP 3": "▲ Top Gainers", "▼ 하락 TOP 3": "▼ Top Decliners", "품목": "Item", "섹터": "Sector", "전일": "Prev", "당일": "Last", "변동률": "Chg%", "단위": "Unit", "전체 →": "All 438 →", "캔들": "Candle", "라인": "Line", "+ 지표": "+ Ind.", "RSI(14) / 스토캐스틱": "RSI(14) / Stochastic", "MACD / 거래량": "MACD / Volume", "API 필요 · 데이터 없음": "API required · no data", "차트 로딩 중...": "Loading chart…", "표 행을 클릭하면 아래에 차트가 표시됩니다.": "Click a row to load its chart below.", "표에서 원자재를 클릭하세요": "Click a commodity in the table", "수입 바이어용 개략 추정. 표의 원자재 행을 클릭하세요.": "Rough estimate for importers. Click a commodity row.", "현물가 (CNY)": "Spot (CNY)", "FOB 추정 (USD)": "FOB est. (USD)", "운임 (USD/단위)": "Freight (USD/unit)", "수입관세 (%)": "Import duty (%)", "부가세 (%)": "VAT (%)", "도착원가 추정 (USD)": "Est. Landed (USD)", "추정치 — 보험·하역·현지비용 제외. 포워더와 재확인하세요.": "Estimate — excludes insurance, handling & local fees. Verify with your forwarder.", "선택:": "Selected:", "매수/매도": "Buy/Sell", "종목": "Symbol", "수량": "Qty", "주문유형": "Order Type", "호가": "Bid/Ask", "예상 체결": "Est. Fill", "중개사 연동 필요": "Broker API required", "미연동": "Not linked", "중개사": "Broker", "CALL/PUT 비율": "Call/Put Ratio", "최대 매수 콜": "Max Call OI", "최대 매수 풋": "Max Put OI", "변동성 HV30": "HV30", "변동성 IV30": "IV30", "홍콩 옵션·ADR 옵션·코스피200 옵션 별도 연동": "HK/ADR/KOSPI200 options — separate feed", "데이터 없음 · 캘린더 API 연결 필요": "No data — calendar API required", "API 필요": "API", "로딩": "Loading", "로딩 중...": "Loading…", "로딩 중…": "Loading…", "데이터 소스 범례": "Data Legend", "실측 데이터 (출처 명시)": "Measured data", "외부 API 연결 시 채워짐": "Fills when API connected", "다음 페이즈 연동 예정": "Next-phase integration", "데이터 없음 · 가짜 숫자 사용하지 않음": "No data · no placeholder numbers", "도움말": "Help", "종목검색": "Search", "차트": "Chart", "공시": "Filings", "환율": "FX", "종목 추가": "Add Symbol", "전체": "All", "A주": "A-share", "H주": "H-share", "한국": "KR", "상해 · 백주": "Shanghai · Baijiu", "기준일": "Ref date", "기준": "Ref", "중국 경제 뉴스": "China Economy News", "한국어": "KO", "헤드라인은 원문(출처)으로 연결됩니다 · 출처: Google News": "Headlines link to source · via Google News", "중국 시장·원자재 인텔리전스": "China Markets & Commodities"};
+var UI = {"홈": "Home", "중국주식": "China Eq", "한국주식": "KR Eq", "원자재": "Commodities", "환율·금리": "FX & Rates", "옵션": "Options", "뉴스": "News", "공시·SEC·DART": "Filings", "시장 펄스": "Market Pulse", "관심종목": "Watchlist", "중국 섹터": "China Sectors", "자금 흐름 (28D)": "Fund Flows (28D)", "US 매크로 / FX": "US Macro / FX", "원자재 시장 펄스": "Commodity Pulse", "원자재 핵심 가격": "Featured Commodities", "원자재 차트": "Commodity Chart", "원자재 전용 차트 패널": "Commodity Chart Panel", "원자재 핵심 가격 16종": "Featured 16", "전체 원자재 모달": "All Commodities Modal", "중요 산업재 히트맵": "Key Industrial Materials Heatmap", "핵심 원자재 미니차트": "Featured Commodity Mini-Charts", "색상: 적=상승 · 녹=하락 (중국식)": "Color: red = up · green = down (CN convention)", "중국 본토 시가총액 TOP 히트맵": "China A-share Market-Cap Heatmap", "크로스 자산 상관 (90D)": "Cross-Asset Correlation (90D)", "시나리오 분석기": "Scenario Analyzer", "중국 시장 뉴스": "China Market News", "공시 · DART": "Filings · DART", "주문 · 체결": "Order · Execution", "옵션 플로우": "Options Flow", "실적 · 배당 캘린더": "Earnings · Dividends", "탑 뉴스": "Top News", "AI 트레이드 어시스턴트": "AI Trade Assistant", "도착원가 계산기": "Landed Cost Estimator", "중국 시장 상태": "Market Status", "상승/하락 비율": "Adv / Dec", "52주 신고가": "52W Highs", "52주 신저가": "52W Lows", "후강통 北上 (¥억)": "HK→SH (¥100M)", "심강통 北上 (¥억)": "HK→SZ (¥100M)", "외국인 北上": "Northbound", "내국인 南下": "Southbound", "ETF 순매수": "ETF Net Buy", "신용잔액 변동": "Margin Balance", "융자융권": "Margin Trading", "DXY 달러지수": "DXY Index", "2Y 미국채": "US 2Y", "10Y 미국채": "US 10Y", "금융": "Financials", "소비재": "Consumer", "헬스": "Health", "에너지": "Energy", "소재": "Materials", "산업재": "Industrials", "통신": "Telecom", "부동산": "Real Estate", "상승": "Up", "하락": "Down", "보합": "Flat", "▲ 상승 TOP 3": "▲ Top Gainers", "▼ 하락 TOP 3": "▼ Top Decliners", "품목": "Item", "섹터": "Sector", "전일": "Prev", "당일": "Last", "변동률": "Chg%", "단위": "Unit", "전체 →": "All 438 →", "캔들": "Candle", "라인": "Line", "+ 지표": "+ Ind.", "RSI(14) / 스토캐스틱": "RSI(14) / Stochastic", "MACD / 거래량": "MACD / Volume", "API 필요 · 데이터 없음": "API required · no data", "차트 로딩 중...": "Loading chart…", "표 행을 클릭하면 아래에 차트가 표시됩니다.": "Click a row to load its chart below.", "표에서 원자재를 클릭하세요": "Click a commodity in the table", "수입 바이어용 개략 추정. 표의 원자재 행을 클릭하세요.": "Rough estimate for importers. Click a commodity row.", "현물가 (CNY)": "Spot (CNY)", "FOB 추정 (USD)": "FOB est. (USD)", "운임 (USD/단위)": "Freight (USD/unit)", "수입관세 (%)": "Import duty (%)", "부가세 (%)": "VAT (%)", "도착원가 추정 (USD)": "Est. Landed (USD)", "추정치 — 보험·하역·현지비용 제외. 포워더와 재확인하세요.": "Estimate — excludes insurance, handling & local fees. Verify with your forwarder.", "선택:": "Selected:", "매수/매도": "Buy/Sell", "종목": "Symbol", "수량": "Qty", "주문유형": "Order Type", "호가": "Bid/Ask", "예상 체결": "Est. Fill", "중개사 연동 필요": "Broker API required", "미연동": "Not linked", "중개사": "Broker", "CALL/PUT 비율": "Call/Put Ratio", "최대 매수 콜": "Max Call OI", "최대 매수 풋": "Max Put OI", "변동성 HV30": "HV30", "변동성 IV30": "IV30", "홍콩 옵션·ADR 옵션·코스피200 옵션 별도 연동": "HK/ADR/KOSPI200 options — separate feed", "데이터 없음 · 캘린더 API 연결 필요": "No data — calendar API required", "API 필요": "API", "로딩": "Loading", "로딩 중...": "Loading…", "로딩 중…": "Loading…", "데이터 소스 범례": "Data Legend", "실측 데이터 (출처 명시)": "Measured data", "외부 API 연결 시 채워짐": "Fills when API connected", "다음 페이즈 연동 예정": "Next-phase integration", "데이터 없음 · 가짜 숫자 사용하지 않음": "No data · no placeholder numbers", "도움말": "Help", "종목검색": "Search", "차트": "Chart", "공시": "Filings", "환율": "FX", "종목 추가": "Add Symbol", "전체": "All", "A주": "A-share", "H주": "H-share", "한국": "KR", "상해 · 백주": "Shanghai · Baijiu", "기준일": "Ref date", "기준": "Ref"};
 var REV = {}; for(var k in UI){ if(!REV[UI[k]]) REV[UI[k]] = k; }
 
 function _walkText(fn){
@@ -1834,79 +1773,4 @@ window.addEventListener('load', function(){
   function sortTable(table, col, asc){
     var tb=table.tBodies[0]; if(!tb) return;
     var rows=Array.prototype.slice.call(tb.querySelectorAll('tr'));
-    rows=rows.filter(function(r){return r.querySelectorAll('td').length>col;});
-    rows.sort(function(a,b){
-      var x=a.querySelectorAll('td')[col].textContent.trim(), y=b.querySelectorAll('td')[col].textContent.trim();
-      var nx=cellNum(x), ny=cellNum(y);
-      var r = (nx!=null&&ny!=null) ? (nx-ny) : x.localeCompare(y);
-      return asc? r : -r;
-    });
-    rows.forEach(function(r){ tb.appendChild(r); });
-  }
-  document.addEventListener('click', function(e){
-    var th=e.target.closest? e.target.closest('table.dt thead th') : null; if(!th) return;
-    var tr=th.parentNode, ths=Array.prototype.slice.call(tr.children), col=ths.indexOf(th);
-    var table=th.closest('table'); if(!table) return;
-    var asc = table.getAttribute('data-sort-col')==String(col) ? table.getAttribute('data-sort-asc')!=='true' : true;
-    table.setAttribute('data-sort-col',col); table.setAttribute('data-sort-asc',asc);
-    ths.forEach(function(h){ h.style.cursor='pointer'; h.textContent=h.textContent.replace(/[ ▲▼]+$/,''); });
-    th.textContent=th.textContent.replace(/[ ▲▼]+$/,'')+(asc?' ▲':' ▼');
-    sortTable(table, col, asc);
-  });
-  document.addEventListener('DOMContentLoaded', function(){
-    document.querySelectorAll('table.dt thead th').forEach(function(h){ h.style.cursor='pointer'; h.title='Click to sort'; });
-  });
-})();
-</script>
-<script>
-/* Header index ticker — auto-scroll marquee (right→left), live-value safe */
-(function(){
-  function init(){
-    var strip=document.querySelector('.idx-strip');
-    if(!strip || strip.classList.contains('idx-running')) return;
-    var cells=Array.prototype.slice.call(strip.children);
-    if(cells.length<2) return;
-    var st=document.createElement('style');
-    st.textContent='.idx-strip.idx-running{overflow:hidden}.idx-mq{display:flex;flex:0 0 auto;width:max-content;animation:idxscroll 55s linear infinite}.idx-strip.idx-running:hover .idx-mq{animation-play-state:paused}@keyframes idxscroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}@media(prefers-reduced-motion:reduce){.idx-mq{animation:none}}';
-    document.head.appendChild(st);
-    var mq=document.createElement('div'); mq.className='idx-mq';
-    cells.forEach(function(c){ mq.appendChild(c); });
-    cells.forEach(function(c){ var d=c.cloneNode(true); d.removeAttribute('id'); d.querySelectorAll('[id]').forEach(function(e){e.removeAttribute('id');}); mq.appendChild(d); });
-    strip.appendChild(mq); strip.classList.add('idx-running');
-    var n=cells.length;
-    setInterval(function(){ var a=mq.children; for(var i=0;i<n;i++){ if(a[n+i]&&a[i]) a[n+i].innerHTML=a[i].innerHTML.replace(/\sid="[^"]*"/g,''); } }, 3000);
-  }
-  if(document.readyState==='loading') document.addEventListener('DOMContentLoaded', init); else init();
-})();
-</script>
-<script>
-/* Commodity technical indicators (RSI/MACD/MA) — computed from held daily closes */
-(function(){
-  function ema(vals,p){ var k=2/(p+1), out=[], e; for(var i=0;i<vals.length;i++){ e=(i===0)?vals[i]:vals[i]*k+e*(1-k); out.push(e); } return out; }
-  function rsi(c,p){ if(c.length<p+1) return null; var g=0,l=0,i,d; for(i=1;i<=p;i++){ d=c[i]-c[i-1]; if(d>=0)g+=d; else l-=d; } g/=p; l/=p; for(i=p+1;i<c.length;i++){ d=c[i]-c[i-1]; g=(g*(p-1)+(d>0?d:0))/p; l=(l*(p-1)+(d<0?-d:0))/p; } if(l===0) return 100; var rs=g/l; return 100-100/(1+rs); }
-  function macd(c){ if(c.length<26) return null; var e12=ema(c,12), e26=ema(c,26), line=[]; for(var i=0;i<c.length;i++) line.push(e12[i]-e26[i]); var sig=ema(line.slice(25),9); var m=line[line.length-1], s=sig[sig.length-1]; return {macd:m, signal:s, hist:m-s}; }
-  function sma(c,p){ if(c.length<p) return null; var s=0; for(var i=c.length-p;i<c.length;i++) s+=c[i]; return s/p; }
-  window.renderCmIndicators=function(vals){
-    var el=document.getElementById('cm-indicators'); if(!el) return;
-    var c=(vals||[]).map(function(p){return p.value;}).filter(function(v){return v!=null && !isNaN(v);});
-    if(c.length<15){ el.textContent='Indicators need ≥15 days of data.'; return; }
-    var r=rsi(c,14), mk=macd(c), ma5=sma(c,5), ma20=sma(c,20), parts=[];
-    if(r!=null){ var z=r>=70?'overbought':(r<=30?'oversold':'neutral'), col=r>=70?'#ff5555':(r<=30?'#00e5a0':'var(--muted)'); parts.push('RSI(14) <b style="color:'+col+'">'+r.toFixed(1)+'</b> ('+z+')'); }
-    if(mk){ parts.push('MACD <b style="color:'+(mk.hist>=0?'#ff5555':'#00e5a0')+'">'+mk.macd.toFixed(2)+'</b> · sig '+mk.signal.toFixed(2)+' · '+(mk.hist>=0?'bullish':'bearish')); }
-    if(ma5!=null&&ma20!=null){ parts.push('MA5 '+ma5.toFixed(2)+' · MA20 '+ma20.toFixed(2)+' ('+(ma5>=ma20?'above':'below')+')'); }
-    el.innerHTML=parts.join('  &nbsp;|&nbsp;  ')+' <span style="color:var(--text3)">· from daily closes</span>';
-  };
-  window.renderStockIndicators=function(cd){
-    var rb=document.getElementById('stk-rsi-bar'), mb=document.getElementById('stk-macd-bar');
-    if(!cd||!cd.length) return;
-    var closes=cd.map(function(x){return x.close;}).filter(function(v){return v!=null&&!isNaN(v);});
-    var r=rsi(closes,14), mk=macd(closes), k=null, dd=null;
-    if(cd.length>=14){ var ks=[]; for(var j=13;j<cd.length;j++){ var hi=-Infinity,lo=Infinity; for(var t=j-13;t<=j;t++){ if(cd[t].high>hi)hi=cd[t].high; if(cd[t].low<lo)lo=cd[t].low; } ks.push(hi===lo?50:(cd[j].close-lo)/(hi-lo)*100); } k=ks[ks.length-1]; if(ks.length>=3) dd=(ks[ks.length-1]+ks[ks.length-2]+ks[ks.length-3])/3; }
-    var vol=cd[cd.length-1].volume;
-    if(rb){ var p=[]; if(r!=null){ var z=r>=70?'overbought':(r<=30?'oversold':'neutral'), col=r>=70?'#ff5555':(r<=30?'#00e5a0':'inherit'); p.push('RSI(14) <b style="color:'+col+'">'+r.toFixed(1)+'</b> ('+z+')'); } if(k!=null) p.push('Stoch %K '+k.toFixed(1)+(dd!=null?(' · %D '+dd.toFixed(1)):'')); rb.innerHTML=p.length?p.join(' &nbsp;|&nbsp; '):'—'; }
-    if(mb){ var q=[]; if(mk) q.push('MACD <b style="color:'+(mk.hist>=0?'#ff5555':'#00e5a0')+'">'+mk.macd.toFixed(2)+'</b> · sig '+mk.signal.toFixed(2)+' · '+(mk.hist>=0?'bullish':'bearish')); if(vol!=null) q.push('Vol '+Number(vol).toLocaleString('en-US')); mb.innerHTML=q.length?q.join(' &nbsp;|&nbsp; '):'—'; }
-  };
-})();
-</script>
-</body>
-</html>
+   
