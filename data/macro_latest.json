@@ -16,4 +16,7 @@
     {"label": "지급준비율 RRR", "label_en": "Reserve Ratio (RRR)", "value": 7.5, "previous": 7.5, "display": "7.50%", "ref": "2026-05", "hint": "지준율", "hint_en": "reserve requirement"},
     {"label": "무역수지", "label_en": "Trade Balance", "value": 105.0, "previous": 84.8, "display": "+$105.0B", "ref": "2026-05", "hint": "월간 흑자", "hint_en": "monthly surplus"},
     {"label": "소매판매 (MoM)", "label_en": "Retail Sales (MoM)", "value": -0.48, "previous": -0.06, "display": "-0.48%", "ref": "2026-04", "hint": "전월比", "hint_en": "month-on-month"},
-    {"label": "USD/CNY", "label_en": "USD/CNY", "value": 6.76, "previous": 6.76, "display": "6.76", "ref": "2026-06", "hint": "위안 환율", "hint_en": "yuan 
+    {"label": "USD/CNY", "label_en": "USD/CNY", "value": 6.76, "previous": 6.76, "display": "6.76", "ref": "2026-06", "hint": "위안 환율", "hint_en": "yuan FX"},
+    {"label": "상하이종합지수", "label_en": "SSE Composite", "value": 4036, "previous": 3987, "display": "4,036", "ref": "2026-06", "hint": "SSE Composite", "hint_en": "Shanghai index"}
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-06-15T07:20:31+09:00",
+  "run_at_kst": "2026-06-15T13:01:39.999520+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,7 +8,13 @@
   "count": 14,
   "items": [
     {
-      "title": "Nuclear Drives \"All of the Above\" Trend in Energy Security",
+      "title": "Oil Prices Plunge as U.S. and Iran Reach Deal to Reopen Strait of Hormuz",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-as-US-and-Iran-Reach-Deal-to-Reopen-Strait-of-Hormuz.html",
+      "source": "OilPrice",
+      "date": "Sun, 14 Jun 2026 20:05:54 -0500"
+    },
+    {
+      "title": "Nuclear Drives “All of the Above” Trend in Energy Security",
       "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Nuclear-Drives-All-of-the-Above-Trend-in-Energy-Security.html",
       "source": "OilPrice",
       "date": "Sun, 14 Jun 2026 16:00:00 -0500"
@@ -54,12 +60,6 @@
       "link": "https://oilprice.com/Latest-Energy-News/World-News/UK-Sets-January-2027-Deadline-for-Ban-on-Fuel-Made-From-Russian-Crude.html",
       "source": "OilPrice",
       "date": "Sat, 13 Jun 2026 12:30:00 -0500"
-    },
-    {
-      "title": "Russia, China, and Iran Are Joining Forces Against Western Pressure",
-      "link": "https://oilprice.com/Geopolitics/North-America/Russia-China-and-Iran-Are-Joining-Forces-Against-Western-Pressure.html",
-      "source": "OilPrice",
-      "date": "Sat, 13 Jun 2026 12:00:00 -0500"
     },
     {
       "title": "Op-Ed: Scripted to fail — Europe’s critical minerals blind spot",

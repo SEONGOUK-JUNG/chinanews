@@ -1,81 +1,81 @@
 {
-  "run_at_kst": "2026-06-15T07:20:31+09:00",
+  "run_at_kst": "2026-06-15T13:04:29+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "[ASIA BIZ] 중국은 대표팀 빼고 다 갔다…월드컵 경제 파고든 中 기업들",
+      "source": "아주경제",
+      "date": "Mon, 15 Jun 2026 03:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uWnVNNF84cXdtZWtMR25HVFZ1XzlUYWw4ajRXOTlEZTE3Vnhud0xuOWk2VzlHbU5lWDFhUk5JZ0VlNEltdzVNZnFUN0hZSVl2ZTg4VWFsUDU2Z9IBWEFVX3lxTE5vcnNmSEJkbmNuVS1xUzB0Y3IxU2ROZHFKc2wtNk15MHRPQkxrZmxVbDJEbDVrQTFBTGxnbTZ5YlpLVFJXU3pQUXBpNm82Xzh2LTJYNV9zaWo?oc=5"
+    },
+    {
+      "title": "중일관게 악화에도 일본기업 85% \"중국투자 늘린다\"",
+      "source": "네이트",
+      "date": "Mon, 15 Jun 2026 02:08:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mSEJ0NlU0dzdqS2xSY2FHWEhJZFdKVzhuSkVRMUdPRjNQYzlITUs4YUhFZVNod3NzQldEckZxRzI1YkhqWGhXMkdzQmpnZjdsMkFB?oc=5"
+    },
+    {
+      "title": "일본-영국, 경제안보 협력 강화…중국 겨냥 “자의적 수출제한 우려”",
+      "source": "v.daum.net",
+      "date": "Mon, 15 Jun 2026 00:28:09 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LSHdaVG9TMl96UXdpWklnREtMQkRLdGJOTGJ1Q09IaUZrN0U2X1k5UWVhRm9zZFo4OFQyb1ZzVGs0MzlGLVJLVGJPZlloUms?oc=5"
+    },
+    {
       "title": "시진핑의 중국몽이 ‘일장춘몽’인 이유",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uVnVOME14WTlEOU5uVmhnbDZQNzUwcm1OYjhwdmppS2V1WEtMT3IyMFNWMHZHTEZ4RFpPem9GV1YwVGFxRFdzZktnMUNFaTh5WFNCOTZFM3FPUExPVWlkV0ZuTnJHRjNkNVHSAW5BVV95cUxPQllpN0djeTdadEFtbEk3bmo2QVNMbEptSmFwS0cteWJLVXZFSUFyNG92ZlE0YWVmXzFUeWNDc3o4VjFrUUFXVnByb2lzdVZQMm5yTWZPOTdhOGtVOHlhTFBhZE0zMVVvT2c1bUNmUQ?oc=5",
       "source": "조선일보",
-      "date": "Sun, 14 Jun 2026 20:00:00 GMT"
+      "date": "Sun, 14 Jun 2026 20:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uVnVOME14WTlEOU5uVmhnbDZQNzUwcm1OYjhwdmppS2V1WEtMT3IyMFNWMHZHTEZ4RFpPem9GV1YwVGFxRFdzZktnMUNFaTh5WFNCOTZFM3FPUExPVWlkV0ZuTnJHRjNkNVHSAW5BVV95cUxPQllpN0djeTdadEFtbEk3bmo2QVNMbEptSmFwS0cteWJLVXZFSUFyNG92ZlE0YWVmXzFUeWNDc3o4VjFrUUFXVnByb2lzdVZQMm5yTWZPOTdhOGtVOHlhTFBhZE0zMVVvT2c1bUNmUQ?oc=5"
     },
     {
       "title": "“실물경제 지원 지속”… 중국 사회융자 규모 7.8% 증가",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15ZG9jc01rb0FMUEQwTFJJUWZoOHFUWm5jMk1kQUVtRjZwREtTakdycjhQZjh2N0Nva3RGamxqNkVuUWxyb1JKRlYzamxMZnJyVWFkaDdKRXhSZTBGMDlRc3hpN1ZEaTRUQVlV0gFvQVVfeXFMTkdaWXB1bmN3NXItczA4WUo3bE80bnVXTFBtcmxNd1BMc1FIU0xpckVDSnBPVHkyWkxTa1hlOU9aUnpmS2NtVzlPU1hweHk4TDdIcXVta0F3S3NRUkFBeFhZSzN3bkNuYjNWZGN4NFZv?oc=5",
       "source": "한국보험신문",
-      "date": "Sun, 14 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "title": "대만, 중국인 제보 전용 사이트 개설…'정보전' 수위 높였다",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQnBTNmZaWU9JbmE4dG0zRkM0aS14bFM4VF9keVNlN0tNLVZmTWREX1lVYXE1N3A0RmwzRUpidGxXdHpIbnlMUHh2Z2hfZTllNEdEbmRfNlVYYlFfZ0lyclF2blBzZ2JoRHh4M3B1aHZid2V3WFUyY1ZCTUN2bzFTMw?oc=5",
-      "source": "이데일리",
-      "date": "Sun, 14 Jun 2026 13:38:00 GMT"
+      "date": "Sun, 14 Jun 2026 15:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15ZG9jc01rb0FMUEQwTFJJUWZoOHFUWm5jMk1kQUVtRjZwREtTakdycjhQZjh2N0Nva3RGamxqNkVuUWxyb1JKRlYzamxMZnJyVWFkaDdKRXhSZTBGMDlRc3hpN1ZEaTRUQVlV0gFvQVVfeXFMTkdaWXB1bmN3NXItczA4WUo3bE80bnVXTFBtcmxNd1BMc1FIU0xpckVDSnBPVHkyWkxTa1hlOU9aUnpmS2NtVzlPU1hweHk4TDdIcXVta0F3S3NRUkFBeFhZSzN3bkNuYjNWZGN4NFZv?oc=5"
     },
     {
       "title": "“시진핑, 북한을 ‘카드’에서 ‘파트너’로 격상…비핵화는 북중 관계에서 공식 사망”",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SY2tiS3FSZnh2RU9KYlNXaXpIVmRJU0lRcmpqaGs1cDA2UDMwNDhqN0ZmdXNnclZ2OG96RUludi11Tm9jMmVwZldyMnV0TmR4WGRXX1pxZHI?oc=5",
       "source": "에포크타임스",
-      "date": "Sun, 14 Jun 2026 13:05:38 GMT"
-    },
-    {
-      "title": "'AI라는 든든한 버스에 올라타자'…중국 첨단산업 현장 가보니",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ENmx1SnZTUjYzY295Nk1sNWVJWlBxWG41MnE1Z2o5Y1BlclZFWk1iQWRFU3dhUmpENmtqUmRoUmxybzRsc2JLRWVyaWhCdFU?oc=5",
-      "source": "v.daum.net",
-      "date": "Sun, 14 Jun 2026 06:57:51 GMT"
-    },
-    {
-      "title": "5년 새 두 배 폭증…중국 국가 부채 2경2000조원 돌파",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPdGtmejlVTS15N1otTER1RWhPcEdBWG94VDV2d25IMGRsODcxdUl2OTJ5S05jQzBrclIyY1V1X3JYLXZxZURZMm54WHdwQ054aDduMF8yRlZtZ2drdFA0eWdHVV9xZHBLd01sbzcyVQ?oc=5",
-      "source": "진일보",
-      "date": "Sun, 14 Jun 2026 06:41:58 GMT"
+      "date": "Sun, 14 Jun 2026 13:05:38 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SY2tiS3FSZnh2RU9KYlNXaXpIVmRJU0lRcmpqaGs1cDA2UDMwNDhqN0ZmdXNnclZ2OG96RUludi11Tm9jMmVwZldyMnV0TmR4WGRXX1pxZHI?oc=5"
     },
     {
       "title": "부동산 붕괴 겪는 中 경제… 왜 AI는 ‘구원투수’가 되지 못했나",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcE5FVFFGS0NCZnJUWDNzTmx6SnYtazdIZm1vT2Ezc0g1cDdSQk9pSExLUDdxS0gyZXNuQ3I3Mk5Wd1g5VWF0X0xZaHZ5b3k4ZWpyemlQNG1hTTVpNk5VN2hoZnliVzljU1RkUnp1bFRzVENwT3lHeDVXRDNnWFRaTWNOUWcwaGg5?oc=5",
       "source": "글로벌이코노믹",
-      "date": "Sat, 13 Jun 2026 20:30:00 GMT"
+      "date": "Sat, 13 Jun 2026 20:30:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcE5FVFFGS0NCZnJUWDNzTmx6SnYtazdIZm1vT2Ezc0g1cDdSQk9pSExLUDdxS0gyZXNuQ3I3Mk5Wd1g5VWF0X0xZaHZ5b3k4ZWpyemlQNG1hTTVpNk5VN2hoZnliVzljU1RkUnp1bFRzVENwT3lHeDVXRDNnWFRaTWNOUWcwaGg5?oc=5"
     },
     {
       "title": "캐빈 류 \"중국 경제의 방향, 세가지 변수에 달렸다\"",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fY1VUNW9zME52aC1qSmhVNGpPYWpFMkk3WTRYRGRnZXBuQTBQQm9MQ0JSWlN3MFFBVlZ4cVJpUlVIeVlMRU93UmlKa0FCU2lQYy1TT0hhenQ0Z9IBVEFVX3lxTE1Ic1RXdU1aa2R3bkROVFpUQXFJWGRZSGpLMnhHZUV1NW14eDVQQ0gzQVRkRUdIc1hpUUhkUWlGQkg3b21JcS1TTklSNmtuVnNGRG1INA?oc=5",
       "source": "한국경제",
-      "date": "Sat, 13 Jun 2026 02:00:05 GMT"
+      "date": "Sat, 13 Jun 2026 02:00:05 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fY1VUNW9zME52aC1qSmhVNGpPYWpFMkk3WTRYRGRnZXBuQTBQQm9MQ0JSWlN3MFFBVlZ4cVJpUlVIeVlMRU93UmlKa0FCU2lQYy1TT0hhenQ0Z9IBVEFVX3lxTE1Ic1RXdU1aa2R3bkROVFpUQXFJWGRZSGpLMnhHZUV1NW14eDVQQ0gzQVRkRUdIc1hpUUhkUWlGQkg3b21JcS1TTklSNmtuVnNGRG1INA?oc=5"
     },
     {
       "title": "경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91QjA4OThrTnVlZzNpRG04RFRQaW5ZVW9sYmVkSDFwZ2JKaE1fMHNmTWpmNUYwM05HNHFHN0hXMnk2Nlo4akN3NW1MMzNSU3lvNmd4dnBn?oc=5",
       "source": "현대경제연구원",
-      "date": "Sat, 13 Jun 2026 01:20:01 GMT"
+      "date": "Sat, 13 Jun 2026 01:20:01 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91QjA4OThrTnVlZzNpRG04RFRQaW5ZVW9sYmVkSDFwZ2JKaE1fMHNmTWpmNUYwM05HNHFHN0hXMnk2Nlo4akN3NW1MMzNSU3lvNmd4dnBn?oc=5"
     },
     {
       "title": "중국 경제 내수 침체 탈피할까...중국증시 영향은?",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RcmpySFVfcmY1RXdhbl9lWmliVmRyMkdxa3BDczdlellIREp4M3ZKU0dJTllpbEFwX19iZmhUQUFDMWdmN1BjTzRzVGw1SlFNWmMyOUtVRUp1RE5GcnNKRDFjUThNNVVhXzV3VV9OVdIBc0FVX3lxTE5QMFphV2hyNVBCMDZEN2ZxUENjUTdkOFdVM1U3WnRjTGxDb1d1NGNvZTl5d0U3WjhVOFFYaF9wZkxFRWZhRGZMSnlEaDl1Z2RfLTZKNnFsT0VtVFQ4MnZDbDBxSGxlTzA4REtyV1ZlZXJvY28?oc=5",
       "source": "초이스경제",
-      "date": "Fri, 12 Jun 2026 03:15:02 GMT"
-    },
-    {
-      "title": "북 [노동신문], 시진핑 방북에 맞춰 “중국경제 활기있게 발전”",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iUkJnYlAzbTFScFAzOXZSdFZHWEo0Q09lYnlxN1R0c19lTlBGemtqYVBDd3EzMGw5R1Nkd0U2c3U0MkFaOVFKbDlQcVptWkNXaWpSQ1NnMFBSdUhGQU00V0tXT0tlckZ6MVZWQi13?oc=5",
-      "source": "통일뉴스",
-      "date": "Tue, 09 Jun 2026 03:28:54 GMT"
+      "date": "Fri, 12 Jun 2026 03:15:02 GMT",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RcmpySFVfcmY1RXdhbl9lWmliVmRyMkdxa3BDczdlellIREp4M3ZKU0dJTllpbEFwX19iZmhUQUFDMWdmN1BjTzRzVGw1SlFNWmMyOUtVRUp1RE5GcnNKRDFjUThNNVVhXzV3VV9OVdIBc0FVX3lxTE5QMFphV2hyNVBCMDZEN2ZxUENjUTdkOFdVM1U3WnRjTGxDb1d1NGNvZTl5d0U3WjhVOFFYaF9wZkxFRWZhRGZMSnlEaDl1Z2RfLTZKNnFsT0VtVFQ4MnZDbDBxSGxlTzA4REtyV1ZlZXJvY28?oc=5"
     },
     {
       "title": "중동 사태의 중국 경제 충격 및 파급영향 점검",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcG84TzlDRHplRkdkX3dhNGVWVjJNdnJ0dGRobjFhTzNtZklJOWtESmo2TFFQaWI4X1d2ZXpSZWNyTTBBQlBrVER2YnJSN1lONlJKVFlvNnlkTU9SbDQ0STI2b1liMDQ0bVhiR3lPcm5VT1g5c0p5X0d5TFJrV0xVSw?oc=5",
       "source": "한국개발연구원(KDI)",
-      "date": "Sat, 30 May 2026 03:17:58 GMT"
+      "date": "Sat, 30 May 2026 03:17:58 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcG84TzlDRHplRkdkX3dhNGVWVjJNdnJ0dGRobjFhTzNtZklJOWtESmo2TFFQaWI4X1d2ZXpSZWNyTTBBQlBrVER2YnJSN1lONlJKVFlvNnlkTU9SbDQ0STI2b1liMDQ0bVhiR3lPcm5VT1g5c0p5X0d5TFJrV0xVSw?oc=5"
+    },
+    {
+      "title": "경제는 ‘흔들’ 기술은 ‘질주’하는 중국의 딜레마, 실체는?",
+      "source": "중앙일보",
+      "date": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZG1sWUFDY2l6bFoyeFBUdTdzUjgwU1o0clpaZm5hSk9QU0NvUE5uQWdaelg0OFhKNXI2dXk5VnNjSVE5R3lwMkpDMFFiRzc1LW9nYnVn?oc=5"
     }
   ]
 }
