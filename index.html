@@ -282,6 +282,7 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
     <span class="tb-tab active" data-target="top">Home</span>
     <span class="tb-tab" data-target="sec-commodities">Commodities</span>
     <span class="tb-tab" data-target="sec-news">News</span>
+    <span class="tb-tab" data-target="sec-press">Press</span>
     <span class="tb-tab" data-target="sec-ai">AI</span>
   </div>
   <div class="tb-search">
@@ -662,6 +663,14 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
       <div class="small" style="margin-top:7px;font-style:italic;line-height:1.5">Estimate — excludes insurance, handling & local fees. Verify with your forwarder.</div>
     </div>
 
+    <div class="panel" id="sec-press">
+      <div class="panel-head"><div class="panel-title">보도자료 · Press <span class="badge-live">PRESS</span></div></div>
+      <div id="press-list" style="font-size:12px;line-height:1.5">
+        <div style="color:var(--muted);font-style:italic;text-align:center;padding:18px 0">로딩 중…</div>
+      </div>
+      <div style="font-size:10px;color:var(--muted);margin-top:7px;font-style:italic">㈜에이브릿지 · ㈜에코브릿지 공식 보도자료</div>
+    </div>
+
     <div class="panel" id="sec-news">
       <div class="panel-head"><div class="panel-title">News <span class="badge-live">RSS</span></div></div>
       <div id="news-list" style="font-size:12px;line-height:1.5">
@@ -774,6 +783,24 @@ document.querySelectorAll('.tb-tab').forEach(t=>{
     else if(tgt){ var el=document.getElementById(tgt); if(el) el.scrollIntoView({behavior:'smooth',block:'start'}); }
   });
 });
+function loadPress(){
+  var host=document.getElementById('press-list'); if(!host) return;
+  fetch('data/press_latest.json?t='+Date.now()).then(function(r){return r.json();}).then(function(d){
+    var en=(window.CN_LANG==='en');
+    var items=(d.items||[]);
+    if(!items.length){ host.innerHTML='<div style="color:var(--muted);font-style:italic;text-align:center;padding:14px 0">—</div>'; return; }
+    host.innerHTML=items.map(function(it){
+      var title=en?(it.title_en||it.title):it.title;
+      var summ=en?(it.summary_en||it.summary||''):(it.summary||'');
+      return '<a href="'+it.link+'" target="_blank" rel="noopener" style="display:block;padding:7px 0;border-bottom:1px solid var(--line-grid);text-decoration:none">'
+        +'<div style="font-size:12.5px;color:var(--text-bright);font-weight:600;line-height:1.4">'+(title||'')+'</div>'
+        +(summ?'<div style="font-size:11px;color:var(--muted);margin-top:3px;line-height:1.4">'+summ+'</div>':'')
+        +'<div style="font-size:10px;color:var(--orange);margin-top:3px">'+(it.source||'')+(it.date?' · '+it.date:'')+(en?' · Read full →':' · 전문 보기 →')+'</div></a>';
+    }).join('');
+  }).catch(function(e){ console.warn('press', e); host.innerHTML='<div style="color:var(--muted);font-style:italic;text-align:center;padding:14px 0">로드 실패</div>'; });
+}
+loadPress();
+document.addEventListener('click', function(e){ var sp=e.target.closest?e.target.closest('#lang-toggle span[data-lang]'):null; if(sp) setTimeout(loadPress,30); });
 function loadNews(){
   var host=document.getElementById('news-list'); if(!host) return;
   fetch('data/news_latest.json?t='+Date.now()).then(function(r){return r.json();}).then(function(d){
