@@ -1,313 +1,313 @@
 {
-  "updated_at_kst": "2026-06-15T12:59:27.024218+09:00",
+  "updated_at_kst": "2026-06-16T07:07:23.724903+09:00",
   "items": [
     {
       "id": "gold",
       "name": "금",
       "unit": "CNY/g",
       "file": "gold.json",
-      "count": 45
+      "count": 46
     },
     {
       "id": "silver",
       "name": "은",
       "unit": "CNY/kg",
       "file": "silver.json",
-      "count": 45
+      "count": 46
     },
     {
       "id": "copper",
       "name": "구리",
       "unit": "CNY/t",
       "file": "copper.json",
-      "count": 45
+      "count": 46
     },
     {
       "id": "aluminum",
       "name": "알루미늄",
       "unit": "CNY/t",
       "file": "aluminum.json",
-      "count": 45
+      "count": 46
     },
     {
       "id": "crude_oil",
       "name": "원유",
       "unit": "USD/bbl",
       "file": "crude_oil.json",
-      "count": 45
+      "count": 46
     },
     {
       "id": "coal",
       "name": "석탄",
       "unit": "CNY/t",
       "file": "coal.json",
-      "count": 31
+      "count": 32
     },
     {
       "id": "natural_gas",
       "name": "천연가스",
       "unit": "CNY/t",
       "file": "natural_gas.json",
-      "count": 45
+      "count": 46
     },
     {
       "id": "corn",
       "name": "옥수수",
       "unit": "CNY/t",
       "file": "corn.json",
-      "count": 45
+      "count": 46
     },
     {
       "id": "soybean",
       "name": "대두",
       "unit": "CNY/t",
       "file": "soybean.json",
-      "count": 45
+      "count": 46
     },
     {
       "id": "corn_starch",
       "name": "옥수수 전분",
       "unit": "CNY/t",
       "file": "corn_starch.json",
-      "count": 45
+      "count": 46
     },
     {
       "id": "white_sugar",
       "name": "백설탕",
       "unit": "CNY/t",
       "file": "white_sugar.json",
-      "count": 45
+      "count": 46
     },
     {
       "id": "egg",
       "name": "달걀",
       "unit": "CNY/kg",
       "file": "egg.json",
-      "count": 45
+      "count": 46
     },
     {
       "id": "live_pig",
       "name": "생 돼지",
       "unit": "CNY/kg",
       "file": "live_pig.json",
-      "count": 45
+      "count": 46
     },
     {
       "id": "palm_oil",
       "name": "팜오일",
       "unit": "CNY/t",
       "file": "palm_oil.json",
-      "count": 45
+      "count": 46
     },
     {
       "id": "rapeseed_oil",
       "name": "채종유",
       "unit": "CNY/t",
       "file": "rapeseed_oil.json",
-      "count": 45
+      "count": 46
     },
     {
       "id": "soybean_oil",
       "name": "대두유",
       "unit": "CNY/t",
       "file": "soybean_oil.json",
-      "count": 45
+      "count": 46
     },
     {
       "id": "zinc",
       "name": "아연",
       "unit": "CNY/t",
       "file": "zinc.json",
-      "count": 41
+      "count": 42
     },
     {
       "id": "lead",
       "name": "납",
       "unit": "CNY/t",
       "file": "lead.json",
-      "count": 41
+      "count": 42
     },
     {
       "id": "nickel",
       "name": "니켈",
       "unit": "CNY/t",
       "file": "nickel.json",
-      "count": 41
+      "count": 42
     },
     {
       "id": "tin",
       "name": "주석",
       "unit": "CNY/t",
       "file": "tin.json",
-      "count": 41
+      "count": 42
     },
     {
       "id": "cobalt",
       "name": "코발트",
       "unit": "CNY/t",
       "file": "cobalt.json",
-      "count": 41
+      "count": 42
     },
     {
       "id": "lithium_carbonate",
       "name": "탄산리튬",
       "unit": "CNY/t",
       "file": "lithium_carbonate.json",
-      "count": 40
+      "count": 41
     },
     {
       "id": "lldpe",
       "name": "선형저밀도 폴리에틸렌",
       "unit": "CNY/t",
       "file": "lldpe.json",
-      "count": 40
+      "count": 41
     },
     {
       "id": "hdpe",
       "name": "고밀도 폴리에틸렌",
       "unit": "CNY/t",
       "file": "hdpe.json",
-      "count": 41
+      "count": 42
     },
     {
       "id": "ldpe",
       "name": "저밀도 폴리에틸렌",
       "unit": "CNY/t",
       "file": "ldpe.json",
-      "count": 41
+      "count": 42
     },
     {
       "id": "pp",
       "name": "폴리프로필렌",
       "unit": "CNY/t",
       "file": "pp.json",
-      "count": 40
+      "count": 41
     },
     {
       "id": "pvc",
       "name": "폴리염화비닐",
       "unit": "CNY/t",
       "file": "pvc.json",
-      "count": 40
+      "count": 41
     },
     {
       "id": "ps",
       "name": "폴리스티렌",
       "unit": "CNY/t",
       "file": "ps.json",
-      "count": 41
+      "count": 42
     },
     {
       "id": "pc",
       "name": "폴리카보네이트",
       "unit": "CNY/t",
       "file": "pc.json",
-      "count": 40
+      "count": 41
     },
     {
       "id": "abs",
       "name": "ABS",
       "unit": "CNY/t",
       "file": "abs.json",
-      "count": 40
+      "count": 41
     },
     {
       "id": "styrene",
       "name": "스티렌",
       "unit": "CNY/t",
       "file": "styrene.json",
-      "count": 41
+      "count": 42
     },
     {
       "id": "paraxylene",
       "name": "파라자일렌",
       "unit": "CNY/t",
       "file": "paraxylene.json",
-      "count": 41
+      "count": 42
     },
     {
       "id": "benzene",
       "name": "순수 벤젠",
       "unit": "CNY/t",
       "file": "benzene.json",
-      "count": 40
+      "count": 41
     },
     {
       "id": "methanol",
       "name": "메탄올",
       "unit": "CNY/t",
       "file": "methanol.json",
-      "count": 40
+      "count": 41
     },
     {
       "id": "phenol",
       "name": "페놀",
       "unit": "CNY/t",
       "file": "phenol.json",
-      "count": 40
+      "count": 41
     },
     {
       "id": "acetone",
       "name": "아세톤",
       "unit": "CNY/t",
       "file": "acetone.json",
-      "count": 40
+      "count": 41
     },
     {
       "id": "ethylene_glycol",
       "name": "글리콜",
       "unit": "CNY/t",
       "file": "ethylene_glycol.json",
-      "count": 40
+      "count": 41
     },
     {
       "id": "naphtha",
       "name": "나프타",
       "unit": "CNY/t",
       "file": "naphtha.json",
-      "count": 41
+      "count": 42
     },
     {
       "id": "gasoline",
       "name": "가솔린",
       "unit": "CNY/t",
       "file": "gasoline.json",
-      "count": 40
+      "count": 41
     },
     {
       "id": "diesel",
       "name": "디젤유",
       "unit": "CNY/t",
       "file": "diesel.json",
-      "count": 40
+      "count": 41
     },
     {
       "id": "iron_ore",
       "name": "철광석",
       "unit": "CNY/t",
       "file": "iron_ore.json",
-      "count": 40
+      "count": 41
     },
     {
       "id": "hrc",
       "name": "열간 압연 코일",
       "unit": "CNY/t",
       "file": "hrc.json",
-      "count": 40
+      "count": 41
     },
     {
       "id": "rebar",
       "name": "이형철근",
       "unit": "CNY/t",
       "file": "rebar.json",
-      "count": 40
+      "count": 41
     },
     {
       "id": "urea",
       "name": "뇨소",
       "unit": "CNY/t",
       "file": "urea.json",
-      "count": 40
+      "count": 41
     }
   ]
 }
