@@ -2,8 +2,8 @@
   "id": "aluminum",
   "name": "알루미늄",
   "unit": "CNY/t",
-  "updated_at_kst": "2026-06-16T09:37:53+09:00",
-  "count": 46,
+  "updated_at_kst": "2026-06-17T14:42:01+09:00",
+  "count": 47,
   "candles": [
     {
       "time": "2025-01-01",
@@ -188,6 +188,10 @@
     {
       "time": "2026-06-15",
       "value": 24194.03
+    },
+    {
+      "time": "2026-06-16",
+      "value": 23976.92
     }
   ],
   "history_note": "Pre-2026-05: monthly observations (month-start/end). From late May 2026: daily.",

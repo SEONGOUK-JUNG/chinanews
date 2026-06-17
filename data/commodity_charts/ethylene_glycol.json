@@ -2,8 +2,8 @@
   "id": "ethylene_glycol",
   "name": "글리콜",
   "unit": "CNY/t",
-  "updated_at_kst": "2026-06-16T09:37:53+09:00",
-  "count": 41,
+  "updated_at_kst": "2026-06-17T14:42:01+09:00",
+  "count": 42,
   "candles": [
     {
       "time": "2025-01-01",
@@ -168,6 +168,10 @@
     {
       "time": "2026-06-15",
       "value": 4654.84
+    },
+    {
+      "time": "2026-06-16",
+      "value": 4618.13
     }
   ],
   "history_note": "2026-06 SunSirs 일별가(최근 6일) 시드. 이후 매일 누적.",
