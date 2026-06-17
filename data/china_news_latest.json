@@ -1,15 +1,45 @@
 {
-  "run_at_kst": "2026-06-17T14:43:57.108263+09:00",
+  "run_at_kst": "2026-06-18T07:12:10.007168+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "\"재생에너지 강자 중국 웃는다\"…이란 전쟁이 바꿀 세계 경제",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xemRTbm40YlV6QzFPVzU1WjlVRVBwdzE1cWJITjhZQWFUOWMwYzVFY2ZfbURfZ0txZzBlaElBZlc2aXFOeGhzcFE5ckd2X0E?oc=5",
+      "title": "중국 경제 둔화, '차이나 쇼크 2.0'으로 유럽·한국 동시 압박",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB2ZnJIb1ZTSnJMUkVkd0dzS3FMbHlBaWQ1ZFdUSEItS1NMcmd4TW5GXzVLVTlaem1hV082a1p4X2tkRlpYVGZxQkZn?oc=5",
+      "source": "뉴스N연합",
+      "date": "Wed, 17 Jun 2026 16:36:55 GMT"
+    },
+    {
+      "title": "차이나 쇼크 2.0, 유럽을 넘어 한국 수출 구조까지 흔든다",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9CY0tzWGdzN0J5Z2pxdk9DWkdBYUJBeEJtN2pvVmJQUUlONnE5SFlIQWwzcU1fUzlLYWR2ejBYSWh4R1E?oc=5",
+      "source": "한국공공정책신문",
+      "date": "Wed, 17 Jun 2026 16:25:36 GMT"
+    },
+    {
+      "title": "부산경제진흥원, 세계 바이어 4만5천 명 만나는 중국 박람회 지원…부산기업 8개사 모집",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXSUFjbGMzd1N5WU9qdnNvVmVRWFp3UmlTNmFRMEMtbUhrOVMtYWhDdUlqMDBHWmdZTkRpa2QyWkg1bWlnMjBKRkg3a3haQmdybjVpT2JVTElLNFhSTE5ueUNBa0s3NlJ2SWJhaEZB?oc=5",
+      "source": "뉴스타운",
+      "date": "Wed, 17 Jun 2026 09:42:38 GMT"
+    },
+    {
+      "title": "월드옥타, 중국 베이징서 최대규모 경제행사 띄운다",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zYXNIZHdKbGxxdW5EZ05mZlIwLVRHQ3RXdUpaWklIUnNpTUwzbENHXzRqZG1PaUZyb1lTNHJxZ2o1UnRRRERTRlFQUmc5NkluekN4Z3hDelRFUTZFYVU5NlpXOFNGZjRlMVRTNg?oc=5",
+      "source": "재외동포신문",
+      "date": "Wed, 17 Jun 2026 06:46:54 GMT"
+    },
+    {
+      "title": "5월 실물 경제지표가 알려주는 '중국 경기 위축'",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HdV9IdklMM0FrUHFONkpLMUQzaDVTVXhzQ0t2RVI1WFhPQlBaY0hvNGcydGhfR1V3eTZLU0MwXzhqbFBuZTh6THJmYjNkaUUyVUJwal9TMDlTQmVDUElVSk83RmpyUGxhU1dWNmdzOHVGSlRldnNN?oc=5",
+      "source": "thecommoditiesnews.com",
+      "date": "Wed, 17 Jun 2026 05:39:22 GMT"
+    },
+    {
+      "title": "울산창조경제혁신센터, 국내 우수 스타트업 ‘중국 진출 지원’ 본격화",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2RkQ3R1JQaWJPRzZ4R2lCa1l4TXpKYVhPUW5xem5LbzlMa1FwMXRLN1BrYmp1OHJjSzUyZWdrekZaQVVIb3hxcjhGTExoMzQ?oc=5",
       "source": "v.daum.net",
-      "date": "Wed, 17 Jun 2026 04:57:00 GMT"
+      "date": "Wed, 17 Jun 2026 05:12:00 GMT"
     },
     {
       "title": "[신간] 중국이 분석한 미국 침몰 시나리오",
@@ -18,22 +48,10 @@
       "date": "Wed, 17 Jun 2026 04:51:00 GMT"
     },
     {
-      "title": "中다롄서 23∼25일 하계 다보스포럼",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1icl8xUm5jQ1pLOHhaNU8zWF82Tm55c01xWDRHaXA2U015dWNTWUMwRmQzRkktYzRwQkZpQllMbXE0Y05BQkJhRGtIUkcteUpHellj?oc=5",
-      "source": "biz.sbs.co.kr.",
-      "date": "Wed, 17 Jun 2026 02:45:00 GMT"
-    },
-    {
       "title": "中다롄서 23∼25일 하계 다보스포럼…90여개국 1천700여명 참석",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81bDJXSllfWVBFYnZBbzFSRlVsR295N3dCVEVzeDRtU1NaZURtYk9pb0lHM1BGQUQxbURPdGszTWRJdmVSdjBYeVZBMkNKb1BrNS1wZzJDNm5SVjjSAWBBVV95cUxNRldValdIaTZoU1R2RHhRSGpOOTl2aEI1TEZWQnp1LXEwdXFkT1RMRE0wdFZWS3VMb0lOMHJuRGswYmxjUm9iVE1rZGtBSGFrWWZLcF9iV1ZMTkdyT3lyX2k?oc=5",
       "source": "연합뉴스",
       "date": "Wed, 17 Jun 2026 01:53:39 GMT"
-    },
-    {
-      "title": "英 싱크탱크 \"이란 전쟁, 세계 에너지 질서 재편…중국, 최대 수혜자\"",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RYjFoei1OQUk5YnBmUkpDbGRfR1FUYnhZeDVEdzBvX3B6LUlaRDMtQ0FULWJvX0hyOWtXeTJBQ0p4aUtKVVJKVFRzV2NQcTJvM1BMWF93LVZvUUhNWWc?oc=5",
-      "source": "더구루",
-      "date": "Tue, 16 Jun 2026 23:35:29 GMT"
     },
     {
       "title": "[차이나 인사이트] 숫자 뒤에 숨겨진 중국 경제 읽기…중국 부동산 위기는 끝났나",
@@ -42,40 +60,22 @@
       "date": "Tue, 16 Jun 2026 21:25:00 GMT"
     },
     {
-      "title": "일본상의, 8년만에 대표단 중국 방문···중·일관계 악화 속 경제교류 시도",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0ZzBkMHVMVEJ5RTZhMFBrR29keXZaR19Pc2YxX1pCYnBxdUNMa3V2NGFGenJIc0tsTHRfNTlST2JCTVpUaUFidk5EbGdacTZnMkHSAVNBVV95cUxNUVhaVXZJN0dHSENJLXFqZG9Ray1hRDJKTk5qZ2ttOF9BUFN3X3NSRXJWVHpXS3ZmSHdMcmpKRXNUQTF1SjQ0WGlBRnBOYzJWWEkzTQ?oc=5",
-      "source": "서울경제",
-      "date": "Tue, 16 Jun 2026 21:00:00 GMT"
+      "title": "세 가지 키워드로 읽는 중국 경제의 5월 성적표",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EVVlyREhrR1ljZGxRRGtPbEE2NmV1X2V3STZScmlDb0tObGFKbXQ2Ri16SXI5ODR4N1dnS0xjZ0hNUVJDSU96U2RFeU5NYmVXNWgyYWFaVE80SGxYNUxaU3AxTQ?oc=5",
+      "source": "国际在线",
+      "date": "Tue, 16 Jun 2026 11:15:06 GMT"
     },
     {
-      "title": "[아시아권 뉴스] 중국 경제, 소비는 더디고 전자상거래·첨단산업은 커졌다",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fT0h2Ynh0VHBjWm1iTHFLNV96X1Fpem1sOEg0N2xPbGVoZ0RFWmhSMXJpanlBUXptRU8tcGQyRXIyaTlSbkhTMDNvaVJZdnRPeEN3?oc=5",
-      "source": "네이트",
-      "date": "Tue, 16 Jun 2026 08:11:00 GMT"
+      "title": "경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tX1plSlYtX0RTdHdHQWlSeG9IWUZPTDN5RkVfZ0NNeUNseUtSWkhqSlVyQTlNODVBbDBwQVpwMVpEUjBiX3BuVmlaZ256UlVEZkdfb21B?oc=5",
+      "source": "현대경제연구원",
+      "date": "Fri, 12 Jun 2026 20:55:26 GMT"
     },
     {
-      "title": "中 소비 3년 반 만에 뒷걸음…수출만 질주, 내수는 침체",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LTWFIU1c5SHRnRjRxYjNjc1RBSlh3X1Yxel9QUEkyN1pTVW12OVFiVU9IUFpDSVRkOVFZNjdRM2dOSDBWV3R0LVpYQTJBRm5TbFI1eHRwRzJuZ9IBWEFVX3lxTE1IZHZObVdxTEpYZDNsT2hnNzdobFRFaXFxenk2dk9BQjNpYnpST2F5OUtLbkh2NEV3WVpOeG9STG42NFpYWGIyYTZMUEZ2ZWNJLXZ6QV8yVy0?oc=5",
-      "source": "아주경제",
-      "date": "Tue, 16 Jun 2026 03:14:19 GMT"
-    },
-    {
-      "title": "중국·베트남 총리 통화…“경제협력 확대, 해상 갈등 안정적 관리”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uenRvQmlLMW53VHZidnpCbTlRR1BjQVJackEyZmZFOG5GNmdFSjY0VHBTcy14QkF6YllOcjVldFRKU2g0cVlBLUNrbGduRmQ2UlZoTjM2dk1RazA?oc=5",
-      "source": "KBS 뉴스",
-      "date": "Mon, 15 Jun 2026 12:53:00 GMT"
-    },
-    {
-      "title": "[ASIA BIZ] 중국은 대표팀 빼고 다 갔다…월드컵 경제 파고든 中 기업들",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uWnVNNF84cXdtZWtMR25HVFZ1XzlUYWw4ajRXOTlEZTE3Vnhud0xuOWk2VzlHbU5lWDFhUk5JZ0VlNEltdzVNZnFUN0hZSVl2ZTg4VWFsUDU2Z9IBWEFVX3lxTE5vcnNmSEJkbmNuVS1xUzB0Y3IxU2ROZHFKc2wtNk15MHRPQkxrZmxVbDJEbDVrQTFBTGxnbTZ5YlpLVFJXU3pQUXBpNm82Xzh2LTJYNV9zaWo?oc=5",
-      "source": "아주경제",
-      "date": "Mon, 15 Jun 2026 03:00:00 GMT"
-    },
-    {
-      "title": "일본-영국, 경제안보 협력 강화…중국 겨냥 “자의적 수출제한 우려”",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LSHdaVG9TMl96UXdpWklnREtMQkRLdGJOTGJ1Q09IaUZrN0U2X1k5UWVhRm9zZFo4OFQyb1ZzVGs0MzlGLVJLVGJPZlloUms?oc=5",
-      "source": "v.daum.net",
-      "date": "Mon, 15 Jun 2026 00:28:09 GMT"
+      "title": "중동 사태의 중국 경제 충격 및 파급영향 점검",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcG84TzlDRHplRkdkX3dhNGVWVjJNdnJ0dGRobjFhTzNtZklJOWtESmo2TFFQaWI4X1d2ZXpSZWNyTTBBQlBrVER2YnJSN1lONlJKVFlvNnlkTU9SbDQ0STI2b1liMDQ0bVhiR3lPcm5VT1g5c0p5X0d5TFJrV0xVSw?oc=5",
+      "source": "한국개발연구원(KDI)",
+      "date": "Sat, 30 May 2026 03:17:58 GMT"
     }
   ]
 }
