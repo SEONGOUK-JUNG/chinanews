@@ -344,64 +344,88 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
       <div class="panel-head">
         <div class="panel-title">BRIDGE GROUP <span class="badge-api">GROUP</span></div>
       </div>
-      <div class="bg-intro" style="font-size:11.5px;line-height:1.65;color:var(--text)">
-        한·중 통합 공급망 기업. <b style="color:var(--orange)">㈜에이브릿지</b>(식량안보·전략광물)와 <b style="color:var(--orange)">㈜에코브릿지</b>(친환경 소재)로 구성됩니다.
-        <div style="margin-top:7px;color:var(--muted)">농산물(쌀·옥수수) · 전략광물(하프늄·희토류) · 화학제품(HDPE·LLDPE·LDPE) 유통 · PBAT·PLA 생분해성 소재</div>
-        <div style="margin-top:8px;display:flex;gap:12px;font-size:11px">
-          <a href="http://www.abridge.co.kr/" target="_blank" rel="noopener" style="color:var(--orange);text-decoration:none">abridge.co.kr ↗</a>
-          <a href="https://www.ecobridge.biz/" target="_blank" rel="noopener" style="color:var(--orange);text-decoration:none">ecobridge.biz ↗</a>
-        </div>
-      </div>
+      <div class="bg-intro" id="bg-intro" style="font-size:11.5px;line-height:1.65;color:var(--text)"></div>
     </div>
 
-    <!-- ===== Inquiry form (Web3Forms → email) ===== -->
+    <!-- ===== Inquiry form (Web3Forms -> email) ===== -->
     <div class="panel">
       <div class="panel-head">
-        <div class="panel-title">문의하기 <span class="badge-api">CONTACT</span></div>
+        <div class="panel-title"><span id="bg-ttl">Inquiry</span> <span class="badge-api">CONTACT</span></div>
       </div>
       <form id="bg-contactForm" class="bg-form">
         <input type="hidden" name="access_key" value="776f43bf-0d46-4608-831b-79ac3b1bf44a"/>
-        <input type="hidden" name="subject" value="[chinanews.kr] 홈페이지 문의"/>
-        <input type="hidden" name="from_name" value="chinanews.kr 터미널"/>
-        <input type="text" name="company" placeholder="회사명"/>
-        <input type="text" name="name" placeholder="성함" required/>
-        <input type="tel" name="phone" placeholder="연락처"/>
-        <input type="email" name="email" placeholder="이메일" required/>
-        <select name="inquiry_type">
-          <option value="">문의 유형 선택</option>
-          <option>🌾 농산물 (쌀 국영무역) 문의</option>
-          <option>🌾 농산물 (옥수수) 수입 문의</option>
-          <option>🌾 농산물 (버섯) 수입 문의</option>
-          <option>🌿 친환경 소재 (PBAT 수지) 문의</option>
-          <option>🌿 친환경 소재 (PBAT 개질 마스터) 문의</option>
-          <option>🌿 친환경 소재 (PLA·멀칭필름) 문의</option>
-          <option>⚙️ 화학제품 (HDPE·LLDPE·LDPE) 유통 문의</option>
-          <option>⚙️ 화학제품 (BOPP·BOPET·Nylon) 유통 문의</option>
-          <option>💎 전략광물 (하프늄) 공급 문의</option>
-          <option>💎 전략광물 (리튬·니켈·코발트) 공급 문의</option>
-          <option>💎 희토류 공급 문의</option>
-          <option>🤝 파트너십 제안</option>
-          <option>기타</option>
-        </select>
-        <textarea name="message" placeholder="문의 내용을 입력하세요..." rows="3"></textarea>
-        <button type="submit" class="bg-fbtn" id="bg-fbtn">문의 보내기 →</button>
+        <input type="hidden" name="subject" value="[chinanews.kr] Website inquiry"/>
+        <input type="hidden" name="from_name" value="chinanews.kr terminal"/>
+        <input type="text" name="company" id="bg-company"/>
+        <input type="text" name="name" id="bg-name" required/>
+        <input type="tel" name="phone" id="bg-phone"/>
+        <input type="email" name="email" id="bg-email" required/>
+        <select name="inquiry_type" id="bg-itype"></select>
+        <textarea name="message" id="bg-message" rows="3"></textarea>
+        <button type="submit" class="bg-fbtn" id="bg-fbtn">Send inquiry →</button>
       </form>
     </div>
     <script>
       (function(){
         var form=document.getElementById('bg-contactForm');
         if(!form) return;
+        var L={
+          en:{ ttl:'Inquiry',
+               intro:'Korea–China integrated supply-chain group — <b style="color:var(--orange)">ABRIDGE</b> (food security &amp; strategic minerals) and <b style="color:var(--orange)">ECOBRIDGE</b> (eco-friendly materials).',
+               sub:'Agriculture (rice·corn) · Strategic minerals (hafnium·rare earths) · Chemicals distribution (HDPE·LLDPE·LDPE) · PBAT·PLA biodegradable materials',
+               company:'Company', name:'Name', phone:'Phone', email:'Email', message:'Type your message…', send:'Send inquiry →' },
+          ko:{ ttl:'문의하기',
+               intro:'한·중 통합 공급망 기업 — <b style="color:var(--orange)">㈜에이브릿지</b>(식량안보·전략광물)와 <b style="color:var(--orange)">㈜에코브릿지</b>(친환경 소재)로 구성됩니다.',
+               sub:'농산물(쌀·옥수수) · 전략광물(하프늄·희토류) · 화학제품(HDPE·LLDPE·LDPE) 유통 · PBAT·PLA 생분해성 소재',
+               company:'회사명', name:'성함', phone:'연락처', email:'이메일', message:'문의 내용을 입력하세요...', send:'문의 보내기 →' }
+        };
+        var OPTS=[
+          {v:'', en:'Select inquiry type', ko:'문의 유형 선택'},
+          {v:'농산물 (쌀 국영무역)', en:'🌾 Agriculture (rice, state trading)', ko:'🌾 농산물 (쌀 국영무역) 문의'},
+          {v:'농산물 (옥수수)', en:'🌾 Agriculture (corn import)', ko:'🌾 농산물 (옥수수) 수입 문의'},
+          {v:'농산물 (버섯)', en:'🌾 Agriculture (mushroom import)', ko:'🌾 농산물 (버섯) 수입 문의'},
+          {v:'친환경 (PBAT 수지)', en:'🌿 Eco-material (PBAT resin)', ko:'🌿 친환경 소재 (PBAT 수지) 문의'},
+          {v:'친환경 (PBAT 개질 마스터)', en:'🌿 Eco-material (PBAT masterbatch)', ko:'🌿 친환경 소재 (PBAT 개질 마스터) 문의'},
+          {v:'친환경 (PLA·멀칭필름)', en:'🌿 Eco-material (PLA·mulch film)', ko:'🌿 친환경 소재 (PLA·멀칭필름) 문의'},
+          {v:'화학 (HDPE·LLDPE·LDPE)', en:'⚙️ Chemicals (HDPE·LLDPE·LDPE)', ko:'⚙️ 화학제품 (HDPE·LLDPE·LDPE) 유통 문의'},
+          {v:'화학 (BOPP·BOPET·Nylon)', en:'⚙️ Chemicals (BOPP·BOPET·Nylon)', ko:'⚙️ 화학제품 (BOPP·BOPET·Nylon) 유통 문의'},
+          {v:'전략광물 (하프늄)', en:'💎 Strategic mineral (hafnium)', ko:'💎 전략광물 (하프늄) 공급 문의'},
+          {v:'전략광물 (리튬·니켈·코발트)', en:'💎 Strategic mineral (Li·Ni·Co)', ko:'💎 전략광물 (리튬·니켈·코발트) 공급 문의'},
+          {v:'희토류', en:'💎 Rare earths', ko:'💎 희토류 공급 문의'},
+          {v:'파트너십', en:'🤝 Partnership proposal', ko:'🤝 파트너십 제안'},
+          {v:'기타', en:'Other', ko:'기타'}
+        ];
+        var LINKS='<div style="margin-top:8px;display:flex;gap:12px;font-size:11px">'+
+          '<a href="http://www.abridge.co.kr/" target="_blank" rel="noopener" style="color:var(--orange);text-decoration:none">abridge.co.kr ↗</a>'+
+          '<a href="https://www.ecobridge.biz/" target="_blank" rel="noopener" style="color:var(--orange);text-decoration:none">ecobridge.biz ↗</a></div>';
+        function bgApplyLang(){
+          var lang=(window.CN_LANG==='ko')?'ko':'en'; var t=L[lang];
+          var intro=document.getElementById('bg-intro');
+          if(intro) intro.innerHTML=t.intro+'<div style="margin-top:7px;color:var(--muted)">'+t.sub+'</div>'+LINKS;
+          var ttl=document.getElementById('bg-ttl'); if(ttl) ttl.textContent=t.ttl;
+          var ids={company:'bg-company',name:'bg-name',phone:'bg-phone',email:'bg-email',message:'bg-message'};
+          for(var k in ids){ var el=document.getElementById(ids[k]); if(el) el.placeholder=t[k]; }
+          var btn=document.getElementById('bg-fbtn'); if(btn && !btn.disabled) btn.textContent=t.send;
+          var sel=document.getElementById('bg-itype');
+          if(sel){ var cur=sel.value; sel.innerHTML=''; OPTS.forEach(function(o){ var op=document.createElement('option'); op.value=o.v; op.textContent=o[lang]; sel.appendChild(op); }); sel.value=cur; }
+        }
+        window.__bgApplyLang=bgApplyLang;
+        bgApplyLang();
+        if(document.readyState!=='complete') window.addEventListener('load', bgApplyLang);
+        setTimeout(bgApplyLang,300); setTimeout(bgApplyLang,1200);
+        document.addEventListener('click', function(e){ var s=e.target.closest?e.target.closest('#lang-toggle span[data-lang]'):null; if(s) setTimeout(bgApplyLang,60); });
         form.addEventListener('submit', async function(e){
           e.preventDefault();
           var btn=document.getElementById('bg-fbtn');
-          btn.textContent='전송 중...'; btn.disabled=true;
+          var lang=(window.CN_LANG==='ko')?'ko':'en';
+          btn.textContent=(lang==='ko'?'전송 중...':'Sending…'); btn.disabled=true;
           var json=Object.fromEntries(new FormData(form).entries());
           try{
             var res=await fetch('https://api.web3forms.com/submit',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(json)});
             var r=await res.json();
-            if(r.success){ btn.textContent='✓ 문의가 전송되었습니다'; btn.style.background='#16a34a'; btn.style.color='#fff'; form.reset(); }
-            else { btn.textContent='전송 실패 — 다시 시도'; btn.style.background='#dc2626'; btn.style.color='#fff'; btn.disabled=false; }
-          }catch(err){ btn.textContent='전송 실패 — 다시 시도'; btn.style.background='#dc2626'; btn.style.color='#fff'; btn.disabled=false; }
+            if(r.success){ btn.textContent=(lang==='ko'?'✓ 문의가 전송되었습니다':'✓ Inquiry sent'); btn.style.background='#16a34a'; btn.style.color='#fff'; form.reset(); }
+            else { btn.textContent=(lang==='ko'?'전송 실패 — 다시 시도':'Failed — try again'); btn.style.background='#dc2626'; btn.style.color='#fff'; btn.disabled=false; }
+          }catch(err){ btn.textContent=(lang==='ko'?'전송 실패 — 다시 시도':'Failed — try again'); btn.style.background='#dc2626'; btn.style.color='#fff'; btn.disabled=false; }
         });
       })();
     </script>
