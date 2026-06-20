@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-06-20T14:11:32.148377+09:00",
+  "run_at_kst": "2026-06-21T07:21:07+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,25 +8,55 @@
   "count": 14,
   "items": [
     {
+      "title": "Energy Security, Not Climate Goals, Is Now Driving the Clean Power Boom",
+      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Energy-Security-Not-Climate-Goals-Is-Now-Driving-the-Clean-Power-Boom.html",
+      "source": "OilPrice",
+      "date": "Sat, 20 Jun 2026 16:00:00 -0500"
+    },
+    {
+      "title": "Iraq Is Keeping Its Syria Oil Route—Even If Hormuz Reopens",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Is-Keeping-Its-Syria-Oil-RouteEven-If-Hormuz-Reopens.html",
+      "source": "OilPrice",
+      "date": "Sat, 20 Jun 2026 14:30:00 -0500"
+    },
+    {
+      "title": "China Is Taking Its AI Boom Under the Sea",
+      "link": "https://oilprice.com/Energy/Energy-General/China-Is-Taking-Its-AI-Boom-Under-the-Sea.html",
+      "source": "OilPrice",
+      "date": "Sat, 20 Jun 2026 14:00:00 -0500"
+    },
+    {
+      "title": "Why Small Modular Reactors Are Becoming a National Security Priority",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Why-Small-Modular-Reactors-Are-Becoming-a-National-Security-Priority.html",
+      "source": "OilPrice",
+      "date": "Sat, 20 Jun 2026 12:00:00 -0500"
+    },
+    {
+      "title": "The U.S. States Leading the Backlash Against Data Centers",
+      "link": "https://oilprice.com/Energy/Energy-General/The-US-States-Leading-the-Backlash-Against-Data-Centers.html",
+      "source": "OilPrice",
+      "date": "Sat, 20 Jun 2026 10:00:00 -0500"
+    },
+    {
       "title": "Solar Is the Cheapest Power in History, But States Are Retreating From It",
       "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Solar-Is-the-Cheapest-Power-in-History-But-States-Are-Retreating-From-It.html",
       "source": "OilPrice",
       "date": "Fri, 19 Jun 2026 17:00:00 -0500"
     },
     {
-      "title": "Op-Ed: what the Scope Systems cyber attack reveals about mining’s digital fragility",
+      "title": "Op-Ed: what the Scope Systems cyber attack reveals about mining's digital fragility",
       "link": "https://www.mining.com/op-ed-what-the-scope-systems-cyber-attack-reveals-about-minings-digital-fragility/",
       "source": "mining.com",
       "date": "Fri, 19 Jun 2026 20:46:39 +0000"
     },
     {
-      "title": "Why Lunar Helium-3 Mining Still Can’t Compete With Earth",
+      "title": "Why Lunar Helium-3 Mining Still Can't Compete With Earth",
       "link": "https://oilprice.com/Energy/Energy-General/Why-Lunar-Helium-3-Mining-Still-Cant-Compete-With-Earth.html",
       "source": "OilPrice",
       "date": "Fri, 19 Jun 2026 15:00:00 -0500"
     },
     {
-      "title": "Newmont’s Red Chris underground expansion gets regulatory green light",
+      "title": "Newmont's Red Chris underground expansion gets regulatory green light",
       "link": "https://www.mining.com/newmonts-red-chris-underground-expansion-gets-regulatory-green-light-in-bc/",
       "source": "mining.com",
       "date": "Fri, 19 Jun 2026 19:51:00 +0000"
@@ -36,18 +66,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/The-Real-Reason-BP-Is-Retreating-From-the-North-Sea.html",
       "source": "OilPrice",
       "date": "Fri, 19 Jun 2026 14:00:00 -0500"
-    },
-    {
-      "title": "Israel and Hezbollah Truce Gives Oil Markets a Reason to Pause",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Israel-and-Hezbollah-Truce-Gives-Oil-Markets-a-Reason-to-Pause.html",
-      "source": "OilPrice",
-      "date": "Fri, 19 Jun 2026 13:30:00 -0500"
-    },
-    {
-      "title": "Russia Is Rationing Fuel in Moscow After Drone Strikes",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Is-Rationing-Fuel-in-Moscow-After-Drone-Strikes.html",
-      "source": "OilPrice",
-      "date": "Fri, 19 Jun 2026 12:30:00 -0500"
     },
     {
       "title": "Goldman cuts gold price forecast down to $4,900",
@@ -62,25 +80,7 @@
       "date": "Fri, 19 Jun 2026 16:54:00 +0000"
     },
     {
-      "title": "Kuwait Says Oil Output Could Hit 2 Million Bpd Within a Week",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Kuwait-Says-Oil-Output-Could-Hit-2-Million-Bpd-Within-a-Week.html",
-      "source": "OilPrice",
-      "date": "Fri, 19 Jun 2026 11:30:00 -0500"
-    },
-    {
-      "title": "Why Oil Prices Are Falling Even as Tankers Remain Trapped",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Why-Oil-Prices-Are-Falling-Even-as-Tankers-Remain-Trapped.html",
-      "source": "OilPrice",
-      "date": "Fri, 19 Jun 2026 11:10:00 -0500"
-    },
-    {
-      "title": "Insurers Roll Out $400 Million War-Risk Facility for Hormuz Shipping",
-      "link": "https://oilprice.com/Energy/Energy-General/Insurers-Roll-Out-400-Million-War-Risk-Facility-for-Hormuz-Shipping.html",
-      "source": "OilPrice",
-      "date": "Fri, 19 Jun 2026 11:00:00 -0500"
-    },
-    {
-      "title": "EnCore OK’d to build South Dakota’s first ISR uranium mine",
+      "title": "EnCore OK'd to build South Dakota's first ISR uranium mine",
       "link": "https://www.mining.com/encore-okd-to-build-south-dakotas-first-isr-uranium-mine/",
       "source": "mining.com",
       "date": "Fri, 19 Jun 2026 14:55:59 +0000"
