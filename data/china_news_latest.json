@@ -1,45 +1,45 @@
 {
-  "run_at_kst": "2026-06-19T07:15:17+09:00",
+  "run_at_kst": "2026-06-20T10:15:26.955000+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "중국 소매판매 3년여 만에 첫 감소…경기 둔화 경고등",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50a0lRakYwb0F5c0paa2RuTHJTMVkyVWRUQThpdXZFZFc5SkdxdFpybkF2TXo2YW9xZXI0eXVMNG1jZUJLaVVLTlBqeUNEUDZaaEdUbUNLSkdfN0hZUzhyNA?oc=5",
-      "source": "네이트",
-      "date": "Thu, 18 Jun 2026 22:01:00 GMT"
+      "title": "쿠바 “미국 탓만 할 수 없어”… 중국처럼 ‘시장주의 수혈’ 받는다",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRXFLNl9DUVp6SUZHM2NVT0pDVWpZM3ppZG0zbGdidzk4anlLazRiRlNvMmJXSzVRZTBsQlU1UjJzQ0lsSm15WFVNV0RSRHRVaFp6UmxrOFVBRDJfSFpmeTBLTG5QSnJka1NJLXF1SVd1dkNyamlWeU1ZZjFZZUhoTFFMenNheE9wSmlUQl9fSjl5d0QyX2ZUbVA1WFc4QQ?oc=5",
+      "source": "조선일보",
+      "date": "Fri, 19 Jun 2026 15:45:00 GMT"
     },
     {
-      "title": "중국, 미국과 대등한 G2 ‘우뚝’… 세계 질서 새 판 짠다",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11Zk1qWTY3eGNBU3UtS2ZLcFM1MUxpOVlVTThydV85NzhCMjE3RW9wRUFLOUNsR2hyQXR3ZjNOX1FUZ3RELXpyYUVIRlc2TTg?oc=5",
-      "source": "v.daum.net",
-      "date": "Thu, 18 Jun 2026 17:07:51 GMT"
+      "title": "'경제위기' 쿠바, 경제개혁 시동…중국·베트남식 개혁개방 추진",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44UXlkZHBiZmNoSlkzenczX2VRN2JzSk1CZVFNZUpPLUpDRzc5Sk0yanRhc0M2V3RtenlfdHVCNWx3N2pIdEtsMk9fMEJmUi14dGxOWjZUTGhNUjdqeG9pU19ib1lpWFdrNFdvdl93?oc=5",
+      "source": "OBS경인TV",
+      "date": "Fri, 19 Jun 2026 11:51:00 GMT"
     },
     {
-      "title": "[인차이나-글로벌 질서의 대전환과 한중관계] 5. 애국이 자산 된 중국 기업…인천의 전략은",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zMmg3SG1NQmozcGRMQXNnZ29FMDVUbVExNEcyWk85SUlNQ0RnR01nUVpBVVd1UlluQlgyd240LTVLM0lTTDAyMHlUVGZmcWdES0ZlSWpOa2RwRXNnMEVZZEZlUVktc1RRSGc?oc=5",
-      "source": "인천일보",
-      "date": "Thu, 18 Jun 2026 08:50:00 GMT"
+      "title": "숫자는 거짓말을 안 한다… 폴 크루그먼 \"이미 세계 경제 1위는 중국\"",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBsWWoxU0R6VkxIRERWaUdsdUZ3QmlwMDBwdVU1VXo3TnFyVUtkX0xHM25ZUmpXbWU0bnZ1MmN0bGVCaDdoN1MwSTdjUFhnbzhRSDB3UU1vQnE?oc=5",
+      "source": "블록미디어",
+      "date": "Fri, 19 Jun 2026 07:51:00 GMT"
+    },
+    {
+      "title": "쿠바, 국가 주도 계획경제 ‘손질’…‘중국·베트남식’ 개혁·개방 나선다",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1b01JQ2xzLWFZdEtjemZFZUFWczVIdWt5VnR5S3Y1ZEN5LUc1ZksyWkdnSUdLSGJUOE95X0VVYm41aVNXbXJVUkZCVE92UHRiYTh5eDFrYjV0V1FKTEx2NUJlczNTaTlxNUFsMTMzVQ?oc=5",
+      "source": "한겨레",
+      "date": "Fri, 19 Jun 2026 06:42:00 GMT"
+    },
+    {
+      "title": "베트남, 對중국 리치 수출 호조…청과류 수출 성장 기대",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vNkVoSnBCejEwXzFXcWFIU0NudjJpb3ZzWFIzaHlWZ1FBWDROTTR4UUtweURWcUhPWlJlMEI0Z1FxN05adDE3RTAzZGIzTW9fTGVEUDdhTGxzOTFwMjZ1VmdJWWF6M0prT01Ibw?oc=5",
+      "source": "인사이드비나",
+      "date": "Fri, 19 Jun 2026 05:00:00 GMT"
     },
     {
       "title": "중국, 'K자형' 경제 양극화 심화...중국증시 영향은?",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52Q0IzejYxd1NDTXp4ckx6MEZsMjlfbUR3X201c2NIWnVpdzBiQW5ERWRoSGU1MldCMGFoSlAzSTdxNXBKa1plOTk0UHdOVWhTZS03bUtnTDF4UUpPTEVSTFo3QThQdUFCbEEtaHN3d9IBc0FVX3lxTE9ldGNaaWJoRVlDMEpYbUF5Rld6TlZYOVQ4ZjhGQzgxeTN1WHpIM01Ua0RNbWw0em9DbGtKMnJncTZaOFAyWFdvajVFUktyTlZSMnlIUFdYLUNXX1dTeUJyMlFpdTBHbVRPZHVkOVJxMkpCOVk?oc=5",
       "source": "초이스경제",
       "date": "Thu, 18 Jun 2026 03:05:09 GMT"
-    },
-    {
-      "title": "중국 단오절 경제, 민속 활동 결합으로 내수소비 확대 견인",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNTzR1ZjBibHFIUURVUGxTVTk3YUlielN5QXg5TWNSZ09EQm5kOU5PU0hHS1paVHVPS01YX2E1Z3pIOGVVTmRQb0NvUTNoUTBWS1pObW1EZlVKaFBH?oc=5",
-      "source": "뉴스핌",
-      "date": "Thu, 18 Jun 2026 02:21:00 GMT"
-    },
-    {
-      "title": "[중국 뉴스 브리핑] 2026년 6월 18일",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBaHdEOTZXMTFWVVVKeEN0QlpqOEVkeXRrWUtsQ1ZrMlNEenIwX05pTjZGZ1RQN25CbUJBTGd4OXZYb0JYRU5jZnRLNFFKYmFEckZ5WHRXVDlOVDNRbW1vajRDdG5xSDJIRkE?oc=5",
-      "source": "인민망 한국어판",
-      "date": "Thu, 18 Jun 2026 01:50:00 GMT"
     },
     {
       "title": "월드옥타, 중국 베이징서 최대규모 경제행사 띄운다",
@@ -60,16 +60,16 @@
       "date": "Tue, 16 Jun 2026 21:25:00 GMT"
     },
     {
+      "title": "“부동산 망하니 쓸 돈이 없다”…살아날 기미 안보이는 중국 내수시장",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fZE5fZDBzWGJGc2wycTFQRnNjcTM1MjhJeXNVdnpBbmVfSlBXS1Zob082c0h6aDVYaFFveTJ0dlFoQWNyVUswVktfeTctWnpRSGc?oc=5",
+      "source": "매일경제",
+      "date": "Tue, 16 Jun 2026 11:52:31 GMT"
+    },
+    {
       "title": "세 가지 키워드로 읽는 중국 경제의 5월 성적표",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EVVlyREhrR1ljZGxRRGtPbEE2NmV1X2V3STZScmlDb0tObGFKbXQ2Ri16SXI5ODR4N1dnS0xjZ0hNUVJDSU96U2RFeU5NYmVXNWgyYWFaVE80SGxYNUxaU3AxTQ?oc=5",
       "source": "国际在线",
       "date": "Tue, 16 Jun 2026 11:15:06 GMT"
-    },
-    {
-      "title": "경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zUnpWaDBKZmE2M0tFa0tuZ3FGRmtsN05BUzdFaFp2MHJSUjBUYUNEeHFtc1NaTU43LVR2WFpPZGlIczZzNTBKZ3AzV0tJRzJZdlJRekdn?oc=5",
-      "source": "현대경제연구원",
-      "date": "Sat, 13 Jun 2026 02:06:25 GMT"
     },
     {
       "title": "중동 사태의 중국 경제 충격 및 파급영향 점검",
