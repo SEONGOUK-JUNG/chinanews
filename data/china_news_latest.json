@@ -1,33 +1,33 @@
 {
-  "run_at_kst": "2026-06-23T20:12:36.998621+09:00",
+  "run_at_kst": "2026-06-24T07:31:00.736698+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "세계 최대 원유 수입국의 변심[페트로-일렉트로]",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xV1BkaXg0ZGZFejhNNzFwa2MzdU1jRWxiOTBNMFNyWjFKUnQxa20teU1sUFNJVXRleDJEcldFU3NqRmtGdl9UR3J4VDhtcVZiT0HSAVNBVV95cUxNMHFaTzZmT0lUN2tZZUFiSy1TV2RRc0Rxa1BMY0xWYjE1WWpOQnlKWmI0SU5WM1NnNGljWXR0VUZpMk4wR2RCT3Q0THRGekFuRGt4NA?oc=5",
+      "source": "서울경제",
+      "date": "Tue, 23 Jun 2026 21:30:00 GMT"
+    },
+    {
+      "title": "하늘을 新 산업단지로 만드는 중국, 저고도 경제의 병목은 운영이다 [박지민의 중국과 미래]",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxZzM5Mjc5eU9uOGw5NmhIbTFnVWhFaXkzVzhYNEFjNEF2YnNvQ3A5WVlpeGE5VW1HNGZSNndnQThmeTJhNnhUR3pKdk43bFRxUEo0ZGxCb2dEa2pYcEFlUXV3dkJJZ1NSdWFGT2p3cDTSAXRBVV95cUxPSVBjODRqSzRFcjhwTld3S3M1azZQbzFGaTg4RmpqemZDdUhMY2xvUHdSRDA4TktVMm9HcEtCcHIzcjdPSTlibXVMdEhsSmcwTjc0UmFTOHpwTENGdXhmUUl1dWFPa3BRZlc5RXVXbWRYWVNkTg?oc=5",
+      "source": "IT조선",
+      "date": "Tue, 23 Jun 2026 21:00:00 GMT"
+    },
+    {
+      "title": "김민석 국무총리, 베이징에서 중국 기업인 간담회 개최",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IUVVUZldlTHVuU2xzcEZrWUVtQzMwWUhscHFqX1JBNUFQWVFPSU9pcm1KMmRRM2tuOWJzQUMwUnQ3Qml0NldNNGgwWENYYk9jTTNsanY4clU5b3hoZzY4dEJkZUJFZExmUGNmUkF3by0?oc=5",
+      "source": "fnewstv.com",
+      "date": "Tue, 23 Jun 2026 11:05:07 GMT"
+    },
+    {
       "title": "맥쿼리: 중국, 재정 지원 늘리지만 대규모 부양책은 피할 듯",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mb2diY1JiRERBMGtXcm1pdVFoajNLbUx5WnhyZE0zSmtfZXVGZmNWX3JFaUxrYTBVZlFORER5WmNaVXkwZWFMOE9ZWG1OUkxxRUhUUDVqbEY1R3NtTGZrelA3TXZIWnIxV0tYcDZHTi0?oc=5",
       "source": "Investing.com 한국어",
       "date": "Tue, 23 Jun 2026 09:38:00 GMT"
-    },
-    {
-      "title": "중국 간 김민석 \"한·중, 한 단계 높은 교류해야\"…리창 \"협력 확대 용의\"",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RdW5oNnlKeUpsTkZNdWV6MlpPeWpvX19GbkJzUUFDeTFNajdKdFM2ZnJDV3pLUDBJTkJIaC1fc1pKcF85R3pzZnJRUnJuanNRd1lV?oc=5",
-      "source": "네이트",
-      "date": "Tue, 23 Jun 2026 09:14:00 GMT"
-    },
-    {
-      "title": "김 총리, 리창 중국 총리와 회담‥\"정치·경제·문화 한단계 높은 교류해야\"",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzZ3ZVREprd3RGUmJBODlfLVI5RUxjM21tem03ZzJya29MZ0FPdUxoLW9jQ2I1aXNVYVh0YjExWllYeVU3S3VyM3ZTQ29Sb1k?oc=5",
-      "source": "v.daum.net",
-      "date": "Tue, 23 Jun 2026 08:55:13 GMT"
-    },
-    {
-      "title": "중일관계 개선 신호?…中박람회 참석·日단체관광 재개",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0U1VrR05FYXlHOF9CV0NFdEV3ZDU5TkhpSmdwTGowaDhIcktSOTk3VzBZTHVsMlh2OFJGd2ROdzhrLTdxRERlTFNPTVQyQTF6V0dz?oc=5",
-      "source": "네이트",
-      "date": "Tue, 23 Jun 2026 08:27:00 GMT"
     },
     {
       "title": "\"토론토는 좁다\"...한인경제영토, 중국 넘어 아시아로 확대",
@@ -36,46 +36,46 @@
       "date": "Tue, 23 Jun 2026 07:41:23 GMT"
     },
     {
-      "title": "중국은 석유 시장의 균형을 되찾는 데 핵심적인 요소일까요?",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSDlPdkg4blJwYlh3blowTmhmbUNHS3VPNFNKQ1k5SmlqeXRqandyUTZYRkRNRmRqLVZHWmNfMGZ2cHRTcGtxLVJQQllXdzdFa3V1UXFrUC0wdEp4eHEtYUVwcHhRaUNzLWF0MkxCLVZnQlhCcWtDbjMtZ053S1NNSjdlVVhoMU1CUDNpb1BIS2hocENBOGc?oc=5",
-      "source": "Vietnam.vn",
-      "date": "Tue, 23 Jun 2026 07:36:26 GMT"
+      "title": "춘천시, 중국 다롄시와 자매도시 체결…바이오·AI 등 경제 협력 본격화",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lOUhHbWR4Wk95NFppV2Z0M0Z6X2w4RWQyaG1mc1NfLWNObFNvTmVZa1g5THY2eTlwX2FLZU1HZF9GNGpIQ1QweXRPS1lac3hlSENkWDhSTUVpQ05JckdOdk1XZ2c?oc=5",
+      "source": "MTN 머니투데이방송",
+      "date": "Tue, 23 Jun 2026 06:24:14 GMT"
     },
     {
-      "title": "[손지애 칼럼] 차이나 맥싱 (Chinamaxxing)과 중국의 소프트 파워",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBreEM4M0o3VFR1Wnc2WU9FRlF1TGFuTVU1Yno2b0JYYXotMmd6cDlRaGhaVEJ4YjhEN21VVDZQTU1JWS1lQW81VF9MMXZlelRtUFZNeUtFODlLZ9IBWEFVX3lxTE9HcU1EX1pfVXNtdzNnd0NIejNEZmticzFhS2pWWkcyODhqU2ZPSEkxSklLTVNVMzdFRVFiMkZicGdnZjFsUTNuakFwc2RXcVpFZzBjLTZXOXo?oc=5",
-      "source": "아주경제",
-      "date": "Tue, 23 Jun 2026 07:32:53 GMT"
+      "title": "김 총리, 중국 현지 기업인들 만나 “한중, 더욱 단단해진 길 걷고 있어”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PQmxtVHZfdlR4akhtUFl0Z19FaDZibTl4U25VNmtRbXMxQmtNTWRrWjdEU282NUZsN1E3UEpyTEpKV1pJOGVPbUJFU3R5dEVJZlhWR2lxMjFBUkE?oc=5",
+      "source": "KBS 뉴스",
+      "date": "Tue, 23 Jun 2026 00:28:00 GMT"
     },
     {
-      "title": "\"미국의 중국 견제로 한국 첨단산업 도움받아... 한국은 미국의 신뢰할 수 있는 '협력자' 돼야\"",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SNmVUVjVDTlhNdmU4NFBLWU0xYkJzYlJ6SDdTemFEWWVTYlY1SXRpQXpZck1vSTNDMGNpTnUyNXhwSzNvTUZ5OU5BTlhBQ1lTNF9YWnRWbW9LQQ?oc=5",
-      "source": "파이낸셜뉴스",
-      "date": "Tue, 23 Jun 2026 07:13:10 GMT"
+      "title": "중국 외교부 \"각국 기업의 공급망박람회 참가, 중국 경제 전망에 대한 신뢰 반영\"",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nRndrZjdnTEE5NkhTWnpNaWlqMUJ1Y082NFRoT1o4SXphbUw1NUdQNTZZUW5ZeUpMeXlZZk1SQzVubHh3Y1NER1JiX1pKTXkybFptMWk2Ml9zVFFqSkJkZnQxMA?oc=5",
+      "source": "国际在线",
+      "date": "Mon, 22 Jun 2026 16:55:47 GMT"
     },
     {
-      "title": "[딥이슈|중동 전쟁 2라운드 ③] '숨은 승리자' 중국, 중동 새 질서를 설계하다",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qbl9HOENaNjZHS293dk9zOTB6Rm5kWm92bUd0M1ltRDMtc0J3ZXFTLXg2MElKX2ZvZDhoY3llZHJwVEhQS0lURlJtVVc4NjQ?oc=5",
+      "title": "김 총리, 2박3일 방중 일정 돌입…중국 기업인들 만나 \"비결 듣고 싶어\"",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UMjE3eW1fQzZNS2FfOW9pRW1Zc0ZjcFBlRGlKeEJUSGxhcVNsTXBnZUZJeXMtQjJuRDFVaXp3cHN0UGJZbEljd3BJTFlNWHdNOGRfY0l1Z1VseEVHV3Awc0hYLXBoblE?oc=5",
+      "source": "연합뉴스TV",
+      "date": "Mon, 22 Jun 2026 15:35:36 GMT"
+    },
+    {
+      "title": "[차이나 인사이트] 숫자 뒤에 숨겨진 중국 경제 읽기…디플레이션에 빠진 중국 경제",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rSTY0b0hRaU5VWVItdHRoN1dKVHRieUhSV1JscGcxTW5ZNzJWeE5nNlJPSkVMUExvMFZ6NEZLd3d5RDRfa1ZFLTJIVlhGWkFTNjFHYWR6ZjU4WDhwWnRDa1FGbkMxdVFYR3BSR1R2VGgxZw?oc=5",
+      "source": "뉴스임팩트",
+      "date": "Sun, 21 Jun 2026 22:41:57 GMT"
+    },
+    {
+      "title": "중국 경제의 최대 복병은 'K자형 양극화'[베이징 노트]",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBvNWNObnYyVGZYLXBZZ3FMaFAwQ0FiUzYwQ3MxV1l0eTdNYW44TEJMUWRDZHNCNkZSSVVwQUxPdTVIX3BpSHc?oc=5",
       "source": "v.daum.net",
-      "date": "Tue, 23 Jun 2026 07:06:03 GMT"
+      "date": "Sun, 21 Jun 2026 20:03:11 GMT"
     },
     {
-      "title": "[경제] 신형 컨테이너 도입한 中 충칭, 중국-유럽 화물열차 자동차 수출 효율 극대화",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KVXFIOWd0anhFd25mZ09lYWRVYmp6LTFudEdsX05UU0MyTkZORXdwcktWQ2g3WWg4Qk94SlM2VFZ6a2d5WUZEWkppMnA5eXAyVlpQTUhwZEFfTlJlUFJ4RDNqelZMR1RVSE1vQ9IBcEFVX3lxTE1CZ3FGNUhrZEVRQ2lGanZ5b1ByckstMHpPVU1VWGwxZ3VWY0l6OU9CY2ltWE1YTjkyVUVsTnE3c19xblVrMmUtN1FPTkpuUHFaWEhEU1JzTUkySGZQNlFic1B6RURoN3lJalZlVS14NmE?oc=5",
-      "source": "내외뉴스통신",
-      "date": "Tue, 23 Jun 2026 07:04:38 GMT"
-    },
-    {
-      "title": "\"중국 iOS 개발자들, 규제당국에 애플 독점 신고\"",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53aXhEYlJodHl5Ym4yY2R2U015bjlEWm1XVDNQcDRjbjJoWi1pWV9TdUI3RHBNU1E1MG8yT09WRHU0bmJCUnpyQkVvYUJlOU1sVXlN?oc=5",
-      "source": "네이트",
-      "date": "Tue, 23 Jun 2026 06:42:00 GMT"
-    },
-    {
-      "title": "그들이 몰려온다…中 관광객 새로운 여행지로 떠오른 이곳",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52WnpqTlpnUk9hXzhmemRMdEgyU3NsZUlXVWFaTkFoQ1BlNTk2bElQV0tMYUl0Zk12OXdXbTZ3Y2lyYTA0Tzh1dmZUYzlWV294dGxGd0tB?oc=5",
-      "source": "헤럴드경제",
-      "date": "Tue, 23 Jun 2026 06:27:43 GMT"
+      "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Fri, 19 Jun 2026 07:00:00 GMT"
     }
   ]
 }

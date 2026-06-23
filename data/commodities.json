@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-06-23T20:06:08.416950+09:00",
+  "updated_at_kst": "2026-06-24T07:23:56.871597+09:00",
   "ref_date": "2026-06-23",
   "schema_version": "1.0",
   "adjustment_applied": true,
@@ -360,6 +360,13 @@
       "price_prev": 8511.9,
       "price_today": 8545.28,
       "change_pct": 0.39
+    },
+    {
+      "display_name": "OP-10",
+      "sector": "",
+      "price_prev": 9866.67,
+      "price_today": 9900.0,
+      "change_pct": 0.34
     },
     {
       "display_name": "유채 식사",
@@ -1969,6 +1976,13 @@
       "sector": "화학공업",
       "price_prev": 25035.0,
       "price_today": 25035.0,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "요오드화칼륨",
+      "sector": "",
+      "price_prev": 440.0,
+      "price_today": 440.0,
       "change_pct": 0.0
     },
     {
