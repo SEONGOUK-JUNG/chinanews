@@ -1,10 +1,28 @@
 {
-  "run_at_kst": "2026-06-23T09:28:27.061761+09:00",
+  "run_at_kst": "2026-06-23T10:11:30+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "하계 다보스포럼 오늘 中다롄서 개막…한·중 총리 특별연설",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpeVZROEtsZlhRcV9WcTN0cGdWQml1T1JZZ3ZuTmpuTi1DWXltWWRad3VmcXVSbzFWVF9RVm9HNTBnLXZCVTZaXzl2UDA5aTg?oc=5",
+      "source": "v.daum.net",
+      "date": "Tue, 23 Jun 2026 00:48:02 GMT"
+    },
+    {
+      "title": "김 총리, 중국 현지 기업인들 만나 “한중, 더욱 단단해진 길 걷고 있어”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PQmxtVHZfdlR4akhtUFl0Z19FaDZibTl4U25VNmtRbXMxQmtNTWRrWjdEU282NUZsN1E3UEpyTEpKV1pJOGVPbUJFU3R5dEVJZlhWR2lxMjFBUkE?oc=5",
+      "source": "KBS 뉴스",
+      "date": "Tue, 23 Jun 2026 00:28:00 GMT"
+    },
+    {
+      "title": "[국제]일본, 비자 수수료 5배 인상...'중국인 겨냥' 논란",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tTjZwLThCSjRQbEpOaFJHb2NzR0dpVjZ1M2t6LXUxbllnWnZLS0lnekMyUmtKdXlXeUlveF8weUJzV1ZFaVp3S21uUHl4NTV3aElsQnZfTGdCLUNUYlU5ZkRmUzV0VDFvdlRMc2FwOA?oc=5",
+      "source": "YTN",
+      "date": "Mon, 22 Jun 2026 23:55:00 GMT"
+    },
     {
       "title": "방중 김 총리 “中의 경제 발전 비결 듣고 싶다” 토로",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IZjNqc1daZW5iMmlnaGNYTU5xWE1JNGVGUFNxV3dFU09VaUFLSXhXRldwbmpMNktXMUVLdGdfUloyRTlKNkVwOUk2eFRXR1RqdkhqUUU0R2tPMm1tNWRoYXZKWVNuUHZSUE80ME53?oc=5",
@@ -15,13 +33,7 @@
       "title": "김 총리, 2박3일 방중 일정 돌입…중국 기업인들 만나 \"비결 듣고 싶어\"",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UMjE3eW1fQzZNS2FfOW9pRW1Zc0ZjcFBlRGlKeEJUSGxhcVNsTXBnZUZJeXMtQjJuRDFVaXp3cHN0UGJZbEljd3BJTFlNWHdNOGRfY0l1Z1VseEVHV3Awc0hYLXBoblE?oc=5",
       "source": "연합뉴스TV",
-      "date": "Mon, 22 Jun 2026 18:03:12 GMT"
-    },
-    {
-      "title": "중국 「국무원 대외투자 규정」 7월 시행…경제안보 관리 강화",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnUTJweGw5MHNKYWhHbFpxTmR0REF0d21FRDdGVk1yeHBDUFQ0Rk4zeXpyZmluWERTd01vV0syeHZBM3NwOXRERS1tamlMTWdQX1hfbEVob3N1eEdWZUlzVHBMZ0FlWjRtNWgyVjFsbkNJQzQ?oc=5",
-      "source": "세종시민일보",
-      "date": "Mon, 22 Jun 2026 16:28:46 GMT"
+      "date": "Mon, 22 Jun 2026 15:35:36 GMT"
     },
     {
       "title": "김 총리 \"중국의 눈부신 경제발전 비결 듣고 싶다\"…中기업인 \"한국과 호혜적 협력 확대\"(종합)",
@@ -42,22 +54,10 @@
       "date": "Sun, 21 Jun 2026 23:06:16 GMT"
     },
     {
-      "title": "[차이나 인사이트] 숫자 뒤에 숨겨진 중국 경제 읽기…디플레이션에 빠진 중국 경제",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rSTY0b0hRaU5VWVItdHRoN1dKVHRieUhSV1JscGcxTW5ZNzJWeE5nNlJPSkVMUExvMFZ6NEZLd3d5RDRfa1ZFLTJIVlhGWkFTNjFHYWR6ZjU4WDhwWnRDa1FGbkMxdVFYR3BSR1R2VGgxZw?oc=5",
-      "source": "뉴스임팩트",
-      "date": "Sun, 21 Jun 2026 22:41:57 GMT"
-    },
-    {
       "title": "중국 경제의 최대 복병은 'K자형 양극화'[베이징 노트]",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PNU1LeHZQeWFXY0plbDMzR3E1QkZfUlJOMS1oUWZ4cnpvV2xVOEpFZ2xrcUN2Q3NsMkVYcHJtTzNQWjZlR1pScnZWRUlpd28?oc=5",
-      "source": "v.daum.net",
-      "date": "Sun, 21 Jun 2026 20:03:11 GMT"
-    },
-    {
-      "title": "중국 경제의 최대 복병은 'K자형 양극화'[베이징 노트]",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RMzA0SHZXZWZWYXBOZV9sNzFMVVhyMnNCVkhJWGZ2MkFaS3hmVVVPaV9FZTNxU0dJTUhoeXlqZW5WVEVJMHU0STN2dw?oc=5",
-      "source": "v.daum.net",
-      "date": "Sun, 21 Jun 2026 20:03:11 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtRENHQmxJYzJwaklObHJlODJ6LTdscGhOTEg3RV9NRE1FU21CeXUzUTlDY1dBXzdvSDN0Nmo1cDdBRURoZ1RNakZrNDkzS3BuVmFz?oc=5",
+      "source": "네이트",
+      "date": "Sun, 21 Jun 2026 20:02:00 GMT"
     },
     {
       "title": "무려 '2400조원' 시장…\"단순 밥 먹여주기 아냐\" 늙어가는 대륙, 산업 엔진 갈아끼우는 중 [중국. ZIP]",
