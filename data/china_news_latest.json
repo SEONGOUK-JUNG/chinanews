@@ -1,51 +1,69 @@
 {
-  "run_at_kst": "2026-06-22T07:15:35.633315+09:00",
+  "run_at_kst": "2026-06-23T09:28:27.061761+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "세계 무대 서는 金총리, 오늘 중국行…'혁신 경제' 비전 밝힌다",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSYkRERllwMnNDdWdTU3VUQjVjcWYwaWU4ZllCdUdmOU5sa0ZBeFZSTTRlSFJvVDU4REJldGhSdTJYYTlhOFpQdFB3dTNBV0UwLUl2dElIVDQ2SnNqUjBSMVhkVUJ4eFZwNHJhbmt0bw?oc=5",
-      "source": "위키리크스한국",
-      "date": "Sun, 21 Jun 2026 20:38:54 GMT"
+      "title": "방중 김 총리 “中의 경제 발전 비결 듣고 싶다” 토로",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IZjNqc1daZW5iMmlnaGNYTU5xWE1JNGVGUFNxV3dFU09VaUFLSXhXRldwbmpMNktXMUVLdGdfUloyRTlKNkVwOUk2eFRXR1RqdkhqUUU0R2tPMm1tNWRoYXZKWVNuUHZSUE80ME53?oc=5",
+      "source": "아시아투데이",
+      "date": "Mon, 22 Jun 2026 18:58:06 GMT"
     },
     {
-      "title": "[특종] 14억 통계는 거대한 거짓말 > '6억 명 증발' 중국 실제 인구 8억 설의 충격 실체",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4taThIdEJDVGVzeDhYREYtbTgxbEhjTkNmY1hoUGJZV2l1MGJmcVlzYzFOc1VaVWwwMkJQbktWTjVNTlRWM0F4a3FMRktUWUhzUzFibWF5R09RMlF3RXZ5X3g5cjBGOUt1SWhNbTI1MFlYLWM?oc=5",
-      "source": "데일리머니",
-      "date": "Sun, 21 Jun 2026 20:28:36 GMT"
+      "title": "김 총리, 2박3일 방중 일정 돌입…중국 기업인들 만나 \"비결 듣고 싶어\"",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UMjE3eW1fQzZNS2FfOW9pRW1Zc0ZjcFBlRGlKeEJUSGxhcVNsTXBnZUZJeXMtQjJuRDFVaXp3cHN0UGJZbEljd3BJTFlNWHdNOGRfY0l1Z1VseEVHV3Awc0hYLXBoblE?oc=5",
+      "source": "연합뉴스TV",
+      "date": "Mon, 22 Jun 2026 18:03:12 GMT"
+    },
+    {
+      "title": "중국 「국무원 대외투자 규정」 7월 시행…경제안보 관리 강화",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnUTJweGw5MHNKYWhHbFpxTmR0REF0d21FRDdGVk1yeHBDUFQ0Rk4zeXpyZmluWERTd01vV0syeHZBM3NwOXRERS1tamlMTWdQX1hfbEVob3N1eEdWZUlzVHBMZ0FlWjRtNWgyVjFsbkNJQzQ?oc=5",
+      "source": "세종시민일보",
+      "date": "Mon, 22 Jun 2026 16:28:46 GMT"
+    },
+    {
+      "title": "김 총리 \"중국의 눈부신 경제발전 비결 듣고 싶다\"…中기업인 \"한국과 호혜적 협력 확대\"(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ia1JzR0Q2VlBTLUw0Z1BTQzR4RjZXUERTaFh1bUpZcVh0a1FkRkhxOGx3bHRtUEFkeTU0Q2dkUHpyR0ZvT25kc2hOZ19KSnh4MEQtSVVaOHZjb2FiZF9VOdIBeEFVX3lxTE9WWUJSQzlGQ2xMU0RmeTZIdWR3WVJfQkk1RW1zSW9TcmpfaUNVaEtTV3pSRWxqRlIwTjUxMm1jbWtmOGJ2aGVud2EzYzNiYTcwQ2FxT2FJUUMzaUxSVDhTMmh5aGlQOHhFN1JTVWhPZzNRdWo3VXotUw?oc=5",
+      "source": "뉴시스",
+      "date": "Mon, 22 Jun 2026 14:46:05 GMT"
+    },
+    {
+      "title": "중국, 6월에도 대출우대금리 13개월 연속 동결",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BQXZSUDBLN0NHcnlISGF3WnZyb19SeFhCc2lZUG5pR0hVZ2RDVjVyUVQwYUItblBISy1pX3VjTWRGZFpxQm5aYzJmR05PejBwOE1HWk5BeGVnbWdsWXBwVF9xVWQzUlY2SHZoSVJVaUFlYkk?oc=5",
+      "source": "Investing.com 한국어",
+      "date": "Mon, 22 Jun 2026 01:20:00 GMT"
+    },
+    {
+      "title": "[글로벌 현장]68년 묵은 '신분제 장벽' 허무는 중국",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94NzNBMDdqaUhPTDNNbXJlM0EwNUJ3WGY1WXB2bWc4QjQ4NzFrbkVzVXNqX1YtMDZ0aTVRanRDVzV2VWFMOEVybENadERtYXc?oc=5",
+      "source": "v.daum.net",
+      "date": "Sun, 21 Jun 2026 23:06:16 GMT"
+    },
+    {
+      "title": "[차이나 인사이트] 숫자 뒤에 숨겨진 중국 경제 읽기…디플레이션에 빠진 중국 경제",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rSTY0b0hRaU5VWVItdHRoN1dKVHRieUhSV1JscGcxTW5ZNzJWeE5nNlJPSkVMUExvMFZ6NEZLd3d5RDRfa1ZFLTJIVlhGWkFTNjFHYWR6ZjU4WDhwWnRDa1FGbkMxdVFYR3BSR1R2VGgxZw?oc=5",
+      "source": "뉴스임팩트",
+      "date": "Sun, 21 Jun 2026 22:41:57 GMT"
     },
     {
       "title": "중국 경제의 최대 복병은 'K자형 양극화'[베이징 노트]",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtRENHQmxJYzJwaklObHJlODJ6LTdscGhOTEg3RV9NRE1FU21CeXUzUTlDY1dBXzdvSDN0Nmo1cDdBRURoZ1RNakZrNDkzS3BuVmFz?oc=5",
-      "source": "네이트",
-      "date": "Sun, 21 Jun 2026 20:02:00 GMT"
-    },
-    {
-      "title": "\"10년간 칼 갈았다\" 독기품은 CXMT…생산량 확 늘려 삼전닉스 맹추격",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XV2szS05PUXNTdDBIV2VoeHpObmxEN1gyWEZBT3o0TlNOWHl4d3RlY254RFVNSV9yWFM5SnlTcldlMkRlbVFtc1VnMHBLWlE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PNU1LeHZQeWFXY0plbDMzR3E1QkZfUlJOMS1oUWZ4cnpvV2xVOEpFZ2xrcUN2Q3NsMkVYcHJtTzNQWjZlR1pScnZWRUlpd28?oc=5",
       "source": "v.daum.net",
-      "date": "Sun, 21 Jun 2026 08:45:04 GMT"
+      "date": "Sun, 21 Jun 2026 20:03:11 GMT"
     },
     {
-      "title": "올림픽공원의 시위대들, 자유의지일까? 디지털 존비일까?",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4ydkpXMVI5NDg2RnBNZ0ZQWXBGMlAxRVgwOTdlWlR5ZTY0bTU3RlJRLTI2UnlLWWF5LTJGNTdtUHF5c0hDc3BlZ2dSczlobURFbzRKOXJCczJJNjUtdlN1NWhueHJXTmhYTkxn?oc=5",
-      "source": "제주의소리",
-      "date": "Sun, 21 Jun 2026 05:40:00 GMT"
+      "title": "중국 경제의 최대 복병은 'K자형 양극화'[베이징 노트]",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RMzA0SHZXZWZWYXBOZV9sNzFMVVhyMnNCVkhJWGZ2MkFaS3hmVVVPaV9FZTNxU0dJTUhoeXlqZW5WVEVJMHU0STN2dw?oc=5",
+      "source": "v.daum.net",
+      "date": "Sun, 21 Jun 2026 20:03:11 GMT"
     },
     {
       "title": "무려 '2400조원' 시장…\"단순 밥 먹여주기 아냐\" 늙어가는 대륙, 산업 엔진 갈아끼우는 중 [중국. ZIP]",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12U3IxSmJ3T0lDb0NCdkpZdHlodWJuLVVXdkpqcXpVVDg2Q2JRekVCYUJEOWZLaVl5QUM1WGtqaXlvenlRSDdYMnJLNmhMODYtaXJONUkwVnBkLVI5T2lEdw?oc=5",
-      "source": "아시아경제",
-      "date": "Sat, 20 Jun 2026 22:11:00 GMT"
-    },
-    {
-      "title": "중국 경제, AI 초호황과 내수 침체 사이의 갈림길",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50Z3VhX1JXa0RtT1hsSXVCUGJpRHN2MTBnanZhek00cXp2RVhWR0JzbHhZbG5xWGdhaVZfUldRcXI2dzZQNHdjXzN6U19FSk4zN1dJUUhiQTJ0bXlMWXVyTWpOT1oxMlVCSmc?oc=5",
-      "source": "Investing.com 한국어",
-      "date": "Sat, 20 Jun 2026 15:47:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5icy1qVzNJR1YwTm5nNjJKTHk0aGVLWC1yaGdhR01aUXNwN0g4RE1IcmFuQTFYQTlEWVhMVUtmcjU4S3RlVVE?oc=5",
+      "source": "v.daum.net",
+      "date": "Sat, 20 Jun 2026 22:13:02 GMT"
     },
     {
       "title": "G7은 지고 중국은 뜬다?…中 “서방 중심 질서 시대 끝났다”",
@@ -58,24 +76,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRXFLNl9DUVp6SUZHM2NVT0pDVWpZM3ppZG0zbGdidzk4anlLazRiRlNvMmJXSzVRZTBsQlU1UjJzQ0lsSm15WFVNV0RSRHRVaFp6UmxrOFVBRDJfSFpmeTBLTG5QSnJka1NJLXF1SVd1dkNyamlWeU1ZZjFZZUhoTFFMenNheE9wSmlUQl9fSjl5d0QyX2ZUbVA1WFc4QQ?oc=5",
       "source": "조선일보",
       "date": "Fri, 19 Jun 2026 15:45:00 GMT"
-    },
-    {
-      "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Fri, 19 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "경제부총리 “포스트 중동 정책 본격화… 중국·몽골·모로코 등과 FTA 추진”",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMWJodnNVaTN2NS1KNE14Sm1KRnNrWUd0OFp2QWdtWUppaUs5UUZTeDdEYWZCOXJyNGpiLUY4cUQ1c20wWW9XZE9jS2RBbVpaeWtIdWZRNUFFZHR3Y3cwenpkWjdkVzlHR29LS0dCQUxEeWcxT28wN1RIYlF1NnR3VS1NNjZud9IBmgFBVV95cUxORU9wSWlhMGtCWVhDb0VUZkxJcG9RX3libF85VlBqX3VhZTE4aTMtTlFRNFdCQjhVZjh1dzJ2MUFhY2JtLU4wYU03aHFrS0JaMlVQRkwzU3o3a18xcUdnTGVEN1IxWE1YaFl0WDNOU2RPYjlRRERiTmZkN0xzeUJaUU5FQUp2N0pyNkF2OHA3UEJ6Mjd6MldoZWNB?oc=5",
-      "source": "Chosunbiz",
-      "date": "Fri, 19 Jun 2026 00:06:00 GMT"
-    },
-    {
-      "title": "중국 '은발경제'의 명암…한국기업 공략처는? [조평규의 중국 본색]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52VUtZYVl2cTZTdDNRenNmcl9qNHZPZ1A4Z2FUTWJsNWtTdkx2aE56MExZTG1VSVJuQ3RtbU1Fc0Rnd09EWFk2X0lkc2d6M1BENGRGVGtXeFFGQdIBVEFVX3lxTFBTSnhmSVo4eWVMaTVUNkRBV192QTU4ZDNwOUYzS0J5aEgzSTZybE1EZTlYUlpYSDQwMk9DTURVM3pRcGhiaVNqd3k0cENtYUx4YjRGaw?oc=5",
-      "source": "한국경제",
-      "date": "Thu, 18 Jun 2026 21:30:01 GMT"
     }
   ]
 }
