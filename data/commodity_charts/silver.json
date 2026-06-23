@@ -2,8 +2,8 @@
   "id": "silver",
   "name": "은",
   "unit": "CNY/kg",
-  "updated_at_kst": "2026-06-23T14:14:01.601878+09:00",
-  "count": 51,
+  "updated_at_kst": "2026-06-23T20:13:50.589755+09:00",
+  "count": 52,
   "candles": [
     {
       "time": "2025-01-01",
@@ -208,6 +208,10 @@
     {
       "time": "2026-06-22",
       "value": 15853.22
+    },
+    {
+      "time": "2026-06-23",
+      "value": 15265.66
     }
   ],
   "history_note": "Pre-2026-05: monthly observations (month-start/end). From late May 2026: daily.",

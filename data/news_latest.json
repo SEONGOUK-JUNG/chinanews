@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-06-23T14:11:58.339704+09:00",
+  "run_at_kst": "2026-06-23T20:08:53.748387+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Iran Moves to Tap Key Asian Markets as U.S. Waives Oil Sanctions",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Moves-to-Tap-Key-Asian-Markets-as-US-Waives-Oil-Sanctions.html",
+      "source": "OilPrice",
+      "date": "Tue, 23 Jun 2026 05:30:00 -0500"
+    },
+    {
+      "title": "India Boosts U.S. LPG Imports to Record High",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Boosts-US-LPG-Imports-to-Record-High.html",
+      "source": "OilPrice",
+      "date": "Tue, 23 Jun 2026 04:30:00 -0500"
+    },
+    {
+      "title": "Europe’s EV Boom Accelerates as Chinese Brands Gain Ground",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europes-EV-Boom-Accelerates-as-Chinese-Brands-Gain-Ground.html",
+      "source": "OilPrice",
+      "date": "Tue, 23 Jun 2026 03:30:00 -0500"
+    },
+    {
+      "title": "UK Has Enough Electricity for Winter Despite Energy Market Turmoil",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/UK-Has-Enough-Electricity-for-Winter-Despite-Energy-Market-Turmoil.html",
+      "source": "OilPrice",
+      "date": "Tue, 23 Jun 2026 02:00:00 -0500"
+    },
+    {
+      "title": "Oil Prices Continue to Slide as Peace Talks Progress",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Continue-to-Slide-as-Peace-Talks-Progress.html",
+      "source": "OilPrice",
+      "date": "Tue, 23 Jun 2026 00:30:00 -0500"
+    },
     {
       "title": "How Many Barrels of Oil Do AI Data Centers Consume on a Daily Basis?",
       "link": "https://oilprice.com/Energy/Energy-General/How-Many-Barrels-of-Oil-Do-AI-Data-Centers-Consume-on-a-Daily-Basis.html",
@@ -32,40 +62,10 @@
       "date": "Mon, 22 Jun 2026 17:00:00 -0500"
     },
     {
-      "title": "The Hormuz Threat Oil Markets Are Ignoring",
-      "link": "https://oilprice.com/Energy/Oil-Prices/The-Hormuz-Threat-Oil-Markets-Are-Ignoring.html",
-      "source": "OilPrice",
-      "date": "Mon, 22 Jun 2026 16:00:00 -0500"
-    },
-    {
       "title": "TerraLithium, BHE Renewables advance toward commercial-scale lithium extraction",
       "link": "https://www.mining.com/terralithium-bhe-renewables-advance-toward-commercial-scale-lithium-extraction/",
       "source": "mining.com",
       "date": "Mon, 22 Jun 2026 20:41:56 +0000"
-    },
-    {
-      "title": "Denmark and Germany Launch Europe’s First Hydrogen Superhighway",
-      "link": "https://oilprice.com/Energy/Energy-General/Denmark-and-Germany-Launch-Europes-First-Hydrogen-Superhighway.html",
-      "source": "OilPrice",
-      "date": "Mon, 22 Jun 2026 15:00:00 -0500"
-    },
-    {
-      "title": "London Mayor: UK Tops Green Finance Rankings for Eighth Straight Year",
-      "link": "https://oilprice.com/Energy/Energy-General/London-Mayor-UK-Tops-Green-Finance-Rankings-for-Eighth-Straight-Year.html",
-      "source": "OilPrice",
-      "date": "Mon, 22 Jun 2026 14:00:00 -0500"
-    },
-    {
-      "title": "Greek Energy Pulls In $26B As Europe Scrambles To Replace Russian Gas",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Greek-Energy-Pulls-In-26B-As-Europe-Scrambles-To-Replace-Russian-Gas.html",
-      "source": "OilPrice",
-      "date": "Mon, 22 Jun 2026 13:30:00 -0500"
-    },
-    {
-      "title": "The Oil Crisis Is Far From Over",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Oil-Crisis-Is-Far-From-Over.html",
-      "source": "OilPrice",
-      "date": "Mon, 22 Jun 2026 13:00:00 -0500"
     },
     {
       "title": "Ground view Kazakhstan: The visibility bargain",
