@@ -1490,6 +1490,7 @@ async function loadCommodities(){
     }
     renderCmModalBody('');
     console.log('[Commodities] loaded', d.updated_at_kst, '· featured:', (d.featured||[]).length, '· all:', _cmAllItems.length);
+    if(d.updated_at_kst) updateDataTimestamp(d.updated_at_kst);
   } catch(e) {
     console.warn('[Commodities] failed:', e.message);
     const fb = document.getElementById('cm-featured-body');
