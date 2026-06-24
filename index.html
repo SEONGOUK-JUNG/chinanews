@@ -1333,7 +1333,7 @@ async function loadPulse(){
         const tip = (hl.new_highs || []).slice(0,5).map(x => x.name + '(' + x.id + ')').join(', ');
         elHigh.innerHTML = '<span style="color:var(--up);font-weight:700" title="' + tip + '">' + nh + '</span>';
       }else{
-        elHigh.textContent = '0 종';
+        elHigh.textContent = (window.CN_LANG==='ko'?'0 종':'0');
         elHigh.style.color = 'var(--muted)';
       }
       elHigh.classList.remove('no-data');
@@ -1343,7 +1343,7 @@ async function loadPulse(){
         const tipL = (hl.new_lows || []).slice(0,5).map(x => x.name + '(' + x.id + ')').join(', ');
         elLow.innerHTML = '<span style="color:var(--down);font-weight:700" title="' + tipL + '">' + nl + '</span>';
       }else{
-        elLow.textContent = '0 종';
+        elLow.textContent = (window.CN_LANG==='ko'?'0 종':'0');
         elLow.style.color = 'var(--muted)';
       }
       elLow.classList.remove('no-data');
@@ -1356,7 +1356,7 @@ async function loadPulse(){
                 '· 신저가:', p.high_low_52w && p.high_low_52w.new_low_count);
   }catch(e){
     console.warn('[Pulse] failed:', e.message);
-    elStatus.textContent = '로딩 실패';
+    elStatus.textContent = (window.CN_LANG==='ko'?'로딩 실패':'Load failed');
   }
 }
 loadPulse();
@@ -1476,19 +1476,19 @@ async function loadCommodities(){
     const dt = shortDate(d.date_today);
     ['cm-th-prev', 'cm-th-prev-modal'].forEach(function(id){
       const el = document.getElementById(id);
-      if(el) el.innerHTML = '전일' + (dp ? ' <span style="color:var(--muted);font-weight:400;font-size:10px">(' + dp + ')</span>' : '');
+      if(el) el.innerHTML = (window.CN_LANG==='ko'?'전일':'Prev') + (dp ? ' <span style="color:var(--muted);font-weight:400;font-size:10px">(' + dp + ')</span>' : '');
     });
     ['cm-th-today', 'cm-th-today-modal'].forEach(function(id){
       const el = document.getElementById(id);
-      if(el) el.innerHTML = '당일' + (dt ? ' <span style="color:var(--muted);font-weight:400;font-size:10px">(' + dt + ')</span>' : '');
+      if(el) el.innerHTML = (window.CN_LANG==='ko'?'당일':'Last') + (dt ? ' <span style="color:var(--muted);font-weight:400;font-size:10px">(' + dt + ')</span>' : '');
     });
     _cmAllItems = Array.isArray(d.all_items) ? d.all_items : [];
     const metaEl = document.getElementById('cm-modal-meta');
     if(metaEl){
       if(_cmAllItems.length > 0){
-        metaEl.textContent = '전체 ' + _cmAllItems.length + '종 · 기준 ' + (d.ref_date || '—');
+        metaEl.textContent = (window.CN_LANG==='ko' ? ('전체 ' + _cmAllItems.length + '종 · 기준 ' + (d.ref_date || '—')) : ('All ' + _cmAllItems.length + ' items · Ref ' + (d.ref_date || '—')));
       } else {
-        metaEl.textContent = (d.all_items_note || '전체 리스트 준비 중');
+        metaEl.textContent = (d.all_items_note || (window.CN_LANG==='ko'?'전체 리스트 준비 중':'Full list coming soon'));
       }
     }
     renderCmModalBody('');
