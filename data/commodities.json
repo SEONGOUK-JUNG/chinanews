@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-06-24T07:23:56.871597+09:00",
+  "updated_at_kst": "2026-06-24T10:06:39+09:00",
   "ref_date": "2026-06-23",
   "schema_version": "1.0",
   "adjustment_applied": true,
@@ -360,13 +360,6 @@
       "price_prev": 8511.9,
       "price_today": 8545.28,
       "change_pct": 0.39
-    },
-    {
-      "display_name": "OP-10",
-      "sector": "",
-      "price_prev": 9866.67,
-      "price_today": 9900.0,
-      "change_pct": 0.34
     },
     {
       "display_name": "유채 식사",
@@ -765,13 +758,6 @@
       "sector": "화학공업",
       "price_prev": 7710.78,
       "price_today": 7710.78,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "醋酐",
-      "sector": "화학공업",
-      "price_prev": 5319.94,
-      "price_today": 5319.94,
       "change_pct": 0.0
     },
     {
@@ -1594,13 +1580,6 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "아크릴 아크릴 아크릴 아크릴",
-      "sector": "화학공업",
-      "price_prev": 10827.64,
-      "price_today": 10827.64,
-      "change_pct": 0.0
-    },
-    {
       "display_name": "아세트산 프로판",
       "sector": "화학공업",
       "price_prev": 7026.49,
@@ -1979,13 +1958,6 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "요오드화칼륨",
-      "sector": "",
-      "price_prev": 440.0,
-      "price_today": 440.0,
-      "change_pct": 0.0
-    },
-    {
       "display_name": "요오드화나트륨",
       "sector": "화학공업",
       "price_prev": 547.44,
@@ -2333,13 +2305,6 @@
       "sector": "화학공업",
       "price_prev": 53074.2,
       "price_today": 53074.2,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "n-뷰틸 타이트 아세트산염",
-      "sector": "철강",
-      "price_prev": 18273.98,
-      "price_today": 18273.98,
       "change_pct": 0.0
     },
     {

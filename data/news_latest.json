@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-06-24T07:31:00.736698+09:00",
+  "run_at_kst": "2026-06-24T10:14:44+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,24 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Jindalee Lithium inks stewardship MoU for McDermitt project",
+      "link": "https://www.mining.com/jindalee-lithium-inks-stewardship-mou-for-mcdermitt-project/",
+      "source": "mining.com",
+      "date": "Wed, 24 Jun 2026 00:06:29 +0000"
+    },
+    {
+      "title": "The Trillion-Dollar AI Shockwave Nobody Is Ready For",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Trillion-Dollar-AI-Shockwave-Nobody-Is-Ready-For.html",
+      "source": "OilPrice",
+      "date": "Tue, 23 Jun 2026 19:00:00 -0500"
+    },
+    {
+      "title": "Why the Next Billion Barrels of Oil Demand Could Come From Storage",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Why-the-Next-Billion-Barrels-of-Oil-Demand-Could-Come-From-Storage.html",
+      "source": "OilPrice",
+      "date": "Tue, 23 Jun 2026 18:00:00 -0500"
+    },
     {
       "title": "Trump Admin Takes Aim at Oil, Gas Drilling Costs",
       "link": "https://oilprice.com/Energy/Energy-General/Trump-Admin-Takes-Aim-at-Oil-Gas-Drilling-Costs.html",
@@ -44,18 +62,6 @@
       "date": "Tue, 23 Jun 2026 14:00:00 -0500"
     },
     {
-      "title": "Tanker Owners Are Having the Best Week of the Hormuz Crisis",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Tanker-Owners-Are-Having-the-Best-Week-of-the-Hormuz-Crisis.html",
-      "source": "OilPrice",
-      "date": "Tue, 23 Jun 2026 13:30:00 -0500"
-    },
-    {
-      "title": "El Niño, War, and Fertilizer Costs Create a Dangerous Inflation Cocktail",
-      "link": "https://oilprice.com/Energy/Energy-General/El-Nio-War-and-Fertilizer-Costs-Create-a-Dangerous-Inflation-Cocktail.html",
-      "source": "OilPrice",
-      "date": "Tue, 23 Jun 2026 13:00:00 -0500"
-    },
-    {
       "title": "Aclara Resources gets environmental OK for Chile rare earths project",
       "link": "https://www.mining.com/aclara-resources-gets-environmental-ok-for-chile-rare-earths-project/",
       "source": "mining.com",
@@ -84,12 +90,6 @@
       "link": "https://www.mining.com/new-abrasilver-study-quadruples-argentina-project-value/",
       "source": "mining.com",
       "date": "Tue, 23 Jun 2026 14:58:03 +0000"
-    },
-    {
-      "title": "Op-Ed: Brazil’s rare earth dilemma — strategic autonomy or another raw-material export cycle?",
-      "link": "https://www.mining.com/op-ed-brazils-rare-earth-dilemma-strategic-autonomy-or-another-raw-material-export-cycle/",
-      "source": "mining.com",
-      "date": "Tue, 23 Jun 2026 14:29:07 +0000"
     }
   ]
 }
