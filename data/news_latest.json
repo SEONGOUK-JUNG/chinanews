@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-06-24T14:18:09+09:00",
+  "run_at_kst": "2026-06-24T20:16:12+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "China’s Teapot Refineries Cut Operations to Their Lowest Level Since 2017",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Teapot-Refineries-Cut-Operations-to-Their-Lowest-Level-Since-2017.html",
+      "source": "OilPrice",
+      "date": "Wed, 24 Jun 2026 05:30:00 -0500"
+    },
+    {
+      "title": "India Cuts Coal Imports as Power Plants Turn to Domestic Fuel",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Cuts-Coal-Imports-as-Power-Plants-Turn-to-Domestic-Fuel.html",
+      "source": "OilPrice",
+      "date": "Wed, 24 Jun 2026 04:30:00 -0500"
+    },
+    {
+      "title": "Qatar Says LNG Exports Could Return to Normal Within Weeks",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Qatar-Says-LNG-Exports-Could-Return-to-Normal-Within-Weeks.html",
+      "source": "OilPrice",
+      "date": "Wed, 24 Jun 2026 03:15:00 -0500"
+    },
+    {
+      "title": "Malaysian Major Makes Gas Discovery in Suriname",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Malaysian-Major-Makes-Gas-Discovery-in-Suriname.html",
+      "source": "OilPrice",
+      "date": "Wed, 24 Jun 2026 02:00:00 -0500"
+    },
+    {
+      "title": "Trump Orders Gas Price Gouging Probe",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Orders-Gas-Price-Gouging-Probe.html",
+      "source": "OilPrice",
+      "date": "Wed, 24 Jun 2026 00:30:00 -0500"
+    },
     {
       "title": "Jindalee Lithium inks stewardship MoU for McDermitt project",
       "link": "https://www.mining.com/jindalee-lithium-inks-stewardship-mou-for-mcdermitt-project/",
@@ -30,36 +60,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/Trump-Admin-Takes-Aim-at-Oil-Gas-Drilling-Costs.html",
       "source": "OilPrice",
       "date": "Tue, 23 Jun 2026 17:00:00 -0500"
-    },
-    {
-      "title": "The AI Boom Is Set to Fast-Track China's Coming Nuclear Energy Dominance",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-AI-Boom-Is-Set-to-Fast-Track-Chinas-Coming-Nuclear-Energy-Dominance.html",
-      "source": "OilPrice",
-      "date": "Tue, 23 Jun 2026 16:00:00 -0500"
-    },
-    {
-      "title": "US Crude Oil Inventories Continue To Falter, SPR Struggling To Pick Up the Slack",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Continue-To-Falter-SPR-Struggling-To-Pick-Up-the-Slack.html",
-      "source": "OilPrice",
-      "date": "Tue, 23 Jun 2026 15:51:00 -0500"
-    },
-    {
-      "title": "Pemex Wants Petrobras' Deepwater Magic",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pemex-Wants-Petrobras-Deepwater-Magic.html",
-      "source": "OilPrice",
-      "date": "Tue, 23 Jun 2026 15:30:00 -0500"
-    },
-    {
-      "title": "SpaceX Taps Bond Market for $20 Billion to Fuel AI Expansion",
-      "link": "https://oilprice.com/Energy/Energy-General/SpaceX-Taps-Bond-Market-for-20-Billion-to-Fuel-AI-Expansion.html",
-      "source": "OilPrice",
-      "date": "Tue, 23 Jun 2026 15:00:00 -0500"
-    },
-    {
-      "title": "China Eyes $2 Billion Uzbek Mining Bet as Central Asia Courtship Accelerates",
-      "link": "https://oilprice.com/Energy/Energy-General/China-Eyes-2-Billion-Uzbek-Mining-Bet-as-Central-Asia-Courtship-Accelerates.html",
-      "source": "OilPrice",
-      "date": "Tue, 23 Jun 2026 14:00:00 -0500"
     },
     {
       "title": "Aclara Resources gets environmental OK for Chile rare earths project",
