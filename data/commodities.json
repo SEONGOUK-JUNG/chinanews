@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-06-24T10:06:39+09:00",
+  "updated_at_kst": "2026-06-24T14:11:51+09:00",
   "ref_date": "2026-06-23",
   "schema_version": "1.0",
   "adjustment_applied": true,
@@ -46,7 +46,8 @@
       "unit": "CNY/g",
       "price_prev": 921.14,
       "price_today": 904.03,
-      "change_pct": -1.86
+      "change_pct": -1.86,
+      "chart_id": "gold"
     },
     {
       "display_name": "은",
@@ -56,7 +57,8 @@
       "unit": "CNY/kg",
       "price_prev": 15853.22,
       "price_today": 15265.66,
-      "change_pct": -3.71
+      "change_pct": -3.71,
+      "chart_id": "silver"
     },
     {
       "display_name": "구리",
@@ -66,7 +68,8 @@
       "unit": "CNY/t",
       "price_prev": 104762.87,
       "price_today": 104458.9,
-      "change_pct": -0.29
+      "change_pct": -0.29,
+      "chart_id": "copper"
     },
     {
       "display_name": "알루미늄",
@@ -76,7 +79,8 @@
       "unit": "CNY/t",
       "price_prev": 23933.48,
       "price_today": 23866.69,
-      "change_pct": -0.28
+      "change_pct": -0.28,
+      "chart_id": "aluminum"
     },
     {
       "display_name": "원유",
@@ -86,7 +90,8 @@
       "unit": "USD/bbl",
       "price_prev": 75.93,
       "price_today": 73.93,
-      "change_pct": -2.62
+      "change_pct": -2.62,
+      "chart_id": "crude_oil"
     },
     {
       "display_name": "석탄",
@@ -96,7 +101,8 @@
       "unit": "CNY/t",
       "price_prev": 875.87,
       "price_today": 875.87,
-      "change_pct": 0.0
+      "change_pct": 0.0,
+      "chart_id": "coal"
     },
     {
       "display_name": "천연가스",
@@ -106,7 +112,8 @@
       "unit": "CNY/t",
       "price_prev": 6224.22,
       "price_today": 6230.22,
-      "change_pct": 0.1
+      "change_pct": 0.1,
+      "chart_id": "natural_gas"
     },
     {
       "display_name": "옥수수",
@@ -116,7 +123,8 @@
       "unit": "CNY/t",
       "price_prev": 2303.86,
       "price_today": 2305.29,
-      "change_pct": 0.06
+      "change_pct": 0.06,
+      "chart_id": "corn"
     },
     {
       "display_name": "대두",
@@ -126,7 +134,8 @@
       "unit": "CNY/t",
       "price_prev": 4518.37,
       "price_today": 4518.37,
-      "change_pct": 0.0
+      "change_pct": 0.0,
+      "chart_id": "soybean"
     },
     {
       "display_name": "옥수수 전분",
@@ -136,7 +145,8 @@
       "unit": "CNY/t",
       "price_prev": 2986.85,
       "price_today": 2992.87,
-      "change_pct": 0.2
+      "change_pct": 0.2,
+      "chart_id": "corn_starch"
     },
     {
       "display_name": "백설탕",
@@ -146,7 +156,8 @@
       "unit": "CNY/t",
       "price_prev": 5333.91,
       "price_today": 5333.91,
-      "change_pct": 0.0
+      "change_pct": 0.0,
+      "chart_id": "white_sugar"
     },
     {
       "display_name": "달걀",
@@ -156,7 +167,8 @@
       "unit": "CNY/kg",
       "price_prev": 9.32,
       "price_today": 9.14,
-      "change_pct": -1.94
+      "change_pct": -1.94,
+      "chart_id": "egg"
     },
     {
       "display_name": "생 돼지",
@@ -166,7 +178,8 @@
       "unit": "CNY/kg",
       "price_prev": 9.54,
       "price_today": 9.54,
-      "change_pct": 0.0
+      "change_pct": 0.0,
+      "chart_id": "live_pig"
     },
     {
       "display_name": "팜오일",
@@ -176,7 +189,8 @@
       "unit": "CNY/t",
       "price_prev": 9235.19,
       "price_today": 9134.96,
-      "change_pct": -1.09
+      "change_pct": -1.09,
+      "chart_id": "palm_oil"
     },
     {
       "display_name": "채종유",
@@ -186,7 +200,8 @@
       "unit": "CNY/t",
       "price_prev": 9966.87,
       "price_today": 9956.85,
-      "change_pct": -0.1
+      "change_pct": -0.1,
+      "chart_id": "rapeseed_oil"
     },
     {
       "display_name": "대두유",
@@ -196,7 +211,8 @@
       "unit": "CNY/t",
       "price_prev": 8501.51,
       "price_today": 8511.53,
-      "change_pct": 0.12
+      "change_pct": 0.12,
+      "chart_id": "soybean_oil"
     }
   ],
   "all_items": [
@@ -758,6 +774,13 @@
       "sector": "화학공업",
       "price_prev": 7710.78,
       "price_today": 7710.78,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "醋酐",
+      "sector": "화학공업",
+      "price_prev": 5319.94,
+      "price_today": 5319.94,
       "change_pct": 0.0
     },
     {
@@ -1580,6 +1603,13 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "아크릴 아크릴 아크릴 아크릴",
+      "sector": "화학공업",
+      "price_prev": 10827.64,
+      "price_today": 10827.64,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "아세트산 프로판",
       "sector": "화학공업",
       "price_prev": 7026.49,
@@ -2305,6 +2335,13 @@
       "sector": "화학공업",
       "price_prev": 53074.2,
       "price_today": 53074.2,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "n-뷰틸 타이트 아세트산염",
+      "sector": "철강",
+      "price_prev": 18273.98,
+      "price_today": 18273.98,
       "change_pct": 0.0
     },
     {
