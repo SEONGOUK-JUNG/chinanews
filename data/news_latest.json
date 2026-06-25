@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-06-25T14:17:00+09:00",
+  "run_at_kst": "2026-06-25T20:15:14.312797+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "$70 Oil Could Put India Back on Track for 7% Economic Growth",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/70-Oil-Could-Put-India-Back-on-Track-for-7-Economic-Growth.html",
+      "source": "OilPrice",
+      "date": "Thu, 25 Jun 2026 05:30:00 -0500"
+    },
+    {
+      "title": "Iraq Could Quit OPEC in Bid to Pump More Oil",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Could-Quit-OPEC-in-Bid-to-Pump-More-Oil.html",
+      "source": "OilPrice",
+      "date": "Thu, 25 Jun 2026 04:30:00 -0500"
+    },
+    {
+      "title": "Trump Singles Out Exxon, Chevron, Shell, and BP Over High Gas Prices",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Singles-Out-Exxon-Chevron-Shell-and-BP-Over-High-Gas-Prices.html",
+      "source": "OilPrice",
+      "date": "Thu, 25 Jun 2026 03:30:00 -0500"
+    },
+    {
+      "title": "Qatar Signs Crude Deal With Taiwan as Gulf Oil Trade Recovers",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Qatar-Signs-Crude-Deal-With-Taiwan-as-Gulf-Oil-Trade-Recovers.html",
+      "source": "OilPrice",
+      "date": "Thu, 25 Jun 2026 02:30:00 -0500"
+    },
+    {
+      "title": "Natural Gas Prices Set to Ease as Qatar Restores LNG Output",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Natural-Gas-Prices-Set-to-Ease-as-Qatar-Restores-LNG-Output.html",
+      "source": "OilPrice",
+      "date": "Thu, 25 Jun 2026 00:26:20 -0500"
+    },
     {
       "title": "US DOE funds MIT drill core tech to speed up critical minerals discovery",
       "link": "https://www.mining.com/us-doe-funds-mit-drill-core-tech-to-speed-up-critical-minerals-discovery/",
@@ -38,40 +68,16 @@
       "date": "Wed, 24 Jun 2026 17:00:00 -0500"
     },
     {
-      "title": "Why Wet Coffee Grounds Might Be The Next Waste-To-Energy Goldmine",
-      "link": "https://oilprice.com/Energy/Energy-General/Why-Wet-Coffee-Grounds-Might-Be-The-Next-Waste-To-Energy-Goldmine.html",
-      "source": "OilPrice",
-      "date": "Wed, 24 Jun 2026 16:00:00 -0500"
-    },
-    {
       "title": "Endurance Gold hits high-grade step-outs at Reliance project",
       "link": "https://www.mining.com/endurance-gold-hits-high-grade-step-outs-at-reliance/",
       "source": "mining.com",
       "date": "Wed, 24 Jun 2026 20:19:33 +0000"
     },
     {
-      "title": "China’s Crude Imports Plunge To Lowest Level Since 2018",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Chinas-Crude-Imports-Plunge-To-Lowest-Level-Since-2018.html",
-      "source": "OilPrice",
-      "date": "Wed, 24 Jun 2026 15:00:00 -0500"
-    },
-    {
-      "title": "Norway’s Oil Output Beats Forecasts Again Despite Pullback from April Highs",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Norways-Oil-Output-Beats-Forecasts-Again-Despite-Pullback-from-April-Highs.html",
-      "source": "OilPrice",
-      "date": "Wed, 24 Jun 2026 14:00:00 -0500"
-    },
-    {
       "title": "NexMetals upgrades Selkirk copper resource to 1.1B lb.",
       "link": "https://www.mining.com/nexmetals-upgrades-selkirk-copper-resource-to-1-1b-lb/",
       "source": "mining.com",
       "date": "Wed, 24 Jun 2026 18:38:25 +0000"
-    },
-    {
-      "title": "Trade Is Slowly Opening One of the World’s Most Isolated Nations",
-      "link": "https://oilprice.com/Energy/Energy-General/Trade-Is-Slowly-Opening-One-of-the-Worlds-Most-Isolated-Nations.html",
-      "source": "OilPrice",
-      "date": "Wed, 24 Jun 2026 13:00:00 -0500"
     },
     {
       "title": "Newcore Gold tanks as Enchi pre-feasibility disappoints",
@@ -84,12 +90,6 @@
       "link": "https://www.mining.com/treasure-hunt-nova-scotia-canadas-first-mining-frontier/",
       "source": "mining.com",
       "date": "Wed, 24 Jun 2026 17:17:04 +0000"
-    },
-    {
-      "title": "Anglo American, Codelco to add 2.7Mt copper with no new mine",
-      "link": "https://www.mining.com/anglo-american-codelco-to-add-2-7mt-copper-with-no-new-mine/",
-      "source": "mining.com",
-      "date": "Wed, 24 Jun 2026 17:15:00 +0000"
     }
   ]
 }

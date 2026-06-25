@@ -1,21 +1,45 @@
 {
-  "run_at_kst": "2026-06-25T14:21:18+09:00",
+  "run_at_kst": "2026-06-25T20:15:14.358919+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "[경제+] '규모화된 혁신'으로...하계 다보스포럼 \"불확실성 해법은 개방과 협력\"",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PanFycmFCRVZyTnFMUWx0RHpjemR0dzV3UWRIUUNvWm1qZnpudmRyeVFBTWFjYnRaYmsxTUdnWVFVb1ZQeDV0Qk1yNWRkUFFwRUtUODROZUZwVTEweHM5STJvY2ZLSzYzM2o4?oc=5",
-      "source": "서울뉴스통신",
-      "date": "Thu, 25 Jun 2026 03:50:49 GMT"
+      "title": "대학 입시 경쟁에서부터 중국의 변화하는 정치·경제 지형에 이르기까지 다양한 측면을 살펴볼 수 있습니다.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMmc1M1NLMURfWXJWNFpsWWxKdndoUDA4S2J2a2JoVG41MDNoYVFPeXUwbXhFNFhNZWZLVW5DM3ZyRGdENHdLMkNiZnRyNE9QWGN4S3VfSFV1WlBBdHlIVDE1ZloycFZIY0hDTEIyQzhXVm80VTUybXlJUnI0Si11cUphNHBDX1BZeEdrTmQtbG5NWWN1bWVvbjRBUWNrZXYwaGljekw5TkwxQU1JTmoxYQ?oc=5",
+      "source": "Vietnam.vn",
+      "date": "Thu, 25 Jun 2026 08:57:47 GMT"
     },
     {
-      "title": "[중국 뉴스 브리핑] 2026년 6월 25일",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53R0ZnNmEydzZJRko0emxiNEZrTThET3UtYVpGN0hlcnVVNUs3ejdyRnNydnZYUVJMVEVnUmVWQzZSb2dLcWRnN1RSbllmaEpvNlJQcnIwSEQtV1ZXLXN5UlBoSTNwQjBrNUE?oc=5",
-      "source": "인민망 한국어판",
-      "date": "Thu, 25 Jun 2026 03:13:44 GMT"
+      "title": "[인차이나-글로벌 질서의 대전환과 한중관계] 6. 디지털로 진화하는 중국 도시 거버넌스·민원전화 '12345'",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80WmdUeU5VdGo4ajdlMjdReXBPZGt5T1pSdFdNYlJxOFUzTXlkTzlzc3hFVThxdHlkN0FxX19XaHRERjF6bHl1RzZXdmpXaE9OM2JvTjZuc1hqaVVJbmp5NXlNS0h1ckExZV90eElEM1o?oc=5",
+      "source": "인천일보",
+      "date": "Thu, 25 Jun 2026 08:31:00 GMT"
+    },
+    {
+      "title": "“韓 수소경제, 유럽·중국·일본과 경쟁서 시장 선점해야”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40Q09NTXh0SEtKdmVWcW9wQjE1OXVNelZQOFU3RkZQd3RkbDdjMFR6cjRFMlg1dnA3b1p0b3pDekNkZDFnNjdQYmxXYUlGOUdEbFQzamNjTWNCU0ZvX3c?oc=5",
+      "source": "기후에너지데이터뱅크",
+      "date": "Thu, 25 Jun 2026 08:08:03 GMT"
+    },
+    {
+      "title": "CGTN: '차이나 오퍼튜니티 2.0'이 글로벌 기업에 성장 잠재력을 제공하는 방법",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtQjdfSWFZRlVJNHplcUJaU210Z19aY3dpenkybnVsTkMwem56V2Vua09vbHNhYXlvczN2TEtVV2drNWYyN1k0NWpVVU4tZWdRVTdJcFVR?oc=5",
+      "source": "지디넷코리아",
+      "date": "Thu, 25 Jun 2026 07:10:14 GMT"
+    },
+    {
+      "title": "중국 대외투자 통제 강화…\"한국도 거래 리스크 점검 서둘러야\"",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FeEl4ZUlfRVQwMTlzQ3VhbDNrX3B5S1hOSUN6T3Jpd0xCTlF2bmVQOTdDeGNRNjMydjlDanFnbW41RnRwZ2Q5YWt2Y0V5eVVRYXJ2ag?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Thu, 25 Jun 2026 05:41:00 GMT"
+    },
+    {
+      "title": "중국만으론 설명 안 되는 방한 호황…관광 회복 판이 바뀐다",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQMnVxd2wteUJzNFpvdjJtV2ozUXl1SXFZeF91d2Z5elhUSXE2SzdRcElKaHBrVkZQenFpSUdVUDFjRUF2ZUlnbG43a0pWWms?oc=5",
+      "source": "v.daum.net",
+      "date": "Thu, 25 Jun 2026 03:31:43 GMT"
     },
     {
       "title": "중국에 '배터리 우려' 전달…산업부, 중국과 국장급 협의",
@@ -28,18 +52,6 @@
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJUDVwNTl1ZGdBRk5aem4yYTVtQkd1QUVBZl9rb3ZGdHI2STkxc1RvYWRqay1xeFFGNHZYYWNJdzdvOHo4djlPMV90S3hHZDJ1U3NjaU9xOVJBOHRmSmpaTEc0Sk5QY0pZU0l0VUVvajJ5dw?oc=5",
       "source": "뉴스임팩트",
       "date": "Wed, 24 Jun 2026 21:30:00 GMT"
-    },
-    {
-      "title": "중국 증시 활황에 거래세 89% 급증…\"금융시장과 실물경제 온도차 여전\"",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82YjRLVVNielVaVldaUF9YSXR2N21GNXpJaHBlcHliRXVLX041RTRuNHVoVHZ4OFU1emRfdWJuem8zbGtyWWNOeE45X1NRaWgxUndMVEV0R2I1ejVrNjNjak1nUEM2dw?oc=5",
-      "source": "뉴스비전e",
-      "date": "Wed, 24 Jun 2026 14:15:37 GMT"
-    },
-    {
-      "title": "中지도부, 지방 찾아 경제 안정·기술 혁신 등 강조",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qNXZVb25objV1RjhMdEpSV0VZTnVLSzFIczI4S0RpRmE2R2ZCRUdSakZPTkZQelZ4T3NKQ1A3dzBndjEtMTRMOEdPQlE5cDRQMTFacHR3cWJkMFhDd3FkT9IBeEFVX3lxTE0yUDByeGpWdHlxMnJXSUN1VUtYMkYzaWhXVzlTQlVidncyVjNHaktCZ1NmSEJJTVJ5NDZwT1Uxb3p0Ny1idDFzUnhoUXY4cm40aHRjSzJCSnpfMmhId3lLLUFFb3ZJclhPZW95OVc3T3dOU295SzZNTg?oc=5",
-      "source": "뉴시스",
-      "date": "Wed, 24 Jun 2026 09:22:35 GMT"
     },
     {
       "title": "中총리 \"글로벌 성장 위해 혁신적 협력 불가피\"…AI 위험성 경고",
@@ -64,18 +76,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UMjE3eW1fQzZNS2FfOW9pRW1Zc0ZjcFBlRGlKeEJUSGxhcVNsTXBnZUZJeXMtQjJuRDFVaXp3cHN0UGJZbEljd3BJTFlNWHdNOGRfY0l1Z1VseEVHV3Awc0hYLXBoblE?oc=5",
       "source": "연합뉴스TV",
       "date": "Mon, 22 Jun 2026 15:35:36 GMT"
-    },
-    {
-      "title": "중국 경제의 최대 복병은 'K자형 양극화'[베이징 노트]",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RMzA0SHZXZWZWYXBOZV9sNzFMVVhyMnNCVkhJWGZ2MkFaS3hmVVVPaV9FZTNxU0dJTUhoeXlqZW5WVEVJMHU0STN2dw?oc=5",
-      "source": "v.daum.net",
-      "date": "Sun, 21 Jun 2026 20:03:11 GMT"
-    },
-    {
-      "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Fri, 19 Jun 2026 07:00:00 GMT"
     }
   ]
 }
