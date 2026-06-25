@@ -1,21 +1,21 @@
 {
-  "run_at_kst": "2026-06-25T20:15:14.358919+09:00",
+  "run_at_kst": "2026-06-26T07:12:25.404225+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "대학 입시 경쟁에서부터 중국의 변화하는 정치·경제 지형에 이르기까지 다양한 측면을 살펴볼 수 있습니다.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMmc1M1NLMURfWXJWNFpsWWxKdndoUDA4S2J2a2JoVG41MDNoYVFPeXUwbXhFNFhNZWZLVW5DM3ZyRGdENHdLMkNiZnRyNE9QWGN4S3VfSFV1WlBBdHlIVDE1ZloycFZIY0hDTEIyQzhXVm80VTUybXlJUnI0Si11cUphNHBDX1BZeEdrTmQtbG5NWWN1bWVvbjRBUWNrZXYwaGljekw5TkwxQU1JTmoxYQ?oc=5",
-      "source": "Vietnam.vn",
-      "date": "Thu, 25 Jun 2026 08:57:47 GMT"
+      "title": "ASML, 네덜란드 경제사절단과 중국 방문…반도체 수출 규제 속 협력 확대 주목",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ON0wzMUdpY0lBbS1GbGo5a0dlLXNTckFmbVllS3YweHhFSGcxUzRZeGF2eWY2R0hSRkZnbWhMYU5Qc0JqRkZEQzFrMjFQOXp4TjktWF82QmJKYXpST2VQRkNLT1FQUQ?oc=5",
+      "source": "뉴스비전e",
+      "date": "Thu, 25 Jun 2026 13:22:54 GMT"
     },
     {
-      "title": "[인차이나-글로벌 질서의 대전환과 한중관계] 6. 디지털로 진화하는 중국 도시 거버넌스·민원전화 '12345'",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80WmdUeU5VdGo4ajdlMjdReXBPZGt5T1pSdFdNYlJxOFUzTXlkTzlzc3hFVThxdHlkN0FxX19XaHRERjF6bHl1RzZXdmpXaE9OM2JvTjZuc1hqaVVJbmp5NXlNS0h1ckExZV90eElEM1o?oc=5",
-      "source": "인천일보",
-      "date": "Thu, 25 Jun 2026 08:31:00 GMT"
+      "title": "리창 중국 총리, \"중국의 문은 더 넓게 열릴 것\"…AI 개방·기술 협력 확대 선언",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PcGhHOGt3NGpRZDFhZkNkVnNJXy1NaklzbEFBSVZKX0daaVNVVlNnU0NJdXAyWUVJWHpYTUpMeWk2eUN2eVlzLUpiUWptMFQydDd5akFKUTAxN2xWYmhtaDVWZlpzMms?oc=5",
+      "source": "인공지능신문",
+      "date": "Thu, 25 Jun 2026 12:26:39 GMT"
     },
     {
       "title": "“韓 수소경제, 유럽·중국·일본과 경쟁서 시장 선점해야”",
@@ -36,18 +36,6 @@
       "date": "Thu, 25 Jun 2026 05:41:00 GMT"
     },
     {
-      "title": "중국만으론 설명 안 되는 방한 호황…관광 회복 판이 바뀐다",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQMnVxd2wteUJzNFpvdjJtV2ozUXl1SXFZeF91d2Z5elhUSXE2SzdRcElKaHBrVkZQenFpSUdVUDFjRUF2ZUlnbG43a0pWWms?oc=5",
-      "source": "v.daum.net",
-      "date": "Thu, 25 Jun 2026 03:31:43 GMT"
-    },
-    {
-      "title": "중국에 '배터리 우려' 전달…산업부, 중국과 국장급 협의",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1eVgxbS0yaTRka1FUSFcyWGk1VHBkQlloZ2JhaFBqY0dmbUdnd25rQUpBUFdhUVpkWktLeHp0dkk2bzNuQy1VNVZ5YkVSYkQ1Qk00dEdiQjgwaGF3ZjVvYUFuWjVYZDlaMXdocTJENkU?oc=5",
-      "source": "코리아리포트",
-      "date": "Thu, 25 Jun 2026 00:02:55 GMT"
-    },
-    {
       "title": "[차이나 인사이트] 숫자 뒤에 숨겨진 중국경제 읽기…중국 소비 회복은 착시인가",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJUDVwNTl1ZGdBRk5aem4yYTVtQkd1QUVBZl9rb3ZGdHI2STkxc1RvYWRqay1xeFFGNHZYYWNJdzdvOHo4djlPMV90S3hHZDJ1U3NjaU9xOVJBOHRmSmpaTEc0Sk5QY0pZU0l0VUVvajJ5dw?oc=5",
       "source": "뉴스임팩트",
@@ -60,10 +48,10 @@
       "date": "Wed, 24 Jun 2026 08:35:01 GMT"
     },
     {
-      "title": "金총리 \"中은 세계 경제 선도국… 양국 산업 협력 확대 기대\"",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd3BHMnY5M0p3RFlnYXRiTVM4OGpwbkVBeXRjdndKWWVZQWhZT2l3aWJ4TGZheVNtRlBEQWxXVG1XdUdDdDZ5bERlTWlhT3FCNWFaR0dzYVQwQk5zZkZmVkFLX0ZabWtQSGdjQlBIZXZTZVp0SXc1cnhXU0QwdlM0VmJMUnlGZFZtNzdaSENjdmptdw?oc=5",
-      "source": "조선일보",
-      "date": "Tue, 23 Jun 2026 03:02:03 GMT"
+      "title": "김 총리, 중국 현지 기업인들 만나 “한중, 더욱 단단해진 길 걷고 있어”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PQmxtVHZfdlR4akhtUFl0Z19FaDZibTl4U25VNmtRbXMxQmtNTWRrWjdEU282NUZsN1E3UEpyTEpKV1pJOGVPbUJFU3R5dEVJZlhWR2lxMjFBUkE?oc=5",
+      "source": "KBS 뉴스",
+      "date": "Tue, 23 Jun 2026 00:28:00 GMT"
     },
     {
       "title": "중국 외교부 \"각국 기업의 공급망박람회 참가, 중국 경제 전망에 대한 신뢰 반영\"",
@@ -76,6 +64,18 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UMjE3eW1fQzZNS2FfOW9pRW1Zc0ZjcFBlRGlKeEJUSGxhcVNsTXBnZUZJeXMtQjJuRDFVaXp3cHN0UGJZbEljd3BJTFlNWHdNOGRfY0l1Z1VseEVHV3Awc0hYLXBoblE?oc=5",
       "source": "연합뉴스TV",
       "date": "Mon, 22 Jun 2026 15:35:36 GMT"
+    },
+    {
+      "title": "중국 경제의 최대 복병은 'K자형 양극화'[베이징 노트]",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RMzA0SHZXZWZWYXBOZV9sNzFMVVhyMnNCVkhJWGZ2MkFaS3hmVVVPaV9FZTNxU0dJTUhoeXlqZW5WVEVJMHU0STN2dw?oc=5",
+      "source": "v.daum.net",
+      "date": "Sun, 21 Jun 2026 20:03:11 GMT"
+    },
+    {
+      "title": "美경제 규모 추월할거란 ‘중국몽’...이제는 인도에 추월당할까 걱정",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kV0I1QVVxaDhVSjZoTHhxU0lWOUExZEVWc1dpYnpLdzVMMVo1cEVGM3FXMlMzTUZRRDNhcXhuYm5ZQlNYYkZfMjNGamRIclJCOTFTbmozTllWLUwxYzNuYk9QRkltZmJta292Vjlpam5rWFh1SF9rRg?oc=5",
+      "source": "조선일보",
+      "date": "Wed, 10 Jun 2026 07:00:00 GMT"
     }
   ]
 }
