@@ -1,10 +1,40 @@
 {
-  "run_at_kst": "2026-06-24T20:21:15+09:00",
+  "run_at_kst": "2026-06-25T13:49:52.277987+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "[경제+] '규모화된 혁신'으로...하계 다보스포럼 \"불확실성 해법은 개방과 협력\"",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PanFycmFCRVZyTnFMUWx0RHpjemR0dzV3UWRIUUNvWm1qZnpudmRyeVFBTWFjYnRaYmsxTUdnWVFVb1ZQeDV0Qk1yNWRkUFFwRUtUODROZUZwVTEweHM5STJvY2ZLSzYzM2o4?oc=5",
+      "source": "서울뉴스통신",
+      "date": "Thu, 25 Jun 2026 03:50:49 GMT"
+    },
+    {
+      "title": "[중국 뉴스 브리핑] 2026년 6월 25일",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53R0ZnNmEydzZJRko0emxiNEZrTThET3UtYVpGN0hlcnVVNUs3ejdyRnNydnZYUVJMVEVnUmVWQzZSb2dLcWRnN1RSbllmaEpvNlJQcnIwSEQtV1ZXLXN5UlBoSTNwQjBrNUE?oc=5",
+      "source": "인민망 한국어판",
+      "date": "Thu, 25 Jun 2026 03:13:44 GMT"
+    },
+    {
+      "title": "중국에 '배터리 우려' 전달…산업부, 중국과 국장급 협의",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1eVgxbS0yaTRka1FUSFcyWGk1VHBkQlloZ2JhaFBqY0dmbUdnd25rQUpBUFdhUVpkWktLeHp0dkk2bzNuQy1VNVZ5YkVSYkQ1Qk00dEdiQjgwaGF3ZjVvYUFuWjVYZDlaMXdocTJENkU?oc=5",
+      "source": "코리아리포트",
+      "date": "Thu, 25 Jun 2026 00:02:55 GMT"
+    },
+    {
+      "title": "[차이나 인사이트] 숫자 뒤에 숨겨진 중국경제 읽기…중국 소비 회복은 착시인가",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJUDVwNTl1ZGdBRk5aem4yYTVtQkd1QUVBZl9rb3ZGdHI2STkxc1RvYWRqay1xeFFGNHZYYWNJdzdvOHo4djlPMV90S3hHZDJ1U3NjaU9xOVJBOHRmSmpaTEc0Sk5QY0pZU0l0VUVvajJ5dw?oc=5",
+      "source": "뉴스임팩트",
+      "date": "Wed, 24 Jun 2026 21:30:00 GMT"
+    },
+    {
+      "title": "중국 증시 활황에 거래세 89% 급증…“금융시장과 실물경제 온도차 여전”",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82YjRLVVNielVaVldaUF9YSXR2N21GNXpJaHBlcHliRXVLX041RTRuNHVoVHZ4OFU1emRfdWJuem8zbGtyWWNOeE45X1NRaWgxUndMVEV0R2I1ejVrNjNjak1nUEM2dw?oc=5",
+      "source": "뉴스비전e",
+      "date": "Wed, 24 Jun 2026 14:15:37 GMT"
+    },
     {
       "title": "中지도부, 지방 찾아 경제 안정·기술 혁신 등 강조",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qNXZVb25objV1RjhMdEpSV0VZTnVLSzFIczI4S0RpRmE2R2ZCRUdSakZPTkZQelZ4T3NKQ1A3dzBndjEtMTRMOEdPQlE5cDRQMTFacHR3cWJkMFhDd3FkT9IBeEFVX3lxTE0yUDByeGpWdHlxMnJXSUN1VUtYMkYzaWhXVzlTQlVidncyVjNHaktCZ1NmSEJJTVJ5NDZwT1Uxb3p0Ny1idDFzUnhoUXY4cm40aHRjSzJCSnpfMmhId3lLLUFFb3ZJclhPZW95OVc3T3dOU295SzZNTg?oc=5",
@@ -18,52 +48,22 @@
       "date": "Wed, 24 Jun 2026 08:35:01 GMT"
     },
     {
-      "title": "중국 총리, 하계 다보스포럼서 “생산·공급망 안정 유지하자”",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUzFzZWRKXzZDXzBGQ3J4RnBPTVJWcHUxbmFKWXloOTlxNVJISnUxeGdERVZEVWhOeFVSNnN2YndReXFDWEdLSzFOVkNaQmNwbkttX2FhcEMyMzRNeXZEMXE2bUV6V2h4X0tQMmkyU3FNd1RBX1VRcXZqcmx0NUxFZA?oc=5",
-      "source": "이데일리",
-      "date": "Wed, 24 Jun 2026 08:26:13 GMT"
+      "title": "金총리 \"中은 세계 경제 선도국… 양국 산업 협력 확대 기대\"",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd3BHMnY5M0p3RFlnYXRiTVM4OGpwbkVBeXRjdndKWWVZQWhZT2l3aWJ4TGZheVNtRlBEQWxXVG1XdUdDdDZ5bERlTWlhT3FCNWFaR0dzYVQwQk5zZkZmVkFLX0ZabWtQSGdjQlBIZXZTZVp0SXc1cnhXU0QwdlM0VmJMUnlGZFZtNzdaSENjdmptdw?oc=5",
+      "source": "조선일보",
+      "date": "Tue, 23 Jun 2026 03:02:03 GMT"
     },
     {
-      "title": "리창 “中 경쟁력, 보조금 아냐”…다보스서 기술굴기 방어",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBITmJLWjFpNXplSkk4dElJMmhEXzYxM1lpM3dNMnpLN3kteGhZZ2lha1NfWjdib0dpUlktLW1KaDZRWGpsd09wQ0NUZTlFS2FDRm5SczlUMTRFbmZPWkg5OXQ3UlVzNVk?oc=5",
+      "title": "중국 외교부 \"각국 기업의 공급망박람회 참가, 중국 경제 전망에 대한 신뢰 반영\"",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nRndrZjdnTEE5NkhTWnpNaWlqMUJ1Y082NFRoT1o4SXphbUw1NUdQNTZZUW5ZeUpMeXlZZk1SQzVubHh3Y1NER1JiX1pKTXkybFptMWk2Ml9zVFFqSkJkZnQxMA?oc=5",
+      "source": "国际在线",
+      "date": "Mon, 22 Jun 2026 16:55:47 GMT"
+    },
+    {
+      "title": "김 총리, 2박3일 방중 일정 돌입…중국 기업인들 만나 \"비결 듣고 싶어\"",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UMjE3eW1fQzZNS2FfOW9pRW1Zc0ZjcFBlRGlKeEJUSGxhcVNsTXBnZUZJeXMtQjJuRDFVaXp3cHN0UGJZbEljd3BJTFlNWHdNOGRfY0l1Z1VseEVHV3Awc0hYLXBoblE?oc=5",
       "source": "연합뉴스TV",
-      "date": "Wed, 24 Jun 2026 07:38:53 GMT"
-    },
-    {
-      "title": "[경제+] 중국으로 향하는 글로벌 기업...투자 확대 및 공급사슬 구축에 박차",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1cFNtTG93VUdrQU9ZMWpJME1kZ212akNQT2JMMHZKMnRkb0k5NWNxY2pSc3dtQlN5WDk4X1hkaGJIandsZkFha2hjSVM4YW5xRXJNbGpua1JhUVl6VVpZR3Vxd1pTa2FLcWk1NNIBcEFVX3lxTFB5SHFKSC1pRWU3V3k3UHNLbjVfb0NrMUo5WFRtbEJZUWtjWXAwOEE3NzR4anNLYUM1ZVNTZEtNckhYOTdBY1dGX0xaY0VuemdFOGhuM0M3bjlsWm4yRERqT3JBWEloaUNsMmtKdV9fNlg?oc=5",
-      "source": "내외뉴스통신",
-      "date": "Wed, 24 Jun 2026 06:38:52 GMT"
-    },
-    {
-      "title": "미국 '초고가 두뇌' vs. 중국 '초저가 인프라', 승자는 누구?",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16Rk5GZmNqQVA3dWFoVFIwZkwxc2phZnp3QmpoakM4bS00VE5jSEM4c1lib1kxbkRXeFlWSnppcC1GNTE2N0taOGplMGhSa2MzU1JscEdTdXV2R2hmODFFZHFRZk1lYkZvajN6UUZaVTR4TzE1b25Z?oc=5",
-      "source": "오마이뉴스",
-      "date": "Wed, 24 Jun 2026 05:19:00 GMT"
-    },
-    {
-      "title": "과잉생산 딜레마 中, 상당 제품 배추 될 운명",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzSXNTdkFPbmR4Tk92YWg2SVZMdmdoU2cwTEZuNUtZME0xX2lseTlHNWNmMTh2dDZORTZ6Z1lCc3VSUl9fSFh6WkkyQTYzRjc2TUllcDZSYWxOejFDYkp2aVNXTXcyOXk1dXJHeUhn?oc=5",
-      "source": "아시아투데이",
-      "date": "Wed, 24 Jun 2026 04:46:08 GMT"
-    },
-    {
-      "title": "[경제+] 중국국제공급사슬엑스포, AI·수소 등 '6대 공급망 맵' 공개",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kTE9uRlRtMHVkNFhDbVlwN25uUU1xOWU0WG81ajVFX3R2M3hkbUJJdWx0cUlJZnJCcmE5QlFYeUdLcUtxcDN4TVZoeTZQOHZTRkdYZGdTS2w0QXNWaTY3c1NQX0F4cFZLY1dJ?oc=5",
-      "source": "서울뉴스통신",
-      "date": "Wed, 24 Jun 2026 04:33:00 GMT"
-    },
-    {
-      "title": "김민석 국무총리, 베이징에서 중국 기업인 간담회 개최",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LQTJGRWJzZU90SWVmQjFMQmNLUHFEVDdtbXVjNUJaRWt5VlpTb19VelFGTUR6ZWxrVzFlS0h4V0JiSzFwU08wYVM3aHBKUVRQSUoyNy01Y1lUYUY3ZEYySnV2Zw?oc=5",
-      "source": "국악타임즈",
-      "date": "Wed, 24 Jun 2026 04:01:39 GMT"
-    },
-    {
-      "title": "하늘을 新 산업단지로 만드는 중국, 저고도 경제의 병목은 운영이다 [박지민의 중국과 미래]",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxZzM5Mjc5eU9uOGw5NmhIbTFnVWhFaXkzVzhYNEFjNEF2YnNvQ3A5WVlpeGE5VW1HNGZSNndnQThmeTJhNnhUR3pKdk43bFRxUEo0ZGxCb2dEa2pYcEFlUXV3dkJJZ1NSdWFGT2p3cDTSAXRBVV95cUxPSVBjODRqSzRFcjhwTld3S3M1azZQbzFGaTg4RmpqemZDdUhMY2xvUHdSRDA4TktVMm9HcEtCcHIzcjdPSTlibXVMdEhsSmcwTjc0UmFTOHpwTENGdXhmUUl1dWFPa3BRZlc5RXVXbWRYWVNkTg?oc=5",
-      "source": "IT조선",
-      "date": "Tue, 23 Jun 2026 21:00:00 GMT"
+      "date": "Mon, 22 Jun 2026 15:35:36 GMT"
     },
     {
       "title": "중국 경제의 최대 복병은 'K자형 양극화'[베이징 노트]",

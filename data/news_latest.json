@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-06-24T20:16:12+09:00",
+  "run_at_kst": "2026-06-25T13:44:32.585753+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
-      "title": "China’s Teapot Refineries Cut Operations to Their Lowest Level Since 2017",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Teapot-Refineries-Cut-Operations-to-Their-Lowest-Level-Since-2017.html",
-      "source": "OilPrice",
-      "date": "Wed, 24 Jun 2026 05:30:00 -0500"
-    },
-    {
-      "title": "India Cuts Coal Imports as Power Plants Turn to Domestic Fuel",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Cuts-Coal-Imports-as-Power-Plants-Turn-to-Domestic-Fuel.html",
-      "source": "OilPrice",
-      "date": "Wed, 24 Jun 2026 04:30:00 -0500"
-    },
-    {
-      "title": "Qatar Says LNG Exports Could Return to Normal Within Weeks",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Qatar-Says-LNG-Exports-Could-Return-to-Normal-Within-Weeks.html",
-      "source": "OilPrice",
-      "date": "Wed, 24 Jun 2026 03:15:00 -0500"
-    },
-    {
-      "title": "Malaysian Major Makes Gas Discovery in Suriname",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Malaysian-Major-Makes-Gas-Discovery-in-Suriname.html",
-      "source": "OilPrice",
-      "date": "Wed, 24 Jun 2026 02:00:00 -0500"
-    },
-    {
-      "title": "Trump Orders Gas Price Gouging Probe",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Orders-Gas-Price-Gouging-Probe.html",
-      "source": "OilPrice",
-      "date": "Wed, 24 Jun 2026 00:30:00 -0500"
-    },
-    {
-      "title": "Jindalee Lithium inks stewardship MoU for McDermitt project",
-      "link": "https://www.mining.com/jindalee-lithium-inks-stewardship-mou-for-mcdermitt-project/",
+      "title": "US DOE funds MIT drill core tech to speed up critical minerals discovery",
+      "link": "https://www.mining.com/us-doe-funds-mit-drill-core-tech-to-speed-up-critical-minerals-discovery/",
       "source": "mining.com",
-      "date": "Wed, 24 Jun 2026 00:06:29 +0000"
+      "date": "Thu, 25 Jun 2026 00:09:18 +0000"
     },
     {
-      "title": "The Trillion-Dollar AI Shockwave Nobody Is Ready For",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Trillion-Dollar-AI-Shockwave-Nobody-Is-Ready-For.html",
+      "title": "Why the AI Boom Could Trigger the Biggest Energy Trade in Decades",
+      "link": "https://oilprice.com/Energy/Energy-General/Why-the-AI-Boom-Could-Trigger-the-Biggest-Energy-Trade-in-Decades.html",
       "source": "OilPrice",
-      "date": "Tue, 23 Jun 2026 19:00:00 -0500"
+      "date": "Wed, 24 Jun 2026 19:00:00 -0500"
     },
     {
-      "title": "Why the Next Billion Barrels of Oil Demand Could Come From Storage",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Why-the-Next-Billion-Barrels-of-Oil-Demand-Could-Come-From-Storage.html",
+      "title": "Qatar and the U.S. Warn EU of Gas Crunch Over Methane Regulation",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Qatar-and-the-US-Warn-EU-of-Gas-Crunch-Over-Methane-Regulation.html",
       "source": "OilPrice",
-      "date": "Tue, 23 Jun 2026 18:00:00 -0500"
+      "date": "Wed, 24 Jun 2026 18:00:00 -0500"
     },
     {
-      "title": "Trump Admin Takes Aim at Oil, Gas Drilling Costs",
-      "link": "https://oilprice.com/Energy/Energy-General/Trump-Admin-Takes-Aim-at-Oil-Gas-Drilling-Costs.html",
+      "title": "World’s largest EV battery repurposing megafactory opens in British Columbia",
+      "link": "https://www.mining.com/worlds-largest-ev-battery-repurposing-megafactory-opens-in-british-columbia/",
+      "source": "mining.com",
+      "date": "Wed, 24 Jun 2026 22:22:32 +0000"
+    },
+    {
+      "title": "Global Battery Storage Boom Is A Boon for Tesla",
+      "link": "https://oilprice.com/Energy/Energy-General/Global-Battery-Storage-Boom-Is-A-Boon-for-Tesla.html",
       "source": "OilPrice",
-      "date": "Tue, 23 Jun 2026 17:00:00 -0500"
+      "date": "Wed, 24 Jun 2026 17:00:00 -0500"
     },
     {
-      "title": "Aclara Resources gets environmental OK for Chile rare earths project",
-      "link": "https://www.mining.com/aclara-resources-gets-environmental-ok-for-chile-rare-earths-project/",
-      "source": "mining.com",
-      "date": "Tue, 23 Jun 2026 16:13:58 +0000"
+      "title": "Why Wet Coffee Grounds Might Be The Next Waste-To-Energy Goldmine",
+      "link": "https://oilprice.com/Energy/Energy-General/Why-Wet-Coffee-Grounds-Might-Be-The-Next-Waste-To-Energy-Goldmine.html",
+      "source": "OilPrice",
+      "date": "Wed, 24 Jun 2026 16:00:00 -0500"
     },
     {
-      "title": "Deutsche Bank cuts Q3 gold price target by 22%",
-      "link": "https://www.mining.com/deutsche-bank-cuts-q3-gold-price-target-by-22/",
+      "title": "Endurance Gold hits high-grade step-outs at Reliance project",
+      "link": "https://www.mining.com/endurance-gold-hits-high-grade-step-outs-at-reliance/",
       "source": "mining.com",
-      "date": "Tue, 23 Jun 2026 16:13:05 +0000"
+      "date": "Wed, 24 Jun 2026 20:19:33 +0000"
     },
     {
-      "title": "BHP and Rio Tinto test electric trucks to clean up iron ore",
-      "link": "https://www.mining.com/bhp-and-rio-tinto-test-electric-trucks-to-clean-up-iron-ore/",
-      "source": "mining.com",
-      "date": "Tue, 23 Jun 2026 16:01:00 +0000"
+      "title": "China’s Crude Imports Plunge To Lowest Level Since 2018",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Chinas-Crude-Imports-Plunge-To-Lowest-Level-Since-2018.html",
+      "source": "OilPrice",
+      "date": "Wed, 24 Jun 2026 15:00:00 -0500"
     },
     {
-      "title": "US gives Cameco-backed Westinghouse $17.5B nuclear boost",
-      "link": "https://www.mining.com/doe-launches-17-5b-loan-program-to-accelerate-nuclear-buildout/",
-      "source": "mining.com",
-      "date": "Tue, 23 Jun 2026 15:15:22 +0000"
+      "title": "Norway's Oil Output Beats Forecasts Again Despite Pullback from April Highs",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Norways-Oil-Output-Beats-Forecasts-Again-Despite-Pullback-from-April-Highs.html",
+      "source": "OilPrice",
+      "date": "Wed, 24 Jun 2026 14:00:00 -0500"
     },
     {
-      "title": "New AbraSilver study quadruples Argentina project value",
-      "link": "https://www.mining.com/new-abrasilver-study-quadruples-argentina-project-value/",
+      "title": "NexMetals upgrades Selkirk copper resource to 1.1B lb.",
+      "link": "https://www.mining.com/nexmetals-upgrades-selkirk-copper-resource-to-1-1b-lb/",
       "source": "mining.com",
-      "date": "Tue, 23 Jun 2026 14:58:03 +0000"
+      "date": "Wed, 24 Jun 2026 18:38:25 +0000"
+    },
+    {
+      "title": "Trade Is Slowly Opening One of the World's Most Isolated Nations",
+      "link": "https://oilprice.com/Energy/Energy-General/Trade-Is-Slowly-Opening-One-of-the-Worlds-Most-Isolated-Nations.html",
+      "source": "OilPrice",
+      "date": "Wed, 24 Jun 2026 13:00:00 -0500"
+    },
+    {
+      "title": "Newcore Gold tanks as Enchi pre-feasibility disappoints",
+      "link": "https://www.mining.com/newcore-gold-tanks-as-enchi-pre-feasibility-disappoints/",
+      "source": "mining.com",
+      "date": "Wed, 24 Jun 2026 17:21:41 +0000"
+    },
+    {
+      "title": "Treasure Hunt – Nova Scotia: Canada’s first mining frontier",
+      "link": "https://www.mining.com/treasure-hunt-nova-scotia-canadas-first-mining-frontier/",
+      "source": "mining.com",
+      "date": "Wed, 24 Jun 2026 17:17:04 +0000"
+    },
+    {
+      "title": "Anglo American, Codelco to add 2.7Mt copper with no new mine",
+      "link": "https://www.mining.com/anglo-american-codelco-to-add-2-7mt-copper-with-no-new-mine/",
+      "source": "mining.com",
+      "date": "Wed, 24 Jun 2026 17:15:00 +0000"
     }
   ]
 }
