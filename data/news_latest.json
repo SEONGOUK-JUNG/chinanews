@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-06-26T07:12:25.404225+09:00",
+  "run_at_kst": "2026-06-26T10:11:54.744747+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,18 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "The $7 Trillion AI Boom Is Running Out of Power",
+      "link": "https://oilprice.com/Energy/Energy-General/The-7-Trillion-AI-Boom-Is-Running-Out-of-Power.html",
+      "source": "OilPrice",
+      "date": "Thu, 25 Jun 2026 19:00:00 -0500"
+    },
+    {
+      "title": "American Ocean Minerals finishes first offshore exploration mission in Cook Islands",
+      "link": "https://www.mining.com/american-ocean-minerals-finishes-first-offshore-exploration-mission-in-cook-islands/",
+      "source": "mining.com",
+      "date": "Thu, 25 Jun 2026 22:22:55 +0000"
+    },
     {
       "title": "Colombia's Cocaine Trade Now Outearns Its Oil Exports",
       "link": "https://oilprice.com/Energy/Crude-Oil/Colombias-Cocaine-Trade-Now-Outearns-Its-Oil-Exports.html",
@@ -62,12 +74,6 @@
       "date": "Thu, 25 Jun 2026 13:00:00 -0500"
     },
     {
-      "title": "Russia Turns Asia's Oil Shock Into an Indonesian Opening",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Russia-Turns-Asias-Oil-Shock-Into-an-Indonesian-Opening.html",
-      "source": "OilPrice",
-      "date": "Thu, 25 Jun 2026 12:00:00 -0500"
-    },
-    {
       "title": "Goldsky closes Agnico deal to become sole owner of Swedish project",
       "link": "https://www.mining.com/goldsky-closes-agnico-deal-to-become-sole-owner-of-swedish-project/",
       "source": "mining.com",
@@ -84,12 +90,6 @@
       "link": "https://www.mining.com/wesdome-grows-reserve-base-to-support-production-through-2033/",
       "source": "mining.com",
       "date": "Thu, 25 Jun 2026 15:37:58 +0000"
-    },
-    {
-      "title": "Infographic: Canada’s miners are blue-collar wage leaders",
-      "link": "https://www.mining.com/infographic-canadas-blue-collar-wage-leaders/",
-      "source": "mining.com",
-      "date": "Thu, 25 Jun 2026 14:52:16 +0000"
     }
   ]
 }

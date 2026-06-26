@@ -1,10 +1,34 @@
 {
-  "run_at_kst": "2026-06-26T07:12:25.404225+09:00",
+  "run_at_kst": "2026-06-26T10:11:54.744747+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "세계한인경제무역협회, 중국 핵심 경제단체와 전략적 MOU",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0d3FaczRQal9kZ3RreTZkTWRhbE51WW45SU5lOUNWbm9CcWowakEtdjdSQlptemlSdlNMMmJ4Qnh4aFJiMnNoSDBVcEk5OG44eXkxb1dzcm5FUDB1Qm1Udl8zUTdCQ3pTRE9vbg?oc=5",
+      "source": "재외동포신문",
+      "date": "Fri, 26 Jun 2026 00:38:34 GMT"
+    },
+    {
+      "title": "[CMG중국통신] 리창, 하계 다보스서 “불확실성 속 중국 경제 안정”",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53Zmx6a3A3YjVmNGdRXzNhS1lBRWpTX1d5S2c2WTU3ZUJZd3ZhUVpCTGpQdnVZdjJaMm5xcHZlNGYxR3pQMW8xNzBId2pWOHBRWXBlVkt3?oc=5",
+      "source": "중앙일보",
+      "date": "Fri, 26 Jun 2026 00:11:01 GMT"
+    },
+    {
+      "title": "위안화 결제망 키운 중국, 미국 제재망 흔든다",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBdFhFTFFrYTg2UnlWNFBoQjdtNjMxb0Q2YzZsYXlBXzRmSGdMZkZqU0JPd3otbnpSY1hDQ0JKWml1RXhKeEluTmtEVm9ITW41RUxhaFNJOEhIUdIBVEFVX3lxTE9zSTFxaHNLREIwdDdKVmlDRVdyTGN4X2NnbzBxRXNDUHZQaVJOMUhHeG53eURxU1hKUlRhQ2dZQ0RfSzUzTTBLZXVoNmZjYll0VUE0Tw?oc=5",
+      "source": "한국경제",
+      "date": "Fri, 26 Jun 2026 00:01:53 GMT"
+    },
+    {
+      "title": "김정관 장관 \"중국 따라오는 시대 끝나, 이제 우리가 따라가야 할 상황\"",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EaTNlNXZxZWN2NEY2dnFEeTFMQ2x0b0J1VmR3T1ZKN3RoX3EzWk9adXpvb2VyWHlPWnBzZGZhR0RLWnBnNWpDZWJpbk4zNlU?oc=5",
+      "source": "v.daum.net",
+      "date": "Thu, 25 Jun 2026 23:59:44 GMT"
+    },
     {
       "title": "ASML, 네덜란드 경제사절단과 중국 방문…반도체 수출 규제 속 협력 확대 주목",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ON0wzMUdpY0lBbS1GbGo5a0dlLXNTckFmbVllS3YweHhFSGcxUzRZeGF2eWY2R0hSRkZnbWhMYU5Qc0JqRkZEQzFrMjFQOXp4TjktWF82QmJKYXpST2VQRkNLT1FQUQ?oc=5",
@@ -19,9 +43,9 @@
     },
     {
       "title": "“韓 수소경제, 유럽·중국·일본과 경쟁서 시장 선점해야”",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40Q09NTXh0SEtKdmVWcW9wQjE1OXVNelZQOFU3RkZQd3RkbDdjMFR6cjRFMlg1dnA3b1p0b3pDekNkZDFnNjdQYmxXYUlGOUdEbFQzamNjTWNCU0ZvX3c?oc=5",
-      "source": "기후에너지데이터뱅크",
-      "date": "Thu, 25 Jun 2026 08:08:03 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XckhYOWNLRGpVemZBNDUxS0Frc1FRczlvZ2lpUUhyZzYzNEFkeHEzSlgxeDFYNW5yNHkwa0JfUTd0cVREVXo2TExwSWk3a0dkSWlUdm9TU0JGU0U?oc=5",
+      "source": "에너지경제신문",
+      "date": "Thu, 25 Jun 2026 07:47:59 GMT"
     },
     {
       "title": "CGTN: '차이나 오퍼튜니티 2.0'이 글로벌 기업에 성장 잠재력을 제공하는 방법",
@@ -30,10 +54,10 @@
       "date": "Thu, 25 Jun 2026 07:10:14 GMT"
     },
     {
-      "title": "중국 대외투자 통제 강화…\"한국도 거래 리스크 점검 서둘러야\"",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FeEl4ZUlfRVQwMTlzQ3VhbDNrX3B5S1hOSUN6T3Jpd0xCTlF2bmVQOTdDeGNRNjMydjlDanFnbW41RnRwZ2Q5YWt2Y0V5eVVRYXJ2ag?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Thu, 25 Jun 2026 05:41:00 GMT"
+      "title": "중국동포 감소·고려인 증가…달라지는 재외동포 사회 지형도",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tUTV1OW1BenNLMUUyelVEVUJLZEVOdFNnUG0yTnFObWRVMWdjeFFnVXJZUDdRQlQwVkhpVWhhNkExcFlFMHRJSVV4OGQzWlRfQy1iaVlUSWVEaVpvWFR1dElYOVE5dE1oMk40?oc=5",
+      "source": "세계한인신문",
+      "date": "Thu, 25 Jun 2026 06:48:14 GMT"
     },
     {
       "title": "[차이나 인사이트] 숫자 뒤에 숨겨진 중국경제 읽기…중국 소비 회복은 착시인가",
@@ -48,34 +72,10 @@
       "date": "Wed, 24 Jun 2026 08:35:01 GMT"
     },
     {
-      "title": "김 총리, 중국 현지 기업인들 만나 “한중, 더욱 단단해진 길 걷고 있어”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PQmxtVHZfdlR4akhtUFl0Z19FaDZibTl4U25VNmtRbXMxQmtNTWRrWjdEU282NUZsN1E3UEpyTEpKV1pJOGVPbUJFU3R5dEVJZlhWR2lxMjFBUkE?oc=5",
-      "source": "KBS 뉴스",
-      "date": "Tue, 23 Jun 2026 00:28:00 GMT"
-    },
-    {
-      "title": "중국 외교부 \"각국 기업의 공급망박람회 참가, 중국 경제 전망에 대한 신뢰 반영\"",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nRndrZjdnTEE5NkhTWnpNaWlqMUJ1Y082NFRoT1o4SXphbUw1NUdQNTZZUW5ZeUpMeXlZZk1SQzVubHh3Y1NER1JiX1pKTXkybFptMWk2Ml9zVFFqSkJkZnQxMA?oc=5",
-      "source": "国际在线",
-      "date": "Mon, 22 Jun 2026 16:55:47 GMT"
-    },
-    {
       "title": "김 총리, 2박3일 방중 일정 돌입…중국 기업인들 만나 \"비결 듣고 싶어\"",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UMjE3eW1fQzZNS2FfOW9pRW1Zc0ZjcFBlRGlKeEJUSGxhcVNsTXBnZUZJeXMtQjJuRDFVaXp3cHN0UGJZbEljd3BJTFlNWHdNOGRfY0l1Z1VseEVHV3Awc0hYLXBoblE?oc=5",
       "source": "연합뉴스TV",
       "date": "Mon, 22 Jun 2026 15:35:36 GMT"
-    },
-    {
-      "title": "중국 경제의 최대 복병은 'K자형 양극화'[베이징 노트]",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RMzA0SHZXZWZWYXBOZV9sNzFMVVhyMnNCVkhJWGZ2MkFaS3hmVVVPaV9FZTNxU0dJTUhoeXlqZW5WVEVJMHU0STN2dw?oc=5",
-      "source": "v.daum.net",
-      "date": "Sun, 21 Jun 2026 20:03:11 GMT"
-    },
-    {
-      "title": "美경제 규모 추월할거란 ‘중국몽’...이제는 인도에 추월당할까 걱정",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kV0I1QVVxaDhVSjZoTHhxU0lWOUExZEVWc1dpYnpLdzVMMVo1cEVGM3FXMlMzTUZRRDNhcXhuYm5ZQlNYYkZfMjNGamRIclJCOTFTbmozTllWLUwxYzNuYk9QRkltZmJta292Vjlpam5rWFh1SF9rRg?oc=5",
-      "source": "조선일보",
-      "date": "Wed, 10 Jun 2026 07:00:00 GMT"
     }
   ]
 }
