@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-06-26T10:06:00.886148+09:00",
+  "updated_at_kst": "2026-06-26T14:11:26+09:00",
   "ref_date": "2026-06-25",
   "schema_version": "1.0",
   "adjustment_applied": true,
@@ -1839,6 +1839,13 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "요오드화칼륨",
+      "sector": "",
+      "price_prev": 432.0,
+      "price_today": 432.0,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "요오드화나트륨",
       "sector": "화학공업",
       "price_prev": 523.23,
@@ -1899,6 +1906,13 @@
       "sector": "화학공업",
       "price_prev": 82615.5,
       "price_today": 82615.5,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "OP-10",
+      "sector": "",
+      "price_prev": 10116.67,
+      "price_today": 10116.67,
       "change_pct": 0.0
     },
     {

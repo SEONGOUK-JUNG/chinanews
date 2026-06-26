@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-06-26T10:11:54.744747+09:00",
+  "run_at_kst": "2026-06-26T14:19:38+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Oil Heads for Weekly Loss as Hormuz Tanker Traffic Rebounds",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Heads-for-Weekly-Loss-as-Hormuz-Tanker-Traffic-Rebounds.html",
+      "source": "OilPrice",
+      "date": "Fri, 26 Jun 2026 00:00:00 -0500"
+    },
     {
       "title": "The $7 Trillion AI Boom Is Running Out of Power",
       "link": "https://oilprice.com/Energy/Energy-General/The-7-Trillion-AI-Boom-Is-Running-Out-of-Power.html",
@@ -66,12 +72,6 @@
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Gas-Prices-Are-Falling-Your-July-4-Fill-Up-Still-Wont-Feel-Cheap.html",
       "source": "OilPrice",
       "date": "Thu, 25 Jun 2026 14:00:00 -0500"
-    },
-    {
-      "title": "Kazakhstan Lands $12 Billion in EU Deals to Expand Energy and Trade Ties",
-      "link": "https://oilprice.com/Energy/Energy-General/Kazakhstan-Lands-12-Billion-in-EU-Deals-to-Expand-Energy-and-Trade-Ties.html",
-      "source": "OilPrice",
-      "date": "Thu, 25 Jun 2026 13:00:00 -0500"
     },
     {
       "title": "Goldsky closes Agnico deal to become sole owner of Swedish project",

@@ -1,10 +1,28 @@
 {
-  "run_at_kst": "2026-06-26T10:11:54.744747+09:00",
+  "run_at_kst": "2026-06-26T14:19:38+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "월드옥타, 중국 광둥성과 협력 확대... 10월 선전 박람회 성공 개최 공동 노력",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZSEdmVmlPQURqNExOSDhhM0ZVaklwdndjbVhKbUl2elZ5TVVBZDNuUlEyZnpaMlkwODdvZm9RVnptVjhQWllwOVVoaEphR0xPeXRTYm9oYktoanE1VUE?oc=5",
+      "source": "YTN",
+      "date": "Fri, 26 Jun 2026 02:18:00 GMT"
+    },
+    {
+      "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Fri, 26 Jun 2026 01:11:00 GMT"
+    },
+    {
+      "title": "월드옥타, 광둥성과 협력 확대… 10월 선전 한·중 경제무역교류박람회 추진 박차",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XNUNBcC12UWRqMHh3SlV5QUFlOHNweElVWkhMdkZwcldKTzNMcDZ5NllFRlpyQUF1QVZsVk1FODJyZHVYLTZaUG42ZnIwUFZpUnRVMnY3QTRzZlNR?oc=5",
+      "source": "뉴스핌",
+      "date": "Fri, 26 Jun 2026 01:07:00 GMT"
+    },
     {
       "title": "세계한인경제무역협회, 중국 핵심 경제단체와 전략적 MOU",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0d3FaczRQal9kZ3RreTZkTWRhbE51WW45SU5lOUNWbm9CcWowakEtdjdSQlptemlSdlNMMmJ4Qnh4aFJiMnNoSDBVcEk5OG44eXkxb1dzcm5FUDB1Qm1Udl8zUTdCQ3pTRE9vbg?oc=5",
@@ -42,40 +60,22 @@
       "date": "Thu, 25 Jun 2026 12:26:39 GMT"
     },
     {
+      "title": "[경제+] KFC부터 피자헛까지...바이성차이나 \"中 현지화는 선택 아닌 필수\"",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ralE5QndETVA2Wk82cXluRnktVUI0WnNya1FYZk1VOXFja0xyS193RTlxWENUSFFZMWxpNDU0Ql8yZjVHTnNLTTA5LWxzZEJWUkJwWkZmX0hvYXRKY2x4ZDEtRXZmRXZtZTA0?oc=5",
+      "source": "서울뉴스통신",
+      "date": "Thu, 25 Jun 2026 12:24:33 GMT"
+    },
+    {
       "title": "“韓 수소경제, 유럽·중국·일본과 경쟁서 시장 선점해야”",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XckhYOWNLRGpVemZBNDUxS0Frc1FRczlvZ2lpUUhyZzYzNEFkeHEzSlgxeDFYNW5yNHkwa0JfUTd0cVREVXo2TExwSWk3a0dkSWlUdm9TU0JGU0U?oc=5",
       "source": "에너지경제신문",
       "date": "Thu, 25 Jun 2026 07:47:59 GMT"
     },
     {
-      "title": "CGTN: '차이나 오퍼튜니티 2.0'이 글로벌 기업에 성장 잠재력을 제공하는 방법",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtQjdfSWFZRlVJNHplcUJaU210Z19aY3dpenkybnVsTkMwem56V2Vua09vbHNhYXlvczN2TEtVV2drNWYyN1k0NWpVVU4tZWdRVTdJcFVR?oc=5",
-      "source": "지디넷코리아",
-      "date": "Thu, 25 Jun 2026 07:10:14 GMT"
-    },
-    {
-      "title": "중국동포 감소·고려인 증가…달라지는 재외동포 사회 지형도",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tUTV1OW1BenNLMUUyelVEVUJLZEVOdFNnUG0yTnFObWRVMWdjeFFnVXJZUDdRQlQwVkhpVWhhNkExcFlFMHRJSVV4OGQzWlRfQy1iaVlUSWVEaVpvWFR1dElYOVE5dE1oMk40?oc=5",
-      "source": "세계한인신문",
-      "date": "Thu, 25 Jun 2026 06:48:14 GMT"
-    },
-    {
       "title": "[차이나 인사이트] 숫자 뒤에 숨겨진 중국경제 읽기…중국 소비 회복은 착시인가",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJUDVwNTl1ZGdBRk5aem4yYTVtQkd1QUVBZl9rb3ZGdHI2STkxc1RvYWRqay1xeFFGNHZYYWNJdzdvOHo4djlPMV90S3hHZDJ1U3NjaU9xOVJBOHRmSmpaTEc0Sk5QY0pZU0l0VUVvajJ5dw?oc=5",
       "source": "뉴스임팩트",
       "date": "Wed, 24 Jun 2026 21:30:00 GMT"
-    },
-    {
-      "title": "中총리 \"글로벌 성장 위해 혁신적 협력 불가피\"…AI 위험성 경고",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXd0lPOWdJNFFYaGNfVGlxaUdkRnR0dTFWZG9CbTk3al9RRXRhSENWUW5rcmlYLXVWSHhfYUE3NnlBWjY0c2stcGZzeU1yLVZaUnJkdTFpZlhvODjSAWBBVV95cUxPT0tCamJCbUhJVzhITk04Y3phUWJuNDBpRzF5Vi1sdDRJTUI3WldyVEhFWkFkRVNXc2V3enhqejd2Ml9VY3NOTG9aWVlkbjExR3FFeWpFRk1PMG52MktqMmw?oc=5",
-      "source": "연합뉴스",
-      "date": "Wed, 24 Jun 2026 08:35:01 GMT"
-    },
-    {
-      "title": "김 총리, 2박3일 방중 일정 돌입…중국 기업인들 만나 \"비결 듣고 싶어\"",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UMjE3eW1fQzZNS2FfOW9pRW1Zc0ZjcFBlRGlKeEJUSGxhcVNsTXBnZUZJeXMtQjJuRDFVaXp3cHN0UGJZbEljd3BJTFlNWHdNOGRfY0l1Z1VseEVHV3Awc0hYLXBoblE?oc=5",
-      "source": "연합뉴스TV",
-      "date": "Mon, 22 Jun 2026 15:35:36 GMT"
     }
   ]
 }
