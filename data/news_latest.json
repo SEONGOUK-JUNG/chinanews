@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-06-26T14:19:38+09:00",
+  "run_at_kst": "2026-06-26T20:12:01.161815+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
+      "title": "China’s Crude Imports Set to Hit Weakest Level Since 2016",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Imports-Set-to-Hit-Weakest-Level-Since-2016.html",
+      "date": "Fri, 26 Jun 2026 06:00:00 -0500",
+      "source": "OilPrice"
+    },
+    {
+      "title": "Hormuz Shipping Confidence Is Still Shaky",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Shipping-Confidence-Is-Still-Shaky.html",
+      "date": "Fri, 26 Jun 2026 05:30:00 -0500",
+      "source": "OilPrice"
+    },
+    {
+      "title": "Qatar Offers First Crude Loadings to Buyers Since War Began",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Qatar-Offers-First-Crude-Loadings-to-Buyers-Since-War-Began.html",
+      "date": "Fri, 26 Jun 2026 05:00:00 -0500",
+      "source": "OilPrice"
+    },
+    {
+      "title": "Qatar's LNG Recovery Picks Up Speed as Tankers Mass at Ras Laffan",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Qatars-LNG-Recovery-Picks-Up-Speed-as-Tankers-Mass-at-Ras-Laffan.html",
+      "date": "Fri, 26 Jun 2026 04:04:00 -0500",
+      "source": "OilPrice"
+    },
+    {
       "title": "Oil Heads for Weekly Loss as Hormuz Tanker Traffic Rebounds",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Heads-for-Weekly-Loss-as-Hormuz-Tanker-Traffic-Rebounds.html",
-      "source": "OilPrice",
-      "date": "Fri, 26 Jun 2026 00:00:00 -0500"
+      "date": "Fri, 26 Jun 2026 00:00:00 -0500",
+      "source": "OilPrice"
     },
     {
       "title": "The $7 Trillion AI Boom Is Running Out of Power",
       "link": "https://oilprice.com/Energy/Energy-General/The-7-Trillion-AI-Boom-Is-Running-Out-of-Power.html",
-      "source": "OilPrice",
-      "date": "Thu, 25 Jun 2026 19:00:00 -0500"
+      "date": "Thu, 25 Jun 2026 19:00:00 -0500",
+      "source": "OilPrice"
     },
     {
       "title": "American Ocean Minerals finishes first offshore exploration mission in Cook Islands",
       "link": "https://www.mining.com/american-ocean-minerals-finishes-first-offshore-exploration-mission-in-cook-islands/",
-      "source": "mining.com",
-      "date": "Thu, 25 Jun 2026 22:22:55 +0000"
+      "date": "Thu, 25 Jun 2026 22:22:55 +0000",
+      "source": "mining.com"
     },
     {
       "title": "Colombia's Cocaine Trade Now Outearns Its Oil Exports",
       "link": "https://oilprice.com/Energy/Crude-Oil/Colombias-Cocaine-Trade-Now-Outearns-Its-Oil-Exports.html",
-      "source": "OilPrice",
-      "date": "Thu, 25 Jun 2026 17:00:00 -0500"
+      "date": "Thu, 25 Jun 2026 17:00:00 -0500",
+      "source": "OilPrice"
     },
     {
       "title": "REalloys raises $100M via institutional placement",
       "link": "https://www.mining.com/realloys-raises-100m-via-institutional-placement/",
-      "source": "mining.com",
-      "date": "Thu, 25 Jun 2026 21:51:48 +0000"
+      "date": "Thu, 25 Jun 2026 21:51:48 +0000",
+      "source": "mining.com"
     },
     {
       "title": "Geothermal Could Power 65 Million U.S. Homes by 2050, DOE Says",
       "link": "https://oilprice.com/Energy/Energy-General/Geothermal-Could-Power-65-Million-US-Homes-by-2050-DOE-Says.html",
-      "source": "OilPrice",
-      "date": "Thu, 25 Jun 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Asia's Crude Buying Spree Is Running Out of Steam",
-      "link": "https://oilprice.com/Energy/Energy-General/Asias-Crude-Buying-Spree-Is-Running-Out-of-Steam.html",
-      "source": "OilPrice",
-      "date": "Thu, 25 Jun 2026 15:00:00 -0500"
+      "date": "Thu, 25 Jun 2026 16:00:00 -0500",
+      "source": "OilPrice"
     },
     {
       "title": "RCT tech helps historic mine navigate the transition to surface mining",
       "link": "https://www.mining.com/rct-tech-helps-historic-mine-navigate-the-transition-to-surface-mining/",
-      "source": "mining.com",
-      "date": "Thu, 25 Jun 2026 19:44:36 +0000"
-    },
-    {
-      "title": "SpaceX Wants to Fuel Its Mars Ambitions With Its Own Gas Pipeline",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/SpaceX-Wants-to-Fuel-Its-Mars-Ambitions-With-Its-Own-Gas-Pipeline.html",
-      "source": "OilPrice",
-      "date": "Thu, 25 Jun 2026 14:30:00 -0500"
-    },
-    {
-      "title": "Lithium Prices Tumble As Traders Brace For CATL Supply Surge",
-      "link": "https://oilprice.com/Metals/Commodities/Lithium-Prices-Tumble-As-Traders-Brace-For-CATL-Supply-Surge.html",
-      "source": "OilPrice",
-      "date": "Thu, 25 Jun 2026 14:00:00 -0500"
-    },
-    {
-      "title": "Gas Prices Are Falling. Your July 4 Fill-Up Still Won't Feel Cheap.",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Gas-Prices-Are-Falling-Your-July-4-Fill-Up-Still-Wont-Feel-Cheap.html",
-      "source": "OilPrice",
-      "date": "Thu, 25 Jun 2026 14:00:00 -0500"
+      "date": "Thu, 25 Jun 2026 19:44:36 +0000",
+      "source": "mining.com"
     },
     {
       "title": "Goldsky closes Agnico deal to become sole owner of Swedish project",
       "link": "https://www.mining.com/goldsky-closes-agnico-deal-to-become-sole-owner-of-swedish-project/",
-      "source": "mining.com",
-      "date": "Thu, 25 Jun 2026 16:29:27 +0000"
+      "date": "Thu, 25 Jun 2026 16:29:27 +0000",
+      "source": "mining.com"
     },
     {
       "title": "Generation Mining nears C$1 billion copper project funding",
       "link": "https://www.mining.com/generation-mining-nears-c1-billion-copper-project-funding/",
-      "source": "mining.com",
-      "date": "Thu, 25 Jun 2026 15:56:58 +0000"
+      "date": "Thu, 25 Jun 2026 15:56:58 +0000",
+      "source": "mining.com"
     },
     {
       "title": "Wesdome Gold Mines grows reserve base to support production through 2033",
       "link": "https://www.mining.com/wesdome-grows-reserve-base-to-support-production-through-2033/",
-      "source": "mining.com",
-      "date": "Thu, 25 Jun 2026 15:37:58 +0000"
+      "date": "Thu, 25 Jun 2026 15:37:58 +0000",
+      "source": "mining.com"
     }
   ]
 }

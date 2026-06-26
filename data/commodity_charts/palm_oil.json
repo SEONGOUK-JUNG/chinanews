@@ -2,8 +2,8 @@
   "id": "palm_oil",
   "name": "팜오일",
   "unit": "CNY/t",
-  "updated_at_kst": "2026-06-26T14:21:55+09:00",
-  "count": 54,
+  "updated_at_kst": "2026-06-26T20:13:05.959508+09:00",
+  "count": 55,
   "candles": [
     {
       "time": "2025-01-01",
@@ -220,6 +220,10 @@
     {
       "time": "2026-06-25",
       "value": 8952.54
+    },
+    {
+      "time": "2026-06-26",
+      "value": 9161.02
     }
   ],
   "history_note": "Pre-2026-05: monthly observations (month-start/end). From late May 2026: daily.",

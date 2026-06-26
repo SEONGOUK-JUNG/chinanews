@@ -1,10 +1,40 @@
 {
-  "run_at_kst": "2026-06-26T14:19:38+09:00",
+  "run_at_kst": "2026-06-26T20:12:01.161815+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "[차이나워치] 한중 총리 7년 만에 회담…中, 희토류로 미·일 압박",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnQnFWdE1oeXZ3clJiYlhjbDJDSHBPRVhaT1F3RFFzTkVBeDJWTnlCWmV3OVFPaUVDQjZMMFY2MmpCWlljQ2xCdUYxaWpGTnJUTjRFc29iMVE5eU9fUXRiU1NKcmJJNjg?oc=5",
+      "source": "연합뉴스TV",
+      "date": "Fri, 26 Jun 2026 08:20:07 GMT"
+    },
+    {
+      "title": "피지컬AI 위한 데이터 확보 경쟁…중국 대신 베트남 간다",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtU1RubXdHbzRLd2RNVDNiUzc2c0dhSDRocjRWVVE0NnZUMHpxRm9jNjJubl9jSFJBcE81dTlfa1N2MGVnSW9YR2cyWVIzaDA?oc=5",
+      "source": "v.daum.net",
+      "date": "Fri, 26 Jun 2026 06:29:50 GMT"
+    },
+    {
+      "title": "중국 서남부 쓰촨서 세계 에스테이트 영향력 지수 출범",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6OXZra1V4T1ZHZC1YSVY1amVCQlZYQnZBRGRWa0wtejcwNGg5RjE4T05uM1NKdzhMTWh6bHNZRHdUWEh6RlFBc3NYOEdxdHgtaHNUbkx2UFNXazVGYXdGa0wtV1NYQQ?oc=5",
+      "source": "이슈투데이",
+      "date": "Fri, 26 Jun 2026 06:23:37 GMT"
+    },
+    {
+      "title": "카자흐스탄-중국, 교역 1000억 달러 목표 설정",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LNGVsTVhRVkFoaVROWVJpcEhpZEZvOEhpVjNDNENEeml1d01TdklYVUFmNkV1eUt3djJQX29pU0t2a0VpSjR5WkJyMjYtZEZZNVlQSlB6T0VCZ9IBWEFVX3lxTE04TlZmS1phbEctbkc3YVl0THFrUnNGbnJweEoySzQxME02RE9UdWlJUkxVcWNLOTh5elB0T0wxTmdiNi0yUXhtQVRYYzd4dk5URzN0VTFPdDg?oc=5",
+      "source": "아주경제",
+      "date": "Fri, 26 Jun 2026 06:11:12 GMT"
+    },
+    {
+      "title": "[중국 뉴스 브리핑] 2026년 6월 26일",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xXzNmT25WMzRKcVBLamhwRk9TVUJoM1VNSUhHWlVnRFN3eXBRNUh6dDE1Nm5PajJYaGZtdnVUOGxVRjJxaEI0aWh0SHV1eWJBdXI0bFZJQ3NIdHNfQmhsMlJ6VldMQWRGeTRB?oc=5",
+      "source": "인민망 한국어판",
+      "date": "Fri, 26 Jun 2026 03:05:18 GMT"
+    },
     {
       "title": "월드옥타, 중국 광둥성과 협력 확대... 10월 선전 박람회 성공 개최 공동 노력",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZSEdmVmlPQURqNExOSDhhM0ZVaklwdndjbVhKbUl2elZ5TVVBZDNuUlEyZnpaMlkwODdvZm9RVnptVjhQWllwOVVoaEphR0xPeXRTYm9oYktoanE1VUE?oc=5",
@@ -12,16 +42,16 @@
       "date": "Fri, 26 Jun 2026 02:18:00 GMT"
     },
     {
-      "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Fri, 26 Jun 2026 01:11:00 GMT"
-    },
-    {
       "title": "월드옥타, 광둥성과 협력 확대… 10월 선전 한·중 경제무역교류박람회 추진 박차",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XNUNBcC12UWRqMHh3SlV5QUFlOHNweElVWkhMdkZwcldKTzNMcDZ5NllFRlpyQUF1QVZsVk1FODJyZHVYLTZaUG42ZnIwUFZpUnRVMnY3QTRzZlNR?oc=5",
       "source": "뉴스핌",
       "date": "Fri, 26 Jun 2026 01:07:00 GMT"
+    },
+    {
+      "title": "리창, 하계 다보스서 “불확실성 속 중국 경제 안정”",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43Mml2QXpIVllfTjM0cUtfWmo5MlpVZ3k4ejFURHF0bjBZbGxna3hHUi1MUFdOWFF6VjhkV2JnM0xtQmhjN2FjdzZxMDJjQ3pfc2wzY01B?oc=5",
+      "source": "헤럴드경제",
+      "date": "Fri, 26 Jun 2026 01:04:56 GMT"
     },
     {
       "title": "세계한인경제무역협회, 중국 핵심 경제단체와 전략적 MOU",
@@ -36,40 +66,10 @@
       "date": "Fri, 26 Jun 2026 00:11:01 GMT"
     },
     {
-      "title": "위안화 결제망 키운 중국, 미국 제재망 흔든다",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBdFhFTFFrYTg2UnlWNFBoQjdtNjMxb0Q2YzZsYXlBXzRmSGdMZkZqU0JPd3otbnpSY1hDQ0JKWml1RXhKeEluTmtEVm9ITW41RUxhaFNJOEhIUdIBVEFVX3lxTE9zSTFxaHNLREIwdDdKVmlDRVdyTGN4X2NnbzBxRXNDUHZQaVJOMUhHeG53eURxU1hKUlRhQ2dZQ0RfSzUzTTBLZXVoNmZjYll0VUE0Tw?oc=5",
-      "source": "한국경제",
-      "date": "Fri, 26 Jun 2026 00:01:53 GMT"
-    },
-    {
-      "title": "김정관 장관 \"중국 따라오는 시대 끝나, 이제 우리가 따라가야 할 상황\"",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EaTNlNXZxZWN2NEY2dnFEeTFMQ2x0b0J1VmR3T1ZKN3RoX3EzWk9adXpvb2VyWHlPWnBzZGZhR0RLWnBnNWpDZWJpbk4zNlU?oc=5",
-      "source": "v.daum.net",
-      "date": "Thu, 25 Jun 2026 23:59:44 GMT"
-    },
-    {
-      "title": "ASML, 네덜란드 경제사절단과 중국 방문…반도체 수출 규제 속 협력 확대 주목",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ON0wzMUdpY0lBbS1GbGo5a0dlLXNTckFmbVllS3YweHhFSGcxUzRZeGF2eWY2R0hSRkZnbWhMYU5Qc0JqRkZEQzFrMjFQOXp4TjktWF82QmJKYXpST2VQRkNLT1FQUQ?oc=5",
-      "source": "뉴스비전e",
-      "date": "Thu, 25 Jun 2026 13:22:54 GMT"
-    },
-    {
       "title": "리창 중국 총리, \"중국의 문은 더 넓게 열릴 것\"…AI 개방·기술 협력 확대 선언",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PcGhHOGt3NGpRZDFhZkNkVnNJXy1NaklzbEFBSVZKX0daaVNVVlNnU0NJdXAyWUVJWHpYTUpMeWk2eUN2eVlzLUpiUWptMFQydDd5akFKUTAxN2xWYmhtaDVWZlpzMms?oc=5",
       "source": "인공지능신문",
       "date": "Thu, 25 Jun 2026 12:26:39 GMT"
-    },
-    {
-      "title": "[경제+] KFC부터 피자헛까지...바이성차이나 \"中 현지화는 선택 아닌 필수\"",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ralE5QndETVA2Wk82cXluRnktVUI0WnNya1FYZk1VOXFja0xyS193RTlxWENUSFFZMWxpNDU0Ql8yZjVHTnNLTTA5LWxzZEJWUkJwWkZmX0hvYXRKY2x4ZDEtRXZmRXZtZTA0?oc=5",
-      "source": "서울뉴스통신",
-      "date": "Thu, 25 Jun 2026 12:24:33 GMT"
-    },
-    {
-      "title": "“韓 수소경제, 유럽·중국·일본과 경쟁서 시장 선점해야”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XckhYOWNLRGpVemZBNDUxS0Frc1FRczlvZ2lpUUhyZzYzNEFkeHEzSlgxeDFYNW5yNHkwa0JfUTd0cVREVXo2TExwSWk3a0dkSWlUdm9TU0JGU0U?oc=5",
-      "source": "에너지경제신문",
-      "date": "Thu, 25 Jun 2026 07:47:59 GMT"
     },
     {
       "title": "[차이나 인사이트] 숫자 뒤에 숨겨진 중국경제 읽기…중국 소비 회복은 착시인가",
