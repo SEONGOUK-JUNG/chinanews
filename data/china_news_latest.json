@@ -1,21 +1,15 @@
 {
-  "run_at_kst": "2026-06-27T14:13:29+09:00",
+  "run_at_kst": "2026-06-27T20:13:57+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "김원기 의정부시장 당선인, 중국기업 투자·문화 교류 ‘물꼬’",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83bndMYy1NdzdKS09nR1hUbi1JQXJiYWpYSGZrejZSRFZpMHM2WG1XY1cxWjdJcDhsNUdJVmdBM3dyZGlLTDh2Mkx4UmctU2c?oc=5",
+      "title": "미국에 CES가 있다면 중국에는 WAIC가 있다",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Zbi1ka09nQktFYWxIc0ptTFBkRm5DekFQWkpqMU1waEJSSjJVeG01dnJKaEprZjFjSXpVcjVIbVZhdV82dnVQQW1yS1daRTQ?oc=5",
       "source": "v.daum.net",
-      "date": "Sat, 27 Jun 2026 03:55:06 GMT"
-    },
-    {
-      "title": "[경제] '제9회 중국-유라시아 엑스포' 中 우루무치서 열려...협력 네트워크 확대",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpRmVVTG1Ca1ZDM2ZGLWxBb1lkdWdIaVp4cDNRSXdaRjJUeWd0SFhVRGNOYjdIQUo1bUhPWU5LOE4wLUo5d216N3Ayck5SXzZNRWhaZkJnbmZQdHhjcVJvUzF1UHRrbGNLSGM5MENB0gFwQVVfeXFMT0lTM25MQl9qR1FXT1JFZkltTExGdmpNQ01OYm1OX00zTkhUMHVmVlZIbW5Mc0tuQkpJSm9DVlAxY0tWQ2pDcTlUdXZWQ2N2N2YyM25YS085UmVJRGpYQWdsUG9WaDF3OW4yTFZLZzB4Rg?oc=5",
-      "source": "내외뉴스통신",
-      "date": "Sat, 27 Jun 2026 03:16:37 GMT"
+      "date": "Sat, 27 Jun 2026 10:23:00 GMT"
     },
     {
       "title": "중국 투자, 다시 기회의 창 열리나",
@@ -24,10 +18,10 @@
       "date": "Sat, 27 Jun 2026 02:22:50 GMT"
     },
     {
-      "title": "제주상공회의소, 중국 산둥성기업연합회 칭다오대표처와 경제협력 업무협약 체결",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94dzlIa1FWUG03YWVhYUdrTzNfcFFIZGVmNlhEY19PQUk3V0FXMW9DRXEzQUtWOGI2THhMMlgzS0daeWhlNTI5Z1FfZV9TN1JaRWk0SEwyOWVBMkZIWDc2dUdBeUpka0k?oc=5",
-      "source": "서귀포방송",
-      "date": "Fri, 26 Jun 2026 10:00:00 GMT"
+      "title": "월드옥타, 중국 광둥성과 협력 확대... 10월 선전 박람회 성공 개최 공동 노력",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZSEdmVmlPQURqNExOSDhhM0ZVaklwdndjbVhKbUl2elZ5TVVBZDNuUlEyZnpaMlkwODdvZm9RVnptVjhQWllwOVVoaEphR0xPeXRTYm9oYktoanE1VUE?oc=5",
+      "source": "YTN",
+      "date": "Fri, 26 Jun 2026 02:18:00 GMT"
     },
     {
       "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
@@ -52,6 +46,12 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PcGhHOGt3NGpRZDFhZkNkVnNJXy1NaklzbEFBSVZKX0daaVNVVlNnU0NJdXAyWUVJWHpYTUpMeWk2eUN2eVlzLUpiUWptMFQydDd5akFKUTAxN2xWYmhtaDVWZlpzMms?oc=5",
       "source": "인공지능신문",
       "date": "Thu, 25 Jun 2026 12:26:39 GMT"
+    },
+    {
+      "title": "CGTN: '차이나 오퍼튜니티 2.0'이 글로벌 기업에 성장 잠재력을 제공하는 방법",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtQjdfSWFZRlVJNHplcUJaU210Z19aY3dpenkybnVsTkMwem56V2Vua09vbHNhYXlvczN2TEtVV2drNWYyN1k0NWpVVU4tZWdRVTdJcFVR?oc=5",
+      "source": "지디넷코리아",
+      "date": "Thu, 25 Jun 2026 07:10:14 GMT"
     },
     {
       "title": "[차이나 인사이트] 숫자 뒤에 숨겨진 중국경제 읽기…중국 소비 회복은 착시인가",
