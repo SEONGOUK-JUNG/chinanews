@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-06-27T07:11:46+09:00",
+  "updated_at_kst": "2026-06-27T10:08:47.741995+09:00",
   "ref_date": "2026-06-26",
   "schema_version": "1.0",
   "adjustment_applied": true,
@@ -7,7 +7,7 @@
     "up_count": 22,
     "down_count": 104,
     "flat_count": 317,
-    "total": 413,
+    "total": 443,
     "top_gainers": [
       {
         "name": "차아염소산나트륨",
@@ -46,7 +46,8 @@
       "unit": "CNY/g",
       "price_prev": 885.58,
       "price_today": 875.58,
-      "change_pct": -1.13
+      "change_pct": -1.13,
+      "chart_id": "gold"
     },
     {
       "display_name": "은",
@@ -56,7 +57,8 @@
       "unit": "CNY/kg",
       "price_prev": 13859.04,
       "price_today": 13896.12,
-      "change_pct": 0.27
+      "change_pct": 0.27,
+      "chart_id": "silver"
     },
     {
       "display_name": "구리",
@@ -66,7 +68,8 @@
       "unit": "CNY/t",
       "price_prev": 101315.65,
       "price_today": 101838.41,
-      "change_pct": 0.52
+      "change_pct": 0.52,
+      "chart_id": "copper"
     },
     {
       "display_name": "알루미늄",
@@ -76,7 +79,8 @@
       "unit": "CNY/t",
       "price_prev": 23123.46,
       "price_today": 22944.75,
-      "change_pct": -0.77
+      "change_pct": -0.77,
+      "chart_id": "aluminum"
     },
     {
       "display_name": "원유",
@@ -86,7 +90,8 @@
       "unit": "USD/bbl",
       "price_prev": 70.41,
       "price_today": 71.99,
-      "change_pct": 2.25
+      "change_pct": 2.25,
+      "chart_id": "crude_oil"
     },
     {
       "display_name": "석탄",
@@ -96,7 +101,8 @@
       "unit": "CNY/t",
       "price_prev": 865.86,
       "price_today": 865.86,
-      "change_pct": 0
+      "change_pct": 0,
+      "chart_id": "coal"
     },
     {
       "display_name": "천연가스",
@@ -106,7 +112,8 @@
       "unit": "CNY/t",
       "price_prev": 6092.09,
       "price_today": 5945.94,
-      "change_pct": -2.4
+      "change_pct": -2.4,
+      "chart_id": "natural_gas"
     },
     {
       "display_name": "옥수수",
@@ -116,7 +123,8 @@
       "unit": "CNY/t",
       "price_prev": 2303.86,
       "price_today": 2303.86,
-      "change_pct": 0
+      "change_pct": 0,
+      "chart_id": "corn"
     },
     {
       "display_name": "대두",
@@ -126,7 +134,8 @@
       "unit": "CNY/t",
       "price_prev": 4514.36,
       "price_today": 4514.36,
-      "change_pct": 0
+      "change_pct": 0,
+      "chart_id": "soybean"
     },
     {
       "display_name": "옥수수 전분",
@@ -136,7 +145,8 @@
       "unit": "CNY/t",
       "price_prev": 2992.87,
       "price_today": 2984.85,
-      "change_pct": -0.27
+      "change_pct": -0.27,
+      "chart_id": "corn_starch"
     },
     {
       "display_name": "백설탕",
@@ -146,7 +156,8 @@
       "unit": "CNY/t",
       "price_prev": 5287.13,
       "price_today": 5287.13,
-      "change_pct": 0
+      "change_pct": 0,
+      "chart_id": "white_sugar"
     },
     {
       "display_name": "달걀",
@@ -156,7 +167,8 @@
       "unit": "CNY/kg",
       "price_prev": 8.9,
       "price_today": 8.72,
-      "change_pct": -2.03
+      "change_pct": -2.03,
+      "chart_id": "egg"
     },
     {
       "display_name": "생 돼지",
@@ -166,7 +178,8 @@
       "unit": "CNY/kg",
       "price_prev": 9.52,
       "price_today": 9.49,
-      "change_pct": -0.32
+      "change_pct": -0.32,
+      "chart_id": "live_pig"
     },
     {
       "display_name": "팜오일",
@@ -176,7 +189,8 @@
       "unit": "CNY/t",
       "price_prev": 8952.54,
       "price_today": 9161.02,
-      "change_pct": 2.33
+      "change_pct": 2.33,
+      "chart_id": "palm_oil"
     },
     {
       "display_name": "채종유",
@@ -186,7 +200,8 @@
       "unit": "CNY/t",
       "price_prev": 9854.61,
       "price_today": 9924.77,
-      "change_pct": 0.71
+      "change_pct": 0.71,
+      "chart_id": "rapeseed_oil"
     },
     {
       "display_name": "대두유",
@@ -196,7 +211,8 @@
       "unit": "CNY/t",
       "price_prev": 8501.51,
       "price_today": 8543.61,
-      "change_pct": 0.5
+      "change_pct": 0.5,
+      "chart_id": "soybean_oil"
     }
   ],
   "all_items": [
@@ -756,8 +772,8 @@
     {
       "display_name": "냉간압연판",
       "sector": "철강",
-      "price_prev": 3789.02,
-      "price_today": 3789.02,
+      "price_prev": 3789.01,
+      "price_today": 3789.01,
       "change_pct": 0
     },
     {
@@ -847,8 +863,8 @@
     {
       "display_name": "디스프로슘철합금",
       "sector": "비철금속",
-      "price_prev": 1372877,
-      "price_today": 1372877,
+      "price_prev": 1372877.0,
+      "price_today": 1372877.0,
       "change_pct": 0
     },
     {
@@ -1022,8 +1038,8 @@
     {
       "display_name": "테트라페라오렌",
       "sector": "화학공업",
-      "price_prev": 11891.63,
-      "price_today": 11891.63,
+      "price_prev": 11891.62,
+      "price_today": 11891.62,
       "change_pct": 0
     },
     {
@@ -1134,8 +1150,8 @@
     {
       "display_name": "나일론 POY",
       "sector": "방직",
-      "price_prev": 13656.83,
-      "price_today": 13656.83,
+      "price_prev": 13656.82,
+      "price_today": 13656.82,
       "change_pct": 0
     },
     {
@@ -1533,8 +1549,8 @@
     {
       "display_name": "육불화인산리튬",
       "sector": "화학공업",
-      "price_prev": 110154,
-      "price_today": 110154,
+      "price_prev": 110154.0,
+      "price_today": 110154.0,
       "change_pct": 0
     },
     {
@@ -1596,8 +1612,8 @@
     {
       "display_name": "아조비스아이소부티로니트릴(AIBN)",
       "sector": "화학공업",
-      "price_prev": 45063,
-      "price_today": 45063,
+      "price_prev": 45063.0,
+      "price_today": 45063.0,
       "change_pct": 0
     },
     {
@@ -1911,8 +1927,8 @@
     {
       "display_name": "사이클로펜타논",
       "sector": "화학공업",
-      "price_prev": 25035,
-      "price_today": 25035,
+      "price_prev": 25035.0,
+      "price_today": 25035.0,
       "change_pct": 0
     },
     {
@@ -2177,8 +2193,8 @@
     {
       "display_name": "에틸렌글리콜 다이아세테이트(EGDA)",
       "sector": "화학공업",
-      "price_prev": 6434,
-      "price_today": 6434,
+      "price_prev": 6434.0,
+      "price_today": 6434.0,
       "change_pct": 0
     },
     {
@@ -2205,15 +2221,15 @@
     {
       "display_name": "프로피온알데하이드",
       "sector": "화학공업",
-      "price_prev": 8224,
-      "price_today": 8224,
+      "price_prev": 8224.0,
+      "price_today": 8224.0,
       "change_pct": 0
     },
     {
       "display_name": "디에틸렌글리콜 부틸 에테르 아세테이트",
       "sector": "화학공업",
-      "price_prev": 15021,
-      "price_today": 15021,
+      "price_prev": 15021.0,
+      "price_today": 15021.0,
       "change_pct": 0
     },
     {
@@ -2415,7 +2431,7 @@
     {
       "display_name": "부틸아세트산",
       "sector": "화학공업",
-      "price_prev": 6797,
+      "price_prev": 6797.0,
       "price_today": 6784.49,
       "change_pct": -0.18
     },
@@ -2493,7 +2509,7 @@
       "display_name": "마그네슘",
       "sector": "비철금속",
       "price_prev": 16033.6,
-      "price_today": 15983.5,
+      "price_today": 15983.49,
       "change_pct": -0.31
     },
     {
@@ -2556,7 +2572,7 @@
       "display_name": "Ammonium paratungstate",
       "sector": "비철금속",
       "price_prev": 774957.31,
-      "price_today": 771617,
+      "price_today": 771617.0,
       "change_pct": -0.43
     },
     {
@@ -2583,7 +2599,7 @@
     {
       "display_name": "금속네오디뮴",
       "sector": "비철금속",
-      "price_prev": 982058,
+      "price_prev": 982058.0,
       "price_today": 977047.5,
       "change_pct": -0.51
     },
@@ -3011,7 +3027,7 @@
       "display_name": "탄산리튬",
       "sector": "화학공업",
       "price_prev": 154215.6,
-      "price_today": 150210,
+      "price_today": 150210.0,
       "change_pct": -2.6
     },
     {
@@ -3024,7 +3040,7 @@
     {
       "display_name": "리 튬 수 산 화 물 (배 터 리 등 급)",
       "sector": "화학공업",
-      "price_prev": 145203,
+      "price_prev": 145203.0,
       "price_today": 141197.4,
       "change_pct": -2.76
     },

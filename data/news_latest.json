@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-06-27T07:14:49+09:00",
+  "run_at_kst": "2026-06-27T10:12:27.265906+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,18 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Trump administration issues emergency order to keep Colorado coal plant operating",
+      "link": "https://www.mining.com/trump-administration-issues-emergency-order-to-keep-colorado-coal-plant-operating/",
+      "source": "mining.com",
+      "date": "Fri, 26 Jun 2026 22:39:09 +0000"
+    },
+    {
+      "title": "Integra grows reserve 74% at Florida Canyon gold mine",
+      "link": "https://www.mining.com/integra-grows-reserve-74-at-florida-canyon-gold-mine/",
+      "source": "mining.com",
+      "date": "Fri, 26 Jun 2026 22:08:00 +0000"
+    },
     {
       "title": "The Billion-Dollar Debt Deals Exposing an Oil Giant",
       "link": "https://oilprice.com/Energy/Energy-General/The-Billion-Dollar-Debt-Deals-Exposing-an-Oil-Giant.html",
@@ -78,18 +90,6 @@
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Canada-and-Japan-Consider-Joint-Critical-Mineral-Projects-to-Counter-China.html",
       "source": "OilPrice",
       "date": "Fri, 26 Jun 2026 11:30:00 -0500"
-    },
-    {
-      "title": "Brent Erases Iran War Premium as Hormuz Flows Show Signs of Recovery",
-      "link": "https://oilprice.com/Energy/Energy-General/Brent-Erases-Iran-War-Premium-as-Hormuz-Flows-Show-Signs-of-Recovery.html",
-      "source": "OilPrice",
-      "date": "Fri, 26 Jun 2026 11:19:44 -0500"
-    },
-    {
-      "title": "First Majestic wins permits for Santa Elena expansion in Mexico",
-      "link": "https://www.mining.com/first-majestic-wins-permits-for-santa-elena-expansion/",
-      "source": "mining.com",
-      "date": "Fri, 26 Jun 2026 14:58:08 +0000"
     }
   ]
 }
