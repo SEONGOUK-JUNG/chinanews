@@ -1,27 +1,33 @@
 {
-  "run_at_kst": "2026-06-27T10:12:27.265906+09:00",
+  "run_at_kst": "2026-06-27T14:13:29+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "김원기 의정부시장 당선인, 중국기업 투자·문화 교류 ‘물꼬’",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83bndMYy1NdzdKS09nR1hUbi1JQXJiYWpYSGZrejZSRFZpMHM2WG1XY1cxWjdJcDhsNUdJVmdBM3dyZGlLTDh2Mkx4UmctU2c?oc=5",
+      "source": "v.daum.net",
+      "date": "Sat, 27 Jun 2026 03:55:06 GMT"
+    },
+    {
+      "title": "[경제] '제9회 중국-유라시아 엑스포' 中 우루무치서 열려...협력 네트워크 확대",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpRmVVTG1Ca1ZDM2ZGLWxBb1lkdWdIaVp4cDNRSXdaRjJUeWd0SFhVRGNOYjdIQUo1bUhPWU5LOE4wLUo5d216N3Ayck5SXzZNRWhaZkJnbmZQdHhjcVJvUzF1UHRrbGNLSGM5MENB0gFwQVVfeXFMT0lTM25MQl9qR1FXT1JFZkltTExGdmpNQ01OYm1OX00zTkhUMHVmVlZIbW5Mc0tuQkpJSm9DVlAxY0tWQ2pDcTlUdXZWQ2N2N2YyM25YS085UmVJRGpYQWdsUG9WaDF3OW4yTFZLZzB4Rg?oc=5",
+      "source": "내외뉴스통신",
+      "date": "Sat, 27 Jun 2026 03:16:37 GMT"
+    },
+    {
+      "title": "중국 투자, 다시 기회의 창 열리나",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2NzFDbzlEN25sdGdhZ29DVzZPWmk1Z1BpOTk4Smd2OGFOX1Q4UzdYQlBtX0phQzlmZkpvQnpGLWRaVFV6NjB2VnE1T2FqNDh1SXZscFZfZklPQzF5TGpFSlJoYktQc0NqcHJfcA?oc=5",
+      "source": "재외동포신문",
+      "date": "Sat, 27 Jun 2026 02:22:50 GMT"
+    },
+    {
       "title": "제주상공회의소, 중국 산둥성기업연합회 칭다오대표처와 경제협력 업무협약 체결",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94dzlIa1FWUG03YWVhYUdrTzNfcFFIZGVmNlhEY19PQUk3V0FXMW9DRXEzQUtWOGI2THhMMlgzS0daeWhlNTI5Z1FfZV9TN1JaRWk0SEwyOWVBMkZIWDc2dUdBeUpka0k?oc=5",
       "source": "서귀포방송",
       "date": "Fri, 26 Jun 2026 10:00:00 GMT"
-    },
-    {
-      "title": "월드옥타, 중국 광둥성과 경제협력 강화…한·중 교류박람회 성공 추진 협력",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pZEhBMUJ3Z3VtSDQzYUpLRXlHejZjZU0yY3JSQnowZjBVUHpQMUYwOU4zcUpWQWFhZ2FFVFpuMUdMNjI3OFl0MjliOTlNdW5oal81cXYzN0FWTFZzVU13b0hPNWxnU3FfaHo2MW5R?oc=5",
-      "source": "OBS경인TV",
-      "date": "Fri, 26 Jun 2026 08:58:45 GMT"
-    },
-    {
-      "title": "월드옥타, 중국 광둥성과 협력 확대... 10월 선전 박람회 성공 개최 공동 노력",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZSEdmVmlPQURqNExOSDhhM0ZVaklwdndjbVhKbUl2elZ5TVVBZDNuUlEyZnpaMlkwODdvZm9RVnptVjhQWllwOVVoaEphR0xPeXRTYm9oYktoanE1VUE?oc=5",
-      "source": "YTN",
-      "date": "Fri, 26 Jun 2026 02:18:00 GMT"
     },
     {
       "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
@@ -60,22 +66,16 @@
       "date": "Wed, 24 Jun 2026 08:35:01 GMT"
     },
     {
-      "title": "金총리 \"中은 세계 경제 선도국… 양국 산업 협력 확대 기대\"",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd3BHMnY5M0p3RFlnYXRiTVM4OGpwbkVBeXRjdndKWWVZQWhZT2l3aWJ4TGZheVNtRlBEQWxXVG1XdUdDdDZ5bERlTWlhT3FCNWFaR0dzYVQwQk5zZkZmVkFLX0ZabWtQSGdjQlBIZXZTZVp0SXc1cnhXU0QwdlM0VmJMUnlGZFZtNzdaSENjdmptdw?oc=5",
-      "source": "조선일보",
-      "date": "Tue, 23 Jun 2026 03:02:03 GMT"
-    },
-    {
       "title": "중국 외교부 \"각국 기업의 공급망박람회 참가, 중국 경제 전망에 대한 신뢰 반영\"",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nRndrZjdnTEE5NkhTWnpNaWlqMUJ1Y082NFRoT1o4SXphbUw1NUdQNTZZUW5ZeUpMeXlZZk1SQzVubHh3Y1NER1JiX1pKTXkybFptMWk2Ml9zVFFqSkJkZnQxMA?oc=5",
       "source": "国际在线",
       "date": "Mon, 22 Jun 2026 16:55:47 GMT"
     },
     {
-      "title": "중국 경제의 최대 복병은 'K자형 양극화'[베이징 노트]",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBvNWNObnYyVGZYLXBZZ3FMaFAwQ0FiUzYwQ3MxV1l0eTdNYW44TEJMUWRDZHNCNkZSSVVwQUxPdTVIX3BpSHc?oc=5",
-      "source": "v.daum.net",
-      "date": "Sun, 21 Jun 2026 20:03:11 GMT"
+      "title": "美경제 규모 추월할거란 ‘중국몽’...이제는 인도에 추월당할까 걱정",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kV0I1QVVxaDhVSjZoTHhxU0lWOUExZEVWc1dpYnpLdzVMMVo1cEVGM3FXMlMzTUZRRDNhcXhuYm5ZQlNYYkZfMjNGamRIclJCOTFTbmozTllWLUwxYzNuYk9QRkltZmJta292Vjlpam5rWFh1SF9rRg?oc=5",
+      "source": "조선일보",
+      "date": "Wed, 10 Jun 2026 07:00:00 GMT"
     }
   ]
 }
