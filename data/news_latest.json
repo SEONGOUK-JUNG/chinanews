@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-06-27T20:11:51+09:00",
+  "run_at_kst": "2026-06-28T07:16:32.144199+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "China Is Quietly Winning the Clean Energy Trade War",
+      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/China-Is-Quietly-Winning-the-Clean-Energy-Trade-War.html",
+      "source": "OilPrice",
+      "date": "Sat, 27 Jun 2026 16:00:00 -0500"
+    },
+    {
+      "title": "NASA Eyes Moon Base Powered by Solar Panels and Nuclear Reactors",
+      "link": "https://oilprice.com/Energy/Energy-General/NASA-Eyes-Moon-Base-Powered-by-Solar-Panels-and-Nuclear-Reactors.html",
+      "source": "OilPrice",
+      "date": "Sat, 27 Jun 2026 14:00:00 -0500"
+    },
+    {
+      "title": "The AI Power Crisis Is Creating a Massive New Market for Fuel Cells",
+      "link": "https://oilprice.com/Energy/Energy-General/The-AI-Power-Crisis-Is-Creating-a-Massive-New-Market-for-Fuel-Cells.html",
+      "source": "OilPrice",
+      "date": "Sat, 27 Jun 2026 10:00:00 -0500"
+    },
+    {
+      "title": "Turkey Pushes Bold Global Plan to Electrify 35% of Energy Use by 2035",
+      "link": "https://oilprice.com/Energy/Energy-General/Turkey-Pushes-Bold-Global-Plan-to-Electrify-35-of-Energy-Use-by-2035.html",
+      "source": "OilPrice",
+      "date": "Sat, 27 Jun 2026 10:00:00 -0500"
+    },
     {
       "title": "Trump administration issues emergency order to keep Colorado coal plant operating",
       "link": "https://www.mining.com/trump-administration-issues-emergency-order-to-keep-colorado-coal-plant-operating/",
@@ -44,7 +68,7 @@
       "date": "Fri, 26 Jun 2026 19:38:00 +0000"
     },
     {
-      "title": "China's Battery Giant Bets Big on Sodium as Lithium Volatility Persists",
+      "title": "China’s Battery Giant Bets Big on Sodium as Lithium Volatility Persists",
       "link": "https://oilprice.com/Energy/Energy-General/Chinas-Battery-Giant-Bets-Big-on-Sodium-as-Lithium-Volatility-Persists.html",
       "source": "OilPrice",
       "date": "Fri, 26 Jun 2026 14:00:00 -0500"
@@ -62,34 +86,10 @@
       "date": "Fri, 26 Jun 2026 13:00:00 -0500"
     },
     {
-      "title": "US Drillers Add Oil, Gas Rigs As Hormuz Transit Resumes",
-      "link": "https://oilprice.com/Energy/Crude-Oil/US-Drillers-Add-Oil-Gas-Rigs-As-Hormuz-Transit-Resumes.html",
-      "source": "OilPrice",
-      "date": "Fri, 26 Jun 2026 12:44:27 -0500"
-    },
-    {
-      "title": "Equinor Pulls Out of Japan's Offshore Wind Market",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-Pulls-Out-of-Japans-Offshore-Wind-Market.html",
-      "source": "OilPrice",
-      "date": "Fri, 26 Jun 2026 12:30:00 -0500"
-    },
-    {
       "title": "Fortune Minerals gets $35M for Nico road",
       "link": "https://www.mining.com/fortune-gets-35m-for-nico-road/",
       "source": "mining.com",
       "date": "Fri, 26 Jun 2026 17:16:57 +0000"
-    },
-    {
-      "title": "i-80 Gold terminates Vox Royalty offtake with $4.8M payment",
-      "link": "https://www.mining.com/i-80-gold-terminates-vox-royalty-offtake-with-4-8m-payment/",
-      "source": "mining.com",
-      "date": "Fri, 26 Jun 2026 16:30:38 +0000"
-    },
-    {
-      "title": "Canada and Japan Consider Joint Critical Mineral Projects to Counter China",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Canada-and-Japan-Consider-Joint-Critical-Mineral-Projects-to-Counter-China.html",
-      "source": "OilPrice",
-      "date": "Fri, 26 Jun 2026 11:30:00 -0500"
     }
   ]
 }

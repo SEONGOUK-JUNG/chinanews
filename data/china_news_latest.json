@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-06-27T20:13:57+09:00",
+  "run_at_kst": "2026-06-28T07:16:32.192857+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -18,16 +18,16 @@
       "date": "Sat, 27 Jun 2026 02:22:50 GMT"
     },
     {
+      "title": "[경제] '제9회 중국-유라시아 엑스포' 中 우루무치서 열려...협력 네트워크 확대",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DTHZCYzBOdVE5UHl2TUhZMGFLRGpkU2xRaGlpN2J0emNoaGtMQjR0UlE2UHFpWG0xQ3VkUTByOTNraTBSckNtMlVnWHVfenhXYnZuTWJJNjRXdUtZblBodTNZSXd4dlczUk5z?oc=5",
+      "source": "서울뉴스통신",
+      "date": "Sat, 27 Jun 2026 02:07:00 GMT"
+    },
+    {
       "title": "월드옥타, 중국 광둥성과 협력 확대... 10월 선전 박람회 성공 개최 공동 노력",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZSEdmVmlPQURqNExOSDhhM0ZVaklwdndjbVhKbUl2elZ5TVVBZDNuUlEyZnpaMlkwODdvZm9RVnptVjhQWllwOVVoaEphR0xPeXRTYm9oYktoanE1VUE?oc=5",
       "source": "YTN",
       "date": "Fri, 26 Jun 2026 02:18:00 GMT"
-    },
-    {
-      "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Fri, 26 Jun 2026 01:11:00 GMT"
     },
     {
       "title": "리창, 하계 다보스서 “불확실성 속 중국 경제 안정”",
@@ -48,6 +48,12 @@
       "date": "Thu, 25 Jun 2026 12:26:39 GMT"
     },
     {
+      "title": "“韓 수소경제, 유럽·중국·일본과 경쟁서 시장 선점해야”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XckhYOWNLRGpVemZBNDUxS0Frc1FRczlvZ2lpUUhyZzYzNEFkeHEzSlgxeDFYNW5yNHkwa0JfUTd0cVREVXo2TExwSWk3a0dkSWlUdm9TU0JGU0U?oc=5",
+      "source": "에너지경제신문",
+      "date": "Thu, 25 Jun 2026 07:47:59 GMT"
+    },
+    {
       "title": "CGTN: '차이나 오퍼튜니티 2.0'이 글로벌 기업에 성장 잠재력을 제공하는 방법",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtQjdfSWFZRlVJNHplcUJaU210Z19aY3dpenkybnVsTkMwem56V2Vua09vbHNhYXlvczN2TEtVV2drNWYyN1k0NWpVVU4tZWdRVTdJcFVR?oc=5",
       "source": "지디넷코리아",
@@ -64,12 +70,6 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXd0lPOWdJNFFYaGNfVGlxaUdkRnR0dTFWZG9CbTk3al9RRXRhSENWUW5rcmlYLXVWSHhfYUE3NnlBWjY0c2stcGZzeU1yLVZaUnJkdTFpZlhvODjSAWBBVV95cUxPT0tCamJCbUhJVzhITk04Y3phUWJuNDBpRzF5Vi1sdDRJTUI3WldyVEhFWkFkRVNXc2V3enhqejd2Ml9VY3NOTG9aWVlkbjExR3FFeWpFRk1PMG52MktqMmw?oc=5",
       "source": "연합뉴스",
       "date": "Wed, 24 Jun 2026 08:35:01 GMT"
-    },
-    {
-      "title": "중국 외교부 \"각국 기업의 공급망박람회 참가, 중국 경제 전망에 대한 신뢰 반영\"",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nRndrZjdnTEE5NkhTWnpNaWlqMUJ1Y082NFRoT1o4SXphbUw1NUdQNTZZUW5ZeUpMeXlZZk1SQzVubHh3Y1NER1JiX1pKTXkybFptMWk2Ml9zVFFqSkJkZnQxMA?oc=5",
-      "source": "国际在线",
-      "date": "Mon, 22 Jun 2026 16:55:47 GMT"
     },
     {
       "title": "美경제 규모 추월할거란 ‘중국몽’...이제는 인도에 추월당할까 걱정",
