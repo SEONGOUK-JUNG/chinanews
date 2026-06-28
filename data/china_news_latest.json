@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-06-28T14:13:19.391176+09:00",
+  "run_at_kst": "2026-06-28T20:12:39+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "“수십년 디플레 일본 없지만, 한국엔 하이닉스 있어” 중국 전문가의 경고",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41Q0RFcDY4V2lBZllPRTFBc0NLV1VkVGEtWXVmdlRuQkhCRnlTVGI1NTdaRG5SRzUxOHZ3RmxNd1pydk1la040UHBGUXprMzNNcjRxN05QYVR3cWFVRG9QZjF2S3V6bEdRajZRaw?oc=5",
+      "source": "한겨레",
+      "date": "Sun, 28 Jun 2026 08:44:00 GMT"
+    },
     {
       "title": "시진핑 체제의 가장 선명한 목표는 대만 통일",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VeFNZb25Ub1dfRUJ4RTE0c2R3a3VKQ1BiTGdnTjdWWGRxN3BrZ0w1Z1NHZkxSX2ZRc3RaZHB2ZDIwNVlRWmNZTHBCdzV3Mkt0bFlJ?oc=5",
@@ -48,12 +54,6 @@
       "date": "Thu, 25 Jun 2026 12:26:39 GMT"
     },
     {
-      "title": "“韓 수소경제, 유럽·중국·일본과 경쟁서 시장 선점해야”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XckhYOWNLRGpVemZBNDUxS0Frc1FRczlvZ2lpUUhyZzYzNEFkeHEzSlgxeDFYNW5yNHkwa0JfUTd0cVREVXo2TExwSWk3a0dkSWlUdm9TU0JGU0U?oc=5",
-      "source": "에너지경제신문",
-      "date": "Thu, 25 Jun 2026 07:47:59 GMT"
-    },
-    {
       "title": "CGTN: '차이나 오퍼튜니티 2.0'이 글로벌 기업에 성장 잠재력을 제공하는 방법",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtQjdfSWFZRlVJNHplcUJaU210Z19aY3dpenkybnVsTkMwem56V2Vua09vbHNhYXlvczN2TEtVV2drNWYyN1k0NWpVVU4tZWdRVTdJcFVR?oc=5",
       "source": "지디넷코리아",
@@ -66,16 +66,16 @@
       "date": "Wed, 24 Jun 2026 21:30:00 GMT"
     },
     {
+      "title": "중국 총리, 하계 다보스포럼서 “생산·공급망 안정 유지하자”",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xZEZicGlMVlhfTnY1Z3VRSGpyZU9ySDBXMndYdWp1VDJQRnV2dXVMdXZhRXdiaDhLN0I1cTBrVllsMTFIRnNBWXM3WHdlWDdWQkthYzVwNGd1cmREWFVrWjk3dXRkSnM2WU9OcURRVnI5UzQ?oc=5",
+      "source": "마켓인",
+      "date": "Wed, 24 Jun 2026 08:26:13 GMT"
+    },
+    {
       "title": "美경제 규모 추월할거란 ‘중국몽’...이제는 인도에 추월당할까 걱정",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kV0I1QVVxaDhVSjZoTHhxU0lWOUExZEVWc1dpYnpLdzVMMVo1cEVGM3FXMlMzTUZRRDNhcXhuYm5ZQlNYYkZfMjNGamRIclJCOTFTbmozTllWLUwxYzNuYk9QRkltZmJta292Vjlpam5rWFh1SF9rRg?oc=5",
       "source": "조선일보",
       "date": "Wed, 10 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "韓, '中경제규모 2위' 장쑤 최대 교역국 부상…美 제치고 1위",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3emVzSWRpR2xUOTdUb0haXzNwd0U3M19obWNPN003cnMwOHE1OHk0MFM0dFUzQ29CRnFwcVliNHRDY1ZUVzZ6TjZSY1dJcDc0d3lwdVpUNDhNWnfSAWBBVV95cUxPVmd5QTlmQThtbzFaRjFXYnlOQmZKNDdyeEJWdXdaOHMybE4yeGhpcG8wdDhtYnE1OWJDaU1RSFNBblFMbjBUd2dsbWlDV1o3XzdycDdYVXR2clZDajFoRV8?oc=5",
-      "source": "연합뉴스",
-      "date": "Mon, 18 May 2026 07:00:00 GMT"
     }
   ]
 }
