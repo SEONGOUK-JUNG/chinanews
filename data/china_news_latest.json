@@ -1,10 +1,22 @@
 {
-  "run_at_kst": "2026-06-28T20:12:39+09:00",
+  "run_at_kst": "2026-06-29T08:28:51.007883+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "[중국증시 주간 포인트] ①6월 PMI, 익일물 역RP 최초 도입, 삼성∙SK 초대형 투자, 테슬라 FSD 구독형 전환, 넷이즈 상장방식 전환",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Tc1FQZV9pYklVamxOZjM2Ukt4d3FrNGdvYW16YWh1VklKX2xTZTRNOHUwVm9TWk9vOGhDWWp0dG5hS0RhMjBvRzREeTVpQ0txWEFQYjNyT3p1R2JSbTh2RkFONGoyaERQSlJtYjNmZF95TWJUck5rRXptOA?oc=5",
+      "source": "네이버 프리미엄콘텐츠",
+      "date": "Sun, 28 Jun 2026 16:12:00 GMT"
+    },
+    {
+      "title": "채무 대국 中, 정부 부채마저 5년새 2배 증가 비상",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlX2VXNncxMmR0VjdIRjZJSVNzdXhNdHd5TlEtWWd4Uzh5ZWd6UmZCdTBOd0dwZ3N1eXJIblVqVG9UbTZnOVFKYXJMS2pleWdFX0tORWd2NnpUQnpoVHh6WmRzYmpXSDN5aDktX1h3?oc=5",
+      "source": "아시아투데이",
+      "date": "Sun, 28 Jun 2026 10:27:02 GMT"
+    },
     {
       "title": "“수십년 디플레 일본 없지만, 한국엔 하이닉스 있어” 중국 전문가의 경고",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41Q0RFcDY4V2lBZllPRTFBc0NLV1VkVGEtWXVmdlRuQkhCRnlTVGI1NTdaRG5SRzUxOHZ3RmxNd1pydk1la040UHBGUXprMzNNcjRxN05QYVR3cWFVRG9QZjF2S3V6bEdRajZRaw?oc=5",
@@ -12,16 +24,10 @@
       "date": "Sun, 28 Jun 2026 08:44:00 GMT"
     },
     {
-      "title": "시진핑 체제의 가장 선명한 목표는 대만 통일",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VeFNZb25Ub1dfRUJ4RTE0c2R3a3VKQ1BiTGdnTjdWWGRxN3BrZ0w1Z1NHZkxSX2ZRc3RaZHB2ZDIwNVlRWmNZTHBCdzV3Mkt0bFlJ?oc=5",
-      "source": "네이트",
-      "date": "Sun, 28 Jun 2026 02:16:00 GMT"
-    },
-    {
-      "title": "미국에 CES가 있다면 중국에는 WAIC가 있다",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Zbi1ka09nQktFYWxIc0ptTFBkRm5DekFQWkpqMU1waEJSSjJVeG01dnJKaEprZjFjSXpVcjVIbVZhdV82dnVQQW1yS1daRTQ?oc=5",
+      "title": "중국발 충격에 무너지는 여수산단···생존전략은?",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aWUdmczM3My1GVGxOZFVDTmxJZEVNYWFjd3BHWTJwclZLNVpaRk8tWmtRSjJNYVNjR09wM3NQWHE1RW1vNGRySUFGRUhzTmc?oc=5",
       "source": "v.daum.net",
-      "date": "Sat, 27 Jun 2026 10:23:00 GMT"
+      "date": "Sun, 28 Jun 2026 06:44:18 GMT"
     },
     {
       "title": "중국 투자, 다시 기회의 창 열리나",
@@ -54,28 +60,22 @@
       "date": "Thu, 25 Jun 2026 12:26:39 GMT"
     },
     {
-      "title": "CGTN: '차이나 오퍼튜니티 2.0'이 글로벌 기업에 성장 잠재력을 제공하는 방법",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtQjdfSWFZRlVJNHplcUJaU210Z19aY3dpenkybnVsTkMwem56V2Vua09vbHNhYXlvczN2TEtVV2drNWYyN1k0NWpVVU4tZWdRVTdJcFVR?oc=5",
-      "source": "지디넷코리아",
-      "date": "Thu, 25 Jun 2026 07:10:14 GMT"
-    },
-    {
       "title": "[차이나 인사이트] 숫자 뒤에 숨겨진 중국경제 읽기…중국 소비 회복은 착시인가",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJUDVwNTl1ZGdBRk5aem4yYTVtQkd1QUVBZl9rb3ZGdHI2STkxc1RvYWRqay1xeFFGNHZYYWNJdzdvOHo4djlPMV90S3hHZDJ1U3NjaU9xOVJBOHRmSmpaTEc0Sk5QY0pZU0l0VUVvajJ5dw?oc=5",
       "source": "뉴스임팩트",
       "date": "Wed, 24 Jun 2026 21:30:00 GMT"
     },
     {
-      "title": "중국 총리, 하계 다보스포럼서 “생산·공급망 안정 유지하자”",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xZEZicGlMVlhfTnY1Z3VRSGpyZU9ySDBXMndYdWp1VDJQRnV2dXVMdXZhRXdiaDhLN0I1cTBrVllsMTFIRnNBWXM3WHdlWDdWQkthYzVwNGd1cmREWFVrWjk3dXRkSnM2WU9OcURRVnI5UzQ?oc=5",
-      "source": "마켓인",
-      "date": "Wed, 24 Jun 2026 08:26:13 GMT"
-    },
-    {
       "title": "美경제 규모 추월할거란 ‘중국몽’...이제는 인도에 추월당할까 걱정",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kV0I1QVVxaDhVSjZoTHhxU0lWOUExZEVWc1dpYnpLdzVMMVo1cEVGM3FXMlMzTUZRRDNhcXhuYm5ZQlNYYkZfMjNGamRIclJCOTFTbmozTllWLUwxYzNuYk9QRkltZmJta292Vjlpam5rWFh1SF9rRg?oc=5",
       "source": "조선일보",
       "date": "Wed, 10 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "韓, '中경제규모 2위' 장쑤 최대 교역국 부상…美 제치고 1위",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3emVzSWRpR2xUOTdUb0haXzNwd0U3M19obWNPN003cnMwOHE1OHk0MFM0dFUzQ29CRnFwcVliNHRDY1ZUVzZ6TjZSY1dJcDc0d3lwdVpUNDhNWnfSAWBBVV95cUxPVmd5QTlmQThtbzFaRjFXYnlOQmZKNDdyeEJWdXdaOHMybE4yeGhpcG8wdDhtYnE1OWJDaU1RSFNBblFMbjBUd2dsbWlDV1o3XzdycDdYVXR2clZDajFoRV8?oc=5",
+      "source": "연합뉴스",
+      "date": "Mon, 18 May 2026 07:00:00 GMT"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-06-28T20:08:50+09:00",
+  "updated_at_kst": "2026-06-29T08:22:56.541819+09:00",
   "ref_date": "2026-06-26",
   "schema_version": "1.0",
   "adjustment_applied": true,
@@ -7,7 +7,7 @@
     "up_count": 22,
     "down_count": 104,
     "flat_count": 317,
-    "total": 443,
+    "total": 415,
     "top_gainers": [
       {
         "name": "차아염소산나트륨",
@@ -1932,6 +1932,13 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "요오드화칼륨",
+      "sector": "",
+      "price_prev": 432.0,
+      "price_today": 432.0,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "요오드화나트륨",
       "sector": "화학공업",
       "price_prev": 523.23,
@@ -1992,6 +1999,13 @@
       "sector": "화학공업",
       "price_prev": 82615.5,
       "price_today": 82615.5,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "OP-10",
+      "sector": "",
+      "price_prev": 10116.67,
+      "price_today": 10116.67,
       "change_pct": 0.0
     },
     {
