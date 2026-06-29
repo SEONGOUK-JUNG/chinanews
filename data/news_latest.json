@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-06-29T14:16:39.692659+09:00",
+  "run_at_kst": "2026-06-29T20:09:53.466327+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
-      "title": "The $7 Trillion AI Boom Is Turning Into The Energy Trade of the Century",
-      "link": "https://oilprice.com/Energy/Energy-General/The-7-Trillion-AI-Boom-Is-Turning-Into-The-Energy-Trade-of-the-Century.html",
-      "source": "OilPrice",
-      "date": "Sun, 28 Jun 2026 18:00:00 -0500"
+      "title": "Oil Prices Climb as U.S.-Iran Flare-Up Shakes Market Complacency",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-US-Iran-Flare-Up-Shakes-Market-Complacency.html",
+      "date": "Mon, 29 Jun 2026 05:31:00 -0500",
+      "source": "OilPrice"
     },
     {
-      "title": "Oil Markets Are Pricing A Supply Surge That Isn't Guaranteed",
+      "title": "U.S. Pipeline Giant Eyes $5.5 Billion Deal to Expand LNG Reach",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Pipeline-Giant-Eyes-55-Billion-Deal-to-Expand-LNG-Reach.html",
+      "date": "Mon, 29 Jun 2026 05:00:00 -0500",
+      "source": "OilPrice"
+    },
+    {
+      "title": "Middle East Oil Production Rebounds to 15 Million Bpd",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Middle-East-Oil-Production-Rebounds-to-15-Million-Bpd.html",
+      "date": "Mon, 29 Jun 2026 03:30:00 -0500",
+      "source": "OilPrice"
+    },
+    {
+      "title": "China’s LNG Buying Rebounds as Summer Power Demand Surges",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-LNG-Buying-Rebounds-as-Summer-Power-Demand-Surges.html",
+      "date": "Mon, 29 Jun 2026 02:30:00 -0500",
+      "source": "OilPrice"
+    },
+    {
+      "title": "Australian Gas Exploration Surges as Energy Security Takes Center Stage",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Australian-Gas-Exploration-Surges-as-Energy-Security-Takes-Center-Stage.html",
+      "date": "Mon, 29 Jun 2026 00:30:00 -0500",
+      "source": "OilPrice"
+    },
+    {
+      "title": "The $7 Trillion AI Boom Is Turning Into The Energy Trade of the Century",
+      "link": "https://oilprice.com/Energy/Energy-General/The-7-Trillion-AI-Boom-Is-Turning-Into-The-Energy-Trade-of-the-Century.html",
+      "date": "Sun, 28 Jun 2026 18:00:00 -0500",
+      "source": "OilPrice"
+    },
+    {
+      "title": "Oil Markets Are Pricing A Supply Surge That Isn’t Guaranteed",
       "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Markets-Are-Pricing-A-Supply-Surge-That-Isnt-Guaranteed.html",
-      "source": "OilPrice",
-      "date": "Sun, 28 Jun 2026 18:00:00 -0500"
+      "date": "Sun, 28 Jun 2026 18:00:00 -0500",
+      "source": "OilPrice"
     },
     {
       "title": "The World's Biggest Energy Bet Is No Longer on Fossil Fuels",
       "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/The-Worlds-Biggest-Energy-Bet-Is-No-Longer-on-Fossil-Fuels.html",
-      "source": "OilPrice",
-      "date": "Sun, 28 Jun 2026 16:00:00 -0500"
-    },
-    {
-      "title": "The World Is Racing to Develop New Nuclear Fuels",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-World-Is-Racing-to-Develop-New-Nuclear-Fuels.html",
-      "source": "OilPrice",
-      "date": "Sun, 28 Jun 2026 14:00:00 -0500"
-    },
-    {
-      "title": "China Eyes a Major Opportunity in Post-War Iran",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/China-Eyes-a-Major-Opportunity-in-Post-War-Iran.html",
-      "source": "OilPrice",
-      "date": "Sun, 28 Jun 2026 12:00:00 -0500"
+      "date": "Sun, 28 Jun 2026 16:00:00 -0500",
+      "source": "OilPrice"
     },
     {
       "title": "Nigeria identifies major new critical minerals district, large lithium discovery",
       "link": "https://www.mining.com/nigeria-identifies-major-new-critical-minerals-district-large-lithium-discovery/",
-      "source": "mining.com",
-      "date": "Sun, 28 Jun 2026 16:46:46 +0000"
-    },
-    {
-      "title": "Egypt Targets 60% Renewable Electricity by 2040",
-      "link": "https://oilprice.com/Energy/Energy-General/Egypt-Targets-60-Renewable-Electricity-by-2040.html",
-      "source": "OilPrice",
-      "date": "Sun, 28 Jun 2026 10:00:00 -0500"
-    },
-    {
-      "title": "One of Texas' Oldest Oil Plays Is Running Dry",
-      "link": "https://oilprice.com/Energy/Energy-General/One-of-Texas-Oldest-Oil-Plays-Is-Running-Dry.html",
-      "source": "OilPrice",
-      "date": "Sat, 27 Jun 2026 18:00:00 -0500"
-    },
-    {
-      "title": "China Is Quietly Winning the Clean Energy Trade War",
-      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/China-Is-Quietly-Winning-the-Clean-Energy-Trade-War.html",
-      "source": "OilPrice",
-      "date": "Sat, 27 Jun 2026 16:00:00 -0500"
+      "date": "Sun, 28 Jun 2026 16:46:46 +0000",
+      "source": "mining.com"
     },
     {
       "title": "Trump administration issues emergency order to keep Colorado coal plant operating",
       "link": "https://www.mining.com/trump-administration-issues-emergency-order-to-keep-colorado-coal-plant-operating/",
-      "source": "mining.com",
-      "date": "Fri, 26 Jun 2026 22:39:09 +0000"
+      "date": "Fri, 26 Jun 2026 22:39:09 +0000",
+      "source": "mining.com"
     },
     {
       "title": "Integra grows reserve by 74% at Florida Canyon gold mine",
       "link": "https://www.mining.com/integra-grows-reserve-74-at-florida-canyon-gold-mine/",
-      "source": "mining.com",
-      "date": "Fri, 26 Jun 2026 22:08:00 +0000"
+      "date": "Fri, 26 Jun 2026 22:08:00 +0000",
+      "source": "mining.com"
     },
     {
       "title": "Op-Ed: DRC is setting the terms of global competition for critical minerals",
       "link": "https://www.mining.com/op-ed-drc-is-setting-the-terms-of-global-competition-for-critical-minerals/",
-      "source": "mining.com",
-      "date": "Fri, 26 Jun 2026 20:56:19 +0000"
+      "date": "Fri, 26 Jun 2026 20:56:19 +0000",
+      "source": "mining.com"
     },
     {
       "title": "Ground view Kazakhstan: Brezhnev’s needles",
       "link": "https://www.mining.com/ground-view-kazakhstan-brezhnevs-needles/",
-      "source": "mining.com",
-      "date": "Fri, 26 Jun 2026 19:38:00 +0000"
+      "date": "Fri, 26 Jun 2026 19:38:00 +0000",
+      "source": "mining.com"
     },
     {
       "title": "Site visit: Blue Lagoon leverages cash into Dome’s 1M oz resource bid",
       "link": "https://www.mining.com/site-visit-blue-lagoon-leverages-cash-into-domes-1m-oz-resource-bid/",
-      "source": "mining.com",
-      "date": "Fri, 26 Jun 2026 18:55:00 +0000"
+      "date": "Fri, 26 Jun 2026 18:55:00 +0000",
+      "source": "mining.com"
     }
   ]
 }

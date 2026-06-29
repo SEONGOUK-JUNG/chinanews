@@ -1,81 +1,81 @@
 {
-  "run_at_kst": "2026-06-29T14:16:39.692659+09:00",
+  "run_at_kst": "2026-06-29T20:12:30.069879+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "돈 빌리지 않는 기업·가계…中, 일본식 '대차대조표 불황' 빠졌다",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81emkwS1FpaXMzLTUzalV1UW5fRVVlY0VhUUhlYWw1R2dPa2hyT3otNU5CdEdMREV5cndkdEZQdDlXc0RFTmhQS2luMjBNZ0NTMjNyZE5nSm53M3pE?oc=5",
-      "source": "supple.kr",
-      "date": "Mon, 29 Jun 2026 04:11:17 GMT"
+      "title": "'대차대조표 불황' 창시한 日학자 \"중국경제 여전히 위험\"",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16NDVwakluWlRlVHJWdzN4NW1yVGhiR0tHWGZHbjdDUW0ydUtmRzJWYzNYMW1adFdYYXdzUW1nQ2JoQjd0YVpoenBhdmlYM3M?oc=5",
+      "source": "v.daum.net",
+      "date": "Mon, 29 Jun 2026 09:00:00 GMT"
     },
     {
-      "title": "월드옥타, 10월 중국 선전서 '2026 한·중 경제무역교류박람회' 개최",
+      "title": "중국은 올 하반기 디플레 우려 벗어날까…한은 북경사무소 “물가동향 주목”",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16bjJnaFlBVzVfR0tnNG0yNjFXR05mczZrbjVXdV9aQWFtMk0wZGlQMDNIa21qX1FLNGdVTGVoN2J1WmFzTmlBVUVsY2NyNVZlVzFoYlpPdnBiQdIBX0FVX3lxTFAwTkxyTnRkUC1ldGFCeTR2VDZMeEdPaHRhTGxyY24xdjkxcVRZUkYzQkI3dnoxUzc4SGlZWUp4QzE3di1rS2RSOTE1VGVYVm1hekVMRS1wUWFUcnJxMmFN?oc=5",
+      "source": "경향신문",
+      "date": "Mon, 29 Jun 2026 09:00:00 GMT"
+    },
+    {
+      "title": "한은 \"中, 반도체 호조 속 수출↑…기업 수익성은 저하 가능성\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vRnNuM2RheE43c3VsX0MxREdFWHYySkNnMjRpWGdVdHNlZ05fajc5VkNmMkc0T3RFUlF3dnBSSHBLcWMyRGpHQk5LMUZ5aVBycVY0YXQtZWtjUjTSAWBBVV95cUxNSDdOQ0Fpb1g3bGFJNHlEYVpPbzctdzhFSHNlOWxwX1lNeEV4ZldhX2o1bVVKUS1yQlhocEF3ZFBXTldteFZDb1l2TVlCdHlGYkY4Wm1HeTlQMDhiUDVQZGY?oc=5",
+      "source": "연합뉴스",
+      "date": "Mon, 29 Jun 2026 08:18:58 GMT"
+    },
+    {
+      "title": "\"안팎 리스크 쌓여가는 중국 경제, 하반기 성장폭 둔화\"",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2NDlhUkNBS21fYXh0LUxkWlBPVm5VUVk5OWY1dHlPdVhsTnJ5WmI1c19FM3lzV3NNTU5FUUJDY3pQMWZSSG52Znl5ZHh0MTNWZmxz?oc=5",
+      "source": "네이트",
+      "date": "Mon, 29 Jun 2026 08:12:00 GMT"
+    },
+    {
+      "title": "“안팎 리스크 쌓여가는 중국 경제, 하반기 성장폭 둔화”",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxNzJGNVFWVW04VEZqMHd5dHk3YkNmcTFHeGVMNGlaaWhiSjBwS2lieFQ5R1NDZnZESlhIUWxNV0paaHk5ci1WeDJoNXkzT1pOaDRvQzlzUUNVTVpyOEg2RG1SMVhGdnVjSy1uN0ZhNkx2NzA?oc=5",
+      "source": "마켓인",
+      "date": "Mon, 29 Jun 2026 08:10:31 GMT"
+    },
+    {
+      "title": "“안팎 리스크 쌓여가는 중국 경제, 하반기 성장폭 둔화”",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVGVRLTNFUWNIMzlzaWpZbnRXSW9JOXdHMkE0eGFJX1FzNnU3SVl0Zzl5bGFSMXFrdjNnNEJELWFIc2lwLXJfeVVFX0VWMi00X2ZVVWdOSHdJaUFzdklNZ3hFZDRPUHpYMWJ5RU1mVnVlRnFYSjVnVGRqRmV1Z2Q1Vw?oc=5",
+      "source": "이데일리",
+      "date": "Mon, 29 Jun 2026 08:10:31 GMT"
+    },
+    {
+      "title": "\"中하반기 성장, 상반기 대비 둔화…반도체 호황에 수출은 호조\"",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YWFFMakR1VFRnSEdDUW5KVjBmTlJHRzJiTzdMRzhVbjAzMnQwQzFJQkxxSVhBbmJVZnRBaU5Idm1YdUk1cWN1TFVmMXE1MEpQOGJnZnkxVmhvbVdUZUE?oc=5",
+      "source": "뉴스1",
+      "date": "Mon, 29 Jun 2026 07:33:24 GMT"
+    },
+    {
+      "title": "중국 “EU는 규칙 위반자” 정면 비판...무역 갈등 강경 기조 시사",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYTDduM3NzNEdfVFRNVmRBS3dHOFBQVVpHT0ttakFmNGN3Q1RSbVphQnY1dXhXMXZJUHdJcUJCVktxTm9ubGJWbUNrZGEzMy1yYjF1UFdHQjBkRWFjU1JFNlphVQ?oc=5",
+      "source": "더구루",
+      "date": "Mon, 29 Jun 2026 05:39:37 GMT"
+    },
+    {
+      "title": "빚쟁이 천하 中, 중견 국가 GDP 능가 경우도 존재",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFN19vUGZ0WWZXT3g1cEpWa2NmdTF5X2VPMU0tamZ3X08xT2tzZkwyak9WeXdCV1RiNjVIS3d3a0w0a1JqdGtZbXAzdVpqTnZWSTNjNmxlU0pBR29PRUFKbzUweHE4MGFqU2xhQ0x3?oc=5",
+      "source": "아시아투데이",
+      "date": "Mon, 29 Jun 2026 04:26:31 GMT"
+    },
+    {
+      "title": "월드옥타, 10월 중국 선전서 2026한·중경제무역교류박람회 개최",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCeDhiWHRTZVlVWllpczlHTjlQU3A5UXZuVHFjNkhlWU56U3dQQzE5akdMWE5Mdy04aTlUNW0xVUstNG5mWFI4aUhWX1NEVG5zN3A0UzBfSUdnRzdxbjVRXzJ3Q1hjZzl2aWJr?oc=5",
       "source": "세계한인신문",
       "date": "Mon, 29 Jun 2026 02:32:04 GMT"
     },
     {
-      "title": "제주FTA통상진흥센터, 중국 장춘시 시장개척단 파견",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UVm9Ud1dvMU5OM3lpZE4tYUpxRmdKakpEejhxcy1mcEpKdUFCdUtCc2p1b1RQOTBJWG5weldaRnUwczhOXzJvWTNBZ3N0ZlUxZlNQYnpIMzNnSGpzTllETGVTNjFqN2thclVhUlYyVQ?oc=5",
-      "source": "제주도민일보",
-      "date": "Mon, 29 Jun 2026 01:15:57 GMT"
-    },
-    {
-      "title": "[중국증시 주간 포인트] ①6월 PMI, 익일물 역RP 최초 도입, 삼성∙SK 초대형 투자, 테슬라 FSD 구독형 전환, 넷이즈 상장방식 전환",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Tc1FQZV9pYklVamxOZjM2Ukt4d3FrNGdvYW16YWh1VklKX2xTZTRNOHUwVm9TWk9vOGhDWWp0dG5hS0RhMjBvRzREeTVpQ0txWEFQYjNyT3p1R2JSbTh2RkFONGoyaERQSlJtYjNmZF95TWJUck5rRXptOA?oc=5",
-      "source": "네이버 프리미엄콘텐츠",
-      "date": "Sun, 28 Jun 2026 16:12:00 GMT"
+      "title": "[중국 뉴스 브리핑] 2026년 6월 29일",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YZ0toZ3Y1eUdVV2c2X3BlamFncm1EeGlLZnBmTThWQXlsbHJsX2JoZk10UHUwbFMwUUwyU0ZYLS1xMVk5Y0Qzdi1qSzhZSWlSRFFvVkpjdWRQV1J1MlhHNlRwXzRPMmxtcnc?oc=5",
+      "source": "인민망 한국어판",
+      "date": "Mon, 29 Jun 2026 02:10:00 GMT"
     },
     {
       "title": "“수십년 디플레 일본 없지만, 한국엔 하이닉스 있어” 중국 전문가의 경고",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41Q0RFcDY4V2lBZllPRTFBc0NLV1VkVGEtWXVmdlRuQkhCRnlTVGI1NTdaRG5SRzUxOHZ3RmxNd1pydk1la040UHBGUXprMzNNcjRxN05QYVR3cWFVRG9QZjF2S3V6bEdRajZRaw?oc=5",
       "source": "한겨레",
       "date": "Sun, 28 Jun 2026 08:44:00 GMT"
-    },
-    {
-      "title": "미국에 CES가 있다면 중국에는 WAIC가 있다",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Zbi1ka09nQktFYWxIc0ptTFBkRm5DekFQWkpqMU1waEJSSjJVeG01dnJKaEprZjFjSXpVcjVIbVZhdV82dnVQQW1yS1daRTQ?oc=5",
-      "source": "v.daum.net",
-      "date": "Sat, 27 Jun 2026 10:23:00 GMT"
-    },
-    {
-      "title": "중국 투자, 다시 기회의 창 열리나",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2NzFDbzlEN25sdGdhZ29DVzZPWmk1Z1BpOTk4Smd2OGFOX1Q4UzdYQlBtX0phQzlmZkpvQnpGLWRaVFV6NjB2VnE1T2FqNDh1SXZscFZfZklPQzF5TGpFSlJoYktQc0NqcHJfcA?oc=5",
-      "source": "재외동포신문",
-      "date": "Sat, 27 Jun 2026 02:22:50 GMT"
-    },
-    {
-      "title": "리창, 하계 다보스서 “불확실성 속 중국 경제 안정”",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43Mml2QXpIVllfTjM0cUtfWmo5MlpVZ3k4ejFURHF0bjBZbGxna3hHUi1MUFdOWFF6VjhkV2JnM0xtQmhjN2FjdzZxMDJjQ3pfc2wzY01B?oc=5",
-      "source": "헤럴드경제",
-      "date": "Fri, 26 Jun 2026 01:04:56 GMT"
-    },
-    {
-      "title": "[CMG중국통신] 리창, 하계 다보스서 “불확실성 속 중국 경제 안정”",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53Zmx6a3A3YjVmNGdRXzNhS1lBRWpTX1d5S2c2WTU3ZUJZd3ZhUVpCTGpQdnVZdjJaMm5xcHZlNGYxR3pQMW8xNzBId2pWOHBRWXBlVkt3?oc=5",
-      "source": "중앙일보",
-      "date": "Fri, 26 Jun 2026 00:11:01 GMT"
-    },
-    {
-      "title": "리창 중국 총리, \"중국의 문은 더 넓게 열릴 것\"…AI 개방·기술 협력 확대 선언",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PcGhHOGt3NGpRZDFhZkNkVnNJXy1NaklzbEFBSVZKX0daaVNVVlNnU0NJdXAyWUVJWHpYTUpMeWk2eUN2eVlzLUpiUWptMFQydDd5akFKUTAxN2xWYmhtaDVWZlpzMms?oc=5",
-      "source": "인공지능신문",
-      "date": "Thu, 25 Jun 2026 12:26:39 GMT"
-    },
-    {
-      "title": "[차이나 인사이트] 숫자 뒤에 숨겨진 중국경제 읽기…중국 소비 회복은 착시인가",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJUDVwNTl1ZGdBRk5aem4yYTVtQkd1QUVBZl9rb3ZGdHI2STkxc1RvYWRqay1xeFFGNHZYYWNJdzdvOHo4djlPMV90S3hHZDJ1U3NjaU9xOVJBOHRmSmpaTEc0Sk5QY0pZU0l0VUVvajJ5dw?oc=5",
-      "source": "뉴스임팩트",
-      "date": "Wed, 24 Jun 2026 21:30:00 GMT"
-    },
-    {
-      "title": "韓, '中경제규모 2위' 장쑤 최대 교역국 부상…美 제치고 1위",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3emVzSWRpR2xUOTdUb0haXzNwd0U3M19obWNPN003cnMwOHE1OHk0MFM0dFUzQ29CRnFwcVliNHRDY1ZUVzZ6TjZSY1dJcDc0d3lwdVpUNDhNWnfSAWBBVV95cUxPVmd5QTlmQThtbzFaRjFXYnlOQmZKNDdyeEJWdXdaOHMybE4yeGhpcG8wdDhtYnE1OWJDaU1RSFNBblFMbjBUd2dsbWlDV1o3XzdycDdYVXR2clZDajFoRV8?oc=5",
-      "source": "연합뉴스",
-      "date": "Mon, 18 May 2026 07:00:00 GMT"
     }
   ]
 }

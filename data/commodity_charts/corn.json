@@ -2,8 +2,8 @@
   "id": "corn",
   "name": "옥수수",
   "unit": "CNY/t",
-  "updated_at_kst": "2026-06-29T14:17:57.906561+09:00",
-  "count": 55,
+  "updated_at_kst": "2026-06-29T20:13:53.075203+09:00",
+  "count": 56,
   "candles": [
     {
       "time": "2025-01-01",
@@ -224,6 +224,10 @@
     {
       "time": "2026-06-26",
       "value": 2303.86
+    },
+    {
+      "time": "2026-06-29",
+      "value": 2302.42
     }
   ],
   "history_note": "Pre-2026-05: monthly observations (month-start/end). From late May 2026: daily.",
