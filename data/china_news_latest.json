@@ -1,21 +1,27 @@
 {
-  "run_at_kst": "2026-06-29T10:25:54+09:00",
+  "run_at_kst": "2026-06-29T14:16:39.692659+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "돈 빌리지 않는 기업·가계…中, 일본식 '대차대조표 불황' 빠졌다",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81emkwS1FpaXMzLTUzalV1UW5fRVVlY0VhUUhlYWw1R2dPa2hyT3otNU5CdEdMREV5cndkdEZQdDlXc0RFTmhQS2luMjBNZ0NTMjNyZE5nSm53M3pE?oc=5",
+      "source": "supple.kr",
+      "date": "Mon, 29 Jun 2026 04:11:17 GMT"
+    },
+    {
+      "title": "월드옥타, 10월 중국 선전서 '2026 한·중 경제무역교류박람회' 개최",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCeDhiWHRTZVlVWllpczlHTjlQU3A5UXZuVHFjNkhlWU56U3dQQzE5akdMWE5Mdy04aTlUNW0xVUstNG5mWFI4aUhWX1NEVG5zN3A0UzBfSUdnRzdxbjVRXzJ3Q1hjZzl2aWJr?oc=5",
+      "source": "세계한인신문",
+      "date": "Mon, 29 Jun 2026 02:32:04 GMT"
+    },
+    {
       "title": "제주FTA통상진흥센터, 중국 장춘시 시장개척단 파견",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UVm9Ud1dvMU5OM3lpZE4tYUpxRmdKakpEejhxcy1mcEpKdUFCdUtCc2p1b1RQOTBJWG5weldaRnUwczhOXzJvWTNBZ3N0ZlUxZlNQYnpIMzNnSGpzTllETGVTNjFqN2thclVhUlYyVQ?oc=5",
       "source": "제주도민일보",
       "date": "Mon, 29 Jun 2026 01:15:57 GMT"
-    },
-    {
-      "title": "중국 공습에 개소세 감면 중단…車업계 '국내생산 촉진세제' 절실",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wRHBFOUVxR0ZHTVEtRDR4TC1OUlpTd083WHN5WWhZWWNaUnpEQkgtOUlHSFAwdFdzZzRvcjZRQUc3ZXhfczJKUG4xZlBoaTQ?oc=5",
-      "source": "v.daum.net",
-      "date": "Sun, 28 Jun 2026 22:16:31 GMT"
     },
     {
       "title": "[중국증시 주간 포인트] ①6월 PMI, 익일물 역RP 최초 도입, 삼성∙SK 초대형 투자, 테슬라 FSD 구독형 전환, 넷이즈 상장방식 전환",
@@ -24,28 +30,22 @@
       "date": "Sun, 28 Jun 2026 16:12:00 GMT"
     },
     {
-      "title": "채무 대국 中, 정부 부채마저 5년새 2배 증가 비상",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlX2VXNncxMmR0VjdIRjZJSVNzdXhNdHd5TlEtWWd4Uzh5ZWd6UmZCdTBOd0dwZ3N1eXJIblVqVG9UbTZnOVFKYXJMS2pleWdFX0tORWd2NnpUQnpoVHh6WmRzYmpXSDN5aDktX1h3?oc=5",
-      "source": "아시아투데이",
-      "date": "Sun, 28 Jun 2026 10:27:02 GMT"
-    },
-    {
       "title": "“수십년 디플레 일본 없지만, 한국엔 하이닉스 있어” 중국 전문가의 경고",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41Q0RFcDY4V2lBZllPRTFBc0NLV1VkVGEtWXVmdlRuQkhCRnlTVGI1NTdaRG5SRzUxOHZ3RmxNd1pydk1la040UHBGUXprMzNNcjRxN05QYVR3cWFVRG9QZjF2S3V6bEdRajZRaw?oc=5",
       "source": "한겨레",
       "date": "Sun, 28 Jun 2026 08:44:00 GMT"
     },
     {
+      "title": "미국에 CES가 있다면 중국에는 WAIC가 있다",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Zbi1ka09nQktFYWxIc0ptTFBkRm5DekFQWkpqMU1waEJSSjJVeG01dnJKaEprZjFjSXpVcjVIbVZhdV82dnVQQW1yS1daRTQ?oc=5",
+      "source": "v.daum.net",
+      "date": "Sat, 27 Jun 2026 10:23:00 GMT"
+    },
+    {
       "title": "중국 투자, 다시 기회의 창 열리나",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2NzFDbzlEN25sdGdhZ29DVzZPWmk1Z1BpOTk4Smd2OGFOX1Q4UzdYQlBtX0phQzlmZkpvQnpGLWRaVFV6NjB2VnE1T2FqNDh1SXZscFZfZklPQzF5TGpFSlJoYktQc0NqcHJfcA?oc=5",
       "source": "재외동포신문",
       "date": "Sat, 27 Jun 2026 02:22:50 GMT"
-    },
-    {
-      "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Fri, 26 Jun 2026 01:11:00 GMT"
     },
     {
       "title": "리창, 하계 다보스서 “불확실성 속 중국 경제 안정”",

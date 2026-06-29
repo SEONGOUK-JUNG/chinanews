@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-06-29T10:20:47+09:00",
+  "updated_at_kst": "2026-06-29T14:12:23.027940+09:00",
   "ref_date": "2026-06-26",
   "schema_version": "1.0",
   "adjustment_applied": true,
@@ -756,8 +756,8 @@
     {
       "display_name": "냉간압연판",
       "sector": "철강",
-      "price_prev": 3789.02,
-      "price_today": 3789.02,
+      "price_prev": 3789.01,
+      "price_today": 3789.01,
       "change_pct": 0.0
     },
     {
@@ -1022,8 +1022,8 @@
     {
       "display_name": "테트라페라오렌",
       "sector": "화학공업",
-      "price_prev": 11891.63,
-      "price_today": 11891.63,
+      "price_prev": 11891.62,
+      "price_today": 11891.62,
       "change_pct": 0.0
     },
     {
@@ -1134,8 +1134,8 @@
     {
       "display_name": "나일론 POY",
       "sector": "방직",
-      "price_prev": 13656.83,
-      "price_today": 13656.83,
+      "price_prev": 13656.82,
+      "price_today": 13656.82,
       "change_pct": 0.0
     },
     {
@@ -2507,7 +2507,7 @@
       "display_name": "마그네슘",
       "sector": "비철금속",
       "price_prev": 16033.6,
-      "price_today": 15983.5,
+      "price_today": 15983.49,
       "change_pct": -0.31
     },
     {
