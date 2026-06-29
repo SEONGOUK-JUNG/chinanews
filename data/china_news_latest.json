@@ -1,10 +1,22 @@
 {
-  "run_at_kst": "2026-06-29T08:28:51.007883+09:00",
+  "run_at_kst": "2026-06-29T10:25:54+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "제주FTA통상진흥센터, 중국 장춘시 시장개척단 파견",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UVm9Ud1dvMU5OM3lpZE4tYUpxRmdKakpEejhxcy1mcEpKdUFCdUtCc2p1b1RQOTBJWG5weldaRnUwczhOXzJvWTNBZ3N0ZlUxZlNQYnpIMzNnSGpzTllETGVTNjFqN2thclVhUlYyVQ?oc=5",
+      "source": "제주도민일보",
+      "date": "Mon, 29 Jun 2026 01:15:57 GMT"
+    },
+    {
+      "title": "중국 공습에 개소세 감면 중단…車업계 '국내생산 촉진세제' 절실",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wRHBFOUVxR0ZHTVEtRDR4TC1OUlpTd083WHN5WWhZWWNaUnpEQkgtOUlHSFAwdFdzZzRvcjZRQUc3ZXhfczJKUG4xZlBoaTQ?oc=5",
+      "source": "v.daum.net",
+      "date": "Sun, 28 Jun 2026 22:16:31 GMT"
+    },
     {
       "title": "[중국증시 주간 포인트] ①6월 PMI, 익일물 역RP 최초 도입, 삼성∙SK 초대형 투자, 테슬라 FSD 구독형 전환, 넷이즈 상장방식 전환",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Tc1FQZV9pYklVamxOZjM2Ukt4d3FrNGdvYW16YWh1VklKX2xTZTRNOHUwVm9TWk9vOGhDWWp0dG5hS0RhMjBvRzREeTVpQ0txWEFQYjNyT3p1R2JSbTh2RkFONGoyaERQSlJtYjNmZF95TWJUck5rRXptOA?oc=5",
@@ -22,12 +34,6 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41Q0RFcDY4V2lBZllPRTFBc0NLV1VkVGEtWXVmdlRuQkhCRnlTVGI1NTdaRG5SRzUxOHZ3RmxNd1pydk1la040UHBGUXprMzNNcjRxN05QYVR3cWFVRG9QZjF2S3V6bEdRajZRaw?oc=5",
       "source": "한겨레",
       "date": "Sun, 28 Jun 2026 08:44:00 GMT"
-    },
-    {
-      "title": "중국발 충격에 무너지는 여수산단···생존전략은?",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aWUdmczM3My1GVGxOZFVDTmxJZEVNYWFjd3BHWTJwclZLNVpaRk8tWmtRSjJNYVNjR09wM3NQWHE1RW1vNGRySUFGRUhzTmc?oc=5",
-      "source": "v.daum.net",
-      "date": "Sun, 28 Jun 2026 06:44:18 GMT"
     },
     {
       "title": "중국 투자, 다시 기회의 창 열리나",
@@ -64,12 +70,6 @@
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJUDVwNTl1ZGdBRk5aem4yYTVtQkd1QUVBZl9rb3ZGdHI2STkxc1RvYWRqay1xeFFGNHZYYWNJdzdvOHo4djlPMV90S3hHZDJ1U3NjaU9xOVJBOHRmSmpaTEc0Sk5QY0pZU0l0VUVvajJ5dw?oc=5",
       "source": "뉴스임팩트",
       "date": "Wed, 24 Jun 2026 21:30:00 GMT"
-    },
-    {
-      "title": "美경제 규모 추월할거란 ‘중국몽’...이제는 인도에 추월당할까 걱정",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kV0I1QVVxaDhVSjZoTHhxU0lWOUExZEVWc1dpYnpLdzVMMVo1cEVGM3FXMlMzTUZRRDNhcXhuYm5ZQlNYYkZfMjNGamRIclJCOTFTbmozTllWLUwxYzNuYk9QRkltZmJta292Vjlpam5rWFh1SF9rRg?oc=5",
-      "source": "조선일보",
-      "date": "Wed, 10 Jun 2026 07:00:00 GMT"
     },
     {
       "title": "韓, '中경제규모 2위' 장쑤 최대 교역국 부상…美 제치고 1위",
