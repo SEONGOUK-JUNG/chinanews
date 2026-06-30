@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-06-30T07:06:52.281175+09:00",
+  "updated_at_kst": "2026-06-30T10:08:43.104740+09:00",
   "ref_date": "2026-06-29",
   "schema_version": "1.0",
   "adjustment_applied": true,
@@ -46,8 +46,7 @@
       "unit": "CNY/g",
       "price_prev": 875.58,
       "price_today": 890.14,
-      "change_pct": 1.66,
-      "chart_id": "gold"
+      "change_pct": 1.66
     },
     {
       "display_name": "은",
@@ -57,8 +56,7 @@
       "unit": "CNY/kg",
       "price_prev": 13896.12,
       "price_today": 14215.46,
-      "change_pct": 2.3,
-      "chart_id": "silver"
+      "change_pct": 2.3
     },
     {
       "display_name": "구리",
@@ -68,8 +66,7 @@
       "unit": "CNY/t",
       "price_prev": 101838.41,
       "price_today": 102641.77,
-      "change_pct": 0.79,
-      "chart_id": "copper"
+      "change_pct": 0.79
     },
     {
       "display_name": "알루미늄",
@@ -79,8 +76,7 @@
       "unit": "CNY/t",
       "price_prev": 22944.75,
       "price_today": 22944.75,
-      "change_pct": 0.0,
-      "chart_id": "aluminum"
+      "change_pct": 0.0
     },
     {
       "display_name": "원유",
@@ -90,8 +86,7 @@
       "unit": "USD/bbl",
       "price_prev": 71.99,
       "price_today": 69.3,
-      "change_pct": -3.74,
-      "chart_id": "crude_oil"
+      "change_pct": -3.74
     },
     {
       "display_name": "석탄",
@@ -101,8 +96,7 @@
       "unit": "CNY/t",
       "price_prev": 865.86,
       "price_today": 860.61,
-      "change_pct": -0.61,
-      "chart_id": "coal"
+      "change_pct": -0.61
     },
     {
       "display_name": "천연가스",
@@ -112,8 +106,7 @@
       "unit": "CNY/t",
       "price_prev": 5945.94,
       "price_today": 5681.68,
-      "change_pct": -4.44,
-      "chart_id": "natural_gas"
+      "change_pct": -4.44
     },
     {
       "display_name": "옥수수",
@@ -123,8 +116,7 @@
       "unit": "CNY/t",
       "price_prev": 2303.86,
       "price_today": 2302.42,
-      "change_pct": -0.06,
-      "chart_id": "corn"
+      "change_pct": -0.06
     },
     {
       "display_name": "대두",
@@ -134,8 +126,7 @@
       "unit": "CNY/t",
       "price_prev": 4514.36,
       "price_today": 4514.36,
-      "change_pct": 0.0,
-      "chart_id": "soybean"
+      "change_pct": 0.0
     },
     {
       "display_name": "옥수수 전분",
@@ -145,8 +136,7 @@
       "unit": "CNY/t",
       "price_prev": 2984.85,
       "price_today": 3002.89,
-      "change_pct": 0.6,
-      "chart_id": "corn_starch"
+      "change_pct": 0.6
     },
     {
       "display_name": "백설탕",
@@ -156,8 +146,7 @@
       "unit": "CNY/t",
       "price_prev": 5287.13,
       "price_today": 5283.79,
-      "change_pct": -0.06,
-      "chart_id": "white_sugar"
+      "change_pct": -0.06
     },
     {
       "display_name": "달걀",
@@ -167,8 +156,7 @@
       "unit": "CNY/kg",
       "price_prev": 8.72,
       "price_today": 8.52,
-      "change_pct": -2.3,
-      "chart_id": "egg"
+      "change_pct": -2.3
     },
     {
       "display_name": "생 돼지",
@@ -178,8 +166,7 @@
       "unit": "CNY/kg",
       "price_prev": 9.49,
       "price_today": 9.6,
-      "change_pct": 1.16,
-      "chart_id": "live_pig"
+      "change_pct": 1.16
     },
     {
       "display_name": "팜오일",
@@ -189,8 +176,7 @@
       "unit": "CNY/t",
       "price_prev": 9161.02,
       "price_today": 9237.2,
-      "change_pct": 0.83,
-      "chart_id": "palm_oil"
+      "change_pct": 0.83
     },
     {
       "display_name": "채종유",
@@ -200,8 +186,7 @@
       "unit": "CNY/t",
       "price_prev": 9924.77,
       "price_today": 10055.07,
-      "change_pct": 1.31,
-      "chart_id": "rapeseed_oil"
+      "change_pct": 1.31
     },
     {
       "display_name": "대두유",
@@ -211,8 +196,7 @@
       "unit": "CNY/t",
       "price_prev": 8543.61,
       "price_today": 8589.71,
-      "change_pct": 0.54,
-      "chart_id": "soybean_oil"
+      "change_pct": 0.54
     }
   ],
   "all_items": [

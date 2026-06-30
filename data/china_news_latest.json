@@ -1,10 +1,22 @@
 {
-  "run_at_kst": "2026-06-30T07:11:43.042928+09:00",
+  "run_at_kst": "2026-06-30T10:14:50.033601+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "호르무즈 대란 최대 수혜자는 중국…태양광·전기차 '반사이익'",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMelZxLTVVdWVKVm56T2ZUUzJXSVcyQlBfS0paOTFra1c5M1hQMjQ0V29GNXJXVkNPMGcxRnNBck52UXVlM0tocVV0eGdEaU0?oc=5",
+      "source": "v.daum.net",
+      "date": "Tue, 30 Jun 2026 00:34:00 GMT"
+    },
+    {
+      "title": "\"이란 전쟁 발 세계 경제 위기 속 승자는 중국\"-NYT",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uRXM2VXF3ZDhFZVZnNGpjNktRbjNVVW81YkdqNnpUMS13VEx1WGdTS09scFN5dzI3aHVhMXU5cFY4RHF4MUxtSmRyb0p5UVl1WGxN?oc=5",
+      "source": "네이트",
+      "date": "Mon, 29 Jun 2026 21:58:00 GMT"
+    },
     {
       "title": "\"이란 전쟁 발 세계 경제 위기 속 승자는 중국\"-NYT",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFTkNPYjVaYzhGeXlWVVB6cTVUbDZ1eTRNSGNZQzQtLXhaazAzeTh1WEo2dTMyVVBIRjA0OFFqdzZRY05zaXRFdm9VbUpDcFdSUnNScGZCSVNVcXZPaXhRd9IBeEFVX3lxTE1QMlF0SnotQ2d5U2pDVlltcXpVOFpfeVdQeW1waW5WM19MVlkxbS1KeDRTUVdNUElDTzYxY2pUS2ZmOGQ5XzFtZDRFQlQtYzBFTjVFTmpkemFNcG9BMHRWRjNEVVdrYm5uVGhzTGVIUDIwSHVZN3pOUA?oc=5",
@@ -16,12 +28,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EWVgwTG1YQUVIQnFGZ0ZBdHVqQnE2Nm5DYWRtN1M1NTVHOWJWNmdkZVBLT3pHeUs5RVdKQ09XV1d0ZmVlSUc3eTVPWHBRdE1wOVVGbzgydll3Zw?oc=5",
       "source": "한국경제",
       "date": "Mon, 29 Jun 2026 21:30:03 GMT"
-    },
-    {
-      "title": "'무역 긴장 고조' EU-중국, 10월까지 갈등 해소 모색키로",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16SDJQVzdKd3pwUmEwVFVxUEJPTVE1Mm92dzdSQ2dEcUJNM0FHdERGNnhjMUFtTEs4QW9tUTU1NDZlcFY1c2RidXdYSU9iWjQ?oc=5",
-      "source": "v.daum.net",
-      "date": "Mon, 29 Jun 2026 19:10:06 GMT"
     },
     {
       "title": "EU·중국, 무역 갈등 해소 위한 10월 시한 합의",
@@ -48,12 +54,6 @@
       "date": "Mon, 29 Jun 2026 08:18:58 GMT"
     },
     {
-      "title": "\"안팎 리스크 쌓여가는 중국 경제, 하반기 성장폭 둔화\"",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2NDlhUkNBS21fYXh0LUxkWlBPVm5VUVk5OWY1dHlPdVhsTnJ5WmI1c19FM3lzV3NNTU5FUUJDY3pQMWZSSG52Znl5ZHh0MTNWZmxz?oc=5",
-      "source": "네이트",
-      "date": "Mon, 29 Jun 2026 08:12:00 GMT"
-    },
-    {
       "title": "“안팎 리스크 쌓여가는 중국 경제, 하반기 성장폭 둔화”",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVGVRLTNFUWNIMzlzaWpZbnRXSW9JOXdHMkE0eGFJX1FzNnU3SVl0Zzl5bGFSMXFrdjNnNEJELWFIc2lwLXJfeVVFX0VWMi00X2ZVVWdOSHdJaUFzdklNZ3hFZDRPUHpYMWJ5RU1mVnVlRnFYSjVnVGRqRmV1Z2Q1Vw?oc=5",
       "source": "이데일리",
@@ -67,7 +67,7 @@
     },
     {
       "title": "중국 “EU는 규칙 위반자” 정면 비판...무역 갈등 강경 기조 시사",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYTDduM3NzNEdfVFRNVmRBS3dHOFBQQUVpHT0ttakFmNGN3Q1RSbVphQnY1dXhXMXZJUHdJcUJCVktxTm9ubGJWbUNrZGEzMy1yYjF1UFdHQjBkRWFjU1JFNlphVQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYTDduM3NzNEdfVFRNVmRBS3dHOFBQVVpHT0ttakFmNGN3Q1RSbVphQnY1dXhXMXZJUHdJcUJCVktxTm9ubGJWbUNrZGEzMy1yYjF1UFdHQjBkRWFjU1JFNlphVQ?oc=5",
       "source": "더구루",
       "date": "Mon, 29 Jun 2026 05:39:37 GMT"
     },
