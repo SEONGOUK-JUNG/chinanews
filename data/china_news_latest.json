@@ -1,27 +1,39 @@
 {
-  "run_at_kst": "2026-06-30T10:14:50.033601+09:00",
+  "run_at_kst": "2026-06-30T14:15:00.875808+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "호르무즈 대란 최대 수혜자는 중국…태양광·전기차 '반사이익'",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMelZxLTVVdWVKVm56T2ZUUzJXSVcyQlBfS0paOTFra1c5M1hQMjQ0V29GNXJXVkNPMGcxRnNBck52UXVlM0tocVV0eGdEaU0?oc=5",
-      "source": "v.daum.net",
-      "date": "Tue, 30 Jun 2026 00:34:00 GMT"
-    },
-    {
-      "title": "\"이란 전쟁 발 세계 경제 위기 속 승자는 중국\"-NYT",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uRXM2VXF3ZDhFZVZnNGpjNktRbjNVVW81YkdqNnpUMS13VEx1WGdTS09scFN5dzI3aHVhMXU5cFY4RHF4MUxtSmRyb0p5UVl1WGxN?oc=5",
+      "title": "중국 제조업 체감 경기 확장세인데…불안한 내수 부진[e차이나]",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3UXJ2Q09OeU5oYk1QSWxnN3l2N1cyVXhzdlA0NDlwV2ljMGZwVi1FREtmZk1saDI3UFVYMjFxNlVERTVVbE9ZanNPc21laFFDWGFn?oc=5",
       "source": "네이트",
-      "date": "Mon, 29 Jun 2026 21:58:00 GMT"
+      "date": "Tue, 30 Jun 2026 03:08:00 GMT"
     },
     {
-      "title": "\"이란 전쟁 발 세계 경제 위기 속 승자는 중국\"-NYT",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFTkNPYjVaYzhGeXlWVVB6cTVUbDZ1eTRNSGNZQzQtLXhaazAzeTh1WEo2dTMyVVBIRjA0OFFqdzZRY05zaXRFdm9VbUpDcFdSUnNScGZCSVNVcXZPaXhRd9IBeEFVX3lxTE1QMlF0SnotQ2d5U2pDVlltcXpVOFpfeVdQeW1waW5WM19MVlkxbS1KeDRTUVdNUElDTzYxY2pUS2ZmOGQ5XzFtZDRFQlQtYzBFTjVFTmpkemFNcG9BMHRWRjNEVVdrYm5uVGhzTGVIUDIwSHVZN3pOUA?oc=5",
+      "title": "차이나베이지북 \"중국 경제 6월 회복조짐…대미 수출 등 견인\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxQVhEVTR0UEhjVjNhX3ZqODczcUFtbk5VYkZLcEVOVkl6cEpvVTJWTFk1dEk4UmxMdE1EbkEwMFZQLXRBY1JoclpscXNTVnB2bms0QnRhTnpJZ2ctNVB1WdIBeEFVX3lxTE4zZFMzOWhGb01uVXJRSk4tNWFjbF9rS1huTFhMQlhfZ1VOcGJRSzhJYUViTDR0ZV9IRUYxMUUxMlFrbjEwSm1KQk9fVWFTTGh0dXhEZF9HNF9BMzlSWnl5LU1waEJiUW5zOVdza3dtZ3JuYzFZcEc4Qg?oc=5",
       "source": "뉴시스",
-      "date": "Mon, 29 Jun 2026 21:57:53 GMT"
+      "date": "Tue, 30 Jun 2026 02:26:23 GMT"
+    },
+    {
+      "title": "[중국 뉴스 브리핑] 2026년 6월 30일",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBockJlSWFWQWdtX3BOcmVZbk1YZHVhMjgyZ3VuZUR6OUFoZzhwdUNQLTVILWxLNklWOFIzbjQxUFEySDZ2MW1mYjY4Q1VQcnlhZzRNTEdPZTRiTjQ3SVVnZ1dzTDJSVktLaVE?oc=5",
+      "source": "인민망 한국어판",
+      "date": "Tue, 30 Jun 2026 02:01:00 GMT"
+    },
+    {
+      "title": "호르무즈 대란 최대 수혜자는 중국‥태양광·전기차 '반사이익'",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QcXpkVGtIUXdyYzNoUXZMV3UzR3NDVTFFaHJGYWUtRlFZZTBBZ3FOamNHa0QtZWJqV0lEWWpIeFZraTRKc3NRN3AyU2hISkJhVjJoWmFIRURNamZvektfUnJfNWFKOGEzVEY0THIwWElOU01y0gF0QVVfeXFMT0dGQ1NibkJSMXZDZ24xdlJILUR0TXhtVV9qOTRQWnBWbC1JTnRiNEpWLTRtb25MSmdsQ1dxa3VIdmhrbjBtdFd6S3VFYVJfc0E1OHU3dkh6ejNIRkJUaWpkd1kzQ2lIY3pZYThaU3BoOU1NZmU?oc=5",
+      "source": "MBC 뉴스",
+      "date": "Tue, 30 Jun 2026 01:41:39 GMT"
+    },
+    {
+      "title": "호르무즈 봉쇄 사태 최대 수혜자는 중국…'안정적인 경제 파트너' 이미지 강화",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ2N6ZnB0eDQ5Q2VCZVJBYzVGRmx6TlUxWkhZWTRibjhSZWh6Tk81V1BRZmw4NkhadzkzRHFERUZxcDZRa2FodXpUYTJsZXpCVkVwNjJXUVdyNGpQYXFQWXdqVjRKQ25RSmkxbDNlRWpnUGdGUm9rYkd0N1lJUENUMFZubTk5UnN2YktF?oc=5",
+      "source": "국제신문",
+      "date": "Tue, 30 Jun 2026 01:34:00 GMT"
     },
     {
       "title": "중국의 신발전 이념…한국의 생존전략은 [조평규의 중국 본색]",
@@ -48,22 +60,10 @@
       "date": "Mon, 29 Jun 2026 09:00:00 GMT"
     },
     {
-      "title": "한은 \"中, 반도체 호조 속 수출↑…기업 수익성은 저하 가능성\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vRnNuM2RheE43c3VsX0MxREdFWHYySkNnMjRpWGdVdHNlZ05fajc5VkNmMkc0T3RFUlF3dnBSSHBLcWMyRGpHQk5LMUZ5aVBycVY0YXQtZWtjUjTSAWBBVV95cUxNSDdOQ0Fpb1g3bGFJNHlEYVpPbzctdzhFSHNlOWxwX1lNeEV4ZldhX2o1bVVKUS1yQlhocEF3ZFBXTldteFZDb1l2TVlCdHlGYkY4Wm1HeTlQMDhiUDVQZGY?oc=5",
-      "source": "연합뉴스",
-      "date": "Mon, 29 Jun 2026 08:18:58 GMT"
-    },
-    {
       "title": "“안팎 리스크 쌓여가는 중국 경제, 하반기 성장폭 둔화”",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVGVRLTNFUWNIMzlzaWpZbnRXSW9JOXdHMkE0eGFJX1FzNnU3SVl0Zzl5bGFSMXFrdjNnNEJELWFIc2lwLXJfeVVFX0VWMi00X2ZVVWdOSHdJaUFzdklNZ3hFZDRPUHpYMWJ5RU1mVnVlRnFYSjVnVGRqRmV1Z2Q1Vw?oc=5",
       "source": "이데일리",
       "date": "Mon, 29 Jun 2026 08:10:31 GMT"
-    },
-    {
-      "title": "\"中하반기 성장, 상반기 대비 둔화…반도체 호황에 수출은 호조\"",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YWFFMakR1VFRnSEdDUW5KVjBmTlJHRzJiTzdMRzhVbjAzMnQwQzFJQkxxSVhBbmJVZnRBaU5Idm1YdUk1cWN1TFVmMXE1MEpQOGJnZnkxVmhvbVdUZUE?oc=5",
-      "source": "뉴스1",
-      "date": "Mon, 29 Jun 2026 07:33:24 GMT"
     },
     {
       "title": "중국 “EU는 규칙 위반자” 정면 비판...무역 갈등 강경 기조 시사",

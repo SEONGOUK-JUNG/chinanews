@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-06-30T10:14:50.033601+09:00",
+  "run_at_kst": "2026-06-30T14:15:00.875808+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,7 +8,7 @@
   "count": 14,
   "items": [
     {
-      "title": "Not Even Musk Has The Answer To AI's Power Shortage",
+      "title": "Not Even Musk Has The Answer To AI’s Power Shortage",
       "link": "https://oilprice.com/Energy/Energy-General/Not-Even-Musk-Has-The-Answer-To-AIs-Power-Shortage.html",
       "source": "OilPrice",
       "date": "Mon, 29 Jun 2026 19:00:00 -0500"
@@ -44,7 +44,7 @@
       "date": "Mon, 29 Jun 2026 15:00:00 -0500"
     },
     {
-      "title": "ADNOC, Eni Acquire Stakes In Gas Blocks Linked To Argentina's LNG Project",
+      "title": "ADNOC, Eni Acquire Stakes In Gas Blocks Linked To Argentina’s LNG Project",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Eni-Acquire-Stakes-In-Gas-Blocks-Linked-To-Argentinas-LNG-Project.html",
       "source": "OilPrice",
       "date": "Mon, 29 Jun 2026 14:30:00 -0500"
