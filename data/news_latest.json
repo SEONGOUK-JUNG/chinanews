@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-01T20:18:48.392732+09:00",
+  "run_at_kst": "2026-07-02T07:14:51+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,34 +8,70 @@
   "count": 14,
   "items": [
     {
-      "title": "Goldman Sachs Warns Oil Inventory Rebuild Won�셳 Prevent 2027 Supply Glut",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Warns-Oil-Inventory-Rebuild-Wont-Prevent-2027-Supply-Glut.html",
+      "title": "Wall Street Is Pivoting From Solar To Solar Plus Storage",
+      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Wall-Street-Is-Pivoting-From-Solar-To-Solar-Plus-Storage.html",
       "source": "OilPrice",
-      "date": "Wed, 01 Jul 2026 04:30:00 -0500"
+      "date": "Wed, 01 Jul 2026 17:00:00 -0500"
     },
     {
-      "title": "America Bets $50 Billion on Coal and Gas Power as Electricity Demand Soars",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/America-Bets-50-Billion-on-Coal-and-Gas-Power-as-Electricity-Demand-Soars.html",
+      "title": "The Hydrogen Industry's Efficiency Problem May Have Just Met Its Fix",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Hydrogen-Industrys-Efficiency-Problem-May-Have-Just-Met-Its-Fix.html",
       "source": "OilPrice",
-      "date": "Wed, 01 Jul 2026 03:30:00 -0500"
+      "date": "Wed, 01 Jul 2026 16:00:00 -0500"
     },
     {
-      "title": "Shell Offloads 50% Stake in Na Kika Platform for $1.7 Billion",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Shell-Offloads-50-Stake-in-Na-Kika-Platform-for-17-Billion.html",
+      "title": "How the U.S. and U.K. Are Redrawing Syria's Energy Map",
+      "link": "https://oilprice.com/Geopolitics/Middle-East/How-the-US-and-UK-Are-Redrawing-Syrias-Energy-Map.html",
       "source": "OilPrice",
-      "date": "Wed, 01 Jul 2026 02:15:00 -0500"
+      "date": "Wed, 01 Jul 2026 15:00:00 -0500"
     },
     {
-      "title": "Oil Prices Reflect Optimism That Hormuz Has Yet to Justify",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Reflect-Optimism-That-Hormuz-Has-Yet-to-Justify.html",
+      "title": "Same Fear, Different Fallout: Oil and Gold's Diverging Collapse",
+      "link": "https://oilprice.com/Energy/Energy-General/Same-Fear-Different-Fallout-Oil-and-Golds-Diverging-Collapse.html",
       "source": "OilPrice",
-      "date": "Wed, 01 Jul 2026 01:00:00 -0500"
+      "date": "Wed, 01 Jul 2026 14:00:00 -0500"
     },
     {
-      "title": "The AI Revolution Needs Electricity More Than Intelligence",
-      "link": "https://oilprice.com/Energy/Energy-General/The-AI-Revolution-Needs-Electricity-More-Than-Intelligence.html",
+      "title": "Russia' Security and Trade Blocs Show Signs of Fracturing",
+      "link": "https://oilprice.com/Geopolitics/Europe/Russias-Security-and-Trade-Blocs-Show-Signs-of-Fracturing.html",
       "source": "OilPrice",
-      "date": "Tue, 30 Jun 2026 19:00:00 -0500"
+      "date": "Wed, 01 Jul 2026 13:00:00 -0500"
+    },
+    {
+      "title": "KKR Makes Largest Ever Clean Energy Investment With $4.2B EDF Purchase",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/KKR-Makes-Largest-Ever-Clean-Energy-Investment-With-42B-EDF-Purchase.html",
+      "source": "OilPrice",
+      "date": "Wed, 01 Jul 2026 12:30:00 -0500"
+    },
+    {
+      "title": "Putin Admits Shortage of Fuel After Weeks of Refinery Strikes",
+      "link": "https://oilprice.com/Energy/Energy-General/Putin-Admits-Certain-Shortage-of-Fuel-After-Weeks-of-Refinery-Strikes.html",
+      "source": "OilPrice",
+      "date": "Wed, 01 Jul 2026 12:00:00 -0500"
+    },
+    {
+      "title": "GreenMet plans $150M rare earth processing hub in West Virginia",
+      "link": "https://www.mining.com/greenmet-plans-150m-rare-earth-processing-hub-in-west-virginia/",
+      "source": "mining.com",
+      "date": "Wed, 01 Jul 2026 16:36:44 +0000"
+    },
+    {
+      "title": "Ukraine' Drone Campaign Forces Russia to Buy Gasoline From India",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraines-Drone-Campaign-Forces-Russia-to-Buy-Gasoline-From-India.html",
+      "source": "OilPrice",
+      "date": "Wed, 01 Jul 2026 11:30:00 -0500"
+    },
+    {
+      "title": "Cameco shuts Cigar Lake mine on Orano mill disruption",
+      "link": "https://www.mining.com/cameco-shuts-cigar-lake-mine-on-orano-mill-disruption/",
+      "source": "mining.com",
+      "date": "Wed, 01 Jul 2026 15:46:43 +0000"
+    },
+    {
+      "title": "Energy Transition Minerals receives regional approvals for Penouta mine restart in Spain",
+      "link": "https://www.mining.com/energy-transition-minerals-receives-regional-approvals-for-penouta-mine-restart-in-spain/",
+      "source": "mining.com",
+      "date": "Wed, 01 Jul 2026 12:51:45 +0000"
     },
     {
       "title": "Seeing the whole picture: Closing notes from Kazakhstan",
@@ -44,52 +80,16 @@
       "date": "Tue, 30 Jun 2026 23:26:02 +0000"
     },
     {
-      "title": "India�셲 Russian Oil Boom Outlives the Hormuz Shock",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Indias-Russian-Oil-Boom-Outlives-the-Hormuz-Shock.html",
-      "source": "OilPrice",
-      "date": "Tue, 30 Jun 2026 18:00:00 -0500"
-    },
-    {
       "title": "South32 sells nearly all its aluminum business to Alcoa for $5.6B",
       "link": "https://www.mining.com/south32-sells-nearly-all-its-aluminum-business-to-alcoa-for-5-6b/",
       "source": "mining.com",
       "date": "Tue, 30 Jun 2026 22:45:18 +0000"
     },
     {
-      "title": "Australia�셲 Oil and Gas Exploration Set for Renaissance",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Australias-Oil-and-Gas-Exploration-Set-for-Renaissance.html",
-      "source": "OilPrice",
-      "date": "Tue, 30 Jun 2026 17:00:00 -0500"
-    },
-    {
-      "title": "Why a Supply Crunch From Iran Could Send Oil Back Below $40 a Barrel",
-      "link": "https://oilprice.com/Energy/Oil-Prices/Why-a-Supply-Crunch-From-Iran-Could-Send-Oil-Back-Below-40-a-Barrel.html",
-      "source": "OilPrice",
-      "date": "Tue, 30 Jun 2026 16:00:00 -0500"
-    },
-    {
       "title": "Guardian may skip feasibility on $660M Nevada tungsten mine",
       "link": "https://www.mining.com/guardian-may-skip-feasibility-on-660m-nevada-tungsten-mine/",
       "source": "mining.com",
       "date": "Tue, 30 Jun 2026 20:16:43 +0000"
-    },
-    {
-      "title": "Gold price set for worst quarter in 13 years",
-      "link": "https://www.mining.com/gold-price-set-for-worst-quarter-in-13-years/",
-      "source": "mining.com",
-      "date": "Tue, 30 Jun 2026 17:31:34 +0000"
-    },
-    {
-      "title": "Koryx Copper wins analyst support after Namibia assays",
-      "link": "https://www.mining.com/koryx-copper-wins-analyst-support-after-namibia-assays/",
-      "source": "mining.com",
-      "date": "Tue, 30 Jun 2026 16:31:59 +0000"
-    },
-    {
-      "title": "PH7 secures C$5M from Natural Resources Canada for copper extraction technology",
-      "link": "https://www.mining.com/ph7-secures-c5m-from-natural-resources-canada-for-copper-extraction-technology/",
-      "source": "mining.com",
-      "date": "Tue, 30 Jun 2026 16:09:58 +0000"
     }
   ]
 }

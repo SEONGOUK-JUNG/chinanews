@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-07-01T20:14:49.398054+09:00",
+  "updated_at_kst": "2026-07-02T07:11:31+09:00",
   "ref_date": "2026-07-01",
   "schema_version": "1.0",
   "adjustment_applied": true,
@@ -534,8 +534,8 @@
     {
       "display_name": "마그네슘",
       "sector": "비철금속",
-      "price_prev": 15883.28,
-      "price_today": 15883.28,
+      "price_prev": 15883.29,
+      "price_today": 15883.29,
       "change_pct": 0.0
     },
     {
@@ -919,8 +919,8 @@
     {
       "display_name": "테릴렌POY",
       "sector": "방직",
-      "price_prev": 8254.12,
-      "price_today": 8254.12,
+      "price_prev": 8254.13,
+      "price_today": 8254.13,
       "change_pct": 0.0
     },
     {
@@ -1255,8 +1255,8 @@
     {
       "display_name": "테트라페라오렌",
       "sector": "화학공업",
-      "price_prev": 11891.62,
-      "price_today": 11891.62,
+      "price_prev": 11891.63,
+      "price_today": 11891.63,
       "change_pct": 0.0
     },
     {
@@ -1353,8 +1353,8 @@
     {
       "display_name": "나일론 POY",
       "sector": "방직",
-      "price_prev": 13656.82,
-      "price_today": 13656.82,
+      "price_prev": 13656.83,
+      "price_today": 13656.83,
       "change_pct": 0.0
     },
     {
@@ -2607,7 +2607,7 @@
       "display_name": "아연도금판",
       "sector": "철강",
       "price_prev": 4166.67,
-      "price_today": 4164.16,
+      "price_today": 4164.17,
       "change_pct": -0.06
     },
     {
@@ -2837,7 +2837,7 @@
     {
       "display_name": "냉간압연판",
       "sector": "철강",
-      "price_prev": 3789.01,
+      "price_prev": 3789.02,
       "price_today": 3769.01,
       "change_pct": -0.53
     },
