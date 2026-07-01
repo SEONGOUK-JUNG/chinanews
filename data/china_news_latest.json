@@ -1,45 +1,69 @@
 {
-  "run_at_kst": "2026-06-30T14:15:00.875808+09:00",
+  "run_at_kst": "2026-07-01T14:17:41+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "성장률 낮아진 중국, 백만장자 증가율 세계 평균 크게 밑돌아",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16eW9keU5QbU5nRUNvRDRRUTlIMURpX1JZMDNmaHU3aFJxRFktenlLNXMtajhoRDBtX2lpLW1uNGxvSTAtMy1tRzRLcXhUWWc?oc=5",
+      "source": "v.daum.net",
+      "date": "Wed, 01 Jul 2026 02:33:06 GMT"
+    },
+    {
+      "title": "세계 2위 경제대국 中, ‘개도국 차입국’ 지위 막 내리나",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTUpCSXNjTVZQSnkta0FqOG1TZDNMMW9UcXdZUVNiV0NKUGttQVBKdGJxeURrTEpDOEswNWRmcHZYVktKWWpqUnFRN3VBS1RnOENyMlR1R2tZanFHT1V1UVRkWnBRZGNJVXFFRkw5LUEwcGRJZjY0cy1BdnRlSW5iTEZ1TnhZMzBf?oc=5",
+      "source": "글로벌이코노믹",
+      "date": "Tue, 30 Jun 2026 23:12:55 GMT"
+    },
+    {
+      "title": "일본 이어 중국까지.. 엘포인트 경제권 확대",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqZFdSUjgzZ3pFUVRaZDRVTDRyM1VVaGtGZks2UkVId05jTkFVSWthbTNSTW9SM0o3VVdwT0VJOTMxcTlaWXZHYkFYd0FWb0puRU4zZ2EyUEliUdIBVEFVX3lxTE14dGZfMHYtLUJlZ3FCdFh1b1BTZGRpcVp6ek95U3c4b3N3Y0FpY0tyVEVqSFZ0WWpwX1Z3cjU2NUhwUGQxUnpoeWdjVXJHdFpsd3pieA?oc=5",
+      "source": "한국경제",
+      "date": "Tue, 30 Jun 2026 21:03:24 GMT"
+    },
+    {
+      "title": "[이슈체크] 애플 \"저렴한 중국 메모리 쓸래\"…칩플레이션에 '삼전닉스' 버리나?",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aSkkzSDZ4Wk5JMDF2ZWZlQ25NVXdkVTFsSUpIRWpoLVowMnpmWFBSbTRkWFZnQ2V3ekt6cWF1REdqWVQ2ZmFXTWJxTWdTcG8?oc=5",
+      "source": "v.daum.net",
+      "date": "Tue, 30 Jun 2026 09:37:10 GMT"
+    },
+    {
+      "title": "[숏폼뉴스] 기준금리와 환율로 보는 한국•중국•일본",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GbXhCVUNHbHJpbThEM0ZEU0xLZ3FHcy1ncHZzdTIxRW1waUVFYzQ5R2ROemxraV81akl2NFFjdzQ5NFJNQWN6OVRqZHc3bVBiR3ozTS0zajNSMFYxRW1jaEtaU1ZaWDlURDVyVkYyTQ?oc=5",
+      "source": "기호일보",
+      "date": "Tue, 30 Jun 2026 07:54:14 GMT"
+    },
+    {
+      "title": "이란 전쟁 최대 승자는 중국?…미국 경제도 피해 사정권",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIV0hpMkZsSmY5Rlgtem9ydFE2eElucW5KWGVKVS1OTmZzLURlX3N5QnZ3RTZhMzZ3cHN3QkhRdDRlVko0azFvU1gzOFRFN1U?oc=5",
+      "source": "v.daum.net",
+      "date": "Tue, 30 Jun 2026 06:27:18 GMT"
+    },
+    {
+      "title": "‘등산 친구’ 4만원, 노인 병원 수행 5만원…중국의 ‘동행 경제’",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15YnRIZmpjV2FrTXVNODlnYkNYWWdiUm12TTlhbTQ3SEU2NEhiakNjaFNIOWluczhmVEdlYmhLWUVxRXlNYVBFbHhLRTc4aWdCd2lZSWduYUdobWQ5Yl8xZzgzQ2ZDckM2Z092Rw?oc=5",
+      "source": "한겨레",
+      "date": "Tue, 30 Jun 2026 05:14:00 GMT"
+    },
+    {
+      "title": "'무역 갈등' EU·중국, 10월까지 해법 찾기로",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAybG56Q3FpUU1ObzN1M2RHNld3Tjl3Qy1odWhjeHRjc1JkblQwbUdVcjBTV0t4dndNWVJoUGpEOWlmYkVRVDFtV3J1M2N6eHdBdjNhMHhyQl9NQXg4LUN5M3hLQQ?oc=5",
+      "source": "더구루",
+      "date": "Tue, 30 Jun 2026 04:57:08 GMT"
+    },
+    {
       "title": "중국 제조업 체감 경기 확장세인데…불안한 내수 부진[e차이나]",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3UXJ2Q09OeU5oYk1QSWxnN3l2N1cyVXhzdlA0NDlwV2ljMGZwVi1FREtmZk1saDI3UFVYMjFxNlVERTVVbE9ZanNPc21laFFDWGFn?oc=5",
-      "source": "네이트",
-      "date": "Tue, 30 Jun 2026 03:08:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPXzR0QTh4YzRWUURveksycmVRVXJRc3VZYWJNZGVoSmZmMmU0bEwydTliVTV5dlR2bm5IM2pZOU1xeTY5UHBGcUVucUp6ZUJvVmNCM3lfcDltd1p0Wm5oRC1XNzdCZjBvY0RhRzI0azVjd0I2eGVmUnBTLXpidXg2RQ?oc=5",
+      "source": "이데일리",
+      "date": "Tue, 30 Jun 2026 03:06:51 GMT"
     },
     {
       "title": "차이나베이지북 \"중국 경제 6월 회복조짐…대미 수출 등 견인\"",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxQVhEVTR0UEhjVjNhX3ZqODczcUFtbk5VYkZLcEVOVkl6cEpvVTJWTFk1dEk4UmxMdE1EbkEwMFZQLXRBY1JoclpscXNTVnB2bms0QnRhTnpJZ2ctNVB1WdIBeEFVX3lxTE4zZFMzOWhGb01uVXJRSk4tNWFjbF9rS1huTFhMQlhfZ1VOcGJRSzhJYUViTDR0ZV9IRUYxMUUxMlFrbjEwSm1KQk9fVWFTTGh0dXhEZF9HNF9BMzlSWnl5LU1waEJiUW5zOVdza3dtZ3JuYzFZcEc4Qg?oc=5",
       "source": "뉴시스",
       "date": "Tue, 30 Jun 2026 02:26:23 GMT"
-    },
-    {
-      "title": "[중국 뉴스 브리핑] 2026년 6월 30일",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBockJlSWFWQWdtX3BOcmVZbk1YZHVhMjgyZ3VuZUR6OUFoZzhwdUNQLTVILWxLNklWOFIzbjQxUFEySDZ2MW1mYjY4Q1VQcnlhZzRNTEdPZTRiTjQ3SVVnZ1dzTDJSVktLaVE?oc=5",
-      "source": "인민망 한국어판",
-      "date": "Tue, 30 Jun 2026 02:01:00 GMT"
-    },
-    {
-      "title": "호르무즈 대란 최대 수혜자는 중국‥태양광·전기차 '반사이익'",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QcXpkVGtIUXdyYzNoUXZMV3UzR3NDVTFFaHJGYWUtRlFZZTBBZ3FOamNHa0QtZWJqV0lEWWpIeFZraTRKc3NRN3AyU2hISkJhVjJoWmFIRURNamZvektfUnJfNWFKOGEzVEY0THIwWElOU01y0gF0QVVfeXFMT0dGQ1NibkJSMXZDZ24xdlJILUR0TXhtVV9qOTRQWnBWbC1JTnRiNEpWLTRtb25MSmdsQ1dxa3VIdmhrbjBtdFd6S3VFYVJfc0E1OHU3dkh6ejNIRkJUaWpkd1kzQ2lIY3pZYThaU3BoOU1NZmU?oc=5",
-      "source": "MBC 뉴스",
-      "date": "Tue, 30 Jun 2026 01:41:39 GMT"
-    },
-    {
-      "title": "호르무즈 봉쇄 사태 최대 수혜자는 중국…'안정적인 경제 파트너' 이미지 강화",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ2N6ZnB0eDQ5Q2VCZVJBYzVGRmx6TlUxWkhZWTRibjhSZWh6Tk81V1BRZmw4NkhadzkzRHFERUZxcDZRa2FodXpUYTJsZXpCVkVwNjJXUVdyNGpQYXFQWXdqVjRKQ25RSmkxbDNlRWpnUGdGUm9rYkd0N1lJUENUMFZubTk5UnN2YktF?oc=5",
-      "source": "국제신문",
-      "date": "Tue, 30 Jun 2026 01:34:00 GMT"
-    },
-    {
-      "title": "중국의 신발전 이념…한국의 생존전략은 [조평규의 중국 본색]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EWVgwTG1YQUVIQnFGZ0ZBdHVqQnE2Nm5DYWRtN1M1NTVHOWJWNmdkZVBLT3pHeUs5RVdKQ09XV1d0ZmVlSUc3eTVPWHBRdE1wOVVGbzgydll3Zw?oc=5",
-      "source": "한국경제",
-      "date": "Mon, 29 Jun 2026 21:30:03 GMT"
     },
     {
       "title": "EU·중국, 무역 갈등 해소 위한 10월 시한 합의",
@@ -49,33 +73,9 @@
     },
     {
       "title": "'대차대조표 불황' 창시한 日학자 \"중국경제 여전히 위험\"",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16NDVwakluWlRlVHJWdzN4NW1yVGhiR0tHWGZHbjdDUW0ydUtmRzJWYzNYMW1adFdYYXdzUW1nQ2JoQjd0YVpoenBhdmlYM3M?oc=5",
-      "source": "v.daum.net",
-      "date": "Mon, 29 Jun 2026 09:00:00 GMT"
-    },
-    {
-      "title": "중국은 올 하반기 디플레 우려 벗어날까…한은 북경사무소 “물가동향 주목”",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16bjJnaFlBVzVfR0tnNG0yNjFXR05mczZrbjVXdV9aQWFtMk0wZGlQMDNIa21qX1FLNGdVTGVoN2J1WmFzTmlBVUVsY2NyNVZlVzFoYlpPdnBiQdIBX0FVX3lxTFAwTkxyTnRkUC1ldGFCeTR2VDZMeEdPaHRhTGxyY24xdjkxcVRZUkYzQkI3dnoxUzc4SGlZWUp4QzE3di1rS2RSOTE1VGVYVm1hekVMRS1wUWFUcnJxMmFN?oc=5",
-      "source": "경향신문",
-      "date": "Mon, 29 Jun 2026 09:00:00 GMT"
-    },
-    {
-      "title": "“안팎 리스크 쌓여가는 중국 경제, 하반기 성장폭 둔화”",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVGVRLTNFUWNIMzlzaWpZbnRXSW9JOXdHMkE0eGFJX1FzNnU3SVl0Zzl5bGFSMXFrdjNnNEJELWFIc2lwLXJfeVVFX0VWMi00X2ZVVWdOSHdJaUFzdklNZ3hFZDRPUHpYMWJ5RU1mVnVlRnFYSjVnVGRqRmV1Z2Q1Vw?oc=5",
-      "source": "이데일리",
-      "date": "Mon, 29 Jun 2026 08:10:31 GMT"
-    },
-    {
-      "title": "중국 “EU는 규칙 위반자” 정면 비판...무역 갈등 강경 기조 시사",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYTDduM3NzNEdfVFRNVmRBS3dHOFBQVVpHT0ttakFmNGN3Q1RSbVphQnY1dXhXMXZJUHdJcUJCVktxTm9ubGJWbUNrZGEzMy1yYjF1UFdHQjBkRWFjU1JFNlphVQ?oc=5",
-      "source": "더구루",
-      "date": "Mon, 29 Jun 2026 05:39:37 GMT"
-    },
-    {
-      "title": "“수십년 디플레 일본 없지만, 한국엔 하이닉스 있어” 중국 전문가의 경고",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41Q0RFcDY4V2lBZllPRTFBc0NLV1VkVGEtWXVmdlRuQkhCRnlTVGI1NTdaRG5SRzUxOHZ3RmxNd1pydk1la040UHBGUXprMzNNcjRxN05QYVR3cWFVRG9QZjF2S3V6bEdRajZRaw?oc=5",
-      "source": "한겨레",
-      "date": "Sun, 28 Jun 2026 08:44:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jQ0trSmZjTGcybzRvcVFGWkdRaW5qLW1rT2E1b1JudUk0ZU9iVzRtelVkTkJZVnVtQTN4RjRlS0RIVVM0QWZDbXlrVG9SLWdoM0tN?oc=5",
+      "source": "네이트",
+      "date": "Mon, 29 Jun 2026 09:02:00 GMT"
     }
   ]
 }
