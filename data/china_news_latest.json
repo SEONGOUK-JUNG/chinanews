@@ -1,15 +1,33 @@
 {
-  "run_at_kst": "2026-07-01T14:17:41+09:00",
+  "run_at_kst": "2026-07-01T20:18:48.392732+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "성장률 낮아진 중국, 백만장자 증가율 세계 평균 크게 밑돌아",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16eW9keU5QbU5nRUNvRDRRUTlIMURpX1JZMDNmaHU3aFJxRFktenlLNXMtajhoRDBtX2lpLW1uNGxvSTAtMy1tRzRLcXhUWWc?oc=5",
+      "title": "[아시아권 뉴스] 중국 경제, 로봇은 공장으로 들어가고 서비스업은 디지털로 버틴다",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CcnpIVGFhcEZHc0toWnQ0VnhyT2U1WmtGckY0SmRTWTE4Qi1QbEFMUndJVTZmeExVTDc5aHBVa092ZEJ2SGppRkVFTWVlRWMxTTdj?oc=5",
+      "source": "네이트",
+      "date": "Wed, 01 Jul 2026 08:33:00 GMT"
+    },
+    {
+      "title": "세계은행, 대중국 대출 종료 수순…“세계 2위 경제대국인데 왜” 美 압박 통했나",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50UV8wT3pLSVF3Mm41NDVHVVN2RXhPZDhJanVaRzBCZzJHTmYxb0FGbGZqai13OXFUYS1QNnBVeEdKMFo3Ml9iQ1N2Z0VOaUk?oc=5",
       "source": "v.daum.net",
-      "date": "Wed, 01 Jul 2026 02:33:06 GMT"
+      "date": "Wed, 01 Jul 2026 06:41:03 GMT"
+    },
+    {
+      "title": "세계은행, 대중국 대출 종료 수순…“세계 2위 경제대국인데 왜” 美 압박 통했나",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpV3F3UFVmQTRBNjU2SnF3b0t3Wko0TmJ2cDFMWVNSUGlGb0MyQXRHVGFPMHBEeUlwSUJjSklQd3VrM1VMdmdNaUNneTlsUjN1MVJ5WVl3?oc=5",
+      "source": "중앙일보",
+      "date": "Wed, 01 Jul 2026 06:39:18 GMT"
+    },
+    {
+      "title": "\"아파트 너무 많이 지었다\"…'유령도시' 전락한 中신도시",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkMVdGemc3b01YTGVQdmc1QVFsWkRaWS1naV9XelFXanljSlRXYjA3QjVnZmdhcjRKSGxfY2l1UXltN1R0anNWcy1fX2IyWGgtZXc1ZDc0b19kZ9IBVEFVX3lxTE5jUlM2QWNLbEI0dl9fM1JQQ0JQcEs4bVFPNmZvSnRCVy1CMnk4enJPbmgyUEY5N2p3LU1vdFJSU1E3b1dWM3AxdkZIYTFrcm1Mc29kaQ?oc=5",
+      "source": "한국경제",
+      "date": "Wed, 01 Jul 2026 03:31:59 GMT"
     },
     {
       "title": "세계 2위 경제대국 中, ‘개도국 차입국’ 지위 막 내리나",
@@ -24,18 +42,6 @@
       "date": "Tue, 30 Jun 2026 21:03:24 GMT"
     },
     {
-      "title": "[이슈체크] 애플 \"저렴한 중국 메모리 쓸래\"…칩플레이션에 '삼전닉스' 버리나?",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aSkkzSDZ4Wk5JMDF2ZWZlQ25NVXdkVTFsSUpIRWpoLVowMnpmWFBSbTRkWFZnQ2V3ekt6cWF1REdqWVQ2ZmFXTWJxTWdTcG8?oc=5",
-      "source": "v.daum.net",
-      "date": "Tue, 30 Jun 2026 09:37:10 GMT"
-    },
-    {
-      "title": "[숏폼뉴스] 기준금리와 환율로 보는 한국•중국•일본",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GbXhCVUNHbHJpbThEM0ZEU0xLZ3FHcy1ncHZzdTIxRW1waUVFYzQ5R2ROemxraV81akl2NFFjdzQ5NFJNQWN6OVRqZHc3bVBiR3ozTS0zajNSMFYxRW1jaEtaU1ZaWDlURDVyVkYyTQ?oc=5",
-      "source": "기호일보",
-      "date": "Tue, 30 Jun 2026 07:54:14 GMT"
-    },
-    {
       "title": "이란 전쟁 최대 승자는 중국?…미국 경제도 피해 사정권",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIV0hpMkZsSmY5Rlgtem9ydFE2eElucW5KWGVKVS1OTmZzLURlX3N5QnZ3RTZhMzZ3cHN3QkhRdDRlVko0azFvU1gzOFRFN1U?oc=5",
       "source": "v.daum.net",
@@ -48,34 +54,28 @@
       "date": "Tue, 30 Jun 2026 05:14:00 GMT"
     },
     {
-      "title": "'무역 갈등' EU·중국, 10월까지 해법 찾기로",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAybG56Q3FpUU1ObzN1M2RHNld3Tjl3Qy1odWhjeHRjc1JkblQwbUdVcjBTV0t4dndNWVJoUGpEOWlmYkVRVDFtV3J1M2N6eHdBdjNhMHhyQl9NQXg4LUN5M3hLQQ?oc=5",
-      "source": "더구루",
-      "date": "Tue, 30 Jun 2026 04:57:08 GMT"
-    },
-    {
-      "title": "중국 제조업 체감 경기 확장세인데…불안한 내수 부진[e차이나]",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPXzR0QTh4YzRWUURveksycmVRVXJRc3VZYWJNZGVoSmZmMmU0bEwydTliVTV5dlR2bm5IM2pZOU1xeTY5UHBGcUVucUp6ZUJvVmNCM3lfcDltd1p0Wm5oRC1XNzdCZjBvY0RhRzI0azVjd0I2eGVmUnBTLXpidXg2RQ?oc=5",
-      "source": "이데일리",
-      "date": "Tue, 30 Jun 2026 03:06:51 GMT"
-    },
-    {
-      "title": "차이나베이지북 \"중국 경제 6월 회복조짐…대미 수출 등 견인\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxQVhEVTR0UEhjVjNhX3ZqODczcUFtbk5VYkZLcEVOVkl6cEpvVTJWTFk1dEk4UmxMdE1EbkEwMFZQLXRBY1JoclpscXNTVnB2bms0QnRhTnpJZ2ctNVB1WdIBeEFVX3lxTE4zZFMzOWhGb01uVXJRSk4tNWFjbF9rS1huTFhMQlhfZ1VOcGJRSzhJYUViTDR0ZV9IRUYxMUUxMlFrbjEwSm1KQk9fVWFTTGh0dXhEZF9HNF9BMzlSWnl5LU1waEJiUW5zOVdza3dtZ3JuYzFZcEc4Qg?oc=5",
-      "source": "뉴시스",
-      "date": "Tue, 30 Jun 2026 02:26:23 GMT"
-    },
-    {
-      "title": "EU·중국, 무역 갈등 해소 위한 10월 시한 합의",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GX2FfcVNIZGhIanlKa2lBYmRZSXpMeDFLelhrLXY5cE5IbXhLWEliNm5RNm9xVWptUHZvZmNvQmxEQ2ZkaXdKdF9DNWZWbGFFdEtsRThlX053WmF3Q3drZ1FYU05jUDRMdVE?oc=5",
-      "source": "Investing.com 한국어",
-      "date": "Mon, 29 Jun 2026 17:48:00 GMT"
+      "title": "중국은 올 하반기 디플레 우려 벗어날까…한은 북경사무소 “물가동향 주목”",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56VGk0WjBWZ1YxTTJWMnZWU3lNa3BhUXBOTFM1czRzMEVJOU5TdjdmQndFS01XaUR1ZnBwenpMN1hqaFNyT1U4dzcwR0VFTDQ?oc=5",
+      "source": "v.daum.net",
+      "date": "Mon, 29 Jun 2026 09:01:00 GMT"
     },
     {
       "title": "'대차대조표 불황' 창시한 日학자 \"중국경제 여전히 위험\"",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jQ0trSmZjTGcybzRvcVFGWkdRaW5qLW1rT2E1b1JudUk0ZU9iVzRtelVkTkJZVnVtQTN4RjRlS0RIVVM0QWZDbXlrVG9SLWdoM0tN?oc=5",
-      "source": "네이트",
-      "date": "Mon, 29 Jun 2026 09:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16NDVwakluWlRlVHJWdzN4NW1yVGhiR0tHWGZHbjdDUW0ydUtmRzJWYzNYMW1adFdYYXdzUW1nQ2JoQjd0YVpoenBhdmlYM3M?oc=5",
+      "source": "v.daum.net",
+      "date": "Mon, 29 Jun 2026 09:00:00 GMT"
+    },
+    {
+      "title": "'대차대조표 불황' 창시한 日학자 \"중국경제 여전히 위험\"",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwN1pUbDdvUFJ6bF9pRVFHTFdHSGc0MkJ6TWl5eDFnR1M1UEppLWpCM001T2RzRnJGWDdMQXdmeDdKdzhkQTBha1lSTQ?oc=5",
+      "source": "v.daum.net",
+      "date": "Mon, 29 Jun 2026 09:00:00 GMT"
+    },
+    {
+      "title": "“수십년 디플레 일본 없지만, 한국엔 하이닉스 있어” 중국 전문가의 경고",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41Q0RFcDY4V2lBZllPRTFBc0NLV1VkVGEtWXVmdlRuQkhCRnlTVGI1NTdaRG5SRzUxOHZ3RmxNd1pydk1la040UHBGUXprMzNNcjRxN05QYVR3cWFVRG9QZjF2S3V6bEdRajZRaw?oc=5",
+      "source": "한겨레",
+      "date": "Sun, 28 Jun 2026 08:44:00 GMT"
     }
   ]
 }

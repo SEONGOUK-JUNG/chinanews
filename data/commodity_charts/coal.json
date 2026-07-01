@@ -2,8 +2,8 @@
   "id": "coal",
   "name": "석탄",
   "unit": "CNY/t",
-  "updated_at_kst": "2026-07-01T14:18:36+09:00",
-  "count": 43,
+  "updated_at_kst": "2026-07-01T20:21:00.227170+09:00",
+  "count": 44,
   "candles": [
     {
       "time": "2025-08-01",
@@ -176,6 +176,10 @@
     {
       "time": "2026-06-30",
       "value": 860.61
+    },
+    {
+      "time": "2026-07-01",
+      "value": 853.1
     }
   ],
   "history_note": "Pre-2026-05: monthly observations (month-start/end). From late May 2026: daily.",

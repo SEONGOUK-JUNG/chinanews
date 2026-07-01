@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-01T14:15:11+09:00",
+  "run_at_kst": "2026-07-01T20:18:48.392732+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Goldman Sachs Warns Oil Inventory Rebuild Won�셳 Prevent 2027 Supply Glut",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Warns-Oil-Inventory-Rebuild-Wont-Prevent-2027-Supply-Glut.html",
+      "source": "OilPrice",
+      "date": "Wed, 01 Jul 2026 04:30:00 -0500"
+    },
+    {
+      "title": "America Bets $50 Billion on Coal and Gas Power as Electricity Demand Soars",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/America-Bets-50-Billion-on-Coal-and-Gas-Power-as-Electricity-Demand-Soars.html",
+      "source": "OilPrice",
+      "date": "Wed, 01 Jul 2026 03:30:00 -0500"
+    },
+    {
+      "title": "Shell Offloads 50% Stake in Na Kika Platform for $1.7 Billion",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Shell-Offloads-50-Stake-in-Na-Kika-Platform-for-17-Billion.html",
+      "source": "OilPrice",
+      "date": "Wed, 01 Jul 2026 02:15:00 -0500"
+    },
+    {
+      "title": "Oil Prices Reflect Optimism That Hormuz Has Yet to Justify",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Reflect-Optimism-That-Hormuz-Has-Yet-to-Justify.html",
+      "source": "OilPrice",
+      "date": "Wed, 01 Jul 2026 01:00:00 -0500"
+    },
     {
       "title": "The AI Revolution Needs Electricity More Than Intelligence",
       "link": "https://oilprice.com/Energy/Energy-General/The-AI-Revolution-Needs-Electricity-More-Than-Intelligence.html",
@@ -20,7 +44,7 @@
       "date": "Tue, 30 Jun 2026 23:26:02 +0000"
     },
     {
-      "title": "India’s Russian Oil Boom Outlives the Hormuz Shock",
+      "title": "India�셲 Russian Oil Boom Outlives the Hormuz Shock",
       "link": "https://oilprice.com/Energy/Crude-Oil/Indias-Russian-Oil-Boom-Outlives-the-Hormuz-Shock.html",
       "source": "OilPrice",
       "date": "Tue, 30 Jun 2026 18:00:00 -0500"
@@ -32,7 +56,7 @@
       "date": "Tue, 30 Jun 2026 22:45:18 +0000"
     },
     {
-      "title": "Australia’s Oil and Gas Exploration Set for Renaissance",
+      "title": "Australia�셲 Oil and Gas Exploration Set for Renaissance",
       "link": "https://oilprice.com/Energy/Crude-Oil/Australias-Oil-and-Gas-Exploration-Set-for-Renaissance.html",
       "source": "OilPrice",
       "date": "Tue, 30 Jun 2026 17:00:00 -0500"
@@ -44,34 +68,10 @@
       "date": "Tue, 30 Jun 2026 16:00:00 -0500"
     },
     {
-      "title": "US Crude Oil Inventories Keep Falling As Hormuz Flows Slow To Start",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Keep-Falling-As-Hormuz-Flows-Slow-To-Start.html",
-      "source": "OilPrice",
-      "date": "Tue, 30 Jun 2026 15:57:32 -0500"
-    },
-    {
       "title": "Guardian may skip feasibility on $660M Nevada tungsten mine",
       "link": "https://www.mining.com/guardian-may-skip-feasibility-on-660m-nevada-tungsten-mine/",
       "source": "mining.com",
       "date": "Tue, 30 Jun 2026 20:16:43 +0000"
-    },
-    {
-      "title": "China’s Energy Future Runs on Coal and Solar",
-      "link": "https://oilprice.com/Energy/Energy-General/Chinas-Energy-Future-Runs-on-Coal-and-Solar.html",
-      "source": "OilPrice",
-      "date": "Tue, 30 Jun 2026 15:00:00 -0500"
-    },
-    {
-      "title": "Nigeria Unveils World-Class Critical Minerals Discovery",
-      "link": "https://oilprice.com/Metals/Commodities/Nigeria-Unveils-World-Class-Critical-Minerals-Discovery.html",
-      "source": "OilPrice",
-      "date": "Tue, 30 Jun 2026 14:00:00 -0500"
-    },
-    {
-      "title": "The Oil Benchmark Named Brent Is Losing Its Brent",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/The-Oil-Benchmark-Named-Brent-Is-Losing-Its-Brent.html",
-      "source": "OilPrice",
-      "date": "Tue, 30 Jun 2026 13:30:00 -0500"
     },
     {
       "title": "Gold price set for worst quarter in 13 years",
