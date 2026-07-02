@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-02T14:14:20.923994+09:00",
+  "run_at_kst": "2026-07-02T20:15:20.081972+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
+      "title": "Japanese Banks Commit $496 Million to India's Power Grid Expansion",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japanese-Banks-Commit-496-Million-to-Indias-Power-Grid-Expansion.html",
+      "date": "Thu, 02 Jul 2026 06:05:06 -0500",
+      "source": "OilPrice"
+    },
+    {
+      "title": "Saudi Arabia Rushes Crude Exports Through Reopened Strait of Hormuz",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Rushes-Crude-Exports-Through-Reopened-Strait-of-Hormuz.html",
+      "date": "Thu, 02 Jul 2026 05:00:00 -0500",
+      "source": "OilPrice"
+    },
+    {
+      "title": "AI Boom Drives Record Surge in Battery Demand",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/AI-Boom-Drives-Record-Surge-in-Battery-Demand.html",
+      "date": "Thu, 02 Jul 2026 04:07:51 -0500",
+      "source": "OilPrice"
+    },
+    {
+      "title": "Chinese Teapots Snap Up Middle East Crude As Prices Slide",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinese-Teapots-Snap-Up-Middle-East-Crude-As-Prices-Slide.html",
+      "date": "Thu, 02 Jul 2026 03:19:14 -0500",
+      "source": "OilPrice"
+    },
+    {
+      "title": "EU Bows to Tech Lobby, Drops Ten-Year Renewables Rule for Data Centers",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Bows-to-Tech-Lobby-Drops-Ten-Year-Renewables-Rule-for-Data-Centers.html",
+      "date": "Thu, 02 Jul 2026 02:01:14 -0500",
+      "source": "OilPrice"
+    },
+    {
+      "title": "Iran Exports Crude at 20% Premium Even as Unsold Barrels Pile Up at Sea",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Exports-Crude-at-20-Premium-Even-as-Unsold-Barrels-Pile-Up-at-Sea.html",
+      "date": "Thu, 02 Jul 2026 01:03:54 -0500",
+      "source": "OilPrice"
+    },
+    {
       "title": "5 Under-the-Radar Stocks Fueling the AI Revolution",
       "link": "https://oilprice.com/Energy/Energy-General/5-Under-the-Radar-Stocks-Fueling-the-AI-Revolution.html",
-      "source": "OilPrice",
-      "date": "Wed, 01 Jul 2026 19:00:00 -0500"
+      "date": "Wed, 01 Jul 2026 19:00:00 -0500",
+      "source": "OilPrice"
     },
     {
       "title": "Trump Targets California Again In SpaceX Feud",
       "link": "https://oilprice.com/Energy/Energy-General/Trump-Targets-California-Again-In-SpaceX-Feud.html",
-      "source": "OilPrice",
-      "date": "Wed, 01 Jul 2026 18:00:00 -0500"
-    },
-    {
-      "title": "Wall Street Is Pivoting From Solar To Solar Plus Storage",
-      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Wall-Street-Is-Pivoting-From-Solar-To-Solar-Plus-Storage.html",
-      "source": "OilPrice",
-      "date": "Wed, 01 Jul 2026 17:00:00 -0500"
-    },
-    {
-      "title": "The Hydrogen Industry's Efficiency Problem May Have Just Met Its Fix",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Hydrogen-Industrys-Efficiency-Problem-May-Have-Just-Met-Its-Fix.html",
-      "source": "OilPrice",
-      "date": "Wed, 01 Jul 2026 16:00:00 -0500"
-    },
-    {
-      "title": "How the U.S. and U.K. Are Redrawing Syria's Energy Map",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/How-the-US-and-UK-Are-Redrawing-Syrias-Energy-Map.html",
-      "source": "OilPrice",
-      "date": "Wed, 01 Jul 2026 15:00:00 -0500"
-    },
-    {
-      "title": "Same Fear, Different Fallout: Oil and Gold's Diverging Collapse",
-      "link": "https://oilprice.com/Energy/Energy-General/Same-Fear-Different-Fallout-Oil-and-Golds-Diverging-Collapse.html",
-      "source": "OilPrice",
-      "date": "Wed, 01 Jul 2026 14:00:00 -0500"
-    },
-    {
-      "title": "Russia's Security and Trade Blocs Show Signs of Fracturing",
-      "link": "https://oilprice.com/Geopolitics/Europe/Russias-Security-and-Trade-Blocs-Show-Signs-of-Fracturing.html",
-      "source": "OilPrice",
-      "date": "Wed, 01 Jul 2026 13:00:00 -0500"
-    },
-    {
-      "title": "KKR Makes Largest Ever Clean Energy Investment With $4.2B EDF Purchase",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/KKR-Makes-Largest-Ever-Clean-Energy-Investment-With-42B-EDF-Purchase.html",
-      "source": "OilPrice",
-      "date": "Wed, 01 Jul 2026 12:30:00 -0500"
+      "date": "Wed, 01 Jul 2026 18:00:00 -0500",
+      "source": "OilPrice"
     },
     {
       "title": "GreenMet plans $150M rare earth processing hub in West Virginia",
       "link": "https://www.mining.com/greenmet-plans-150m-rare-earth-processing-hub-in-west-virginia/",
-      "source": "mining.com",
-      "date": "Wed, 01 Jul 2026 16:36:44 +0000"
+      "date": "Wed, 01 Jul 2026 16:36:44 +0000",
+      "source": "mining.com"
     },
     {
       "title": "Cameco shuts Cigar Lake mine on Orano mill disruption",
       "link": "https://www.mining.com/cameco-shuts-cigar-lake-mine-on-orano-mill-disruption/",
-      "source": "mining.com",
-      "date": "Wed, 01 Jul 2026 15:46:43 +0000"
+      "date": "Wed, 01 Jul 2026 15:46:43 +0000",
+      "source": "mining.com"
     },
     {
       "title": "Energy Transition Minerals receives regional approvals for Penouta mine restart in Spain",
       "link": "https://www.mining.com/energy-transition-minerals-receives-regional-approvals-for-penouta-mine-restart-in-spain/",
-      "source": "mining.com",
-      "date": "Wed, 01 Jul 2026 12:51:45 +0000"
+      "date": "Wed, 01 Jul 2026 12:51:45 +0000",
+      "source": "mining.com"
     },
     {
       "title": "Seeing the whole picture: Closing notes from Kazakhstan",
       "link": "https://www.mining.com/seeing-the-whole-picture-closing-notes-from-kazakhstan/",
-      "source": "mining.com",
-      "date": "Tue, 30 Jun 2026 23:26:02 +0000"
+      "date": "Tue, 30 Jun 2026 23:26:02 +0000",
+      "source": "mining.com"
     },
     {
       "title": "South32 sells nearly all its aluminum business to Alcoa for $5.6B",
       "link": "https://www.mining.com/south32-sells-nearly-all-its-aluminum-business-to-alcoa-for-5-6b/",
-      "source": "mining.com",
-      "date": "Tue, 30 Jun 2026 22:45:18 +0000"
+      "date": "Tue, 30 Jun 2026 22:45:18 +0000",
+      "source": "mining.com"
     },
     {
       "title": "Guardian may skip feasibility on $660M Nevada tungsten mine",
       "link": "https://www.mining.com/guardian-may-skip-feasibility-on-660m-nevada-tungsten-mine/",
-      "source": "mining.com",
-      "date": "Tue, 30 Jun 2026 20:16:43 +0000"
+      "date": "Tue, 30 Jun 2026 20:16:43 +0000",
+      "source": "mining.com"
     }
   ]
 }
