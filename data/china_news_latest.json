@@ -1,27 +1,27 @@
 {
-  "run_at_kst": "2026-07-02T07:17:23+09:00",
+  "run_at_kst": "2026-07-02T14:14:20.923994+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "“이란 재건시장 열려…이대로 두면 중국이 독식”",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12VVdnU0tyVWVTd0lyYVRIRWQ3Q0pmMnd1UzExcUxCTEtDWHBTTXdLem1PZngybkR3Y0prQVhFbkFEOGs2N1JhaXh4TjMyMndwV2hSUEVR?oc=5",
-      "source": "중앙일보",
-      "date": "Wed, 01 Jul 2026 15:16:00 GMT"
+      "title": "전 칭화대 교수, 중국 경제 비판 강연 중 경찰 출동",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGc1Z2dEllYVFmRm5hcXQyN0owMDZhaGJmenUyR2xma0YtbGJmYnV3UU1hN0xnVUZ6ZksxM09LWFhNSTFfMndiT3ZQdXdtVk9LNi15NFBsZmVSTlE?oc=5",
+      "source": "KBS 뉴스",
+      "date": "Thu, 02 Jul 2026 04:14:00 GMT"
     },
     {
       "title": "[이우탁의 인사이트] '호남 반도체'의 미래...中 푸둥이 될까, 새만금이 될까",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzWTJsUHpNQzFHRHZhclRIcFotazJVYVczd185eXhGanFLMTFHZ0V2ajhMWXFCdlE4RzhoWlJOS3BZTHVvRHRaNzhmcW9sbk9NQjBPcDMxMEpaQdIBVEFVX3lxTE51RWhyNnQwdkN1OWtQWHVmOGYwLUF0ZHFCNVNiWHlPSk52LUNXOU9zSGg0MUtyb1JyVHQwTVNpb3g3ZGV2U01BdlJoN2VpYnRFZGM4MQ?oc=5",
       "source": "더팩트",
-      "date": "Wed, 01 Jul 2026 15:00:04 GMT"
+      "date": "Wed, 01 Jul 2026 23:32:31 GMT"
     },
     {
-      "title": "중국 경제: '해양 강국' 전략에서 고품질 성장 목표로의 전환.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNang4WHAzSzBmZHF1NGZHV0dXWnNuTjhxcnU4NEZqRkVNWWNFOHVIZTBEQURTcTdHaXdaNDdxTG9RdU44UWh4cTBBY1RaeUlyM3VnaUZXUzJjRG1wbzRGVlFuazFxZHZqTjVWUnNSb3R2QkVek0tVk1tUWRpZVMxMWhGeU1JWEU2YklBaWNZeU1QM193QUpGT3hCeFUzU1RzSXBUYUUyal9vazVpWDg0RE1NTHI?oc=5",
-      "source": "Vietnam.vn",
-      "date": "Wed, 01 Jul 2026 09:43:53 GMT"
+      "title": "“이란 재건시장 열려…이대로 두면 중국이 독식”",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12VVdnU0tyVWVTd0lyYVRIRWQ3Q0pmMnd1UzExcUxCTEtDWHBTTXdLem1PZngybkR3Y0prQVhFbkFEOGs2N1JhaXh4TjMyMndwV2hSUEVR?oc=5",
+      "source": "중앙일보",
+      "date": "Wed, 01 Jul 2026 15:16:00 GMT"
     },
     {
       "title": "[아시아권 뉴스] 중국 경제, 로봇은 공장으로 들어가고 서비스업은 디지털로 버틴다",
@@ -34,18 +34,6 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50UV8wT3pLSVF3Mm41NDVHVVN2RXhPZDhJanVaRzBCZzJHTmYxb0FGbGZqai13OXFUYS1QNnBVeEdKMFo3Ml9iQ1N2Z0VOaUk?oc=5",
       "source": "v.daum.net",
       "date": "Wed, 01 Jul 2026 06:41:03 GMT"
-    },
-    {
-      "title": "'유령도시'가 된 중국 신도시…\"싼 집세에 청년층 유입\"",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnczIxYmY4WWtkTXFoc0hCM2hCTHZ4c2txbF9XZnBibmR4VXRkX1FIcWlIQVBBQk4ybkVCaUkzZEttZU5keGFVV0tIQi1kUjlwNUZR?oc=5",
-      "source": "네이트",
-      "date": "Wed, 01 Jul 2026 03:33:00 GMT"
-    },
-    {
-      "title": "백만장자 찍어내던 나라, 체면 구겼다…‘중국 슈퍼리치’ 안 나오는 이유는",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYaGRibXRVUk1yNVNFTXdOR1U5UXhfWXpGMWdFYXRYNTl2V1FkTEJUeFcxY1hxcUwxV3NUdnNDNnZVRHFoa0luU0YxLVJidGdwaUE?oc=5",
-      "source": "매일경제",
-      "date": "Wed, 01 Jul 2026 02:31:34 GMT"
     },
     {
       "title": "일본 이어 중국까지.. 엘포인트 경제권 확대",
@@ -67,13 +55,25 @@
     },
     {
       "title": "차이나베이지북 \"중국 경제 6월 회복조짐…대미 수출 등 견인\"",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zZFMzOWhGb01uVXJRSk4tNWFjbF9rS1huTFhMQlhfZ1VOcGJRSzhJYUViTDR0ZV9IRUYxMUUxMlFrbjEwSm1KQk9fVWFTTGh0dXhEZF9HNF9BMzlSWnl5LU1waEJiUW5zOVdza3dtZ3JuYzFZcEc4QtIBeEFVX3lxTE4zZFMzOWhGb01uVXJRSk4tNWFjbF9rS1huTFhMQlhfZ1VOcGJRSzhJYUViTDR0ZV9IRUYxMUUxMlFrbjEwSm1KQk9fVWFTTGh0dXhEZF9HNF9BMzlSWnl5LU1waEJiUW5zOVdza3dtZ3JuYzFZcEc4Qg?oc=5",
-      "source": "뉴시스",
-      "date": "Tue, 30 Jun 2026 02:26:23 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YNkYycExWR1pzWDl3Z19hMTRBQm9VWkdoVnp2dWpJMVB3eUpfT18xSlpJN1VtQmZYUk9adnZaSlRlMF9QcmhEd2lwSlpTMXBVVnQ0?oc=5",
+      "source": "네이트",
+      "date": "Tue, 30 Jun 2026 02:27:00 GMT"
+    },
+    {
+      "title": "중국은 올 하반기 디플레 우려 벗어날까…한은 북경사무소 “물가동향 주목”",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56VGk0WjBWZ1YxTTJWMnZWU3lNa3BhUXBOTFM1czRzMEVJOU5TdjdmQndFS01XaUR1ZnBwenpMN1hqaFNyT1U4dzcwR0VFTDQ?oc=5",
+      "source": "v.daum.net",
+      "date": "Mon, 29 Jun 2026 09:01:00 GMT"
     },
     {
       "title": "'대차대조표 불황' 창시한 日학자 \"중국경제 여전히 위험\"",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16NDVwakluWlRlVHJWdzN4NW1yVGhiR0tHWGZHbjdDUW0ydUtmRzJWYzNYMW1adFdYYXdzUW1nQ2JoQjd0YVpoenBhdmlYM3M?oc=5",
+      "source": "v.daum.net",
+      "date": "Mon, 29 Jun 2026 09:00:00 GMT"
+    },
+    {
+      "title": "'대차대조표 불황' 창시한 日학자 \"중국경제 여전히 위험\"",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwN1pUbDdvUFJ6bF9pRVFHTFdHSGc0MkJ6TWl5eDFnR1M1UEppLWpCM001T2RzRnJGWDdMQXdmeDdKdzhkQTBha1lSTQ?oc=5",
       "source": "v.daum.net",
       "date": "Mon, 29 Jun 2026 09:00:00 GMT"
     }

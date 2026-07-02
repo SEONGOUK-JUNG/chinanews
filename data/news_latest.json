@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-02T07:14:51+09:00",
+  "run_at_kst": "2026-07-02T14:14:20.923994+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,18 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "5 Under-the-Radar Stocks Fueling the AI Revolution",
+      "link": "https://oilprice.com/Energy/Energy-General/5-Under-the-Radar-Stocks-Fueling-the-AI-Revolution.html",
+      "source": "OilPrice",
+      "date": "Wed, 01 Jul 2026 19:00:00 -0500"
+    },
+    {
+      "title": "Trump Targets California Again In SpaceX Feud",
+      "link": "https://oilprice.com/Energy/Energy-General/Trump-Targets-California-Again-In-SpaceX-Feud.html",
+      "source": "OilPrice",
+      "date": "Wed, 01 Jul 2026 18:00:00 -0500"
+    },
     {
       "title": "Wall Street Is Pivoting From Solar To Solar Plus Storage",
       "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Wall-Street-Is-Pivoting-From-Solar-To-Solar-Plus-Storage.html",
@@ -32,7 +44,7 @@
       "date": "Wed, 01 Jul 2026 14:00:00 -0500"
     },
     {
-      "title": "Russia' Security and Trade Blocs Show Signs of Fracturing",
+      "title": "Russia's Security and Trade Blocs Show Signs of Fracturing",
       "link": "https://oilprice.com/Geopolitics/Europe/Russias-Security-and-Trade-Blocs-Show-Signs-of-Fracturing.html",
       "source": "OilPrice",
       "date": "Wed, 01 Jul 2026 13:00:00 -0500"
@@ -44,22 +56,10 @@
       "date": "Wed, 01 Jul 2026 12:30:00 -0500"
     },
     {
-      "title": "Putin Admits Shortage of Fuel After Weeks of Refinery Strikes",
-      "link": "https://oilprice.com/Energy/Energy-General/Putin-Admits-Certain-Shortage-of-Fuel-After-Weeks-of-Refinery-Strikes.html",
-      "source": "OilPrice",
-      "date": "Wed, 01 Jul 2026 12:00:00 -0500"
-    },
-    {
       "title": "GreenMet plans $150M rare earth processing hub in West Virginia",
       "link": "https://www.mining.com/greenmet-plans-150m-rare-earth-processing-hub-in-west-virginia/",
       "source": "mining.com",
       "date": "Wed, 01 Jul 2026 16:36:44 +0000"
-    },
-    {
-      "title": "Ukraine' Drone Campaign Forces Russia to Buy Gasoline From India",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraines-Drone-Campaign-Forces-Russia-to-Buy-Gasoline-From-India.html",
-      "source": "OilPrice",
-      "date": "Wed, 01 Jul 2026 11:30:00 -0500"
     },
     {
       "title": "Cameco shuts Cigar Lake mine on Orano mill disruption",
