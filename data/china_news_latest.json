@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-03T07:16:16.107092+09:00",
+  "run_at_kst": "2026-07-03T10:11:00+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -10,6 +10,12 @@
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhU0xvWjNHaTRUVTJzbjdfMWhobHVvcVdqdUJHRXRoUUVBaDQ0bjl2eTk3Z3pTdzc3VE9ZeVZ5aWYzVV9XY1ktVWpUblRTdw?oc=5",
       "source": "전자신문",
       "date": "Thu, 02 Jul 2026 12:06:20 GMT"
+    },
+    {
+      "title": "[중국 경제 엿보기 ]화룬 신에너지 IPO 흥행… 경제의 자금 흐름이 바뀌고 있다",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UZUdkVVdOQTI0TnBmbWJVcF9nY2x2azUzQ1ZfYXQwNURGRTM1N1k5Z0ZUdVRyVnYtc0otcDJTVDlIT2JQTkFRYTIwMVdoWEU3bDFBdDRjbF9oZlF3ZkptelRpamVJNU9YakJkUEpR?oc=5",
+      "source": "코리아포스트 한글판",
+      "date": "Thu, 02 Jul 2026 10:18:01 GMT"
     },
     {
       "title": "\"중국 경제 비관적\" 강연 내용에 불만?…베이징서 경찰 출동 소동",
@@ -58,12 +64,6 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50UV8wT3pLSVF3Mm41NDVHVVN2RXhPZDhJanVaRzBCZzJHTmYxb0FGbGZqai13OXFUYS1QNnBVeEdKMFo3Ml9iQ1N2Z0VOaUk?oc=5",
       "source": "v.daum.net",
       "date": "Wed, 01 Jul 2026 06:41:03 GMT"
-    },
-    {
-      "title": "일본 이어 중국까지.. 엘포인트 경제권 확대",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqZFdSUjgzZ3pFUVRaZDRVTDRyM1VVaGtGZks2UkVId05jTkFVSWthbTNSTW9SM0o3VVdwT0VJOTMxcTlaWXZHYkFYd0FWb0puRU4zZ2EyUEliUdIBVEFVX3lxTE14dGZfMHYtLUJlZ3FCdFh1b1BTZGRpcVp6ek95U3c4b3N3Y0FpY0tyVEVqSFZ0WWpwX1Z3cjU2NUhwUGQxUnpoeWdjVXJHdFpsd3pieA?oc=5",
-      "source": "한국경제",
-      "date": "Tue, 30 Jun 2026 21:03:24 GMT"
     },
     {
       "title": "‘등산 친구’ 4만원, 노인 병원 수행 5만원…중국의 ‘동행 경제’",

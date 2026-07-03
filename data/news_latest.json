@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-03T07:13:26.971910+09:00",
+  "run_at_kst": "2026-07-03T10:07:51+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "UAE Rewrites Offshore Oil Pricing To Capture Asian Markets",
+      "link": "https://oilprice.com/Energy/Crude-Oil/UAE-Rewrites-Offshore-Oil-Pricing-To-Capture-Asian-Markets.html",
+      "source": "OilPrice",
+      "date": "Thu, 02 Jul 2026 19:00:00 -0500"
+    },
     {
       "title": "Tehran Is Racing the Clock to Export as Much Oil as Possible",
       "link": "https://oilprice.com/Energy/Energy-General/Tehran-Is-Racing-the-Clock-to-Export-as-Much-Oil-as-Possible.html",
@@ -58,12 +64,6 @@
     {
       "title": "OPEC+ Plans Another Output Hike. The Market Barely Notices.",
       "link": "https://oilprice.com/Energy/Crude-Oil/OPEC-Plans-Another-Output-Hike-The-Market-Barely-Notices.html",
-      "source": "OilPrice",
-      "date": "Thu, 02 Jul 2026 12:30:00 -0500"
-    },
-    {
-      "title": "Trump Administration Advances New California Oil Lease Plans",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Administration-Advances-New-California-Oil-Lease-Plans.html",
       "source": "OilPrice",
       "date": "Thu, 02 Jul 2026 12:30:00 -0500"
     },
