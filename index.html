@@ -898,11 +898,74 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
 </div>
 
 <script>
-function aiSend(){
+// ===== AI Trade Assistant (Groq via serverless proxy) =====
+// 배포한 Cloudflare Worker 주소를 여기에 넣으면 작동합니다 (DEPLOY.md 참고).
+const AI_PROXY_URL = "";
+
+function aiBubble(role, text){
+  const panel = document.getElementById('sec-ai');
+  const input = panel.querySelector('.ai-input');
+  const b = document.createElement('div');
+  b.className = 'ai-message';
+  const lab = role === 'user' ? 'You' : 'AI';
+  b.innerHTML = '<div class="label">'+lab+'</div><div class="text"></div>';
+  b.querySelector('.text').textContent = text;
+  panel.insertBefore(b, input);
+  b.scrollIntoView({block:'nearest'});
+  return b;
+}
+
+async function aiContext(){
+  const ctx = {};
+  try{
+    const bust = '?t=' + Date.now();
+    const [com, stk, fx, nw] = await Promise.all([
+      fetch('data/commodities.json'+bust).then(r=>r.json()).catch(()=>null),
+      fetch('data/stocks_latest.json'+bust).then(r=>r.json()).catch(()=>null),
+      fetch('data/fx_latest.json'+bust).then(r=>r.json()).catch(()=>null),
+      fetch('data/news_latest.json'+bust).then(r=>r.json()).catch(()=>null),
+    ]);
+    if(com){
+      ctx.ref_date = com.ref_date;
+      ctx.pulse = {up:com.pulse.up_count, down:com.pulse.down_count, flat:com.pulse.flat_count,
+                   top_gainers:com.pulse.top_gainers, top_losers:com.pulse.top_losers};
+      ctx.featured = (com.featured||[]).map(f=>({name:f.display_name, unit:f.unit, price:f.price_today, chg:f.change_pct}));
+    }
+    if(stk){ ctx.indices = (stk.indices||[]).map(i=>({name:i.name, price:i.price, chg:i.change_pct})); }
+    if(fx){
+      ctx.fx = {};
+      for(const k in (fx.rates||{})) ctx.fx[fx.rates[k].name] = fx.rates[k].value;
+      for(const k in (fx.derived||{})) ctx.fx[fx.derived[k].name] = fx.derived[k].value;
+    }
+    if(nw){ ctx.news = (nw.items||[]).slice(0,8).map(n=>n.title); }
+  }catch(e){}
+  return ctx;
+}
+
+async function aiSend(){
   const q = document.getElementById('ai-q');
-  if(!q.value) return;
-  alert('AI assistant activates once the backend is connected.\nQuestion: "' + q.value + '"');
+  const text = (q.value||'').trim();
+  if(!text) return;
+  if(!AI_PROXY_URL){
+    aiBubble('ai','AI \uc5f0\uacb0\uc774 \uc900\ube44 \uc911\uc785\ub2c8\ub2e4. (\uad00\ub9ac\uc790: AI_PROXY_URL \ubbf8\uc124\uc815)');
+    q.value = '';
+    return;
+  }
+  aiBubble('user', text);
   q.value = '';
+  const thinking = aiBubble('ai', '…');
+  try{
+    const ctx = await aiContext();
+    const res = await fetch(AI_PROXY_URL, {
+      method:'POST',
+      headers:{'Content-Type':'application/json'},
+      body: JSON.stringify({question:text, context:ctx})
+    });
+    const data = await res.json();
+    thinking.querySelector('.text').textContent = data.answer || data.error || 'No response.';
+  }catch(e){
+    thinking.querySelector('.text').textContent = 'Error: could not reach AI server.';
+  }
 }
 document.getElementById('ai-q').addEventListener('keypress', e=>{ if(e.key==='Enter') aiSend(); });
 
