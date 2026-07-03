@@ -900,7 +900,7 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
 <script>
 // ===== AI Trade Assistant (Groq via serverless proxy) =====
 // 배포한 Cloudflare Worker 주소를 여기에 넣으면 작동합니다 (DEPLOY.md 참고).
-const AI_PROXY_URL = "";
+const AI_PROXY_URL = "https://chinanews-ai.koreagwangju.workers.dev";
 
 function aiBubble(role, text){
   const panel = document.getElementById('sec-ai');
