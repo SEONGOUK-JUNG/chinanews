@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-03T14:10:40+09:00",
+  "run_at_kst": "2026-07-03T20:14:25.588511+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,42 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "India Denies Directly Exporting Fuel to Russia, But Admits Traders May Be",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Denies-Directly-Exporting-Fuel-to-Russia-But-Admits-Traders-May-Be.html",
+      "source": "OilPrice",
+      "date": "Fri, 03 Jul 2026 06:00:00 -0500"
+    },
+    {
+      "title": "Oil Set for Fourth Straight Weekly Loss as Hormuz Flows Return",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Set-for-Fourth-Straight-Weekly-Loss-as-Hormuz-Flows-Return.html",
+      "source": "OilPrice",
+      "date": "Fri, 03 Jul 2026 05:00:00 -0500"
+    },
+    {
+      "title": "PJM on Maximum Alert to Prevent Outages Amid Extreme Heat Wave",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/PJM-on-Maximum-Alert-to-Prevent-Outages-Amid-Extreme-Heat-Wave.html",
+      "source": "OilPrice",
+      "date": "Fri, 03 Jul 2026 04:00:00 -0500"
+    },
+    {
+      "title": "Japan's LNG Imports Fall 7% as Utilities Chase Cheaper Coal",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japans-LNG-Imports-Fall-7-as-Utilities-Chase-Cheaper-Coal.html",
+      "source": "OilPrice",
+      "date": "Fri, 03 Jul 2026 03:00:00 -0500"
+    },
+    {
+      "title": "Alberta and Ottawa Greenlight New Pacific Pipeline",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Alberta-and-Ottawa-Greenlight-New-Pacific-Pipeline.html",
+      "source": "OilPrice",
+      "date": "Fri, 03 Jul 2026 02:00:00 -0500"
+    },
+    {
+      "title": "India Coal Power Generation Jumps 14% in June",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Coal-Power-Generation-Jumps-14-in-June.html",
+      "source": "OilPrice",
+      "date": "Fri, 03 Jul 2026 01:00:59 -0500"
+    },
     {
       "title": "UAE Rewrites Offshore Oil Pricing To Capture Asian Markets",
       "link": "https://oilprice.com/Energy/Crude-Oil/UAE-Rewrites-Offshore-Oil-Pricing-To-Capture-Asian-Markets.html",
@@ -26,46 +62,10 @@
       "date": "Thu, 02 Jul 2026 21:50:15 +0000"
     },
     {
-      "title": "Europe’s Energy Transition Stalls as Heat Wave Exposes the Cost of Inaction",
-      "link": "https://oilprice.com/The-Environment/Global-Warming/Europes-Energy-Transition-Stalls-as-Heat-Wave-Exposes-the-Cost-of-Inaction.html",
-      "source": "OilPrice",
-      "date": "Thu, 02 Jul 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Carney Backs B.C. Tanker Ban as Alberta Unveils Pipeline Plan",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Carney-Backs-BC-Tanker-Ban-as-Alberta-Unveils-Pipeline-Plan.html",
-      "source": "OilPrice",
-      "date": "Thu, 02 Jul 2026 14:30:00 -0500"
-    },
-    {
-      "title": "Iran Tightens Grip on Strait of Hormuz Tanker Traffic",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Tightens-Grip-on-Strait-of-Hormuz-Tanker-Traffic.html",
-      "source": "OilPrice",
-      "date": "Thu, 02 Jul 2026 13:30:00 -0500"
-    },
-    {
-      "title": "Tesla Delivers a Blowout Quarter, Crushing Wall Street Estimates",
-      "link": "https://oilprice.com/Energy/Energy-General/Tesla-Delivers-a-Blowout-Quarter-Crushing-Wall-Street-Estimates.html",
-      "source": "OilPrice",
-      "date": "Thu, 02 Jul 2026 13:00:00 -0500"
-    },
-    {
-      "title": "The U.S. Has More SMR Projects Than Its Four Closest Rivals Combined",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-US-Has-More-SMR-Projects-Than-Its-Four-Closest-Rivals-Combined.html",
-      "source": "OilPrice",
-      "date": "Thu, 02 Jul 2026 13:00:00 -0500"
-    },
-    {
       "title": "BHP seeks to restart Cerro Colorado mine with $1.5B investment",
       "link": "https://www.mining.com/bhp-seeks-to-restart-cerro-colorado-mine-with-1-5b-investment/",
       "source": "mining.com",
       "date": "Thu, 02 Jul 2026 17:43:35 +0000"
-    },
-    {
-      "title": "OPEC+ Plans Another Output Hike. The Market Barely Notices.",
-      "link": "https://oilprice.com/Energy/Crude-Oil/OPEC-Plans-Another-Output-Hike-The-Market-Barely-Notices.html",
-      "source": "OilPrice",
-      "date": "Thu, 02 Jul 2026 12:30:00 -0500"
     },
     {
       "title": "Newcore Gold hits above-reserve grade at Nyam deposit",

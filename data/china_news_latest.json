@@ -1,21 +1,21 @@
 {
-  "run_at_kst": "2026-07-03T10:11:00+09:00",
+  "run_at_kst": "2026-07-03T20:14:25.588511+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "中서 말 한마디 잘못했다가…“경제 안좋다” 강연 중 발언 신고 당해 경찰 출동",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhU0xvWjNHaTRUVTJzbjdfMWhobHVvcVdqdUJHRXRoUUVBaDQ0bjl2eTk3Z3pTdzc3VE9ZeVZ5aWYzVV9XY1ktVWpUblRTdw?oc=5",
-      "source": "전자신문",
-      "date": "Thu, 02 Jul 2026 12:06:20 GMT"
+      "title": "‘2026 칭다오-한국 경제무역문화관광협력교류회’ 서울서 개최",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oUVNPQjVKalI0c2NPWXRiTkpyeGVPUHdVQWdPakszVmJvU0FzZzZuRFNCZlBXTS1NLXRnWFItSE1WWDhGTFFlX0RaeV9SX1hwODhJa1dUSXBJWXA3NC12elJIbEJ6VWl1M3c?oc=5",
+      "source": "인민망",
+      "date": "Fri, 03 Jul 2026 07:27:00 GMT"
     },
     {
-      "title": "[중국 경제 엿보기 ]화룬 신에너지 IPO 흥행… 경제의 자금 흐름이 바뀌고 있다",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UZUdkVVdOQTI0TnBmbWJVcF9nY2x2azUzQ1ZfYXQwNURGRTM1N1k5Z0ZUdVRyVnYtc0otcDJTVDlIT2JQTkFRYTIwMVdoWEU3bDFBdDRjbF9oZlF3ZkptelRpamVJNU9YakJkUEpR?oc=5",
-      "source": "코리아포스트 한글판",
-      "date": "Thu, 02 Jul 2026 10:18:01 GMT"
+      "title": "중국 지방정부도 북한과 경제협력?…국제사회 대북제재 넘나",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JczlhRjlhTlk1SFN0N2h2S2pwNHRIcWJvMmtGVklCam9NWjRUZW9MZEVzR3BtckFfR3QxUWFncG1TYldqNzA4d05fNA?oc=5",
+      "source": "DailyNK",
+      "date": "Fri, 03 Jul 2026 01:14:28 GMT"
     },
     {
       "title": "\"중국 경제 비관적\" 강연 내용에 불만?…베이징서 경찰 출동 소동",
@@ -28,6 +28,12 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qRkFoTGJzV2dSdXhpdjd3NmVvcnIyMzQ5bjJRYjhack1QWnFKOVVQWW9CY3RfOXdWMTlPYTFnY19saHRlUU8xUElxMkcwMHdWQ2EtSndMSDNZVE9aZU00TlFER19yTzA?oc=5",
       "source": "연합뉴스TV",
       "date": "Thu, 02 Jul 2026 07:19:00 GMT"
+    },
+    {
+      "title": "“중국 경제 안 좋다” 칭화대 전 교수, 강연 중 한 말에···경찰 출동 소동",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xdk9GcTA2MDVTUExHVTBseXRXajZCWHNPbzR0Y2ZGZUI2OXN3aEYyanY3UFNiU0cwRXBUaWhMMllGemlBREY1Sk50WTdvMVU?oc=5",
+      "source": "v.daum.net",
+      "date": "Thu, 02 Jul 2026 06:28:35 GMT"
     },
     {
       "title": "“중국 경제 안 좋다” 칭화대 전 교수, 강연 중 한 말에···경찰 출동 소동",
@@ -54,16 +60,10 @@
       "date": "Wed, 01 Jul 2026 17:30:30 GMT"
     },
     {
-      "title": "[조민근의 경제를 묻다] “이란 재건시장 열려…이대로 두면 중국이 독식”",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9SWUdVUklkMm54Z3N1X20xWWxHNlNyTUFjSnhaSFVDY216OV9LR21sZkJyMlJlbENtMzRVaFJTY0Niem1zRnc?oc=5",
-      "source": "v.daum.net",
-      "date": "Wed, 01 Jul 2026 15:17:52 GMT"
-    },
-    {
       "title": "세계은행, 대중국 대출 종료 수순…“세계 2위 경제대국인데 왜” 美 압박 통했나",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50UV8wT3pLSVF3Mm41NDVHVVN2RXhPZDhJanVaRzBCZzJHTmYxb0FGbGZqai13OXFUYS1QNnBVeEdKMFo3Ml9iQ1N2Z0VOaUk?oc=5",
-      "source": "v.daum.net",
-      "date": "Wed, 01 Jul 2026 06:41:03 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpV3F3UFVmQTRBNjU2SnF3b0t3Wko0TmJ2cDFMWVNSUGlGb0MyQXRHVGFPMHBEeUlwSUJjSklQd3VrM1VMdmdNaUNneTlsUjN1MVJ5WVl3?oc=5",
+      "source": "중앙일보",
+      "date": "Wed, 01 Jul 2026 06:39:18 GMT"
     },
     {
       "title": "‘등산 친구’ 4만원, 노인 병원 수행 5만원…중국의 ‘동행 경제’",
