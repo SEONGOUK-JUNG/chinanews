@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-04T20:14:33.083578+09:00",
+  "run_at_kst": "2026-07-05T07:27:43.765311+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -18,10 +18,10 @@
       "date": "Sat, 04 Jul 2026 01:00:01 GMT"
     },
     {
-      "title": "\"중국이 자본주의 경쟁에서 서방을 이겼다?\"…영국 정치인의 발언이 던진 세계 경제의 화두",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ub19ITmNCNENJQVZTYnhhbzB2MFdnc3ZmNkY4UE1WcGIzaGNuSDl2b21VWUMzOGViM2w0QVRvSnVUbElpVmQtTTg2Z1lNS1BMYTJ2YmRYVmRKQ00?oc=5",
-      "source": "인터내셔널포커스",
-      "date": "Sat, 04 Jul 2026 00:18:00 GMT"
+      "title": "‘2026 칭다오-한국 경제무역문화관광협력교류회’ 서울서 개최",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oUVNPQjVKalI0c2NPWXRiTkpyeGVPUHdVQWdPakszVmJvU0FzZzZuRFNCZlBXTS1NLXRnWFItSE1WWDhGTFFlX0RaeV9SX1hwODhJa1dUSXBJWXA3NC12elJIbEJ6VWl1M3c?oc=5",
+      "source": "인민망",
+      "date": "Fri, 03 Jul 2026 07:27:00 GMT"
     },
     {
       "title": "中서 말 한마디 잘못했다가…“경제 안좋다” 강연 중 발언 신고 당해 경찰 출동",
@@ -30,16 +30,10 @@
       "date": "Thu, 02 Jul 2026 12:06:20 GMT"
     },
     {
-      "title": "\"중국 경제 비관적\" 강연내용에 불만?...베이징서 경찰 출동 소동",
+      "title": "\"중국 경제 비관적\" 강연 내용에 불만?...베이징서 경찰 출동 소동",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qRkFoTGJzV2dSdXhpdjd3NmVvcnIyMzQ5bjJRYjhack1QWnFKOVVQWW9CY3RfOXdWMTlPYTFnY19saHRlUU8xUElxMkcwMHdWQ2EtSndMSDNZVE9aZU00TlFER19yTzA?oc=5",
       "source": "연합뉴스TV",
       "date": "Thu, 02 Jul 2026 07:19:00 GMT"
-    },
-    {
-      "title": "“중국 경제 안 좋다” 칭화대 전 교수, 강연 중 한 말에···경찰 출동 소동",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xdk9GcTA2MDVTUExHVTBseXRXajZCWHNPbzR0Y2ZGZUI2OXN3aEYyanY3UFNiU0cwRXBUaWhMMllGemlBREY1Sk50WTdvMVU?oc=5",
-      "source": "v.daum.net",
-      "date": "Thu, 02 Jul 2026 06:28:35 GMT"
     },
     {
       "title": "“중국 경제 안 좋다” 칭화대 전 교수, 강연 중 한 말에···경찰 출동 소동",
@@ -49,15 +43,21 @@
     },
     {
       "title": "전 칭화대 교수 중국 경제 비판 강연 중 경찰 출동",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1Pa2Y2ZUh1Yl9nTUZCQkwwVWh2bXZ4Zm9nanFvel9INXlKRG9UbnVTUi1sbUR3UFdZNnlxenNQTW1naHhmb0E?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83ZUE2NlhZNzZLdzVPVGhHWlBHSE45aVZrYlN0cWdrYnBhRGs2OWZyOThVdEhha3BmcnlockFtTWZ0R0hWQVFLZUxvbHlqYUU?oc=5",
       "source": "v.daum.net",
       "date": "Thu, 02 Jul 2026 04:16:16 GMT"
     },
     {
       "title": "전 칭화대 교수 중국 경제 비판 강연 중 경찰 출동",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83ZUE2NlhZNzZLdzVPVGhHWlBHSE45aVZrYlN0cWdrYnBhRGs2OWZyOThVdEhha3BmcnlockFtTWZ0R0hWQVFLZUxvbHlqYUU?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2bGo2MFpnSTJHRGxvb2VMNExmdk41REcwdnQzTjh0bjNlTzFJZ0N4amNwUEE5R2JQcHFsT01GaVRSelFxbnVKWXVMY0RGSWs2eGZwUw?oc=5",
       "source": "v.daum.net",
       "date": "Thu, 02 Jul 2026 04:16:16 GMT"
+    },
+    {
+      "title": "'中경제 비관론'은 금기?…\"前칭화대 교수 강연 중 경찰 출동\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FbTZHbWFNdWs0OU1OM2pjTEt6eWcyQmZ4eVlZbVRuYkJMUnBUV2FkV3dBU2VvbXpvQkZrd0JNWk9jbW8zTmw1cUQ3QUMtdkJObDNWTElPM2l6VGPSAWBBVV95cUxOZ24yYnhXRWhXNEt4Rlg5NzJSc3FZQWhZQWRocWxubWZURThyVUJyT2FMektJLWhva0g5RS1yQUtzYVJZZ2p2bk9XaF9OSGhaMUZMR3RmS3R3WjY5SUEzMmQ?oc=5",
+      "source": "연합뉴스",
+      "date": "Thu, 02 Jul 2026 03:51:59 GMT"
     },
     {
       "title": "2026년 하반기 중국경제 전망",

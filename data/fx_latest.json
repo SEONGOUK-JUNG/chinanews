@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-04T15:45:04.534660+09:00",
+  "run_at_kst": "2026-07-05T07:00:05.111712+09:00",
   "source": "Yahoo Finance (yfinance)",
   "source_url": "https://finance.yahoo.com/currencies",
   "delay": "15-20min",
@@ -34,9 +34,9 @@
     "eur_krw": {
       "name": "EUR/KRW",
       "memo": "유로/원",
-      "value": 1749.3,
+      "value": 1749.2,
       "prev_value": 1755.9,
-      "change_pct": -0.3759,
+      "change_pct": -0.3816,
       "source": "yfinance",
       "ticker": "EURKRW=X"
     }

@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-04T20:14:33.083578+09:00",
+  "run_at_kst": "2026-07-05T07:25:16.196270+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,24 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Largest Data Center Project Ever Proposed Is Officially Dead",
+      "link": "https://oilprice.com/Energy/Energy-General/Largest-Data-Center-Project-Ever-Proposed-Is-Officially-Dead.html",
+      "source": "OilPrice",
+      "date": "Sat, 04 Jul 2026 14:00:00 -0500"
+    },
+    {
+      "title": "Asia Bets on Biofuels to Dodge Middle East Oil Shortages",
+      "link": "https://oilprice.com/Alternative-Energy/Biofuels/Asia-Bets-on-Biofuels-to-Dodge-Middle-East-Oil-Shortages.html",
+      "source": "OilPrice",
+      "date": "Sat, 04 Jul 2026 12:00:00 -0500"
+    },
+    {
+      "title": "Courts and Congress Are Undoing Trump's War on Wind Power",
+      "link": "https://oilprice.com/Alternative-Energy/Wind-Power/Courts-and-Congress-Are-Undoing-Trumps-War-on-Wind-Power.html",
+      "source": "OilPrice",
+      "date": "Sat, 04 Jul 2026 10:00:00 -0500"
+    },
     {
       "title": "Colombia's Oil and Gas Reserves Keep Shrinking",
       "link": "https://oilprice.com/Energy/Energy-General/Colombias-Oil-and-Gas-Reserves-Keep-Shrinking.html",
@@ -36,24 +54,6 @@
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Scrambles-for-Asian-Jet-Fuel-as-Crisis-Deepens.html",
       "source": "OilPrice",
       "date": "Fri, 03 Jul 2026 12:30:00 -0500"
-    },
-    {
-      "title": "DOJ Urges States to Enforce Fuel Price-Gouging Laws",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/DOJ-Urges-States-to-Enforce-Fuel-Price-Gouging-Laws.html",
-      "source": "OilPrice",
-      "date": "Fri, 03 Jul 2026 11:30:00 -0500"
-    },
-    {
-      "title": "Oil Markets Grow Numb to U.S.-Iran Ceasefire Drama",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Markets-Grow-Numb-to-US-Iran-Ceasefire-Drama.html",
-      "source": "OilPrice",
-      "date": "Fri, 03 Jul 2026 11:01:00 -0500"
-    },
-    {
-      "title": "Russia Escalates Kyiv Strikes Days Before NATO Summit Showdown",
-      "link": "https://oilprice.com/Geopolitics/International/Russia-Escalates-Kyiv-Strikes-Days-Before-NATO-Summit-Showdown.html",
-      "source": "OilPrice",
-      "date": "Fri, 03 Jul 2026 11:00:00 -0500"
     },
     {
       "title": "Canada commits $352M to Red Chris mine expansion in British Columbia",
