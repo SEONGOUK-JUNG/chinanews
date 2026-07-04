@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-07-04T07:08:41.690170+09:00",
+  "updated_at_kst": "2026-07-04T14:06:37.884090+09:00",
   "ref_date": "2026-07-03",
   "schema_version": "1.0",
   "adjustment_applied": true,
@@ -7,7 +7,7 @@
     "up_count": 59,
     "down_count": 67,
     "flat_count": 317,
-    "total": 443,
+    "total": 412,
     "top_gainers": [
       {
         "name": "형산",
@@ -2573,13 +2573,6 @@
       "sector": "화학공업",
       "price_prev": 53074.2,
       "price_today": 53074.2,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "n-뷰틸 타이트 아세트산염",
-      "sector": "철강",
-      "price_prev": 18273.98,
-      "price_today": 18273.98,
       "change_pct": 0.0
     },
     {

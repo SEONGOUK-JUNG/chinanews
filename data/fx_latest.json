@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-04T07:00:05.353456+09:00",
+  "run_at_kst": "2026-07-04T13:00:09.967179+09:00",
   "source": "Yahoo Finance (yfinance)",
   "source_url": "https://finance.yahoo.com/currencies",
   "delay": "15-20min",
@@ -52,5 +52,5 @@
       "ticker": "USDCNY=X"
     }
   },
-  "errors": {}
+  "errors": []
 }

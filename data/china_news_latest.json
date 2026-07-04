@@ -1,27 +1,33 @@
 {
-  "run_at_kst": "2026-07-04T07:13:45.333283+09:00",
+  "run_at_kst": "2026-07-04T14:11:36.637059+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "김진수 교수 \"청정에너지 패권 주도권, 중국이 장악\"[경제일타강사]",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52R01wc1lscTltZTNVcGptQVk4SnBqT0l4d0EwT2d6QlRpVUlteHh0OEJMMDlNZ1JmbWVPSFlDampKTjROaFhqblg0eG9VT3ZHOEI3d2xIUUptYXNZYlFuelVscmk?oc=5",
+      "source": "MTN 머니투데이방송",
+      "date": "Sat, 04 Jul 2026 01:00:01 GMT"
+    },
+    {
+      "title": "\"중국이 자본주의 경쟁에서 서방을 이겼다?\"…영국 정치인의 발언이 던진 세계 경제의 화두",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ub19ITmNCNENJQVZTYnhhbzB2MFdnc3ZmNkY4UE1WcGIzaGNuSDl2b21VWUMzOGViM2w0QVRvSnVUbElpVmQtTTg2Z1lNS1BMYTJ2YmRYVmRKQ00?oc=5",
+      "source": "인터내셔널포커스",
+      "date": "Sat, 04 Jul 2026 00:18:00 GMT"
+    },
+    {
+      "title": "[특파원 시선] 중국식 성장과 통제 병행의 딜레마",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tNlF3Ym55cHhIR0JVV2ZFRnk4VXNRVjZSbTU2VmhvdkJwRXZHTmJPVnh5eFM1bUY0VHR0MjJ6cHJjRmNJTEc2Rl9SRDl0blRrRlBBVUlyaG1wa0NWUlVpUi1rYWo5bDNFUUsxanc2TVpwV29N?oc=5",
+      "source": "연합뉴스 한민족센터",
+      "date": "Fri, 03 Jul 2026 22:07:00 GMT"
+    },
+    {
       "title": "‘2026 칭다오-한국 경제무역문화관광협력교류회’ 서울서 개최",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oUVNPQjVKalI0c2NPWXRiTkpyeGVPUHdVQWdPakszVmJvU0FzZzZuRFNCZlBXTS1NLXRnWFItSE1WWDhGTFFlX0RaeV9SX1hwODhJa1dUSXBJWXA3NC12elJIbEJ6VWl1M3c?oc=5",
       "source": "인민망",
       "date": "Fri, 03 Jul 2026 07:27:00 GMT"
-    },
-    {
-      "title": "중국 지방정부도 북한과 경제협력?…국제사회 대북제재 넘나",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JczlhRjlhTlk1SFN0N2h2S2pwNHRIcWJvMmtGVklCam9NWjRUZW9MZEVzR3BtckFfR3QxUWFncG1TYldqNzA4d05fNA?oc=5",
-      "source": "DailyNK",
-      "date": "Fri, 03 Jul 2026 01:14:28 GMT"
-    },
-    {
-      "title": "일본·인도, 공급망 강화로 대중국 전선 맞손…\"美 동조 관건\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4OEs4WG1LdGk1bGZTUXgyR0s0R1BMR0F6SEYzNWdkclNJR3J5MUtVWG5wc3BScV9FV21DbkZyUXVUYTJDUG9BSDQ5dEpwT3Q3bGI4SUk2TmdxbTTSAWBBVV95cUxPYlFyLUM1cWtaX3NvTTJ5ZVZ4bDVab29INENTNFpNZTVneUxQNk5ZSWRGd1d6VDBrVmtfdHZTamctcVZfcTJiREhJX1hoZVBOZVlBZGc1d3BtZHpJTEg0aGU?oc=5",
-      "source": "연합뉴스",
-      "date": "Fri, 03 Jul 2026 01:09:45 GMT"
     },
     {
       "title": "中서 말 한마디 잘못했다가…“경제 안좋다” 강연 중 발언 신고 당해 경찰 출동",
@@ -62,14 +68,8 @@
     {
       "title": "2026년 하반기 중국경제 전망",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeXlFallrZFA2T1BfclgzbUxVS0Vnc2l4eHhuWC1ESERxM2ZSZWUzR21RUTFaTjZkSy1jcFFaUWhranhTZS1NSjRWZFMza1I2S2tVSGRSVDlIQnFfRkVTR1p1UGJjaWE0RDEzdm9mUWRYajJRT2FyQ1JyYjF0RWktakcxcGpLQzhpWkhmQXBZZ3FvcWpHdVMta0psRzJXSHhiX2c?oc=5",
-      "source": "KDI 경제교육",
+      "source": "한국개발연구원(KDI)",
       "date": "Wed, 01 Jul 2026 17:30:30 GMT"
-    },
-    {
-      "title": "'대차대조표 불황' 창시한 日학자 \"중국경제 여전히 위험\"",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16NDVwakluWlRlVHJWdzN4NW1yVGhiR0tHWGZHbjdDUW0ydUtmRzJWYzNYMW1adFdYYXdzUW1nQ2JoQjd0YVpoenBhdmlYM3M?oc=5",
-      "source": "v.daum.net",
-      "date": "Mon, 29 Jun 2026 09:00:00 GMT"
     },
     {
       "title": "“안팎 리스크 쌓여가는 중국 경제, 하반기 성장폭 둔화”",
