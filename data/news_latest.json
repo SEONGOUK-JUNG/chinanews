@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-05T20:13:30.635976+09:00",
+  "run_at_kst": "2026-07-06T07:12:38.417190+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Five Energy Stocks Riding Texas's Data Center Power Boom",
+      "link": "https://oilprice.com/Energy/Energy-General/Five-Energy-Stocks-Riding-Texass-Data-Center-Power-Boom.html",
+      "source": "OilPrice",
+      "date": "Sun, 05 Jul 2026 16:00:00 -0500"
+    },
+    {
+      "title": "The Era of Cheap U.S. Natural Gas May Be Coming to an End",
+      "link": "https://oilprice.com/Energy/Natural-Gas/The-Era-of-Cheap-US-Natural-Gas-May-Be-Coming-to-an-End.html",
+      "source": "OilPrice",
+      "date": "Sun, 05 Jul 2026 14:00:00 -0500"
+    },
+    {
+      "title": "Starmer Out, Burnham In: What Changes for UK Energy Policy?",
+      "link": "https://oilprice.com/Energy/Energy-General/Starmer-Out-Burnham-In-What-Changes-for-UK-Energy-Policy.html",
+      "source": "OilPrice",
+      "date": "Sun, 05 Jul 2026 12:00:00 -0500"
+    },
+    {
+      "title": "Europe's Hottest June on Record Traced to Climate Change",
+      "link": "https://oilprice.com/The-Environment/Global-Warming/Europes-Hottest-June-on-Record-Traced-to-Climate-Change.html",
+      "source": "OilPrice",
+      "date": "Sun, 05 Jul 2026 10:00:00 -0500"
+    },
     {
       "title": "Dip in U.S. LNG Imports to EU Spells Trouble for Trade Deal",
       "link": "https://oilprice.com/Energy/Energy-General/Dip-in-US-LNG-Imports-to-EU-Spells-Trouble-for-Trade-Deal.html",
@@ -32,28 +56,10 @@
       "date": "Sat, 04 Jul 2026 10:00:00 -0500"
     },
     {
-      "title": "Colombia's Oil and Gas Reserves Keep Shrinking",
-      "link": "https://oilprice.com/Energy/Energy-General/Colombias-Oil-and-Gas-Reserves-Keep-Shrinking.html",
-      "source": "OilPrice",
-      "date": "Fri, 03 Jul 2026 18:00:00 -0500"
-    },
-    {
-      "title": "OPEC Oil Production Jumps, But Gulf Supply Is Still Far From Normal",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Oil-Production-Jumps-But-Gulf-Supply-Is-Still-Far-From-Normal.html",
-      "source": "OilPrice",
-      "date": "Fri, 03 Jul 2026 14:30:00 -0500"
-    },
-    {
-      "title": "Copper's Next Move Depends On Washington, Not The Strait Of Hormuz",
-      "link": "https://oilprice.com/Metals/Commodities/Coppers-Next-Move-Depends-On-Washington-Not-The-Strait-Of-Hormuz.html",
-      "source": "OilPrice",
-      "date": "Fri, 03 Jul 2026 14:00:00 -0500"
-    },
-    {
-      "title": "Hormuz Turns Oil Outlooks Into a Guessing Game",
-      "link": "https://oilprice.com/Energy/Energy-General/Hormuz-Turns-Oil-Outlooks-Into-a-Guessing-Game.html",
-      "source": "OilPrice",
-      "date": "Fri, 03 Jul 2026 13:51:36 -0500"
+      "title": "Ottawa’s C$500M Red Chris bet tests British Columbia grid",
+      "link": "https://www.mining.com/ottawas-500m-red-chris-bet-tests-bc-grid/",
+      "source": "mining.com",
+      "date": "Fri, 03 Jul 2026 17:12:21 +0000"
     },
     {
       "title": "Canada commits $352M to Red Chris mine expansion in British Columbia",
@@ -84,12 +90,6 @@
       "link": "https://www.mining.com/newcore-gold-hits-above-reserve-grade-at-nyam-deposit/",
       "source": "mining.com",
       "date": "Thu, 02 Jul 2026 16:53:14 +0000"
-    },
-    {
-      "title": "Almonty kicks off processing at Sangdong tungsten mine",
-      "link": "https://www.mining.com/almonty-kicks-off-processing-operations-at-sangdong-tungsten-mine-in-south-korea/",
-      "source": "mining.com",
-      "date": "Thu, 02 Jul 2026 15:59:40 +0000"
     }
   ]
 }
