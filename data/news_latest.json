@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-05T07:25:16.196270+09:00",
+  "run_at_kst": "2026-07-05T10:13:48+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Dip in U.S. LNG Imports to EU Spells Trouble for Trade Deal",
+      "link": "https://oilprice.com/Energy/Energy-General/Dip-in-US-LNG-Imports-to-EU-Spells-Trouble-for-Trade-Deal.html",
+      "source": "OilPrice",
+      "date": "Sat, 04 Jul 2026 18:00:00 -0500"
+    },
     {
       "title": "Largest Data Center Project Ever Proposed Is Officially Dead",
       "link": "https://oilprice.com/Energy/Energy-General/Largest-Data-Center-Project-Ever-Proposed-Is-Officially-Dead.html",
@@ -48,12 +54,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/Hormuz-Turns-Oil-Outlooks-Into-a-Guessing-Game.html",
       "source": "OilPrice",
       "date": "Fri, 03 Jul 2026 13:51:36 -0500"
-    },
-    {
-      "title": "Russia Scrambles for Asian Jet Fuel as Crisis Deepens",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Scrambles-for-Asian-Jet-Fuel-as-Crisis-Deepens.html",
-      "source": "OilPrice",
-      "date": "Fri, 03 Jul 2026 12:30:00 -0500"
     },
     {
       "title": "Canada commits $352M to Red Chris mine expansion in British Columbia",
