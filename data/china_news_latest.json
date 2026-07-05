@@ -1,10 +1,28 @@
 {
-  "run_at_kst": "2026-07-05T14:14:39.471743+09:00",
+  "run_at_kst": "2026-07-05T20:13:30.635976+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "한적한 어촌서 中최대 수출기지 된 선전…11월 APEC 앞두고 도시 개조중",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FVXVRdkNXZEpBQlhrdGZRQzJmeDFOZ0JDeEhLTTNtU1ZVeGVaUi0xSzBXWXdRb3laT3BrNld2UktOM2JIR2tCX2JXQTh5cHpMTlHSAVNBVV95cUxQdTMwRmJZcW1xXzBEeWs0U2RVdDJyemZNZ016MlpqWFVjM3lQSm4xdDVoaEljelBpNGVCMm16WDRFNWxRVlMxQk9fRVR5UE8wUzBncw?oc=5",
+      "source": "서울경제신문",
+      "date": "Sun, 05 Jul 2026 08:45:51 GMT"
+    },
+    {
+      "title": "'한·중 경제 가교' 권순기 중국아주경제발전협회장, 中 당국 감찰 조사",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aOU9YdWQ3WVZYazhGMWR1S1duVVJUcEE3NFlOY0IteVRrRXNXeUpqdmI5NTlSUjcxa3NLRGxwWXc0SEM5YlNNdENmaUxCeHUwaUNLdVdqNjlpUkU0NUVjc1RZR0tRbTA2UVBTSQ?oc=5",
+      "source": "재외동포신문",
+      "date": "Sun, 05 Jul 2026 08:18:38 GMT"
+    },
+    {
+      "title": "삼성전자 실적부터 FOMC 의사록까지…증시 향방은",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vLVBkQnRTRnh3TlY0RWR1bzVBY051Ym85eFZjdkcxekE4a0xHRTRjYmI0MmZvMmlRb1dPSlJPOERCLTk5THdYWnZ2R1BZdk5aUDUxZ1FyMnFtd9IBVEFVX3lxTE9hSW9uX3huNU9fSlJ6UkNYM3F4aGxCS3Vqc083MlFZa2Vibi1KTEFGUnRLOEtXbldqajBNWUVkdjd2ZUZ0Z3czZ3BTVWVPQUExd0dnSA?oc=5",
+      "source": "한국경제",
+      "date": "Sun, 05 Jul 2026 07:16:07 GMT"
+    },
     {
       "title": "왕이, 발렌베리 회장과 회동…중국, 유럽과 경제협력 강화 추진",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QV0tGd1o0bDJRcFM1czNPMzZIbFBYWTNzcHo5dHMwVmVBZVBnV09UeXBYc25ZUmF5RXJFSmQ3TzBYSS1URUxuTmgyTlNCc1U4UE1aVDgzMDFvRWwtM0JYT3hQMElyZGp0b3c?oc=5",
@@ -12,16 +30,10 @@
       "date": "Sun, 05 Jul 2026 04:52:00 GMT"
     },
     {
-      "title": "이란, 호르무즈 수수료 고수…\"중국 등 우호국은 우대\"",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83MFpfZTlkU2kzQVRHNHFtU1B3OGRwZHptMElNTjdXMjd2bmtMOUxYcU1kR3FsWlllb3pURkJhRGhIM0l1WXozdU5pSFFCZDg?oc=5",
-      "source": "v.daum.net",
-      "date": "Sun, 05 Jul 2026 01:07:00 GMT"
-    },
-    {
-      "title": "‘2026 칭다오-한국 경제무역문화관광협력교류회’ 서울서 개최",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oUVNPQjVKalI0c2NPWXRiTkpyeGVPUHdVQWdPakszVmJvU0FzZzZuRFNCZlBXTS1NLXRnWFItSE1WWDhGTFFlX0RaeV9SX1hwODhJa1dUSXBJWXA3NC12elJIbEJ6VWl1M3c?oc=5",
-      "source": "인민망",
-      "date": "Fri, 03 Jul 2026 07:27:00 GMT"
+      "title": "이란, 호르무즈 수수료 고수…중국 등 우호국은 우대",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2RVRMdmEtcW9fa05Wb3ZHUXJ5ZEFmenZ4a2VCbTdGXzRKQ0VQMFVwZHZ3RVN1TDBFM1J5RkV6TXF2OEhva08xbzBFUlVZUWxjNkFpT1ppRjBkd9IBWEFVX3lxTE9INlkwdkQxOElRZFhMU2NNa21JOEpKVHZkWmt2SDBjSzdFVVd1dHAzMThwaWIzdmtXS0xreGU5d1loYVQyQUZ4d1IxRFR2d1NQQXMzMHFkc2Q?oc=5",
+      "source": "아주경제",
+      "date": "Sun, 05 Jul 2026 01:07:18 GMT"
     },
     {
       "title": "\"중국 경제 비관적\" 강연 내용에 불만?...베이징서 경찰 출동 소동",
@@ -64,18 +76,6 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16NDVwakluWlRlVHJWdzN4NW1yVGhiR0tHWGZHbjdDUW0ydUtmRzJWYzNYMW1adFdYYXdzUW1nQ2JoQjd0YVpoenBhdmlYM3M?oc=5",
       "source": "v.daum.net",
       "date": "Mon, 29 Jun 2026 09:00:00 GMT"
-    },
-    {
-      "title": "중국 경제, AI 초호황과 내수 침체 사이의 갈림길",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50Z3VhX1JXa0RtT1hsSXVCUGJpRHN2MTBnanZhek00cXp2RVhWR0JzbHhZbG5xWGdhaVZfUldRcXI2dzZQNHdjXzN6U19FSk4zN1dJUUhiQTJ0bXlMWXVyTWpOT1oxMlVCSmc?oc=5",
-      "source": "Investing.com 한국어",
-      "date": "Sun, 21 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "경제는 ‘흔들’ 기술은 ‘질주’하는 중국의 딜레마, 실체는?",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZG1sWUFDY2l6bFoyeFBUdTdzUjgwU1o0clpaZm5hSk9QU0NvUE5uQWdaelg0OFhKNXI2dXk5VnNjSVE5R3lwMkpDMFFiRzc1LW9nYnVn?oc=5",
-      "source": "중앙일보",
-      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
     }
   ]
 }
