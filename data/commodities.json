@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-07-06T20:08:54.158298+09:00",
+  "updated_at_kst": "2026-07-07T07:06:43.481970+09:00",
   "ref_date": "2026-07-06",
   "schema_version": "1.0",
   "adjustment_applied": true,
@@ -7,7 +7,7 @@
     "up_count": 72,
     "down_count": 53,
     "flat_count": 318,
-    "total": 415,
+    "total": 443,
     "top_gainers": [
       {
         "name": "인산수소이나트륨",
@@ -2291,13 +2291,6 @@
       "sector": "화학공업",
       "price_prev": 25786.05,
       "price_today": 25786.05,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "요오드화칼륨",
-      "sector": "화학공업",
-      "price_prev": 432.6,
-      "price_today": 432.6,
       "change_pct": 0.0
     },
     {
