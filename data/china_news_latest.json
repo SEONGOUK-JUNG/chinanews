@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-07-06T07:15:39.436217+09:00",
+  "run_at_kst": "2026-07-06T10:13:21.030821+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "린홍원 \"메모리는 중국이 끝까지 추격…디스플레이 전철 밟을 수도\" [중국 반도체 굴기 2026 上]",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpZm16Yl90R2dLNGZ4eE5oMm8tRXgwajZiaUFQME9pY0FtM0phM3ZuZllnVlBob1JHbWoydWFEZ3p6VUZGemNEamRrbE8yZ0U?oc=5",
+      "source": "v.daum.net",
+      "date": "Sun, 05 Jul 2026 20:00:16 GMT"
+    },
     {
       "title": "미래경제문화포럼, 김종인 \"21세기 세계질서 개편과 한반도\" 주제 강연",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kNXIwM2h0UkgtTnBISlp3LVJRSm0xb0Q5Z1lYV285R0FtMkl3aVVuT1YtRWFOREN1Sm1ZOWxqNE00d21zeHpZdjlrejZVem5YVWVnaFc1Q3hpNzIwMzBscXJLM0dWNlZGbFFKSlh3?oc=5",
@@ -16,12 +22,6 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aOU9YdWQ3WVZYazhGMWR1S1duVVJUcEE3NFlOY0IteVRrRXNXeUpqdmI5NTlSUjcxa3NLRGxwWXc0SEM5YlNNdENmaUxCeHUwaUNLdVdqNjlpUkU0NUVjc1RZR0tRbTA2UVBTSQ?oc=5",
       "source": "재외동포신문",
       "date": "Sun, 05 Jul 2026 08:18:38 GMT"
-    },
-    {
-      "title": "삼성전자 실적부터 FOMC 의사록까지…증시 향방은",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vLVBkQnRTRnh3TlY0RWR1bzVBY051Ym85eFZjdkcxekE4a0xHRTRjYmI0MmZvMmlRb1dPSlJPOERCLTk5THdYWnZ2R1BZdk5aUDUxZ1FyMnFtd9IBVEFVX3lxTE9hSW9uX3huNU9fSlJ6UkNYM3F4aGxCS3Vqc083MlFZa2Vibi1KTEFGUnRLOEtXbldqajBNWUVkdjd2ZUZ0Z3czZ3BTVWVPQUExd0dnSA?oc=5",
-      "source": "한국경제",
-      "date": "Sun, 05 Jul 2026 07:16:07 GMT"
     },
     {
       "title": "왕이, 발렌베리 회장과 회동…중국, 유럽과 경제협력 강화 추진",
