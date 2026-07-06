@@ -1,51 +1,63 @@
 {
-  "run_at_kst": "2026-07-06T14:16:32.598390+09:00",
+  "run_at_kst": "2026-07-06T20:16:44.768815+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "중국·나미비아, 전격 ‘무관세’로 경제 혈맹 가속화… 교역액 35% 급증 속 정상 외교 ‘정점’(China-Namibia Economic Alliance Accelerates with Zero-Tariff Policy; Trade Surges 35% as State Visit Begins)",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGY1kxNHlXYzh5YmFkQmxmZkNOUHJCTFIwbHp5RjVGNjRfVFR6akxfbXBuVWFmc1ZwcGI2dURWQkpYcHEzM3pxTnJIams3TzhmaHBFTC1SZEo3NjVaNmtOelRfLVV3akFkQWVweVpiLWh6Zw?oc=5",
-      "source": "글로벌휴먼타임즈",
-      "date": "Mon, 06 Jul 2026 04:46:23 GMT"
+      "title": "중국 사정기관, 권순기 중국아주경제발전협회장 부패혐의 조사",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLVGRHaVA5cFZCZ1l6TmEtU3FWQTdtZ2VQMXMxR0tMVjgtc2lzaXBXamFvQ0VPTV9OVGZLNV9leDlfVy1abGNlVXNXbVl3RVk0cHB1dXNuUThhcEpqVDlobG9vNmVZQkpJb1dNbTlR?oc=5",
+      "source": "월드코리안뉴스",
+      "date": "Mon, 06 Jul 2026 09:58:00 GMT"
     },
     {
-      "title": "중국은 순환 경제 육성을 위해 8조 위안을 목표로 하고 있다.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZkdfdHMzS0N5Wk9udi1tZ0w4SkZvTWtnT2p3UE11UktTOElxdExmVmptMEo2aFl1bTg1UmRpYmpCN0tnRmYxTV9VcVdZV3pVMWJFUEpIZ0d6b0Y5OEMyWGtyVmQ1NFp2bVVGU1VqVjd2dVVMc1pROGJ3emJIOWNWV19RSUtuQjlBV2J2Q1dWSWFadm1BTzJF?oc=5",
-      "source": "Vietnam.vn",
-      "date": "Mon, 06 Jul 2026 03:17:37 GMT"
+      "title": "[기획·한중교류] '中·韓 금융 협력의 새로운 기회'...중국은행 주최 로드쇼 서울서 열려",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yZkRhRWs0Wk5vXzFNUzNZdGszVWo0VkdOYnItaHJoTGxyWG9CSkQ3OTlLSzRXWktldlpfMWFsWnpzdERlNjJiUkRma0dLVFJBMmd6akRlLS1RaEJUMFRwb2dONWllaEdWSjRj?oc=5",
+      "source": "서울뉴스통신",
+      "date": "Mon, 06 Jul 2026 09:44:28 GMT"
     },
     {
-      "title": "유가, 전쟁 프리미엄 반년 만에 지웠다…배후엔 중국의 '조용한 이탈'",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93SG1BX0o0aXZMNGtnS0hJUEdFQWQ4R0QtUUVDR2NaVTVEZ1ZCbzN5R3AxR2QtbzdpbGxRUzRhVUR6WUpUWlVCRy1WWVA0dXJ1MjREMzRwbV9Db2tTa2ktYlFfSzI2X09XdGFLUHkwMA?oc=5",
-      "source": "리드경제",
-      "date": "Mon, 06 Jul 2026 03:14:20 GMT"
+      "title": "中 증시는 AI만 웃고, 韓 증시는 반도체만 오른다…동아시아 증시의 'K자 양극화'",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YTnNnRXJCWE52RjR0Y2dyYmh0NlFMeFRHTGhDZTJvOTZlN0VDcktOMXBweXFPNklEQmJVTWJ3MlNGcnM3YmhmUV9hQnJSd2R4YmVVVnVvbTV6eUk2ZVphbUpYYXJVY2J4TlNoYThB?oc=5",
+      "source": "코리아포스트 한글판",
+      "date": "Mon, 06 Jul 2026 09:32:51 GMT"
     },
     {
-      "title": "‘외국인 불법 배달’ 라이더·영업점 적발… 국적 베트남, 중국 순",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtajNERVc5UnNtUk9peGNCRGU3LWNTX2drRmpoOWJKaVpGbTQ2ZGpMSDQzalByS3VUazJHcE1XeEdINmZtRVMtWWNISE9WQ1lXUXJ2NFAxZEE3UURSbnBfa3JSYURIVllkeEUtbUtSYw?oc=5",
-      "source": "안전신문",
-      "date": "Mon, 06 Jul 2026 00:51:07 GMT"
+      "title": "“북 경제 회복세, ‘중국·전쟁’ 의존 등 구조적 약점” – RFA 자유아시아방송",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSVBFYURJOTJVT21UV1VzOGFMSndtWm1Ja2xHT21yTmpUZmFmZWpvaFZIZXRfem9UTV9FTmJyMEJRMkVUVXRfSFJIOTFaVm85V1gxYm54SVo5OFJSWHFSZXl6M1NlckQ4Tl84VFFsX09lbkdLSXZ3bi1GcDFWSkJybGRyb0I?oc=5",
+      "source": "Radio Free Asia",
+      "date": "Mon, 06 Jul 2026 09:18:44 GMT"
     },
     {
-      "title": "중국 바이트댄스·알리바바 등 'AI 에이전트' 잇단 종료...왜?",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxRjd2Vk9yMElXUlZCVExHSDktM0UzT0RRTEdOSjR2bDNmR19sZkg1aUtWM0NmWG5jTk5oaWp0ZXBucmQ4bldUZ0NFam5rX0VLWkJzSUs5VWpRQ09MV0JDc1pfbmtsbnJ5bTQ0alpORFbSAXNBVV95cUxONWNHal92eWM2cGpKWWItcUpkXzd5SnBncmt2U2NaSnJJWnQ3OTlrZVhtM3QzRzhFMGYzc1hBd1JDLU5pT3A0UWxSM19rVEJUYzBqMDZPOC1aMEloc1RXcWw2WFNmbXJPdFFzVkVRLXNlTC13?oc=5",
-      "source": "초이스경제",
-      "date": "Mon, 06 Jul 2026 00:38:40 GMT"
-    },
-    {
-      "title": "'한·중 경제 가교' 권순기 중국아주경제발전협회장, 中 당국 감찰 조사",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aOU9YdWQ3WVZYazhGMWR1S1duVVJUcEE3NFlOY0IteVRrRXNXeUpqdmI5NTlSUjcxa3NLRGxwWXc0SEM5YlNNdENmaUxCeHUwaUNLdVdqNjlpUkU0NUVjc1RZR0tRbTA2UVBTSQ?oc=5",
-      "source": "재외동포신문",
-      "date": "Sun, 05 Jul 2026 08:18:38 GMT"
-    },
-    {
-      "title": "\"중국 경제 비관적\" 강연 내용에 불만?...베이징서 경찰 출동 소동",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8ySkJ1clN3NFlpckJQU1B2LWRSclRyYXU0US12VG1laVdSOFJQT3FhajFUWmtoa0diNHkyYmFYN0FTVEdDeWdfaGdBR21iVUU?oc=5",
+      "title": "미중 패권경쟁 속 K바이오는…\"중국과 선별적 협력해야\"",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VUGplMms1TVgtQm1CX3hrU1JaSTc1WlYxcGlSeG05YWtNWmduSERtMXktRUdsYURYOFRsNE0xaTQ0ZDctZ0tjWmNYZTMyanM?oc=5",
       "source": "v.daum.net",
-      "date": "Thu, 02 Jul 2026 07:21:03 GMT"
+      "date": "Mon, 06 Jul 2026 07:53:00 GMT"
+    },
+    {
+      "title": "중국 '철의 실크로드' 따라 유라시아 경제권 열리다",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5TEZwYkU3SjNlYUhNalZESjBlejdnYXNFaW9wY0hhZEVCWUFSTk1KMWlhRXJuY2hza3dlZER0TnpfbVhQUjZLNkVycVZ3cjNwS2ZrWWhSSkRPQdIBVEFVX3lxTE1vbHk2SGNYUzlhWHlWNzJxZ3FINzBnV0s5VC1Qa0RYaktodFFSMjVPUVUwVU91MXRWUGJlR1RVeDRvTk1lWHpKTzdZa0RRUDY2c0NySw?oc=5",
+      "source": "한국경제",
+      "date": "Mon, 06 Jul 2026 06:37:49 GMT"
+    },
+    {
+      "title": "중국 경제매체 \"한국, AI·반도체에 국가 승부수\"…2000조 원 투자계획 주목",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kODJEMk9ON05kd1JuVjZORkprbFZZTXRvTTB0UUtfNzR3Mk5wWVFsTS1ranJtbFZfMUI1ZWVWU1BmQjFMNWpIMU1yYkUwLVloVTJfY0ZpZzJob2VzblVhNUZxb2tFbXpJSzJ3?oc=5",
+      "source": "서울일보",
+      "date": "Mon, 06 Jul 2026 05:20:19 GMT"
+    },
+    {
+      "title": "닛산(7201 JP), 중국 생산 차량 글로벌 수출 본격화…첫 시장은 멕시코",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GV3ZFY2ZjOVlGNFp1R2dhdUVhTnVicmJVanZfclUySGxkb0lMTHJEZmIwbzRzc3VLNUhWbHpjR3ppRXFnWnZHTklPVXhDdXhPWHpfN3NmRjZZcGkydDRRRHNObVhmUkJPWm9MaW5B?oc=5",
+      "source": "알파경제",
+      "date": "Mon, 06 Jul 2026 04:06:43 GMT"
+    },
+    {
+      "title": "미국의 중국 오판이 초래한 현실...WP 경제기자가 본 지난 30여년",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAybG1IRy1oLThoUHpQQ1FRSTFsM092amd6U1BnTFdQaGR1dXFuU1hvaFNiS3JvU1ZuaDZHaHA5SEF6Mnhrd3R6bHJxU2sydFNJZ0daTC1TOUtoRkpSNGcyd1JGZFZ1bF9sSjdv0gFvQVVfeXFMUEVTRk96NkNRdFhseXFNNmNGMnVtbFhmMkNxTFJjUnB0NW51SzhPbXZZdkY1ZW5xa2FZd2lvM2FKNXV2WEhVUmN5aWJwMGJwMjJZZ09wbG12aE93TjFnN3dZQV82b0h0WHBkeHFlbFdN?oc=5",
+      "source": "자유일보",
+      "date": "Mon, 06 Jul 2026 04:05:00 GMT"
     },
     {
       "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
@@ -60,22 +72,10 @@
       "date": "Thu, 02 Jul 2026 06:26:00 GMT"
     },
     {
-      "title": "전 칭화대 교수 중국 경제 비판 강연 중 경찰 출동",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83ZUE2NlhZNzZLdzVPVGhHWlBHSE45aVZrYlN0cWdrYnBhRGs2OWZyOThVdEhha3BmcnlockFtTWZ0R0hWQVFLZUxvbHlqYUU?oc=5",
-      "source": "v.daum.net",
-      "date": "Thu, 02 Jul 2026 04:16:16 GMT"
-    },
-    {
       "title": "2026년 하반기 중국경제 전망",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeXlFallrZFA2T1BfclgzbUxVS0Vnc2l4eHhuWC1ESERxM2ZSZWUzR21RUTFaTjZkSy1jcFFaUWhranhTZS1NSjRWZFMza1I2S2tVSGRSVDlIQnFfRkVTR1p1UGJjaWE0RDEzdm9mUWRYajJRT2FyQ1JyYjF0RWktakcxcGpLQzhpWkhmQXBZZ3FvcWpHdVMta0psRzJXSHhiX2c?oc=5",
       "source": "한국개발연구원(KDI)",
       "date": "Wed, 01 Jul 2026 17:30:30 GMT"
-    },
-    {
-      "title": "경제는 ‘흔들’ 기술은 ‘질주’하는 중국의 딜레마, 실체는?",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZG1sWUFDY2l6bFoyeFBUdTdzUjgwU1o0clpaZm5hSk9QU0NvUE5uQWdaelg0OFhKNXI2dXk5VnNjSVE5R3lwMkpDMFFiRzc1LW9nYnVn?oc=5",
-      "source": "중앙일보",
-      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
     }
   ]
 }

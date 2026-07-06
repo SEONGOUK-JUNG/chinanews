@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-06T14:16:32.598390+09:00",
+  "run_at_kst": "2026-07-06T20:16:44.768815+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Germany Weathers Energy Crisis With Growing Dependence on American LNG",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Germany-Weathers-Energy-Crisis-With-Growing-Dependence-on-American-LNG.html",
+      "source": "OilPrice",
+      "date": "Mon, 06 Jul 2026 06:00:00 -0500"
+    },
+    {
+      "title": "Severe Storms Leave More Than 620,000 U.S. Customers Without Power",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Severe-Storms-Leave-More-Than-620000-US-Customers-Without-Power.html",
+      "source": "OilPrice",
+      "date": "Mon, 06 Jul 2026 04:30:00 -0500"
+    },
+    {
+      "title": "More European Investors Oppose Norway’s Push for Arctic Oil Drilling",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/More-European-Investors-Oppose-Norways-Push-for-Arctic-Oil-Drilling.html",
+      "source": "OilPrice",
+      "date": "Mon, 06 Jul 2026 03:30:00 -0500"
+    },
+    {
+      "title": "Pakistan Buys Second Spot LNG Cargo as Supply Crunch Persists",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Buys-Second-Spot-LNG-Cargo-as-Supply-Crunch-Persists.html",
+      "source": "OilPrice",
+      "date": "Mon, 06 Jul 2026 02:00:00 -0500"
+    },
+    {
+      "title": "South Korea Charges Refiners With Gas Price Gouging",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/South-Korea-Charges-Refiners-With-Gas-Price-Gouging.html",
+      "source": "OilPrice",
+      "date": "Mon, 06 Jul 2026 00:33:50 -0500"
+    },
     {
       "title": "Big Tech’s $3 Trillion Struggle to Secure Enough Electricity",
       "link": "https://oilprice.com/Energy/Energy-General/Big-Techs-3-Trillion-Struggle-to-Secure-Enough-Electricity.html",
@@ -24,36 +54,6 @@
       "link": "https://oilprice.com/Energy/Natural-Gas/The-Era-of-Cheap-US-Natural-Gas-May-Be-Coming-to-an-End.html",
       "source": "OilPrice",
       "date": "Sun, 05 Jul 2026 14:00:00 -0500"
-    },
-    {
-      "title": "Starmer Out, Burnham In: What Changes for UK Energy Policy?",
-      "link": "https://oilprice.com/Energy/Energy-General/Starmer-Out-Burnham-In-What-Changes-for-UK-Energy-Policy.html",
-      "source": "OilPrice",
-      "date": "Sun, 05 Jul 2026 12:00:00 -0500"
-    },
-    {
-      "title": "Europe's Hottest June on Record Traced to Climate Change",
-      "link": "https://oilprice.com/The-Environment/Global-Warming/Europes-Hottest-June-on-Record-Traced-to-Climate-Change.html",
-      "source": "OilPrice",
-      "date": "Sun, 05 Jul 2026 10:00:00 -0500"
-    },
-    {
-      "title": "Dip in U.S. LNG Imports to EU Spells Trouble for Trade Deal",
-      "link": "https://oilprice.com/Energy/Energy-General/Dip-in-US-LNG-Imports-to-EU-Spells-Trouble-for-Trade-Deal.html",
-      "source": "OilPrice",
-      "date": "Sat, 04 Jul 2026 18:00:00 -0500"
-    },
-    {
-      "title": "Largest Data Center Project Ever Proposed Is Officially Dead",
-      "link": "https://oilprice.com/Energy/Energy-General/Largest-Data-Center-Project-Ever-Proposed-Is-Officially-Dead.html",
-      "source": "OilPrice",
-      "date": "Sat, 04 Jul 2026 14:00:00 -0500"
-    },
-    {
-      "title": "Asia Bets on Biofuels to Dodge Middle East Oil Shortages",
-      "link": "https://oilprice.com/Alternative-Energy/Biofuels/Asia-Bets-on-Biofuels-to-Dodge-Middle-East-Oil-Shortages.html",
-      "source": "OilPrice",
-      "date": "Sat, 04 Jul 2026 12:00:00 -0500"
     },
     {
       "title": "Ottawa’s C$500M Red Chris bet tests British Columbia grid",
