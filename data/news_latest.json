@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-07T14:43:49.755578+09:00",
+  "run_at_kst": "2026-07-07T20:12:40.987592+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "India Resumes Iraqi Oil Imports Despite Hormuz Shipping Risks",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Resumes-Iraqi-Oil-Imports-Despite-Hormuz-Shipping-Risks.html",
+      "source": "OilPrice",
+      "date": "Tue, 07 Jul 2026 05:30:00 -0500"
+    },
+    {
+      "title": "Shell Signals Oil and Gas Trading Windfall in Q2 Amid Iran War",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Shell-Signals-Oil-and-Gas-Trading-Windfall-in-Q2-Amid-Iran-War.html",
+      "source": "OilPrice",
+      "date": "Tue, 07 Jul 2026 04:30:00 -0500"
+    },
+    {
+      "title": "4 Million Barrels of Saudi Crude Set to Transit Strait of Hormuz",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/4-Million-Barrels-of-Saudi-Crude-Set-to-Transit-Strait-of-Hormuz.html",
+      "source": "OilPrice",
+      "date": "Tue, 07 Jul 2026 03:30:00 -0500"
+    },
+    {
+      "title": "Gulf Oil Exporters Slash Prices as Buyers Gain the Upper Hand",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Gulf-Oil-Exporters-Slash-Prices-as-Buyers-Gain-the-Upper-Hand.html",
+      "source": "OilPrice",
+      "date": "Tue, 07 Jul 2026 01:45:00 -0500"
+    },
+    {
+      "title": "India’s Fuel Consumption Slips Despite Record Crude Oil Imports",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Fuel-Consumption-Slips-Despite-Record-Crude-Oil-Imports.html",
+      "source": "OilPrice",
+      "date": "Tue, 07 Jul 2026 00:45:00 -0500"
+    },
     {
       "title": "The U.S. Army Just Took a Historic Step to Break China's Rare Earth Dominance",
       "link": "https://oilprice.com/Energy/Energy-General/The-US-Army-Just-Took-a-Historic-Step-to-Break-Chinas-Rare-Earth-Dominance.html",
@@ -26,40 +56,10 @@
       "date": "Mon, 06 Jul 2026 17:00:00 -0500"
     },
     {
-      "title": "Shell And ExxonMobil Are Betting Billions On Nigeria's Deepwater Comeback",
-      "link": "https://oilprice.com/Energy/Energy-General/Shell-And-ExxonMobil-Are-Betting-Billions-On-Nigerias-Deepwater-Comeback.html",
-      "source": "OilPrice",
-      "date": "Mon, 06 Jul 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Saudi Arabia Ships 34 Million Barrels Through Hormuz Despite Thin Tanker Traffic",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Ships-34-Million-Barrels-Through-Hormuz-Despite-Thin-Tanker-Traffic.html",
-      "source": "OilPrice",
-      "date": "Mon, 06 Jul 2026 15:30:00 -0500"
-    },
-    {
-      "title": "North America Drove Nearly Half Of Global Emissions Growth In 2025",
-      "link": "https://oilprice.com/Energy/Energy-General/North-America-Drove-Nearly-Half-Of-Global-Emissions-Growth-In-2025.html",
-      "source": "OilPrice",
-      "date": "Mon, 06 Jul 2026 15:00:00 -0500"
-    },
-    {
       "title": "China’s top ETF is now gold, not stocks",
       "link": "https://www.mining.com/chinas-top-etf-is-now-gold-not-stocks/",
       "source": "mining.com",
       "date": "Mon, 06 Jul 2026 19:10:41 +0000"
-    },
-    {
-      "title": "Iran War Strengthens the Case for Renewables and Storage",
-      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Iran-War-Strengthens-the-Case-for-Renewables-and-Storage.html",
-      "source": "OilPrice",
-      "date": "Mon, 06 Jul 2026 14:00:00 -0500"
-    },
-    {
-      "title": "UAE Oil Production Nears Record High After OPEC Exit",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/UAE-Oil-Production-Nears-Record-High-After-OPEC-Exit.html",
-      "source": "OilPrice",
-      "date": "Mon, 06 Jul 2026 13:30:00 -0500"
     },
     {
       "title": "Mine operators face worsening wildfire seasons",

@@ -1,18 +1,24 @@
 {
-  "run_at_kst": "2026-07-07T14:43:09.284729+09:00",
+  "run_at_kst": "2026-07-07T20:12:40.987592+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "[경제] 중국철로 후허하오터국, 올 상반기 여객 운송량 2천만 명 넘어",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wVHQwV3NpNVIyUGFja1lDY2t5LTVHTVZYYUtOa3JsTFRQS0poanpfalBXRVIyRWNQU04wUGczakNuMzFkbktjaGE5UHR5VGxQZnVSYUc2TGJETWZJa2tOeGZBakU3aXdOd0xJ?oc=5",
-      "source": "서울뉴스통신",
-      "date": "Tue, 07 Jul 2026 05:11:39 GMT"
+      "title": "[경제] 세계은행 \"中 경제 회복력 견조...AI 투자·수출이 성장 견인\"",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RMlhvdkVzb09hUk1wZC0tYkNVQTNxc2VldlJ5Y3dpeDRJbEZmX0hfWDhKVkdXbTJYYWJvNGdrMmhtN2JnUzd3V3VRWGxmd0JSTWJTRk5veHVjZ2xsSE5aQWZKYXpveGVsNDJDbg?oc=5",
+      "source": "내외뉴스통신",
+      "date": "Tue, 07 Jul 2026 10:44:21 GMT"
     },
     {
-      "title": "파산의 일상화에 中 금융 기업들도 디폴트로 휘청",
+      "title": "[중국증시-마감] 1%대 하락…경제지표 발표 앞두고 관망세",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkYjJHYkE0SEpoWmxxZnNwX3RlSmdQZlNNU2RMS2ZMRzFCeW9oWUR4M3VQbHNLMm5udzdHTExHYXdkWWsxWmt0OS11YzBfZHI3SUk0eTdWeWJRWFdwT1BxRDQyVjhJLVlMWUl4VXB1M0U?oc=5",
+      "source": "연합인포맥스",
+      "date": "Tue, 07 Jul 2026 09:09:39 GMT"
+    },
+    {
+      "title": "[아시아 이슈] 파산의 일상화에 中 금융 기업들도 디폴트로 휘청",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPSUZYODdLaVBCWGtiVl8zbDI2Tmd6OTN0WkdlT0M5bGcyc1pwU1pXTHdqdTBXSUhUbjRkUWllTjRHNmV1MDBYNWNXZXpwYUhxWmJ4d0JteUN2UVFXY2ZRS0I1cUdDcUVrRWNXcE1B?oc=5",
       "source": "아시아투데이",
       "date": "Tue, 07 Jul 2026 04:43:14 GMT"
@@ -22,12 +28,6 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sSjEzdUlUbGMzREl6dzh0NlhFYkNJV2FhZVNZdGlLT1pvNHk4aXNBZG1iTEQxLXRaZnNBcnBNbTFwQzZDZnNQU3gxWG9oNzZ6TVNhN2phUjM1azZKelBNVmtYNkhJb0xjR19LTG51RQ?oc=5",
       "source": "기호일보",
       "date": "Tue, 07 Jul 2026 04:00:15 GMT"
-    },
-    {
-      "title": "[중국 뉴스 브리핑] 2026년 7월 7일",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwc1UxcFJOTHlHQmRqamRidUxCdzZmYk91Vk5QV09hUVA4VzdWSUZWQjYtNVVrZnpSb29lTVUyakt5ZDQyRE1qNFFodXNDT1ZFWnFqUlM0YkVkaURyejdqNjZMQ2g3bzBKUlE?oc=5",
-      "source": "인민망",
-      "date": "Tue, 07 Jul 2026 02:45:00 GMT"
     },
     {
       "title": "중국아주경제발전협회 부패조사… 월드옥타 중국 선전대회에 영향 없나?",
@@ -42,13 +42,7 @@
       "date": "Tue, 07 Jul 2026 01:32:47 GMT"
     },
     {
-      "title": "삼전, 중국기업들에 '구두통지' 상태 [여의도 Pick!]",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tRU5nYkZHY1B1QTJXUVJsa3dqcld1bGtUcHNoNk5JSlc4RjNMQnphcl9JaWtZVlR1SHNFc0o0Zi1DOUtKZUNBWkRKR1puWnc?oc=5",
-      "source": "v.daum.net",
-      "date": "Mon, 06 Jul 2026 23:49:00 GMT"
-    },
-    {
-      "title": "경제성장이 저출산 해법 입증?…광둥성, 8년째 中 최다 출생 - 머니투데이",
+      "title": "경제성장이 저출산 해법 입증?…광둥성, 8년째 中 최다 출생",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45MWNzOU10Vkt4anRxLW5qTEEzNWZ0LW1uNDcxM25FSS1MUk1pTGZDZnVtOG85Qm1tb040R1I5dTh2QUd6ZVNmcHRwbGxaTERvZ1IyRmx3cXEwcHNxYV8xazlTUTh2T0E00gFuQVVfeXFMT3lJQzZvSjU0QjlZMFR1cllxQVRfMUVyREljeXRlQlF0QkN1dEdnYVVRU1FyeERhSVhUQWZSdDl5Qi05RE82eWstTktRdzBhbWRnVDlsOHZWYkw2WFFMTkViekYtemdxTHA4a0trNmc?oc=5",
       "source": "머니투데이",
       "date": "Mon, 06 Jul 2026 23:18:54 GMT"
@@ -64,6 +58,12 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kODJEMk9ON05kd1JuVjZORkprbFZZTXRvTTB0UUtfNzR3Mk5wWVFsTS1ranJtbFZfMUI1ZWVWU1BmQjFMNWpIMU1yYkUwLVloVTJfY0ZpZzJob2VzblVhNUZxb2tFbXpJSzJ3?oc=5",
       "source": "서울일보",
       "date": "Mon, 06 Jul 2026 05:20:19 GMT"
+    },
+    {
+      "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Thu, 02 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "“중국 경제 안 좋다” 칭화대 전 교수, 강연 중 한 말에···경찰 출동 소동",
