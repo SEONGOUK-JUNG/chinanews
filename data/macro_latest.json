@@ -1,22 +1,139 @@
 {
-  "updated_at_kst": "2026-06-12T08:30:00+09:00",
-  "as_of": "2026-06-12",
+  "updated_at_kst": "2026-07-07T14:38:09+09:00",
+  "as_of": "2026-07-07",
   "source": "Trading Economics",
   "source_url": "https://tradingeconomics.com/china/indicators",
   "note": "월 1회 갱신 거시지표. 출처 Trading Economics(중국).",
   "indicators": [
-    {"label": "제조업 PMI", "label_en": "Manufacturing PMI", "value": 51.8, "previous": 52.2, "display": "51.8", "ref": "2026-05", "hint": "50=확장/위축 분기", "hint_en": "above 50 = expansion"},
-    {"label": "비제조업 PMI", "label_en": "Non-Mfg PMI", "value": 50.1, "previous": 49.4, "display": "50.1", "ref": "2026-05", "hint": "50 기준", "hint_en": "50 line"},
-    {"label": "차이신 서비스 PMI", "label_en": "Caixin Services PMI", "value": 54.4, "previous": 52.6, "display": "54.4", "ref": "2026-05", "hint": "민간 서비스업", "hint_en": "private services"},
-    {"label": "GDP 성장률 (YoY)", "label_en": "GDP Growth (YoY)", "value": 5.0, "previous": 4.5, "display": "5.0%", "ref": "2026 Q1", "hint": "전년동기比", "hint_en": "year-on-year"},
-    {"label": "소비자물가 CPI (YoY)", "label_en": "CPI (YoY)", "value": 1.2, "previous": 1.2, "display": "1.2%", "ref": "2026-05", "hint": "인플레이션", "hint_en": "inflation"},
-    {"label": "생산자물가 PPI (YoY)", "label_en": "PPI (YoY)", "value": 3.9, "previous": 2.8, "display": "+3.9%", "ref": "2026-05", "hint": "3년래 최고", "hint_en": "3-year high"},
-    {"label": "도시 실업률", "label_en": "Urban Unemployment", "value": 5.2, "previous": 5.4, "display": "5.2%", "ref": "2026-04", "hint": "조사실업률", "hint_en": "surveyed rate"},
-    {"label": "기준금리 LPR (1년)", "label_en": "LPR 1Y", "value": 3.0, "previous": 3.0, "display": "3.00%", "ref": "2026-05", "hint": "대출우대금리", "hint_en": "loan prime rate"},
-    {"label": "지급준비율 RRR", "label_en": "Reserve Ratio (RRR)", "value": 7.5, "previous": 7.5, "display": "7.50%", "ref": "2026-05", "hint": "지준율", "hint_en": "reserve requirement"},
-    {"label": "무역수지", "label_en": "Trade Balance", "value": 105.0, "previous": 84.8, "display": "+$105.0B", "ref": "2026-05", "hint": "월간 흑자", "hint_en": "monthly surplus"},
-    {"label": "소매판매 (MoM)", "label_en": "Retail Sales (MoM)", "value": -0.48, "previous": -0.06, "display": "-0.48%", "ref": "2026-04", "hint": "전월比", "hint_en": "month-on-month"},
-    {"label": "USD/CNY", "label_en": "USD/CNY", "value": 6.76, "previous": 6.76, "display": "6.76", "ref": "2026-06", "hint": "위안 환율", "hint_en": "yuan FX"},
-    {"label": "상하이종합지수", "label_en": "SSE Composite", "value": 4036, "previous": 3987, "display": "4,036", "ref": "2026-06", "hint": "SSE Composite", "hint_en": "Shanghai index"}
+    {
+      "label": "제조업 PMI",
+      "label_en": "Manufacturing PMI",
+      "value": 51.7,
+      "previous": 51.8,
+      "display": "51.7",
+      "ref": "2026-06",
+      "hint": "50=확장/위축 분기",
+      "hint_en": "above 50 = expansion"
+    },
+    {
+      "label": "비제조업 PMI",
+      "label_en": "Non-Mfg PMI",
+      "value": 50.2,
+      "previous": 50.1,
+      "display": "50.2",
+      "ref": "2026-06",
+      "hint": "50 기준",
+      "hint_en": "50 line"
+    },
+    {
+      "label": "차이신 서비스 PMI",
+      "label_en": "Caixin Services PMI",
+      "value": 54.1,
+      "previous": 54.4,
+      "display": "54.1",
+      "ref": "2026-06",
+      "hint": "민간 서비스업",
+      "hint_en": "private services"
+    },
+    {
+      "label": "GDP 성장률 (YoY)",
+      "label_en": "GDP Growth (YoY)",
+      "value": 5.0,
+      "previous": 4.5,
+      "display": "5.0%",
+      "ref": "2026 Q1",
+      "hint": "전년동기比",
+      "hint_en": "year-on-year"
+    },
+    {
+      "label": "소비자물가 CPI (YoY)",
+      "label_en": "CPI (YoY)",
+      "value": 1.2,
+      "previous": 1.2,
+      "display": "1.2%",
+      "ref": "2026-05",
+      "hint": "인플레이션·6월 미발표",
+      "hint_en": "inflation (Jun pending)"
+    },
+    {
+      "label": "생산자물가 PPI (YoY)",
+      "label_en": "PPI (YoY)",
+      "value": 3.9,
+      "previous": 2.8,
+      "display": "+3.9%",
+      "ref": "2026-05",
+      "hint": "6월 미발표",
+      "hint_en": "May, Jun pending"
+    },
+    {
+      "label": "도시 실업률",
+      "label_en": "Urban Unemployment",
+      "value": 5.1,
+      "previous": 5.2,
+      "display": "5.1%",
+      "ref": "2026-05",
+      "hint": "조사실업률",
+      "hint_en": "surveyed rate"
+    },
+    {
+      "label": "기준금리 LPR (1년)",
+      "label_en": "LPR 1Y",
+      "value": 3.0,
+      "previous": 3.0,
+      "display": "3.00%",
+      "ref": "2026-06",
+      "hint": "대출우대금리",
+      "hint_en": "loan prime rate"
+    },
+    {
+      "label": "지급준비율 RRR",
+      "label_en": "Reserve Ratio (RRR)",
+      "value": 7.5,
+      "previous": 7.5,
+      "display": "7.50%",
+      "ref": "2026-06",
+      "hint": "지준율",
+      "hint_en": "reserve requirement"
+    },
+    {
+      "label": "무역수지",
+      "label_en": "Trade Balance",
+      "value": 105.0,
+      "previous": 84.8,
+      "display": "+$105.0B",
+      "ref": "2026-05",
+      "hint": "월간 흑자",
+      "hint_en": "monthly surplus"
+    },
+    {
+      "label": "소매판매 (MoM)",
+      "label_en": "Retail Sales (MoM)",
+      "value": -0.38,
+      "previous": -0.55,
+      "display": "-0.38%",
+      "ref": "2026-05",
+      "hint": "전월比",
+      "hint_en": "month-on-month"
+    },
+    {
+      "label": "USD/CNY",
+      "label_en": "USD/CNY",
+      "value": 6.8,
+      "previous": 6.79,
+      "display": "6.80",
+      "ref": "2026-07",
+      "hint": "위안 환율",
+      "hint_en": "yuan FX"
+    },
+    {
+      "label": "상하이종합지수",
+      "label_en": "SSE Composite",
+      "value": 3978,
+      "previous": 4041,
+      "display": "3,978",
+      "ref": "2026-07",
+      "hint": "SSE Composite",
+      "hint_en": "Shanghai index"
+    }
   ]
 }
