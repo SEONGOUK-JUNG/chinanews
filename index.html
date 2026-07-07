@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="ko">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="google-site-verification" content="IVP-TvGt98RNMF8xmyLUJ0rkXAXFBzmOlaRGzpZDXbM" />
 <meta name="naver-site-verification" content="d0660a720858b13ef05d91cc634476fd5b44d003" />
-<title>CHINANEWS — 중국 원자재·증시·환율 실시간 터미널</title>
+<title>CHINANEWS — China Commodities, Markets & FX Real-Time Terminal</title>
 <link rel="manifest" href="manifest.json">
 <meta name="theme-color" content="#0d1117">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -13,23 +13,25 @@
 <meta name="apple-mobile-web-app-title" content="CHINANEWS">
 <link rel="apple-touch-icon" href="icon.svg">
 <link rel="icon" href="icon.svg" type="image/svg+xml">
-<meta name="description" content="중국·글로벌 원자재 현물가의 일일 가격 변동을 한눈에. 중국 증시(CSI300·항셍)·환율·금리, 기술적 차트, 실시간 뉴스와 무역 계산기까지 매일 갱신되는 실시간 시장 터미널. 한·영 지원. chinanews.kr">
+<meta name="description" content="Daily spot-price moves across Chinese and global commodities at a glance — Chinese equities (CSI 300, Hang Seng), FX, rates, technical charts, real-time news, and a trade calculator. A live market terminal updated daily. KO/EN. chinanews.kr">
 <link rel="canonical" href="https://chinanews.kr/">
+<link rel="alternate" hreflang="en" href="https://chinanews.kr/">
+<link rel="alternate" hreflang="x-default" href="https://chinanews.kr/">
 <!-- ===== SEO / social share ===== -->
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="CHINANEWS">
-<meta property="og:title" content="CHINANEWS — 중국 원자재·증시·환율 실시간 터미널">
-<meta property="og:description" content="중국·글로벌 원자재 현물가의 일일 가격 변동, 중국 증시·환율·금리, 기술적 차트, 실시간 뉴스와 무역 계산기를 한 화면에서. 한·영 지원.">
+<meta property="og:title" content="CHINANEWS — China Commodities, Markets & FX Real-Time Terminal">
+<meta property="og:description" content="Daily spot-price moves across Chinese and global commodities at a glance — Chinese equities (CSI 300, Hang Seng), FX, rates, technical charts, real-time news, and a trade calculator. A live market terminal updated daily. KO/EN. chinanews.kr">
 <meta property="og:url" content="https://chinanews.kr/">
 <meta property="og:image" content="https://chinanews.kr/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="CHINANEWS Terminal — 중국 시장·원자재 인텔리전스">
-<meta property="og:locale" content="ko_KR">
-<meta property="og:locale:alternate" content="en_US">
+<meta property="og:image:alt" content="CHINANEWS Terminal — China market & commodity intelligence">
+<meta property="og:locale" content="en_US">
+<meta property="og:locale:alternate" content="ko_KR">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="CHINANEWS — 중국 원자재·증시·환율 실시간 터미널">
-<meta name="twitter:description" content="중국·글로벌 원자재 현물가의 일일 가격 변동, 중국 증시·환율·금리, 기술적 차트, 실시간 뉴스와 무역 계산기를 한 화면에서. 한·영 지원.">
+<meta name="twitter:title" content="CHINANEWS — China Commodities, Markets & FX Real-Time Terminal">
+<meta name="twitter:description" content="Daily spot-price moves across Chinese and global commodities at a glance — Chinese equities (CSI 300, Hang Seng), FX, rates, technical charts, real-time news, and a trade calculator. A live market terminal updated daily. KO/EN. chinanews.kr">
 <meta name="twitter:image" content="https://chinanews.kr/og-image.png">
 <meta name="keywords" content="중국 증시, 중국 주식, 원자재 가격, 현물가, CSI300, 항셍지수, KOSPI, 위안 환율, 차이나뉴스, China markets, China commodities">
 <meta name="robots" content="index, follow">
@@ -827,8 +829,8 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
         <div class="text">
           Welcome to CHINANEWS.<br>
           Ask anything about commodities, markets, or trade strategy.<br><br>
-          <strong style="color:var(--orange)">Mode:</strong> Free (Groq-based, planned)<br>
-          <strong style="color:var(--orange)">Note:</strong> Some market data not yet connected; accuracy improves once APIs are linked.
+          <strong style="color:var(--orange)">Mode:</strong> Live &middot; Groq-powered<br>
+          <strong style="color:var(--orange)">Note:</strong> Answers use this terminal&rsquo;s live data (commodities, indices, FX, news). Informational only &mdash; not investment advice.
         </div>
       </div>
       <div class="ai-input">
@@ -899,11 +901,74 @@ fetch('data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json()
 </div>
 
 <script>
-function aiSend(){
+// ===== AI Trade Assistant (Groq via serverless proxy) =====
+// 배포한 Cloudflare Worker 주소를 여기에 넣으면 작동합니다 (DEPLOY.md 참고).
+const AI_PROXY_URL = "https://chinanews-ai.koreagwangju.workers.dev";
+
+function aiBubble(role, text){
+  const panel = document.getElementById('sec-ai');
+  const input = panel.querySelector('.ai-input');
+  const b = document.createElement('div');
+  b.className = 'ai-message';
+  const lab = role === 'user' ? 'You' : 'AI';
+  b.innerHTML = '<div class="label">'+lab+'</div><div class="text"></div>';
+  b.querySelector('.text').textContent = text;
+  panel.insertBefore(b, input);
+  b.scrollIntoView({block:'nearest'});
+  return b;
+}
+
+async function aiContext(){
+  const ctx = {};
+  try{
+    const bust = '?t=' + Date.now();
+    const [com, stk, fx, nw] = await Promise.all([
+      fetch('data/commodities.json'+bust).then(r=>r.json()).catch(()=>null),
+      fetch('data/stocks_latest.json'+bust).then(r=>r.json()).catch(()=>null),
+      fetch('data/fx_latest.json'+bust).then(r=>r.json()).catch(()=>null),
+      fetch('data/news_latest.json'+bust).then(r=>r.json()).catch(()=>null),
+    ]);
+    if(com){
+      ctx.ref_date = com.ref_date;
+      ctx.pulse = {up:com.pulse.up_count, down:com.pulse.down_count, flat:com.pulse.flat_count,
+                   top_gainers:com.pulse.top_gainers, top_losers:com.pulse.top_losers};
+      ctx.featured = (com.featured||[]).map(f=>({name:f.display_name, unit:f.unit, price:f.price_today, chg:f.change_pct}));
+    }
+    if(stk){ ctx.indices = (stk.indices||[]).map(i=>({name:i.name, price:i.price, chg:i.change_pct})); }
+    if(fx){
+      ctx.fx = {};
+      for(const k in (fx.rates||{})) ctx.fx[fx.rates[k].name] = fx.rates[k].value;
+      for(const k in (fx.derived||{})) ctx.fx[fx.derived[k].name] = fx.derived[k].value;
+    }
+    if(nw){ ctx.news = (nw.items||[]).slice(0,8).map(n=>n.title); }
+  }catch(e){}
+  return ctx;
+}
+
+async function aiSend(){
   const q = document.getElementById('ai-q');
-  if(!q.value) return;
-  alert('AI assistant activates once the backend is connected.\nQuestion: "' + q.value + '"');
+  const text = (q.value||'').trim();
+  if(!text) return;
+  if(!AI_PROXY_URL){
+    aiBubble('ai','AI \uc5f0\uacb0\uc774 \uc900\ube44 \uc911\uc785\ub2c8\ub2e4. (\uad00\ub9ac\uc790: AI_PROXY_URL \ubbf8\uc124\uc815)');
+    q.value = '';
+    return;
+  }
+  aiBubble('user', text);
   q.value = '';
+  const thinking = aiBubble('ai', '…');
+  try{
+    const ctx = await aiContext();
+    const res = await fetch(AI_PROXY_URL, {
+      method:'POST',
+      headers:{'Content-Type':'application/json'},
+      body: JSON.stringify({question:text, context:ctx})
+    });
+    const data = await res.json();
+    thinking.querySelector('.text').textContent = data.answer || data.error || 'No response.';
+  }catch(e){
+    thinking.querySelector('.text').textContent = 'Error: could not reach AI server.';
+  }
 }
 document.getElementById('ai-q').addEventListener('keypress', e=>{ if(e.key==='Enter') aiSend(); });
 
@@ -1333,7 +1398,7 @@ async function loadPulse(){
         const tip = (hl.new_highs || []).slice(0,5).map(x => x.name + '(' + x.id + ')').join(', ');
         elHigh.innerHTML = '<span style="color:var(--up);font-weight:700" title="' + tip + '">' + nh + '</span>';
       }else{
-        elHigh.textContent = '0 종';
+        elHigh.textContent = (window.CN_LANG==='ko'?'0 종':'0');
         elHigh.style.color = 'var(--muted)';
       }
       elHigh.classList.remove('no-data');
@@ -1343,7 +1408,7 @@ async function loadPulse(){
         const tipL = (hl.new_lows || []).slice(0,5).map(x => x.name + '(' + x.id + ')').join(', ');
         elLow.innerHTML = '<span style="color:var(--down);font-weight:700" title="' + tipL + '">' + nl + '</span>';
       }else{
-        elLow.textContent = '0 종';
+        elLow.textContent = (window.CN_LANG==='ko'?'0 종':'0');
         elLow.style.color = 'var(--muted)';
       }
       elLow.classList.remove('no-data');
@@ -1356,7 +1421,7 @@ async function loadPulse(){
                 '· 신저가:', p.high_low_52w && p.high_low_52w.new_low_count);
   }catch(e){
     console.warn('[Pulse] failed:', e.message);
-    elStatus.textContent = '로딩 실패';
+    elStatus.textContent = (window.CN_LANG==='ko'?'로딩 실패':'Load failed');
   }
 }
 loadPulse();
@@ -1476,23 +1541,24 @@ async function loadCommodities(){
     const dt = shortDate(d.date_today);
     ['cm-th-prev', 'cm-th-prev-modal'].forEach(function(id){
       const el = document.getElementById(id);
-      if(el) el.innerHTML = '전일' + (dp ? ' <span style="color:var(--muted);font-weight:400;font-size:10px">(' + dp + ')</span>' : '');
+      if(el) el.innerHTML = (window.CN_LANG==='ko'?'전일':'Prev') + (dp ? ' <span style="color:var(--muted);font-weight:400;font-size:10px">(' + dp + ')</span>' : '');
     });
     ['cm-th-today', 'cm-th-today-modal'].forEach(function(id){
       const el = document.getElementById(id);
-      if(el) el.innerHTML = '당일' + (dt ? ' <span style="color:var(--muted);font-weight:400;font-size:10px">(' + dt + ')</span>' : '');
+      if(el) el.innerHTML = (window.CN_LANG==='ko'?'당일':'Last') + (dt ? ' <span style="color:var(--muted);font-weight:400;font-size:10px">(' + dt + ')</span>' : '');
     });
     _cmAllItems = Array.isArray(d.all_items) ? d.all_items : [];
     const metaEl = document.getElementById('cm-modal-meta');
     if(metaEl){
       if(_cmAllItems.length > 0){
-        metaEl.textContent = '전체 ' + _cmAllItems.length + '종 · 기준 ' + (d.ref_date || '—');
+        metaEl.textContent = (window.CN_LANG==='ko' ? ('전체 ' + _cmAllItems.length + '종 · 기준 ' + (d.ref_date || '—')) : ('All ' + _cmAllItems.length + ' items · Ref ' + (d.ref_date || '—')));
       } else {
-        metaEl.textContent = (d.all_items_note || '전체 리스트 준비 중');
+        metaEl.textContent = (d.all_items_note || (window.CN_LANG==='ko'?'전체 리스트 준비 중':'Full list coming soon'));
       }
     }
     renderCmModalBody('');
     console.log('[Commodities] loaded', d.updated_at_kst, '· featured:', (d.featured||[]).length, '· all:', _cmAllItems.length);
+    if(d.updated_at_kst) updateDataTimestamp(d.updated_at_kst);
   } catch(e) {
     console.warn('[Commodities] failed:', e.message);
     const fb = document.getElementById('cm-featured-body');
@@ -2064,4 +2130,9 @@ window.addEventListener('load', function(){
     if(cd.length>=14){ var ks=[]; for(var j=13;j<cd.length;j++){ var hi=-Infinity,lo=Infinity; for(var t=j-13;t<=j;t++){ if(cd[t].high>hi)hi=cd[t].high; if(cd[t].low<lo)lo=cd[t].low; } ks.push(hi===lo?50:(cd[j].close-lo)/(hi-lo)*100); } k=ks[ks.length-1]; if(ks.length>=3) dd=(ks[ks.length-1]+ks[ks.length-2]+ks[ks.length-3])/3; }
     var vol=cd[cd.length-1].volume;
     if(rb){ var p=[]; if(r!=null){ var z=r>=70?'overbought':(r<=30?'oversold':'neutral'), col=r>=70?'#ff5555':(r<=30?'#00e5a0':'inherit'); p.push('RSI(14) <b style="color:'+col+'">'+r.toFixed(1)+'</b> ('+z+')'); } if(k!=null) p.push('Stoch %K '+k.toFixed(1)+(dd!=null?(' · %D '+dd.toFixed(1)):'')); rb.innerHTML=p.length?p.join(' &nbsp;|&nbsp; '):'—'; }
-    if(mb){ var q=[]; if(mk) q.push('MACD <b style="color:'+(mk.hist>=0?'#ff5555':'#00e5a0')+'">'+mk.macd.toFixed(2)+'</b> · sig '+mk.signal.toFixed(2)+' · 
+    if(mb){ var q=[]; if(mk) q.push('MACD <b style="color:'+(mk.hist>=0?'#ff5555':'#00e5a0')+'">'+mk.macd.toFixed(2)+'</b> · sig '+mk.signal.toFixed(2)+' · '+(mk.hist>=0?'bullish':'bearish')); if(vol!=null) q.push('Vol '+Number(vol).toLocaleString('en-US')); mb.innerHTML=q.length?q.join(' &nbsp;|&nbsp; '):'—'; }
+  };
+})();
+</script>
+</body>
+</html>
