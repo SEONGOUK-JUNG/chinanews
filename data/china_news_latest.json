@@ -1,21 +1,21 @@
 {
-  "run_at_kst": "2026-07-07T20:12:40.987592+09:00",
+  "run_at_kst": "2026-07-08T07:10:24.685999+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "[경제] 세계은행 \"中 경제 회복력 견조...AI 투자·수출이 성장 견인\"",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RMlhvdkVzb09hUk1wZC0tYkNVQTNxc2VldlJ5Y3dpeDRJbEZmX0hfWDhKVkdXbTJYYWJvNGdrMmhtN2JnUzd3V3VRWGxmd0JSTWJTRk5veHVjZ2xsSE5aQWZKYXpveGVsNDJDbg?oc=5",
-      "source": "내외뉴스통신",
-      "date": "Tue, 07 Jul 2026 10:44:21 GMT"
+      "title": "[중국증시-마감] 1%대 하락…경제지표 발표 앞두고 관망세 |",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50VXRtOHZxUzJWZlVDbjdlZG96LWJjckpOekR1S1FZY3J2cTVGSVotRHkzZFFsQkZjdlUyT3dvalM1WTJlMjZZWGtmZWFmdW05dnlTT1NyNEpjUXNRWTJCZFpjaENhMmVuSzF1RGQ4TlVYcHNW?oc=5",
+      "source": "연합인포맥스",
+      "date": "Tue, 07 Jul 2026 09:12:56 GMT"
     },
     {
-      "title": "[중국증시-마감] 1%대 하락…경제지표 발표 앞두고 관망세",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkYjJHYkE0SEpoWmxxZnNwX3RlSmdQZlNNU2RMS2ZMRzFCeW9oWUR4M3VQbHNLMm5udzdHTExHYXdkWWsxWmt0OS11YzBfZHI3SUk0eTdWeWJRWFdwT1BxRDQyVjhJLVlMWUl4VXB1M0U?oc=5",
-      "source": "연합인포맥스",
-      "date": "Tue, 07 Jul 2026 09:09:39 GMT"
+      "title": "5억5000만 잔 팔린 과일 커피…루이싱, ‘건강 음료’로 승부",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oYmVhcHlqQ2pMeEx2Tnl1cG1VZGUtaml4cFFPOUFlTWNXd1BJODRrMzBrWC05cHJFRmVadTNnZWY0aDV6Z2ItMlNPQ0F1anVrS2x1TGx5cVR2N3l0RTh6OVNrbXpnODBzcHliWXpR?oc=5",
+      "source": "알파경제",
+      "date": "Tue, 07 Jul 2026 05:00:22 GMT"
     },
     {
       "title": "[아시아 이슈] 파산의 일상화에 中 금융 기업들도 디폴트로 휘청",
@@ -36,16 +36,10 @@
       "date": "Tue, 07 Jul 2026 02:01:00 GMT"
     },
     {
-      "title": "[마켓+] 아모레퍼시픽, 중국 빈자리 북미·유럽이 메웠다",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01WXhxOHJtd2ZfSFBmb05OaktLcEh0WkZLTkxIUmdnV1VNUFFYTkVyVThZNENabDBPWWt5bllVNm1MbnhZbmluUGFrYV9NWC1qeWxuMVQxZTJBV2NDVDB0bURFQ1XSAWhBVV95cUxPcVhkRHFfcUtEaDdkeF9SVG9lMk5QZ1ZPOUE3bzF6RjR0S3l0akM2VFRyRjZ6ZjVWcHo5UUpjd1lYeGpGbTRLNU9ZZ3JUU1MzVTVwZzhqTV9JUVVlejlrdV9LMHB4ejFOMQ?oc=5",
-      "source": "경인방송 뉴스",
-      "date": "Tue, 07 Jul 2026 01:32:47 GMT"
-    },
-    {
-      "title": "경제성장이 저출산 해법 입증?…광둥성, 8년째 中 최다 출생",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45MWNzOU10Vkt4anRxLW5qTEEzNWZ0LW1uNDcxM25FSS1MUk1pTGZDZnVtOG85Qm1tb040R1I5dTh2QUd6ZVNmcHRwbGxaTERvZ1IyRmx3cXEwcHNxYV8xazlTUTh2T0E00gFuQVVfeXFMT3lJQzZvSjU0QjlZMFR1cllxQVRfMUVyREljeXRlQlF0QkN1dEdnYVVRU1FyeERhSVhUQWZSdDl5Qi05RE82eWstTktRdzBhbWRnVDlsOHZWYkw2WFFMTkViekYtemdxTHA4a0trNmc?oc=5",
-      "source": "머니투데이",
-      "date": "Mon, 06 Jul 2026 23:18:54 GMT"
+      "title": "중국의 고품질 발전과 중한 경제협력의 새로운 기회 ― 김정민 한국 법무법인(유한) 율촌 변호사 특별인터뷰",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZZEJsZ3gxTEtFYW5XY1ktZjhubGhnWER4VzNiUXV6Q0JBVnoyazc1b1FRWHMyZ1hWQ3doMXdoTkpoaVhSQzJUb29CU0hzemx5WWZDMWpoQlE4Nm1TSU4xN2p4dw?oc=5",
+      "source": "CGTN",
+      "date": "Mon, 06 Jul 2026 14:41:14 GMT"
     },
     {
       "title": "“북 경제 회복세, ‘중국·전쟁’ 의존 등 구조적 약점” – RFA 자유아시아방송",
@@ -63,7 +57,7 @@
       "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
       "source": ":: 위즈경제 ::",
-      "date": "Thu, 02 Jul 2026 07:00:00 GMT"
+      "date": "Fri, 03 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "“중국 경제 안 좋다” 칭화대 전 교수, 강연 중 한 말에···경찰 출동 소동",
@@ -76,6 +70,12 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeXlFallrZFA2T1BfclgzbUxVS0Vnc2l4eHhuWC1ESERxM2ZSZWUzR21RUTFaTjZkSy1jcFFaUWhranhTZS1NSjRWZFMza1I2S2tVSGRSVDlIQnFfRkVTR1p1UGJjaWE0RDEzdm9mUWRYajJRT2FyQ1JyYjF0RWktakcxcGpLQzhpWkhmQXBZZ3FvcWpHdVMta0psRzJXSHhiX2c?oc=5",
       "source": "한국개발연구원(KDI)",
       "date": "Wed, 01 Jul 2026 17:30:30 GMT"
+    },
+    {
+      "title": "[차이나 인사이트] 숫자 뒤에 숨겨진 중국경제 읽기…중국 소비 회복은 착시인가",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJUDVwNTl1ZGdBRk5aem4yYTVtQkd1QUVBZl9rb3ZGdHI2STkxc1RvYWRqay1xeFFGNHZYYWNJdzdvOHo4djlPMV90S3hHZDJ1U3NjaU9xOVJBOHRmSmpaTEc0Sk5QY0pZU0l0VUVvajJ5dw?oc=5",
+      "source": "뉴스임팩트",
+      "date": "Wed, 24 Jun 2026 21:30:00 GMT"
     }
   ]
 }
