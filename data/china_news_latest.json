@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-07-07T07:12:00.549422+09:00",
+  "run_at_kst": "2026-07-07T10:20:44.484059+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "경제성장이 저출산 해법 입증?…광둥성, 8년째 中 최다 출생 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45MWNzOU10Vkt4anRxLW5qTEEzNWZ0LW1uNDcxM25FSS1MUk1pTGZDZnVtOG85Qm1tb040R1I5dTh2QUd6ZVNmcHRwbGxaTERvZ1IyRmx3cXEwcHNxYV8xazlTUTh2T0E00gFuQVVfeXFMT3lJQzZvSjU0QjlZMFR1cllxQVRfMUVyREljeXRlQlF0QkN1dEdnYVVRU1FyeERhSVhUQWZSdDl5Qi05RE82eWstTktRdzBhbWRnVDlsOHZWYkw2WFFMTkViekYtemdxTHA4a0trNmc?oc=5",
+      "source": "머니투데이",
+      "date": "Mon, 06 Jul 2026 23:18:54 GMT"
+    },
     {
       "title": "美 제재가 키운 中 자립…‘두 개의 반도체 세계’ 현실화 [중국 반도체 굴기 2026 中]",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XM08zV3hDOHlLZE9RNU1SVV91ZThmOXF6dE9rcl9naGVKUmFSUjdXY0pVdkwxRzNRN0RiSGV1ck9JY3l1LUgwTWhlbGF3dUk?oc=5",
@@ -30,22 +36,16 @@
       "date": "Mon, 06 Jul 2026 07:53:00 GMT"
     },
     {
-      "title": "중국 '철의 실크로드' 따라 유라시아 경제권 열리다",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5TEZwYkU3SjNlYUhNalZESjBlejdnYXNFaW9wY0hhZEVCWUFSTk1KMWlhRXJuY2hza3dlZER0TnpfbVhQUjZLNkVycVZ3cjNwS2ZrWWhSSkRPQdIBVEFVX3lxTE1vbHk2SGNYUzlhWHlWNzJxZ3FINzBnV0s5VC1Qa0RYaktodFFSMjVPUVUwVU91MXRWUGJlR1RVeDRvTk1lWHpKTzdZa0RRUDY2c0NySw?oc=5",
-      "source": "한국경제",
-      "date": "Mon, 06 Jul 2026 06:37:49 GMT"
-    },
-    {
       "title": "중국 경제매체 \"한국, AI·반도체에 국가 승부수\"…2000조 원 투자계획 주목",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kODJEMk9ON05kd1JuVjZORkprbFZZTXRvTTB0UUtfNzR3Mk5wWVFsTS1ranJtbFZfMUI1ZWVWU1BmQjFMNWpIMU1yYkUwLVloVTJfY0ZpZzJob2VzblVhNUZxb2tFbXpJSzJ3?oc=5",
       "source": "서울일보",
       "date": "Mon, 06 Jul 2026 05:20:19 GMT"
     },
     {
-      "title": "미국의 중국 오판이 초래한 현실...WP 경제기자가 본 지난 30여년",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAybG1IRy1oLThoUHpQQ1FRSTFsM092amd6U1BnTFdQaGR1dXFuU1hvaFNiS3JvU1ZuaDZHaHA5SEF6Mnhrd3R6bHJxU2sydFNJZ0daTC1TOUtoRkpSNGcyd1JGZFZ1bF9sSjdv0gFvQVVfeXFMUEVTRk96NkNRdFhseXFNNmNGMnVtbFhmMkNxTFJjUnB0NW51SzhPbXZZdkY1ZW5xa2FZd2lvM2FKNXV2WEhVUmN5aWJwMGJwMjJZZ09wbG12aE93TjFnN3dZQV82b0h0WHBkeHFlbFdN?oc=5",
-      "source": "자유일보",
-      "date": "Mon, 06 Jul 2026 04:05:00 GMT"
+      "title": "'한·중 경제 가교' 권순기 중국아주경제발전협회장, 中 당국 감찰 조사",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aOU9YdWQ3WVZYazhGMWR1S1duVVJUcEE3NFlOY0IteVRrRXNXeUpqdmI5NTlSUjcxa3NLRGxwWXc0SEM5YlNNdENmaUxCeHUwaUNLdVdqNjlpUkU0NUVjc1RZR0tRbTA2UVBTSQ?oc=5",
+      "source": "재외동포신문",
+      "date": "Sun, 05 Jul 2026 08:18:38 GMT"
     },
     {
       "title": "\"중국 경제 비관적\" 강연 내용에 불만?...베이징서 경찰 출동 소동",

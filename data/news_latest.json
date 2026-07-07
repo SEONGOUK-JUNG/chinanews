@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-07T07:12:00.549422+09:00",
+  "run_at_kst": "2026-07-07T10:18:16.771267+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,18 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "The U.S. Army Just Took a Historic Step to Break China's Rare Earth Dominance",
+      "link": "https://oilprice.com/Energy/Energy-General/The-US-Army-Just-Took-a-Historic-Step-to-Break-Chinas-Rare-Earth-Dominance.html",
+      "source": "OilPrice",
+      "date": "Mon, 06 Jul 2026 19:00:00 -0500"
+    },
+    {
+      "title": "Why Abu Dhabi Is Building the World's First Integrated Energy-AI Economy",
+      "link": "https://oilprice.com/Geopolitics/Middle-East/Why-Abu-Dhabi-Is-Building-the-Worlds-First-Integrated-Energy-AI-Economy.html",
+      "source": "OilPrice",
+      "date": "Mon, 06 Jul 2026 18:00:00 -0500"
+    },
     {
       "title": "Big Oil Heads for Record Profits as Trump Turns Up the Heat on Gas Prices",
       "link": "https://oilprice.com/Energy/Crude-Oil/Big-Oil-Heads-for-Record-Profits-as-Trump-Turns-Up-the-Heat-on-Gas-Prices.html",
@@ -54,18 +66,6 @@
       "link": "https://www.mining.com/mine-operators-face-worsening-wildfire-seasons/",
       "source": "mining.com",
       "date": "Mon, 06 Jul 2026 18:15:00 +0000"
-    },
-    {
-      "title": "The Colorado River Crisis Is Reaching a Breaking Point",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Colorado-River-Crisis-Is-Reaching-a-Breaking-Point.html",
-      "source": "OilPrice",
-      "date": "Mon, 06 Jul 2026 13:00:00 -0500"
-    },
-    {
-      "title": "Russia's Oil Windfall Vanishes as Urals Crashes to $42 a Barrel",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russias-Oil-Windfall-Vanishes-as-Urals-Crashes-to-42-a-Barrel.html",
-      "source": "OilPrice",
-      "date": "Mon, 06 Jul 2026 12:30:00 -0500"
     },
     {
       "title": "Op-Ed: Molybdenum and the geopolitics of substitution",
