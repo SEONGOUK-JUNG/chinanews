@@ -1,10 +1,22 @@
 {
-  "run_at_kst": "2026-07-08T20:15:16.106753+09:00",
+  "run_at_kst": "2026-07-09T07:15:45.471015+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "국내 거주 중국동포 사상 첫 감소?...언론보도를 보고...\"과연 그럴까?\"",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16RHVEX2V4MWNFcnFNV1Z4aUQ4YTRMMklabUh4dWp3NkdVTTdsYmYzanhpaDJPWWIxcWJ6bm1QNlFPWWFQNHo0ZW50WGI2SjQ3T2E3aW5TOXdwNWd3N3hrTUZlZHlUZw?oc=5",
+      "source": "ekw.co.kr",
+      "date": "Wed, 08 Jul 2026 13:15:35 GMT"
+    },
+    {
+      "title": "중국 중앙은행, 경제 내 수급 불균형 지적",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wVUhoZklTWS1BRHZsMEJMVlROdzlXYldCZ21tQVlHRlZrSlR5ZmVfdXBFYU55VXZnM2xKNTJxWF9pY21vbGNNNTZJVmRfS3BEMzN1dzJDVUdtVTB4NVFuU3BmYUM4c0Y5T2pPQm0tUFg?oc=5",
+      "source": "Investing.com 한국어",
+      "date": "Wed, 08 Jul 2026 11:23:00 GMT"
+    },
     {
       "title": "관광서 경제 돌파구 찾는 中…\"관광수입 年226조원 목표\"",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DV2tncmRTZDZTcEI1MkxGbjlQOEpPb3VYMzIxTG10azJjQmUwUEQ5VWtGVXNXbjFDeEYxbnRGT0FHVWRNX3VkU2tJQXh5SU0?oc=5",
@@ -24,46 +36,28 @@
       "date": "Wed, 08 Jul 2026 05:50:29 GMT"
     },
     {
-      "title": "부산시, 주부산 중국 총영사 접견…경제·관광 협력 확대 논의",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OM2hrVjg5YlZrb3ZkZmcxVlJlMWFFUXRmQ1dXZE9rdkZRX3FsQlFtUlBsa3BMN3VHZE9GdFltOVVJYlhKdEtvN0RkS3NwWDFHN3hERURn?oc=5",
-      "source": "뉴스21 통신",
-      "date": "Wed, 08 Jul 2026 03:18:50 GMT"
-    },
-    {
       "title": "“중국 성장률 부풀려졌다” 공식 통계 의문 제기한 경제학자 가오산원, 54세로 별세",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1Y3FpdmZEdEFuMnc1RkZiOGdDNEpYR3AzV0MxekhteHZCSTYwQVNpLVJBaWRMRkRwTjVmaldJTmNQenpOeFQzWVI3LTNoNzlSemV4dHVITmpFUdIBX0FVX3lxTE5ObS1hYlFLWEdqdWhHT01ZZVdVbnZ0ck84VWQwbUhnekRESDEzUDhRcHd3b2FYN2FGZ1VjM0hra3FtVlZiZWpYN2RodzRDZGp5Y09PaXRpOFRWUmo2ZzRZ?oc=5",
       "source": "경향신문",
       "date": "Wed, 08 Jul 2026 03:01:00 GMT"
     },
     {
-      "title": "중국 경제: 2026년 하반기 성장을 주도할 동력은 무엇일까요?",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORkhKN0l3UUo1NTQ0YlZBaXRLUVdVMER1cFl3RS1uRjFMOXBWTFZudVcxNFpoZXlnaDRkLUJWOEliUklTUnZyYVpJUUJEME5wU1VwZi1Xd0UwMTZfM1AxdE9KbTFsZEROTHVXamZ0U1VhWU54MlZBbVNTV1BMM0FaYklYWlptckpRc1JSTU4xcDZGX2QyNHEweFYyMmhEYnJ1?oc=5",
-      "source": "Vietnam.vn",
-      "date": "Tue, 07 Jul 2026 23:49:49 GMT"
-    },
-    {
-      "title": "전재수 부산시장, 주부산중국총영사 접견…\"경제·관광·해양협력확대\"",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oUzZDWDVNY2h0ZjByYkotQ252SXNXTnY4VV9pZFdMa0lTSTVuN3dsR0MxcENIaVppS1JWd0M4NHliWG5OcmNvc0lXNWpzbTQxSm1ZZ1JuclptYjJ1Sy1oRU9GZTZ3U3hS?oc=5",
-      "source": "복지TV부울경방송",
-      "date": "Tue, 07 Jul 2026 23:44:11 GMT"
-    },
-    {
-      "title": "전재수, 주부산 중국 총영사 접견…경제·관광·협력 확대 논의",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16ME1Xa0JsaXByMXVOVEg1M0ZvYmdPYWdYSXpPRGI5ZXlzaVViQzN4Yy1yaXFZQUxZRUo0NlhOSWEweVNYaElhX3ZsNEc5LXE4S3RyZDV4Y19ma21wMTE4?oc=5",
-      "source": "뉴스1",
-      "date": "Tue, 07 Jul 2026 23:37:04 GMT"
-    },
-    {
-      "title": "전재수 부산시장, 중국 총영사와 만나 경제·관광 협력 방안 논의",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpZko2STdfUFFyNkZFdjdMbk94NDUwdG4zUmIya1FPUUJSV0MySjBhM1lSeDQ0SDVOSjZEUC1va2otcDUtbUNTbFFUX2Y2RzBQVE9ub2E5X0I3WHd3?oc=5",
-      "source": "뉴스핌",
-      "date": "Tue, 07 Jul 2026 23:13:00 GMT"
-    },
-    {
       "title": "[중국증시-마감] 1%대 하락…경제지표 발표 앞두고 관망세",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkYjJHYkE0SEpoWmxxZnNwX3RlSmdQZlNNU2RMS2ZMRzFCeW9oWUR4M3VQbHNLMm5udzdHTExHYXdkWWsxWmt0OS11YzBfZHI3SUk0eTdWeWJRWFdwT1BxRDQyVjhJLVlMWUl4VXB1M0U?oc=5",
       "source": "연합인포맥스",
       "date": "Tue, 07 Jul 2026 09:09:39 GMT"
+    },
+    {
+      "title": "경제성장이 저출산 해법 입증?…광둥성, 8년째 中 최다 출생 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45MWNzOU10Vkt4anRxLW5qTEEzNWZ0LW1uNDcxM25FSS1MUk1pTGZDZnVtOG85Qm1tb040R1I5dTh2QUd6ZVNmcHRwbGxaTERvZ1IyRmx3cXEwcHNxYV8xazlTUTh2T0E00gFuQVVfeXFMT3lJQzZvSjU0QjlZMFR1cllxQVRfMUVyREljeXRlQlF0QkN1dEdnYVVRU1FyeERhSVhUQWZSdDl5Qi05RE82eWstTktRdzBhbWRnVDlsOHZWYkw2WFFMTkViekYtemdxTHA4a0trNmc?oc=5",
+      "source": "머니투데이",
+      "date": "Mon, 06 Jul 2026 23:18:54 GMT"
+    },
+    {
+      "title": "“북 경제 회복세, ‘중국·전쟁’ 의존 등 구조적 약점” – RFA 자유아시아방송",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSVBFYURJOTJVT21UV1VzOGFMSndtWm1Ja2xHT21yTmpUZmFmZWpvaFZIZXRfem9UTV9FTmJyMEJRMkVUVXRfSFJIOTFaVm85V1gxYm54SVo5OFJSWHFSZXl6M1NlckQ4Tl84VFFsX09lbkdLSXZ3bi1GcDFWSkJybGRyb0I?oc=5",
+      "source": "Radio Free Asia",
+      "date": "Mon, 06 Jul 2026 09:18:44 GMT"
     },
     {
       "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
@@ -76,6 +70,12 @@
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJUDVwNTl1ZGdBRk5aem4yYTVtQkd1QUVBZl9rb3ZGdHI2STkxc1RvYWRqay1xeFFGNHZYYWNJdzdvOHo4djlPMV90S3hHZDJ1U3NjaU9xOVJBOHRmSmpaTEc0Sk5QY0pZU0l0VUVvajJ5dw?oc=5",
       "source": "뉴스임팩트",
       "date": "Wed, 24 Jun 2026 21:30:00 GMT"
+    },
+    {
+      "title": "경제는 ‘흔들’ 기술은 ‘질주’하는 중국의 딜레마, 실체는?",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZG1sWUFDY2l6bFoyeFBUdTdzUjgwU1o0clpaZm5hSk9QU0NvUE5uQWdaelg0OFhKNXI2dXk5VnNjSVE5R3lwMkpDMFFiRzc1LW9nYnVn?oc=5",
+      "source": "중앙일보",
+      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
     }
   ]
 }
