@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-08T14:14:44.025780+09:00",
+  "run_at_kst": "2026-07-08T20:15:16.106753+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Oil Prices Surge 6% Even as Tankers Push Through Hormuz",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Surge-6-Even-as-Tankers-Push-Through-Hormuz.html",
+      "source": "OilPrice",
+      "date": "Wed, 08 Jul 2026 05:30:00 -0500"
+    },
+    {
+      "title": "Bahrain and Kuwait Restore Power After Iranian Attacks",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Bahrain-and-Kuwait-Restore-Power-After-Iranian-Attacks.html",
+      "source": "OilPrice",
+      "date": "Wed, 08 Jul 2026 04:30:00 -0500"
+    },
+    {
+      "title": "Oil and LNG Tankers Make U-Turns After Fresh Hormuz Escalation",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-and-LNG-Tankers-Make-U-Turns-After-Fresh-Hormuz-Escalation.html",
+      "source": "OilPrice",
+      "date": "Wed, 08 Jul 2026 03:30:00 -0500"
+    },
+    {
+      "title": "China Lifts Fuel Export Curbs as Refiners Ramp Up Overseas Shipments",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Lifts-Fuel-Export-Curbs-as-Refiners-Ramp-Up-Overseas-Shipments.html",
+      "source": "OilPrice",
+      "date": "Wed, 08 Jul 2026 02:30:00 -0500"
+    },
+    {
+      "title": "Oil Prices Jump After Iran Attacks Commercial Vessels",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Jump-After-Iran-Attacks-Commercial-Vessels.html",
+      "source": "OilPrice",
+      "date": "Wed, 08 Jul 2026 00:58:56 -0500"
+    },
     {
       "title": "Why the AI Boom Is About to Break the U.S. Power Grid",
       "link": "https://oilprice.com/Energy/Energy-General/Why-the-AI-Boom-Is-About-to-Break-the-US-Power-Grid.html",
@@ -26,30 +56,6 @@
       "date": "Tue, 07 Jul 2026 17:00:00 -0500"
     },
     {
-      "title": "Trump's Nuclear Loan Program Won't Fix What's Really Broken",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Trumps-Nuclear-Loan-Program-Wont-Fix-Whats-Really-Broken.html",
-      "source": "OilPrice",
-      "date": "Tue, 07 Jul 2026 16:00:00 -0500"
-    },
-    {
-      "title": "US Crude Oil, Product Inventories Fall Even As Hormuz Traffic Begins to Flow",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Product-Inventories-Fall-Even-As-Hormuz-Traffic-Begins-to-Flow.html",
-      "source": "OilPrice",
-      "date": "Tue, 07 Jul 2026 15:48:00 -0500"
-    },
-    {
-      "title": "Big Oil's Windfall Earnings Threaten to Reignite Trump's Price-Gouging Push",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Big-Oils-Windfall-Earnings-Threaten-to-Reignite-Trumps-Price-Gouging-Push.html",
-      "source": "OilPrice",
-      "date": "Tue, 07 Jul 2026 15:00:00 -0500"
-    },
-    {
-      "title": "Oil Market Swings From Glut Fears to Hormuz Toll Concerns",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Market-Swings-From-Glut-Fears-to-Hormuz-Toll-Concerns.html",
-      "source": "OilPrice",
-      "date": "Tue, 07 Jul 2026 14:00:00 -0500"
-    },
-    {
       "title": "Yen shorts just hit a 19-year high. Gold did this last time",
       "link": "https://www.mining.com/yen-shorts-just-hit-a-19-year-high-gold-did-this-last-time/",
       "source": "mining.com",
@@ -60,12 +66,6 @@
       "link": "https://www.mining.com/op-ed-the-paradigm-shift-in-critical-mineral-investment-tungsten-is-just-the-beginning/",
       "source": "mining.com",
       "date": "Tue, 07 Jul 2026 18:01:56 +0000"
-    },
-    {
-      "title": "Kazakhstan Bets on Iran Port Despite Regional Tensions",
-      "link": "https://oilprice.com/Energy/Energy-General/Kazakhstan-Bets-on-Iran-Port-Despite-Regional-Tensions.html",
-      "source": "OilPrice",
-      "date": "Tue, 07 Jul 2026 13:00:00 -0500"
     },
     {
       "title": "South32 clears key US hurdle for $2B Arizona mine",
