@@ -1,51 +1,57 @@
 {
-  "run_at_kst": "2026-07-08T07:10:24.685999+09:00",
+  "run_at_kst": "2026-07-08T10:10:35.032065+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "[중국증시-마감] 1%대 하락…경제지표 발표 앞두고 관망세 |",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50VXRtOHZxUzJWZlVDbjdlZG96LWJjckpOekR1S1FZY3J2cTVGSVotRHkzZFFsQkZjdlUyT3dvalM1WTJlMjZZWGtmZWFmdW05dnlTT1NyNEpjUXNRWTJCZFpjaENhMmVuSzF1RGQ4TlVYcHNW?oc=5",
-      "source": "연합인포맥스",
-      "date": "Tue, 07 Jul 2026 09:12:56 GMT"
+      "title": "부산시, 중국과 경제·통상 협력 강화 나서…관광 활성화 기대",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jMHNVUnRBYXhnb2l6LUNQNGU0N2ZrMl9GTDUyelhhYWtnenREYTZZb0paSndpZFNyMktQVlBIZmxuU045aDVlNVNJSXdvYzQ4bDhmZmtyZkdKUmlCUC16cDhDOHJqNHI3MWxz0gFvQVVfeXFMT29ZZEJmT21rVFR3MmMxS3ZvTkhobWZyWklzUXlVaTZSMmRWUENPbjV1bERRVHpIaGk5cmxKRjdDU0g5LVMwcmsxbzZjZmY3NnRPUjRPbW1xQ1ktU3Bqci05T3hycHlWUjB4cFhSR2F3?oc=5",
+      "source": "더퍼블릭",
+      "date": "Wed, 08 Jul 2026 00:29:39 GMT"
     },
     {
-      "title": "5억5000만 잔 팔린 과일 커피…루이싱, ‘건강 음료’로 승부",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oYmVhcHlqQ2pMeEx2Tnl1cG1VZGUtaml4cFFPOUFlTWNXd1BJODRrMzBrWC05cHJFRmVadTNnZWY0aDV6Z2ItMlNPQ0F1anVrS2x1TGx5cVR2N3l0RTh6OVNrbXpnODBzcHliWXpR?oc=5",
-      "source": "알파경제",
-      "date": "Tue, 07 Jul 2026 05:00:22 GMT"
+      "title": "중국 경제: 2026년 하반기 성장을 주도할 동력은 무엇일까요?",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORkhKN0l3UUo1NTQ0YlZBaXRLUVdVMER1cFl3RS1uRjFMOXBWTFZudVcxNFpoZXlnaDRkLUJWOEliUklTUnZyYVpJUUJEME5wU1VwZi1Xd0UwMTZfM1AxdE9KbTFsZEROTHVXamZ0U1VhWU54MlZBbVNTV1BMM0FaYklYWlptckpRc1JSTU4xcDZGX2QyNHEweFYyMmhEYnJ1?oc=5",
+      "source": "Vietnam.vn",
+      "date": "Tue, 07 Jul 2026 23:49:49 GMT"
+    },
+    {
+      "title": "전재수 부산시장, 주부산중국총영사 접견…\"경제·관광·해양협력확대\"",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oUzZDWDVNY2h0ZjByYkotQ252SXNXTnY4VV9pZFdMa0lTSTVuN3dsR0MxcENIaVppS1JWd0M4NHliWG5OcmNvc0lXNWpzbTQxSm1ZZ1JuclptYjJ1Sy1oRU9GZTZ3U3hS?oc=5",
+      "source": "복지TV부울경방송",
+      "date": "Tue, 07 Jul 2026 23:44:11 GMT"
+    },
+    {
+      "title": "전재수, 주부산 중국 총영사 접견…경제·관광·협력 확대 논의",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16ME1Xa0JsaXByMXVOVEg1M0ZvYmdPYWdYSXpPRGI5ZXlzaVViQzN4Yy1yaXFZQUxZRUo0NlhOSWEweVNYaElhX3ZsNEc5LXE4S3RyZDV4Y19ma21wMTE4?oc=5",
+      "source": "뉴스1",
+      "date": "Tue, 07 Jul 2026 23:37:04 GMT"
+    },
+    {
+      "title": "전재수 부산시장, 중국 총영사와 만나 경제·관광 협력 방안 논의",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpZko2STdfUFFyNkZFdjdMbk94NDUwdG4zUmIya1FPUUJSV0MySjBhM1lSeDQ0SDVOSjZEUC1va2otcDUtbUNTbFFUX2Y2RzBQVE9ub2E5X0I3WHd3?oc=5",
+      "source": "뉴스핌",
+      "date": "Tue, 07 Jul 2026 23:13:00 GMT"
+    },
+    {
+      "title": "전재수 부산시장, 주부산 중국 총영사 접견…경제·관광·해양 협력 확대 논의",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3S21WSmlIcHFBSnFLNXktbjBfUUc5aXk3c20tNGZ0SVV0MmJJRXJtbE9SRnJHXzNZTTFSZFlxSVJOd253eldxLW9qMzVOYkpyaVdpcDNVR1JFaC1F?oc=5",
+      "source": "부산경제",
+      "date": "Tue, 07 Jul 2026 22:41:58 GMT"
+    },
+    {
+      "title": "[중국증시-마감] 1%대 하락…경제지표 발표 앞두고 관망세",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkYjJHYkE0SEpoWmxxZnNwX3RlSmdQZlNNU2RMS2ZMRzFCeW9oWUR4M3VQbHNLMm5udzdHTExHYXdkWWsxWmt0OS11YzBfZHI3SUk0eTdWeWJRWFdwT1BxRDQyVjhJLVlMWUl4VXB1M0U?oc=5",
+      "source": "연합인포맥스",
+      "date": "Tue, 07 Jul 2026 09:09:39 GMT"
     },
     {
       "title": "[아시아 이슈] 파산의 일상화에 中 금융 기업들도 디폴트로 휘청",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPSUZYODdLaVBCWGtiVl8zbDI2Tmd6OTN0WkdlT0M5bGcyc1pwU1pXTHdqdTBXSUhUbjRkUWllTjRHNmV1MDBYNWNXZXpwYUhxWmJ4d0JteUN2UVFXY2ZRS0I1cUdDcUVrRWNXcE1B?oc=5",
       "source": "아시아투데이",
       "date": "Tue, 07 Jul 2026 04:43:14 GMT"
-    },
-    {
-      "title": "[숏폼뉴스] 철강과 희토류, 중국이 세계를 조용히 장악하는 법",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sSjEzdUlUbGMzREl6dzh0NlhFYkNJV2FhZVNZdGlLT1pvNHk4aXNBZG1iTEQxLXRaZnNBcnBNbTFwQzZDZnNQU3gxWG9oNzZ6TVNhN2phUjM1azZKelBNVmtYNkhJb0xjR19LTG51RQ?oc=5",
-      "source": "기호일보",
-      "date": "Tue, 07 Jul 2026 04:00:15 GMT"
-    },
-    {
-      "title": "중국아주경제발전협회 부패조사… 월드옥타 중국 선전대회에 영향 없나?",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hOWd1YXBOSUxJbEVXQUxLdzZNVnlQRXpQVWRMLTk3TkpFelZfeFczNVZOQ254N2t5Zk9DbTUxckkxbEJFTkpFUW9HbEUtdF9YV01EQU80SFJjd2pYSDZwX2xEUTltSDF1N3lFbnN3?oc=5",
-      "source": "월드코리안뉴스",
-      "date": "Tue, 07 Jul 2026 02:01:00 GMT"
-    },
-    {
-      "title": "중국의 고품질 발전과 중한 경제협력의 새로운 기회 ― 김정민 한국 법무법인(유한) 율촌 변호사 특별인터뷰",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZZEJsZ3gxTEtFYW5XY1ktZjhubGhnWER4VzNiUXV6Q0JBVnoyazc1b1FRWHMyZ1hWQ3doMXdoTkpoaVhSQzJUb29CU0hzemx5WWZDMWpoQlE4Nm1TSU4xN2p4dw?oc=5",
-      "source": "CGTN",
-      "date": "Mon, 06 Jul 2026 14:41:14 GMT"
-    },
-    {
-      "title": "“북 경제 회복세, ‘중국·전쟁’ 의존 등 구조적 약점” – RFA 자유아시아방송",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSVBFYURJOTJVT21UV1VzOGFMSndtWm1Ja2xHT21yTmpUZmFmZWpvaFZIZXRfem9UTV9FTmJyMEJRMkVUVXRfSFJIOTFaVm85V1gxYm54SVo5OFJSWHFSZXl6M1NlckQ4Tl84VFFsX09lbkdLSXZ3bi1GcDFWSkJybGRyb0I?oc=5",
-      "source": "Radio Free Asia",
-      "date": "Mon, 06 Jul 2026 09:18:44 GMT"
     },
     {
       "title": "중국 경제매체 \"한국, AI·반도체에 국가 승부수\"…2000조 원 투자계획 주목",
@@ -70,12 +76,6 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeXlFallrZFA2T1BfclgzbUxVS0Vnc2l4eHhuWC1ESERxM2ZSZWUzR21RUTFaTjZkSy1jcFFaUWhranhTZS1NSjRWZFMza1I2S2tVSGRSVDlIQnFfRkVTR1p1UGJjaWE0RDEzdm9mUWRYajJRT2FyQ1JyYjF0RWktakcxcGpLQzhpWkhmQXBZZ3FvcWpHdVMta0psRzJXSHhiX2c?oc=5",
       "source": "한국개발연구원(KDI)",
       "date": "Wed, 01 Jul 2026 17:30:30 GMT"
-    },
-    {
-      "title": "[차이나 인사이트] 숫자 뒤에 숨겨진 중국경제 읽기…중국 소비 회복은 착시인가",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJUDVwNTl1ZGdBRk5aem4yYTVtQkd1QUVBZl9rb3ZGdHI2STkxc1RvYWRqay1xeFFGNHZYYWNJdzdvOHo4djlPMV90S3hHZDJ1U3NjaU9xOVJBOHRmSmpaTEc0Sk5QY0pZU0l0VUVvajJ5dw?oc=5",
-      "source": "뉴스임팩트",
-      "date": "Wed, 24 Jun 2026 21:30:00 GMT"
     }
   ]
 }

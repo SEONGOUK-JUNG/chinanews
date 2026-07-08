@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-08T07:05:54.374704+09:00",
+  "run_at_kst": "2026-07-08T10:10:35.032065+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,18 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Why the AI Boom Is About to Break the U.S. Power Grid",
+      "link": "https://oilprice.com/Energy/Energy-General/Why-the-AI-Boom-Is-About-to-Break-the-US-Power-Grid.html",
+      "source": "OilPrice",
+      "date": "Tue, 07 Jul 2026 19:00:00 -0500"
+    },
+    {
+      "title": "The Next Oil Price Spike Could Come Sooner Than Traders Think",
+      "link": "https://oilprice.com/Energy/Crude-Oil/The-Next-Oil-Price-Spike-Could-Come-Sooner-Than-Traders-Think.html",
+      "source": "OilPrice",
+      "date": "Tue, 07 Jul 2026 18:00:00 -0500"
+    },
     {
       "title": "Has Iraq Finally Run Out of Road in Its Double-Dealings with the West?",
       "link": "https://oilprice.com/Energy/Energy-General/Has-Iraq-Finally-Run-Out-of-Road-in-Its-Double-Dealings-with-the-West.html",
@@ -54,18 +66,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/Kazakhstan-Bets-on-Iran-Port-Despite-Regional-Tensions.html",
       "source": "OilPrice",
       "date": "Tue, 07 Jul 2026 13:00:00 -0500"
-    },
-    {
-      "title": "Drone Strike Shuts Russia's Largest Refinery as Fuel Shortages Worsen",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Drone-Strike-Shuts-Russias-Largest-Refinery-as-Fuel-Shortages-Worsen.html",
-      "source": "OilPrice",
-      "date": "Tue, 07 Jul 2026 12:30:00 -0500"
-    },
-    {
-      "title": "Super El Niño Could Push Colombia Into an Energy Crisis",
-      "link": "https://oilprice.com/Energy/Energy-General/Super-El-Nio-Could-Push-Colombia-Into-an-Energy-Crisis.html",
-      "source": "OilPrice",
-      "date": "Tue, 07 Jul 2026 12:00:00 -0500"
     },
     {
       "title": "South32 clears key US hurdle for $2B Arizona mine",
