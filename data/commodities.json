@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-07-08T07:03:36.487133+09:00",
+  "updated_at_kst": "2026-07-08T14:12:54.958209+09:00",
   "ref_date": "2026-07-07",
   "schema_version": "1.0",
   "adjustment_applied": true,
@@ -32,7 +32,7 @@
         "change_pct": -5.83
       },
       {
-        "name": "Ammonium paratungstate",
+        "name": "암모늄 파라텅스테이트",
         "change_pct": -5.31
       }
     ]
@@ -46,7 +46,8 @@
       "unit": "CNY/g",
       "price_prev": 911.72,
       "price_today": 905.15,
-      "change_pct": -0.72
+      "change_pct": -0.72,
+      "chart_id": "gold"
     },
     {
       "display_name": "은",
@@ -56,7 +57,8 @@
       "unit": "CNY/kg",
       "price_prev": 15202.53,
       "price_today": 14935.3,
-      "change_pct": -1.76
+      "change_pct": -1.76,
+      "chart_id": "silver"
     },
     {
       "display_name": "구리",
@@ -66,7 +68,8 @@
       "unit": "CNY/t",
       "price_prev": 103552.0,
       "price_today": 103500.22,
-      "change_pct": -0.05
+      "change_pct": -0.05,
+      "chart_id": "copper"
     },
     {
       "display_name": "알루미늄",
@@ -76,7 +79,8 @@
       "unit": "CNY/t",
       "price_prev": 22901.32,
       "price_today": 23001.53,
-      "change_pct": 0.44
+      "change_pct": 0.44,
+      "chart_id": "aluminum"
     },
     {
       "display_name": "원유",
@@ -86,7 +90,8 @@
       "unit": "USD/bbl",
       "price_prev": 72.19,
       "price_today": 72.06,
-      "change_pct": -0.18
+      "change_pct": -0.18,
+      "chart_id": "crude_oil"
     },
     {
       "display_name": "석탄",
@@ -96,7 +101,8 @@
       "unit": "CNY/t",
       "price_prev": 845.59,
       "price_today": 840.59,
-      "change_pct": -0.59
+      "change_pct": -0.59,
+      "chart_id": "coal"
     },
     {
       "display_name": "천연가스",
@@ -106,7 +112,8 @@
       "unit": "CNY/t",
       "price_prev": 5303.3,
       "price_today": 5359.35,
-      "change_pct": 1.06
+      "change_pct": 1.06,
+      "chart_id": "natural_gas"
     },
     {
       "display_name": "옥수수",
@@ -116,7 +123,8 @@
       "unit": "CNY/t",
       "price_prev": 2293.83,
       "price_today": 2292.4,
-      "change_pct": -0.06
+      "change_pct": -0.06,
+      "chart_id": "corn"
     },
     {
       "display_name": "대두",
@@ -126,7 +134,8 @@
       "unit": "CNY/t",
       "price_prev": 4514.36,
       "price_today": 4514.36,
-      "change_pct": 0.0
+      "change_pct": 0.0,
+      "chart_id": "soybean"
     },
     {
       "display_name": "옥수수 전분",
@@ -136,7 +145,8 @@
       "unit": "CNY/t",
       "price_prev": 3002.89,
       "price_today": 3002.89,
-      "change_pct": 0.0
+      "change_pct": 0.0,
+      "chart_id": "corn_starch"
     },
     {
       "display_name": "백설탕",
@@ -146,7 +156,8 @@
       "unit": "CNY/t",
       "price_prev": 5302.17,
       "price_today": 5298.83,
-      "change_pct": -0.06
+      "change_pct": -0.06,
+      "chart_id": "white_sugar"
     },
     {
       "display_name": "달걀",
@@ -156,7 +167,8 @@
       "unit": "CNY/kg",
       "price_prev": 9.02,
       "price_today": 9.25,
-      "change_pct": 2.56
+      "change_pct": 2.56,
+      "chart_id": "egg"
     },
     {
       "display_name": "생 돼지",
@@ -166,7 +178,8 @@
       "unit": "CNY/kg",
       "price_prev": 10.75,
       "price_today": 11.05,
-      "change_pct": 2.7
+      "change_pct": 2.7,
+      "chart_id": "live_pig"
     },
     {
       "display_name": "팜오일",
@@ -176,7 +189,8 @@
       "unit": "CNY/t",
       "price_prev": 9082.84,
       "price_today": 9136.97,
-      "change_pct": 0.6
+      "change_pct": 0.6,
+      "chart_id": "palm_oil"
     },
     {
       "display_name": "채종유",
@@ -186,7 +200,8 @@
       "unit": "CNY/t",
       "price_prev": 10039.04,
       "price_today": 10169.34,
-      "change_pct": 1.3
+      "change_pct": 1.3,
+      "chart_id": "rapeseed_oil"
     },
     {
       "display_name": "대두유",
@@ -196,7 +211,8 @@
       "unit": "CNY/t",
       "price_prev": 8649.85,
       "price_today": 8730.03,
-      "change_pct": 0.93
+      "change_pct": 0.93,
+      "chart_id": "soybean_oil"
     }
   ],
   "all_items": [
@@ -1643,7 +1659,7 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "gallium",
+      "display_name": "갈",
       "sector": "비철금속",
       "price_prev": 1974.14,
       "price_today": 1974.14,
@@ -2112,6 +2128,13 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "단소 후 코크스",
+      "sector": "에너지",
+      "price_prev": 2452.45,
+      "price_today": 2452.45,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "다이메틸에탄올아민",
       "sector": "화학공업",
       "price_prev": 15171.21,
@@ -2273,6 +2296,13 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "요오드화칼륨",
+      "sector": "",
+      "price_prev": 432.0,
+      "price_today": 432.0,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "요오드화나트륨",
       "sector": "화학공업",
       "price_prev": 523.23,
@@ -2326,6 +2356,13 @@
       "sector": "화학공업",
       "price_prev": 82615.5,
       "price_today": 82615.5,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "OP-10",
+      "sector": "",
+      "price_prev": 10100.0,
+      "price_today": 10100.0,
       "change_pct": 0.0
     },
     {
@@ -2735,7 +2772,7 @@
       "change_pct": -0.05
     },
     {
-      "display_name": "vanadium pentoxide",
+      "display_name": "벤타산화 바나",
       "sector": "비철금속",
       "price_prev": 98372.82,
       "price_today": 98322.72,
@@ -3057,14 +3094,14 @@
       "change_pct": -2.98
     },
     {
-      "display_name": "Tungsten concentrate",
+      "display_name": "텅스텐 정광",
       "sector": "비철금속",
       "price_prev": 502386.14,
       "price_today": 478335.74,
       "change_pct": -4.79
     },
     {
-      "display_name": "Tungsten concentrate",
+      "display_name": "텅스텐 정광",
       "sector": "비철금속",
       "price_prev": 501384.04,
       "price_today": 477333.64,
@@ -3078,7 +3115,7 @@
       "change_pct": -5.13
     },
     {
-      "display_name": "Ammonium paratungstate",
+      "display_name": "암모늄 파라텅스테이트",
       "sector": "비철금속",
       "price_prev": 754915.31,
       "price_today": 714831.31,
