@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-09T20:12:40.048932+09:00",
+  "run_at_kst": "2026-07-10T07:10:57.799714+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
-      "title": "Escalation Continues as U.S. and Iran Face Off Over Hormuz",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Escalation-Continues-as-US-and-Iran-Face-Off-Over-Hormuz.html",
-      "date": "Thu, 09 Jul 2026 05:25:00 -0500",
-      "source": "OilPrice"
+      "title": "The Strait Of Malacca Faces Growing Fears Of Copycat Shipping Fees",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Strait-Of-Malacca-Faces-Growing-Fears-Of-Copycat-Shipping-Fees.html",
+      "source": "OilPrice",
+      "date": "Thu, 09 Jul 2026 17:00:00 -0500"
     },
     {
-      "title": "Oil Price Surge Shows Markets Were Too Relaxed About Iran Deal",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Price-Surge-Shows-Markets-Were-Too-Relaxed-About-Iran-Deal.html",
-      "date": "Thu, 09 Jul 2026 04:20:00 -0500",
-      "source": "OilPrice"
+      "title": "America's Answer to China's Molten Salt Reactor",
+      "link": "https://oilprice.com/Energy/Energy-General/Americas-Answer-to-Chinas-Molten-Salt-Reactor.html",
+      "source": "OilPrice",
+      "date": "Thu, 09 Jul 2026 16:00:00 -0500"
     },
     {
-      "title": "Goldman Sachs Sounds Alarm Over Fresh Threat to Global Oil Supplies",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Sounds-Alarm-Over-Fresh-Threat-to-Global-Oil-Supplies.html",
-      "date": "Thu, 09 Jul 2026 03:15:00 -0500",
-      "source": "OilPrice"
+      "title": "Turkey and Iraq Move to Keep Critical Oil Export Route Alive",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Turkey-and-Iraq-Move-to-Keep-Critical-Oil-Export-Route-Alive.html",
+      "source": "OilPrice",
+      "date": "Thu, 09 Jul 2026 15:30:00 -0500"
     },
     {
-      "title": "Hormuz Tanker Traffic Grinds to a Halt After U.S.-Iran Escalation",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Traffic-Grinds-to-a-Halt-After-US-Iran-Escalation.html",
-      "date": "Thu, 09 Jul 2026 02:00:00 -0500",
-      "source": "OilPrice"
+      "title": "Washington Draws a Line for Iraq's New Leader",
+      "link": "https://oilprice.com/Geopolitics/Middle-East/Washington-Draws-a-Line-for-Iraqs-New-Leader.html",
+      "source": "OilPrice",
+      "date": "Thu, 09 Jul 2026 15:00:00 -0500"
     },
     {
-      "title": "U.S. LNG Exporter Reaps Windfall as Middle East Turmoil Drives Fees Higher",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-LNG-Exporter-Reaps-Windfall-as-Middle-East-Turmoil-Drives-Fees-Higher.html",
-      "date": "Thu, 09 Jul 2026 00:45:00 -0500",
-      "source": "OilPrice"
+      "title": "Citi's AI Robotics Picks: Rockwell, Emerson, Honeywell Lead the List",
+      "link": "https://oilprice.com/Energy/Energy-General/Citis-AI-Robotics-Picks-Rockwell-Emerson-Honeywell-Lead-the-List.html",
+      "source": "OilPrice",
+      "date": "Thu, 09 Jul 2026 14:00:00 -0500"
     },
     {
-      "title": "$130 Billion in AI Data Centers were Just Blocked. Where Does the AI Boom Go Now",
-      "link": "https://oilprice.com/Energy/Energy-General/130-Billion-in-AI-Data-Centers-were-Just-Blocked-Where-Does-the-AI-Boom-Go-Now.html",
-      "date": "Wed, 08 Jul 2026 19:00:00 -0500",
-      "source": "OilPrice"
+      "title": "Macquarie says copper price rally still running ahead of reality",
+      "link": "https://www.mining.com/macquarie-says-copper-price-rally-still-running-ahead-of-reality/",
+      "source": "mining.com",
+      "date": "Thu, 09 Jul 2026 18:34:48 +0000"
     },
     {
-      "title": "Dangote's Next Move Could Create the World's Largest Refinery",
-      "link": "https://oilprice.com/Energy/Energy-General/Dangotes-Next-Move-Could-Create-the-Worlds-Largest-Refinery.html",
-      "date": "Wed, 08 Jul 2026 18:00:00 -0500",
-      "source": "OilPrice"
+      "title": "China Walks Away From Georgia's Strategic Deep-Water Port Project",
+      "link": "https://oilprice.com/Geopolitics/Asia/China-Walks-Away-From-Georgias-Strategic-Deep-Water-Port-Project.html",
+      "source": "OilPrice",
+      "date": "Thu, 09 Jul 2026 13:00:00 -0500"
     },
     {
-      "title": "Gulf Oil Producers Relaunch Fight for Market Share in Asia",
-      "link": "https://oilprice.com/Energy/Oil-Prices/Gulf-Oil-Producers-Relaunch-Fight-for-Market-Share-in-Asia.html",
-      "date": "Wed, 08 Jul 2026 17:00:00 -0500",
-      "source": "OilPrice"
+      "title": "Carney seeks deeper Saudi mining, energy partnership",
+      "link": "https://www.mining.com/carney-seeks-deeper-saudi-mining-energy-partnership/",
+      "source": "mining.com",
+      "date": "Thu, 09 Jul 2026 17:49:00 +0000"
     },
     {
-      "title": "Copper-gold assays boost gravity of Jupiter at NGEx’s Lunahuasi project",
-      "link": "https://www.mining.com/copper-gold-assays-boost-gravity-of-jupiter-at-ngexs-lunahuasi-project/",
-      "date": "Wed, 08 Jul 2026 17:31:50 +0000",
-      "source": "mining.com"
+      "title": "U.S. Oil Dominance Keeps Growing Despite Lower Prices",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Oil-Dominance-Keeps-Growing-Despite-Lower-Prices.html",
+      "source": "OilPrice",
+      "date": "Thu, 09 Jul 2026 12:30:00 -0500"
     },
     {
-      "title": "Schiff: ‘Trapped’ Fed sets up $200 silver, $10,000 gold",
-      "link": "https://www.mining.com/schiff-trapped-fed-sets-up-200-silver-10000-gold/",
-      "date": "Wed, 08 Jul 2026 16:50:00 +0000",
-      "source": "mining.com"
+      "title": "Lowry reserves extend Sandfire’s Black Butte copper mine life to 12 years",
+      "link": "https://www.mining.com/lowry-reserves-extend-sandfires-black-butte-copper-mine-life-to-12-years/",
+      "source": "mining.com",
+      "date": "Thu, 09 Jul 2026 17:12:08 +0000"
     },
     {
-      "title": "Rule Symposium: Gold demand shifts from hedge to collateral",
-      "link": "https://www.mining.com/rule-symposium-gold-demand-shifts-from-hedge-to-collateral/",
-      "date": "Wed, 08 Jul 2026 16:38:01 +0000",
-      "source": "mining.com"
+      "title": "Devolution may see made-in-Nunavut model",
+      "link": "https://www.mining.com/devolution-may-see-made-in-nunavut-model/",
+      "source": "mining.com",
+      "date": "Thu, 09 Jul 2026 17:10:55 +0000"
     },
     {
-      "title": "Chile lithium exports top $3.2B, best since 2023",
-      "link": "https://www.mining.com/chile-lithium-exports-top-3-2b-best-since-2023/",
-      "date": "Wed, 08 Jul 2026 15:51:00 +0000",
-      "source": "mining.com"
+      "title": "Iran War May Ignite Middle East Market Share Race, But Not Yet",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Iran-War-May-Ignite-Middle-East-Market-Share-Race-But-Not-Yet.html",
+      "source": "OilPrice",
+      "date": "Thu, 09 Jul 2026 12:00:00 -0500"
     },
     {
-      "title": "Royalty juniors seek higher value in metals rally",
-      "link": "https://www.mining.com/royalty-juniors-seek-higher-value-in-metals-rally/",
-      "date": "Wed, 08 Jul 2026 14:14:21 +0000",
-      "source": "mining.com"
+      "title": "Flynn: US billions for rare earths ‘missing the mark’",
+      "link": "https://www.mining.com/flynn-us-billions-for-rare-earths-missing-the-mark/",
+      "source": "mining.com",
+      "date": "Thu, 09 Jul 2026 16:26:36 +0000"
     },
     {
-      "title": "Gold, critical minerals gain trust premium as money, supply chains fray",
-      "link": "https://www.mining.com/gold-critical-minerals-gain-trust-premium-as-money-supply-chains-fray/",
-      "date": "Wed, 08 Jul 2026 14:00:00 +0000",
-      "source": "mining.com"
+      "title": "NexGold boosts Goldboro drilling as assays lift hopes",
+      "link": "https://www.mining.com/nexgold-boosts-goldboro-drilling-as-assays-lift-hopes/",
+      "source": "mining.com",
+      "date": "Thu, 09 Jul 2026 14:27:31 +0000"
     }
   ]
 }

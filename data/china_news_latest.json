@@ -1,10 +1,22 @@
 {
-  "run_at_kst": "2026-07-09T20:12:40.048932+09:00",
+  "run_at_kst": "2026-07-10T07:10:57.799714+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "중국인민은행, ‘구조적 격차’ 첫 인정하며 통화 완화 다짐",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU0hRWk01Q2xWTEFTemF3ZkJ5dERYX1k0QXFNeU9UaDFJYTg0OGNzc1pRaVQ3R2VOVDJPa2Z0OU1hRmg5d1lNbnF4VmY2a28tOTYwcW5LbFVQZW1kSE9lMWU0bXlmbzJWSW9tTTdwMGNLa3hnTmNMUkdJTUwwNHQ5aklEN0QzeTZv?oc=5",
+      "source": "글로벌이코노믹",
+      "date": "Thu, 09 Jul 2026 20:40:00 GMT"
+    },
+    {
+      "title": "미국·중국 넘어 중동·몽골까지…K-푸드+ 70억달러 상반기 최대 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkX1BleXBURnRra1c2N0lJUURIaUNuRXhwU25BSS1iWjZydmhLNUdaVFRZRXVBOGROZG9YbmZ1V1h1LU16Sk93MElJQ21Ta1QyVk9rN1cydU1zT0JYeDdpV3haY09ZdXZXLTBz0gFwQVVfeXFMUGg5VGZVZkxlM3BKUUx1ZmFyckUxZ1ZSMTI2RE9NU3kzOThKU0dyRmRxZ1ktWDY2X1dJWDhrZXl6U3NZS1Q4VGpocTh2TlJkM2lua1QtNEpBSG5BcXdTSnlpeFRhRmhFNTAyck1kMTNrQQ?oc=5",
+      "source": "머니투데이",
+      "date": "Thu, 09 Jul 2026 19:00:00 GMT"
+    },
     {
       "title": "中 인민은행 \"완화적 통화정책 유지\"…정책 유연성 확대 시사",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DQ2ZHOGpfMzRTZl9LM3RfMEk2X0ZtTFJkYjJscHRxeUYwbVhBU1VLMWluZ1VMR1FzR2pBVFRqYnFFaUowalFZWjFmaDYwWlRzZ2RvT2NuNGV4eTU2UFBpddIBeEFVX3lxTE1HNzVGQk5aQ1ZwXzg1c0l3VTh4TUduX2l1TmhoRXhaRjMtbmYzMlJPakNuSzlBSHJ0R01aTTVQMnh3VDhrZUNzUk5SV0FSYWhMRHlUUFN5c0JVc2RtekY1QUdPZ1pReWdhXzBrRmRpR2N4TVJTRDZFcg?oc=5",
@@ -12,22 +24,10 @@
       "date": "Thu, 09 Jul 2026 07:39:40 GMT"
     },
     {
-      "title": "중국 인민은행 \"내수 부진 직면…완화적 통화정책 지속\"",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3aHdNdUJFSkg4czd0NDR4bWhHUkZ5X3RueE1IUGFUbHl4cENGNEJCazR0a0FSRHo0bEJyb1YtNTA3aGZLWV9mZTFJYTZ6NktjWDZF?oc=5",
-      "source": "네이트",
-      "date": "Thu, 09 Jul 2026 06:54:00 GMT"
-    },
-    {
       "title": "중국도 결국 엔비디아를 열었다",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sLVFKTVE1VV90ZHJkMXhqVHNTVnY5el9VclJ1c3FQTkMxcTZiRFhUUFNybHlnby12SUFYM0JIa0ppT1p5ODI4aVJyaXZVa0dkUUV3YVlsZDl2MW4wcVRyX093VVRYQXVp?oc=5",
       "source": "OBC 뉴스",
       "date": "Thu, 09 Jul 2026 05:54:04 GMT"
-    },
-    {
-      "title": "중국, 6월 PPI 4.1% 상승⋯에너지·원자재 가격 압력에 47개월 만의 최고",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TbHVJcnl5NGVjWElWeE0tZlpVZ1o1bVlvOElqX0g3Wkx4VWJTazdIVVY5ZUYyUVdnSGhkWHRtRlVBNTIyN2E2ZlRpc0ZMMTctLTZuREs4UDJpbjBTblE?oc=5",
-      "source": "포커스온경제",
-      "date": "Thu, 09 Jul 2026 02:34:31 GMT"
     },
     {
       "title": "[중국 뉴스 브리핑] 2026년 7월 9일",
@@ -48,12 +48,6 @@
       "date": "Wed, 08 Jul 2026 23:36:57 GMT"
     },
     {
-      "title": "국내 거주 중국동포 사상 첫 감소?...언론보도를 보고...\"과연 그럴까?\"",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16RHVEX2V4MWNFcnFNV1Z4aUQ4YTRMMklabUh4dWp3NkdVTTdsYmYzanhpaDJPWWIxcWJ6bm1QNlFPWWFQNHo0ZW50WGI2SjQ3T2E3aW5TOXdwNWd3N3hrTUZlZHlUZw?oc=5",
-      "source": "ekw.co.kr",
-      "date": "Wed, 08 Jul 2026 13:15:35 GMT"
-    },
-    {
       "title": "중국 중앙은행, 경제 내 수급 불균형 지적",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wVUhoZklTWS1BRHZsMEJMVlROdzlXYldCZ21tQVlHRlZrSlR5ZmVfdXBFYU55VXZnM2xKNTJxWF9pY21vbGNNNTZJVmRfS3BEMzN1dzJDVUdtVTB4NVFuU3BmYUM4c0Y5T2pPQm0tUFg?oc=5",
       "source": "Investing.com 한국어",
@@ -70,6 +64,12 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkYjJHYkE0SEpoWmxxZnNwX3RlSmdQZlNNU2RMS2ZMRzFCeW9oWUR4M3VQbHNLMm5udzdHTExHYXdkWWsxWmt0OS11YzBfZHI3SUk0eTdWeWJRWFdwT1BxRDQyVjhJLVlMWUl4VXB1M0U?oc=5",
       "source": "연합인포맥스",
       "date": "Tue, 07 Jul 2026 09:09:39 GMT"
+    },
+    {
+      "title": "[차이나 인사이트] 숫자 뒤에 숨겨진 중국경제 읽기…중국 소비 회복은 착시인가",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJUDVwNTl1ZGdBRk5aem4yYTVtQkd1QUVBZl9rb3ZGdHI2STkxc1RvYWRqay1xeFFGNHZYYWNJdzdvOHo4djlPMV90S3hHZDJ1U3NjaU9xOVJBOHRmSmpaTEc0Sk5QY0pZU0l0VUVvajJ5dw?oc=5",
+      "source": "뉴스임팩트",
+      "date": "Wed, 24 Jun 2026 21:30:00 GMT"
     },
     {
       "title": "경제는 ‘흔들’ 기술은 ‘질주’하는 중국의 딜레마, 실체는?",
