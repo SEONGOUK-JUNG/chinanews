@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-07-09T07:09:12.782103+09:00",
+  "updated_at_kst": "2026-07-09T10:08:36.887533+09:00",
   "ref_date": "2026-07-08",
   "schema_version": "1.0",
   "adjustment_applied": true,
@@ -7,7 +7,7 @@
     "up_count": 76,
     "down_count": 48,
     "flat_count": 319,
-    "total": 417,
+    "total": 443,
     "top_gainers": [
       {
         "name": "아세톤",
@@ -2315,13 +2315,6 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "요오드화칼륨",
-      "sector": "",
-      "price_prev": 432.0,
-      "price_today": 432.0,
-      "change_pct": 0.0
-    },
-    {
       "display_name": "요오드화나트륨",
       "sector": "화학공업",
       "price_prev": 523.23,
@@ -2382,13 +2375,6 @@
       "sector": "화학공업",
       "price_prev": 82615.5,
       "price_today": 82615.5,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "OP-10",
-      "sector": "",
-      "price_prev": 10100.0,
-      "price_today": 10100.0,
       "change_pct": 0.0
     },
     {
