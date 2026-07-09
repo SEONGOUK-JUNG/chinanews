@@ -1,10 +1,40 @@
 {
-  "run_at_kst": "2026-07-09T10:13:03.397438+09:00",
+  "run_at_kst": "2026-07-09T20:12:40.048932+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "中 인민은행 \"완화적 통화정책 유지\"…정책 유연성 확대 시사",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DQ2ZHOGpfMzRTZl9LM3RfMEk2X0ZtTFJkYjJscHRxeUYwbVhBU1VLMWluZ1VMR1FzR2pBVFRqYnFFaUowalFZWjFmaDYwWlRzZ2RvT2NuNGV4eTU2UFBpddIBeEFVX3lxTE1HNzVGQk5aQ1ZwXzg1c0l3VTh4TUduX2l1TmhoRXhaRjMtbmYzMlJPakNuSzlBSHJ0R01aTTVQMnh3VDhrZUNzUk5SV0FSYWhMRHlUUFN5c0JVc2RtekY1QUdPZ1pReWdhXzBrRmRpR2N4TVJTRDZFcg?oc=5",
+      "source": "뉴시스",
+      "date": "Thu, 09 Jul 2026 07:39:40 GMT"
+    },
+    {
+      "title": "중국 인민은행 \"내수 부진 직면…완화적 통화정책 지속\"",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3aHdNdUJFSkg4czd0NDR4bWhHUkZ5X3RueE1IUGFUbHl4cENGNEJCazR0a0FSRHo0bEJyb1YtNTA3aGZLWV9mZTFJYTZ6NktjWDZF?oc=5",
+      "source": "네이트",
+      "date": "Thu, 09 Jul 2026 06:54:00 GMT"
+    },
+    {
+      "title": "중국도 결국 엔비디아를 열었다",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sLVFKTVE1VV90ZHJkMXhqVHNTVnY5el9VclJ1c3FQTkMxcTZiRFhUUFNybHlnby12SUFYM0JIa0ppT1p5ODI4aVJyaXZVa0dkUUV3YVlsZDl2MW4wcVRyX093VVRYQXVp?oc=5",
+      "source": "OBC 뉴스",
+      "date": "Thu, 09 Jul 2026 05:54:04 GMT"
+    },
+    {
+      "title": "중국, 6월 PPI 4.1% 상승⋯에너지·원자재 가격 압력에 47개월 만의 최고",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TbHVJcnl5NGVjWElWeE0tZlpVZ1o1bVlvOElqX0g3Wkx4VWJTazdIVVY5ZUYyUVdnSGhkWHRtRlVBNTIyN2E2ZlRpc0ZMMTctLTZuREs4UDJpbjBTblE?oc=5",
+      "source": "포커스온경제",
+      "date": "Thu, 09 Jul 2026 02:34:31 GMT"
+    },
+    {
+      "title": "[중국 뉴스 브리핑] 2026년 7월 9일",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yOHptbGR3clFTRVliSWpmY3VyMXlMS0E4Tm5YcmI2Ym50aXhVY2x0Nk8xSjVFZll4Mmp6bXdjRHZrQmp1LWZnajlhZkhLQ0t1RlpaRmx4S1AzN2w5OHRoOEl6MTROcUM2cUE?oc=5",
+      "source": "인민망",
+      "date": "Thu, 09 Jul 2026 02:20:00 GMT"
+    },
     {
       "title": "IMF 올 中 예상 성장률 4.6%로 상향, 1분기 인프라·수출 호조",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kOU0tR2t4NVJLaGhqVmw1Z0lEUHNrLTY0RlVZQkswMGNZeEhsT2k0YUJqWEpFNWJKR2RiUE1FVzRNT3dzZDI3SWFMUy1NbjFTNllsTkVHVTFWNzdi?oc=5",
@@ -16,12 +46,6 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlTzM2VmVsZ3pnTGt2YzFYaEI0S1FJU003OU5RRzBoZDAwSE5OdTFmNXoyUmJodmdSLWdsenFrbDhZMDJtTzNFc2dmUTBEX3NhUlhQN1NhQ09CN0lDQkl4bjlXZWdDUTNkMENWZjJDMNIBc0FVX3lxTE1TRzRRTVdNS0N5VUI2Zy1oUC1mMmlqM2d3Ql9yVTdfci0tSFZaNHluZ04yX2RQUWVucTItcjhaMXcyZlkwZnYybnVjdU5mV2VucUVzVGhaa0ZmNFhFRHV6QVRjN2tmQVpvenVWUHBEd2dZT0E?oc=5",
       "source": "초이스경제",
       "date": "Wed, 08 Jul 2026 23:36:57 GMT"
-    },
-    {
-      "title": "\"반도체 성장 무한하지 않다\"...메모리 증설 전쟁, 문제는 '중국' [굿모닝경제]",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFUll0aGl0MmYwM2dTYzMza2piWFM5a3F6ZE4tRnpyQ2JHYTZMcV9WUTdadFRJdUt2Sy11RXQ0WUFTNzhFT1VJOUtxZXk2MWF0ZXg2c3JxWmlDTlZiZXc?oc=5",
-      "source": "YTN",
-      "date": "Wed, 08 Jul 2026 23:00:00 GMT"
     },
     {
       "title": "국내 거주 중국동포 사상 첫 감소?...언론보도를 보고...\"과연 그럴까?\"",
@@ -36,12 +60,6 @@
       "date": "Wed, 08 Jul 2026 11:23:00 GMT"
     },
     {
-      "title": "관광서 경제 돌파구 찾는 中…\"관광수입 年226조원 목표\"",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DV2tncmRTZDZTcEI1MkxGbjlQOEpPb3VYMzIxTG10azJjQmUwUEQ5VWtGVXNXbjFDeEYxbnRGT0FHVWRNX3VkU2tJQXh5SU0?oc=5",
-      "source": "v.daum.net",
-      "date": "Wed, 08 Jul 2026 10:10:04 GMT"
-    },
-    {
       "title": "“중국 성장률 부풀려졌다” 공식 통계 의문 제기한 경제학자 가오산원, 54세로 별세",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1Y3FpdmZEdEFuMnc1RkZiOGdDNEpYR3AzV0MxekhteHZCSTYwQVNpLVJBaWRMRkRwTjVmaldJTmNQenpOeFQzWVI3LTNoNzlSemV4dHVITmpFUdIBX0FVX3lxTE5ObS1hYlFLWEdqdWhHT01ZZVdVbnZ0ck84VWQwbUhnekRESDEzUDhRcHd3b2FYN2FGZ1VjM0hra3FtVlZiZWpYN2RodzRDZGp5Y09PaXRpOFRWUmo2ZzRZ?oc=5",
       "source": "경향신문",
@@ -52,24 +70,6 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkYjJHYkE0SEpoWmxxZnNwX3RlSmdQZlNNU2RMS2ZMRzFCeW9oWUR4M3VQbHNLMm5udzdHTExHYXdkWWsxWmt0OS11YzBfZHI3SUk0eTdWeWJRWFdwT1BxRDQyVjhJLVlMWUl4VXB1M0U?oc=5",
       "source": "연합인포맥스",
       "date": "Tue, 07 Jul 2026 09:09:39 GMT"
-    },
-    {
-      "title": "경제성장이 저출산 해법 입증?…광둥성, 8년째 中 최다 출생",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45MWNzOU10Vkt4anRxLW5qTEEzNWZ0LW1uNDcxM25FSS1MUk1pTGZDZnVtOG85Qm1tb040R1I5dTh2QUd6ZVNmcHRwbGxaTERvZ1IyRmx3cXEwcHNxYV8xazlTUTh2T0E00gFuQVVfeXFMT3lJQzZvSjU0QjlZMFR1cllxQVRfMUVyREljeXRlQlF0QkN1dEdnYVVRU1FyeERhSVhUQWZSdDl5Qi05RE82eWstTktRdzBhbWRnVDlsOHZWYkw2WFFMTkViekYtemdxTHA4a0trNmc?oc=5",
-      "source": "머니투데이",
-      "date": "Mon, 06 Jul 2026 23:18:54 GMT"
-    },
-    {
-      "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Fri, 03 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "[차이나 인사이트] 숫자 뒤에 숨겨진 중국경제 읽기…중국 소비 회복은 착시인가",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJUDVwNTl1ZGdBRk5aem4yYTVtQkd1QUVBZl9rb3ZGdHI2STkxc1RvYWRqay1xeFFGNHZYYWNJdzdvOHo4djlPMV90S3hHZDJ1U3NjaU9xOVJBOHRmSmpaTEc0Sk5QY0pZU0l0VUVvajJ5dw?oc=5",
-      "source": "뉴스임팩트",
-      "date": "Wed, 24 Jun 2026 21:30:00 GMT"
     },
     {
       "title": "경제는 ‘흔들’ 기술은 ‘질주’하는 중국의 딜레마, 실체는?",

@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-09T10:13:03.397438+09:00",
+  "run_at_kst": "2026-07-09T20:12:40.048932+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
-      "title": "$130 Billion in AI Data Centers were Just Blocked. Where Does the AI Boom Go Now",
-      "link": "https://oilprice.com/Energy/Energy-General/130-Billion-in-AI-Data-Centers-were-Just-Blocked-Where-Does-the-AI-Boom-Go-Now.html",
-      "source": "OilPrice",
-      "date": "Wed, 08 Jul 2026 19:00:00 -0500"
+      "title": "Escalation Continues as U.S. and Iran Face Off Over Hormuz",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Escalation-Continues-as-US-and-Iran-Face-Off-Over-Hormuz.html",
+      "date": "Thu, 09 Jul 2026 05:25:00 -0500",
+      "source": "OilPrice"
     },
     {
-      "title": "Dangote’s Next Move Could Create the World’s Largest Refinery",
+      "title": "Oil Price Surge Shows Markets Were Too Relaxed About Iran Deal",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Price-Surge-Shows-Markets-Were-Too-Relaxed-About-Iran-Deal.html",
+      "date": "Thu, 09 Jul 2026 04:20:00 -0500",
+      "source": "OilPrice"
+    },
+    {
+      "title": "Goldman Sachs Sounds Alarm Over Fresh Threat to Global Oil Supplies",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Sounds-Alarm-Over-Fresh-Threat-to-Global-Oil-Supplies.html",
+      "date": "Thu, 09 Jul 2026 03:15:00 -0500",
+      "source": "OilPrice"
+    },
+    {
+      "title": "Hormuz Tanker Traffic Grinds to a Halt After U.S.-Iran Escalation",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Traffic-Grinds-to-a-Halt-After-US-Iran-Escalation.html",
+      "date": "Thu, 09 Jul 2026 02:00:00 -0500",
+      "source": "OilPrice"
+    },
+    {
+      "title": "U.S. LNG Exporter Reaps Windfall as Middle East Turmoil Drives Fees Higher",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-LNG-Exporter-Reaps-Windfall-as-Middle-East-Turmoil-Drives-Fees-Higher.html",
+      "date": "Thu, 09 Jul 2026 00:45:00 -0500",
+      "source": "OilPrice"
+    },
+    {
+      "title": "$130 Billion in AI Data Centers were Just Blocked. Where Does the AI Boom Go Now",
+      "link": "https://oilprice.com/Energy/Energy-General/130-Billion-in-AI-Data-Centers-were-Just-Blocked-Where-Does-the-AI-Boom-Go-Now.html",
+      "date": "Wed, 08 Jul 2026 19:00:00 -0500",
+      "source": "OilPrice"
+    },
+    {
+      "title": "Dangote's Next Move Could Create the World's Largest Refinery",
       "link": "https://oilprice.com/Energy/Energy-General/Dangotes-Next-Move-Could-Create-the-Worlds-Largest-Refinery.html",
-      "source": "OilPrice",
-      "date": "Wed, 08 Jul 2026 18:00:00 -0500"
+      "date": "Wed, 08 Jul 2026 18:00:00 -0500",
+      "source": "OilPrice"
     },
     {
       "title": "Gulf Oil Producers Relaunch Fight for Market Share in Asia",
       "link": "https://oilprice.com/Energy/Oil-Prices/Gulf-Oil-Producers-Relaunch-Fight-for-Market-Share-in-Asia.html",
-      "source": "OilPrice",
-      "date": "Wed, 08 Jul 2026 17:00:00 -0500"
-    },
-    {
-      "title": "How an Accidental Discovery in a Texas Lab Could Reshape Battery Manufacturing",
-      "link": "https://oilprice.com/Energy/Energy-General/How-an-Accidental-Discovery-in-a-Texas-Lab-Could-Reshape-Battery-Manufacturing.html",
-      "source": "OilPrice",
-      "date": "Wed, 08 Jul 2026 16:00:00 -0500"
-    },
-    {
-      "title": "India’s $100 Billion Grid Bet Is Accelerating A Solar Manufacturing Boom",
-      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Indias-100-Billion-Grid-Bet-Is-Accelerating-A-Solar-Manufacturing-Boom.html",
-      "source": "OilPrice",
-      "date": "Wed, 08 Jul 2026 15:00:00 -0500"
-    },
-    {
-      "title": "Canada Eyes Two New Oil Pipelines",
-      "link": "https://oilprice.com/Energy/Energy-General/Canada-Eyes-Two-New-Oil-Pipelines.html",
-      "source": "OilPrice",
-      "date": "Wed, 08 Jul 2026 14:00:00 -0500"
-    },
-    {
-      "title": "IMF Downgrades Global Economic Growth Forecast To 3% Amid Iran War",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/IMF-Downgrades-Global-Economic-Growth-Forecast-To-3-Amid-Iran-War.html",
-      "source": "OilPrice",
-      "date": "Wed, 08 Jul 2026 14:00:00 -0500"
-    },
-    {
-      "title": "West Texas Cowboys Are Cashing In on the AI Land Rush",
-      "link": "https://oilprice.com/Energy/Energy-General/West-Texas-Cowboys-Are-Cashing-In-on-the-AI-Land-Rush.html",
-      "source": "OilPrice",
-      "date": "Wed, 08 Jul 2026 13:00:00 -0500"
+      "date": "Wed, 08 Jul 2026 17:00:00 -0500",
+      "source": "OilPrice"
     },
     {
       "title": "Copper-gold assays boost gravity of Jupiter at NGEx’s Lunahuasi project",
       "link": "https://www.mining.com/copper-gold-assays-boost-gravity-of-jupiter-at-ngexs-lunahuasi-project/",
-      "source": "mining.com",
-      "date": "Wed, 08 Jul 2026 17:31:50 +0000"
+      "date": "Wed, 08 Jul 2026 17:31:50 +0000",
+      "source": "mining.com"
     },
     {
       "title": "Schiff: ‘Trapped’ Fed sets up $200 silver, $10,000 gold",
       "link": "https://www.mining.com/schiff-trapped-fed-sets-up-200-silver-10000-gold/",
-      "source": "mining.com",
-      "date": "Wed, 08 Jul 2026 16:50:00 +0000"
+      "date": "Wed, 08 Jul 2026 16:50:00 +0000",
+      "source": "mining.com"
     },
     {
       "title": "Rule Symposium: Gold demand shifts from hedge to collateral",
       "link": "https://www.mining.com/rule-symposium-gold-demand-shifts-from-hedge-to-collateral/",
-      "source": "mining.com",
-      "date": "Wed, 08 Jul 2026 16:38:01 +0000"
+      "date": "Wed, 08 Jul 2026 16:38:01 +0000",
+      "source": "mining.com"
     },
     {
       "title": "Chile lithium exports top $3.2B, best since 2023",
       "link": "https://www.mining.com/chile-lithium-exports-top-3-2b-best-since-2023/",
-      "source": "mining.com",
-      "date": "Wed, 08 Jul 2026 15:51:00 +0000"
+      "date": "Wed, 08 Jul 2026 15:51:00 +0000",
+      "source": "mining.com"
     },
     {
       "title": "Royalty juniors seek higher value in metals rally",
       "link": "https://www.mining.com/royalty-juniors-seek-higher-value-in-metals-rally/",
-      "source": "mining.com",
-      "date": "Wed, 08 Jul 2026 14:14:21 +0000"
+      "date": "Wed, 08 Jul 2026 14:14:21 +0000",
+      "source": "mining.com"
     },
     {
       "title": "Gold, critical minerals gain trust premium as money, supply chains fray",
       "link": "https://www.mining.com/gold-critical-minerals-gain-trust-premium-as-money-supply-chains-fray/",
-      "source": "mining.com",
-      "date": "Wed, 08 Jul 2026 14:00:00 +0000"
+      "date": "Wed, 08 Jul 2026 14:00:00 +0000",
+      "source": "mining.com"
     }
   ]
 }
