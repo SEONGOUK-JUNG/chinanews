@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-07-10T07:10:57.799714+09:00",
+  "run_at_kst": "2026-07-10T10:15:05.276402+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "판 바뀌는 SPA 시장…중국·스페인·일본 등 3강 체제로",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yOHVnRVJXOTgySTlVck5kSDhlUEI0T3U5WjBuN3lxa2pJd0Ztb0YyNFN4TG1OeXFSckNQZUFRZUlkbF9zUVVMZjFhYkQ1V0E?oc=5",
+      "source": "v.daum.net",
+      "date": "Thu, 09 Jul 2026 22:02:37 GMT"
+    },
     {
       "title": "중국인민은행, ‘구조적 격차’ 첫 인정하며 통화 완화 다짐",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU0hRWk01Q2xWTEFTemF3ZkJ5dERYX1k0QXFNeU9UaDFJYTg0OGNzc1pRaVQ3R2VOVDJPa2Z0OU1hRmg5d1lNbnF4VmY2a28tOTYwcW5LbFVQZW1kSE9lMWU0bXlmbzJWSW9tTTdwMGNLa3hnTmNMUkdJTUwwNHQ5aklEN0QzeTZv?oc=5",
@@ -12,34 +18,10 @@
       "date": "Thu, 09 Jul 2026 20:40:00 GMT"
     },
     {
-      "title": "미국·중국 넘어 중동·몽골까지…K-푸드+ 70억달러 상반기 최대 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkX1BleXBURnRra1c2N0lJUURIaUNuRXhwU25BSS1iWjZydmhLNUdaVFRZRXVBOGROZG9YbmZ1V1h1LU16Sk93MElJQ21Ta1QyVk9rN1cydU1zT0JYeDdpV3haY09ZdXZXLTBz0gFwQVVfeXFMUGg5VGZVZkxlM3BKUUx1ZmFyckUxZ1ZSMTI2RE9NU3kzOThKU0dyRmRxZ1ktWDY2X1dJWDhrZXl6U3NZS1Q4VGpocTh2TlJkM2lua1QtNEpBSG5BcXdTSnlpeFRhRmhFNTAyck1kMTNrQQ?oc=5",
-      "source": "머니투데이",
-      "date": "Thu, 09 Jul 2026 19:00:00 GMT"
-    },
-    {
       "title": "中 인민은행 \"완화적 통화정책 유지\"…정책 유연성 확대 시사",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DQ2ZHOGpfMzRTZl9LM3RfMEk2X0ZtTFJkYjJscHRxeUYwbVhBU1VLMWluZ1VMR1FzR2pBVFRqYnFFaUowalFZWjFmaDYwWlRzZ2RvT2NuNGV4eTU2UFBpddIBeEFVX3lxTE1HNzVGQk5aQ1ZwXzg1c0l3VTh4TUduX2l1TmhoRXhaRjMtbmYzMlJPakNuSzlBSHJ0R01aTTVQMnh3VDhrZUNzUk5SV0FSYWhMRHlUUFN5c0JVc2RtekY1QUdPZ1pReWdhXzBrRmRpR2N4TVJTRDZFcg?oc=5",
       "source": "뉴시스",
       "date": "Thu, 09 Jul 2026 07:39:40 GMT"
-    },
-    {
-      "title": "중국도 결국 엔비디아를 열었다",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sLVFKTVE1VV90ZHJkMXhqVHNTVnY5el9VclJ1c3FQTkMxcTZiRFhUUFNybHlnby12SUFYM0JIa0ppT1p5ODI4aVJyaXZVa0dkUUV3YVlsZDl2MW4wcVRyX093VVRYQXVp?oc=5",
-      "source": "OBC 뉴스",
-      "date": "Thu, 09 Jul 2026 05:54:04 GMT"
-    },
-    {
-      "title": "[중국 뉴스 브리핑] 2026년 7월 9일",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yOHptbGR3clFTRVliSWpmY3VyMXlMS0E4Tm5YcmI2Ym50aXhVY2x0Nk8xSjVFZll4Mmp6bXdjRHZrQmp1LWZnajlhZkhLQ0t1RlpaRmx4S1AzN2w5OHRoOEl6MTROcUM2cUE?oc=5",
-      "source": "인민망",
-      "date": "Thu, 09 Jul 2026 02:20:00 GMT"
-    },
-    {
-      "title": "IMF 올 中 예상 성장률 4.6%로 상향, 1분기 인프라·수출 호조",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kOU0tR2t4NVJLaGhqVmw1Z0lEUHNrLTY0RlVZQkswMGNZeEhsT2k0YUJqWEpFNWJKR2RiUE1FVzRNT3dzZDI3SWFMUy1NbjFTNllsTkVHVTFWNzdi?oc=5",
-      "source": "뉴스핌",
-      "date": "Thu, 09 Jul 2026 00:09:00 GMT"
     },
     {
       "title": "中 금융전문가가 진단한 하반기 중국 경제는?",
@@ -60,10 +42,28 @@
       "date": "Wed, 08 Jul 2026 03:01:00 GMT"
     },
     {
+      "title": "중국 경제: 2026년 하반기 성장을 주도할 동력은 무엇일까요?",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORkhKN0l3UUo1NTQ0YlZBaXRLUVdVMER1cFl3RS1uRjFMOXBWTFZudVcxNFpoZXlnaDRkLUJWOEliUklTUnZyYVpJUUJEME5wU1VwZi1Xd0UwMTZfM1AxdE9KbTFsZEROTHVXamZ0U1VhWU54MlZBbVNTV1BMM0FaYklYWlptckpRc1JSTU4xcDZGX2QyNHEweFYyMmhEYnJ1?oc=5",
+      "source": "Vietnam.vn",
+      "date": "Tue, 07 Jul 2026 23:22:49 GMT"
+    },
+    {
       "title": "[중국증시-마감] 1%대 하락…경제지표 발표 앞두고 관망세",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkYjJHYkE0SEpoWmxxZnNwX3RlSmdQZlNNU2RMS2ZMRzFCeW9oWUR4M3VQbHNLMm5udzdHTExHYXdkWWsxWmt0OS11YzBfZHI3SUk0eTdWeWJRWFdwT1BxRDQyVjhJLVlMWUl4VXB1M0U?oc=5",
       "source": "연합인포맥스",
       "date": "Tue, 07 Jul 2026 09:09:39 GMT"
+    },
+    {
+      "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Tue, 07 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "2026년 하반기 중국경제 전망",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeXlFallrZFA2T1BfclgzbUxVS0Vnc2l4eHhuWC1ESERxM2ZSZWUzR21RUTFaTjZkSy1jcFFaUWhranhTZS1NSjRWZFMza1I2S2tVSGRSVDlIQnFfRkVTR1p1UGJjaWE0RDEzdm9mUWRYajJRT2FyQ1JyYjF0RWktakcxcGpLQzhpWkhmQXBZZ3FvcWpHdVMta0psRzJXSHhiX2c?oc=5",
+      "source": "한국개발연구원(KDI)",
+      "date": "Wed, 01 Jul 2026 17:30:30 GMT"
     },
     {
       "title": "[차이나 인사이트] 숫자 뒤에 숨겨진 중국경제 읽기…중국 소비 회복은 착시인가",

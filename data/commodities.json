@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-07-10T07:06:38.047028+09:00",
+  "updated_at_kst": "2026-07-10T10:10:14.739878+09:00",
   "ref_date": "2026-07-09",
   "schema_version": "1.0",
   "adjustment_applied": true,
@@ -28,11 +28,11 @@
         "change_pct": -4.29
       },
       {
-        "name": "리 튬 수 산 화 물 (배 터 리 등 급)",
+        "name": "리튬 수산화물(배터리 등급)",
         "change_pct": -4.23
       },
       {
-        "name": "리 튬 수 산 화 물 (배 터 리 등 급)",
+        "name": "리튬 수산화물(배터리 등급)",
         "change_pct": -3.9
       }
     ]

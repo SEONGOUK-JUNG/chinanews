@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-10T07:10:57.799714+09:00",
+  "run_at_kst": "2026-07-10T10:12:32.382196+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,10 +8,28 @@
   "count": 14,
   "items": [
     {
+      "title": "The Coming Power War That Will Define the AI Era",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Coming-Power-War-That-Will-Define-the-AI-Era.html",
+      "source": "OilPrice",
+      "date": "Thu, 09 Jul 2026 19:00:00 -0500"
+    },
+    {
+      "title": "People Are Talking About Contango While Oil Markets Are Far From Recovered",
+      "link": "https://oilprice.com/Energy/Crude-Oil/People-Are-Talking-About-Contango-While-Oil-Markets-Are-Far-From-Recovered.html",
+      "source": "OilPrice",
+      "date": "Thu, 09 Jul 2026 18:00:00 -0500"
+    },
+    {
       "title": "The Strait Of Malacca Faces Growing Fears Of Copycat Shipping Fees",
       "link": "https://oilprice.com/Energy/Energy-General/The-Strait-Of-Malacca-Faces-Growing-Fears-Of-Copycat-Shipping-Fees.html",
       "source": "OilPrice",
       "date": "Thu, 09 Jul 2026 17:00:00 -0500"
+    },
+    {
+      "title": "Fed Sees Oil Prices Cooling Despite Renewed Iran War",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Fed-Sees-Oil-Prices-Cooling-Despite-Renewed-Iran-War.html",
+      "source": "OilPrice",
+      "date": "Thu, 09 Jul 2026 16:30:00 -0500"
     },
     {
       "title": "America's Answer to China's Molten Salt Reactor",
@@ -44,22 +62,10 @@
       "date": "Thu, 09 Jul 2026 18:34:48 +0000"
     },
     {
-      "title": "China Walks Away From Georgia's Strategic Deep-Water Port Project",
-      "link": "https://oilprice.com/Geopolitics/Asia/China-Walks-Away-From-Georgias-Strategic-Deep-Water-Port-Project.html",
-      "source": "OilPrice",
-      "date": "Thu, 09 Jul 2026 13:00:00 -0500"
-    },
-    {
       "title": "Carney seeks deeper Saudi mining, energy partnership",
       "link": "https://www.mining.com/carney-seeks-deeper-saudi-mining-energy-partnership/",
       "source": "mining.com",
       "date": "Thu, 09 Jul 2026 17:49:00 +0000"
-    },
-    {
-      "title": "U.S. Oil Dominance Keeps Growing Despite Lower Prices",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Oil-Dominance-Keeps-Growing-Despite-Lower-Prices.html",
-      "source": "OilPrice",
-      "date": "Thu, 09 Jul 2026 12:30:00 -0500"
     },
     {
       "title": "Lowry reserves extend Sandfire’s Black Butte copper mine life to 12 years",
@@ -72,12 +78,6 @@
       "link": "https://www.mining.com/devolution-may-see-made-in-nunavut-model/",
       "source": "mining.com",
       "date": "Thu, 09 Jul 2026 17:10:55 +0000"
-    },
-    {
-      "title": "Iran War May Ignite Middle East Market Share Race, But Not Yet",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Iran-War-May-Ignite-Middle-East-Market-Share-Race-But-Not-Yet.html",
-      "source": "OilPrice",
-      "date": "Thu, 09 Jul 2026 12:00:00 -0500"
     },
     {
       "title": "Flynn: US billions for rare earths ‘missing the mark’",
