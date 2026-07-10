@@ -1,15 +1,15 @@
 {
-  "run_at_kst": "2026-07-10T10:15:05.276402+09:00",
+  "run_at_kst": "2026-07-10T14:18:42.224714+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "판 바뀌는 SPA 시장…중국·스페인·일본 등 3강 체제로",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yOHVnRVJXOTgySTlVck5kSDhlUEI0T3U5WjBuN3lxa2pJd0Ztb0YyNFN4TG1OeXFSckNQZUFRZUlkbF9zUVVMZjFhYkQ1V0E?oc=5",
-      "source": "v.daum.net",
-      "date": "Thu, 09 Jul 2026 22:02:37 GMT"
+      "title": "제이에스링크, 호주·미국과 '탈중국 희토류 동맹' 구축",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kbXlQNk8tR3RQdEpRRThfQUtVS09aeDdYOG0wRU1ndmVYZUhYVm1oLVp2QkFOVUFKbXF1Szl2N0hLcHRlVUgwU0xTRHI0WXZFRkJnX3l3SXVrdmFRLTB2eUNGdDhTYnVLM0MxTGRVSQ?oc=5",
+      "source": "리드경제",
+      "date": "Fri, 10 Jul 2026 00:47:00 GMT"
     },
     {
       "title": "중국인민은행, ‘구조적 격차’ 첫 인정하며 통화 완화 다짐",
@@ -18,10 +18,10 @@
       "date": "Thu, 09 Jul 2026 20:40:00 GMT"
     },
     {
-      "title": "中 인민은행 \"완화적 통화정책 유지\"…정책 유연성 확대 시사",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DQ2ZHOGpfMzRTZl9LM3RfMEk2X0ZtTFJkYjJscHRxeUYwbVhBU1VLMWluZ1VMR1FzR2pBVFRqYnFFaUowalFZWjFmaDYwWlRzZ2RvT2NuNGV4eTU2UFBpddIBeEFVX3lxTE1HNzVGQk5aQ1ZwXzg1c0l3VTh4TUduX2l1TmhoRXhaRjMtbmYzMlJPakNuSzlBSHJ0R01aTTVQMnh3VDhrZUNzUk5SV0FSYWhMRHlUUFN5c0JVc2RtekY1QUdPZ1pReWdhXzBrRmRpR2N4TVJTRDZFcg?oc=5",
-      "source": "뉴시스",
-      "date": "Thu, 09 Jul 2026 07:39:40 GMT"
+      "title": "설마 벤츠까지?…‘중국 손 탄 車’ 다 막겠다는 미국",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tcUNVbVE4XzFMOE83T1BmeGllLVBYM0h5LU5uVHB5VnNmbGJKajZ2LWxBQnFoZmdLYUtpanUybEVUNzdnSUhpNERyMWxjNUU?oc=5",
+      "source": "v.daum.net",
+      "date": "Thu, 09 Jul 2026 20:02:28 GMT"
     },
     {
       "title": "中 금융전문가가 진단한 하반기 중국 경제는?",
@@ -43,7 +43,7 @@
     },
     {
       "title": "중국 경제: 2026년 하반기 성장을 주도할 동력은 무엇일까요?",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORkhKN0l3UUo1NTQ0YlZBaXRLUVdVMER1cFl3RS1uRjFMOXBWTFZudVcxNFpoZXlnaDRkLUJWOEliUklTUnZyYVpJUUJEME5wU1VwZi1Xd0UwMTZfM1AxdE9KbTFsZEROTHVXamZ0U1VhWU54MlZBbVNTV1BMM0FaYklYWlptckpRc1JSTU4xcDZGX2QyNHEweFYyMmhEYnJ1?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORkhKN0l3UUo1NTQ0YlZBaXRLUVdVMER1cFl3RS1uRjFMOVBWTFZudVcxNFpoZXlnaDRkLUJWOEliUklTUnZyYVpJUUJEME5wU1VwZi1Xd0UwMTZfM1AxdE9KbTFsZEROTHVXamZ0U1VhWU54MlZBbVNTV1BMM0FaYklYWlptckpRc1JSTU4xcDZGX2QyNHEweFYyMmhEYnJ1?oc=5",
       "source": "Vietnam.vn",
       "date": "Tue, 07 Jul 2026 23:22:49 GMT"
     },
