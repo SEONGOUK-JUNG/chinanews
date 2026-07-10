@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-10T14:18:42.224714+09:00",
+  "run_at_kst": "2026-07-10T20:15:11.302113+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
+      "title": "IEA Warns Renewed U.S.-Iran Conflict Could Upend Oil Surplus Forecast",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Warns-Renewed-US-Iran-Conflict-Could-Upend-Oil-Surplus-Forecast.html",
+      "date": "Fri, 10 Jul 2026 05:30:00 -0500",
+      "source": "OilPrice"
+    },
+    {
+      "title": "Fuel Refining Margins Hit Record Highs as Markets Tighten",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Fuel-Refining-Margins-Hit-Record-Highs-as-Markets-Tighten.html",
+      "date": "Fri, 10 Jul 2026 04:30:00 -0500",
+      "source": "OilPrice"
+    },
+    {
+      "title": "More LNG Carriers Brave the Strait of Hormuz Despite Renewed Hostilities",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/More-LNG-Carriers-Brave-the-Strait-of-Hormuz-Despite-Renewed-Hostilities.html",
+      "date": "Fri, 10 Jul 2026 03:30:00 -0500",
+      "source": "OilPrice"
+    },
+    {
+      "title": "India Expands Strategic Oil Reserves With New ONGC Storage Plan",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Expands-Strategic-Oil-Reserves-With-New-ONGC-Storage-Plan.html",
+      "date": "Fri, 10 Jul 2026 02:30:19 -0500",
+      "source": "OilPrice"
+    },
+    {
+      "title": "Oil Prices Set for Weekly Gain as Hormuz Tensions Escalate",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Set-for-Weekly-Gain-as-Hormuz-Tensions-Escalate.html",
+      "date": "Fri, 10 Jul 2026 00:56:11 -0500",
+      "source": "OilPrice"
+    },
+    {
       "title": "The Coming Power War That Will Define the AI Era",
       "link": "https://oilprice.com/Energy/Energy-General/The-Coming-Power-War-That-Will-Define-the-AI-Era.html",
-      "source": "OilPrice",
-      "date": "Thu, 09 Jul 2026 19:00:00 -0500"
+      "date": "Thu, 09 Jul 2026 19:00:00 -0500",
+      "source": "OilPrice"
     },
     {
       "title": "People Are Talking About Contango While Oil Markets Are Far From Recovered",
       "link": "https://oilprice.com/Energy/Crude-Oil/People-Are-Talking-About-Contango-While-Oil-Markets-Are-Far-From-Recovered.html",
-      "source": "OilPrice",
-      "date": "Thu, 09 Jul 2026 18:00:00 -0500"
+      "date": "Thu, 09 Jul 2026 18:00:00 -0500",
+      "source": "OilPrice"
     },
     {
       "title": "The Strait Of Malacca Faces Growing Fears Of Copycat Shipping Fees",
       "link": "https://oilprice.com/Energy/Energy-General/The-Strait-Of-Malacca-Faces-Growing-Fears-Of-Copycat-Shipping-Fees.html",
-      "source": "OilPrice",
-      "date": "Thu, 09 Jul 2026 17:00:00 -0500"
-    },
-    {
-      "title": "Fed Sees Oil Prices Cooling Despite Renewed Iran War",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Fed-Sees-Oil-Prices-Cooling-Despite-Renewed-Iran-War.html",
-      "source": "OilPrice",
-      "date": "Thu, 09 Jul 2026 16:30:00 -0500"
-    },
-    {
-      "title": "America's Answer to China's Molten Salt Reactor",
-      "link": "https://oilprice.com/Energy/Energy-General/Americas-Answer-to-Chinas-Molten-Salt-Reactor.html",
-      "source": "OilPrice",
-      "date": "Thu, 09 Jul 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Turkey and Iraq Move to Keep Critical Oil Export Route Alive",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Turkey-and-Iraq-Move-to-Keep-Critical-Oil-Export-Route-Alive.html",
-      "source": "OilPrice",
-      "date": "Thu, 09 Jul 2026 15:30:00 -0500"
-    },
-    {
-      "title": "Washington Draws a Line for Iraq's New Leader",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/Washington-Draws-a-Line-for-Iraqs-New-Leader.html",
-      "source": "OilPrice",
-      "date": "Thu, 09 Jul 2026 15:00:00 -0500"
-    },
-    {
-      "title": "Citi's AI Robotics Picks: Rockwell, Emerson, Honeywell Lead the List",
-      "link": "https://oilprice.com/Energy/Energy-General/Citis-AI-Robotics-Picks-Rockwell-Emerson-Honeywell-Lead-the-List.html",
-      "source": "OilPrice",
-      "date": "Thu, 09 Jul 2026 14:00:00 -0500"
+      "date": "Thu, 09 Jul 2026 17:00:00 -0500",
+      "source": "OilPrice"
     },
     {
       "title": "Macquarie says copper price rally still running ahead of reality",
       "link": "https://www.mining.com/macquarie-says-copper-price-rally-still-running-ahead-of-reality/",
-      "source": "mining.com",
-      "date": "Thu, 09 Jul 2026 18:34:48 +0000"
+      "date": "Thu, 09 Jul 2026 18:34:48 +0000",
+      "source": "mining.com"
     },
     {
       "title": "Carney seeks deeper Saudi mining, energy partnership",
       "link": "https://www.mining.com/carney-seeks-deeper-saudi-mining-energy-partnership/",
-      "source": "mining.com",
-      "date": "Thu, 09 Jul 2026 17:49:00 +0000"
+      "date": "Thu, 09 Jul 2026 17:49:00 +0000",
+      "source": "mining.com"
     },
     {
       "title": "Lowry reserves extend Sandfire’s Black Butte copper mine life to 12 years",
       "link": "https://www.mining.com/lowry-reserves-extend-sandfires-black-butte-copper-mine-life-to-12-years/",
-      "source": "mining.com",
-      "date": "Thu, 09 Jul 2026 17:12:08 +0000"
+      "date": "Thu, 09 Jul 2026 17:12:08 +0000",
+      "source": "mining.com"
     },
     {
       "title": "Devolution may see made-in-Nunavut model",
       "link": "https://www.mining.com/devolution-may-see-made-in-nunavut-model/",
-      "source": "mining.com",
-      "date": "Thu, 09 Jul 2026 17:10:55 +0000"
+      "date": "Thu, 09 Jul 2026 17:10:55 +0000",
+      "source": "mining.com"
     },
     {
       "title": "Flynn: US billions for rare earths ‘missing the mark’",
       "link": "https://www.mining.com/flynn-us-billions-for-rare-earths-missing-the-mark/",
-      "source": "mining.com",
-      "date": "Thu, 09 Jul 2026 16:26:36 +0000"
+      "date": "Thu, 09 Jul 2026 16:26:36 +0000",
+      "source": "mining.com"
     },
     {
       "title": "NexGold boosts Goldboro drilling as assays lift hopes",
       "link": "https://www.mining.com/nexgold-boosts-goldboro-drilling-as-assays-lift-hopes/",
-      "source": "mining.com",
-      "date": "Thu, 09 Jul 2026 14:27:31 +0000"
+      "date": "Thu, 09 Jul 2026 14:27:31 +0000",
+      "source": "mining.com"
     }
   ]
 }

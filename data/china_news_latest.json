@@ -1,27 +1,45 @@
 {
-  "run_at_kst": "2026-07-10T14:18:42.224714+09:00",
+  "run_at_kst": "2026-07-10T20:15:01.402213+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "제이에스링크, 호주·미국과 '탈중국 희토류 동맹' 구축",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kbXlQNk8tR3RQdEpRRThfQUtVS09aeDdYOG0wRU1ndmVYZUhYVm1oLVp2QkFOVUFKbXF1Szl2N0hLcHRlVUgwU0xTRHI0WXZFRkJnX3l3SXVrdmFRLTB2eUNGdDhTYnVLM0MxTGRVSQ?oc=5",
-      "source": "리드경제",
-      "date": "Fri, 10 Jul 2026 00:47:00 GMT"
+      "title": "중국 상무부 \"오늘부터 헬륨 수출 일시 금지\"",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CSnhoVENleHJqNkhhQjFvTHNEdmF5QWJDeXZCczNlanFmLVBzalpPZzNONUliLXFrMl94RGZ2T1VrdnhRV0hnVlhyeEgwX0ZBM2U3eHVEWDk2UdIBVEFVX3lxTE9Ya2JMUndFSGpSUW9YblBJUFQzS0xBMVJSWVVOa0FYZ2dNZDQyQ1Q3VWU1MFBSNFBva1FVbzVzUnIyQnNWdmFHN2YtSWMyLXlzRHVWQw?oc=5",
+      "source": "한국경제",
+      "date": "Fri, 10 Jul 2026 09:34:47 GMT"
+    },
+    {
+      "title": "[비디오머그] 엔비디아 칩 급 허용한 중국의 속내",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlTVdUOExjc2dobGRqS3BfOWdOM2lNeGY5a2lFajdSRnQ5UFhFekRLdUd3bmlvRHZaYkhPZFJZaDdhWGx2eVdNd3JrS3dCejQ?oc=5",
+      "source": "v.daum.net",
+      "date": "Fri, 10 Jul 2026 08:36:11 GMT"
+    },
+    {
+      "title": "중국의 '혁신 vs 경제 불균형' 딜레마",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IZXBYVTlub1ZuUk1FcVo2bVh5NFdfdm43UlE5WEdGSU5ZT0NpZkVMMHUtVTlRMWxSV2JOWFBxMXRNV1ZCTjByMV96YTREdTVQb3BqdVBXRXJLZWM?oc=5",
+      "source": "pado.kr",
+      "date": "Fri, 10 Jul 2026 07:55:00 GMT"
+    },
+    {
+      "title": "[경제+] 외부 충격에도 버틴 中 경제...에너지·산업·시장 기반이 힘 됐다",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11bHBLeXAtR2ZqQ3RXZUJ6dW5TVnFMOGJPaHlsc1ZObTM4cTRDZjI3NG5zMDBpU19KLXdSMlpaLUVkRjNBU3U5aGJkbS1oUEVubERWa3V1ckk5X1Y1OHFHZFdQUjhYM2s4WUN2TNIBcEFVX3lxTFA4MDlXR29fc05TT19YN01zemdUc1pYMF9waXk4X0o2VS1BLWxQMlpDTXhEaGxEMVVFOWNJckpYbnJ3c0E3UVBoZlBCV0NydU5QT2QzWVJmcTMzVHZLNDJpZ2hNbWNmcjM0bkw2UzljZ3I?oc=5",
+      "source": "내외뉴스통신",
+      "date": "Fri, 10 Jul 2026 06:31:12 GMT"
+    },
+    {
+      "title": "화해 계기될까, 日 재계 방중 소식에 中 “소통 채널 열어둬야”",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMEstOTBVRkszbTVIamJUSkM2Mkw5TDYtSjEyYmtOZkw4Z3lLVHNvejBRY2FBbllwQndBSHMzc3VyOHdtVG8xQWRucDJvWmV5QkFlWDNSazAxVXc4MGEtRmdWQlI2NTJwSGdfN0FGdk5IZk1pVW1NTWRya01mZURrOQ?oc=5",
+      "source": "이데일리",
+      "date": "Fri, 10 Jul 2026 06:04:45 GMT"
     },
     {
       "title": "중국인민은행, ‘구조적 격차’ 첫 인정하며 통화 완화 다짐",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU0hRWk01Q2xWTEFTemF3ZkJ5dERYX1k0QXFNeU9UaDFJYTg0OGNzc1pRaVQ3R2VOVDJPa2Z0OU1hRmg5d1lNbnF4VmY2a28tOTYwcW5LbFVQZW1kSE9lMWU0bXlmbzJWSW9tTTdwMGNLa3hnTmNMUkdJTUwwNHQ5aklEN0QzeTZv?oc=5",
       "source": "글로벌이코노믹",
       "date": "Thu, 09 Jul 2026 20:40:00 GMT"
-    },
-    {
-      "title": "설마 벤츠까지?…‘중국 손 탄 車’ 다 막겠다는 미국",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tcUNVbVE4XzFMOE83T1BmeGllLVBYM0h5LU5uVHB5VnNmbGJKajZ2LWxBQnFoZmdLYUtpanUybEVUNzdnSUhpNERyMWxjNUU?oc=5",
-      "source": "v.daum.net",
-      "date": "Thu, 09 Jul 2026 20:02:28 GMT"
     },
     {
       "title": "中 금융전문가가 진단한 하반기 중국 경제는?",
@@ -42,12 +60,6 @@
       "date": "Wed, 08 Jul 2026 03:01:00 GMT"
     },
     {
-      "title": "중국 경제: 2026년 하반기 성장을 주도할 동력은 무엇일까요?",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORkhKN0l3UUo1NTQ0YlZBaXRLUVdVMER1cFl3RS1uRjFMOVBWTFZudVcxNFpoZXlnaDRkLUJWOEliUklTUnZyYVpJUUJEME5wU1VwZi1Xd0UwMTZfM1AxdE9KbTFsZEROTHVXamZ0U1VhWU54MlZBbVNTV1BMM0FaYklYWlptckpRc1JSTU4xcDZGX2QyNHEweFYyMmhEYnJ1?oc=5",
-      "source": "Vietnam.vn",
-      "date": "Tue, 07 Jul 2026 23:22:49 GMT"
-    },
-    {
       "title": "[중국증시-마감] 1%대 하락…경제지표 발표 앞두고 관망세",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkYjJHYkE0SEpoWmxxZnNwX3RlSmdQZlNNU2RMS2ZMRzFCeW9oWUR4M3VQbHNLMm5udzdHTExHYXdkWWsxWmt0OS11YzBfZHI3SUk0eTdWeWJRWFdwT1BxRDQyVjhJLVlMWUl4VXB1M0U?oc=5",
       "source": "연합인포맥스",
@@ -58,18 +70,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
       "source": ":: 위즈경제 ::",
       "date": "Tue, 07 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "2026년 하반기 중국경제 전망",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeXlFallrZFA2T1BfclgzbUxVS0Vnc2l4eHhuWC1ESERxM2ZSZWUzR21RUTFaTjZkSy1jcFFaUWhranhTZS1NSjRWZFMza1I2S2tVSGRSVDlIQnFfRkVTR1p1UGJjaWE0RDEzdm9mUWRYajJRT2FyQ1JyYjF0RWktakcxcGpLQzhpWkhmQXBZZ3FvcWpHdVMta0psRzJXSHhiX2c?oc=5",
-      "source": "한국개발연구원(KDI)",
-      "date": "Wed, 01 Jul 2026 17:30:30 GMT"
-    },
-    {
-      "title": "[차이나 인사이트] 숫자 뒤에 숨겨진 중국경제 읽기…중국 소비 회복은 착시인가",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJUDVwNTl1ZGdBRk5aem4yYTVtQkd1QUVBZl9rb3ZGdHI2STkxc1RvYWRqay1xeFFGNHZYYWNJdzdvOHo4djlPMV90S3hHZDJ1U3NjaU9xOVJBOHRmSmpaTEc0Sk5QY0pZU0l0VUVvajJ5dw?oc=5",
-      "source": "뉴스임팩트",
-      "date": "Wed, 24 Jun 2026 21:30:00 GMT"
     },
     {
       "title": "경제는 ‘흔들’ 기술은 ‘질주’하는 중국의 딜레마, 실체는?",
