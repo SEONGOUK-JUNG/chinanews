@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-07-10T20:15:01.402213+09:00",
+  "run_at_kst": "2026-07-11T07:11:20.836395+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "중국의 '혁신 vs 경제 불균형' 딜레마 [PADO] - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fNU8wUTBrTm8wZUROSzBFSVdvXzJYMklSQjJyWE9xRHdXQ0h6d2J2bzViM182VVpNRHY5dVJZb0s4UHBHSS16ZTB5ZFFURmZGTlVkeE16RDFNY3BoV1JJY2NNdGEtUW5G0gFuQVVfeXFMT1FWT01ya2h2T25DWWRyZnBtUTN4UHYtdzNWLWt4Y20wVlowYlo3UXp0TERocVFyYjRRbmhyQ1djUFJzY2NwWWJNMHpDODh1bFJHWkszbzY5OWt1WWllSWt5ZzNUektGUmNlNVYwa0E?oc=5",
+      "source": "머니투데이",
+      "date": "Fri, 10 Jul 2026 20:00:00 GMT"
+    },
     {
       "title": "중국 상무부 \"오늘부터 헬륨 수출 일시 금지\"",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CSnhoVENleHJqNkhhQjFvTHNEdmF5QWJDeXZCczNlanFmLVBzalpPZzNONUliLXFrMl94RGZ2T1VrdnhRV0hnVlhyeEgwX0ZBM2U3eHVEWDk2UdIBVEFVX3lxTE9Ya2JMUndFSGpSUW9YblBJUFQzS0xBMVJSWVVOa0FYZ2dNZDQyQ1Q3VWU1MFBSNFBva1FVbzVzUnIyQnNWdmFHN2YtSWMyLXlzRHVWQw?oc=5",
@@ -18,10 +24,10 @@
       "date": "Fri, 10 Jul 2026 08:36:11 GMT"
     },
     {
-      "title": "중국의 '혁신 vs 경제 불균형' 딜레마",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IZXBYVTlub1ZuUk1FcVo2bVh5NFdfdm43UlE5WEdGSU5ZT0NpZkVMMHUtVTlRMWxSV2JOWFBxMXRNV1ZCTjByMV96YTREdTVQb3BqdVBXRXJLZWM?oc=5",
-      "source": "pado.kr",
-      "date": "Fri, 10 Jul 2026 07:55:00 GMT"
+      "title": "민형배 특별시장, 주광주 중국총영사 접견… 경제협력 확대 논의",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAybk1KbEF3U3QxWUpoSjE0bUFJeU0tZWhFRlRTaldldy1uSkc1VWl2Y2xkVUZBaGhrSmdmMVdkeHlRYURaLWgxdFlfOEh2LWxuUnJ4N0J5Q0JaeUY2eDVlS1JtNUw?oc=5",
+      "source": "매일일보",
+      "date": "Fri, 10 Jul 2026 08:24:45 GMT"
     },
     {
       "title": "[경제+] 외부 충격에도 버틴 中 경제...에너지·산업·시장 기반이 힘 됐다",
@@ -30,28 +36,16 @@
       "date": "Fri, 10 Jul 2026 06:31:12 GMT"
     },
     {
-      "title": "화해 계기될까, 日 재계 방중 소식에 中 “소통 채널 열어둬야”",
+      "title": "관계 개선될까, 日 재계 방중 소식에 中 “소통 채널 열어둬야”",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMEstOTBVRkszbTVIamJUSkM2Mkw5TDYtSjEyYmtOZkw4Z3lLVHNvejBRY2FBbllwQndBSHMzc3VyOHdtVG8xQWRucDJvWmV5QkFlWDNSazAxVXc4MGEtRmdWQlI2NTJwSGdfN0FGdk5IZk1pVW1NTWRya01mZURrOQ?oc=5",
       "source": "이데일리",
       "date": "Fri, 10 Jul 2026 06:04:45 GMT"
-    },
-    {
-      "title": "중국인민은행, ‘구조적 격차’ 첫 인정하며 통화 완화 다짐",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU0hRWk01Q2xWTEFTemF3ZkJ5dERYX1k0QXFNeU9UaDFJYTg0OGNzc1pRaVQ3R2VOVDJPa2Z0OU1hRmg5d1lNbnF4VmY2a28tOTYwcW5LbFVQZW1kSE9lMWU0bXlmbzJWSW9tTTdwMGNLa3hnTmNMUkdJTUwwNHQ5aklEN0QzeTZv?oc=5",
-      "source": "글로벌이코노믹",
-      "date": "Thu, 09 Jul 2026 20:40:00 GMT"
     },
     {
       "title": "中 금융전문가가 진단한 하반기 중국 경제는?",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlTzM2VmVsZ3pnTGt2YzFYaEI0S1FJU003OU5RRzBoZDAwSE5OdTFmNXoyUmJodmdSLWdsenFrbDhZMDJtTzNFc2dmUTBEX3NhUlhQN1NhQ09CN0lDQkl4bjlXZWdDUTNkMENWZjJDMNIBc0FVX3lxTE1TRzRRTVdNS0N5VUI2Zy1oUC1mMmlqM2d3Ql9yVTdfci0tSFZaNHluZ04yX2RQUWVucTItcjhaMXcyZlkwZnYybnVjdU5mV2VucUVzVGhaa0ZmNFhFRHV6QVRjN2tmQVpvenVWUHBEd2dZT0E?oc=5",
       "source": "초이스경제",
       "date": "Wed, 08 Jul 2026 23:36:57 GMT"
-    },
-    {
-      "title": "중국 중앙은행, 경제 내 수급 불균형 지적",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wVUhoZklTWS1BRHZsMEJMVlROdzlXYldCZ21tQVlHRlZrSlR5ZmVfdXBFYU55VXZnM2xKNTJxWF9pY21vbGNNNTZJVmRfS3BEMzN1dzJDVUdtVTB4NVFuU3BmYUM4c0Y5T2pPQm0tUFg?oc=5",
-      "source": "Investing.com 한국어",
-      "date": "Wed, 08 Jul 2026 11:23:00 GMT"
     },
     {
       "title": "“중국 성장률 부풀려졌다” 공식 통계 의문 제기한 경제학자 가오산원, 54세로 별세",
@@ -72,10 +66,16 @@
       "date": "Tue, 07 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "경제는 ‘흔들’ 기술은 ‘질주’하는 중국의 딜레마, 실체는?",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZG1sWUFDY2l6bFoyeFBUdTdzUjgwU1o0clpaZm5hSk9QU0NvUE5uQWdaelg0OFhKNXI2dXk5VnNjSVE5R3lwMkpDMFFiRzc1LW9nYnVn?oc=5",
-      "source": "중앙일보",
-      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
+      "title": "\"중국 경제 비관적\" 강연 내용에 불만?...베이징서 경찰 출동 소동",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qRkFoTGJzV2dSdXhpdjd3NmVvcnIyMzQ5bjJRYjhack1QWnFKOVVQWW9CY3RfOXdWMTlPYTFnY19saHRlUU8xUElxMkcwMHdWQ2EtSndMSDNZVE9aZU00TlFER19yTzA?oc=5",
+      "source": "연합뉴스TV",
+      "date": "Thu, 02 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "2026년 하반기 중국경제 전망",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeXlFallrZFA2T1BfclgzbUxVS0Vnc2l4eHhuWC1ESERxM2ZSZWUzR21RUTFaTjZkSy1jcFFaUWhranhTZS1NSjRWZFMza1I2S2tVSGRSVDlIQnFfRkVTR1p1UGJjaWE0RDEzdm9mUWRYajJRT2FyQ1JyYjF0RWktakcxcGpLQzhpWkhmQXBZZ3FvcWpHdVMta0psRzJXSHhiX2c?oc=5",
+      "source": "한국개발연구원(KDI)",
+      "date": "Wed, 01 Jul 2026 17:30:30 GMT"
     }
   ]
 }

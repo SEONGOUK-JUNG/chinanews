@@ -1,12 +1,32 @@
 {
-  "run_at_kst": "2026-07-10T13:01:23.470815+09:00",
+  "run_at_kst": "2026-07-11T07:01:03.222533+09:00",
   "source": "DART OpenAPI",
   "source_url": "https://opendart.fss.or.kr/",
-  "period": "20260626~20260710",
+  "period": "20260627~20260711",
   "total_companies": 20,
   "success_companies": 20,
-  "total_disclosures": 44,
+  "total_disclosures": 40,
   "disclosures": [
+    {
+      "stock_code": "005930",
+      "corp_name": "삼성전자",
+      "report_nm": "주식등의대량보유상황보고서(일반)",
+      "flr_nm": "삼성물산",
+      "rcept_dt": "2026-07-10",
+      "rcept_no": "20260710000678",
+      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260710000678",
+      "rm": ""
+    },
+    {
+      "stock_code": "005930",
+      "corp_name": "삼성전자",
+      "report_nm": "자기주식처분결과보고서",
+      "flr_nm": "삼성전자",
+      "rcept_dt": "2026-07-10",
+      "rcept_no": "20260710000585",
+      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260710000585",
+      "rm": ""
+    },
     {
       "stock_code": "005930",
       "corp_name": "삼성전자",
@@ -78,6 +98,26 @@
       "rm": "유"
     },
     {
+      "stock_code": "005380",
+      "corp_name": "현대자동차",
+      "report_nm": "특수관계인으로부터기타유가증권매수",
+      "flr_nm": "현대자동차",
+      "rcept_dt": "2026-07-10",
+      "rcept_no": "20260710000577",
+      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260710000577",
+      "rm": "공"
+    },
+    {
+      "stock_code": "005380",
+      "corp_name": "현대자동차",
+      "report_nm": "기업설명회(IR)개최(안내공시)              ",
+      "flr_nm": "현대자동차",
+      "rcept_dt": "2026-07-10",
+      "rcept_no": "20260710800714",
+      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260710800714",
+      "rm": "유"
+    },
+    {
       "stock_code": "005930",
       "corp_name": "삼성전자",
       "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
@@ -85,16 +125,6 @@
       "rcept_dt": "2026-07-09",
       "rcept_no": "20260709000691",
       "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260709000691",
-      "rm": ""
-    },
-    {
-      "stock_code": "005930",
-      "corp_name": "삼성전자",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "flr_nm": "신경섭",
-      "rcept_dt": "2026-07-09",
-      "rcept_no": "20260709000662",
-      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260709000662",
       "rm": ""
     },
     {
@@ -125,16 +155,6 @@
       "rcept_dt": "2026-07-08",
       "rcept_no": "20260708000078",
       "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260708000078",
-      "rm": ""
-    },
-    {
-      "stock_code": "005930",
-      "corp_name": "삼성전자",
-      "report_nm": "주요사항보고서(자기주식처분결정)",
-      "flr_nm": "삼성전자",
-      "rcept_dt": "2026-07-07",
-      "rcept_no": "20260707000403",
-      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260707000403",
       "rm": ""
     },
     {
@@ -385,66 +405,6 @@
       "rcept_dt": "2026-06-29",
       "rcept_no": "20260629801167",
       "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260629801167",
-      "rm": "유"
-    },
-    {
-      "stock_code": "051910",
-      "corp_name": "LG화학",
-      "report_nm": "기업설명회(IR)개최(안내공시)              ",
-      "flr_nm": "LG화학",
-      "rcept_dt": "2026-06-26",
-      "rcept_no": "20260626800328",
-      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260626800328",
-      "rm": "유"
-    },
-    {
-      "stock_code": "035420",
-      "corp_name": "NAVER",
-      "report_nm": "임원ㆍ주요주주특정증권등소유상황보고서",
-      "flr_nm": "임준현",
-      "rcept_dt": "2026-06-26",
-      "rcept_no": "20260626000476",
-      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260626000476",
-      "rm": ""
-    },
-    {
-      "stock_code": "005490",
-      "corp_name": "POSCO홀딩스",
-      "report_nm": "지속가능경영보고서등관련사항(자율공시)              ",
-      "flr_nm": "POSCO홀딩스",
-      "rcept_dt": "2026-06-26",
-      "rcept_no": "20260626800833",
-      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260626800833",
-      "rm": "유"
-    },
-    {
-      "stock_code": "105560",
-      "corp_name": "삼성물산",
-      "report_nm": "특수관계인으로부터부동산매수",
-      "flr_nm": "삼성물산",
-      "rcept_dt": "2026-06-26",
-      "rcept_no": "20260626000726",
-      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260626000726",
-      "rm": "공"
-    },
-    {
-      "stock_code": "000270",
-      "corp_name": "케이티",
-      "report_nm": "조회공시요구(풍문또는보도)에대한답변(미확정)              ",
-      "flr_nm": "케이티",
-      "rcept_dt": "2026-06-26",
-      "rcept_no": "20260626800212",
-      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260626800212",
-      "rm": "유"
-    },
-    {
-      "stock_code": "066570",
-      "corp_name": "케이티",
-      "report_nm": "조회공시요구(풍문또는보도)에대한답변(미확정)              ",
-      "flr_nm": "케이티",
-      "rcept_dt": "2026-06-26",
-      "rcept_no": "20260626800212",
-      "dart_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260626800212",
       "rm": "유"
     }
   ]

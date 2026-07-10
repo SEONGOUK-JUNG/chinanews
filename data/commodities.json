@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-07-10T20:10:27.030889+09:00",
+  "updated_at_kst": "2026-07-11T07:07:41.751578+09:00",
   "ref_date": "2026-07-10",
   "schema_version": "1.0",
   "adjustment_applied": true,
@@ -7,7 +7,7 @@
     "up_count": 57,
     "down_count": 50,
     "flat_count": 337,
-    "total": 418,
+    "total": 444,
     "top_gainers": [
       {
         "name": "프로필렌 옥사이드",
@@ -2315,13 +2315,6 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "요오드화칼륨",
-      "sector": "",
-      "price_prev": 432.0,
-      "price_today": 432.0,
-      "change_pct": 0.0
-    },
-    {
       "display_name": "요오드화나트륨",
       "sector": "화학공업",
       "price_prev": 523.23,
@@ -2375,13 +2368,6 @@
       "sector": "화학공업",
       "price_prev": 82615.5,
       "price_today": 82615.5,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "OP-10",
-      "sector": "",
-      "price_prev": 10100.0,
-      "price_today": 10100.0,
       "change_pct": 0.0
     },
     {
@@ -2690,13 +2676,6 @@
       "sector": "화학공업",
       "price_prev": 53074.2,
       "price_today": 53074.2,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "n-뷰틸 타이트 아세트산염",
-      "sector": "철강",
-      "price_prev": 18273.98,
-      "price_today": 18273.98,
       "change_pct": 0.0
     },
     {
