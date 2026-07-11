@@ -1,15 +1,21 @@
 {
-  "run_at_kst": "2026-07-11T07:11:20.836395+09:00",
+  "run_at_kst": "2026-07-11T10:15:22.204086+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "중국의 '혁신 vs 경제 불균형' 딜레마 [PADO] - 머니투데이",
+      "title": "중국의 '혁신 vs 경제 불균형' 딜레마 [PADO]",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fNU8wUTBrTm8wZUROSzBFSVdvXzJYMklSQjJyWE9xRHdXQ0h6d2J2bzViM182VVpNRHY5dVJZb0s4UHBHSS16ZTB5ZFFURmZGTlVkeE16RDFNY3BoV1JJY2NNdGEtUW5G0gFuQVVfeXFMT1FWT01ya2h2T25DWWRyZnBtUTN4UHYtdzNWLWt4Y20wVlowYlo3UXp0TERocVFyYjRRbmhyQ1djUFJzY2NwWWJNMHpDODh1bFJHWkszbzY5OWt1WWllSWt5ZzNUektGUmNlNVYwa0E?oc=5",
       "source": "머니투데이",
       "date": "Fri, 10 Jul 2026 20:00:00 GMT"
+    },
+    {
+      "title": "[경제+] 상반기 中 경제, 안정적 순항 이어가...CPI 1.0%, PPI 1.5% 상승",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE83UDh4R0hXUlRidDFwRmptUnJ2UkFZMkNacml6Z3l0c0UzRmcwQ1JGNkdXdTNSOHNZZXJhTm81cm10eWtVVy00Vm1uSkQ3ZGJ1WkpDM1E3bHNYdi1leG9OZGxyMFNPcjJqa212NGNKaGl6QQ?oc=5",
+      "source": "동방일보",
+      "date": "Fri, 10 Jul 2026 10:03:08 GMT"
     },
     {
       "title": "중국 상무부 \"오늘부터 헬륨 수출 일시 금지\"",
@@ -28,18 +34,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAybk1KbEF3U3QxWUpoSjE0bUFJeU0tZWhFRlRTaldldy1uSkc1VWl2Y2xkVUZBaGhrSmdmMVdkeHlRYURaLWgxdFlfOEh2LWxuUnJ4N0J5Q0JaeUY2eDVlS1JtNUw?oc=5",
       "source": "매일일보",
       "date": "Fri, 10 Jul 2026 08:24:45 GMT"
-    },
-    {
-      "title": "[경제+] 외부 충격에도 버틴 中 경제...에너지·산업·시장 기반이 힘 됐다",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11bHBLeXAtR2ZqQ3RXZUJ6dW5TVnFMOGJPaHlsc1ZObTM4cTRDZjI3NG5zMDBpU19KLXdSMlpaLUVkRjNBU3U5aGJkbS1oUEVubERWa3V1ckk5X1Y1OHFHZFdQUjhYM2s4WUN2TNIBcEFVX3lxTFA4MDlXR29fc05TT19YN01zemdUc1pYMF9waXk4X0o2VS1BLWxQMlpDTXhEaGxEMVVFOWNJckpYbnJ3c0E3UVBoZlBCV0NydU5QT2QzWVJmcTMzVHZLNDJpZ2hNbWNmcjM0bkw2UzljZ3I?oc=5",
-      "source": "내외뉴스통신",
-      "date": "Fri, 10 Jul 2026 06:31:12 GMT"
-    },
-    {
-      "title": "관계 개선될까, 日 재계 방중 소식에 中 “소통 채널 열어둬야”",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMEstOTBVRkszbTVIamJUSkM2Mkw5TDYtSjEyYmtOZkw4Z3lLVHNvejBRY2FBbllwQndBSHMzc3VyOHdtVG8xQWRucDJvWmV5QkFlWDNSazAxVXc4MGEtRmdWQlI2NTJwSGdfN0FGdk5IZk1pVW1NTWRya01mZURrOQ?oc=5",
-      "source": "이데일리",
-      "date": "Fri, 10 Jul 2026 06:04:45 GMT"
     },
     {
       "title": "中 금융전문가가 진단한 하반기 중국 경제는?",
@@ -66,16 +60,22 @@
       "date": "Tue, 07 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "\"중국 경제 비관적\" 강연 내용에 불만?...베이징서 경찰 출동 소동",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qRkFoTGJzV2dSdXhpdjd3NmVvcnIyMzQ5bjJRYjhack1QWnFKOVVQWW9CY3RfOXdWMTlPYTFnY19saHRlUU8xUElxMkcwMHdWQ2EtSndMSDNZVE9aZU00TlFER19yTzA?oc=5",
-      "source": "연합뉴스TV",
-      "date": "Thu, 02 Jul 2026 07:00:00 GMT"
+      "title": "중국 경제매체 \"한국, AI·반도체에 국가 승부수\"…2000조 원 투자계획 주목",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kODJEMk9ON05kd1JuVjZORkprbFZZTXRvTTB0UUtfNzR3Mk5wWVFsTS1ranJtbFZfMUI1ZWVWU1BmQjFMNWpIMU1yYkUwLVloVTJfY0ZpZzJob2VzblVhNUZxb2tFbXpJSzJ3?oc=5",
+      "source": "서울일보",
+      "date": "Mon, 06 Jul 2026 05:20:19 GMT"
     },
     {
       "title": "2026년 하반기 중국경제 전망",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeXlFallrZFA2T1BfclgzbUxVS0Vnc2l4eHhuWC1ESERxM2ZSZWUzR21RUTFaTjZkSy1jcFFaUWhranhTZS1NSjRWZFMza1I2S2tVSGRSVDlIQnFfRkVTR1p1UGJjaWE0RDEzdm9mUWRYajJRT2FyQ1JyYjF0RWktakcxcGpLQzhpWkhmQXBZZ3FvcWpHdVMta0psRzJXSHhiX2c?oc=5",
       "source": "한국개발연구원(KDI)",
       "date": "Wed, 01 Jul 2026 17:30:30 GMT"
+    },
+    {
+      "title": "세계은행, 대중국 대출 종료 수순…“세계 2위 경제대국인데 왜” 美 압박 통했나",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpV3F3UFVmQTRBNjU2SnF3b0t3Wko0TmJ2cDFMWVNSUGlGb0MyQXRHVGFPMHBEeUlwSUJjSklQd3VrM1VMdmdNaUNneTlsUjN1MVJ5WVl3?oc=5",
+      "source": "중앙일보",
+      "date": "Tue, 30 Jun 2026 07:00:00 GMT"
     }
   ]
 }

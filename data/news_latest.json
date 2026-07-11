@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-11T07:08:48.358335+09:00",
+  "run_at_kst": "2026-07-11T10:10:29.124051+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,24 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Guardian Metal, Montana Mining Association forge US tungsten processing alliance",
+      "link": "https://www.mining.com/guardian-metal-montana-mining-association-forge-us-tungsten-processing-alliance/",
+      "source": "mining.com",
+      "date": "Fri, 10 Jul 2026 23:54:46 +0000"
+    },
+    {
+      "title": "Europe’s Nuclear Plants Can’t Beat the Heat",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Europes-Nuclear-Plants-Cant-Beat-the-Heat.html",
+      "source": "OilPrice",
+      "date": "Fri, 10 Jul 2026 18:00:00 -0500"
+    },
+    {
+      "title": "CATL takes 20% stake in graphite materials developer CarbonScape",
+      "link": "https://www.mining.com/catl-takes-20-stake-in-graphite-materials-developer-carbonscape/",
+      "source": "mining.com",
+      "date": "Fri, 10 Jul 2026 22:42:17 +0000"
+    },
     {
       "title": "Kazakhstan Extends Petroleum Export Ban Six Months as Hormuz Tensions Flare",
       "link": "https://oilprice.com/Energy/Energy-General/Kazakhstan-Extends-Petroleum-Export-Ban-Six-Months-as-Hormuz-Tensions-Flare.html",
@@ -50,7 +68,7 @@
       "date": "Fri, 10 Jul 2026 16:01:32 +0000"
     },
     {
-      "title": "Oil's Calm Is Over as Middle East Risks Return",
+      "title": "Oil’s Calm Is Over as Middle East Risks Return",
       "link": "https://oilprice.com/Energy/Energy-General/Oils-Calm-Is-Over-as-Middle-East-Risks-Return.html",
       "source": "OilPrice",
       "date": "Fri, 10 Jul 2026 11:01:00 -0500"
@@ -72,24 +90,6 @@
       "link": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Chief-Urges-EU-to-Drop-Arctic-Drilling-Ban.html",
       "source": "OilPrice",
       "date": "Fri, 10 Jul 2026 10:30:00 -0500"
-    },
-    {
-      "title": "UAE Oil Output Hits All-Time High, Doubling Pre-Crisis Levels",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/UAE-Oil-Output-Hits-All-Time-High-Doubling-Pre-Crisis-Levels.html",
-      "source": "OilPrice",
-      "date": "Fri, 10 Jul 2026 09:30:00 -0500"
-    },
-    {
-      "title": "Fortuna bets $71M on Latin America gold growth",
-      "link": "https://www.mining.com/fortuna-bets-71m-on-latin-america-gold-growth/",
-      "source": "mining.com",
-      "date": "Fri, 10 Jul 2026 14:13:00 +0000"
-    },
-    {
-      "title": "BHP strike threat lifts iron ore price for best week since May",
-      "link": "https://www.mining.com/bhp-strike-threat-lifts-iron-ore-price-for-best-week-since-may/",
-      "source": "mining.com",
-      "date": "Fri, 10 Jul 2026 12:26:31 +0000"
     }
   ]
 }
