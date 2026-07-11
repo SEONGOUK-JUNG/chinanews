@@ -1,21 +1,27 @@
 {
-  "run_at_kst": "2026-07-11T10:15:22.204086+09:00",
+  "run_at_kst": "2026-07-11T14:12:49.386698+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "중국의 '혁신 vs 경제 불균형' 딜레마 [PADO]",
+      "title": "상반기 中 경제, 안정적 순항 이어가...CPI 1.0%, PPI 1.5% 상승-Xinhua",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnZWZPeXJzemx5dnpWTkpvTjQxSmRWZ1I1ZlNlaUJEdUw2RGlQWng0YUFqUi1zZE9hb3VXVFhpNERyN1BQUkYwZGxYUHdxX1dQTW9MTDRlT3ZQc2xTbjZDRS1tcEpOR2diRmN6bUQzd0NCNjFOd0NCbHNZVFU?oc=5",
+      "source": "新华网",
+      "date": "Sat, 11 Jul 2026 01:12:49 GMT"
+    },
+    {
+      "title": "중국의 '혁신 vs 경제 불균형' 딜레마 [PADO] - 머니투데이",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fNU8wUTBrTm8wZUROSzBFSVdvXzJYMklSQjJyWE9xRHdXQ0h6d2J2bzViM182VVpNRHY5dVJZb0s4UHBHSS16ZTB5ZFFURmZGTlVkeE16RDFNY3BoV1JJY2NNdGEtUW5G0gFuQVVfeXFMT1FWT01ya2h2T25DWWRyZnBtUTN4UHYtdzNWLWt4Y20wVlowYlo3UXp0TERocVFyYjRRbmhyQ1djUFJzY2NwWWJNMHpDODh1bFJHWkszbzY5OWt1WWllSWt5ZzNUektGUmNlNVYwa0E?oc=5",
       "source": "머니투데이",
       "date": "Fri, 10 Jul 2026 20:00:00 GMT"
     },
     {
-      "title": "[경제+] 상반기 中 경제, 안정적 순항 이어가...CPI 1.0%, PPI 1.5% 상승",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE83UDh4R0hXUlRidDFwRmptUnJ2UkFZMkNacml6Z3l0c0UzRmcwQ1JGNkdXdTNSOHNZZXJhTm81cm10eWtVVy00Vm1uSkQ3ZGJ1WkpDM1E3bHNYdi1leG9OZGxyMFNPcjJqa212NGNKaGl6QQ?oc=5",
-      "source": "동방일보",
-      "date": "Fri, 10 Jul 2026 10:03:08 GMT"
+      "title": "탈(脫) 중국이 아닌 똑똑한 용(用) 중국전략을 펴라",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1vZkF5dWJnU3otRXYxM2VaYXBYSy15RW5USGRVTUx4bFJpNGRmWHlGUVdpSXBKVElHVWJidXgwTUpYZy1ienc?oc=5",
+      "source": "브런치",
+      "date": "Fri, 10 Jul 2026 17:20:50 GMT"
     },
     {
       "title": "중국 상무부 \"오늘부터 헬륨 수출 일시 금지\"",
@@ -24,22 +30,16 @@
       "date": "Fri, 10 Jul 2026 09:34:47 GMT"
     },
     {
-      "title": "[비디오머그] 엔비디아 칩 급 허용한 중국의 속내",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlTVdUOExjc2dobGRqS3BfOWdOM2lNeGY5a2lFajdSRnQ5UFhFekRLdUd3bmlvRHZaYkhPZFJZaDdhWGx2eVdNd3JrS3dCejQ?oc=5",
-      "source": "v.daum.net",
-      "date": "Fri, 10 Jul 2026 08:36:11 GMT"
-    },
-    {
-      "title": "민형배 특별시장, 주광주 중국총영사 접견… 경제협력 확대 논의",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAybk1KbEF3U3QxWUpoSjE0bUFJeU0tZWhFRlRTaldldy1uSkc1VWl2Y2xkVUZBaGhrSmdmMVdkeHlRYURaLWgxdFlfOEh2LWxuUnJ4N0J5Q0JaeUY2eDVlS1JtNUw?oc=5",
-      "source": "매일일보",
-      "date": "Fri, 10 Jul 2026 08:24:45 GMT"
-    },
-    {
       "title": "中 금융전문가가 진단한 하반기 중국 경제는?",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlTzM2VmVsZ3pnTGt2YzFYaEI0S1FJU003OU5RRzBoZDAwSE5OdTFmNXoyUmJodmdSLWdsenFrbDhZMDJtTzNFc2dmUTBEX3NhUlhQN1NhQ09CN0lDQkl4bjlXZWdDUTNkMENWZjJDMNIBc0FVX3lxTE1TRzRRTVdNS0N5VUI2Zy1oUC1mMmlqM2d3Ql9yVTdfci0tSFZaNHluZ04yX2RQUWVucTItcjhaMXcyZlkwZnYybnVjdU5mV2VucUVzVGhaa0ZmNFhFRHV6QVRjN2tmQVpvenVWUHBEd2dZT0E?oc=5",
       "source": "초이스경제",
       "date": "Wed, 08 Jul 2026 23:36:57 GMT"
+    },
+    {
+      "title": "중국 중앙은행, 경제 내 수급 불균형 지적",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wVUhoZklTWS1BRHZsMEJMVlROdzlXYldCZ21tQVlHRlZrSlR5ZmVfdXBFYU55VXZnM2xKNTJxWF9pY21vbGNNNTZJVmRfS3BEMzN1dzJDVUdtVTB4NVFuU3BmYUM4c0Y5T2pPQm0tUFg?oc=5",
+      "source": "Investing.com 한국어",
+      "date": "Wed, 08 Jul 2026 11:23:00 GMT"
     },
     {
       "title": "“중국 성장률 부풀려졌다” 공식 통계 의문 제기한 경제학자 가오산원, 54세로 별세",
@@ -72,10 +72,10 @@
       "date": "Wed, 01 Jul 2026 17:30:30 GMT"
     },
     {
-      "title": "세계은행, 대중국 대출 종료 수순…“세계 2위 경제대국인데 왜” 美 압박 통했나",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpV3F3UFVmQTRBNjU2SnF3b0t3Wko0TmJ2cDFMWVNSUGlGb0MyQXRHVGFPMHBEeUlwSUJjSklQd3VrM1VMdmdNaUNneTlsUjN1MVJ5WVl3?oc=5",
+      "title": "경제는 ‘흔들’ 기술은 ‘질주’하는 중국의 딜레마, 실체는?",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZG1sWUFDY2l6bFoyeFBUdTdzUjgwU1o0clpaZm5hSk9QU0NvUE5uQWdaelg0OFhKNXI2dXk5VnNjSVE5R3lwMkpDMFFiRzc1LW9nYnVn?oc=5",
       "source": "중앙일보",
-      "date": "Tue, 30 Jun 2026 07:00:00 GMT"
+      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
     }
   ]
 }
