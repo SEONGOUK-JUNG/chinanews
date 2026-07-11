@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-07-11T14:12:49.386698+09:00",
+  "run_at_kst": "2026-07-11T20:19:56.950544+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "유가 하락은 중국 경제의 가속화된 성장을 위한 길을 열어주고 있다.",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbFNRT1V5bFZDZXFTTDhzdUd1Z2IxbW1qYXdDMVFnRGZDSGFIWnE4Tk5CR01ocHNQSW93eXZ2Y2tWMXM3M1drTjBQT1BDcVNIc1l4QmVsYkEwWjFOWll1OV9XSk9tcnRUNEJsay1fT1J6WV9aTW0xeU5TX3k4RTJrRkEwTThPZw?oc=5",
+      "source": "Vietnam.vn",
+      "date": "Sat, 11 Jul 2026 03:23:05 GMT"
+    },
     {
       "title": "상반기 中 경제, 안정적 순항 이어가...CPI 1.0%, PPI 1.5% 상승-Xinhua",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnZWZPeXJzemx5dnpWTkpvTjQxSmRWZ1I1ZlNlaUJEdUw2RGlQWng0YUFqUi1zZE9hb3VXVFhpNERyN1BQUkYwZGxYUHdxX1dQTW9MTDRlT3ZQc2xTbjZDRS1tcEpOR2diRmN6bUQzd0NCNjFOd0NCbHNZVFU?oc=5",
@@ -16,18 +22,6 @@
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fNU8wUTBrTm8wZUROSzBFSVdvXzJYMklSQjJyWE9xRHdXQ0h6d2J2bzViM182VVpNRHY5dVJZb0s4UHBHSS16ZTB5ZFFURmZGTlVkeE16RDFNY3BoV1JJY2NNdGEtUW5G0gFuQVVfeXFMT1FWT01ya2h2T25DWWRyZnBtUTN4UHYtdzNWLWt4Y20wVlowYlo3UXp0TERocVFyYjRRbmhyQ1djUFJzY2NwWWJNMHpDODh1bFJHWkszbzY5OWt1WWllSWt5ZzNUektGUmNlNVYwa0E?oc=5",
       "source": "머니투데이",
       "date": "Fri, 10 Jul 2026 20:00:00 GMT"
-    },
-    {
-      "title": "탈(脫) 중국이 아닌 똑똑한 용(用) 중국전략을 펴라",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1vZkF5dWJnU3otRXYxM2VaYXBYSy15RW5USGRVTUx4bFJpNGRmWHlGUVdpSXBKVElHVWJidXgwTUpYZy1ienc?oc=5",
-      "source": "브런치",
-      "date": "Fri, 10 Jul 2026 17:20:50 GMT"
-    },
-    {
-      "title": "중국 상무부 \"오늘부터 헬륨 수출 일시 금지\"",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CSnhoVENleHJqNkhhQjFvTHNEdmF5QWJDeXZCczNlanFmLVBzalpPZzNONUliLXFrMl94RGZ2T1VrdnhRV0hnVlhyeEgwX0ZBM2U3eHVEWDk2UdIBVEFVX3lxTE9Ya2JMUndFSGpSUW9YblBJUFQzS0xBMVJSWVVOa0FYZ2dNZDQyQ1Q3VWU1MFBSNFBva1FVbzVzUnIyQnNWdmFHN2YtSWMyLXlzRHVWQw?oc=5",
-      "source": "한국경제",
-      "date": "Fri, 10 Jul 2026 09:34:47 GMT"
     },
     {
       "title": "中 금융전문가가 진단한 하반기 중국 경제는?",
@@ -66,16 +60,22 @@
       "date": "Mon, 06 Jul 2026 05:20:19 GMT"
     },
     {
-      "title": "2026년 하반기 중국경제 전망",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeXlFallrZFA2T1BfclgzbUxVS0Vnc2l4eHhuWC1ESERxM2ZSZWUzR21RUTFaTjZkSy1jcFFaUWhranhTZS1NSjRWZFMza1I2S2tVSGRSVDlIQnFfRkVTR1p1UGJjaWE0RDEzdm9mUWRYajJRT2FyQ1JyYjF0RWktakcxcGpLQzhpWkhmQXBZZ3FvcWpHdVMta0psRzJXSHhiX2c?oc=5",
-      "source": "한국개발연구원(KDI)",
-      "date": "Wed, 01 Jul 2026 17:30:30 GMT"
+      "title": "세계은행, 대중국 대출 종료 수순…“세계 2위 경제대국인데 왜” 美 압박 통했나",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpV3F3UFVmQTRBNjU2SnF3b0t3Wko0TmJ2cDFMWVNSUGlGb0MyQXRHVGFPMHBEeUlwSUJjSklQd3VrM1VMdmdNaUNneTlsUjN1MVJ5WVl3?oc=5",
+      "source": "중앙일보",
+      "date": "Tue, 30 Jun 2026 07:00:00 GMT"
     },
     {
-      "title": "경제는 ‘흔들’ 기술은 ‘질주’하는 중국의 딜레마, 실체는?",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZG1sWUFDY2l6bFoyeFBUdTdzUjgwU1o0clpaZm5hSk9QU0NvUE5uQWdaelg0OFhKNXI2dXk5VnNjSVE5R3lwMkpDMFFiRzc1LW9nYnVn?oc=5",
-      "source": "중앙일보",
-      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
+      "title": "2026년 하반기 중국경제 전망",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaURKREpvdm1telVSZHJxelNZaGRpT0l3VVlBTTkyWWlRSUV6VVZOdjhWa1ZDQ1IybkQ0VE9VWVExdU1IM1diZGNwdnhGTFhiUlkxVEVFcEstRkY3d0VzY0Z5QXE4YjdSeE1UTkZER254LWE1X2F3MHZIeXpLM29RMA?oc=5",
+      "source": "KDI 경제교육",
+      "date": "Mon, 29 Jun 2026 12:50:53 GMT"
+    },
+    {
+      "title": "'대차대조표 불황' 창시한 日학자 \"중국경제 여전히 위험\"",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16NDVwakluWlRlVHJWdzN4NW1yVGhiR0tHWGZHbjdDUW0ydUtmRzJWYzNYMW1adFdYYXdzUW1nQ2JoQjd0YVpoenBhdmlYM3M?oc=5",
+      "source": "v.daum.net",
+      "date": "Mon, 29 Jun 2026 07:00:00 GMT"
     }
   ]
 }
