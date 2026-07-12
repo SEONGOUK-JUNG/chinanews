@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-12T20:07:25.919318+09:00",
+  "run_at_kst": "2026-07-13T07:14:47.048535+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,24 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Is the AI Bubble About to Burst?",
+      "link": "https://oilprice.com/Energy/Energy-General/Is-the-AI-Bubble-About-to-Burst.html",
+      "source": "OilPrice",
+      "date": "Sun, 12 Jul 2026 14:00:00 -0500"
+    },
+    {
+      "title": "Can Sodium-Ion Batteries Help the U.S. Close the Gap With China?",
+      "link": "https://oilprice.com/Energy/Energy-General/Can-Sodium-Ion-Batteries-Help-the-US-Close-the-Gap-With-China.html",
+      "source": "OilPrice",
+      "date": "Sun, 12 Jul 2026 12:00:00 -0500"
+    },
+    {
+      "title": "Britain Bets on Hydropower to Boost Energy Security",
+      "link": "https://oilprice.com/Alternative-Energy/Hydroelectric/Britain-Bets-on-Hydropower-to-Boost-Energy-Security.html",
+      "source": "OilPrice",
+      "date": "Sun, 12 Jul 2026 10:00:00 -0500"
+    },
     {
       "title": "The Next Bull Market Could Be Built on Inventory Replenishment",
       "link": "https://oilprice.com/Energy/Crude-Oil/The-Next-Bull-Market-Could-Be-Built-on-Inventory-Replenishment.html",
@@ -38,7 +56,7 @@
       "date": "Sat, 11 Jul 2026 10:00:00 -0500"
     },
     {
-      "title": "Gold price loses its grip: World's 50 biggest mining companies shed $228 billion in Q2",
+      "title": "Gold price loses its grip: World’s 50 biggest mining companies shed $228 billion in Q2",
       "link": "https://www.mining.com/gold-price-loses-its-grip-worlds-50-biggest-mining-companies-shed-228-billion-in-q2/",
       "source": "mining.com",
       "date": "Sat, 11 Jul 2026 03:22:52 +0000"
@@ -50,28 +68,10 @@
       "date": "Fri, 10 Jul 2026 23:54:46 +0000"
     },
     {
-      "title": "Europe's Nuclear Plants Can't Beat the Heat",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Europes-Nuclear-Plants-Cant-Beat-the-Heat.html",
-      "source": "OilPrice",
-      "date": "Fri, 10 Jul 2026 18:00:00 -0500"
-    },
-    {
       "title": "CATL takes 20% stake in graphite materials developer CarbonScape",
       "link": "https://www.mining.com/catl-takes-20-stake-in-graphite-materials-developer-carbonscape/",
       "source": "mining.com",
       "date": "Fri, 10 Jul 2026 22:42:17 +0000"
-    },
-    {
-      "title": "Kazakhstan Extends Petroleum Export Ban Six Months as Hormuz Tensions Flare",
-      "link": "https://oilprice.com/Energy/Energy-General/Kazakhstan-Extends-Petroleum-Export-Ban-Six-Months-as-Hormuz-Tensions-Flare.html",
-      "source": "OilPrice",
-      "date": "Fri, 10 Jul 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Summer Heatwaves Are Rewriting the Rules for Britain's Power Grid",
-      "link": "https://oilprice.com/Energy/Energy-General/Summer-Heatwaves-Are-Rewriting-the-Rules-for-Britains-Power-Grid.html",
-      "source": "OilPrice",
-      "date": "Fri, 10 Jul 2026 14:00:00 -0500"
     },
     {
       "title": "Ex-US Navy commander quits NovaRed copper firm over Noem hire",
