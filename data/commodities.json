@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-07-12T15:19:00.549931+09:00",
+  "updated_at_kst": "2026-07-12T20:03:55.575423+09:00",
   "ref_date": "2026-07-10",
   "schema_version": "1.0",
   "adjustment_applied": true,
@@ -46,7 +46,8 @@
       "unit": "CNY/g",
       "price_prev": 894.48,
       "price_today": 900.88,
-      "change_pct": 0.71
+      "change_pct": 0.71,
+      "chart_id": "gold"
     },
     {
       "display_name": "은",
@@ -56,7 +57,8 @@
       "unit": "CNY/kg",
       "price_prev": 14214.46,
       "price_today": 14647.02,
-      "change_pct": 3.04
+      "change_pct": 3.04,
+      "chart_id": "silver"
     },
     {
       "display_name": "구리",
@@ -66,7 +68,8 @@
       "unit": "CNY/t",
       "price_prev": 102922.35,
       "price_today": 104442.2,
-      "change_pct": 1.48
+      "change_pct": 1.48,
+      "chart_id": "copper"
     },
     {
       "display_name": "알루미늄",
@@ -76,7 +79,8 @@
       "unit": "CNY/t",
       "price_prev": 23014.9,
       "price_today": 23181.91,
-      "change_pct": 0.73
+      "change_pct": 0.73,
+      "chart_id": "aluminum"
     },
     {
       "display_name": "원유",
@@ -86,7 +90,8 @@
       "unit": "USD/bbl",
       "price_prev": 73.59,
       "price_today": 72.15,
-      "change_pct": -1.96
+      "change_pct": -1.96,
+      "chart_id": "crude_oil"
     },
     {
       "display_name": "석탄",
@@ -96,7 +101,8 @@
       "unit": "CNY/t",
       "price_prev": 833.08,
       "price_today": 825.57,
-      "change_pct": -0.9
+      "change_pct": -0.9,
+      "chart_id": "coal"
     },
     {
       "display_name": "천연가스",
@@ -106,7 +112,8 @@
       "unit": "CNY/t",
       "price_prev": 5383.38,
       "price_today": 5437.43,
-      "change_pct": 1.0
+      "change_pct": 1.0,
+      "chart_id": "natural_gas"
     },
     {
       "display_name": "옥수수",
@@ -116,7 +123,8 @@
       "unit": "CNY/t",
       "price_prev": 2283.81,
       "price_today": 2282.38,
-      "change_pct": -0.06
+      "change_pct": -0.06,
+      "chart_id": "corn"
     },
     {
       "display_name": "대두",
@@ -126,7 +134,8 @@
       "unit": "CNY/t",
       "price_prev": 4514.36,
       "price_today": 4514.36,
-      "change_pct": 0.0
+      "change_pct": 0.0,
+      "chart_id": "soybean"
     },
     {
       "display_name": "옥수수 전분",
@@ -136,7 +145,8 @@
       "unit": "CNY/t",
       "price_prev": 2980.84,
       "price_today": 2980.84,
-      "change_pct": 0.0
+      "change_pct": 0.0,
+      "chart_id": "corn_starch"
     },
     {
       "display_name": "백설탕",
@@ -146,7 +156,8 @@
       "unit": "CNY/t",
       "price_prev": 5285.46,
       "price_today": 5292.14,
-      "change_pct": 0.13
+      "change_pct": 0.13,
+      "chart_id": "white_sugar"
     },
     {
       "display_name": "달걀",
@@ -156,7 +167,8 @@
       "unit": "CNY/kg",
       "price_prev": 9.55,
       "price_today": 9.62,
-      "change_pct": 0.73
+      "change_pct": 0.73,
+      "chart_id": "egg"
     },
     {
       "display_name": "생 돼지",
@@ -166,7 +178,8 @@
       "unit": "CNY/kg",
       "price_prev": 11.08,
       "price_today": 11.08,
-      "change_pct": 0.0
+      "change_pct": 0.0,
+      "chart_id": "live_pig"
     },
     {
       "display_name": "팜오일",
@@ -176,7 +189,8 @@
       "unit": "CNY/t",
       "price_prev": 9221.16,
       "price_today": 9140.98,
-      "change_pct": -0.87
+      "change_pct": -0.87,
+      "chart_id": "palm_oil"
     },
     {
       "display_name": "채종유",
@@ -186,7 +200,8 @@
       "unit": "CNY/t",
       "price_prev": 10239.5,
       "price_today": 10239.5,
-      "change_pct": 0.0
+      "change_pct": 0.0,
+      "chart_id": "rapeseed_oil"
     },
     {
       "display_name": "대두유",
@@ -196,7 +211,8 @@
       "unit": "CNY/t",
       "price_prev": 8750.08,
       "price_today": 8720.01,
-      "change_pct": -0.34
+      "change_pct": -0.34,
+      "chart_id": "soybean_oil"
     }
   ],
   "all_items": [
@@ -852,13 +868,6 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "純碱",
-      "sector": "화학공업",
-      "price_prev": 53908.7,
-      "price_today": 53908.7,
-      "change_pct": 0.0
-    },
-    {
       "display_name": "황화나트륨",
       "sector": "화학공업",
       "price_prev": 2761.0,
@@ -968,13 +977,6 @@
       "sector": "화학공업",
       "price_prev": 5354.99,
       "price_today": 5354.99,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "乙酸乙烯",
-      "sector": "화학공업",
-      "price_prev": 11716.38,
-      "price_today": 11716.38,
       "change_pct": 0.0
     },
     {
@@ -1433,13 +1435,6 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "苯乙酮",
-      "sector": "화학공업",
-      "price_prev": 16773.45,
-      "price_today": 16773.45,
-      "change_pct": 0.0
-    },
-    {
       "display_name": "피리딘",
       "sector": "화학공업",
       "price_prev": 18468.68,
@@ -1587,13 +1582,6 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "甲缩醛",
-      "sector": "화학공업",
-      "price_prev": 4903.53,
-      "price_today": 4903.53,
-      "change_pct": 0.0
-    },
-    {
       "display_name": "Potassium carbonate",
       "sector": "화학공업",
       "price_prev": 7710.78,
@@ -1703,13 +1691,6 @@
       "sector": "화학공업",
       "price_prev": 22264.46,
       "price_today": 22264.46,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "甲乙酮",
-      "sector": "화학공업",
-      "price_prev": 6609.24,
-      "price_today": 6609.24,
       "change_pct": 0.0
     },
     {
@@ -1874,20 +1855,6 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "甲基丙烯酸甲酯",
-      "sector": "",
-      "price_prev": 16000.0,
-      "price_today": 16000.0,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "硝酸钠",
-      "sector": "화학공업",
-      "price_prev": 27538.5,
-      "price_today": 27538.5,
-      "change_pct": 0.0
-    },
-    {
       "display_name": "피로인산칼륨",
       "sector": "화학공업",
       "price_prev": 13852.7,
@@ -1941,13 +1908,6 @@
       "sector": "화학공업",
       "price_prev": 104145.6,
       "price_today": 104145.6,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "偏苯三酸酐",
-      "sector": "화학공업",
-      "price_prev": 11015.4,
-      "price_today": 11015.4,
       "change_pct": 0.0
     },
     {
@@ -2056,13 +2016,6 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "己二腈",
-      "sector": "화학공업",
-      "price_prev": 13919.46,
-      "price_today": 13919.46,
-      "change_pct": 0.0
-    },
-    {
       "display_name": "화이트 카드",
       "sector": "건축자재",
       "price_prev": 4158.31,
@@ -2088,13 +2041,6 @@
       "sector": "화학공업",
       "price_prev": 11966.73,
       "price_today": 11966.73,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "双氧水",
-      "sector": "화학공업",
-      "price_prev": 32.72,
-      "price_today": 32.72,
       "change_pct": 0.0
     },
     {
@@ -2193,13 +2139,6 @@
       "sector": "화학공업",
       "price_prev": 11115.54,
       "price_today": 11115.54,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "均三甲苯",
-      "sector": "화학공업",
-      "price_prev": 16690.0,
-      "price_today": 16690.0,
       "change_pct": 0.0
     },
     {
@@ -2371,13 +2310,6 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "己二酸二甲酯",
-      "sector": "화학공업",
-      "price_prev": 13168.41,
-      "price_today": 13168.41,
-      "change_pct": 0.0
-    },
-    {
       "display_name": "알칼리",
       "sector": "화학공업",
       "price_prev": 2670.4,
@@ -2403,13 +2335,6 @@
       "sector": "",
       "price_prev": 432.0,
       "price_today": 432.0,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "碘化钾溶液",
-      "sector": "화학공업",
-      "price_prev": 10514.7,
-      "price_today": 10514.7,
       "change_pct": 0.0
     },
     {
@@ -2490,13 +2415,6 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "硫氢化钠",
-      "sector": "화학공업",
-      "price_prev": 28790.25,
-      "price_today": 28790.25,
-      "change_pct": 0.0
-    },
-    {
       "display_name": "일수화구연산",
       "sector": "화학공업",
       "price_prev": 6020.92,
@@ -2567,13 +2485,6 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "盐酸羟胺",
-      "sector": "화학공업",
-      "price_prev": 808.63,
-      "price_today": 808.63,
-      "change_pct": 0.0
-    },
-    {
       "display_name": "연수기 소금",
       "sector": "화학공업",
       "price_prev": 968.02,
@@ -2592,13 +2503,6 @@
       "sector": "화학공업",
       "price_prev": 4331.06,
       "price_today": 4331.06,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "硫酸羟胺",
-      "sector": "화학공업",
-      "price_prev": 64156.36,
-      "price_today": 64156.36,
       "change_pct": 0.0
     },
     {
@@ -2672,13 +2576,6 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "盐酸氨基脲",
-      "sector": "화학공업",
-      "price_prev": 20695.6,
-      "price_today": 20695.6,
-      "change_pct": 0.0
-    },
-    {
       "display_name": "디에틸렌 글리콜 에틸 에테르 아세테이트",
       "sector": "화학공업",
       "price_prev": 14353.4,
@@ -2690,13 +2587,6 @@
       "sector": "화학공업",
       "price_prev": 12517.5,
       "price_today": 12517.5,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "盐酸羟胺",
-      "sector": "화학공업",
-      "price_prev": 2954.13,
-      "price_today": 2954.13,
       "change_pct": 0.0
     },
     {
@@ -2735,13 +2625,6 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "硬脂酸",
-      "sector": "화학공업",
-      "price_prev": 10548.08,
-      "price_today": 10548.08,
-      "change_pct": 0.0
-    },
-    {
       "display_name": "프로피온알데하이드",
       "sector": "화학공업",
       "price_prev": 8173.93,
@@ -2763,24 +2646,10 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "硬脂酸镁",
-      "sector": "화학공업",
-      "price_prev": 10047.38,
-      "price_today": 10047.38,
-      "change_pct": 0.0
-    },
-    {
       "display_name": "무연탄 여과재",
       "sector": "화학공업",
       "price_prev": 708.99,
       "price_today": 708.99,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "苯甲醛",
-      "sector": "화학공업",
-      "price_prev": 17190.7,
-      "price_today": 17190.7,
       "change_pct": 0.0
     },
     {
@@ -2812,31 +2681,10 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "氯乙酸",
-      "sector": "화학공업",
-      "price_prev": 5641.22,
-      "price_today": 5641.22,
-      "change_pct": 0.0
-    },
-    {
       "display_name": "아이소옥탄산 나트륨",
       "sector": "화학공업",
       "price_prev": 24100.36,
       "price_today": 24100.36,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "异辛酸",
-      "sector": "화학공업",
-      "price_prev": 16773.45,
-      "price_today": 16773.45,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "新戊二醇",
-      "sector": "화학공업",
-      "price_prev": 32979.44,
-      "price_today": 32979.44,
       "change_pct": 0.0
     },
     {
@@ -2903,13 +2751,6 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "双甘膦",
-      "sector": "화학공업",
-      "price_prev": 22030.8,
-      "price_today": 22030.8,
-      "change_pct": 0.0
-    },
-    {
       "display_name": "마른 시타버섯",
       "sector": "농산물 및 부산물",
       "price_prev": 8.83,
@@ -2942,13 +2783,6 @@
       "sector": "화학공업",
       "price_prev": 10589.81,
       "price_today": 10589.81,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "甲基丙烯酸羟乙酯",
-      "sector": "화학공업",
-      "price_prev": 24467.54,
-      "price_today": 24467.54,
       "change_pct": 0.0
     },
     {

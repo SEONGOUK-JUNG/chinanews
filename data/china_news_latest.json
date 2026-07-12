@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-12T15:29:56.984787+09:00",
+  "run_at_kst": "2026-07-12T20:12:43.048828+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -24,13 +24,13 @@
       "date": "Sat, 11 Jul 2026 03:23:05 GMT"
     },
     {
-      "title": "중국의 '혁신 vs 경제 불균형' 딜레마 [PADO] - 머니투데이",
+      "title": "중국의 '혁신 vs 경제 불균형' 딜레마 [PADO]",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fNU8wUTBrTm8wZUROSzBFSVdvXzJYMklSQjJyWE9xRHdXQ0h6d2J2bzViM182VVpNRHY5dVJZb0s4UHBHSS16ZTB5ZFFURmZGTlVkeE16RDFNY3BoV1JJY2NNdGEtUW5G0gFuQVVfeXFMT1FWT01ya2h2T25DWWRyZnBtUTN4UHYtdzNWLWt4Y20wVlowYlo3UXp0TERocVFyYjRRbmhyQ1djUFJzY2NwWWJNMHpDODh1bFJHWkszbzY5OWt1WWllSWt5ZzNUektGUmNlNVYwa0E?oc=5",
       "source": "머니투데이",
       "date": "Fri, 10 Jul 2026 20:00:00 GMT"
     },
     {
-      "title": "[경제+] 상반기 中 경제, 안정적 순핫 이어가...CPI 1.0%, PPI 1.5% 상승",
+      "title": "[경제+] 상반기 中 경제, 안정적 순항 이어가...CPI 1.0%, PPI 1.5% 상승",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8ySGNHMVRxOXpHSWVZNFE0dVVDZGU0RTZXTndWZk43ZXNMN3RnQ3VWOTdROTRUV3dZN0VFTWhCa1JObjZxeWVWMTRMdkRDejM5cXBsd0dQdzFLcklqV19sVVp4R0xoOWkwUUtF?oc=5",
       "source": "서울뉴스통신",
       "date": "Fri, 10 Jul 2026 10:03:08 GMT"
@@ -49,7 +49,7 @@
     },
     {
       "title": "[중국증시-마감] 1%대 하락…경제지표 발표 앞두고 관망세",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkYjJHYkE0SEpoWmxxZnNwX3RlSmdQZlNNU2RLS2ZMRzFCeW9oWUR4M3VQbHNLMm5udzdHTExHYXdkWWsxWmt0OS11YzBfZHI3SUk0eTdWeWJRWFdwT1BxRDQyVjhJLVlMWUl4VXB1M0U?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkYjJHYkE0SEpoWmxxZnNwX3RlSmdQZlNNU2RMS2ZMRzFCeW9oWUR4M3VQbHNLMm5udzdHTExHYXdkWWsxWmt0OS11YzBfZHI3SUk0eTdWeWJRWFdwT1BxRDQyVjhJLVlMWUl4VXB1M0U?oc=5",
       "source": "연합인포맥스",
       "date": "Tue, 07 Jul 2026 09:09:39 GMT"
     },
@@ -60,22 +60,22 @@
       "date": "Thu, 02 Jul 2026 07:00:00 GMT"
     },
     {
+      "title": "세계은행, 대중국 대출 종료 수순…“세계 2위 경제대국인데 왜” 美 압박 통했나",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpV3F3UFVmQTRBNjU2SnF3b0t3Wko0TmJ2cDFMWVNSUGlGb0MyQXRHVGFPMHBEeUlwSUJjSklQd3VrM1VMdmdNaUNneTlsUjN1MVJ5WVl3?oc=5",
+      "source": "중앙일보",
+      "date": "Tue, 30 Jun 2026 07:00:00 GMT"
+    },
+    {
       "title": "2026년 하반기 중국경제 전망",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeXlFallrZFA2T1BfclgzbUxVS0Vnc2l4eHhuWC1ESERxM2ZSZWUzR21RUTFaTjZkSy1jcFFaUWhranhTZS1NSjRWZFMza1I2S2tVSGRSVDlIQnFfRkVTR1p1UGJjaWE0RDEzdm9mUWRYajJRT2FyQ1JyYjF0RWktakcxcGpLQzhpWkhmQXBZZ3FvcWpHdVMta0psRzJXSHhiX2c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaURKREpvdm1telVSZHJxelNZaGRpT0l3VVlBTTkyWWlRSUV6VVZOdjhWa1ZDQ1IybkQ0VE9VWVExdU1IM1diZGNwdnhGTFhiUlkxVEVFcEstRkY3d0VzY0Z5QXE4YjdSeE1UTkZER254LWE1X2F3MHZIeXpLM29RMA?oc=5",
       "source": "KDI 경제교육",
-      "date": "Wed, 01 Jul 2026 17:30:30 GMT"
+      "date": "Mon, 29 Jun 2026 12:50:53 GMT"
     },
     {
       "title": "'대차대조표 불황' 창시한 日학자 \"중국경제 여전히 위험\"",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16NDVwakluWlRlVHJWdzN4NW1yVGhiR0tHWGZHbjdDUW0ydUtmRzJWYzNYMW1adFdYYXdzUW1nQ2JoQjd0YVpoenBhdmlYM3M?oc=5",
       "source": "v.daum.net",
       "date": "Mon, 29 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "경제는 ‘흔들’ 기술은 ‘질주’하는 중국의 딜레마, 실체는?",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZG1sWUFDY2l6bFoyeFBUdTdzUjgwU1o0clpaZm5hSk9QU0NvUE5uQWdaelg0OFhKNXI2dXk5VnNjSVE5R3lwMkpDMFFiRzc1LW9nYnVn?oc=5",
-      "source": "중앙일보",
-      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
     }
   ]
 }
