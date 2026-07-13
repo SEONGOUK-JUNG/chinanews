@@ -1,95 +1,95 @@
 {
- "run_at_kst": "2026-07-13T10:07:19.051080+09:00",
- "schema_version": "1.0",
- "sources": [
-  "mining.com",
-  "OilPrice.com"
- ],
- "count": 14,
- "items": [
-  {
-   "title": "Big Oil's War-Related Profits Anger Governments",
-   "link": "https://oilprice.com/Energy/Crude-Oil/Big-Oils-War-Related-Profits-Anger-Governments.html",
-   "source": "OilPrice",
-   "date": "Sun, 12 Jul 2026 18:00:00 -0500"
-  },
-  {
-   "title": "Uruguay's Offshore Oil Province Could Be Bigger Than Vaca Muerta",
-   "link": "https://oilprice.com/Energy/Crude-Oil/Uruguays-Offshore-Oil-Province-Could-Be-Bigger-Than-Vaca-Muerta.html",
-   "source": "OilPrice",
-   "date": "Sun, 12 Jul 2026 16:00:00 -0500"
-  },
-  {
-   "title": "Is the AI Bubble About to Burst?",
-   "link": "https://oilprice.com/Energy/Energy-General/Is-the-AI-Bubble-About-to-Burst.html",
-   "source": "OilPrice",
-   "date": "Sun, 12 Jul 2026 14:00:00 -0500"
-  },
-  {
-   "title": "Can Sodium-Ion Batteries Help the U.S. Close the Gap With China?",
-   "link": "https://oilprice.com/Energy/Energy-General/Can-Sodium-Ion-Batteries-Help-the-US-Close-the-Gap-With-China.html",
-   "source": "OilPrice",
-   "date": "Sun, 12 Jul 2026 12:00:00 -0500"
-  },
-  {
-   "title": "Britain Bets on Hydropower to Boost Energy Security",
-   "link": "https://oilprice.com/Alternative-Energy/Hydroelectric/Britain-Bets-on-Hydropower-to-Boost-Energy-Security.html",
-   "source": "OilPrice",
-   "date": "Sun, 12 Jul 2026 10:00:00 -0500"
-  },
-  {
-   "title": "The Next Bull Market Could Be Built on Inventory Replenishment",
-   "link": "https://oilprice.com/Energy/Crude-Oil/The-Next-Bull-Market-Could-Be-Built-on-Inventory-Replenishment.html",
-   "source": "OilPrice",
-   "date": "Sat, 11 Jul 2026 18:00:00 -0500"
-  },
-  {
-   "title": "Kansas Becomes Testing Ground for a Radical Nuclear Reactor Design",
-   "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Kansas-Becomes-Testing-Ground-for-a-Radical-Nuclear-Reactor-Design.html",
-   "source": "OilPrice",
-   "date": "Sat, 11 Jul 2026 16:00:00 -0500"
-  },
-  {
-   "title": "The Escalating Energy War Between California and the White House",
-   "link": "https://oilprice.com/Energy/Energy-General/The-Escalating-Energy-War-Between-California-and-the-White-House.html",
-   "source": "OilPrice",
-   "date": "Sat, 11 Jul 2026 14:00:00 -0500"
-  },
-  {
-   "title": "Gold price loses its grip: World’s 50 biggest mining companies shed $228 billion in Q2",
-   "link": "https://www.mining.com/gold-price-loses-its-grip-worlds-50-biggest-mining-companies-shed-228-billion-in-q2/",
-   "source": "mining.com",
-   "date": "Sat, 11 Jul 2026 03:22:52 +0000"
-  },
-  {
-   "title": "Guardian Metal, Montana Mining Association forge US tungsten processing alliance",
-   "link": "https://www.mining.com/guardian-metal-montana-mining-association-forge-us-tungsten-processing-alliance/",
-   "source": "mining.com",
-   "date": "Fri, 10 Jul 2026 23:54:46 +0000"
-  },
-  {
-   "title": "CATL takes 20% stake in graphite materials developer CarbonScape",
-   "link": "https://www.mining.com/catl-takes-20-stake-in-graphite-materials-developer-carbonscape/",
-   "source": "mining.com",
-   "date": "Fri, 10 Jul 2026 22:42:17 +0000"
-  },
-  {
-   "title": "Ex-US Navy commander quits NovaRed copper firm over Noem hire",
-   "link": "https://www.mining.com/ex-us-navy-commander-quits-novared-copper-firm-over-noem-hire/",
-   "source": "mining.com",
-   "date": "Fri, 10 Jul 2026 16:21:54 +0000"
-  },
-  {
-   "title": "Giustra: Copper market needs six new mines a year to 2050",
-   "link": "https://www.mining.com/giustra-copper-market-needs-six-new-mines-a-year-to-2050/",
-   "source": "mining.com",
-   "date": "Fri, 10 Jul 2026 16:15:20 +0000"
-  },
-  {
-   "title": "IDEX finds tungsten in Idaho copper drilling",
-   "link": "https://www.mining.com/idex-finds-tungsten-in-idaho-copper-drilling/",
-   "source": "mining.com",
-   "date": "Fri, 10 Jul 2026 16:01:32 +0000"
-  }
- ]
+  "run_at_kst": "2026-07-13T14:09:20.204168+09:00",
+  "schema_version": "1.0",
+  "sources": [
+    "mining.com",
+    "OilPrice.com"
+  ],
+  "count": 14,
+  "items": [
+    {
+      "title": "Oil Prices Surge 4% as U.S.-Iran Escalation Rekindles Supply Fears",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Surge-4-as-US-Iran-Escalation-Rekindles-Supply-Fears.html",
+      "source": "OilPrice",
+      "date": "Sun, 12 Jul 2026 23:55:00 -0500"
+    },
+    {
+      "title": "Iran Strikes 5 Gulf Countries as Regional Escalation Continues",
+      "link": "https://oilprice.com/Geopolitics/Middle-East/Iran-Strikes-5-Gulf-Countries-as-Regional-Escalation-Continues.html",
+      "source": "OilPrice",
+      "date": "Sun, 12 Jul 2026 23:35:55 -0500"
+    },
+    {
+      "title": "Big Oil’s War-Related Profits Anger Governments",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Big-Oils-War-Related-Profits-Anger-Governments.html",
+      "source": "OilPrice",
+      "date": "Sun, 12 Jul 2026 18:00:00 -0500"
+    },
+    {
+      "title": "Uruguay’s Offshore Oil Province Could Be Bigger Than Vaca Muerta",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Uruguays-Offshore-Oil-Province-Could-Be-Bigger-Than-Vaca-Muerta.html",
+      "source": "OilPrice",
+      "date": "Sun, 12 Jul 2026 16:00:00 -0500"
+    },
+    {
+      "title": "Is the AI Bubble About to Burst?",
+      "link": "https://oilprice.com/Energy/Energy-General/Is-the-AI-Bubble-About-to-Burst.html",
+      "source": "OilPrice",
+      "date": "Sun, 12 Jul 2026 14:00:00 -0500"
+    },
+    {
+      "title": "Can Sodium-Ion Batteries Help the U.S. Close the Gap With China?",
+      "link": "https://oilprice.com/Energy/Energy-General/Can-Sodium-Ion-Batteries-Help-the-US-Close-the-Gap-With-China.html",
+      "source": "OilPrice",
+      "date": "Sun, 12 Jul 2026 12:00:00 -0500"
+    },
+    {
+      "title": "Britain Bets on Hydropower to Boost Energy Security",
+      "link": "https://oilprice.com/Alternative-Energy/Hydroelectric/Britain-Bets-on-Hydropower-to-Boost-Energy-Security.html",
+      "source": "OilPrice",
+      "date": "Sun, 12 Jul 2026 10:00:00 -0500"
+    },
+    {
+      "title": "The Next Bull Market Could Be Built on Inventory Replenishment",
+      "link": "https://oilprice.com/Energy/Crude-Oil/The-Next-Bull-Market-Could-Be-Built-on-Inventory-Replenishment.html",
+      "source": "OilPrice",
+      "date": "Sat, 11 Jul 2026 18:00:00 -0500"
+    },
+    {
+      "title": "Gold price loses its grip: World’s 50 biggest mining companies shed $228 billion in Q2",
+      "link": "https://www.mining.com/gold-price-loses-its-grip-worlds-50-biggest-mining-companies-shed-228-billion-in-q2/",
+      "source": "mining.com",
+      "date": "Sat, 11 Jul 2026 03:22:52 +0000"
+    },
+    {
+      "title": "Guardian Metal, Montana Mining Association forge US tungsten processing alliance",
+      "link": "https://www.mining.com/guardian-metal-montana-mining-association-forge-us-tungsten-processing-alliance/",
+      "source": "mining.com",
+      "date": "Fri, 10 Jul 2026 23:54:46 +0000"
+    },
+    {
+      "title": "CATL takes 20% stake in graphite materials developer CarbonScape",
+      "link": "https://www.mining.com/catl-takes-20-stake-in-graphite-materials-developer-carbonscape/",
+      "source": "mining.com",
+      "date": "Fri, 10 Jul 2026 22:42:17 +0000"
+    },
+    {
+      "title": "Ex-US Navy commander quits NovaRed copper firm over Noem hire",
+      "link": "https://www.mining.com/ex-us-navy-commander-quits-novared-copper-firm-over-noem-hire/",
+      "source": "mining.com",
+      "date": "Fri, 10 Jul 2026 16:21:54 +0000"
+    },
+    {
+      "title": "Giustra: Copper market needs six new mines a year to 2050",
+      "link": "https://www.mining.com/giustra-copper-market-needs-six-new-mines-a-year-to-2050/",
+      "source": "mining.com",
+      "date": "Fri, 10 Jul 2026 16:15:20 +0000"
+    },
+    {
+      "title": "IDEX finds tungsten in Idaho copper drilling",
+      "link": "https://www.mining.com/idex-finds-tungsten-in-idaho-copper-drilling/",
+      "source": "mining.com",
+      "date": "Fri, 10 Jul 2026 16:01:32 +0000"
+    }
+  ]
 }
