@@ -1,81 +1,81 @@
 {
-  "run_at_kst": "2026-07-13T07:14:47.048535+09:00",
-  "schema_version": "1.0",
-  "query": "중국 경제",
-  "source": "Google News (한국어)",
-  "count": 12,
-  "items": [
-    {
-      "title": "[단독] 韓·中 기술 격차 5.0%p→1.1%p⋯중국 ‘턱밑 추격’ [비상등 켜진 韓 산업기술]]",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02NVFnTTlTVVYzVkttem52OVFNOFprMG8wY2xXTGp0SUY3NVJORjRZWUlYazNtU3JDX3JQSUt2ZHpiWENUQk5zeEdVYUxuN00?oc=5",
-      "source": "v.daum.net",
-      "date": "Sun, 12 Jul 2026 20:00:34 GMT"
-    },
-    {
-      "title": "[중국증시 주간 포인트] ①中 상반기 GDP 발표, 수출입 지표, 생산∙소매∙투자 지표, WAIC 개최, 중국 서부 AI 로봇대회, AGI Summit SF 2026 개최",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tNHlYUXRheXVHc2huNzN6NlRBSFZIanBuMzZoWmVDUkd1cUJoUnV4MWlJM3pwZzJDQjNYRjhMZlpJTkhUaFVBem1JRk9vbXhYdVRyY1h6eWRHYThp?oc=5",
-      "source": "뉴스핌",
-      "date": "Sun, 12 Jul 2026 15:06:00 GMT"
-    },
-    {
-      "title": "＂돈 줘도 못 구한다＂ 중국 신약 개발 열풍에…2배 ＇폭등＇ 이례적 상황",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hX05zcnAzOGFNN0JKTFBiM1hLdUh3YzM0VTVHQzRoem4wVTR6YUd2aVJuS2dURDEtLTlkal8yVTRnQUV0UzAyMGRSUnZYOHE4MUFLS2hUVUFsVWE0OVhHSFA0QmtqaHpqa3FNdDY0UEwzb09Sd3FF?oc=5",
-      "source": "한국경제TV",
-      "date": "Sun, 12 Jul 2026 11:37:00 GMT"
-    },
-    {
-      "title": "\"시진핑 방북 이후 北·中 더 밀착…韓, 대북 제재 완화 등 정책 마련해야\"",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aRUdyaVZzSk0zWURTMkVJQUFDaE9BQzRTRk4xVm9xOHdEQzFoVG5ieEo1R0pPU042ZU53NmZIaDN6bWlJTDFtdnZ3QnFRQ2wxNWN1N0x0bTBJNUl2Um02akFMalRUbHZpZjFZeWFlNzdrVEk?oc=5",
-      "source": "마켓인",
-      "date": "Sun, 12 Jul 2026 09:00:01 GMT"
-    },
-    {
-      "title": "\"실험용 원숭이 한 마리에 4400만원\" 신약 열풍에 비상 걸린 중국",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82dVp2dTI4UUVrN3VuTkhwUFZKWEZ4Q0tFeEx1bjhqblRyWkI2TUk5NDlDTjlQZHFTeFhyVTVRQ3pENEpta2VmdVhFM2ZYNzdEelAwQlJhVnJOZ3B2WnlEdVBTMG5zMWt4VGFBMDkwVQ?oc=5",
-      "source": "진일보",
-      "date": "Sun, 12 Jul 2026 05:15:59 GMT"
-    },
-    {
-      "title": "중국 경제 K자 격차의 덫… AI 경제 독주 뒤 숨은 내수 불황 그늘",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOElVT3ppbXRINXltR3d2ZkxkQ05OOUY2Zl8tSnJYa1ZRWGJmeFJPZE43Q3VsTm41d2tVQUpNQ3dvX201Mi1ha2Y4RUYxTkZRajlzSzlTOHRsY3czdmNHME1GcWlHZzVJUWxzWVFWd2JuZGtUNUdQVVBNd0JEWmVROE9DOFFoZ2x3?oc=5",
-      "source": "글로벌이코노믹",
-      "date": "Sat, 11 Jul 2026 21:48:39 GMT"
-    },
-    {
-      "title": "중국의 '혁신 vs 경제 불균형' 딜레마 [PADO] - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fNU8wUTBrTm8wZUROSzBFSVdvXzJYMklSQjJyWE9xRHdXQ0h6d2J2bzViM182VVpNRHY5dVJZb0s4UHBHSS16ZTB5ZFFURmZGTlVkeE16RDFNY3BoV1JJY2NNdGEtUW5G0gFuQVVfeXFMT1FWT01ya2h2T25DWWRyZnBtUTN4UHYtdzNWLWt4Y20wVlowYlo3UXp0TERocVFyYjRRbmhyQ1djUFJzY2NwWWJNMHpDODh1bFJHWkszbzY5OWt1WWllSWt5ZzNUektGUmNlNVYwa0E?oc=5",
-      "source": "머니투데이",
-      "date": "Fri, 10 Jul 2026 20:00:00 GMT"
-    },
-    {
-      "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Fri, 10 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "中 금융전문가가 진단한 하반기 중국 경제는?",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlTzM2VmVsZ3pnTGt2YzFYaEI0S1FJU003OU5RRzBoZDAwSE5OdTFmNXoyUmJodmdSLWdsenFrbDhZMDJtTzNFc2dmUTBEX3NhUlhQN1NhQ09CN0lDQkl4bjlXZWdDUTNkMENWZjJDMNIBc0FVX3lxTE1TRzRRT1dNS0N5VUI2Zy1oUC1mMmlqM2d3Ql9yVTdfci0tSFZaNHluZ04yX2RQUWVucTItcjhaMXcyZlkwZnYybnVjdU5mV2VucUVzVGhaa0ZmNFhFRHV6QVRjN2tmQVpvenVWUHBEd2dZT0E?oc=5",
-      "source": "초이스경제",
-      "date": "Wed, 08 Jul 2026 23:36:57 GMT"
-    },
-    {
-      "title": "“중국 성장률 부풀려졌다” 공식 통계 의문 제기한 경제학자 가오산원, 54세로 별세",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1Y3FpdmZEdEFuMnc1RkZiOGdDNEpYR3AzV0MxekhteHZCSTYwQVNpLVJBaWRMRkRwTjVmaldJTmNQenpOeFQzWVI3LTNoNzlSemV4dHVITmpFUdIBX0FVX3lxTE5ObS1hYlFLWEdqdWhHT01ZZVdVbnZ0ck84VWQwbUhnekRESDEzUDhRcHd3b2FYN2FGZ1VjM0hra3FtVlZiZWpYN2RodzRDZGp5Y09PaXRpOFRWUmo2ZzRZ?oc=5",
-      "source": "경향신문",
-      "date": "Wed, 08 Jul 2026 03:01:00 GMT"
-    },
-    {
-      "title": "[중국증시-마감] 1%대 하락…경제지표 발표 앞두고 관망세",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkYjJHYkE0SEpoWmxxZnNwX3RlSmdQZlNNU2RMS2ZMRzFCeW9oWUR4M3VQbHNLMm5udzdHTExHYXdkWWsxWmt0OS11YzBfZHI3SUk0eTdWeWJRWFdwT1BxRDQyVjhJLVlMWUl4VXB1M0U?oc=5",
-      "source": "연합인포맥스",
-      "date": "Tue, 07 Jul 2026 09:09:39 GMT"
-    },
-    {
-      "title": "2026년 하반기 중국경제 전망",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeXlFallrZFA2T1BfclgzbUxVS0Vnc2l4eHhuWC1ESERxM2ZSZWUzR21RUTFaTjZkSy1jcFFaUWhranhTZS1NSjRWZFMza1I2S2tVSGRSVDlIQnFfRkVTR1p1UGJjaWE0RDEzdm9mUWRYajJRT2FyQ1JyYjF0RWktakcxcGpLQzhpWkhmQXBZZ3FvcWpHdVMta0psRzJXSHhiX2c?oc=5",
-      "source": "KDI 경제교육",
-      "date": "Wed, 01 Jul 2026 17:30:30 GMT"
-    }
-  ]
+ "run_at_kst": "2026-07-13T10:09:17.705574+09:00",
+ "schema_version": "1.0",
+ "query": "중국 경제",
+ "source": "Google News (한국어)",
+ "count": 12,
+ "items": [
+  {
+   "title": "중국 저장성 창싱현, ‘태양광-어업 융합 농장’으로 경제·생태적 시너지 창출(Changxing County in East China’s Zhejiang Province Creates Economic and Ecological Synergy with Innovative \"Solar-Fish Farm\")",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE12b3ZhYmxYQ0tLUVRvaExBOElmUmtKMURncTJUM2FidTg0bnlMZ0FMc2o0cVRyYUljYXNnZGk3WUlfSks4LTFxd2NnV3B2ZVRxYS10MXgxYzJBQXlsRy1IMWdyTjJIcnpDT0dKZVlDSzVyUQ?oc=5",
+   "source": "글로벌휴먼타임즈",
+   "date": "Sun, 12 Jul 2026 22:45:37 GMT"
+  },
+  {
+   "title": "'신약개발 열풍' 中서 귀한몸 된 원숭이…한마리 몸값이 무려",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95VEU4ZjkzSDR6eVBVdnVyTl92SVEyMDJtMnc0djRfOHgyTUdxRXpfbEcyaXZTbE9wTTh4ZGdva1hkYXRwVy1YSmxtY0s5alU0SENF?oc=5",
+   "source": "네이트",
+   "date": "Sun, 12 Jul 2026 22:01:00 GMT"
+  },
+  {
+   "title": "[중국증시 주간 포인트] ①中 상반기 GDP 발표, 수출입 지표, 생산∙소매∙투자 지표, WAIC 개최, 중국 서부 AI 로봇대회, AGI Summit SF 2026 개최",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tNHlYUXRheXVHc2huNzN6NlRBSFZIanBuMzZoWmVDUkd1cUJoUnV4MWlJM3pwZzJDQjNYRjhMZlpJTkhUaFVBem1JRk9vbXhYdVRyY1h6eWRHYThp?oc=5",
+   "source": "뉴스핌",
+   "date": "Sun, 12 Jul 2026 15:06:00 GMT"
+  },
+  {
+   "title": "＂돈 줘도 못 구한다＂ 중국 신약 개발 열풍에…2배 ＇폭등＇ 이례적 상황",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hX05zcnAzOGFNN0JKTFBiM1hLdUh3YzM0VTVHQzRoem4wVTR6YUd2aVJuS2dURDEtLTlkal8yVTRnQUV0UzAyMGRSUnZYOHE4MUFLS2hUVUFsVWE0OVhHSFA0QmtqaHpqa3FNdDY0UEwzb09Sd3FF?oc=5",
+   "source": "한국경제TV",
+   "date": "Sun, 12 Jul 2026 11:37:00 GMT"
+  },
+  {
+   "title": "\"시진핑 방북 이후 北·中 더 밀착…韓, 대북 제재 완화 등 정책 마련해야\"",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aRUdyaVZzSk0zWURTMkVJQUFDaE9BQzRTRk4xVm9xOHdEQzFoVG5ieEo1R0pPU042ZU53NmZIaDN6bWlJTDFtdnZ3QnFRQ2wxNWN1N0x0bTBJNUl2Um02akFMalRUbHZpZjFZeWFlNzdrVEk?oc=5",
+   "source": "마켓인",
+   "date": "Sun, 12 Jul 2026 09:00:01 GMT"
+  },
+  {
+   "title": "중국 경제 K자 격차의 덫… AI 경제 독주 뒤 숨은 내수 불황 그늘",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOElVT3ppbXRINXltR3d2ZkxkQ05OOUY2Zl8tSnJYa1ZRWGJmeFJPZE43Q3VsTm41d2tVQUpNQ3dvX201Mi1ha2Y4RUYxTkZRajlzSzlTOHRsY3czdmNHME1GcWlHZzVJUWxzWVFWd2JuZGtUNUdQVVBNd0JEWmVROE9DOFFoZ2x3?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "Sat, 11 Jul 2026 21:48:39 GMT"
+  },
+  {
+   "title": "중국의 '혁신 vs 경제 불균형' 딜레마 [PADO]",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fNU8wUTBrTm8wZUROSzBFSVdvXzJYMklSQjJyWE9xRHdXQ0h6d2J2bzViM182VVpNRHY5dVJZb0s4UHBHSS16ZTB5ZFFURmZGTlVkeE16RDFNY3BoV1JJY2NNdGEtUW5G0gFuQVVfeXFMT1FWT01ya2h2T25DWWRyZnBtUTN4UHYtdzNWLWt4Y20wVlowYlo3UXp0TERocVFyYjRRbmhyQ1djUFJzY2NwWWJNMHpDODh1bFJHWkszbzY5OWt1WWllSWt5ZzNUektGUmNlNVYwa0E?oc=5",
+   "source": "머니투데이",
+   "date": "Fri, 10 Jul 2026 20:00:00 GMT"
+  },
+  {
+   "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
+   "source": ":: 위즈경제 ::",
+   "date": "Fri, 10 Jul 2026 07:00:00 GMT"
+  },
+  {
+   "title": "中 금융전문가가 진단한 하반기 중국 경제는?",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlTzM2VmVsZ3pnTGt2YzFYaEI0S1FJU003OU5RRzBoZDAwSE5OdTFmNXoyUmJodmdSLWdsenFrbDhZMDJtTzNFc2dmUTBEX3NhUlhQN1NhQ09CN0lDQkl4bjlXZWdDUTNkMENWZjJDMNIBc0FVX3lxTE1TRzRRTVdNS0N5VUI2Zy1oUC1mMmlqM2d3Ql9yVTdfci0tSFZaNHluZ04yX2RQUWVucTItcjhaMXcyZlkwZnYybnVjdU5mV2VucUVzVGhaa0ZmNFhFRHV6QVRjN2tmQVpvenVWUHBEd2dZT0E?oc=5",
+   "source": "초이스경제",
+   "date": "Wed, 08 Jul 2026 23:36:57 GMT"
+  },
+  {
+   "title": "[중국증시-마감] 1%대 하락…경제지표 발표 앞두고 관망세",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkYjJHYkE0SEpoWmxxZnNwX3RlSmdQZlNNU2RMS2ZMRzFCeW9oWUR4M3VQbHNLMm5udzdHTExHYXdkWWsxWmt0OS11YzBfZHI3SUk0eTdWeWJRWFdwT1BxRDQyVjhJLVlMWUl4VXB1M0U?oc=5",
+   "source": "연합인포맥스",
+   "date": "Tue, 07 Jul 2026 09:09:39 GMT"
+  },
+  {
+   "title": "2026년 하반기 중국경제 전망",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeXlFallrZFA2T1BfclgzbUxVS0Vnc2l4eHhuWC1ESERxM2ZSZWUzR21RUTFaTjZkSy1jcFFaUWhranhTZS1NSjRWZFMza1I2S2tVSGRSVDlIQnFfRkVTR1p1UGJjaWE0RDEzdm9mUWRYajJRT2FyQ1JyYjF0RWktakcxcGpLQzhpWkhmQXBZZ3FvcWpHdVMta0psRzJXSHhiX2c?oc=5",
+   "source": "KDI 경제교육",
+   "date": "Wed, 01 Jul 2026 17:30:30 GMT"
+  },
+  {
+   "title": "'대차대조표 불황' 창시한 日학자 \"중국경제 여전히 위험\"",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16NDVwakluWlRlVHJWdzN4NW1yVGhiR0tHWGZHbjdDUW0ydUtmRzJWYzNYMW1adFdYYXdzUW1nQ2JoQjd0YVpoenBhdmlYM3M?oc=5",
+   "source": "v.daum.net",
+   "date": "Mon, 29 Jun 2026 07:00:00 GMT"
+  }
+ ]
 }
