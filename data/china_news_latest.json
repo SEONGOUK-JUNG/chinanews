@@ -1,81 +1,81 @@
 {
-  "run_at_kst": "2026-07-13T14:18:14.400231+09:00",
+  "run_at_kst": "2026-07-13T20:17:24+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "천르뱌오 주부산중국총영사, 경남도 방문해 관광·산업·경제 협력 논의",
+      "source": "LG헬로비전",
+      "date": "Mon, 13 Jul 2026 07:39:21 GMT",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE04YmZ6dDExSlhFTXdLaENHTnlQNzBNS1MzMWNMdlR2RkNtVklJSENvVnRQTU9ERzltbVdoRllNWTVHNFBxdmFlWFFYQ3ZrZk5YUGR2Ykc0NFcyNWRPZTBfeldUMFdxa2VGMXV3bWRLa1RzUdIBdkFVX3lxTFB5ZnhlMHNtVU9BRVhBWV9SWHIzc0JJeTlGQmJGbmZLcjJWdkYwWm1rUG9oX3NfY1FHSUp6YUlfZkVkSlRuZnk3bDlFS3F4ck5FMmw5a3E1VWlLQVRSNS05ZzZIRjMwWGdqOEVnUHhJcE52MC1JMFE?oc=5"
+    },
+    {
+      "title": "박완수 지사·중국 총영사 전격 회동, 경제협력 속도전",
+      "source": "한스경제",
+      "date": "Mon, 13 Jul 2026 07:22:43 GMT",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kVng4cUg4VlNTQTk3ZmI1YUdEXzFELWlFSkFkLVV6Qi1MbUxmTWxpQlVCY0hxbjhNRWY3d0F1UWE4SVFCTmpfb2daazBWMG5FRkxtNUZWMjliSGdZaTM0TE9qTUIyLTU5ak5Kb9IBb0FVX3lxTE5Ldm5iLTUzcjFDazJ0TkdNUUoydlc4X2d5aGNvMHpHeVRFMTI5M0tpQ2RYUDFxV2d5QTZkejhnTVFMVlQtV19OZUFhOG1XRWloVWRIdTlKMk1JNXp6TDlldThEcXkycVdmWWNMcnZxWQ?oc=5"
+    },
+    {
+      "title": "EY \"미국과 유럽의 탈중국 비용 23조달러\"",
+      "source": "v.daum.net",
+      "date": "Mon, 13 Jul 2026 07:05:50 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SUGFvZDY0ODBTdGFoRUpRbDlpMkI2Z2x5eGpVZkYyOVdyaGx2cXJzekJ3cUx3Sk9WTVhVNTh0SXBjYVRvbktiRUdWQVdpb1E?oc=5"
+    },
+    {
+      "title": "제주삼다수, 중국 온라인 시장 공략 본격화",
+      "source": "제주투데이",
+      "date": "Mon, 13 Jul 2026 06:18:46 GMT",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YaTU2WUxKNjE4NVh4Y1FLNGY2VmF5V2pTbGZYcFlYVXNfZW9xOE1QOEthcFFiWnlEeGFCejNGR000SzhxVEZ6YmxiTDdrOWVEclFGQnQ4ZmxDNlBQamRYOWVpcU05bmRiR291OHNn?oc=5"
+    },
+    {
       "title": "中·러 업은 김정은, 웃는 건 겉뿐?...경제난 못 풀자 다시 칼 빼든 북한",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMRHM3S3hIT2xYdTFIWTl5cnZDd1N4dGp5MlFlU2pJcGd4QnBFUm5VRTZIdi1ucmU2TG5ZbW5yRnFyVDNnSV9ZYzZTUHYwUng1Y0hjMXAtNzIyU2tyanNRS0FCYjNGYUsybHlF0gFvQVVfeXFMTzdkWHVUeEhORV84YjlIelQ1X1d1ZDNpNWlpM0VXZTBKbXEwRS11UFp3eWhKSUFwRnlxaUNsNzlhb0diTFVzbUVYeWdicnViZzd2d0owdmNORVNnWlIyVXJwNHFQcTVCakR6aTE2c08w?oc=5",
       "source": "자유일보",
-      "date": "Mon, 13 Jul 2026 02:59:00 GMT"
+      "date": "Mon, 13 Jul 2026 02:59:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMRHM3S3hIT2xYdTFIWTl5cnZDd1N4dGp5MlFlU2pJcGd4QnBFUm5VRTZIdi1ucmU2TG5ZbW5yRnFyVDNnSV9ZYzZTUHYwUng1Y0hjMXAtNzIyU2tyanNRS0FCYjNGYUsybHlF0gFvQVVfeXFMTzdkWHVUeEhORV84YjlIelQ1X1d1ZDNpNWlpM0VXZTBKbXEwRS11UFp3eWhKSUFwRnlxaUNsNzlhb0diTFVzbUVYeWdicnViZzd2d0owdmNORVNnWlIyVXJwNHFQcTVCakR6aTE2c08w?oc=5"
     },
     {
       "title": "해외 칼럼 소비 주도 모델로의 중국 경제 재균형 실패",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PX09teDZKYkUtVFRFMDNkQlZIVy0yRzZjeGFSR3podm9lY1R5c1hCdkZ1eG80UmVJY2JZS202T2MxRWtpVU9ISXBIUWFFME9wWTh5RFV2VVpuWlM0T3pEd3hzYmdPVkpTcXBmNUdPM2ZKTFV0dHEtSHRWSFVvMFk?oc=5",
       "source": "economychosun.com",
-      "date": "Mon, 13 Jul 2026 02:00:00 GMT"
-    },
-    {
-      "title": "\"日자동차, 겉은 일제 속은 중국제 현실화…가전 데자뷔\"",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGcHRWNEs2d3piUlVxRGFiSE42dVBSWkxzMVJtVjRyZUVnUFhjSktQX0lORWtVODRuWndkZVRoTFB6Y0RpdDg3QmsyLTNSb1k?oc=5",
-      "source": "v.daum.net",
-      "date": "Mon, 13 Jul 2026 01:47:47 GMT"
+      "date": "Mon, 13 Jul 2026 02:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PX09teDZKYkUtVFRFMDNkQlZIVy0yRzZjeGFSR3podm9lY1R5c1hCdkZ1eG80UmVJY2JZS202T2MxRWtpVU9ISXBIUWFFME9wWTh5RFV2VVpuWlM0T3pEd3hzYmdPVkpTcXBmNUdPM2ZKTFV0dHEtSHRWSFVvMFk?oc=5"
     },
     {
       "title": "F&F 중국 매출 14% 성장의 이면",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSaHpEMU9rQk9ENkhXUjRuUEhjX2l2Y1N6NlhZTndFWTAxbDc3eE4xdDJZbEYxNGh0aGpHSG5Kd3hEN0dDRHZiSXRLOUZNMF82cHFCSVRIWGxQSXRJZ3BQN29RNVFVRXVWdmphZnEwOA?oc=5",
       "source": "리드경제",
-      "date": "Mon, 13 Jul 2026 01:29:54 GMT"
-    },
-    {
-      "title": "중국 저장성 창싱현, ‘태양광-어업 융합 농장’으로 경제·생태적 시너지 창출(Changxing County in East China’s Zhejiang Province Creates Economic and Ecological Synergy with Innovative \"Solar-Fish Farm\")",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE12b3ZhYmxYQ0tLUVRvaExBOElmUmtKMURncTJUM2FidTg0bnlMZ0FMc2o0cVRyYUljYXNnZGk3WUlfSks4LTFxd2NnV3B2ZVRxYS10MXgxYzJBQXlsRy1IMWdyTjJIcnpDT0dKZVlDSzVyUQ?oc=5",
-      "source": "글로벌휴먼타임즈",
-      "date": "Sun, 12 Jul 2026 22:45:37 GMT"
+      "date": "Mon, 13 Jul 2026 01:29:54 GMT",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSaHpEMU9rQk9ENkhXUjRuUEhjX2l2Y1N6NlhZTndFWTAxbDc3eE4xdDJZbEYxNGh0aGpHSG5Kd3hEN0dDRHZiSXRLOUZNMF82cHFCSVRIWGxQSXRJZ3BQN29RNVFVRXVWdmphZnEwOA?oc=5"
     },
     {
       "title": "[중국증시 주간 포인트] ①中 상반기 GDP 발표, 수출입 지표, 생산∙소매∙투자 지표, WAIC 개최, 중국 서부 AI 로봇대회, AGI Summit SF 2026 개최",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tNHlYUXRheXVHc2huNzN6NlRBSFZIanBuMzZoWmVDUkd1cUJoUnV4MWlJM3pwZzJDQjNYRjhMZlpJTkhUaFVBem1JRk9vbXhYdVRyY1h6eWRHYThp?oc=5",
       "source": "뉴스핌",
-      "date": "Sun, 12 Jul 2026 15:06:00 GMT"
-    },
-    {
-      "title": "＂돈 줘도 못 구한다＂ 중국 신약 개발 열풍에…2배 ＇폭등＇ 이례적 상황",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hX05zcnAzOGFNN0JKTFBiM1hLdUh3YzM0VTVHQzRoem4wVTR6YUd2aVJuS2dURDEtLTlkal8yVTRnQUV0UzAyMGRSUnZYOHE4MUFLS2hUVUFsVWE0OVhHSFA0QmtqaHpqa3FNdDY0UEwzb09Sd3FF?oc=5",
-      "source": "한국경제TV",
-      "date": "Sun, 12 Jul 2026 11:37:00 GMT"
+      "date": "Sun, 12 Jul 2026 15:06:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tNHlYUXRheXVHc2huNzN6NlRBSFZIanBuMzZoWmVDUkd1cUJoUnV4MWlJM3pwZzJDQjNYRjhMZlpJTkhUaFVBem1JRk9vbXhYdVRyY1h6eWRHYThp?oc=5"
     },
     {
       "title": "중국 경제 K자 격차의 덫… AI 경제 독주 뒤 숨은 내수 불황 그늘",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOElVT3ppbXRINXltR3d2ZkxkQ05OOUY2Zl8tSnJYa1ZRWGJmeFJPZE43Q3VsTm41d2tVQUpNQ3dvX201Mi1ha2Y4RUYxTkZRajlzSzlTOHRsY3czdmNHME1GcWlHZzVJUWxzWVFWd2JuZGtUNUdQVVBNd0JEWmVROE9DOFFoZ2x3?oc=5",
       "source": "글로벌이코노믹",
-      "date": "Sat, 11 Jul 2026 21:48:39 GMT"
+      "date": "Sat, 11 Jul 2026 21:48:39 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOElVT3ppbXRINXltR3d2ZkxkQ05OOUY2Zl8tSnJYa1ZRWGJmeFJPZE43Q3VsTm41d2tVQUpNQ3dvX201Mi1ha2Y4RUYxTkZRajlzSzlTOHRsY3czdmNHME1GcWlHZzVJUWxzWVFWd2JuZGtUNUdQVVBNd0JEWmVROE9DOFFoZ2x3?oc=5"
     },
     {
-      "title": "중국의 '혁신 vs 경제 불균형' 딜레마 [PADO]",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fNU8wUTBrTm8wZUROSzBFSVdvXzJYMklSQjJyWE9xRHdXQ0h6d2J2bzViM182VVpNRHY5dVJZb0s4UHBHSS16ZTB5ZFFURmZGTlVkeE16RDFNY3BoV1JJY2NNdGEtUW5G0gFuQVVfeXFMT1FWT01ya2h2T25DWWRyZnBtUTN4UHYtdzNWLWt4Y20wVlowYlo3UXp0TERocVFyYjRRbmhyQzJnUFJzY2NwWWJNMHpDODh1bFJHWkszbzY5OWt1WWllSWt5ZzNUektGUmNlNVYwa0E?oc=5",
+      "title": "중국의 '혁신 vs 경제 불균형' 딜레마 [PADO] - 머니투데이",
       "source": "머니투데이",
-      "date": "Fri, 10 Jul 2026 20:00:00 GMT"
+      "date": "Fri, 10 Jul 2026 20:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fNU8wUTBrTm8wZUROSzBFSVdvXzJYMklSQjJyWE9xRHdXQ0h6d2J2bzViM182VVpNRHY5dVJZb0s4UHBHSS16ZTB5ZFFURmZGTlVkeE16RDFNY3BoV1JJY2NNdGEtUW5G0gFuQVVfeXFMT1FWT01ya2h2T25DWWRyZnBtUTN4UHYtdzNWLWt4Y20wVlowYlo3UXp0TERocVFyYjRRbmhyQ1djUFJzY2NwWWJNMHpDODh1bFJHWkszbzY5OWt1WWllSWt5ZzNUektGUmNlNVYwa0E?oc=5"
     },
     {
       "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
-      "source": "위즈경제",
-      "date": "Fri, 10 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "[중국증시-마감] 1%대 하락…경제지표 발표 앞두고 관망세",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkYjJHYkE0SEpoWmxxZnNwX3RlSmdQZlNNU2RMS2ZMRzFCeW9oWUR4M3VQbHNLMm5udzdHTExHYXdkWWsxWmt0OS11YzBfZHI3SUk0eTdWeWJRWFdwT1BxRDQyVjhJLVlMWUl4VXB1M0U?oc=5",
-      "source": "연합인포맥스",
-      "date": "Tue, 07 Jul 2026 09:09:39 GMT"
+      "source": ":: 위즈경제 ::",
+      "date": "Fri, 10 Jul 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5"
     },
     {
       "title": "2026년 하반기 중국경제 전망",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeXlFallrZFA2T1BfclgzbUxVS0Vnc2l4eHhuWC1ESERxM2ZSZWUzR21RUTFaTjZkSy1jcFFaUWhranhTZS1NSjRWZFMza1I2S2tVSGRSVDlIQnFfRkVTR1p1UGJjaWE0RDEzdm9mUWRYajJRT2FyQ1JyYjF0RWktakcxcGpLQzhpWkhmQXBZZ3FvcWpHdVMta0psRzJXSHhiX2c?oc=5",
       "source": "KDI 경제교육",
-      "date": "Wed, 01 Jul 2026 17:30:30 GMT"
+      "date": "Wed, 01 Jul 2026 17:30:30 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeXlFallrZFA2T1BfclgzbUxVS0Vnc2l4eHhuWC1ESERxM2ZSZWUzR21RUTFaTjZkSy1jcFFaUWhranhTZS1NSjRWZFMza1I2S2tVSGRSVDlIQnFfRkVTR1p1UGJjaWE0RDEzdm9mUWRYajJRT2FyQ1JyYjF0RWktakcxcGpLQzhpWkhmQXBZZ3FvcWpHdVMta0psRzJXSHhiX2c?oc=5"
     }
   ]
 }
