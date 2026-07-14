@@ -1,15 +1,33 @@
 {
-  "run_at_kst": "2026-07-14T14:15:05.468876+09:00",
+  "run_at_kst": "2026-07-14T22:10:24.492599+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "중국 6월 수출 27% 증가…글로벌 AI붐 타고 3개월 연속 고공행진",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40dXotSjAwNXJBbk5KdHhCU0NDTV90alNNSm9hWFltV3o4alEzZVFnSzZaQWZpSTFYdTNkOVBtRWpaNzh5eG4wa18wLXJIREE?oc=5",
+      "title": "“중국 실제 실업률 10.2%, 국가통계의 두 배…경기 침체 장기화 우려”",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92c0ZLNnhiMXp1SmVBX0U0a3lzNE1feGFpZW5MT2V5VjFPWVp6VkQ4eXJPaFVFUUplNjVMS25BdmpscHhkUE5jNHhhb09yOHRYak9BX2p0Yk0tTG9sd01JQ2ZVM0ZBbHk1ZGhXOQ?oc=5",
+      "source": "한겨레",
+      "date": "Tue, 14 Jul 2026 10:00:00 GMT"
+    },
+    {
+      "title": "함양 산양삼, 중국 옌타이 수출길 올랐다",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55YmZuVG85YjhEaTFrbUdiMnpGWDZVMjY0VHYtWGcwWlFfOXdNbmZ3V2N2N05ONnZqWEVpbkdWT3dTS0NVVko2SlpwWnlGYXZxS3JqclhPaWw1LXRBOWhFYU5VdjduNkVfS2cw?oc=5",
+      "source": "경남일보",
+      "date": "Tue, 14 Jul 2026 08:35:32 GMT"
+    },
+    {
+      "title": "2026 아시아모델페스티벌 ‘페이스 오브 차이나’ 중국 옌타이에서 성황리 개최",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DTU4zVHBsYlhGcHMyc3pyMEtjOWdhTU5mYjhzZS1LZjZHNXVscFA4Q1hQUUM4cTYxQllILXZpaU52S2dTWXlTRmtzd1o4Q28?oc=5",
       "source": "v.daum.net",
-      "date": "Tue, 14 Jul 2026 03:46:09 GMT"
+      "date": "Tue, 14 Jul 2026 06:30:06 GMT"
+    },
+    {
+      "title": "中 수출 27% 급증에도 내수는 냉기…성장 불균형 심화",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ISGlvWnJnZ0RyVVNaUHo2WXNyT1d0RnRfd2tpUnYxZWYyY0pWVGFMcVNLQ0h0UXp1ZUtGNk9RQmJPNHRQMV9TNzNiMmJfc1NzTzRyUkUtcGprd9IBWEFVX3lxTE1ubWZZajlvVHN1VVhVc0h6dnlkcnhXWHlNY28yUHhFZ19ZSGk0NHE5V2NUb05zWkNzMjQ0MHp6QzNmSVJMS0xwRGk2cDVJNy1jeFBvbFMtSUY?oc=5",
+      "source": "아주경제",
+      "date": "Tue, 14 Jul 2026 06:22:34 GMT"
     },
     {
       "title": "\"日중소기업들, 차이나리스크에 中사업 철수\"…탈중국 행렬",
@@ -24,28 +42,22 @@
       "date": "Tue, 14 Jul 2026 02:47:00 GMT"
     },
     {
-      "title": "\"특허가 중국 경제를 끌어올렸다\"... IP 투자 9.3% 급증, AI·반도체·배터리 동반 성장",
+      "title": "“특허가 중국 경제를 끌어올렸다”... IP 투자 9.3% 급증, AI·반도체·배터리 동반 성장",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBtbFZhejVBOHA2RzlOc0M1NUUxeWpTdVFNMnFiZTk0TXRhdkNCZHBnZERpdDYxYy1KZEFUNEJpZ3F2WGR0ZXlUXw?oc=5",
       "source": "특허뉴스",
       "date": "Tue, 14 Jul 2026 01:29:00 GMT"
     },
     {
       "title": "[해외기고] 란저우 한중비즈니스협력포럼과 민관협력",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKdDlDZWVOUXI1bzFUR040Zy1acGJTQWVoS1I4cnotaGR5eXVvblo2aXNpMHhjYVZJemVKazBnV19pcURNUkVxdWRCZThtUWEwMDM4VXNXSi00Y0xvQmhnX1pvYWdBaHMxcGhSQjdB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKdDlDZWVOUXI1bzFUR040Zy1acGJTQWVoS1I4cnotaGR5eXVvblo2aXNpMHhjYVZJemVKazBnV19pcURNRXF1ZEJlOG1RYWEwMDM4VXNXSi00Y0xvQmhnX1pvYWdBaHMxcGhSQjdB?oc=5",
       "source": "월드코리안뉴스",
-      "date": "Tue, 14 Jul 2026 01:23:41 GMT"
+      "date": "Tue, 14 Jul 2026 01:23:00 GMT"
     },
     {
       "title": "中 리창, .기업인 간담회…하반기 경기운용 앞두고 고용·내수 보강 주문",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pajh5b0JmeGJuX1pDYjhZbm5raW9VeklDYmRnOWljeEhsQ0xGX0U1T3BvMEFOZ2xndVdQeVZtMk5YTW5uU2Z2M1ZFQkhSS2s3S1RmX2JaLW1nc2hYaTRxbXNjUjZCQWM?oc=5",
       "source": "연합뉴스TV",
       "date": "Mon, 13 Jul 2026 22:51:00 GMT"
-    },
-    {
-      "title": "중국 경제는 성장세가 둔화될 것으로 전망된다.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUk4yQmxyTy1qYVFWS0g1SHAxN0s1VXFfRTl1OWZobmFwbVFubXQ1RUc2amNLLXgybXF3b3ZmRk9UX2ViNUd5MFhtRnJHVmlGbWtaa2F2LXFzZXlmaFlPbkxaOXRJZzVsUTh6TmJfSWdHZUZNdGpNcG5WOU5NeVV4NW5LZw?oc=5",
-      "source": "Vietnam.vn",
-      "date": "Mon, 13 Jul 2026 14:26:01 GMT"
     },
     {
       "title": "해외 칼럼 소비 주도 모델로의 중국 경제 재균형 실패",
@@ -60,22 +72,10 @@
       "date": "Sat, 11 Jul 2026 21:48:39 GMT"
     },
     {
-      "title": "중국의 '혁신 vs 경제 불균형' 딜레마 [PADO]",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fNU8wUTBrTm8wZUROSzBFSVdvXzJYMklSQjJyWE9xRHdXQ0h6d2J2bzViM182VVpNRHY5dVJZb0s4UHBHSS16ZTB5ZFFURmZGTlVkeE16RDFNY3BoV1JJY2NNdGEtUW5G0gFuQVVfeXFMT1FWT01ya2h2T25DWWRyZnBtUTN4UHYtdzNWLWt4Y20wVlowYlo3UXp0TERocVFyYjRRbmhyQ1djUFJzY2NwWWJNMHpDODh1bFJHWkszbzY5OWt1WWllSWt5ZzNUektGUmNlNVYwa0E?oc=5",
-      "source": "머니투데이",
-      "date": "Fri, 10 Jul 2026 20:00:00 GMT"
-    },
-    {
-      "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Fri, 10 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "2026년 하반기 중국경제 전망",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeXlFallrZFA2T1BfclgzbUxVS0Vnc2l4eHhuWC1ESERxM2ZSZWUzR21RUTFaTjZkSy1jcFFaUWhranhTZS1NSjRWZFMza1I2S2tVSGRSVDlIQnFfRkVTR1p1UGJjaWE0RDEzdm9mUWRYajJRT2FyQ1JyYjF0RWktakcxcGpLQzhpWkhmQXBZZ3FvcWpHdVMta0psRzJXSHhiX2c?oc=5",
-      "source": "KDI 경제교육",
-      "date": "Wed, 01 Jul 2026 17:30:30 GMT"
+      "title": "“중국 경제 안 좋다” 칭화대 전 교수, 강연 중 한 말에···경찰 출동 소동",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YU1llUUxBYTZzbGhkS2pBaE9ybXlnbnpISkVUZGVXc2w1X08tQkNJeU1OVWg1LUdldnBPLXYwRmMxc2hIWVlhNWJGNG5VbVUyOW9sRlUwYW5YZ9IBX0FVX3lxTFBTTXpMdDdfTjRzYW9YOG9pLUN6VXlyYjNVXzRiMWlkTF9PQWhFdmJfNTcyeVU2Z19uUHFSMVFBbU1LSHhOcm12Wi1zc0JYNVV1cXU2b2VwWEhPWFJ1YW5n?oc=5",
+      "source": "경향신문",
+      "date": "Thu, 02 Jul 2026 07:00:00 GMT"
     }
   ]
 }
