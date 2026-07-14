@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-14T07:21:07.307343+09:00",
+  "run_at_kst": "2026-07-14T10:16:24.313060+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,19 +8,37 @@
   "count": 14,
   "items": [
     {
+      "title": "Oil Refiners Are Cashing In on a Market That Won’t Stay Broken",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Refiners-Are-Cashing-In-on-a-Market-That-Wont-Stay-Broken.html",
+      "source": "OilPrice",
+      "date": "Mon, 13 Jul 2026 18:00:00 -0500"
+    },
+    {
+      "title": "Industry partners form North American Critical Manganese Alliance",
+      "link": "https://www.mining.com/industry-partners-form-north-american-critical-manganese-alliance/",
+      "source": "mining.com",
+      "date": "Mon, 13 Jul 2026 22:53:03 +0000"
+    },
+    {
+      "title": "America Extends Its Lead Over Russia and Saudi Arabia in Oil Output",
+      "link": "https://oilprice.com/Energy/Crude-Oil/America-Extends-Its-Lead-Over-Russia-and-Saudi-Arabia-in-Oil-Output.html",
+      "source": "OilPrice",
+      "date": "Mon, 13 Jul 2026 17:00:00 -0500"
+    },
+    {
       "title": "OPEC Cuts Demand Forecast Again as the Oil Market Starts Looking Past Hormuz",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Cuts-Demand-Forecast-Again-as-the-Oil-Market-Starts-Looking-Past-Hormuz.html",
       "source": "OilPrice",
       "date": "Mon, 13 Jul 2026 16:30:00 -0500"
     },
     {
-      "title": "Why the UAE Is Taking a Bigger Piece of America's LNG Crown Jewel",
+      "title": "Why the UAE Is Taking a Bigger Piece of America’s LNG Crown Jewel",
       "link": "https://oilprice.com/Energy/Natural-Gas/Why-the-UAE-Is-Taking-a-Bigger-Piece-of-Americas-LNG-Crown-Jewel.html",
       "source": "OilPrice",
       "date": "Mon, 13 Jul 2026 16:00:00 -0500"
     },
     {
-      "title": "US Vanadium awarded gov't offtake contract for National Defense Stockpile",
+      "title": "US Vanadium awarded gov’t offtake contract for National Defense Stockpile",
       "link": "https://www.mining.com/us-vanadium-awarded-govt-offtake-contract-for-national-defense-stockpile/",
       "source": "mining.com",
       "date": "Mon, 13 Jul 2026 20:16:30 +0000"
@@ -50,22 +68,10 @@
       "date": "Mon, 13 Jul 2026 13:00:00 -0500"
     },
     {
-      "title": "Dubai Is Already Planning for the Next Strait of Hormuz Crisis",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Dubai-Is-Already-Planning-for-the-Next-Strait-of-Hormuz-Crisis.html",
-      "source": "OilPrice",
-      "date": "Mon, 13 Jul 2026 12:30:00 -0500"
-    },
-    {
-      "title": "Galway's New Brunswick gold resource misses analyst forecast",
+      "title": "Galway’s New Brunswick gold resource misses analyst forecast",
       "link": "https://www.mining.com/galways-new-brunswick-gold-resource-misses-analyst-forecast/",
       "source": "mining.com",
       "date": "Mon, 13 Jul 2026 17:05:36 +0000"
-    },
-    {
-      "title": "Iraq's Oil Lifeline Has Been Saved, But For How Long?",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Iraqs-Oil-Lifeline-Has-Been-Saved-But-For-How-Long.html",
-      "source": "OilPrice",
-      "date": "Mon, 13 Jul 2026 12:00:00 -0500"
     },
     {
       "title": "AbraSilver drilling at Diablillos suggests resource growth",
@@ -84,12 +90,6 @@
       "link": "https://www.mining.com/stormlands-ai-remodels-bralorne-results-show-higher-npv/",
       "source": "mining.com",
       "date": "Mon, 13 Jul 2026 14:24:52 +0000"
-    },
-    {
-      "title": "MAX Power launches hydrogen validation drilling program",
-      "link": "https://www.mining.com/max-power-launches-hydrogen-validation-drilling-program/",
-      "source": "mining.com",
-      "date": "Mon, 13 Jul 2026 13:46:24 +0000"
     }
   ]
 }
