@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-14T10:16:24.313060+09:00",
+  "run_at_kst": "2026-07-14T14:07:06.502525+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,7 +8,13 @@
   "count": 14,
   "items": [
     {
-      "title": "Oil Refiners Are Cashing In on a Market That Won’t Stay Broken",
+      "title": "CHART: Mining vs AI – Nvidia sneezes, sheds five BHPs",
+      "link": "https://www.mining.com/chart-mining-vs-ai-nvidia-sneezes-sheds-five-bhps/",
+      "source": "mining.com",
+      "date": "Tue, 14 Jul 2026 01:41:56 +0000"
+    },
+    {
+      "title": "Oil Refiners Are Cashing In on a Market That Won't Stay Broken",
       "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Refiners-Are-Cashing-In-on-a-Market-That-Wont-Stay-Broken.html",
       "source": "OilPrice",
       "date": "Mon, 13 Jul 2026 18:00:00 -0500"
@@ -32,10 +38,10 @@
       "date": "Mon, 13 Jul 2026 16:30:00 -0500"
     },
     {
-      "title": "Why the UAE Is Taking a Bigger Piece of America’s LNG Crown Jewel",
+      "title": "Why the UAE Is Taking a Bigger Piece of America's LNG Crown Jewel",
       "link": "https://oilprice.com/Energy/Natural-Gas/Why-the-UAE-Is-Taking-a-Bigger-Piece-of-Americas-LNG-Crown-Jewel.html",
       "source": "OilPrice",
-      "date": "Mon, 13 Jul 2026 16:00:00 -0500"
+      "date": "Mon, 13 Jul 2026 15:30:00 -0500"
     },
     {
       "title": "US Vanadium awarded gov’t offtake contract for National Defense Stockpile",
@@ -84,12 +90,6 @@
       "link": "https://www.mining.com/india-to-invest-in-foreign-uranium-mines/",
       "source": "mining.com",
       "date": "Mon, 13 Jul 2026 15:16:06 +0000"
-    },
-    {
-      "title": "Stormlands AI remodels Bralorne, results show higher NPV",
-      "link": "https://www.mining.com/stormlands-ai-remodels-bralorne-results-show-higher-npv/",
-      "source": "mining.com",
-      "date": "Mon, 13 Jul 2026 14:24:52 +0000"
     }
   ]
 }

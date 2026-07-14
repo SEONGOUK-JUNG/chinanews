@@ -1,33 +1,45 @@
 {
-  "run_at_kst": "2026-07-14T10:21:50.434512+09:00",
+  "run_at_kst": "2026-07-14T14:15:05.468876+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "박완수 지사, 천르뱌오 주부산중국총영사 접견",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfSE00b1o1NDlVX04xc1dTUmpRTWtFYUQ0b2stdTFPSG16ZHJKWGNsa0ZzZmhxYUVtblltU0JCUVVrb3dENjNSSzVsWi16NTc0NEpVQThibw?oc=5",
-      "source": "헤럴드경제",
-      "date": "Mon, 13 Jul 2026 22:24:13 GMT"
-    },
-    {
-      "title": "[AI MY 뉴스] 14일 중국증시 '지정학 불안감 속 기술주 조정, 거시경제 지표 경계감'",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKUjIyS3VNR2tfVnNjZlp2SHlrMEpjQmctQUljUE5uTGVoam16Q01ZSWpacnAxek82ZXdIdWR0dmlGaWI3MGV5TVA0WFVUSmprX0lvWG9vaGlSWVV2ZVhGRXV3MmtXUEZMR2NZQ3FZcnhjSFFGNUlQSA?oc=5",
-      "source": "네이트",
-      "date": "Mon, 13 Jul 2026 21:48:00 GMT"
-    },
-    {
-      "title": "중국서 흔들린 폭스바겐…현대차그룹 ‘글로벌 2위’ 보인다",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16Mk9qcG1MVnlpSGU2MFlQcjVXQ0NCaXlJQWZmb081ajNWNlJaT0s5RENoQU1xb3J5OXU3VmZ1Q2ZGT3ZNY3VUQ0g5UGcyclE?oc=5",
+      "title": "중국 6월 수출 27% 증가…글로벌 AI붐 타고 3개월 연속 고공행진",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40dXotSjAwNXJBbk5KdHhCU0NDTV90alNNSm9hWFltV3o4alEzZVFnSzZaQWZpSTFYdTNkOVBtRWpaNzh5eG4wa18wLXJIREE?oc=5",
       "source": "v.daum.net",
-      "date": "Mon, 13 Jul 2026 21:02:09 GMT"
+      "date": "Tue, 14 Jul 2026 03:46:09 GMT"
     },
     {
-      "title": "中 리창, 경제 전문가·기업인 간담회…하반기 내수·AI 육성 박차",
+      "title": "\"日중소기업들, 차이나리스크에 中사업 철수\"…탈중국 행렬",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Ib18yeXNaRDhYWjVhVmtmajZsc3VMQy0zblY1N1pubW9JdS1CSERrTHoybHRQQWU1YXVPdUFQdkZIQXp4QlFoaHRweFA0V0JIUzdqc0Itd0xlTV9vNk12atIBeEFVX3lxTE94cFczZ0F2Ym1keVJvTHZnTE0zdEVrV0o2bUM2ZnoweFpBQWNIdEhYWXhZMTY4d2lMYnR4b0d2ZGt6ci1NUGpHQXUwdU5RNng5cGFpZTVERUFvUFF4bnV1Zl9kREluaWFySVpYQkxsQzdCQlpaV28tMw?oc=5",
+      "source": "뉴시스",
+      "date": "Tue, 14 Jul 2026 03:28:48 GMT"
+    },
+    {
+      "title": "230조 원 산업 중국 AI, 경제 신성장 동력 부상",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92Wk8yRThVS3l3Wno1anVPOUQ1Vy1uTnF5NS1kVlU1Qk9Cb1NxclBScXFKSUhqODRlNG81QWhnTGlJWHlseWNxcTFMclFrVEM2LW1mSC1Jbmc3azZa?oc=5",
+      "source": "뉴스핌",
+      "date": "Tue, 14 Jul 2026 02:47:00 GMT"
+    },
+    {
+      "title": "\"특허가 중국 경제를 끌어올렸다\"... IP 투자 9.3% 급증, AI·반도체·배터리 동반 성장",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBtbFZhejVBOHA2RzlOc0M1NUUxeWpTdVFNMnFiZTk0TXRhdkNCZHBnZERpdDYxYy1KZEFUNEJpZ3F2WGR0ZXlUXw?oc=5",
+      "source": "특허뉴스",
+      "date": "Tue, 14 Jul 2026 01:29:00 GMT"
+    },
+    {
+      "title": "[해외기고] 란저우 한중비즈니스협력포럼과 민관협력",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKdDlDZWVOUXI1bzFUR040Zy1acGJTQWVoS1I4cnotaGR5eXVvblo2aXNpMHhjYVZJemVKazBnV19pcURNUkVxdWRCZThtUWEwMDM4VXNXSi00Y0xvQmhnX1pvYWdBaHMxcGhSQjdB?oc=5",
+      "source": "월드코리안뉴스",
+      "date": "Tue, 14 Jul 2026 01:23:41 GMT"
+    },
+    {
+      "title": "中 리창, .기업인 간담회…하반기 경기운용 앞두고 고용·내수 보강 주문",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pajh5b0JmeGJuX1pDYjhZbm5raW9VeklDYmRnOWljeEhsQ0xGX0U1T3BvMEFOZ2xndVdQeVZtMk5YTW5uU2Z2M1ZFQkhSS2s3S1RmX2JaLW1nc2hYaTRxbXNjUjZCQWM?oc=5",
       "source": "연합뉴스TV",
-      "date": "Mon, 13 Jul 2026 15:38:00 GMT"
+      "date": "Mon, 13 Jul 2026 22:51:00 GMT"
     },
     {
       "title": "중국 경제는 성장세가 둔화될 것으로 전망된다.",
@@ -42,19 +54,13 @@
       "date": "Mon, 13 Jul 2026 02:00:00 GMT"
     },
     {
-      "title": "[중국증시 주간 포인트] ①中 상반기 GDP 발표, 수출입 지표, 생산∙소매∙투자 지표, WAIC 개최, 중국 서부 AI 로봇대회, AGI Summit SF 2026 개최",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tNHlYUXRheXVHc2huNzN6NlRBSFZIanBuMzZoWmVDUkd1cUJoUnV4MWlJM3pwZzJDQjNYRjhMZlpJTkhUaFVBem1JRk9vbXhYdVRyY1h6eWRHYThp?oc=5",
-      "source": "뉴스핌",
-      "date": "Sun, 12 Jul 2026 15:06:00 GMT"
-    },
-    {
       "title": "중국 경제 K자 격차의 덫… AI 경제 독주 뒤 숨은 내수 불황 그늘",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOElVT3ppbXRINXltR3d2ZkxkQ05OOUY2Zl8tSnJYa1ZRWGJmeFJPZE43Q3VsTm41d2tVQUpNQ3dvX201Mi1ha2Y4RUYxTkZRajlzSzlTOHRsY3czdmNHME1GcWlHZzVJUWxzWVFWd2JuZGtUNUdQVVBNd0JEWmVROE9DOFFoZ2x3?oc=5",
       "source": "글로벌이코노믹",
       "date": "Sat, 11 Jul 2026 21:48:39 GMT"
     },
     {
-      "title": "중국의 '혁신 vs 경제 불균형' 딜레마 [PADO] - 머니투데이",
+      "title": "중국의 '혁신 vs 경제 불균형' 딜레마 [PADO]",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fNU8wUTBrTm8wZUROSzBFSVdvXzJYMklSQjJyWE9xRHdXQ0h6d2J2bzViM182VVpNRHY5dVJZb0s4UHBHSS16ZTB5ZFFURmZGTlVkeE16RDFNY3BoV1JJY2NNdGEtUW5G0gFuQVVfeXFMT1FWT01ya2h2T25DWWRyZnBtUTN4UHYtdzNWLWt4Y20wVlowYlo3UXp0TERocVFyYjRRbmhyQ1djUFJzY2NwWWJNMHpDODh1bFJHWkszbzY5OWt1WWllSWt5ZzNUektGUmNlNVYwa0E?oc=5",
       "source": "머니투데이",
       "date": "Fri, 10 Jul 2026 20:00:00 GMT"
@@ -70,12 +76,6 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeXlFallrZFA2T1BfclgzbUxVS0Vnc2l4eHhuWC1ESERxM2ZSZWUzR21RUTFaTjZkSy1jcFFaUWhranhTZS1NSjRWZFMza1I2S2tVSGRSVDlIQnFfRkVTR1p1UGJjaWE0RDEzdm9mUWRYajJRT2FyQ1JyYjF0RWktakcxcGpLQzhpWkhmQXBZZ3FvcWpHdVMta0psRzJXSHhiX2c?oc=5",
       "source": "KDI 경제교육",
       "date": "Wed, 01 Jul 2026 17:30:30 GMT"
-    },
-    {
-      "title": "경제는 ‘흔들’ 기술은 ‘질주’하는 중국의 딜레마, 실체는?",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZG1sWUFDY2l6bFoyeFBUdTdzUjgwU1o0clpaZm5hSk9QU0NvUE5uQWdaelg0OFhKNXI2dXk5VnNjSVE5R3lwMkpDMFFiRzc1LW9nYnVn?oc=5",
-      "source": "중앙일보",
-      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
     }
   ]
 }
