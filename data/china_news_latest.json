@@ -1,21 +1,27 @@
 {
-  "run_at_kst": "2026-07-15T20:22:08.064558+09:00",
+  "run_at_kst": "2026-07-16T07:12:53.150035+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "수출 호황인데 내수가 발목…中 성장률 3년만에 최저",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YeEE5c21zamQtTkJZNUhpR2ZTaU41NFhvT1RfODAxLU5RN2RCM3phUGJOTmVROGhMbzNIRUdqUE9uUkE0NkpweTAwdEVIS01NeE1Da0Y0WXZsZw?oc=5",
-      "source": "한국경제",
-      "date": "Wed, 15 Jul 2026 09:24:22 GMT"
+      "title": "중국 경제 둔화와 공급망 재편이 한국에 미치는 영향",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBfYnR2RTJQamlCTVlwVGJkNlBtMktvYVdjY3NzY2dwejUxaEY5NWpXRWhXOVg0NFM2am1wazlrMWx2cjVTUjJMejhn?oc=5",
+      "source": "뉴스N연합",
+      "date": "Wed, 15 Jul 2026 21:43:21 GMT"
     },
     {
-      "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1NFJlQzhZeFVKWWM5Z3hrQ1hyQl95bk9aX3RYSmhmRDRsb1k0Y0U2WDU5bWpSQ2F1QVBvSFdyNkMtSDBpY1BHQ1dJN3dyUG5lV1dOUFMzWUlpeUJCT0JNY1dB0gFiQVVfeXFMUDU0UmVDOFl4VUpZYzlneGtDWHJCX3luT1pfdFhKaGZENGxvWTRjRTZYNTltalJDYXVBUG9IV3I2Qy1IMGljUEdDV0k3d3JQbmVXV05QUzNZSWl5QkJPQk1jV0E?oc=5",
-      "source": "BBC",
-      "date": "Wed, 15 Jul 2026 09:04:21 GMT"
+      "title": "중국 상반기 경제 성적표는?…스스로 인정한 “강 공급, 약 수요의 모순”",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrTFRsWV9zWWo4VWVKMENJdUN6R3p5aXNMX1hLekkyYUFVOFlTQXQwQmtpaWhTQVBMeHd6bTRPejdPd0JaOUZqMVlzbVhhcmpuU3g3dw?oc=5",
+      "source": "v.daum.net",
+      "date": "Wed, 15 Jul 2026 10:32:09 GMT"
+    },
+    {
+      "title": "수출 호황인데 내수가 발목…中 성장률 3년만에 최저",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YeEE5c21zamQtTkJZNUhpR2ZTaU41NFhvT1RfODAxL5RN2RCM3phUGJOTmVROGhMbzNIRUdqUE9uUkE0NkpweTAwdEVIS01NeE1Da0Y0WXZsZw?oc=5",
+      "source": "한국경제",
+      "date": "Wed, 15 Jul 2026 09:24:22 GMT"
     },
     {
       "title": "[그래픽] 중국 2분기 경제성장률 4.3%로 둔화",
@@ -42,22 +48,16 @@
       "date": "Wed, 15 Jul 2026 05:15:02 GMT"
     },
     {
-      "title": "중국 상반기 성장률 4.7%⋯2분기 4.3%로 3년 만에 최저",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMNENWSFFNMFZ4UGkwSjFQZlEtdFlNSUlWSjlTSHNiT2VVMDZVc0sycFJNbFFuaVFZSGx4bnBBcFE3d3h6YXFKZ3pOYWxsX3JlUENPVUxXNjBJVmhZMlE?oc=5",
-      "source": "포커스온경제",
-      "date": "Wed, 15 Jul 2026 05:04:27 GMT"
+      "title": "[그래픽] 중국 경제성장률 추이",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yeTFrTUdYUlVXVm54UUpRMGo3TlR5ZWlyOTlId25XQ1d4cmFzYWUwUm5RMEo3d05mQ0JISnYwWm41dzNpODBDbUxpY3ozRF9ZSXk3dWlmZ29pZlXSAWBBVV95cUxQbkROMTc3Z2tOX01xdTQ4ZWNhUjZsbXFmOU5NYXlmMlI2VWUzRUR5dU1YY29NMkoxbEVqbTJZNWtnZHp4WmRnQS1EVXpqRzdPaUNjMjU0X3FSTVhBbUVSXzI?oc=5",
+      "source": "연합뉴스",
+      "date": "Wed, 15 Jul 2026 05:13:04 GMT"
     },
     {
       "title": "中 2분기 GDP 성장률 4.3%…전망치 소폭 하회",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jbWdyczVFREhDeDRlX0RjOEFZV1VwX3Z5cmw3aXM3dFY4Yzh0X29iSldTZVNjMXRRaHZUanhMSjVGQThSNVdiSndsQ0x2cHNxT2lYSzVZMTVCVEJLSUhTamNSaENEVHc?oc=5",
       "source": "연합뉴스TV",
       "date": "Wed, 15 Jul 2026 04:22:00 GMT"
-    },
-    {
-      "title": "中 2분기 GDP, 전년비 4.3% 증가…2022년 말 이후 최저(종합)",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFbC1aUDhac2VzSnNjZG1kX0tZU2VZaXd5YWYwQ1NLNWVXanJGQVlQc2FaSDI4LWR3WUdsNmd4SlBtVHJldnU4Skd6Q1p0dTJxYzFKeHUyZl9WbUtqa1lDbjd1WVBGcUZGMVFXQ2VwTjRpdw?oc=5",
-      "source": "KB Think",
-      "date": "Wed, 15 Jul 2026 04:10:41 GMT"
     },
     {
       "title": "중국 상반기 경제성장률 4.7%…2분기 4.3%로 2022년 말 이후 최저",
@@ -72,10 +72,10 @@
       "date": "Wed, 15 Jul 2026 03:24:58 GMT"
     },
     {
-      "title": "[인공지능 줌인] AI 열풍에 가려진 중국의 침체",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YLWJRLXVLUVVGY0FwNW11UVg5elRlLVhrRHJuamxxZ1BwRXJCWUVFbXBfV2NidWFzSUNON3NIVVBMdWFsRV9NT0RLTXpnS0toVUdNRTdiQllzN0dZTVdEdXZvOWQyUUpUV19NVmVZOA?oc=5",
-      "source": "위키리크스한국",
-      "date": "Tue, 14 Jul 2026 20:33:00 GMT"
+      "title": "[속보] 중국 2분기 경제성장률 4.3%로 둔화",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UX1JFaVVYR0ZLbnJEVXhvZFhObmtOZ1J2TXhvZzFDclNfWVVfSk1TT3pUcEQtMk5XMlNLVWdsV09ncm1pVzUwLTZBakZjbkcwSFFGeVVlZHNER3pvRHBUVNIBeEFVX3lxTE4tcFVESUZRTXEySE15QkR6Ym5jVS1VTlpiMkk0RW5PQ1RvckFFT0tKNURLOUZsM2Jnc2FaenZyTzFXN2ljMVM5OE56RmM4eGROVzU0LTh3b0c0bWdhTWgyS0s2d3l3eXlPZ1ZyLUU2c0pLY0h0RnVzOQ?oc=5",
+      "source": "뉴시스",
+      "date": "Wed, 15 Jul 2026 02:10:00 GMT"
     }
   ]
 }
