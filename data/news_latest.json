@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-15T14:06:57+09:00",
+  "run_at_kst": "2026-07-15T20:22:08.064558+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,42 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Ukraine Intensifies Attacks on Russian Tankers in the Black Sea",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Intensifies-Attacks-on-Russian-Tankers-in-the-Black-Sea.html",
+      "source": "OilPrice",
+      "date": "Wed, 15 Jul 2026 06:00:00 -0500"
+    },
+    {
+      "title": "Oil Prices Climb for Fourth Day as Iran Threatens New Energy Chokepoints",
+      "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Climb-for-Fourth-Day-as-Iran-Threatens-New-Energy-Chokepoints.html",
+      "source": "OilPrice",
+      "date": "Wed, 15 Jul 2026 05:30:00 -0500"
+    },
+    {
+      "title": "Brent Futures Flip to Backwardation as Middle East Supply Risks Return",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Futures-Flip-to-Backwardation-as-Middle-East-Supply-Risks-Return.html",
+      "source": "OilPrice",
+      "date": "Wed, 15 Jul 2026 04:50:00 -0500"
+    },
+    {
+      "title": "U.S. Gasoline Prices Could Hit $4 Per Gallon Within Days",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Gasoline-Prices-Could-Hit-4-Per-Gallon-Within-Days.html",
+      "source": "OilPrice",
+      "date": "Wed, 15 Jul 2026 03:45:00 -0500"
+    },
+    {
+      "title": "U.S. Backs Iraq-Syria Oil Pipeline to Bypass the Strait of Hormuz",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Backs-Iraq-Syria-Oil-Pipeline-to-Bypass-the-Strait-of-Hormuz.html",
+      "source": "OilPrice",
+      "date": "Wed, 15 Jul 2026 02:40:00 -0500"
+    },
+    {
+      "title": "China’s Refinery Runs Crash to Pandemic Lows as Crude Imports Collapse",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Refinery-Runs-Crash-to-Pandemic-Lows-as-Crude-Imports-Collapse.html",
+      "source": "OilPrice",
+      "date": "Wed, 15 Jul 2026 01:40:28 -0500"
+    },
     {
       "title": "The Next Oil Rally May Depend On China, Not The Middle East",
       "link": "https://oilprice.com/Energy/Crude-Oil/The-Next-Oil-Rally-May-Depend-On-China-Not-The-Middle-East.html",
@@ -26,52 +62,16 @@
       "date": "Tue, 14 Jul 2026 18:00:00 -0500"
     },
     {
-      "title": "Canada Ties New West Coast Pipeline to Oil Sands Expansion",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Canada-Ties-New-West-Coast-Pipeline-to-Oil-Sands-Expansion.html",
-      "source": "OilPrice",
-      "date": "Tue, 14 Jul 2026 17:00:00 -0500"
-    },
-    {
-      "title": "US Crude Oil, Gasoline Inventories Still Falling",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Gasoline-Inventories-Still-Falling.html",
-      "source": "OilPrice",
-      "date": "Tue, 14 Jul 2026 16:04:18 -0500"
-    },
-    {
-      "title": "Could Geothermal Energy Rescue Germany's Fading Coal Towns",
-      "link": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Could-Geothermal-Energy-Rescue-Germanys-Fading-Coal-Towns.html",
-      "source": "OilPrice",
-      "date": "Tue, 14 Jul 2026 16:00:00 -0500"
-    },
-    {
       "title": "Almonty Industries, Global Tungsten expand offtake agreement",
       "link": "https://www.mining.com/almonty-industries-global-tungsten-expand-offtake-agreement/",
       "source": "mining.com",
       "date": "Tue, 14 Jul 2026 20:43:29 +0000"
     },
     {
-      "title": "Trump's Hormuz Toll Could Upend Global Energy Trade",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Trumps-Hormuz-Toll-Could-Upend-Global-Energy-Trade.html",
-      "source": "OilPrice",
-      "date": "Tue, 14 Jul 2026 15:00:00 -0500"
-    },
-    {
       "title": "Alsym Energy, ERITY sign 9 GWh sodium-ion battery deal for mining sector",
       "link": "https://www.mining.com/alsym-energy-erity-sign-9-gwh-sodium-ion-battery-agreement-for-mining-sector/",
       "source": "mining.com",
       "date": "Tue, 14 Jul 2026 19:38:53 +0000"
-    },
-    {
-      "title": "Trump Scraps Hormuz Toll Plan as U.S.-Iran Conflict Deepens",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/Trump-Scraps-Hormuz-Toll-Plan-as-US-Iran-Conflict-Deepens.html",
-      "source": "OilPrice",
-      "date": "Tue, 14 Jul 2026 14:00:00 -0500"
-    },
-    {
-      "title": "Azerbaijan Accelerates Middle Corridor Push With Central Asia Trade Deals",
-      "link": "https://oilprice.com/Geopolitics/Asia/Azerbaijan-Accelerates-Middle-Corridor-Push-With-Central-Asia-Trade-Deals.html",
-      "source": "OilPrice",
-      "date": "Tue, 14 Jul 2026 13:00:00 -0500"
     },
     {
       "title": "Abasca expands Loki graphite resource in Saskatchewan",
