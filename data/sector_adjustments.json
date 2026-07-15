@@ -1,33 +1,33 @@
 {
-  "note": "업종별 가격 보정 계수(현장 조사 반영). adjusted = raw_price * (1 + pct/100). 같은 업종은 동일 배율이라 변동률(change_pct)은 변하지 않음.",
-  "schema_version": "1.0",
-  "applied_from": "2026-06-08",
-  "factors_pct": {
-    "화학공업": 0.14,
-    "비철금속": 0.21,
-    "고무 및 프라스틱": 0.11,
-    "방직": 0.05,
-    "철강": 0.04,
-    "에너지": 0.10,
-    "농산물 및 부산물": 0.23,
-    "건축자재": 0.12
-  },
-  "chart_sector_map": {
-    "gold": "비철금속",
-    "silver": "비철금속",
-    "copper": "비철금속",
-    "aluminum": "비철금속",
-    "crude_oil": "에너지",
-    "coal": "에너지",
-    "natural_gas": "에너지",
-    "corn": "농산물 및 부산물",
-    "soybean": "농산물 및 부산물",
-    "corn_starch": "농산물 및 부산물",
-    "white_sugar": "농산물 및 부산물",
-    "egg": "농산물 및 부산물",
-    "live_pig": "농산물 및 부산물",
-    "palm_oil": "농산물 및 부산물",
-    "rapeseed_oil": "농산물 및 부산물",
-    "soybean_oil": "농산물 및 부산물"
-  }
+ "note": "업종별 가격 보정 계수(현장 조사 반영). adjusted = raw_price * (1 + pct/100). 같은 업종은 동일 배율이라 변동률(change_pct)은 변하지 않음.",
+ "schema_version": "1.0",
+ "applied_from": "2026-06-08",
+ "factors_pct": {
+  "화학공업": 0.14,
+  "비철금속": 0.21,
+  "고무 및 프라스틱": 0.11,
+  "방직": 0.05,
+  "철강": 0.04,
+  "에너지": 0.1,
+  "농산물 및 부산물": 0.23,
+  "건축자재": 0.12
+ },
+ "chart_sector_map": {
+  "gold": "비철금속",
+  "silver": "비철금속",
+  "copper": "비철금속",
+  "aluminum": "비철금속",
+  "crude_oil": "에너지",
+  "coal": "에너지",
+  "natural_gas": "에너지",
+  "corn": "농산물 및 부산물",
+  "soybean": "농산물 및 부산물",
+  "corn_starch": "농산물 및 부산물",
+  "white_sugar": "농산물 및 부산물",
+  "egg": "농산물 및 부산물",
+  "live_pig": "농산물 및 부산물",
+  "palm_oil": "농산물 및 부산물",
+  "rapeseed_oil": "농산물 및 부산물",
+  "soybean_oil": "농산물 및 부산물"
+ }
 }

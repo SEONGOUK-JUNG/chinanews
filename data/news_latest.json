@@ -1,95 +1,95 @@
 {
-  "run_at_kst": "2026-07-15T07:12:44+09:00",
-  "schema_version": "1.0",
-  "sources": [
-    "mining.com",
-    "OilPrice.com"
-  ],
-  "count": 14,
-  "items": [
-    {
-      "title": "Canada Ties New West Coast Pipeline to Oil Sands Expansion",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Canada-Ties-New-West-Coast-Pipeline-to-Oil-Sands-Expansion.html",
-      "source": "OilPrice",
-      "date": "Tue, 14 Jul 2026 17:00:00 -0500"
-    },
-    {
-      "title": "US Crude Oil, Gasoline Inventories Still Falling",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Gasoline-Inventories-Still-Falling.html",
-      "source": "OilPrice",
-      "date": "Tue, 14 Jul 2026 16:04:18 -0500"
-    },
-    {
-      "title": "Could Geothermal Energy Rescue Germany's Fading Coal Towns?",
-      "link": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Could-Geothermal-Energy-Rescue-Germanys-Fading-Coal-Towns.html",
-      "source": "OilPrice",
-      "date": "Tue, 14 Jul 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Almonty Industries, Global Tungsten expand offtake agreement",
-      "link": "https://www.mining.com/almonty-industries-global-tungsten-expand-offtake-agreement/",
-      "source": "mining.com",
-      "date": "Tue, 14 Jul 2026 20:43:29 +0000"
-    },
-    {
-      "title": "Trump�셲 Hormuz Toll Could Upend Global Energy Trade",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Trumps-Hormuz-Toll-Could-Upend-Global-Energy-Trade.html",
-      "source": "OilPrice",
-      "date": "Tue, 14 Jul 2026 15:00:00 -0500"
-    },
-    {
-      "title": "Alsym Energy, ERITY sign 9 GWh sodium-ion battery deal for mining sector",
-      "link": "https://www.mining.com/alsym-energy-erity-sign-9-gwh-sodium-ion-battery-agreement-for-mining-sector/",
-      "source": "mining.com",
-      "date": "Tue, 14 Jul 2026 19:38:53 +0000"
-    },
-    {
-      "title": "Trump Scraps Hormuz Toll Plan as U.S.-Iran Conflict Deepens",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/Trump-Scraps-Hormuz-Toll-Plan-as-US-Iran-Conflict-Deepens.html",
-      "source": "OilPrice",
-      "date": "Tue, 14 Jul 2026 14:00:00 -0500"
-    },
-    {
-      "title": "Azerbaijan Accelerates Middle Corridor Push With Central Asia Trade Deals",
-      "link": "https://oilprice.com/Geopolitics/Asia/Azerbaijan-Accelerates-Middle-Corridor-Push-With-Central-Asia-Trade-Deals.html",
-      "source": "OilPrice",
-      "date": "Tue, 14 Jul 2026 13:00:00 -0500"
-    },
-    {
-      "title": "Abasca expands Loki graphite resource in Saskatchewan",
-      "link": "https://www.mining.com/abasca-expands-loki-graphite-resource-in-saskatchewan/",
-      "source": "mining.com",
-      "date": "Tue, 14 Jul 2026 17:58:06 +0000"
-    },
-    {
-      "title": "Montage sees Côte d’Ivoire’s Didievi as next gold asset",
-      "link": "https://www.mining.com/montage-sees-cote-divoires-didievi-as-next-gold-asset/",
-      "source": "mining.com",
-      "date": "Tue, 14 Jul 2026 17:57:21 +0000"
-    },
-    {
-      "title": "Dangote's Dollar Shift Reveals Nigeria's Bigger Oil Problem",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Dangotes-Dollar-Shift-Reveals-Nigerias-Bigger-Oil-Problem.html",
-      "source": "OilPrice",
-      "date": "Tue, 14 Jul 2026 12:30:00 -0500"
-    },
-    {
-      "title": "New York Imposes First Ever Moratorium On U.S. Data Centers",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/New-York-Imposes-First-Ever-Moratorium-On-US-Data-Centers.html",
-      "source": "OilPrice",
-      "date": "Tue, 14 Jul 2026 11:30:00 -0500"
-    },
-    {
-      "title": "SuperCritical lands US Gov’t licence for seawater uranium",
-      "link": "https://www.mining.com/supercritical-lands-us-govt-licence-for-seawater-uranium/",
-      "source": "mining.com",
-      "date": "Tue, 14 Jul 2026 14:55:00 +0000"
-    },
-    {
-      "title": "Canadian Copper advances Murray Brook with EIA filing",
-      "link": "https://www.mining.com/canadian-copper-advances-murray-brook-with-eia-filing/",
-      "source": "mining.com",
-      "date": "Tue, 14 Jul 2026 14:05:14 +0000"
-    }
-  ]
+ "run_at_kst": "2026-07-15T10:15:42+09:00",
+ "schema_version": "1.0",
+ "sources": [
+  "mining.com",
+  "OilPrice.com"
+ ],
+ "count": 14,
+ "items": [
+  {
+   "title": "The Next Oil Rally May Depend On China, Not The Middle East",
+   "link": "https://oilprice.com/Energy/Crude-Oil/The-Next-Oil-Rally-May-Depend-On-China-Not-The-Middle-East.html",
+   "source": "OilPrice",
+   "date": "Tue, 14 Jul 2026 19:00:00 -0500"
+  },
+  {
+   "title": "British Columbia issues environmental assessment for Vitreo’s $300M silica sand mine",
+   "link": "https://www.mining.com/british-columbia-issues-environmental-assessment-for-vitreos-300m-silica-sand-mine/",
+   "source": "mining.com",
+   "date": "Tue, 14 Jul 2026 23:39:29 +0000"
+  },
+  {
+   "title": "Bangladesh's Nuclear Power Play Is a Test for Emerging Economies",
+   "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Bangladeshs-Nuclear-Power-Play-Is-a-Test-for-Emerging-Economies.html",
+   "source": "OilPrice",
+   "date": "Tue, 14 Jul 2026 18:00:00 -0500"
+  },
+  {
+   "title": "Canada Ties New West Coast Pipeline to Oil Sands Expansion",
+   "link": "https://oilprice.com/Energy/Crude-Oil/Canada-Ties-New-West-Coast-Pipeline-to-Oil-Sands-Expansion.html",
+   "source": "OilPrice",
+   "date": "Tue, 14 Jul 2026 17:00:00 -0500"
+  },
+  {
+   "title": "US Crude Oil, Gasoline Inventories Still Falling",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Gasoline-Inventories-Still-Falling.html",
+   "source": "OilPrice",
+   "date": "Tue, 14 Jul 2026 16:04:18 -0500"
+  },
+  {
+   "title": "Could Geothermal Energy Rescue Germany's Fading Coal Towns?",
+   "link": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Could-Geothermal-Energy-Rescue-Germanys-Fading-Coal-Towns.html",
+   "source": "OilPrice",
+   "date": "Tue, 14 Jul 2026 16:00:00 -0500"
+  },
+  {
+   "title": "Almonty Industries, Global Tungsten expand offtake agreement",
+   "link": "https://www.mining.com/almonty-industries-global-tungsten-expand-offtake-agreement/",
+   "source": "mining.com",
+   "date": "Tue, 14 Jul 2026 20:43:29 +0000"
+  },
+  {
+   "title": "Trump’s Hormuz Toll Could Upend Global Energy Trade",
+   "link": "https://oilprice.com/Energy/Crude-Oil/Trumps-Hormuz-Toll-Could-Upend-Global-Energy-Trade.html",
+   "source": "OilPrice",
+   "date": "Tue, 14 Jul 2026 15:00:00 -0500"
+  },
+  {
+   "title": "Alsym Energy, ERITY sign 9 GWh sodium-ion battery deal for mining sector",
+   "link": "https://www.mining.com/alsym-energy-erity-sign-9-gwh-sodium-ion-battery-agreement-for-mining-sector/",
+   "source": "mining.com",
+   "date": "Tue, 14 Jul 2026 19:38:53 +0000"
+  },
+  {
+   "title": "Trump Scraps Hormuz Toll Plan as U.S.-Iran Conflict Deepens",
+   "link": "https://oilprice.com/Geopolitics/Middle-East/Trump-Scraps-Hormuz-Toll-Plan-as-US-Iran-Conflict-Deepens.html",
+   "source": "OilPrice",
+   "date": "Tue, 14 Jul 2026 14:00:00 -0500"
+  },
+  {
+   "title": "Azerbaijan Accelerates Middle Corridor Push With Central Asia Trade Deals",
+   "link": "https://oilprice.com/Geopolitics/Asia/Azerbaijan-Accelerates-Middle-Corridor-Push-With-Central-Asia-Trade-Deals.html",
+   "source": "OilPrice",
+   "date": "Tue, 14 Jul 2026 13:00:00 -0500"
+  },
+  {
+   "title": "Abasca expands Loki graphite resource in Saskatchewan",
+   "link": "https://www.mining.com/abasca-expands-loki-graphite-resource-in-saskatchewan/",
+   "source": "mining.com",
+   "date": "Tue, 14 Jul 2026 17:58:06 +0000"
+  },
+  {
+   "title": "Montage sees Côte d’Ivoire’s Didievi as next gold asset",
+   "link": "https://www.mining.com/montage-sees-cote-divoires-didievi-as-next-gold-asset/",
+   "source": "mining.com",
+   "date": "Tue, 14 Jul 2026 17:57:21 +0000"
+  },
+  {
+   "title": "SuperCritical lands US Gov’t licence for seawater uranium",
+   "link": "https://www.mining.com/supercritical-lands-us-govt-licence-for-seawater-uranium/",
+   "source": "mining.com",
+   "date": "Tue, 14 Jul 2026 14:55:00 +0000"
+  }
+ ]
 }
