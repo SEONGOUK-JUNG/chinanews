@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-16T07:10:13.752966+09:00",
+  "run_at_kst": "2026-07-16T10:14:01.506313+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Global Investments In Nuclear Fusion Surge 69% To $4.5B",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Global-Investments-In-Nuclear-Fusion-Surge-69-To-45B.html",
+      "source": "OilPrice",
+      "date": "Wed, 15 Jul 2026 19:00:00 -0500"
+    },
+    {
+      "title": "BHP copper output slips 5% in Q4, flags further decline in Chile",
+      "link": "https://www.mining.com/bhp-copper-output-slips-5-in-q4-flags-further-decline-in-chile/",
+      "source": "mining.com",
+      "date": "Wed, 15 Jul 2026 23:55:52 +0000"
+    },
+    {
+      "title": "As Ukraine Cripples Russian Refining, Global Diesel Markets Pay the Price",
+      "link": "https://oilprice.com/Energy/Crude-Oil/As-Ukraine-Cripples-Russian-Refining-Global-Diesel-Markets-Pay-the-Price.html",
+      "source": "OilPrice",
+      "date": "Wed, 15 Jul 2026 18:00:00 -0500"
+    },
+    {
+      "title": "Glomar Minerals launches new research expedition in Pacific’s Clarion Clipperton Zone",
+      "link": "https://www.mining.com/glomar-minerals-launches-new-research-expedition-in-pacifics-clarion-clipperton-zone/",
+      "source": "mining.com",
+      "date": "Wed, 15 Jul 2026 22:41:08 +0000"
+    },
     {
       "title": "AI Boom Sends U.S. Electricity Demand to New High",
       "link": "https://oilprice.com/Energy/Crude-Oil/AI-Boom-Sends-US-Electricity-Demand-to-New-High.html",
@@ -56,18 +80,6 @@
       "date": "Wed, 15 Jul 2026 13:00:00 -0500"
     },
     {
-      "title": "Critical Data For India's Largest Nuclear Plant Exposed In Massive Breach",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Critical-Data-For-Indias-Largest-Nuclear-Plant-Exposed-In-Massive-Breach.html",
-      "source": "OilPrice",
-      "date": "Wed, 15 Jul 2026 12:30:00 -0500"
-    },
-    {
-      "title": "Five Ways China Is Shielding Itself as the Hormuz Cease-Fire Collapses",
-      "link": "https://oilprice.com/Energy/Energy-General/Five-Ways-China-Is-Shielding-Itself-as-the-Hormuz-Cease-Fire-Collapses.html",
-      "source": "OilPrice",
-      "date": "Wed, 15 Jul 2026 12:00:00 -0500"
-    },
-    {
       "title": "Altius raises $130M after royalty buys",
       "link": "https://www.mining.com/altius-raises-130m-after-royalty-buys/",
       "source": "mining.com",
@@ -78,18 +90,6 @@
       "link": "https://www.mining.com/greenland-mines-lifts-contained-pgm-by-31-at-skaergaard/",
       "source": "mining.com",
       "date": "Wed, 15 Jul 2026 16:18:40 +0000"
-    },
-    {
-      "title": "Mining companies are on their own in the Sahel, says risk analyst",
-      "link": "https://www.mining.com/mining-companies-are-on-their-own-in-the-sahel-says-risk-analyst/",
-      "source": "mining.com",
-      "date": "Wed, 15 Jul 2026 15:51:55 +0000"
-    },
-    {
-      "title": "Revival Gold drills shallow gold at Mercur project in Utah",
-      "link": "https://www.mining.com/revival-gold-drills-shallow-gold-at-mercur-project-in-utah/",
-      "source": "mining.com",
-      "date": "Wed, 15 Jul 2026 14:09:51 +0000"
     }
   ]
 }
