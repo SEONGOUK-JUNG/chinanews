@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-16T14:11:08.697929+09:00",
+  "run_at_kst": "2026-07-16T20:19:55.461467+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
+      "title": "TotalEnergies Sees Stronger Q2 Profit as Refining and Oil Trading Surge",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-Sees-Stronger-Q2-Profit-as-Refining-and-Oil-Trading-Surge.html",
+      "source": "OilPrice",
+      "date": "Thu, 16 Jul 2026 05:30:00 -0500"
+    },
+    {
+      "title": "India Urges Shipowners to Avoid Deploying Nationals on Hormuz Voyages",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Urges-Shipowners-to-Avoid-Deploying-Nationals-on-Hormuz-Voyages.html",
+      "source": "OilPrice",
+      "date": "Thu, 16 Jul 2026 04:30:00 -0500"
+    },
+    {
+      "title": "India Hikes Diesel and Jet Fuel Export Tax",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Hikes-Diesel-and-Jet-Fuel-Export-Tax.html",
+      "source": "OilPrice",
+      "date": "Thu, 16 Jul 2026 03:30:00 -0500"
+    },
+    {
+      "title": "IEA Warns World Has Just Weeks to Avoid Hormuz Economic Shock",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Warns-World-Has-Just-Weeks-to-Avoid-Hormuz-Economic-Shock.html",
+      "source": "OilPrice",
+      "date": "Thu, 16 Jul 2026 02:30:00 -0500"
+    },
+    {
+      "title": "U.S. Strikes Iran-Linked Tanker Near Kharg Island",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Strikes-Iran-Linked-Tanker-Near-Kharg-Island.html",
+      "source": "OilPrice",
+      "date": "Thu, 16 Jul 2026 00:48:03 -0500"
+    },
+    {
       "title": "Global Investments In Nuclear Fusion Surge 69% To $4.5B",
       "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Global-Investments-In-Nuclear-Fusion-Surge-69-To-45B.html",
-      "date": "Wed, 15 Jul 2026 19:00:00 -0500",
-      "source": "OilPrice"
+      "source": "OilPrice",
+      "date": "Wed, 15 Jul 2026 19:00:00 -0500"
     },
     {
       "title": "BHP copper output slips 5% in Q4, flags further decline in Chile",
       "link": "https://www.mining.com/bhp-copper-output-slips-5-in-q4-flags-further-decline-in-chile/",
-      "date": "Wed, 15 Jul 2026 23:55:52 +0000",
-      "source": "mining.com"
+      "source": "mining.com",
+      "date": "Wed, 15 Jul 2026 23:55:52 +0000"
     },
     {
       "title": "As Ukraine Cripples Russian Refining, Global Diesel Markets Pay the Price",
       "link": "https://oilprice.com/Energy/Crude-Oil/As-Ukraine-Cripples-Russian-Refining-Global-Diesel-Markets-Pay-the-Price.html",
-      "date": "Wed, 15 Jul 2026 18:00:00 -0500",
-      "source": "OilPrice"
+      "source": "OilPrice",
+      "date": "Wed, 15 Jul 2026 18:00:00 -0500"
     },
     {
       "title": "Glomar Minerals launches new research expedition in Pacific’s Clarion Clipperton Zone",
       "link": "https://www.mining.com/glomar-minerals-launches-new-research-expedition-in-pacifics-clarion-clipperton-zone/",
-      "date": "Wed, 15 Jul 2026 22:41:08 +0000",
-      "source": "mining.com"
+      "source": "mining.com",
+      "date": "Wed, 15 Jul 2026 22:41:08 +0000"
     },
     {
       "title": "AI Boom Sends U.S. Electricity Demand to New High",
       "link": "https://oilprice.com/Energy/Crude-Oil/AI-Boom-Sends-US-Electricity-Demand-to-New-High.html",
-      "date": "Wed, 15 Jul 2026 17:00:00 -0500",
-      "source": "OilPrice"
+      "source": "OilPrice",
+      "date": "Wed, 15 Jul 2026 17:00:00 -0500"
     },
     {
       "title": "University of Missouri-Kansas City’s Critical Materials Crossroads Engine awarded $160M",
       "link": "https://www.mining.com/university-of-missouri-kansas-citys-critical-materials-crossroads-engine-awarded-160m/",
-      "date": "Wed, 15 Jul 2026 21:24:31 +0000",
-      "source": "mining.com"
-    },
-    {
-      "title": "Five Oil and Gas Stocks Ready for a Hormuz Spike and a Hawkish Fed",
-      "link": "https://oilprice.com/Energy/Energy-General/Five-Oil-and-Gas-Stocks-Ready-for-a-Hormuz-Spike-and-a-Hawkish-Fed.html",
-      "date": "Wed, 15 Jul 2026 16:00:00 -0500",
-      "source": "OilPrice"
-    },
-    {
-      "title": "US Strikes Iran Again as Brent Slips Despite Escalating Conflict",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Strikes-Iran-Again-as-Brent-Slips-Despite-Escalating-Conflict.html",
-      "date": "Wed, 15 Jul 2026 15:30:00 -0500",
-      "source": "OilPrice"
-    },
-    {
-      "title": "China Just Connected the World's Biggest Hybrid Solar Plant to the Grid",
-      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/China-Just-Connected-the-Worlds-Biggest-Hybrid-Solar-Plant-to-the-Grid.html",
-      "date": "Wed, 15 Jul 2026 15:00:00 -0500",
-      "source": "OilPrice"
+      "source": "mining.com",
+      "date": "Wed, 15 Jul 2026 21:24:31 +0000"
     },
     {
       "title": "Cameco restarts Cigar Lake uranium mine",
       "link": "https://www.mining.com/cameco-restarts-cigar-lake-uranium-mine/",
-      "date": "Wed, 15 Jul 2026 19:24:01 +0000",
-      "source": "mining.com"
-    },
-    {
-      "title": "World-First Floating Wind Technology to Help Power Oil Rigs",
-      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/World-First-Floating-Wind-Technology-to-Help-Power-Oil-Rigs.html",
-      "date": "Wed, 15 Jul 2026 14:00:00 -0500",
-      "source": "OilPrice"
-    },
-    {
-      "title": "China Expands Energy and Trade Partnerships in Central Asia",
-      "link": "https://oilprice.com/Energy/Energy-General/China-Expands-Energy-and-Trade-Partnerships-in-Central-Asia.html",
-      "date": "Wed, 15 Jul 2026 13:00:00 -0500",
-      "source": "OilPrice"
+      "source": "mining.com",
+      "date": "Wed, 15 Jul 2026 19:24:01 +0000"
     },
     {
       "title": "Altius raises $130M after royalty buys",
       "link": "https://www.mining.com/altius-raises-130m-after-royalty-buys/",
-      "date": "Wed, 15 Jul 2026 16:41:30 +0000",
-      "source": "mining.com"
+      "source": "mining.com",
+      "date": "Wed, 15 Jul 2026 16:41:30 +0000"
     },
     {
       "title": "Greenland Mines lifts contained PGM by 31% at Skaergaard",
       "link": "https://www.mining.com/greenland-mines-lifts-contained-pgm-by-31-at-skaergaard/",
-      "date": "Wed, 15 Jul 2026 16:18:40 +0000",
-      "source": "mining.com"
+      "source": "mining.com",
+      "date": "Wed, 15 Jul 2026 16:18:40 +0000"
     }
   ]
 }
