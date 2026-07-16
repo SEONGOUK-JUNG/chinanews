@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-07-16T10:06:38.606883+09:00",
+  "updated_at_kst": "2026-07-16T14:09:51.752192+09:00",
   "ref_date": "2026-07-15",
   "schema_version": "1.0",
   "adjustment_applied": true,
@@ -2518,6 +2518,13 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "무수 아세산 나트륨",
+      "sector": "화학공업",
+      "price_prev": 5972.64,
+      "price_today": 5972.64,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "3,5-다이클로로아닐린",
       "sector": "화학공업",
       "price_prev": 82615.5,
@@ -2978,6 +2985,13 @@
       "price_prev": 3006.9,
       "price_today": 2996.88,
       "change_pct": -0.33
+    },
+    {
+      "display_name": "디글리콜",
+      "sector": "화학공업",
+      "price_prev": 9246.26,
+      "price_today": 9212.88,
+      "change_pct": -0.36
     },
     {
       "display_name": "생 돼지",
