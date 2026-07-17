@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-17T14:10:34.598977+09:00",
+  "run_at_kst": "2026-07-17T20:21:11.362258+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Japan's LNG Giant Weighs U.S. IPO to Accelerate Global Expansion",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japans-LNG-Giant-Weighs-US-IPO-to-Accelerate-Global-Expansion.html",
+      "source": "OilPrice",
+      "date": "Fri, 17 Jul 2026 05:30:00 -0500"
+    },
+    {
+      "title": "Libya Declares Major Oil Discovery Commercial as Production Revival Gains Pace",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Libya-Declares-Major-Oil-Discovery-Commercial-as-Production-Revival-Gains-Pace.html",
+      "source": "OilPrice",
+      "date": "Fri, 17 Jul 2026 04:30:00 -0500"
+    },
+    {
+      "title": "Iran-Linked LPG Tankers Turn Back as U.S. Blockade Tightens",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Linked-LPG-Tankers-Turn-Back-as-US-Blockade-Tightens.html",
+      "source": "OilPrice",
+      "date": "Fri, 17 Jul 2026 03:30:00 -0500"
+    },
+    {
+      "title": "Pakistan Plans Fresh LNG Purchases Amid Strait of Hormuz Shutdown",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Plans-Fresh-LNG-Purchases-Amid-Strait-of-Hormuz-Shutdown.html",
+      "source": "OilPrice",
+      "date": "Fri, 17 Jul 2026 02:30:00 -0500"
+    },
+    {
+      "title": "Oil Prices Set for Biggest Weekly Surge Since April as Iran War Escalates",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Set-for-Biggest-Weekly-Surge-Since-April-as-Iran-War-Escalates.html",
+      "source": "OilPrice",
+      "date": "Fri, 17 Jul 2026 00:41:26 -0500"
+    },
     {
       "title": "Copper price slides as monster storm bears down on Chile and Iran flare-up rattles metals",
       "link": "https://www.mining.com/monster-storm-bears-down-on-chiles-copper-mines-as-iran-flare-up-rattles-metals/",
@@ -48,36 +78,6 @@
       "link": "https://oilprice.com/Energy/Crude-Oil/India-South-Africa-To-Boost-Their-Strategic-Petroleum-Reserves.html",
       "source": "OilPrice",
       "date": "Thu, 16 Jul 2026 17:00:00 -0500"
-    },
-    {
-      "title": "IEA Predicts First Decrease in Global Oil Demand Since 2020",
-      "link": "https://oilprice.com/Energy/Crude-Oil/IEA-Predicts-First-Decrease-in-Global-Oil-Demand-Since-2020.html",
-      "source": "OilPrice",
-      "date": "Thu, 16 Jul 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Chevron Moves Closer to Iraq's Biggest Oil Prize — and a Hormuz Exit Strategy",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-Moves-Closer-to-Iraqs-Biggest-Oil-Prizeand-a-Hormuz-Exit-Strategy.html",
-      "source": "OilPrice",
-      "date": "Thu, 16 Jul 2026 15:30:00 -0500"
-    },
-    {
-      "title": "Yemen's Houthis Threaten New Oil Shock as Civil War Reignites",
-      "link": "https://oilprice.com/Energy/Energy-General/Yemens-Houthis-Threaten-New-Oil-Shock-as-Civil-War-Reignites.html",
-      "source": "OilPrice",
-      "date": "Thu, 16 Jul 2026 15:00:00 -0500"
-    },
-    {
-      "title": "Eni CEO: Big Oil Bets on Southeast Asia and Latin America",
-      "link": "https://oilprice.com/Energy/Energy-General/Eni-CEO-Big-Oil-Bets-on-Southeast-Asia-and-Latin-America.html",
-      "source": "OilPrice",
-      "date": "Thu, 16 Jul 2026 14:00:00 -0500"
-    },
-    {
-      "title": "Government Takes Control of British Steel, Citing National Interest",
-      "link": "https://oilprice.com/Metals/Commodities/Government-Takes-Control-of-British-Steel-Citing-National-Interest.html",
-      "source": "OilPrice",
-      "date": "Thu, 16 Jul 2026 13:00:00 -0500"
     },
     {
       "title": "Copper price: BMI hikes forecasts – structural deficits to bring $17,000 next decade",
