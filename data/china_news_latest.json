@@ -1,27 +1,21 @@
 {
-  "run_at_kst": "2026-07-17T10:11:10.726332+09:00",
+  "run_at_kst": "2026-07-17T14:13:03.983361+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "중국 부채 증가속도 세계 최고[글로벌 모닝 브리핑]",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kMnRyb0NuN3ZxWnFEWnYwc0xTRmpZOThLVW56bTJJY01HdEZLcnBxUlhyLWJSMUVITl90NmpJbnBCdFhkNEYwbUJHRUxhSkVsUWfSAVNBVV95cUxPUy1YWHhRNVBOVjdiRkxCM2pjZU4yUFNOampja0Q4WVFEMmg1YlcyYWRQWHNkcnpzeXgwMkFhME5FRE56QS1icmJJdFppZHoyQllLZw?oc=5",
+      "source": "서울경제",
+      "date": "Thu, 16 Jul 2026 21:00:00 GMT"
+    },
+    {
       "title": "중국, 수출 호황에도 내수 침체…장기 성장률 4%대 전망",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SWk5MajZpVDRhd1IxQjBsaDQyTnByY2YzUzdqODZmXzlDd0lWYmxzdzB3NFEyT0JhcDlPNnVxUkR1TkZrbjc2a0NMTnRfVlJpM3ZIU0g0M1ZQS2NpMVJYZjMzTFpFbWR4b2lnYw?oc=5",
       "source": "재외동포신문",
       "date": "Thu, 16 Jul 2026 15:22:46 GMT"
-    },
-    {
-      "title": "중국 경제 흔들리자 베트남 공장도 ‘경고등’…차이나+1의 숨은 공급망",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XMFJXUVBOdVppTU5uZ2gxblNLc1dWQVVyWUEzenE4N3ZZd196UFIzc3FoTG1kZllPdVJFYUM0QXNBOFVjcjB2Wml2dFllcmJIbU40RW5HNTVmTmVjOVZIMGpURUNuTmfSAWtBVV95cUxNd1RzWE5LTVdVeklnUUdqczcxdkd2SUhJbGJsRXlDNFlzU2l4cDBsdnE0NFJlRk96OFE0QWgyNkp0aTZMOHZkX1ZyVWx2VGl2a0NjVXBmVmxhWFFvM1dKX3BTTmZubUVzeXBHTQ?oc=5",
-      "source": "한국관세신문",
-      "date": "Thu, 16 Jul 2026 06:49:52 GMT"
-    },
-    {
-      "title": "AI 중국경제에 새바람, 생산·투자·수출 전방위 '신성장 동력'",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MUjRDRk9KejZfOGQ4MkgyX29BZkpPOTl3UnFSNUhZZk42ZjRDZ095ZGNNY19Wc1NaN3p3cG9Jc2ZkT3ZjdEwxMDdDTnp4WHFydjBrQ2N1WXlGelo2?oc=5",
-      "source": "뉴스핌",
-      "date": "Thu, 16 Jul 2026 05:22:00 GMT"
     },
     {
       "title": "중국 상반기 경제 성적표는?…스스로 인정한 “강 공급, 약 수요의 모순”",
@@ -46,6 +40,12 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oMHRCakwzd2pwRkpxRV9zcy1TMkpXa1lNN2dlZVdhaFdVRGtSNjFOTGZ5dThmaWFPbU5idFp1eGJFUm1zbks4anJrSUZOd1puSkxFRWYzWUs0UlQ5bExWQmZXUFBEcnp5di1fNTV0YnA?oc=5",
       "source": "Investing.com 한국어",
       "date": "Wed, 15 Jul 2026 06:12:00 GMT"
+    },
+    {
+      "title": "중국 상반기 경제 성적표는?…스스로 인정한 “강 공급, 약 수요의 모순”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxZTc2YWRuOWhXd25Lbld0b1cxdTVYZFQ2bzl6cl9COXlJUng3czh4bEhYcWkxaldOWHNoUF9wQURBeEZVTkFMRHhlWF9SUExOZEg3cl9ESUFFM1U?oc=5",
+      "source": "KBS 뉴스",
+      "date": "Wed, 15 Jul 2026 05:48:28 GMT"
     },
     {
       "title": "[그래픽] 중국 경제성장률 추이",
