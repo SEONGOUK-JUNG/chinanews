@@ -1,6 +1,6 @@
 {
-  "updated_at_kst": "2026-07-07T14:38:09+09:00",
-  "as_of": "2026-07-07",
+  "updated_at_kst": "2026-07-18T08:03:24+09:00",
+  "as_of": "2026-07-18",
   "source": "Trading Economics",
   "source_url": "https://tradingeconomics.com/china/indicators",
   "note": "통화·금리·부동산 지표. 출처 Trading Economics(중국). 각 카드의 기준시점 표기 참조.",
@@ -23,49 +23,49 @@
       "display": "1.73%",
       "ref": "현재(7월)",
       "ref_en": "current (Jul)",
-      "hint": "완화여력 축소 신호",
-      "hint_en": "less easing room"
+      "hint": "정책지원 기대에 1주 최저",
+      "hint_en": "one-week low on stimulus bets"
     },
     {
       "label": "SHIBOR 3개월",
       "label_en": "SHIBOR 3M",
       "value": 1.43,
-      "previous": 1.41,
+      "previous": 1.43,
       "display": "1.43%",
       "ref": "현재(7월)",
       "ref_en": "current (Jul)",
-      "hint": "은행간 단기금리",
-      "hint_en": "interbank rate"
+      "hint": "은행간 단기금리·보합",
+      "hint_en": "interbank rate, unchanged"
     },
     {
       "label": "통화량 M2 (YoY)",
       "label_en": "M2 Money Supply (YoY)",
-      "value": 8.6,
-      "previous": 8.5,
-      "display": "+8.6%",
-      "ref": "2026-05",
-      "hint": "CNY 353.67조",
-      "hint_en": "CNY 353.67T"
+      "value": 8.0,
+      "previous": 8.6,
+      "display": "+8.0%",
+      "ref": "2026-06",
+      "hint": "CNY 356.71조",
+      "hint_en": "CNY 356.71T"
     },
     {
       "label": "위안화 대출증가율 (YoY)",
       "label_en": "Yuan Loan Growth (YoY)",
-      "value": 5.5,
-      "previous": 5.6,
-      "display": "+5.5%",
-      "ref": "2026-05",
-      "hint": "대출잔액 증가율",
-      "hint_en": "outstanding loans"
+      "value": 5.2,
+      "previous": 5.5,
+      "display": "+5.2%",
+      "ref": "2026-06",
+      "hint": "대출잔액 증가율·사상 최저",
+      "hint_en": "outstanding loans, record low"
     },
     {
       "label": "70개도시 신규주택가격 (YoY)",
       "label_en": "70-City New Home Prices (YoY)",
-      "value": -3.5,
+      "value": -3.3,
       "previous": -3.5,
-      "display": "-3.5%",
-      "ref": "2026-05",
-      "hint": "35개월 연속 하락",
-      "hint_en": "35 months of declines"
+      "display": "-3.3%",
+      "ref": "2026-06",
+      "hint": "36개월 연속 하락",
+      "hint_en": "36 months of declines"
     }
   ]
 }
