@@ -1,95 +1,95 @@
 {
-  "run_at_kst": "2026-07-17T20:21:11.362258+09:00",
-  "schema_version": "1.0",
-  "sources": [
-    "mining.com",
-    "OilPrice.com"
-  ],
-  "count": 14,
-  "items": [
-    {
-      "title": "Japan's LNG Giant Weighs U.S. IPO to Accelerate Global Expansion",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japans-LNG-Giant-Weighs-US-IPO-to-Accelerate-Global-Expansion.html",
-      "source": "OilPrice",
-      "date": "Fri, 17 Jul 2026 05:30:00 -0500"
-    },
-    {
-      "title": "Libya Declares Major Oil Discovery Commercial as Production Revival Gains Pace",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Libya-Declares-Major-Oil-Discovery-Commercial-as-Production-Revival-Gains-Pace.html",
-      "source": "OilPrice",
-      "date": "Fri, 17 Jul 2026 04:30:00 -0500"
-    },
-    {
-      "title": "Iran-Linked LPG Tankers Turn Back as U.S. Blockade Tightens",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Linked-LPG-Tankers-Turn-Back-as-US-Blockade-Tightens.html",
-      "source": "OilPrice",
-      "date": "Fri, 17 Jul 2026 03:30:00 -0500"
-    },
-    {
-      "title": "Pakistan Plans Fresh LNG Purchases Amid Strait of Hormuz Shutdown",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Plans-Fresh-LNG-Purchases-Amid-Strait-of-Hormuz-Shutdown.html",
-      "source": "OilPrice",
-      "date": "Fri, 17 Jul 2026 02:30:00 -0500"
-    },
-    {
-      "title": "Oil Prices Set for Biggest Weekly Surge Since April as Iran War Escalates",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Set-for-Biggest-Weekly-Surge-Since-April-as-Iran-War-Escalates.html",
-      "source": "OilPrice",
-      "date": "Fri, 17 Jul 2026 00:41:26 -0500"
-    },
-    {
-      "title": "Copper price slides as monster storm bears down on Chile and Iran flare-up rattles metals",
-      "link": "https://www.mining.com/monster-storm-bears-down-on-chiles-copper-mines-as-iran-flare-up-rattles-metals/",
-      "source": "mining.com",
-      "date": "Fri, 17 Jul 2026 00:43:48 +0000"
-    },
-    {
-      "title": "The No.1 Commodity Story of the Year Is Flying Under Wall Street's Radar",
-      "link": "https://oilprice.com/Energy/Energy-General/The-No1-Commodity-Story-of-the-Year-Is-Flying-Under-Wall-Streets-Radar.html",
-      "source": "OilPrice",
-      "date": "Thu, 16 Jul 2026 19:00:00 -0500"
-    },
-    {
-      "title": "Canada’s first diamond mine to shut down",
-      "link": "https://www.mining.com/canadas-first-diamond-mine-to-shut-down/",
-      "source": "mining.com",
-      "date": "Thu, 16 Jul 2026 23:01:54 +0000"
-    },
-    {
-      "title": "China Could Be About to Remove Oil's Biggest Safety Net",
-      "link": "https://oilprice.com/Energy/Crude-Oil/China-Could-Be-About-to-Remove-Oils-Biggest-Safety-Net.html",
-      "source": "OilPrice",
-      "date": "Thu, 16 Jul 2026 18:00:00 -0500"
-    },
-    {
-      "title": "Acid test: IEA warns copper supply outlook has “worsened considerably”",
-      "link": "https://www.mining.com/acid-test-iea-warns-copper-supply-outlook-has-worsened-considerably/",
-      "source": "mining.com",
-      "date": "Thu, 16 Jul 2026 22:08:27 +0000"
-    },
-    {
-      "title": "Hitachi Machinery, Pronto sign mine automation solutions MoU",
-      "link": "https://www.mining.com/hitachi-machinery-pronto-sign-mine-automation-solutions-mou/",
-      "source": "mining.com",
-      "date": "Thu, 16 Jul 2026 22:01:27 +0000"
-    },
-    {
-      "title": "India, South Africa To Boost Their Strategic Petroleum Reserves",
-      "link": "https://oilprice.com/Energy/Crude-Oil/India-South-Africa-To-Boost-Their-Strategic-Petroleum-Reserves.html",
-      "source": "OilPrice",
-      "date": "Thu, 16 Jul 2026 17:00:00 -0500"
-    },
-    {
-      "title": "Copper price: BMI hikes forecasts – structural deficits to bring $17,000 next decade",
-      "link": "https://www.mining.com/copper-price-bmi-hikes-forecasts-structural-deficits-to-bring-17000-next-decade/",
-      "source": "mining.com",
-      "date": "Thu, 16 Jul 2026 17:55:50 +0000"
-    },
-    {
-      "title": "Assays hint at size, depth of Onyx Gold’s Argus system",
-      "link": "https://www.mining.com/assays-hint-at-size-depth-of-onyx-golds-argus-system/",
-      "source": "mining.com",
-      "date": "Thu, 16 Jul 2026 16:14:51 +0000"
-    }
-  ]
+ "run_at_kst": "2026-07-18T07:07:10+09:00",
+ "schema_version": "1.0",
+ "sources": [
+  "mining.com",
+  "OilPrice.com"
+ ],
+ "count": 14,
+ "items": [
+  {
+   "title": "BC, Simpcw First Nation sign consent agreement for Trekor Metals’ Yellowhead copper project",
+   "link": "https://www.mining.com/bc-simpcw-first-nation-sign-consent-agreement-for-trekor-metals-yellowhead-copper-project/",
+   "source": "mining.com",
+   "date": "Fri, 17 Jul 2026 20:29:37 +0000"
+  },
+  {
+   "title": "Colombia's New Government Prepares Fossil Fuel Comeback",
+   "link": "https://oilprice.com/Energy/Energy-General/Colombias-New-Government-Prepares-Fossil-Fuel-Comeback.html",
+   "source": "OilPrice",
+   "date": "Fri, 17 Jul 2026 15:00:00 -0500"
+  },
+  {
+   "title": "Rule Symposium Video: Mining M&A wave seen building",
+   "link": "https://www.mining.com/rule-symposium-video-mining-ma-wave-seen-building/",
+   "source": "mining.com",
+   "date": "Fri, 17 Jul 2026 19:53:27 +0000"
+  },
+  {
+   "title": "India Proposes Stricter Vehicle Emission Rules To Cut Oil Consumption",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Proposes-Stricter-Vehicle-Emission-Rules-To-Cut-Oil-Consumption.html",
+   "source": "OilPrice",
+   "date": "Fri, 17 Jul 2026 13:30:00 -0500"
+  },
+  {
+   "title": "New Jersey Bets Big on Small Nuclear Reactors",
+   "link": "https://oilprice.com/Energy/Energy-General/New-Jersey-Bets-Big-on-Small-Nuclear-Reactors.html",
+   "source": "OilPrice",
+   "date": "Fri, 17 Jul 2026 13:00:00 -0500"
+  },
+  {
+   "title": "BP, ConocoPhillips Partner In Iraq's Giant Oilfield",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/BP-ConocoPhillips-Partner-In-Iraqs-Giant-Oilfield.html",
+   "source": "OilPrice",
+   "date": "Fri, 17 Jul 2026 12:30:00 -0500"
+  },
+  {
+   "title": "US Oil Drilling Picks Up As Brent Gains 4%",
+   "link": "https://oilprice.com/Energy/Energy-General/US-Oil-Drilling-Picks-Up-As-Brent-Gains-4.html",
+   "source": "OilPrice",
+   "date": "Fri, 17 Jul 2026 12:27:07 -0500"
+  },
+  {
+   "title": "US widens lead over Europe in critical minerals race: WSJ",
+   "link": "https://www.mining.com/us-widens-lead-over-europe-in-critical-minerals-race-wsj/",
+   "source": "mining.com",
+   "date": "Fri, 17 Jul 2026 17:17:35 +0000"
+  },
+  {
+   "title": "Gold demand in China at decade low in June, WGC says",
+   "link": "https://www.mining.com/gold-demand-in-china-at-decade-low-in-june-wgc-says/",
+   "source": "mining.com",
+   "date": "Fri, 17 Jul 2026 17:16:57 +0000"
+  },
+  {
+   "title": "CHART: Gold price holds $4,000 as mining stocks bear the brunt",
+   "link": "https://www.mining.com/chart-gold-price-holds-4000-as-mining-stocks-bear-the-brunt/",
+   "source": "mining.com",
+   "date": "Fri, 17 Jul 2026 16:50:40 +0000"
+  },
+  {
+   "title": "Jeff Currie: Illusion of Oil Abundance Is Gone",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Jeff-Currie-Illusion-of-Oil-Abundance-Is-Gone.html",
+   "source": "OilPrice",
+   "date": "Fri, 17 Jul 2026 11:30:00 -0500"
+  },
+  {
+   "title": "Oil Markets Ignore Mounting Risks at Their Own Peril",
+   "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Markets-Ignore-Mounting-Risks-at-Their-Own-Peril.html",
+   "source": "OilPrice",
+   "date": "Fri, 17 Jul 2026 11:19:00 -0500"
+  },
+  {
+   "title": "AI emerges as new driver of rare earth demand, Sprott says",
+   "link": "https://www.mining.com/ai-emerges-as-new-driver-of-rare-earth-demand-sprott-says/",
+   "source": "mining.com",
+   "date": "Fri, 17 Jul 2026 15:45:00 +0000"
+  },
+  {
+   "title": "Op-Ed: The Arctic won’t save the energy transition",
+   "link": "https://www.mining.com/op-ed-the-arctic-wont-save-the-energy-transition/",
+   "source": "mining.com",
+   "date": "Fri, 17 Jul 2026 15:17:00 +0000"
+  }
+ ]
 }
