@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-17T07:14:13.963416+09:00",
+  "run_at_kst": "2026-07-17T10:11:10.726332+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
+      "title": "Copper price slides as monster storm bears down on Chile and Iran flare-up rattles metals",
+      "link": "https://www.mining.com/monster-storm-bears-down-on-chiles-copper-mines-as-iran-flare-up-rattles-metals/",
+      "date": "Fri, 17 Jul 2026 00:43:48 +0000",
+      "source": "mining.com"
+    },
+    {
+      "title": "The No.1 Commodity Story of the Year Is Flying Under Wall Street’s Radar",
+      "link": "https://oilprice.com/Energy/Energy-General/The-No1-Commodity-Story-of-the-Year-Is-Flying-Under-Wall-Streets-Radar.html",
+      "date": "Thu, 16 Jul 2026 19:00:00 -0500",
+      "source": "OilPrice"
+    },
+    {
+      "title": "Canada’s first diamond mine to shut down",
+      "link": "https://www.mining.com/canadas-first-diamond-mine-to-shut-down/",
+      "date": "Thu, 16 Jul 2026 23:01:54 +0000",
+      "source": "mining.com"
+    },
+    {
+      "title": "China Could Be About to Remove Oil's Biggest Safety Net",
+      "link": "https://oilprice.com/Energy/Crude-Oil/China-Could-Be-About-to-Remove-Oils-Biggest-Safety-Net.html",
+      "date": "Thu, 16 Jul 2026 18:00:00 -0500",
+      "source": "OilPrice"
+    },
+    {
+      "title": "Acid test: IEA warns copper supply outlook has “worsened considerably”",
+      "link": "https://www.mining.com/acid-test-iea-warns-copper-supply-outlook-has-worsened-considerably/",
+      "date": "Thu, 16 Jul 2026 22:08:27 +0000",
+      "source": "mining.com"
+    },
+    {
+      "title": "Hitachi Machinery, Pronto sign mine automation solutions MoU",
+      "link": "https://www.mining.com/hitachi-machinery-pronto-sign-mine-automation-solutions-mou/",
+      "date": "Thu, 16 Jul 2026 22:01:27 +0000",
+      "source": "mining.com"
+    },
+    {
       "title": "India, South Africa To Boost Their Strategic Petroleum Reserves",
       "link": "https://oilprice.com/Energy/Crude-Oil/India-South-Africa-To-Boost-Their-Strategic-Petroleum-Reserves.html",
-      "source": "OilPrice",
-      "date": "Thu, 16 Jul 2026 17:00:00 -0500"
+      "date": "Thu, 16 Jul 2026 17:00:00 -0500",
+      "source": "OilPrice"
     },
     {
       "title": "IEA Predicts First Decrease in Global Oil Demand Since 2020",
       "link": "https://oilprice.com/Energy/Crude-Oil/IEA-Predicts-First-Decrease-in-Global-Oil-Demand-Since-2020.html",
-      "source": "OilPrice",
-      "date": "Thu, 16 Jul 2026 16:00:00 -0500"
+      "date": "Thu, 16 Jul 2026 16:00:00 -0500",
+      "source": "OilPrice"
     },
     {
-      "title": "Chevron Moves Closer to Iraq’s Biggest Oil Prize—and a Hormuz Exit Strategy",
+      "title": "Chevron Moves Closer to Iraq's Biggest Oil Prize—and a Hormuz Exit Strategy",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-Moves-Closer-to-Iraqs-Biggest-Oil-Prizeand-a-Hormuz-Exit-Strategy.html",
-      "source": "OilPrice",
-      "date": "Thu, 16 Jul 2026 15:30:00 -0500"
+      "date": "Thu, 16 Jul 2026 15:30:00 -0500",
+      "source": "OilPrice"
     },
     {
-      "title": "Yemen’s Houthis Threaten New Oil Shock as Civil War Reignites",
+      "title": "Yemen's Houthis Threaten New Oil Shock as Civil War Reignites",
       "link": "https://oilprice.com/Energy/Energy-General/Yemens-Houthis-Threaten-New-Oil-Shock-as-Civil-War-Reignites.html",
-      "source": "OilPrice",
-      "date": "Thu, 16 Jul 2026 15:00:00 -0500"
+      "date": "Thu, 16 Jul 2026 15:00:00 -0500",
+      "source": "OilPrice"
     },
     {
       "title": "Eni CEO: Big Oil Bets on Southeast Asia and Latin America",
       "link": "https://oilprice.com/Energy/Energy-General/Eni-CEO-Big-Oil-Bets-on-Southeast-Asia-and-Latin-America.html",
-      "source": "OilPrice",
-      "date": "Thu, 16 Jul 2026 14:00:00 -0500"
+      "date": "Thu, 16 Jul 2026 14:00:00 -0500",
+      "source": "OilPrice"
     },
     {
       "title": "Government Takes Control of British Steel, Citing National Interest",
       "link": "https://oilprice.com/Metals/Commodities/Government-Takes-Control-of-British-Steel-Citing-National-Interest.html",
-      "source": "OilPrice",
-      "date": "Thu, 16 Jul 2026 13:00:00 -0500"
+      "date": "Thu, 16 Jul 2026 13:00:00 -0500",
+      "source": "OilPrice"
     },
     {
-      "title": "EU Sets Target To Double Electrification Rate, Cut Oil & Gas Use",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Sets-Target-To-Double-Electrification-Rate-Cut-Oil-Gas-Use.html",
-      "source": "OilPrice",
-      "date": "Thu, 16 Jul 2026 12:30:00 -0500"
+      "title": "Copper price: BMI hikes forecasts – structural deficits to bring $17,000 next decade",
+      "link": "https://www.mining.com/copper-price-bmi-hikes-forecasts-structural-deficits-to-bring-17000-next-decade/",
+      "date": "Thu, 16 Jul 2026 17:55:50 +0000",
+      "source": "mining.com"
     },
     {
-      "title": "India Is Becoming the World’s Refining Swing Producer",
-      "link": "https://oilprice.com/Energy/Crude-Oil/India-Is-Becoming-the-Worlds-Refining-Swing-Producer.html",
-      "source": "OilPrice",
-      "date": "Thu, 16 Jul 2026 12:00:00 -0500"
-    },
-    {
-      "title": "Almonty Industries, Global Tungsten expand offtake agreement",
-      "link": "https://www.mining.com/almonty-industries-global-tungsten-expand-offtake-agreement/",
-      "source": "mining.com",
-      "date": "Tue, 14 Jul 2026 20:43:29 +0000"
-    },
-    {
-      "title": "Alsym Energy, ERITY sign 9 GWh sodium-ion battery deal for mining sector",
-      "link": "https://www.mining.com/alsym-energy-erity-sign-9-gwh-sodium-ion-battery-agreement-for-mining-sector/",
-      "source": "mining.com",
-      "date": "Tue, 14 Jul 2026 19:38:53 +0000"
-    },
-    {
-      "title": "Abasca expands Loki graphite resource in Saskatchewan",
-      "link": "https://www.mining.com/abasca-expands-loki-graphite-resource-in-saskatchewan/",
-      "source": "mining.com",
-      "date": "Tue, 14 Jul 2026 17:58:06 +0000"
-    },
-    {
-      "title": "Montage sees Côte d’Ivoire’s Didievi as next gold asset",
-      "link": "https://www.mining.com/montage-sees-cote-divoires-didievi-as-next-gold-asset/",
-      "source": "mining.com",
-      "date": "Tue, 14 Jul 2026 17:57:21 +0000"
-    },
-    {
-      "title": "SuperCritical lands US Gov’t licence for seawater uranium",
-      "link": "https://www.mining.com/supercritical-lands-us-govt-licence-for-seawater-uranium/",
-      "source": "mining.com",
-      "date": "Tue, 14 Jul 2026 14:55:00 +0000"
-    },
-    {
-      "title": "Canadian Copper advances Murray Brook with EIA filing",
-      "link": "https://www.mining.com/canadian-copper-advances-murray-brook-with-eia-filing/",
-      "source": "mining.com",
-      "date": "Tue, 14 Jul 2026 14:05:14 +0000"
+      "title": "Assays hint at size, depth of Onyx Gold’s Argus system",
+      "link": "https://www.mining.com/assays-hint-at-size-depth-of-onyx-golds-argus-system/",
+      "date": "Thu, 16 Jul 2026 16:14:51 +0000",
+      "source": "mining.com"
     }
   ]
 }
