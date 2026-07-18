@@ -1,95 +1,95 @@
 {
- "run_at_kst": "2026-07-18T07:07:10+09:00",
- "schema_version": "1.0",
- "sources": [
-  "mining.com",
-  "OilPrice.com"
- ],
- "count": 14,
- "items": [
-  {
-   "title": "BC, Simpcw First Nation sign consent agreement for Trekor Metals’ Yellowhead copper project",
-   "link": "https://www.mining.com/bc-simpcw-first-nation-sign-consent-agreement-for-trekor-metals-yellowhead-copper-project/",
-   "source": "mining.com",
-   "date": "Fri, 17 Jul 2026 20:29:37 +0000"
-  },
-  {
-   "title": "Colombia's New Government Prepares Fossil Fuel Comeback",
-   "link": "https://oilprice.com/Energy/Energy-General/Colombias-New-Government-Prepares-Fossil-Fuel-Comeback.html",
-   "source": "OilPrice",
-   "date": "Fri, 17 Jul 2026 15:00:00 -0500"
-  },
-  {
-   "title": "Rule Symposium Video: Mining M&A wave seen building",
-   "link": "https://www.mining.com/rule-symposium-video-mining-ma-wave-seen-building/",
-   "source": "mining.com",
-   "date": "Fri, 17 Jul 2026 19:53:27 +0000"
-  },
-  {
-   "title": "India Proposes Stricter Vehicle Emission Rules To Cut Oil Consumption",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Proposes-Stricter-Vehicle-Emission-Rules-To-Cut-Oil-Consumption.html",
-   "source": "OilPrice",
-   "date": "Fri, 17 Jul 2026 13:30:00 -0500"
-  },
-  {
-   "title": "New Jersey Bets Big on Small Nuclear Reactors",
-   "link": "https://oilprice.com/Energy/Energy-General/New-Jersey-Bets-Big-on-Small-Nuclear-Reactors.html",
-   "source": "OilPrice",
-   "date": "Fri, 17 Jul 2026 13:00:00 -0500"
-  },
-  {
-   "title": "BP, ConocoPhillips Partner In Iraq's Giant Oilfield",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/BP-ConocoPhillips-Partner-In-Iraqs-Giant-Oilfield.html",
-   "source": "OilPrice",
-   "date": "Fri, 17 Jul 2026 12:30:00 -0500"
-  },
-  {
-   "title": "US Oil Drilling Picks Up As Brent Gains 4%",
-   "link": "https://oilprice.com/Energy/Energy-General/US-Oil-Drilling-Picks-Up-As-Brent-Gains-4.html",
-   "source": "OilPrice",
-   "date": "Fri, 17 Jul 2026 12:27:07 -0500"
-  },
-  {
-   "title": "US widens lead over Europe in critical minerals race: WSJ",
-   "link": "https://www.mining.com/us-widens-lead-over-europe-in-critical-minerals-race-wsj/",
-   "source": "mining.com",
-   "date": "Fri, 17 Jul 2026 17:17:35 +0000"
-  },
-  {
-   "title": "Gold demand in China at decade low in June, WGC says",
-   "link": "https://www.mining.com/gold-demand-in-china-at-decade-low-in-june-wgc-says/",
-   "source": "mining.com",
-   "date": "Fri, 17 Jul 2026 17:16:57 +0000"
-  },
-  {
-   "title": "CHART: Gold price holds $4,000 as mining stocks bear the brunt",
-   "link": "https://www.mining.com/chart-gold-price-holds-4000-as-mining-stocks-bear-the-brunt/",
-   "source": "mining.com",
-   "date": "Fri, 17 Jul 2026 16:50:40 +0000"
-  },
-  {
-   "title": "Jeff Currie: Illusion of Oil Abundance Is Gone",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Jeff-Currie-Illusion-of-Oil-Abundance-Is-Gone.html",
-   "source": "OilPrice",
-   "date": "Fri, 17 Jul 2026 11:30:00 -0500"
-  },
-  {
-   "title": "Oil Markets Ignore Mounting Risks at Their Own Peril",
-   "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Markets-Ignore-Mounting-Risks-at-Their-Own-Peril.html",
-   "source": "OilPrice",
-   "date": "Fri, 17 Jul 2026 11:19:00 -0500"
-  },
-  {
-   "title": "AI emerges as new driver of rare earth demand, Sprott says",
-   "link": "https://www.mining.com/ai-emerges-as-new-driver-of-rare-earth-demand-sprott-says/",
-   "source": "mining.com",
-   "date": "Fri, 17 Jul 2026 15:45:00 +0000"
-  },
-  {
-   "title": "Op-Ed: The Arctic won’t save the energy transition",
-   "link": "https://www.mining.com/op-ed-the-arctic-wont-save-the-energy-transition/",
-   "source": "mining.com",
-   "date": "Fri, 17 Jul 2026 15:17:00 +0000"
-  }
- ]
+  "run_at_kst": "2026-07-18T10:08:03+09:00",
+  "schema_version": "1.0",
+  "sources": [
+    "mining.com",
+    "OilPrice.com"
+  ],
+  "count": 14,
+  "items": [
+    {
+      "title": "Bangladesh's $12.65 Billion Nuclear Bet Faces Its Biggest Test Yet",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Bangladeshs-1265-Billion-Nuclear-Bet-Faces-Its-Biggest-Test-Yet.html",
+      "source": "OilPrice",
+      "date": "Fri, 17 Jul 2026 18:00:00 -0500"
+    },
+    {
+      "title": "BC, Simpcw First Nation sign consent agreement for Trekor Metals’ Yellowhead copper project",
+      "link": "https://www.mining.com/bc-simpcw-first-nation-sign-consent-agreement-for-trekor-metals-yellowhead-copper-project/",
+      "source": "mining.com",
+      "date": "Fri, 17 Jul 2026 20:29:37 +0000"
+    },
+    {
+      "title": "Colombia's New Government Prepares Fossil Fuel Comeback",
+      "link": "https://oilprice.com/Energy/Energy-General/Colombias-New-Government-Prepares-Fossil-Fuel-Comeback.html",
+      "source": "OilPrice",
+      "date": "Fri, 17 Jul 2026 15:00:00 -0500"
+    },
+    {
+      "title": "Rule Symposium Video: Mining M&A wave seen building",
+      "link": "https://www.mining.com/rule-symposium-video-mining-ma-wave-seen-building/",
+      "source": "mining.com",
+      "date": "Fri, 17 Jul 2026 19:53:27 +0000"
+    },
+    {
+      "title": "India Proposes Stricter Vehicle Emission Rules To Cut Oil Consumption",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Proposes-Stricter-Vehicle-Emission-Rules-To-Cut-Oil-Consumption.html",
+      "source": "OilPrice",
+      "date": "Fri, 17 Jul 2026 13:30:00 -0500"
+    },
+    {
+      "title": "New Jersey Bets Big on Small Nuclear Reactors",
+      "link": "https://oilprice.com/Energy/Energy-General/New-Jersey-Bets-Big-on-Small-Nuclear-Reactors.html",
+      "source": "OilPrice",
+      "date": "Fri, 17 Jul 2026 13:00:00 -0500"
+    },
+    {
+      "title": "BP, ConocoPhillips Partner In Iraq's Giant Oilfield",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/BP-ConocoPhillips-Partner-In-Iraqs-Giant-Oilfield.html",
+      "source": "OilPrice",
+      "date": "Fri, 17 Jul 2026 12:30:00 -0500"
+    },
+    {
+      "title": "US Oil Drilling Picks Up As Brent Gains 4%",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Oil-Drilling-Picks-Up-As-Brent-Gains-4.html",
+      "source": "OilPrice",
+      "date": "Fri, 17 Jul 2026 12:27:07 -0500"
+    },
+    {
+      "title": "US widens lead over Europe in critical minerals race: WSJ",
+      "link": "https://www.mining.com/us-widens-lead-over-europe-in-critical-minerals-race-wsj/",
+      "source": "mining.com",
+      "date": "Fri, 17 Jul 2026 17:17:35 +0000"
+    },
+    {
+      "title": "Gold demand in China at decade low in June, WGC says",
+      "link": "https://www.mining.com/gold-demand-in-china-at-decade-low-in-june-wgc-says/",
+      "source": "mining.com",
+      "date": "Fri, 17 Jul 2026 17:16:57 +0000"
+    },
+    {
+      "title": "CHART: Gold price holds $4,000 as mining stocks bear the brunt",
+      "link": "https://www.mining.com/chart-gold-price-holds-4000-as-mining-stocks-bear-the-brunt/",
+      "source": "mining.com",
+      "date": "Fri, 17 Jul 2026 16:50:40 +0000"
+    },
+    {
+      "title": "Jeff Currie: Illusion of Oil Abundance Is Gone",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Jeff-Currie-Illusion-of-Oil-Abundance-Is-Gone.html",
+      "source": "OilPrice",
+      "date": "Fri, 17 Jul 2026 11:30:00 -0500"
+    },
+    {
+      "title": "Oil Markets Ignore Mounting Risks at Their Own Peril",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Markets-Ignore-Mounting-Risks-at-Their-Own-Peril.html",
+      "source": "OilPrice",
+      "date": "Fri, 17 Jul 2026 11:19:00 -0500"
+    },
+    {
+      "title": "AI emerges as new driver of rare earth demand, Sprott says",
+      "link": "https://www.mining.com/ai-emerges-as-new-driver-of-rare-earth-demand-sprott-says/",
+      "source": "mining.com",
+      "date": "Fri, 17 Jul 2026 15:45:00 +0000"
+    }
+  ]
 }
