@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-18T09:30:10.590407+09:00",
+  "run_at_kst": "2026-07-18T13:00:18.632114+09:00",
   "sources": {
     "a_stocks": "AkShare (Eastmoney via 中国证监会)",
     "hk_us_kr": "Yahoo Finance (yfinance)"
@@ -666,7 +666,7 @@
       "id": "sse",
       "name": "SSE COMP",
       "type": "index",
-      "price": 3764.15,
+      "price": 3764.16,
       "prev_close": 3881.51,
       "change_pct": -3.02,
       "found": true

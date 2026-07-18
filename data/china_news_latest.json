@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-07-18T10:10:18+09:00",
+  "run_at_kst": "2026-07-18T14:16:12.030008+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "\"중국 통계는 조작된 수치\" ...美 경제학자 비판에 힘 받는 '중상주의'",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sVm9RTE5MS2N0eWNjd3RQajRzeGMtZFRRZ2dYQnRFSjBXNmZqaGtwRjBOSXZFREVCaHM0NEJYUnppQzhNTkNPX2ZGdzhQb3c?oc=5",
+      "source": "v.daum.net",
+      "date": "Sat, 18 Jul 2026 02:52:37 GMT"
+    },
     {
       "title": "AI가 중국 경제 성장의 핵심 동력으로 부상했나?",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcnlZbjRUZUk3VVFLN0ZtM05YdFpFSEpBTTBYYmlGZEtrZ0lnUEhWT0NCSVNZNE1SX0RmaFJ0N2N5Mkx1OXloNDdQRkFfdHE1LXFWOTU3OV8wZjMxTTI1LXNjVHlEMnZuTVhYemtXV2dYeElFTjhJVUs4Zk10UzlRdmM5OUdPenVVeGlqSXpHUE9WSEVkX01ka0ZfLWd1Wm12U3lKbU0wc0JTZlF2ckpVUU15N2lRS0UxWklaeVdzcHJhUDI2N2FCWUNXcw?oc=5",
@@ -12,34 +18,10 @@
       "date": "Fri, 17 Jul 2026 23:34:00 GMT"
     },
     {
-      "title": "중국 부채 증가속도 세계 최고[글로벌 모닝 브리핑]",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kMnRyb0NuN3ZxWnFEWnYwc0xTRmpZOThLVW56bTJJY01HdEZLcnBxUlhyLWJSMUVITl90NmpJbnBCdFhkNEYwbUJHRUxhSkVsUWfSAVNBVV95cUxPUy1YWHhRNVBOVjdiRkxCM2pjZU4yUFNOampja0Q4WVFEMmg1YlcyYWRQWHNkcnpzeXgwMkFhME5FRE56QS1icmJJdFppZHoyQllLZw?oc=5",
-      "source": "서울경제",
-      "date": "Thu, 16 Jul 2026 21:00:00 GMT"
-    },
-    {
-      "title": "중국, 수출 호황에도 내수 침체…장기 성장률 4%대 전망",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SWk5MajZpVDRhd1IxQjBsaDQyTnByY2YzUzdqODZmXzlDd0lWYmxzdzB3NFEyT0JhcDlPNnVxUkR1TkZrbjc2a0NMTnRfVlJpM3ZIU0g0M1ZQS2NpMVJYZjMzTFpFbWR4b2lnYw?oc=5",
-      "source": "재외동포신문",
-      "date": "Thu, 16 Jul 2026 15:22:46 GMT"
-    },
-    {
-      "title": "중국 경제 흔들리자 베트남 공장도 ‘경고등’…차이나+1의 숨은 공급망",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XMFJXUVBOdVppTU5uZ2gxblNLc1dWQVVyWUEzenE4N3ZZd196UFIzc3FoTG1kZllPdVJFYUM0QXNBOFVjcjB2Wml2dFllcmJIbU40RW5HNTVmTmVjOVZIMGpURUNuTmfSAWtBVV95cUxNd1RzWE5LTVdVeklnUUdqczcxdkd2SUhJbGJsRXlDNFlzU2l4cDBsdnE0NFJlRk96OFE0QWgyNkp0aTZMOHZkX1ZyVWx2VGl2a0NjVXBmVmxhWFFvM1dKX3BTTmZubUVzeXBHTQ?oc=5",
-      "source": "한국관세신문",
-      "date": "Thu, 16 Jul 2026 06:49:52 GMT"
-    },
-    {
-      "title": "AI 중국경제에 새바람, 생산·투자·수출 전방위 '신성장 동력'",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MUjRDRk9KejZfOGQ4MkgyX29BZkpPOTl3UnFSNUhZZk42ZjRDZ095ZGNNY19Wc1NaN3p3cG9Jc2ZkT3ZjdEwxMDdDTnp4WHFydjBrQ2N1WXlGelo2?oc=5",
-      "source": "뉴스핌",
-      "date": "Thu, 16 Jul 2026 05:22:00 GMT"
-    },
-    {
-      "title": "중국 경제 양극화 심화...부양책 나올까, 中 증시 영향은?",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9id1RxX2JyVXZwNDZjaU1vVm9zRTJYUktadk5xOFNqR0xYdXk1TlNyZ09ERlZuQ2lFV1VZM3JnRllEV3I4OWJycmtRdnJJSERnTzNJWTcwWk9yS1lFQVVKUFRqNUtsWHRmMVRCZUpveFkyMEnSAXNBVV95cUxPYndUcV9iclV2cDQ2Y2lNb1Zvc0UyWFJLWnZOcThTakdMWHV5NU5TcmdPREZWbkNpRVdVWTNyZ0ZZRFdyODlicnJrUXZySUhEZ08zSVk3MFpPcktZRUFVSlBUajVLbFh0ZjFUQmVKb3hZMjBJ?oc=5",
-      "source": "초이스경제",
-      "date": "Thu, 16 Jul 2026 04:09:00 GMT"
+      "title": "중국 상반기 경제 성적표는?…스스로 인정한 “강 공급, 약 수요의 모순”",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zbDE5T0pCdWx0RjFZb0x0RTM3TmdldUhVbWFBZ2IzTHdscXZHdXlWczNkZzZMeldWbGVfU0FEanlsR1Z2c1VjdmdsTlRadnc?oc=5",
+      "source": "v.daum.net",
+      "date": "Wed, 15 Jul 2026 10:32:09 GMT"
     },
     {
       "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
@@ -48,16 +30,22 @@
       "date": "Wed, 15 Jul 2026 09:03:52 GMT"
     },
     {
-      "title": "中 2분기 경제성장률 4.3%... 2022년 이후 최저",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaXJvdmVEUThXbzJ2ZldUaUJVSGhuMnhDcnlVYU5ZZk5rNDFHYmtsR0l2eVllX1pPdUdySnN6eUlyWGtnU3E1QlhnVXRJLW5qampsWllfeDFzMFZiblFBSV9zNmlvMFRnSHYzMnpKS21wazNhdTltMjRsYkZ4MDRYbmNXcXgtTnYxajhXUTdnTVpRQ1FQc2FKRThhU3Fxdw?oc=5",
-      "source": "조선일보",
-      "date": "Wed, 15 Jul 2026 07:11:44 GMT"
+      "title": "중국 ‘성장엔진’ 식었다…2분기 4.3%로 3년 반 만에 최저",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yMnVZZUNwVnJkTzhYcUVYeTJuTW9NVWxuQkh6UV90dHBZME4tNXIxWUVpSHhCSkx2c3dlQzMxWUlvNndPOFV4NHJrb3hiRzQ?oc=5",
+      "source": "v.daum.net",
+      "date": "Wed, 15 Jul 2026 06:50:37 GMT"
     },
     {
-      "title": "중국 경제 성장률 급락, 목표치 미달",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDdnV1b2NiM2JlcnVOSXhfRTJ4cU92QXVwbzl5aW85VXBmSkNTT0VzOVktbWxrSkJXQVlCYjNMeHMteTdaLS12OTJFM3pTNGU0QUlwR0RocVpjRlg2a2N1Q2FiZVdXX1ZBUk0wWU1B?oc=5",
-      "source": "뉴스타운",
-      "date": "Wed, 15 Jul 2026 06:10:57 GMT"
+      "title": "중국 2분기 성장률 4.3%로 둔화…2022년 4분기 이후 '최저'",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RWXZjT29SS2NFX0tjbnYwZ29xVU1QVW9QTTFXZTFOOGJVdmVhQ3lOY2hIbG5lcDAySXhxY1RabllQZ0RpVXdKNVpYaFpINE43VFU0?oc=5",
+      "source": "네이트",
+      "date": "Wed, 15 Jul 2026 06:50:00 GMT"
+    },
+    {
+      "title": "중국 2분기 경제성장률 4.3%…3년여 만에 최저",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TYUk4SjI5TFp5MU0tVDVlWmdsdUZyNFV4NnFSRWVwRThhV0FiZ05oQi1hOHJROHVZZTRpSDBTY2lCQld6cWN4X2c3LWlUR0VMZUYw?oc=5",
+      "source": "네이트",
+      "date": "Wed, 15 Jul 2026 06:25:00 GMT"
     },
     {
       "title": "[그래픽] 중국 경제성장률 추이",
@@ -66,16 +54,28 @@
       "date": "Wed, 15 Jul 2026 05:13:04 GMT"
     },
     {
-      "title": "\"특허가 중국 경제를 끌어올렸다\"... IP 투자 9.3% 급증, AI·반도체·배터리 동반 성장",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBtbFZhejVBOHA2RzlOc0M1NUUxeWpTdVFNMnFiZTk0TXRhdkNCZHBnZERpdDYxYy1KZEFUNEJpZ3F2WGR0ZXlUXw?oc=5",
-      "source": "특허뉴스",
-      "date": "Tue, 14 Jul 2026 01:29:00 GMT"
+      "title": "중국 상반기 경제성장률 4.7%…2분기 4.3%로 2022년 말 이후 최저",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wMGZCX2JMVDlIdU5FZ1MtUlphWTN4d3pleHhpV3lLd20zcFNnX242Y0JUMXhNaU96SFZHNkllNWxKQ09McjRVdGNrcjJsMzdMa2FvS0pBbFc3OUk?oc=5",
+      "source": "KBS 뉴스",
+      "date": "Wed, 15 Jul 2026 03:54:00 GMT"
     },
     {
-      "title": "“중국 경제 안 좋다” 칭화대 전 교수, 강연 중 한 말에···경찰 출동 소동",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YU1llUUxBYTZzbGhkS2pBaE9ybXlnbnpISkVUZGVXc2w1X08tQkNJeU1OVWg1LUdldnBPLXYwRmMxc2hIWVlhNWJGNG5VbVUyOW9sRlUwYW5YZ9IBX0FVX3lxTFBTTXpMdDdfTjRzYW9YOG9pLUN6VXlyYjNVXzRiMWlkTF9PQWhFdmJfNTcyeVU2Z19uUHFSMVFBbU1LSHhOcm12Wi1zc0JYNVV1cXU2b2VwWEhPWFJ1YW5n?oc=5",
+      "title": "[속보]중국, 2분기 GDP 성장률 4.3%…예상치 하회",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BYVhxaDBkTGZMZS0zZ0o1T1Ytd2hFRElVRkJid1A3Y1kxSGxRY1h0SUg2MnA1V1ZTOTlyVDJZWDAzVXE4djFMWGdGVi02ZHM?oc=5",
+      "source": "v.daum.net",
+      "date": "Wed, 15 Jul 2026 02:16:39 GMT"
+    },
+    {
+      "title": "[속보] 중국 2분기 GDP 성장률 4.3%…수출·내수 양극화 속 전망치 하회",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qOXkzS0p5bVJqc1NoVldNYzB0VVluXzNiZ3BJdER5eHYxSzJ2UnVFLW1fc0k4bFpKRk15WHd3SDhWS3Q5SVpydkZsY0FtaDRSTWZnVWxjWFI5Z9IBX0FVX3lxTE13SDZKRGljN2G9IR21OQ3dXNmxIUnZqLXBPT3A5NUd5NmctSjRxYURyNkRMNmNzTUdpUnJOelhHNEVlXzN3VUdIanZhN3JoMDNUelBnLUN5OWFtUkZCQnE4?oc=5",
       "source": "경향신문",
-      "date": "Thu, 02 Jul 2026 07:00:00 GMT"
+      "date": "Wed, 15 Jul 2026 02:13:00 GMT"
+    },
+    {
+      "title": "중국 올 2분기 경제성장률 4.3%…수출만 날고 내수는 '폭삭'",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tZC1KSlpIM0hCdWRuclNZT1dEbjdRT19wWHVHbHd4ZU9aSFhHY1g0TTlVRV9OWlBIcjV5RDZfUnZHYWdhRDRGU0ZJNXpDenR2WEtybUNxV0ZMQQ?oc=5",
+      "source": "한국경제",
+      "date": "Wed, 15 Jul 2026 02:01:57 GMT"
     }
   ]
 }

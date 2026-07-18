@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-07-18T10:06:15+09:00",
+  "updated_at_kst": "2026-07-18T14:11:47.392133+09:00",
   "ref_date": "2026-07-17",
   "schema_version": "1.0",
   "adjustment_applied": true,
@@ -2507,9 +2507,9 @@
     },
     {
       "display_name": "프로피온알데하이드",
-      "sector": "화학공업",
-      "price_prev": 8173.93,
-      "price_today": 8173.93,
+      "sector": "화공업",
+      "price_prev": 8162.5,
+      "price_today": 8162.5,
       "change_pct": 0.0
     },
     {
