@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-19T07:16:33.187917+09:00",
+  "run_at_kst": "2026-07-19T10:11:39.909036+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Europe's Heatwave Is Becoming an Energy Crisis",
+      "link": "https://oilprice.com/Energy/Energy-General/Europes-Heatwave-Is-Becoming-an-Energy-Crisis.html",
+      "source": "OilPrice",
+      "date": "Sat, 18 Jul 2026 18:00:00 -0500"
+    },
     {
       "title": "What Is a Microgrid? How They Work and Why They're Suddenly Everywhere",
       "link": "https://oilprice.com/Energy/Energy-General/What-Is-a-Microgrid-How-They-Work-and-Why-Theyre-Suddenly-Everywhere.html",
@@ -18,12 +24,6 @@
       "link": "https://oilprice.com/Energy/Crude-Oil/Canada-Unveils-New-Pipeline-to-Cut-Reliance-on-US-Oil-Routes.html",
       "source": "OilPrice",
       "date": "Sat, 18 Jul 2026 14:00:00 -0500"
-    },
-    {
-      "title": "U.S. Scientists Tap Seawater to Break China's Rare Earth Monopoly",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Scientists-Tap-Seawater-to-Break-Chinas-Rare-Earth-Monopoly.html",
-      "source": "OilPrice",
-      "date": "Sat, 18 Jul 2026 12:00:00 -0500"
     },
     {
       "title": "BC, Simpcw First Nation sign consent agreement for Trekor Metals’ Yellowhead copper project",

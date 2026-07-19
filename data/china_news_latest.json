@@ -1,21 +1,21 @@
 {
-  "run_at_kst": "2026-07-19T07:16:33.187917+09:00",
+  "run_at_kst": "2026-07-19T10:14:10.335838+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "북한 '텅스텐 특수'…중국 수출 규제로 '반사이익' 누려",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VUGk3RmtNb2R0WW40bHpnNVphUWlYZ05oNnl2WUhQUGFyVkxWaWwyVDdUQnVDa3lBQncxcUQ4eFZsSnJKUm5JU3EtTjNFeTQ?oc=5",
-      "source": "v.daum.net",
-      "date": "Sat, 18 Jul 2026 21:01:59 GMT"
-    },
-    {
       "title": "중국도 반도체 빅사이클 수혜...6월 수출 27% 급증",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lUGZpcTJuLVdiQ2Fxd1FVd3ZqNmpaVk1IU2VLQ2ZjZENPdzRuVUlkVHlkWWllcVlUNG1FSHdGUktuTTVMWTk2bG9aRFZINk0?oc=5",
       "source": "v.daum.net",
       "date": "Sat, 18 Jul 2026 21:01:48 GMT"
+    },
+    {
+      "title": "EU, 중국 통상 압박 수위 높여… ‘과잉 생산’ 겨냥한 무역 방어 본격화",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTVhXX1hPYWUxb1R0UU5aa0tNT09FVFFoaWF2OGRKY0ZjSTQ3MjFiaHdXZ2FYVU0za3BhVVc3bEFaanpMMEdCMU1CeWN2VXQtcjNaNUxvYUFIazhDa2pKY1JLbWZ5N0FhNmVIcUFBZVh0TmZsWVdJYjhvdFdVb21kekpNcFA2dlpY?oc=5",
+      "source": "글로벌이코노믹",
+      "date": "Sat, 18 Jul 2026 20:30:00 GMT"
     },
     {
       "title": "AI가 중국 경제 성장의 핵심 동력으로 부상했나?",
