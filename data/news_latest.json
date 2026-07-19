@@ -1,95 +1,95 @@
 {
-  "run_at_kst": "2026-07-19T14:16:24+09:00",
-  "schema_version": "1.0",
-  "sources": [
-    "mining.com",
-    "OilPrice.com"
-  ],
-  "count": 14,
-  "items": [
-    {
-      "title": "Europe's Heatwave Is Becoming an Energy Crisis",
-      "link": "https://oilprice.com/Energy/Energy-General/Europes-Heatwave-Is-Becoming-an-Energy-Crisis.html",
-      "source": "OilPrice",
-      "date": "Sat, 18 Jul 2026 18:00:00 -0500"
-    },
-    {
-      "title": "What Is a Microgrid? How They Work and Why They're Suddenly Everywhere",
-      "link": "https://oilprice.com/Energy/Energy-General/What-Is-a-Microgrid-How-They-Work-and-Why-Theyre-Suddenly-Everywhere.html",
-      "source": "OilPrice",
-      "date": "Sat, 18 Jul 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Canada Unveils New Pipeline to Cut Reliance on U.S. Oil Routes",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Canada-Unveils-New-Pipeline-to-Cut-Reliance-on-US-Oil-Routes.html",
-      "source": "OilPrice",
-      "date": "Sat, 18 Jul 2026 14:00:00 -0500"
-    },
-    {
-      "title": "BC, Simpcw First Nation sign consent agreement for Trekor Metals’ Yellowhead copper project",
-      "link": "https://www.mining.com/bc-simpcw-first-nation-sign-consent-agreement-for-trekor-metals-yellowhead-copper-project/",
-      "source": "mining.com",
-      "date": "Fri, 17 Jul 2026 20:29:37 +0000"
-    },
-    {
-      "title": "Colombia's New Government Prepares Fossil Fuel Comeback",
-      "link": "https://oilprice.com/Energy/Energy-General/Colombias-New-Government-Prepares-Fossil-Fuel-Comeback.html",
-      "source": "OilPrice",
-      "date": "Fri, 17 Jul 2026 15:00:00 -0500"
-    },
-    {
-      "title": "Rule Symposium Video: Mining M&A wave seen building",
-      "link": "https://www.mining.com/rule-symposium-video-mining-ma-wave-seen-building/",
-      "source": "mining.com",
-      "date": "Fri, 17 Jul 2026 19:53:27 +0000"
-    },
-    {
-      "title": "India Proposes Stricter Vehicle Emission Rules To Cut Oil Consumption",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Proposes-Stricter-Vehicle-Emission-Rules-To-Cut-Oil-Consumption.html",
-      "source": "OilPrice",
-      "date": "Fri, 17 Jul 2026 13:30:00 -0500"
-    },
-    {
-      "title": "New Jersey Bets Big on Small Nuclear Reactors",
-      "link": "https://oilprice.com/Energy/Energy-General/New-Jersey-Bets-Big-on-Small-Nuclear-Reactors.html",
-      "source": "OilPrice",
-      "date": "Fri, 17 Jul 2026 13:00:00 -0500"
-    },
-    {
-      "title": "BP, ConocoPhillips Partner In Iraq's Giant Oilfield",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/BP-ConocoPhillips-Partner-In-Iraqs-Giant-Oilfield.html",
-      "source": "OilPrice",
-      "date": "Fri, 17 Jul 2026 12:30:00 -0500"
-    },
-    {
-      "title": "US Oil Drilling Picks Up As Brent Gains 4%",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Oil-Drilling-Picks-Up-As-Brent-Gains-4.html",
-      "source": "OilPrice",
-      "date": "Fri, 17 Jul 2026 12:27:07 -0500"
-    },
-    {
-      "title": "US widens lead over Europe in critical minerals race: WSJ",
-      "link": "https://www.mining.com/us-widens-lead-over-europe-in-critical-minerals-race-wsj/",
-      "source": "mining.com",
-      "date": "Fri, 17 Jul 2026 17:17:35 +0000"
-    },
-    {
-      "title": "Gold demand in China at decade low in June, WGC says",
-      "link": "https://www.mining.com/gold-demand-in-china-at-decade-low-in-june-wgc-says/",
-      "source": "mining.com",
-      "date": "Fri, 17 Jul 2026 17:16:57 +0000"
-    },
-    {
-      "title": "CHART: Gold price holds $4,000 as mining stocks bear the brunt",
-      "link": "https://www.mining.com/chart-gold-price-holds-4000-as-mining-stocks-bear-the-brunt/",
-      "source": "mining.com",
-      "date": "Fri, 17 Jul 2026 16:50:40 +0000"
-    },
-    {
-      "title": "AI emerges as new driver of rare earth demand, Sprott says",
-      "link": "https://www.mining.com/ai-emerges-as-new-driver-of-rare-earth-demand-sprott-says/",
-      "source": "mining.com",
-      "date": "Fri, 17 Jul 2026 15:45:00 +0000"
-    }
-  ]
+ "run_at_kst": "2026-07-19T20:09:00+09:00",
+ "schema_version": "1.0",
+ "sources": [
+  "mining.com",
+  "OilPrice.com"
+ ],
+ "count": 14,
+ "items": [
+  {
+   "title": "Europe's Heatwave Is Becoming an Energy Crisis",
+   "link": "https://oilprice.com/Energy/Energy-General/Europes-Heatwave-Is-Becoming-an-Energy-Crisis.html",
+   "source": "OilPrice",
+   "date": "Sat, 18 Jul 2026 18:00:00 -0500"
+  },
+  {
+   "title": "What Is a Microgrid? How They Work and Why They're Suddenly Everywhere",
+   "link": "https://oilprice.com/Energy/Energy-General/What-Is-a-Microgrid-How-They-Work-and-Why-Theyre-Suddenly-Everywhere.html",
+   "source": "OilPrice",
+   "date": "Sat, 18 Jul 2026 16:00:00 -0500"
+  },
+  {
+   "title": "Canada Unveils New Pipeline to Cut Reliance on U.S. Oil Routes",
+   "link": "https://oilprice.com/Energy/Crude-Oil/Canada-Unveils-New-Pipeline-to-Cut-Reliance-on-US-Oil-Routes.html",
+   "source": "OilPrice",
+   "date": "Sat, 18 Jul 2026 14:00:00 -0500"
+  },
+  {
+   "title": "BC, Simpcw First Nation sign consent agreement for Trekor Metals’ Yellowhead copper project",
+   "link": "https://www.mining.com/bc-simpcw-first-nation-sign-consent-agreement-for-trekor-metals-yellowhead-copper-project/",
+   "source": "mining.com",
+   "date": "Fri, 17 Jul 2026 20:29:37 +0000"
+  },
+  {
+   "title": "Colombia's New Government Prepares Fossil Fuel Comeback",
+   "link": "https://oilprice.com/Energy/Energy-General/Colombias-New-Government-Prepares-Fossil-Fuel-Comeback.html",
+   "source": "OilPrice",
+   "date": "Fri, 17 Jul 2026 15:00:00 -0500"
+  },
+  {
+   "title": "Rule Symposium Video: Mining M&A wave seen building",
+   "link": "https://www.mining.com/rule-symposium-video-mining-ma-wave-seen-building/",
+   "source": "mining.com",
+   "date": "Fri, 17 Jul 2026 19:53:27 +0000"
+  },
+  {
+   "title": "India Proposes Stricter Vehicle Emission Rules To Cut Oil Consumption",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Proposes-Stricter-Vehicle-Emission-Rules-To-Cut-Oil-Consumption.html",
+   "source": "OilPrice",
+   "date": "Fri, 17 Jul 2026 13:30:00 -0500"
+  },
+  {
+   "title": "New Jersey Bets Big on Small Nuclear Reactors",
+   "link": "https://oilprice.com/Energy/Energy-General/New-Jersey-Bets-Big-on-Small-Nuclear-Reactors.html",
+   "source": "OilPrice",
+   "date": "Fri, 17 Jul 2026 13:00:00 -0500"
+  },
+  {
+   "title": "BP, ConocoPhillips Partner In Iraq's Giant Oilfield",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/BP-ConocoPhillips-Partner-In-Iraqs-Giant-Oilfield.html",
+   "source": "OilPrice",
+   "date": "Fri, 17 Jul 2026 12:30:00 -0500"
+  },
+  {
+   "title": "US Oil Drilling Picks Up As Brent Gains 4%",
+   "link": "https://oilprice.com/Energy/Energy-General/US-Oil-Drilling-Picks-Up-As-Brent-Gains-4.html",
+   "source": "OilPrice",
+   "date": "Fri, 17 Jul 2026 12:27:07 -0500"
+  },
+  {
+   "title": "US widens lead over Europe in critical minerals race: WSJ",
+   "link": "https://www.mining.com/us-widens-lead-over-europe-in-critical-minerals-race-wsj/",
+   "source": "mining.com",
+   "date": "Fri, 17 Jul 2026 17:17:35 +0000"
+  },
+  {
+   "title": "Gold demand in China at decade low in June, WGC says",
+   "link": "https://www.mining.com/gold-demand-in-china-at-decade-low-in-june-wgc-says/",
+   "source": "mining.com",
+   "date": "Fri, 17 Jul 2026 17:16:57 +0000"
+  },
+  {
+   "title": "CHART: Gold price holds $4,000 as mining stocks bear the brunt",
+   "link": "https://www.mining.com/chart-gold-price-holds-4000-as-mining-stocks-bear-the-brunt/",
+   "source": "mining.com",
+   "date": "Fri, 17 Jul 2026 16:50:40 +0000"
+  },
+  {
+   "title": "AI emerges as new driver of rare earth demand, Sprott says",
+   "link": "https://www.mining.com/ai-emerges-as-new-driver-of-rare-earth-demand-sprott-says/",
+   "source": "mining.com",
+   "date": "Fri, 17 Jul 2026 15:45:00 +0000"
+  }
+ ]
 }

@@ -1,81 +1,81 @@
 {
-  "run_at_kst": "2026-07-19T14:20:41+09:00",
-  "schema_version": "1.0",
-  "query": "중국 경제",
-  "source": "Google News (한국어)",
-  "count": 12,
-  "items": [
-    {
-      "title": "중국, '에이전트OS 폰'을 세계 최초로 내놓다",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9adnVBamUyZXppQjg0b0tRUW5zNkZVbkNJcVZDbm85NFVjVk1LcWR4WWdpYmpaUmp0b1FBdXRCVXZpSkxMRHl4TkRsQ0tqSkU?oc=5",
-      "source": "v.daum.net",
-      "date": "Sun, 19 Jul 2026 01:58:20 GMT"
-    },
-    {
-      "title": "중국도 반도체 빅사이클 수혜...6월 수출 27% 급증",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lUGZpcTJuLVdiQ2Fxd1FVd3ZqNmpaVk1IU2VLQ2ZjZENPdzRuVUlkVHlkWWllcVlUNG1FSHdGUktuTTVMWTk2bG9aRFZINk0?oc=5",
-      "source": "v.daum.net",
-      "date": "Sat, 18 Jul 2026 21:01:48 GMT"
-    },
-    {
-      "title": "AI가 중국 경제 성장의 핵심 동력으로 부상했나?",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcnlZbjRUZUk3VVFLN0ZtM05YdFpFSEpBTTBYYmlGZEtrZ0lnUEhWT0NCSVNZNE1SX0RmaFJ0N2N5Mkx1OXloNDdQRkFfdHE1LXFWOTU3OV8wZjMxTTI1LXNjVHlEMnZuTVhYemtXV2dYeElFTjhJVUs4Zk10UzlRdmM5OUdPenVVeGlqSXpHUE9WSEVkX01ka0ZfLWd1Wm12U3lKbU0wc0JTZlF2ckpVUU15N2lRS0UxWklaeVdzcHJhUDI2N2FCWUNXcw?oc=5",
-      "source": "Investing.com 한국어",
-      "date": "Fri, 17 Jul 2026 23:34:00 GMT"
-    },
-    {
-      "title": "중국, 수출 호황에도 내수 침체…장기 성장률 4%대 전망",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SWk5MajZpVDRhd1IxQjBsaDQyTnByY2YzUzdqODZmXzlDd0lWYmxzdzB3NFEyT0JhcDlPNnVxUkR1TkZrbjc2a0NMTnRfVlJpM3ZIU0g0M1ZQS2NpMVJYZjMzTFpFbWR4b2lnYw?oc=5",
-      "source": "재외동포신문",
-      "date": "Thu, 16 Jul 2026 15:22:46 GMT"
-    },
-    {
-      "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Thu, 16 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "중국 경제 흔들리자 베트남 공장도 ‘경고등’…차이나+1의 숨은 공급망",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XMFJXUVBOdVppTU5uZ2gxblNLc1dWQVVyWUEzenE4N3ZZd196UFIzc3FoTG1kZllPdVJFYUM0QXNBOFVjcjB2Wml2dFllcmJIbU40RW5HNTVmTmVjOVZIMGpURUNuTmfSAWtBVV95cUxNd1RzWE5LTVdVeklnUUdqczcxdkd2SUhJbGJsRXlDNFlzU2l4cDBsdnE0NFJlRk96OFE0QWgyNkp0aTZMOHZkX1ZyVWx2VGl2a0NjVXBmVmxhWFFvM1dKX3BTTmZubUVzeXBHTQ?oc=5",
-      "source": "한국관세신문",
-      "date": "Thu, 16 Jul 2026 06:49:52 GMT"
-    },
-    {
-      "title": "AI 중국경제에 새바람, 생산·투자·수출 전방위 '신성장 동력'",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MUjRDRk9KejZfOGQ4MkgyX29BZkpPOTl3UnFSNUhZZk42ZjRDZ095ZGNNY19Wc1NaN3p3cG9Jc2ZkT3ZjdEwxMDdDTnp4WHFydjBrQ2N1WXlGelo2?oc=5",
-      "source": "뉴스핌",
-      "date": "Thu, 16 Jul 2026 05:22:00 GMT"
-    },
-    {
-      "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52UVRRTTIyQW5udGJFTjhSbEhmTHc4Q2QyTHdTd1BWNzE5b0p0U0hWZk5LbmNjdUY5ZWh2MlBZaEczSnd3RVZGSlRfLXlrdU9HYTlfdmthLW01dTVn0gFiQVVfeXFMUDU0UmVDOFl4VUpZYzlneGtDWHJCX3luT1pfdFhKaGZENGxvWTRjRTZYNTltalJDYXVBUG9IV3I2Qy1IMGljUEdDV0k3d3JQbmVXV05QUzNZSWl5QkJPQk1jV0E?oc=5",
-      "source": "BBC",
-      "date": "Wed, 15 Jul 2026 09:03:52 GMT"
-    },
-    {
-      "title": "중국 경제 성장률 급락, 목표치 미달",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDdnV1b2NiM2JlcnVOSXhfRTJ4cU92QXVwbzl5aW85VXBmSkNTT0VzOVktbWxrSkJXQVlCYjNMeHMteTdaLS12OTJFM3pTNGU0QUlwR0RocVpjRlg2a2N1Q2FiZVdXX1ZBUk0wWU1B?oc=5",
-      "source": "뉴스타운",
-      "date": "Wed, 15 Jul 2026 06:10:57 GMT"
-    },
-    {
-      "title": "[그래픽] 중국 경제성장률 추이",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yeTFrTUdYUlVXVm54UUpRMGo3TlR5ZWlyOTlId25XQ1d4cmFzYWUwUm5RMEo3d05mQ0JISnYwWm41dzNpODBDbUxpY3ozRF9ZSXk3dWlmZ29pZlXSAWBBVV95cUxQbkROMTc3Z2tOX01xdTQ4ZWNhUjZsbXFmOU5NYXlmMlI2VWUzRUR5dU1YY29NMkoxbEVqbTJZNWtnZHp4WmRnQS1EVXpqRzdPaUNjMjU0X3FSTVhBbUVSXzI?oc=5",
-      "source": "연합뉴스",
-      "date": "Wed, 15 Jul 2026 05:13:04 GMT"
-    },
-    {
-      "title": "\"특허가 중국 경제를 끌어올렸다\"... IP 투자 9.3% 급증, AI·반도체·배터리 동반 성장",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBtbFZhejVBOHA2RzlOc0M1NUUxeWpTdVFNMnFiZTk0TXRhdkNCZHBnZERpdDYxYy1KZEFUNEJpZ3F2WGR0ZXlUXw?oc=5",
-      "source": "특허뉴스",
-      "date": "Tue, 14 Jul 2026 01:29:00 GMT"
-    },
-    {
-      "title": "“중국 경제 안 좋다” 칭화대 전 교수, 강연 중 한 말에···경찰 출동 소동",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YU1llUUxBYTZzbGhkS2pBaE9ybXlnbnpISkVUZGVXc2w1X08tQkNJeU1OVWg1LUdldnBPLXYwRmMxc2hIWVlhNWJGNG5VbVUyOW9sRlUwYW5YZ9IBX0FVX3lxTFBTTXpMdDdfTjRzYW9YOG9pLUN6VXlyYjNVXzRiMWlkTF9PQWhFdmJfNTcyeVU2Z19uUHFSMVFBbU1LSHhOcm12Wi1zc0JYNVV1cXU2b2VwWEhPWFJ1YW5n?oc=5",
-      "source": "경향신문",
-      "date": "Thu, 02 Jul 2026 07:00:00 GMT"
-    }
-  ]
+ "run_at_kst": "2026-07-19T20:09:00+09:00",
+ "schema_version": "1.0",
+ "query": "중국 경제",
+ "source": "Google News (한국어)",
+ "count": 12,
+ "items": [
+  {
+   "title": "\"중국, 자신을 키워준 글로벌 질서 파괴하고 있다\"…외교전문지 포린어페어스 기고문 파장",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oYTB0Wm4xQTdaRzdWTlo5WmxvVWlLTGVzU1lWaEhLQTJhZEVMVmozdm5vZE1yWjdKeVZ6U2dCNEZCU1ZNZlY4Slo1ZlBPdWlKRmdsbHNlbGJ2eE4ySUN4bEhKcnVnbFJnUnRTaQ?oc=5",
+   "source": "프리진경제",
+   "date": "Sun, 19 Jul 2026 09:07:28 GMT"
+  },
+  {
+   "title": "[기고] 중국 경제의 엔진, '온주 상인'",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YdWJwcTdPeEJrWFVETlVtU09tdWd2R29MNXRCbUY0clpVMXdUZXFWMzk5WXZaV2dLZzBfWVZnSWJSMGU1WWJQSk1Xc1ZqMWVfMnc3VVVYOTZnYzZCa3drS2NKOHhDdw?oc=5",
+   "source": "뉴스비전e",
+   "date": "Sun, 19 Jul 2026 05:39:08 GMT"
+  },
+  {
+   "title": "중국, '에이전트OS 폰'을 세계 최초로 내놓다",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9adnVBamUyZXppQjg0b0tRUW5zNkZVbkNJcVZDbm85NFVjVk1LcWR4WWdpYmpaUmp0b1FBdXRCVXZpSkxMRHl4TkRsQ0tqSkU?oc=5",
+   "source": "v.daum.net",
+   "date": "Sun, 19 Jul 2026 01:58:20 GMT"
+  },
+  {
+   "title": "AI가 중국 경제 성장의 핵심 동력으로 부상했나?",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcnlZbjRUZUk3VVFLN0ZtM05YdFpFSEpBTTBYYmlGZEtrZ0lnUEhWT0NCSVNZNE1SX0RmaFJ0N2N5Mkx1OXloNDdQRkFfdHE1LXFWOTU3OV8wZjMxTTI1LXNjVHlEMnZuTVhYemtXV2dYeElFTjhJVUs4Zk10UzlRdmM5OUdPenVVeGlqSXpHUE9WSEVkX01ka0ZfLWd1Wm12U3lKbU0wc0JTZlF2ckpVUU15N2lRS0UxWklaeVdzcHJhUDI2N2FCWUNXcw?oc=5",
+   "source": "Investing.com 한국어",
+   "date": "Fri, 17 Jul 2026 23:34:00 GMT"
+  },
+  {
+   "title": "중국, 수출 호황에도 내수 침체…장기 성장률 4%대 전망",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SWk5MajZpVDRhd1IxQjBsaDQyTnByY2YzUzdqODZmXzlDd0lWYmxzdzB3NFEyT0JhcDlPNnVxUkR1TkZrbjc2a0NMTnRfVlJpM3ZIU0g0M1ZQS2NpMVJYZjMzTFpFbWR4b2lnYw?oc=5",
+   "source": "재외동포신문",
+   "date": "Thu, 16 Jul 2026 15:22:46 GMT"
+  },
+  {
+   "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
+   "source": ":: 위즈경제 ::",
+   "date": "Thu, 16 Jul 2026 07:00:00 GMT"
+  },
+  {
+   "title": "중국 경제 흔들리자 베트남 공장도 '경고등'…차이나+1의 숨은 공급망",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XMFJXUVBOdVppTU5uZ2gxblNLc1dWQVVyWUEzenE4N3ZZd196UFIzc3FoTG1kZllPdVJFYUM0QXNBOFVjcjB2Wml2dFllcmJIbU40RW5HNTVmTmVjOVZIMGpURUNuTmfSAWtBVV95cUxNd1RzWE5LTVdVeklnUUdqczcxdkd2SUhJbGJsRXlDNFlzU2l4cDBsdnE0NFJlRk96OFE0QWgyNkp0aTZMOHZkX1ZyVWx2VGl2a0NjVXBmVmxhWFFvM1dKX3BTTmZubUVzeXBHTQ?oc=5",
+   "source": "한국관세신문",
+   "date": "Thu, 16 Jul 2026 06:49:52 GMT"
+  },
+  {
+   "title": "AI 중국경제에 새바람, 생산·투자·수출 전방위 '신성장 동력'",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MUjRDRk9KejZfOGQ4MkgyX29BZkpPOTl3UnFSNUhZZk42ZjRDZ095ZGNNY19Wc1NaN3p3cG9Jc2ZkT3ZjdEwxMDdDTnp4WHFydjBrQ2N1WXlGelo2?oc=5",
+   "source": "뉴스핌",
+   "date": "Thu, 16 Jul 2026 05:22:00 GMT"
+  },
+  {
+   "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52UVRRTTIyQW5udGJFTjhSbEhmTHc4Q2QyTHdTd1BWNzE5b0p0U0hWZk5LbmNjdUY5ZWh2MlBZaEczSnd3RVZGSlRfLXlrdU9HYTlfdmthLW01dTVn0gFiQVVfeXFMUDU0UmVDOFl4VUpZYzlneGtDWHJCX3luT1pfdFhKaGZENGxvWTRjRTZYNTltalJDYXVBUG9IV3I2Qy1IMGljUEdDV0k3d3JQbmVXV05QUzNZSWl5QkJPQk1jV0E?oc=5",
+   "source": "BBC",
+   "date": "Wed, 15 Jul 2026 09:03:52 GMT"
+  },
+  {
+   "title": "중국 경제 성장률 급락, 목표치 미달",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDdnV1b2NiM2JlcnVOSXhfRTJ4cU92QXVwbzl5aW85VXBmSkNTT0VzOVktbWxrSkJXQVlCYjNMeHMteTdaLS12OTJFM3pTNGU0QUlwR0RocVpjRlg2a2N1Q2FiZVdXX1ZBUk0wWU1B?oc=5",
+   "source": "뉴스타운",
+   "date": "Wed, 15 Jul 2026 06:10:57 GMT"
+  },
+  {
+   "title": "[그래픽] 중국 경제성장률 추이",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yeTFrTUdYUlVXVm54UUpRMGo3TlR5ZWlyOTlId25XQ1d4cmFzYWUwUm5RMEo3d05mQ0JISnYwWm41dzNpODBDbUxpY3ozRF9ZSXk3dWlmZ29pZlXSAWBBVV95cUxQbkROMTc3Z2tOX01xdTQ4ZWNhUjZsbXFmOU5NYXlmMlI2VWUzRUR5dU1YY29NMkoxbEVqbTJZNWtnZHp4WmRnQS1EVXpqRzdPaUNjMjU0X3FSTVhBbUVSXzI?oc=5",
+   "source": "연합뉴스",
+   "date": "Wed, 15 Jul 2026 05:13:04 GMT"
+  },
+  {
+   "title": "\"중국 경제 안 좋다\" 칭화대 전 교수, 강연 중 한 말에···경찰 출동 소동",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YU1llUUxBYTZzbGhkS2pBaE9ybXlnbnpISkVUZGVXc2w1X08tQkNJeU1OVWg1LUdldnBPLXYwRmMxc2hIWVlhNWJGNG5VbVUyOW9sRlUwYW5YZ9IBX0FVX3lxTFBTTXpMdDdfTjRzYW9YOG9pLUN6VXlyYjNVXzRiMWlkTF9PQWhFdmJfNTcyeVU2Z19uUHFSMVFBbU1LSHhOcm12Wi1zc0JYNVV1cXU2b2VwWEhPWFJ1YW5n?oc=5",
+   "source": "경향신문",
+   "date": "Thu, 02 Jul 2026 07:00:00 GMT"
+  }
+ ]
 }
