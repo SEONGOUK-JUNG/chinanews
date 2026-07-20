@@ -1,15 +1,21 @@
 {
- "run_at_kst": "2026-07-20T20:11:55+09:00",
+ "run_at_kst": "2026-07-21T07:09:33+09:00",
  "schema_version": "1.0",
  "query": "중국 경제",
  "source": "Google News (한국어)",
  "count": 12,
  "items": [
   {
-   "title": "中 증시 흔들리자 국가가 나섰다…국유기업, 13조 ‘구원투수’로 등판",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWUGRmeFlJa25kZjJpQl9fNU1DaDFzUVZhQWh0bUdMa19Td3Y0WUZzQUpRRWVzWnBmYUlEaFF0clQ4NElWa2plMWhIREFON09EUk1QUmJkQ3BmNHhudkdkbFkxdExMZ9IBU0FVX3lxTE1SbkhiVS1SekZRNGdkVkt2MVJGYzF1aEVSRkJaTzZLYXNSdmQyX3hVWjBueEZHLWhsWGNrQ1VjSUNYSjNKcjBPS3dWVlBXRUtLem9Z?oc=5",
+   "title": "[해외칼럼] 美·이란 전쟁의 승자는 중국이다",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YamdfMkxZa2xLeXZMSVhFdkFVOTlxVkdBb2NRTVBreVFXY1dic3FkOXFJZ2tNMGZTa0pQLVZndThrUERtbndBWERDWnNQOXB2bVHSAVNBVV95cUxNYXZ6UGRUbUNpLUpEcTFyNU0ycHF6dXc5SVplSVJvZjFwczdYdUtIMERxR00xZGhwMDFwN3N3dm1OMUhYUzhldnRUSVJkd3pFT3V6TQ?oc=5",
    "source": "서울경제",
-   "date": "Mon, 20 Jul 2026 09:35:54 GMT"
+   "date": "Mon, 20 Jul 2026 20:00:00 GMT"
+  },
+  {
+   "title": "2조 위안 보조금 투입하는 중국… 글로벌 제조 질서 재편",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX0FPaVZOWUx3OTBGVldJSzlYV3JwUFVCTUtkLTl5N0w3UmszQzYzTndEbmtUaTBwdl9MWjBrcVE5M1FJMzF0MGY2SzI3SUlDeXZreGoxX2Fva2J5eFpsTm9USWYyajExdlpMYk5tUHV1M0I3QVM1dEFxVldCWmU2V3FsZFNsNF8z?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "Mon, 20 Jul 2026 19:05:00 GMT"
   },
   {
    "title": "태국과 중국, 경제 및 안보 협력 강화.",
@@ -36,12 +42,6 @@
    "date": "Mon, 20 Jul 2026 02:09:48 GMT"
   },
   {
-   "title": "[중국 뉴스 브리핑] 2026년 7월 20일",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaMVhlOUpJc25yWkxGQlVIMHZFWmVrXzJncGoyNzFlbGNzY0hpbXkwSXJXeV9zT1g0T05vOVU5SmhBcXJ6N0FzWDlBamZhTlFZcEp0Z1AzNHhJMTN0T3ZzNDM2OUdlalRrc1E?oc=5",
-   "source": "인민망 한국어판",
-   "date": "Mon, 20 Jul 2026 01:59:00 GMT"
-  },
-  {
    "title": "중국, 기준금리 역할 LPR 14개월째 동결⋯경기 부양보다 '관망' 선택",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BUEd0YmVURDkxMWw1clFNZkdvOTAybi1jQmRxSW9raE1TV2dncExpXzNhelM3elRMVE05eTd3VDBvSjE3N21ESWh1LXJBY3ZranZHWWFLQjZiX3FJRmc?oc=5",
    "source": "포커스온경제",
@@ -66,16 +66,16 @@
    "date": "Wed, 15 Jul 2026 09:03:52 GMT"
   },
   {
-   "title": "중국 상반기 경제 성적표는?…스스로 인정한 “강 공급, 약 수요의 모순”",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxZTc2YWRuOWhXd25Lbld0b1cxdTVYZFQ2bzl6cl9COXlJUng3czh4bEhYcWkxaldOWHNoUF9wQURBeEZVTkFMRHhlWF9SUExOZEg3cl9ESUFFM1U?oc=5",
-   "source": "KBS 뉴스",
-   "date": "Wed, 15 Jul 2026 05:48:28 GMT"
-  },
-  {
    "title": "[그래픽] 중국 경제성장률 추이",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yeTFrTUdYUlVXVm54UUpRMGo3TlR5ZWlyOTlId25XQ1d4cmFzYWUwUm5RMEo3d05mQ0JISnYwWm41dzNpODBDbUxpY3ozRF9ZSXk3dWlmZ29pZlXSAWBBVV95cUxQbkROMTc3Z2tOX01xdTQ4ZWNhUjZsbXFmOU5NYXlmMlI2VWUzRUR5dU1YY29NMkoxbEVqbTJZNWtnZHp4WmRnQS1EVXpqRzdPaUNjMjU0X3FSTVhBbUVSXzI?oc=5",
    "source": "연합뉴스",
    "date": "Wed, 15 Jul 2026 05:13:04 GMT"
+  },
+  {
+   "title": "“중국 경제 안 좋다” 칭화대 전 교수, 강연 중 한 말에···경찰 출동 소동",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YU1llUUxBYTZzbGhkS2pBaE9ybXlnbnpISkVUZGVXc2w1X08tQkNJeU1OVWg1LUdldnBPLXYwRmMxc2hIWVlhNWJGNG5VbVUyOW9sRlUwYW5YZ9IBX0FVX3lxTFBTTXpMdDdfTjRzYW9YOG9pLUN6VXlyYjNVXzRiMWlkTF9PQWhFdmJfNTcyeVU2Z19uUHFSMVFBbU1LSHhOcm12Wi1zc0JYNVV1cXU2b2VwWEhPWFJ1YW5n?oc=5",
+   "source": "경향신문",
+   "date": "Thu, 02 Jul 2026 07:00:00 GMT"
   }
  ]
 }
