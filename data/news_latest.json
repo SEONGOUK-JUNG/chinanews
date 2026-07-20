@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-20T07:07:05.254143+09:00",
+  "run_at_kst": "2026-07-20T10:06:43.729951+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Did Scientists Just Solve The Biggest Mystery Holding Back Solid-State Batteries",
+      "link": "https://oilprice.com/Energy/Energy-General/Did-Scientists-Just-Solve-The-Biggest-Mystery-Holding-Back-Solid-State-Batteries.html",
+      "source": "OilPrice",
+      "date": "Sun, 19 Jul 2026 18:00:00 -0500"
+    },
     {
       "title": "What Are Mineral Rights? The Complete Guide to Owning, Leasing and Selling Them",
       "link": "https://oilprice.com/Energy/Energy-General/What-Are-Mineral-Rights-The-Complete-Guide-to-Owning-Leasing-and-Selling-Them.html",
@@ -60,12 +66,6 @@
       "link": "https://oilprice.com/Latest-Energy-News/World-News/BP-ConocoPhillips-Partner-In-Iraqs-Giant-Oilfield.html",
       "source": "OilPrice",
       "date": "Fri, 17 Jul 2026 12:30:00 -0500"
-    },
-    {
-      "title": "US Oil Drilling Picks Up As Brent Gains 4%",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Oil-Drilling-Picks-Up-As-Brent-Gains-4.html",
-      "source": "OilPrice",
-      "date": "Fri, 17 Jul 2026 12:27:07 -0500"
     },
     {
       "title": "US widens lead over Europe in critical minerals race: WSJ",

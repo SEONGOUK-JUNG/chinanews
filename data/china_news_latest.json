@@ -1,21 +1,21 @@
 {
-  "run_at_kst": "2026-07-20T07:08:46.586724+09:00",
+  "run_at_kst": "2026-07-20T10:08:20.969357+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "한국 반도체가 미국 물가를 흔든다? \"한국 견제 땐 중국 반사이익\"[반도체 삼국지]",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZRlNWVm9aWUd4V1oxNURTR3gzczdvTGJLdUVnZGRTOXRQeXdsMVR1YzRCVy1Wa3VvVWIyWmVYMVVmcWVzQThMRS1iUnRsdlU?oc=5",
+      "title": "시진핑 방문에 북중 무역 급증...中 관광객도 몰려든다",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DTDhKUlViUnkyMXFJVkpxS0hRcmY2amRQendDblVlRjR3TWwxbHpicVlURjZuazk3YUI0YzBHY1RTYnBPWmxuT0t1U3A4dVE?oc=5",
       "source": "v.daum.net",
-      "date": "Sun, 19 Jul 2026 21:43:36 GMT"
+      "date": "Mon, 20 Jul 2026 00:49:15 GMT"
     },
     {
-      "title": "글로벌 시장 판도 뒤흔드는 중국차…美에도 ‘눈독’ [차이나 인베이전: 중국車, 세계시장 공략 가속화 ①]",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vNjMzWlV6QVRUZDZ5U3dVSkhVQWJ0VklHTHZWSUlQbWNvZU1WVi15NktqdTJTTHVleThjck9pOFc1ZFMwSllCbUhfckIxU2c?oc=5",
-      "source": "v.daum.net",
-      "date": "Sun, 19 Jul 2026 20:00:08 GMT"
+      "title": "[외신 에스프레소] 중국 '키미 K3' 쇼크에…美 반도체주 급락",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56M21mekhvUWJlc19EVGV2VTh6bGlWWnlSR0h2dnhDWjNIR2VTOTYtTG01VzhERGY0MGxkalhBamJ5blpuRkwtQmw4Y1k1NTR4V01VcUxYek1uUQ?oc=5",
+      "source": "한국경제",
+      "date": "Sun, 19 Jul 2026 23:15:54 GMT"
     },
     {
       "title": "[오늘의 경제뉴스] 월요일 코스피에 쏠린 세계의 눈…중국 AI발 충격 '흡수냐, 증폭이냐'",
@@ -36,16 +36,16 @@
       "date": "Fri, 17 Jul 2026 23:34:00 GMT"
     },
     {
+      "title": "중국, 수출 호황에도 내수 침체…장기 성장률 4%대 전망",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SWk5MajZpVDRhd1IxQjBsaDQyTnByY2YzUzdqODZmXzlDd0lWYmxzdzB3NFEyT0JhcDlPNnVxUkR1TkZrbjc2a0NMTnRfVlJpM3ZIU0g0M1ZQS2NpMVJYZjMzTFpFbWR4b2lnYw?oc=5",
+      "source": "재외동포신문",
+      "date": "Thu, 16 Jul 2026 15:22:46 GMT"
+    },
+    {
       "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
       "source": ":: 위즈경제 ::",
       "date": "Thu, 16 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "중국 경제 흔들리자 베트남 공장도 ‘경고등’…차이나+1의 숨은 공급망",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XMFJXUVBOdVppTU5uZ2gxblNLc1dWQVVyWUEzenE4N3ZZd196UFIzc3FoTG1kZllPdVJFYUM0QXNBOFVjcjB2Wml2dFllcmJIbU40RW5HNTVmTmVjOVZIMGpURUNuTmfSAWtBVV95cUxNd1RzWE5LTVdVeklnUUdqczcxdkd2SUhJbGJsRXlDNFlzU2l4cDBsdnE0NFJlRk96OFE0QWgyNkp0aTZMOHZkX1ZyVWx2VGl2a0NjVXBmVmxhWFFvM1dKX3BTTmZubUVzeXBHTQ?oc=5",
-      "source": "한국관세신문",
-      "date": "Thu, 16 Jul 2026 06:49:52 GMT"
     },
     {
       "title": "AI 중국경제에 새바람, 생산·투자·수출 전방위 '신성장 동력'",
@@ -60,12 +60,6 @@
       "date": "Wed, 15 Jul 2026 09:03:52 GMT"
     },
     {
-      "title": "중국 상반기 경제 성적표는?…스스로 인정한 “강 공급, 약 수요의 모순”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxZTc2YWRuOWhXd25Lbld0b1cxdTVYZFQ2bzl6cl9COXlJUng3czh4bEhYcWkxaldOWHNoUF9wQURBeEZVTkFMRHhlWF9SUExOZEg3cl9ESUFFM1U?oc=5",
-      "source": "KBS 뉴스",
-      "date": "Wed, 15 Jul 2026 05:48:28 GMT"
-    },
-    {
       "title": "[그래픽] 중국 경제성장률 추이",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yeTFrTUdYUlVXVm54UUpRMGo3TlR5ZWlyOTlId25XQ1d4cmFzYWUwUm5RMEo3d05mQ0JISnYwWm41dzNpODBDbUxpY3ozRF9ZSXk3dWlmZ29pZlXSAWBBVV95cUxQbkROMTc3Z2tOX01xdTQ4ZWNhUjZsbXFmOU5NYXlmMlI2VWUzRUR5dU1YY29NMkoxbEVqbTJZNWtnZHp4WmRnQS1EVXpqRzdPaUNjMjU0X3FSTVhBbUVSXzI?oc=5",
       "source": "연합뉴스",
@@ -73,9 +67,15 @@
     },
     {
       "title": "“중국 경제 안 좋다” 칭화대 전 교수, 강연 중 한 말에···경찰 출동 소동",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YU1llUUxBYTZzbGhkS2pBaE9ybXlnbnpISkVUZGVXc2w1X08tQkNJeU1OVWg1LUdldnBPLXYwRmMxc2hIWVlhNWJGNG5VbVUyOW9sRlUwYW5YZ9IBX0FVX3lxTFBTTXpMdDdfTjRzYW9YOG9pLUN6VXlyYjNVXzRiMWlkTF9PQWhFdmJfNTcyeVU2Z19uUHFSMVFBbU1LSHhOcm12Wi1zc0JYNVV1cXU2b2VwWEhPWFJ1YW5n?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YU1llUUxBYTZzbGhkS2pBaE9ybXlnbnpISkVUZGVXc2w1X08tQkNJeU1OVWg1LUdldnBPLXYwRmMxc2hIWVlhNWJGNG5VbVUyOW9sRlUwYW5YZ9IBX0FVX3lxTFBTTXpMdDdfTjRzYW9YOG9pLUN6VXlyYjNVXzRiMWlkTF9PQWhFdmJfNTcyeVU2Z19uUHFSMVFBbU1LSHhOcm0yWi1zc0JYNVV1cXU2b2VwWEhPWFJ1YW5n?oc=5",
       "source": "경향신문",
       "date": "Thu, 02 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "경제는 ‘흔들’ 기술은 ‘질주’하는 중국의 딜레마, 실체는?",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZG1sWUFDY2l6bFoyeFBUdTdzUjgwU1o0clpaZm5hSk9QU0NvUE5uQWdaelg0OFhKNXI2dXk5VnNjSVE5R3lwMkpDMFFiRzc1LW9nYnVn?oc=5",
+      "source": "중앙일보",
+      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
     }
   ]
 }
