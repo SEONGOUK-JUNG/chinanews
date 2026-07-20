@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-20T10:06:43.729951+09:00",
+  "run_at_kst": "2026-07-20T14:05:39.446566+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -14,16 +14,16 @@
       "date": "Sun, 19 Jul 2026 18:00:00 -0500"
     },
     {
+      "title": "Europe Was Supposed to Run Out of Jet Fuel by June. It Didn’t",
+      "link": "https://oilprice.com/Energy/Energy-General/Europe-Was-Supposed-to-Run-Out-of-Jet-Fuel-by-June-It-Didnt.html",
+      "source": "OilPrice",
+      "date": "Sun, 19 Jul 2026 16:00:00 -0500"
+    },
+    {
       "title": "What Are Mineral Rights? The Complete Guide to Owning, Leasing and Selling Them",
       "link": "https://oilprice.com/Energy/Energy-General/What-Are-Mineral-Rights-The-Complete-Guide-to-Owning-Leasing-and-Selling-Them.html",
       "source": "OilPrice",
       "date": "Sun, 19 Jul 2026 14:00:00 -0500"
-    },
-    {
-      "title": "Energy Storage Key To Avoiding The Next Energy Crisis",
-      "link": "https://oilprice.com/Energy/Energy-General/Energy-Storage-Key-To-Avoiding-The-Next-Energy-Crisis.html",
-      "source": "OilPrice",
-      "date": "Sun, 19 Jul 2026 10:00:00 -0500"
     },
     {
       "title": "Europe's Heatwave Is Becoming an Energy Crisis",
@@ -62,7 +62,7 @@
       "date": "Fri, 17 Jul 2026 13:00:00 -0500"
     },
     {
-      "title": "BP, ConocoPhillips Partner In Iraq's Giant Oilfield",
+      "title": "BP, ConocoPhillips Partner In Iraq’s Giant Oilfield",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/BP-ConocoPhillips-Partner-In-Iraqs-Giant-Oilfield.html",
       "source": "OilPrice",
       "date": "Fri, 17 Jul 2026 12:30:00 -0500"

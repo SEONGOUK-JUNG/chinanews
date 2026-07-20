@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-20T09:30:04.318389+09:00",
+  "run_at_kst": "2026-07-20T13:00:08.973265+09:00",
   "source": "Yahoo Finance (yfinance)",
   "source_url": "https://finance.yahoo.com/currencies",
   "delay": "15-20min",
@@ -7,36 +7,36 @@
     "usd_krw": {
       "name": "USD/KRW",
       "memo": "달러/원",
-      "value": 1487.78,
+      "value": 1481.17,
       "prev_value": 1487.46,
-      "change_pct": 0.0215,
+      "change_pct": -0.4229,
       "source": "yfinance",
       "ticker": "USDKRW=X"
     },
     "cny_krw": {
       "name": "CNY/KRW",
       "memo": "위안/원",
-      "value": 219.486,
+      "value": 218.804,
       "prev_value": 219.395,
-      "change_pct": 0.0415,
+      "change_pct": -0.2694,
       "source": "yfinance",
       "ticker": "CNYKRW=X"
     },
     "jpy_krw": {
       "name": "JPY/KRW (100엔)",
       "memo": "엔/원 (×100 보정)",
-      "value": 913.7,
+      "value": 910.0,
       "prev_value": 913.8,
-      "change_pct": -0.0109,
+      "change_pct": -0.4158,
       "source": "yfinance",
       "ticker": "JPYKRW=X"
     },
     "eur_krw": {
       "name": "EUR/KRW",
       "memo": "유로/원",
-      "value": 1700.4,
+      "value": 1694.0,
       "prev_value": 1700.9,
-      "change_pct": -0.0294,
+      "change_pct": -0.4057,
       "source": "yfinance",
       "ticker": "EURKRW=X"
     }
@@ -45,9 +45,9 @@
     "usd_cny": {
       "name": "USD/CNY",
       "memo": "달러/위안 (Yahoo 직접)",
-      "value": 6.7677,
+      "value": 6.7706,
       "prev_value": 6.7677,
-      "change_pct": 0.0,
+      "change_pct": 0.0428,
       "source": "yfinance",
       "ticker": "USDCNY=X"
     }
