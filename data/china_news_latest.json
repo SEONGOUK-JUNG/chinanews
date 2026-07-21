@@ -1,81 +1,81 @@
 {
- "run_at_kst": "2026-07-21T20:13:14.548670+09:00",
- "schema_version": "1.0",
- "query": "중국 경제",
- "source": "Google News (한국어)",
- "count": 12,
- "items": [
-  {
-   "title": "‘디플레’ 중국 경제에 때아닌 달걀 인플레...물가 비상",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01ZnVheTREWUs4ZTg5eFo1ZEI0c2RpLTZlSV9oS2licnVhdHRwWk14UWRvNUNfS20xclRHbWVaTWVBcl80Q2J4ZWZsWDJCTUE?oc=5",
-   "source": "v.daum.net",
-   "date": "Tue, 21 Jul 2026 05:22:03 GMT"
-  },
-  {
-   "title": "[부땅토 부동산 칼럼] 중국 경제 성장률 4.7%, 숫자보다 중요한 것은 '복합 위기'의 신호였다",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5URWtDaGw1LW8wTEJfUWQ4SkZnT0pQZDZzTm5pTGZtOGJqaHUyLXBaT2VBWEtXVzQ4eXlzSkJlSWQtWWktYV9La2plc28?oc=5",
-   "source": "한국AI부동산신문",
-   "date": "Tue, 21 Jul 2026 02:24:39 GMT"
-  },
-  {
-   "title": "[허무호의 근본경제]자본의 미국 vs 설계도의 중국... 진짜 승부는 27일 갈린다",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01cVhwczNGYlZ3WnBxSk1ZUThUYU5id3VWbnNfSEx2ZTRzZkl3UnNmMUJyUlgwYWhSVTVHdl93amVIQ2JlUzdfRDh4NmxJOEo5aWNIdUZTRExId0ZJWU1PNnB5U2s?oc=5",
-   "source": "법률방송뉴스",
-   "date": "Tue, 21 Jul 2026 00:18:36 GMT"
-  },
-  {
-   "title": "지역 빈부격차 더 심화 中, 경제 최대 현안 급부상",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02QzlqVF9PZ1ZmVmpSZk05UHdrOWJ4T0RWdURXVlpnaGRPR0VLVkxGYVREZkMySjlSeHhtNWpRcVV1Yy1RWEpXQzhNeDA5TWh4MEs2M1BhdjhTZVFlMHNZOHVJcUFJNERkREZVYmp3?oc=5",
-   "source": "아시아투데이",
-   "date": "Mon, 20 Jul 2026 22:03:58 GMT"
-  },
-  {
-   "title": "[해외칼럼] 美·이란 전쟁의 승자는 중국이다",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YamdfMkxZa2xLeXZMSVhFdkFVOTlxVkdBb2NRTVBreVFXY1dic3FkOXFJZ2tNMGZTa0pQLVZndThrUERtbndBWERDWnNQOXB2bVHSAVNBVV95cUxNYXZ6UGRUbUNpLUpEcTFyNU0ycHF6dXc5SVplSVJvZjFwczdYdUtIMERxR00xZGhwMDFwN3N3dm1OMUhYUzhldnRUSVJkd3pFT3V6TQ?oc=5",
-   "source": "서울경제",
-   "date": "Mon, 20 Jul 2026 20:00:00 GMT"
-  },
-  {
-   "title": "“중국 떠나는 글로벌 자본”…KKR·AEW, 상업용 부동산 헐값 매각 추진",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tc2NRT3hDcVRpRHBqY2JmbWpWS3pHS0RRcUUzWFNhWV85ZVFtSmRpMFlFRG9kSHZPWXB0M3doLTAwa1UxM2E3S2hOTlFtOTBxX09CUjc2UjZUYkdFSDM0TXBGLW5URFBtM3lpcw?oc=5",
-   "source": "파이낸스투데이",
-   "date": "Mon, 20 Jul 2026 07:25:00 GMT"
-  },
-  {
-   "title": "美·브라질 갈등 속 중국·브라질 경제 협력 '역대 최고 단계'",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BNzlzdHB4RzJzcTIwNVFzVFcxbXR5LVNHaDJTckRJNDZ2dDNWZVE2WjhPNEJURXpHdkxWa0ZtVmg2NlVqSTFGLXFWZVl3SkFPeVl4aTUwWk5TeG5z?oc=5",
-   "source": "뉴스핌",
-   "date": "Mon, 20 Jul 2026 06:38:00 GMT"
-  },
-  {
-   "title": "OE \"중국, '일본형' 장기 불황 위험 직면…수년간 위기 고조\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fZzJBTUwxRnh5Z3dRMUNWX3A5WEpTelRZclhtTjJjdEZoOWhsblh5SXhIWml5OWREWGFZQzJxTzRGMGdfc0hidWRBT3kyWFJ4Wlhic3M0Ui1yV3NMRGpXNUo2OXFtVWMzVjNVdEV3djE?oc=5",
-   "source": "연합인포맥스",
-   "date": "Mon, 20 Jul 2026 02:09:48 GMT"
-  },
-  {
-   "title": "\"집·차 대신 '이거' 사요\"…中 MZ의 행복 가성비[중국.zip]",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YNHlTMEszOHRUZFZjaXpLd21jZGRKa1FYeVpDQzJ4TV8wVGhsbERSVi01amtlZDNWUXBzWkl5MXQwRkRZNjVyVW13aUlEXzlyM1NF?oc=5",
-   "source": "네이트",
-   "date": "Sat, 18 Jul 2026 22:21:00 GMT"
-  },
-  {
-   "title": "중국도 반도체 빅사이클 수혜...6월 수출 27% 급증",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lUGZpcTJuLVdiQ2Fxd1FVd3ZqNmpaVk1IU2VLQ2ZjZENPdzRuVUlkVHlkWWllcVlUNG1FSHdGUktuTTVMWTk2bG9aRFZINk0?oc=5",
-   "source": "v.daum.net",
-   "date": "Sat, 18 Jul 2026 21:01:48 GMT"
-  },
-  {
-   "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
-   "source": ":: 위즈경제 ::",
-   "date": "Thu, 16 Jul 2026 07:00:00 GMT"
-  },
-  {
-   "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52UVRRTTIyQW5udGJFTjhSbEhmTHc4Q2QyTHdTd1BWNzE5b0p0U0hWZk5LbmNjdUY5ZWh2MlBZaEczSnd3RVZGSlRfLXlrdU9HYTlfdmthLW01dTVn0gFiQVVfeXFMUDU0UmVDOFl4VUpZYzlneGtDWHJCX3luT1pfdFhKaGZENGxvWTRjRTZYNTltalJDYXVBUG9IV3I2Qy1IMGljUEdDV0k3d3JQbmVXV05QUzNZSWl5QkJPQk1jV0E?oc=5",
-   "source": "BBC",
-   "date": "Wed, 15 Jul 2026 09:03:52 GMT"
-  }
- ]
+  "run_at_kst": "2026-07-22T07:16:29+09:00",
+  "schema_version": "1.0",
+  "query": "중국 경제",
+  "source": "Google News (한국어)",
+  "count": 12,
+  "items": [
+    {
+      "title": "중국의 26. 2/4분기 경제성장률(4.3%)에 대한 현지 평가",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYzRWVjB1Z1NSc2hGTkdIUjhGQThMRXhRMnNKSXhzWGVROFVNN3I2aFE5S25DX2Y0UjJPSzZMMzM5ZVFUM0pLQmJSS2FaRFBybzNtbFQtU3RVUXJWYVNXa3RFZ0FzVnpTai1iR1NiS3ZTWXNtb1ZtR0gyaHY3ZGZCZw?oc=5",
+      "source": "KDI 경제교육",
+      "date": "Tue, 21 Jul 2026 16:34:19 GMT"
+    },
+    {
+      "title": "\"치킨보다 비싼 계란?\"…중국 덮친 '로켓 달걀' 물가 충격",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Cc0x0a2NZUlRQcV9rTjdQX3plbXVWakV1UTNlTTF2Y2ZmZjFtZjRoQnFXbDhXRmp0b2taamhVMTFiZWpIRE5hTS1hNWl1ajFSbndqQkZraUZjVzZlTi1oOdIBeEFVX3lxTE8xaEQzMGxZZmxQejVYeGF2ckhaNEk3Zl9mazN6SXQtRUdJbUJlYjY5MzZSRkIyY3NoekJPdUpad1BPZ3g3QklydTBPaDRXcVg1Y0JaZ1Q2czBJY2ZUYlVFWVFJWG9SYzZYLWxvNFhhazJJMkRCMlJoUw?oc=5",
+      "source": "뉴시스",
+      "date": "Tue, 21 Jul 2026 12:38:52 GMT"
+    },
+    {
+      "title": "[경제] 中 경제브리핑...중국 개발 사족보행 로봇, 세계 판매량의 약 70% 外",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DbThFbHNwNVEzeTAwMkRPWHFGZTRrTHVrcVFidHJ0VlRVeWFINHBWY1ZaSjlka09EejRvR3ZFb0dKX3NxQzN6eW1ybUoxNlE2Q3pQWFdqQlNMa0FBN0RlVGxqMFVQSm8xOTNqMExrN0VQZw?oc=5",
+      "source": "동방일보",
+      "date": "Tue, 21 Jul 2026 11:21:46 GMT"
+    },
+    {
+      "title": "충남도, 중국 장쑤성과 AI·환경·경제 협력 확대",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6NHVIUy1TZDZjaUdtRFZaWW1qZk1sYVZVSHBlZXFLZ1RKWUZaUXlsb2ItUVB3ZWpOWlo2WTVKYVNzR2EyaFJER0RhQTFkXzREZWt3T05aYmNpRC1PMEVsLXQ2M2pfd0VnRWRVb3dB?oc=5",
+      "source": "전국매일신문",
+      "date": "Tue, 21 Jul 2026 08:45:00 GMT"
+    },
+    {
+      "title": "[中 증시 마감] 부양책에 V자 반등...반도체 급등",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NYXhrVmw5R3ZvRkdaalVRR19ZVGY0WWE4M2xUUDZXUVZQNThOWFVuTGtMQ3BGLVdtM1djQkNTNXViZnpRQXZON0lyVTVlM2xJbTMzaWozNFRYd9IBWEFVX3lxTE9pTTl5c1dHMFJCWmdTSDdEZFEwZ2JQSVREQ05rM0JvbUxqTEx4SjNjb0RTZVpEUUdrNDhaaXdUaTZCbTVkSTY5YU9ZZmN3RlUzRm1lNHBnM3o?oc=5",
+      "source": "아주경제",
+      "date": "Tue, 21 Jul 2026 07:09:06 GMT"
+    },
+    {
+      "title": "中 차음료 시장 성장 둔화…커피·간식으로 활로 찾는다",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84cjZjMTgzU1NKelBvSlQ3a1BfWXh1bll0dDFVWmRNY3pzbEVrRS10bjdMd1ZSRzVfNzJEeFhLNHBsZjlZejloZWtyR3k3NW44NGRXcHRlbVhVZWZSejBXOHdvbVJhelY3MXQwYWl3?oc=5",
+      "source": "알파경제",
+      "date": "Tue, 21 Jul 2026 06:57:01 GMT"
+    },
+    {
+      "title": "‘디플레’ 중국 경제에 때아닌 달걀 인플레...물가 비상",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZZnFkX19iM3EwdUpKZHdWTTBLLWstQTR2d05oRkhYU2FZWG50eG9ySmE3RWpCNGxQT0pHb05BYktLQzBuQ1lmUzFlV0VWcjZ0RjNqag?oc=5",
+      "source": "이투데이",
+      "date": "Tue, 21 Jul 2026 05:21:00 GMT"
+    },
+    {
+      "title": "[부땅토 부동산 칼럼] 중국 경제 성장률 4.7%, 숫자보다 중요한 것은 '복합 위기'의 신호였다",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5URWtDaGw1LW8wTEJfUWQ4SkZnT0pQZDZzTm5pTGZtOGJqaHUyLXBaT2VBWEtXVzQ4eXlzSkJlSWQtWWktYV9La2plc28?oc=5",
+      "source": "한국AI부동산신문",
+      "date": "Tue, 21 Jul 2026 02:24:39 GMT"
+    },
+    {
+      "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Thu, 16 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52UVRRTTIyQW5udGJFTjhSbEhmTHc4Q2QyTHdTd1BWNzE5b0p0U0hWZk5LbmNjdUY5ZWh2MlBZaEczSnd3RVZGSlRfLXlrdU9HYTlfdmthLW01dTVn0gFiQVVfeXFMUDU0UmVDOFl4VUpZYzlneGtDWHJCX3luT1pfdFhKaGZENGxvWTRjRTZYNTltalJDYXVBUG9IV3I2Qy1IMGljUEdDV0k3d3JQbmVXV05QUzNZSWl5QkJPQk1jV0E?oc=5",
+      "source": "BBC",
+      "date": "Wed, 15 Jul 2026 09:03:52 GMT"
+    },
+    {
+      "title": "[그래픽] 중국 경제성장률 추이",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yeTFrTUdYUlVXVm54UUpRMGo3TlR5ZWlyOTlId25XQ1d4cmFzYWUwUm5RMEo3d05mQ0JISnYwWm41dzNpODBDbUxpY3ozRF9ZSXk3dWlmZ29pZlXSAWBBVV95cUxQbkROMTc3Z2tOX01xdTQ4ZWNhUjZsbXFmOU5NYXlmMlI2VWUzRUR5dU1YY29NMkoxbEVqbTJZNWtnZHp4WmRnQS1EVXpqRzdPaUNjMjU0X3FSTVhBbUVSXzI?oc=5",
+      "source": "연합뉴스",
+      "date": "Wed, 15 Jul 2026 05:13:04 GMT"
+    },
+    {
+      "title": "“중국 경제 안 좋다” 칭화대 전 교수, 강연 중 한 말에···경찰 출동 소동",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YU1llUUxBYTZzbGhkS2pBaE9ybXlnbnpISkVUZGVXc2w1X08tQkNJeU1OVWg1LUdldnBPLXYwRmMxc2hIWVlhNWJGNG5VbVUyOW9sRlUwYW5YZ9IBX0FVX3lxTFBTTXpMdDdfTjRzYW9YOG9pLUN6VXlyYjNVXzRiMWlkTF9PQWhFdmJfNTcyeVU2Z19uUHFSMVFBbU1LSHhOcm12Wi1zc0JYNVV1cXU2b2VwWEhPWFJ1YW5n?oc=5",
+      "source": "경향신문",
+      "date": "Thu, 02 Jul 2026 07:00:00 GMT"
+    }
+  ]
 }

@@ -1,95 +1,95 @@
 {
- "run_at_kst": "2026-07-21T20:13:14.548670+09:00",
- "schema_version": "1.0",
- "sources": [
-  "mining.com",
-  "OilPrice.com"
- ],
- "count": 14,
- "items": [
-  {
-   "title": "India Keeps Buying Russian Oil at Near-Record Pace Despite Expired Waiver",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Keeps-Buying-Russian-Oil-at-Near-Record-Pace-Despite-Expired-Waiver.html",
-   "source": "OilPrice",
-   "date": "Tue, 21 Jul 2026 05:29:08 -0500"
-  },
-  {
-   "title": "Pakistan Shells Out Record Sums for Spot LNG as Qatar Supply Falters",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Shells-Out-Record-Sums-for-Spot-LNG-as-Qatar-Supply-Falters.html",
-   "source": "OilPrice",
-   "date": "Tue, 21 Jul 2026 04:38:09 -0500"
-  },
-  {
-   "title": "ADNOC Approves $6.2 Billion Gas Project in Abu Dhabi",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Approves-62-Billion-Gas-Project-in-Abu-Dhabi.html",
-   "source": "OilPrice",
-   "date": "Tue, 21 Jul 2026 03:49:00 -0500"
-  },
-  {
-   "title": "Iran Says U.S. Struck Unfinished Nuclear Plant, Warns of Safety Risk",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-US-Struck-Unfinished-Nuclear-Plant-Warns-of-Safety-Risk.html",
-   "source": "OilPrice",
-   "date": "Tue, 21 Jul 2026 02:44:04 -0500"
-  },
-  {
-   "title": "Oil Reverses Gains on Renewed Hope of Peace in Iran",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Reverses-Gains-on-Renewed-Hope-of-Peace-in-Iran.html",
-   "source": "OilPrice",
-   "date": "Tue, 21 Jul 2026 01:09:31 -0500"
-  },
-  {
-   "title": "Goldman Warns Oil Could Hit $120 as Middle East War Drags On",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Warns-Oil-Could-Hit-120-as-Middle-East-War-Drags-On.html",
-   "source": "OilPrice",
-   "date": "Tue, 21 Jul 2026 00:36:45 -0500"
-  },
-  {
-   "title": "Higher-For-Longer Oil Scenario Is Here To Stay",
-   "link": "https://oilprice.com/Energy/Crude-Oil/Higher-For-Longer-Oil-Scenario-Is-Here-To-Stay.html",
-   "source": "OilPrice",
-   "date": "Mon, 20 Jul 2026 19:00:00 -0500"
-  },
-  {
-   "title": "Rule Symposium Video: Central banks double gold-buying pace",
-   "link": "https://www.mining.com/rule-symposium-video-central-banks-double-gold-buying-pace/",
-   "source": "mining.com",
-   "date": "Mon, 20 Jul 2026 23:33:00 +0000"
-  },
-  {
-   "title": "With The U.S.-Iran Deal Collapsing, How Exposed Are Oil Markets Right Now?",
-   "link": "https://oilprice.com/Energy/Crude-Oil/With-The-US-Iran-Deal-Collapsing-How-Exposed-Are-Oil-Markets-Right-Now.html",
-   "source": "OilPrice",
-   "date": "Mon, 20 Jul 2026 18:00:00 -0500"
-  },
-  {
-   "title": "Tactical Resources gets Nasdaq approval; to accelerate Texas rare earths project",
-   "link": "https://www.mining.com/tactical-resources-gets-nasdaq-approval-to-accelerate-texas-rare-earths-project/",
-   "source": "mining.com",
-   "date": "Mon, 20 Jul 2026 22:09:51 +0000"
-  },
-  {
-   "title": "Copper price rises as key China gauge hits one-year high, Chile output losses mount",
-   "link": "https://www.mining.com/copper-price-rises-as-key-china-gauge-hits-one-year-high-chile-output-losses-mount/",
-   "source": "mining.com",
-   "date": "Mon, 20 Jul 2026 18:06:10 +0000"
-  },
-  {
-   "title": "Silver rebounds from 8-month low, gold price defends $4,000",
-   "link": "https://www.mining.com/silver-rebounds-from-8-month-low-gold-price-defends-4000/",
-   "source": "mining.com",
-   "date": "Mon, 20 Jul 2026 17:50:27 +0000"
-  },
-  {
-   "title": "Orezone restarts Quebec mine after wildfire pause",
-   "link": "https://www.mining.com/orezone-restarts-quebec-mine-after-wildfire-pause/",
-   "source": "mining.com",
-   "date": "Mon, 20 Jul 2026 17:00:00 +0000"
-  },
-  {
-   "title": "London Gold offers $25M for Bolivia-focused Bocana",
-   "link": "https://www.mining.com/london-gold-offers-25m-for-bolivia-focused-bocana/",
-   "source": "mining.com",
-   "date": "Mon, 20 Jul 2026 16:54:09 +0000"
-  }
- ]
+  "run_at_kst": "2026-07-22T07:16:29+09:00",
+  "schema_version": "1.0",
+  "sources": [
+    "mining.com",
+    "OilPrice.com"
+  ],
+  "count": 14,
+  "items": [
+    {
+      "title": "Fossil Fuels Still Generate 57% of the World's Electricity",
+      "link": "https://oilprice.com/Energy/Energy-General/Fossil-Fuels-Still-Generate-57-of-the-Worlds-Electricity.html",
+      "source": "OilPrice",
+      "date": "Tue, 21 Jul 2026 17:00:00 -0500"
+    },
+    {
+      "title": "US Crude Oil Inventories Build As Hormuz Shipping Headache Drags On",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Build-As-Hormuz-Shipping-Headache-Drags-On.html",
+      "source": "OilPrice",
+      "date": "Tue, 21 Jul 2026 16:10:00 -0500"
+    },
+    {
+      "title": "Energy IPOs Are Booming Thanks to AI’s Insatiable Thirst for Power",
+      "link": "https://oilprice.com/Energy/Energy-General/Energy-IPOs-Are-Booming-Thanks-to-AIs-Insatiable-Thirst-for-Power.html",
+      "source": "OilPrice",
+      "date": "Tue, 21 Jul 2026 16:00:00 -0500"
+    },
+    {
+      "title": "Movie producer Lee Caplin joins NovaRed Mining after Noem",
+      "link": "https://www.mining.com/movie-producer-lee-caplin-joins-novared-mining-after-noem/",
+      "source": "mining.com",
+      "date": "Tue, 21 Jul 2026 20:39:03 +0000"
+    },
+    {
+      "title": "Norway's Oil Output Beats Forecasts as Hormuz Traffic Stays Near Crisis Lows",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Norways-Oil-Output-Beats-Forecasts-as-Hormuz-Traffic-Stays-Near-Crisis-Lows.html",
+      "source": "OilPrice",
+      "date": "Tue, 21 Jul 2026 15:00:00 -0500"
+    },
+    {
+      "title": "Permitting reform key to challenging China’s critical minerals dominance: US mining lawyer",
+      "link": "https://www.mining.com/permitting-reform-key-to-challenging-chinas-critical-minerals-dominance-us-mining-lawyer/",
+      "source": "mining.com",
+      "date": "Tue, 21 Jul 2026 19:51:12 +0000"
+    },
+    {
+      "title": "Kazakhstan Suspends Major Oil Exports as Black Sea Risks Escalate",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Kazakhstan-Suspends-Major-Oil-Exports-as-Black-Sea-Risks-Escalate.html",
+      "source": "OilPrice",
+      "date": "Tue, 21 Jul 2026 14:00:00 -0500"
+    },
+    {
+      "title": "Silver price jumps 5%, gold attracts bargain hunters above $4,000",
+      "link": "https://www.mining.com/silver-price-surges-5-on-coppers-coattails-gold-price-finds-footing-above-4000/",
+      "source": "mining.com",
+      "date": "Tue, 21 Jul 2026 18:32:45 +0000"
+    },
+    {
+      "title": "India Pulls Back From Iraqi Oil as Hormuz Turns Too Dangerous",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Pulls-Back-From-Iraqi-Oil-as-Hormuz-Turns-Too-Dangerous.html",
+      "source": "OilPrice",
+      "date": "Tue, 21 Jul 2026 13:30:00 -0500"
+    },
+    {
+      "title": "Copper price nearing US record as premium doubles, Shanghai stockpiles drop 82%",
+      "link": "https://www.mining.com/copper-price-nearing-us-record-as-premium-doubles-shanghai-stockpiles-drop-82/",
+      "source": "mining.com",
+      "date": "Tue, 21 Jul 2026 18:23:31 +0000"
+    },
+    {
+      "title": "Inside Washington’s Quiet Bid to Break China’s Grip on Iraq",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Inside-Washingtons-Quiet-Bid-to-Break-Chinas-Grip-on-Iraq.html",
+      "source": "OilPrice",
+      "date": "Tue, 21 Jul 2026 13:00:00 -0500"
+    },
+    {
+      "title": "U.S. Says China Has Slashed Iranian Oil Purchases by 40%",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Says-China-Has-Slashed-Iranian-Oil-Purchases-by-40.html",
+      "source": "OilPrice",
+      "date": "Tue, 21 Jul 2026 12:45:00 -0500"
+    },
+    {
+      "title": "China’s rare earth clampdown backfired: CSIS analyst",
+      "link": "https://www.mining.com/chinas-rare-earth-clampdown-backfired-csis-analyst/",
+      "source": "mining.com",
+      "date": "Tue, 21 Jul 2026 17:00:33 +0000"
+    },
+    {
+      "title": "Getchell Gold sees $905M value for Fondaway Canyon",
+      "link": "https://www.mining.com/getchell-gold-sees-905m-value-for-fondaway-canyon/",
+      "source": "mining.com",
+      "date": "Tue, 21 Jul 2026 16:51:09 +0000"
+    }
+  ]
 }
