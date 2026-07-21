@@ -1,5 +1,5 @@
 {
- "run_at_kst": "2026-07-21T14:10:54+09:00",
+ "run_at_kst": "2026-07-21T20:13:14.548670+09:00",
  "schema_version": "1.0",
  "sources": [
   "mining.com",
@@ -7,6 +7,42 @@
  ],
  "count": 14,
  "items": [
+  {
+   "title": "India Keeps Buying Russian Oil at Near-Record Pace Despite Expired Waiver",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Keeps-Buying-Russian-Oil-at-Near-Record-Pace-Despite-Expired-Waiver.html",
+   "source": "OilPrice",
+   "date": "Tue, 21 Jul 2026 05:29:08 -0500"
+  },
+  {
+   "title": "Pakistan Shells Out Record Sums for Spot LNG as Qatar Supply Falters",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Shells-Out-Record-Sums-for-Spot-LNG-as-Qatar-Supply-Falters.html",
+   "source": "OilPrice",
+   "date": "Tue, 21 Jul 2026 04:38:09 -0500"
+  },
+  {
+   "title": "ADNOC Approves $6.2 Billion Gas Project in Abu Dhabi",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Approves-62-Billion-Gas-Project-in-Abu-Dhabi.html",
+   "source": "OilPrice",
+   "date": "Tue, 21 Jul 2026 03:49:00 -0500"
+  },
+  {
+   "title": "Iran Says U.S. Struck Unfinished Nuclear Plant, Warns of Safety Risk",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-US-Struck-Unfinished-Nuclear-Plant-Warns-of-Safety-Risk.html",
+   "source": "OilPrice",
+   "date": "Tue, 21 Jul 2026 02:44:04 -0500"
+  },
+  {
+   "title": "Oil Reverses Gains on Renewed Hope of Peace in Iran",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Reverses-Gains-on-Renewed-Hope-of-Peace-in-Iran.html",
+   "source": "OilPrice",
+   "date": "Tue, 21 Jul 2026 01:09:31 -0500"
+  },
+  {
+   "title": "Goldman Warns Oil Could Hit $120 as Middle East War Drags On",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Warns-Oil-Could-Hit-120-as-Middle-East-War-Drags-On.html",
+   "source": "OilPrice",
+   "date": "Tue, 21 Jul 2026 00:36:45 -0500"
+  },
   {
    "title": "Higher-For-Longer Oil Scenario Is Here To Stay",
    "link": "https://oilprice.com/Energy/Crude-Oil/Higher-For-Longer-Oil-Scenario-Is-Here-To-Stay.html",
@@ -32,40 +68,10 @@
    "date": "Mon, 20 Jul 2026 22:09:51 +0000"
   },
   {
-   "title": "Why India Could Dominate The Sustainable Aviation Fuel Market",
-   "link": "https://oilprice.com/Alternative-Energy/Biofuels/Why-India-Could-Dominate-The-Sustainable-Aviation-Fuel-Market.html",
-   "source": "OilPrice",
-   "date": "Mon, 20 Jul 2026 17:00:00 -0500"
-  },
-  {
-   "title": "Oil Market Loses Its Safety Net as Iran Conflict Reignites",
-   "link": "https://oilprice.com/Energy/Energy-General/Oil-Market-Loses-Its-Safety-Net-as-Iran-Conflict-Reignites.html",
-   "source": "OilPrice",
-   "date": "Mon, 20 Jul 2026 16:00:00 -0500"
-  },
-  {
-   "title": "Why the EU Still Can’t Agree on Its Next Round of Russia Sanctions",
-   "link": "https://oilprice.com/Energy/Energy-General/Why-the-EU-Still-Cant-Agree-on-Its-Next-Round-of-Russia-Sanctions.html",
-   "source": "OilPrice",
-   "date": "Mon, 20 Jul 2026 15:00:00 -0500"
-  },
-  {
-   "title": "The U.S. Needs 5000 Miles of New High-Voltage Lines Annually. It Only Built 392",
-   "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/The-US-Needs-5000-Miles-of-New-High-Voltage-Lines-Annually-It-Only-Built-392.html",
-   "source": "OilPrice",
-   "date": "Mon, 20 Jul 2026 14:00:00 -0500"
-  },
-  {
    "title": "Copper price rises as key China gauge hits one-year high, Chile output losses mount",
    "link": "https://www.mining.com/copper-price-rises-as-key-china-gauge-hits-one-year-high-chile-output-losses-mount/",
    "source": "mining.com",
    "date": "Mon, 20 Jul 2026 18:06:10 +0000"
-  },
-  {
-   "title": "Russia's Financial Crisis Casts a Shadow Over Central Asia's Nuclear Future",
-   "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Russias-Financial-Crisis-Casts-a-Shadow-Over-Central-Asias-Nuclear-Future.html",
-   "source": "OilPrice",
-   "date": "Mon, 20 Jul 2026 13:00:00 -0500"
   },
   {
    "title": "Silver rebounds from 8-month low, gold price defends $4,000",
@@ -84,12 +90,6 @@
    "link": "https://www.mining.com/london-gold-offers-25m-for-bolivia-focused-bocana/",
    "source": "mining.com",
    "date": "Mon, 20 Jul 2026 16:54:09 +0000"
-  },
-  {
-   "title": "Awalé gold-copper assays point to bigger lode in West Africa",
-   "link": "https://www.mining.com/awale-gold-copper-assays-point-to-bigger-lode-in-west-africa/",
-   "source": "mining.com",
-   "date": "Mon, 20 Jul 2026 16:53:28 +0000"
   }
  ]
 }
