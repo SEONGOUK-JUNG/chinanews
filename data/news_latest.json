@@ -1,95 +1,95 @@
 {
- "run_at_kst": "2026-07-22T14:11:32+09:00",
- "schema_version": "1.0",
- "sources": [
-  "mining.com",
-  "OilPrice.com"
- ],
- "count": 14,
- "items": [
-  {
-   "title": "Oil Prices Climb as U.S.-Iran Conflict Shows No Signs of Slowing",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-US-Iran-Conflict-Shows-No-Signs-of-Slowing.html",
-   "source": "OilPrice",
-   "date": "Tue, 21 Jul 2026 22:08:20 -0500"
-  },
-  {
-   "title": "China's Next Move Could Decide Where Oil Prices Go This Year",
-   "link": "https://oilprice.com/Energy/Oil-Prices/Chinas-Next-Move-Could-Decide-Where-Oil-Prices-Go-This-Year.html",
-   "source": "OilPrice",
-   "date": "Tue, 21 Jul 2026 19:00:00 -0500"
-  },
-  {
-   "title": "US Departments of Energy and Labor ink MoU to accelerate AI deployment in mining sector",
-   "link": "https://www.mining.com/us-departments-of-energy-and-labor-ink-mou-to-accelerate-ai-deployment-in-mining-sector/",
-   "source": "mining.com",
-   "date": "Tue, 21 Jul 2026 23:26:05 +0000"
-  },
-  {
-   "title": "ERI, Cyclic Materials partner to recover and recycle rare earths from e-waste",
-   "link": "https://www.mining.com/eri-cyclic-materials-partner-to-recover-and-recycle-rare-earths-from-e-waste/",
-   "source": "mining.com",
-   "date": "Tue, 21 Jul 2026 22:10:41 +0000"
-  },
-  {
-   "title": "Fossil Fuels Still Generate 57% of the World's Electricity",
-   "link": "https://oilprice.com/Energy/Energy-General/Fossil-Fuels-Still-Generate-57-of-the-Worlds-Electricity.html",
-   "source": "OilPrice",
-   "date": "Tue, 21 Jul 2026 17:00:00 -0500"
-  },
-  {
-   "title": "US Crude Oil Inventories Build As Hormuz Shipping Headache Drags On",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Build-As-Hormuz-Shipping-Headache-Drags-On.html",
-   "source": "OilPrice",
-   "date": "Tue, 21 Jul 2026 16:10:00 -0500"
-  },
-  {
-   "title": "Energy IPOs Are Booming Thanks to AI's Insatiable Thirst for Power",
-   "link": "https://oilprice.com/Energy/Energy-General/Energy-IPOs-Are-Booming-Thanks-to-AIs-Insatiable-Thirst-for-Power.html",
-   "source": "OilPrice",
-   "date": "Tue, 21 Jul 2026 16:00:00 -0500"
-  },
-  {
-   "title": "Movie producer Lee Caplin joins NovaRed Mining after Noem",
-   "link": "https://www.mining.com/movie-producer-lee-caplin-joins-novared-mining-after-noem/",
-   "source": "mining.com",
-   "date": "Tue, 21 Jul 2026 20:39:03 +0000"
-  },
-  {
-   "title": "Norway's Oil Output Beats Forecasts as Hormuz Traffic Stays Near Crisis Lows",
-   "link": "https://oilprice.com/Energy/Crude-Oil/Norways-Oil-Output-Beats-Forecasts-as-Hormuz-Traffic-Stays-Near-Crisis-Lows.html",
-   "source": "OilPrice",
-   "date": "Tue, 21 Jul 2026 15:00:00 -0500"
-  },
-  {
-   "title": "Permitting reform key to challenging China’s critical minerals dominance: US mining lawyer",
-   "link": "https://www.mining.com/permitting-reform-key-to-challenging-chinas-critical-minerals-dominance-us-mining-lawyer/",
-   "source": "mining.com",
-   "date": "Tue, 21 Jul 2026 19:51:12 +0000"
-  },
-  {
-   "title": "Kazakhstan Suspends Major Oil Exports as Black Sea Risks Escalate",
-   "link": "https://oilprice.com/Energy/Crude-Oil/Kazakhstan-Suspends-Major-Oil-Exports-as-Black-Sea-Risks-Escalate.html",
-   "source": "OilPrice",
-   "date": "Tue, 21 Jul 2026 14:00:00 -0500"
-  },
-  {
-   "title": "Silver price jumps 5%, gold attracts bargain hunters above $4,000",
-   "link": "https://www.mining.com/silver-price-surges-5-on-coppers-coattails-gold-price-finds-footing-above-4000/",
-   "source": "mining.com",
-   "date": "Tue, 21 Jul 2026 18:32:45 +0000"
-  },
-  {
-   "title": "India Pulls Back From Iraqi Oil as Hormuz Turns Too Dangerous",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Pulls-Back-From-Iraqi-Oil-as-Hormuz-Turns-Too-Dangerous.html",
-   "source": "OilPrice",
-   "date": "Tue, 21 Jul 2026 13:30:00 -0500"
-  },
-  {
-   "title": "Copper price nearing US record as premium doubles, Shanghai stockpiles drop 82%",
-   "link": "https://www.mining.com/copper-price-nearing-us-record-as-premium-doubles-shanghai-stockpiles-drop-82/",
-   "source": "mining.com",
-   "date": "Tue, 21 Jul 2026 18:23:31 +0000"
-  }
- ]
+  "run_at_kst": "2026-07-22T20:14:30+09:00",
+  "schema_version": "1.0",
+  "sources": [
+    "mining.com",
+    "OilPrice.com"
+  ],
+  "count": 14,
+  "items": [
+    {
+      "title": "Oil Jumps Nearly 4% as Houthis Threaten Red Sea Blockade",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Jumps-Nearly-4-as-Houthis-Threaten-Red-Sea-Blockade.html",
+      "source": "OilPrice",
+      "date": "Wed, 22 Jul 2026 06:10:00 -0500"
+    },
+    {
+      "title": "Japan’s Power Prices Soar to 3.5-Year High",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Power-Prices-Soar-to-35-Year-High.html",
+      "source": "OilPrice",
+      "date": "Wed, 22 Jul 2026 05:30:00 -0500"
+    },
+    {
+      "title": "Equinor Profit Soars 93% as Oil and Gas Price Spike Fuels Windfall",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-Profit-Soars-93-as-Oil-and-Gas-Price-Spike-Fuels-Windfall.html",
+      "source": "OilPrice",
+      "date": "Wed, 22 Jul 2026 04:30:00 -0500"
+    },
+    {
+      "title": "China's Oil Output Hits Record High",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Oil-Output-Hits-Record-High.html",
+      "source": "OilPrice",
+      "date": "Wed, 22 Jul 2026 03:30:00 -0500"
+    },
+    {
+      "title": "Surging Oil Prices Push Japan’s Import Bill to an Unprecedented High",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Surging-Oil-Prices-Push-Japans-Import-Bill-to-an-Unprecedented-High.html",
+      "source": "OilPrice",
+      "date": "Wed, 22 Jul 2026 02:30:00 -0500"
+    },
+    {
+      "title": "U.S.-Iran Conflict Threatens Long-Term Energy Shock Across Asia",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Iran-Conflict-Threatens-Long-Term-Energy-Shock-Across-Asia.html",
+      "source": "OilPrice",
+      "date": "Wed, 22 Jul 2026 01:30:00 -0500"
+    },
+    {
+      "title": "Oil Prices Climb as U.S.-Iran Conflict Shows No Signs of Slowing",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-US-Iran-Conflict-Shows-No-Signs-of-Slowing.html",
+      "source": "OilPrice",
+      "date": "Tue, 21 Jul 2026 22:08:20 -0500"
+    },
+    {
+      "title": "China's Next Move Could Decide Where Oil Prices Go This Year",
+      "link": "https://oilprice.com/Energy/Oil-Prices/Chinas-Next-Move-Could-Decide-Where-Oil-Prices-Go-This-Year.html",
+      "source": "OilPrice",
+      "date": "Tue, 21 Jul 2026 19:00:00 -0500"
+    },
+    {
+      "title": "US Departments of Energy and Labor ink MoU to accelerate AI deployment in mining sector",
+      "link": "https://www.mining.com/us-departments-of-energy-and-labor-ink-mou-to-accelerate-ai-deployment-in-mining-sector/",
+      "source": "mining.com",
+      "date": "Tue, 21 Jul 2026 23:26:05 +0000"
+    },
+    {
+      "title": "ERI, Cyclic Materials partner to recover and recycle rare earths from e-waste",
+      "link": "https://www.mining.com/eri-cyclic-materials-partner-to-recover-and-recycle-rare-earths-from-e-waste/",
+      "source": "mining.com",
+      "date": "Tue, 21 Jul 2026 22:10:41 +0000"
+    },
+    {
+      "title": "Movie producer Lee Caplin joins NovaRed Mining after Noem",
+      "link": "https://www.mining.com/movie-producer-lee-caplin-joins-novared-mining-after-noem/",
+      "source": "mining.com",
+      "date": "Tue, 21 Jul 2026 20:39:03 +0000"
+    },
+    {
+      "title": "Permitting reform key to challenging China’s critical minerals dominance: US mining lawyer",
+      "link": "https://www.mining.com/permitting-reform-key-to-challenging-chinas-critical-minerals-dominance-us-mining-lawyer/",
+      "source": "mining.com",
+      "date": "Tue, 21 Jul 2026 19:51:12 +0000"
+    },
+    {
+      "title": "Silver price jumps 5%, gold attracts bargain hunters above $4,000",
+      "link": "https://www.mining.com/silver-price-surges-5-on-coppers-coattails-gold-price-finds-footing-above-4000/",
+      "source": "mining.com",
+      "date": "Tue, 21 Jul 2026 18:32:45 +0000"
+    },
+    {
+      "title": "Copper price nearing US record as premium doubles, Shanghai stockpiles drop 82%",
+      "link": "https://www.mining.com/copper-price-nearing-us-record-as-premium-doubles-shanghai-stockpiles-drop-82/",
+      "source": "mining.com",
+      "date": "Tue, 21 Jul 2026 18:23:31 +0000"
+    }
+  ]
 }

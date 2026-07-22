@@ -1,81 +1,81 @@
 {
- "run_at_kst": "2026-07-22T14:11:32+09:00",
- "schema_version": "1.0",
- "query": "중국 경제",
- "source": "Google News (한국어)",
- "count": 12,
- "items": [
-  {
-   "title": "중국 상반기 공업 부가가치 5.4% 증가…경제 성장 기여도 35% 넘어",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHTVpMb0ExQjQ0V3AxaFJJS0x4YjBEVlVCVHo5OHg1dXhDWk5NXzloWnN6SXFlQzN6NkEtc2FzbFpCY0tsbEdLdUtSenByckFERjM3SHR0aHF3YmN1Z0pN?oc=5",
-   "source": "헬로티",
-   "date": "Wed, 22 Jul 2026 04:46:53 GMT"
-  },
-  {
-   "title": "[파워인터뷰] 전병서 중국경제금융연구소장 “하반기 중국 증시는 실적장…AI·반도체 ‘뉴 차이나’에 투자하라",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mRFdOeENMT2ZVbjNCUkF0U0lWS3FTNmZjSWlhVE9ib0JBTUQtT1hpdFFNbG9KZHBMWlVIZnNabllYMWZoSWxhVUl0azFPRm5FcXh2V2RMYWloV0d1V1ZGUDRqLUFTODQ?oc=5",
-   "source": "팍스경제TV",
-   "date": "Wed, 22 Jul 2026 03:20:09 GMT"
-  },
-  {
-   "title": "수출 막히자 공장 세웠다…중국차 ‘현지생산’ 가속",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZZmMtZE1kS0FIRzBuSHJHTDEwcERaNnpDWGtDUzRKT1VGUlliUzE3b2NDN1RWOV9WWExBQW1fX1M0RjZjTF9XcXFveHVvek0?oc=5",
-   "source": "v.daum.net",
-   "date": "Wed, 22 Jul 2026 02:30:41 GMT"
-  },
-  {
-   "title": "중국 성장 둔화의 실상",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jTVczWXd6a0ZGNl9LVTB3aXBkSDNKN1pyak5tVFE5cHE1RDMzajUxSi1yU3F4YUxQdXJVRkwtTnVTTjJKaGRXUWtSQlFabmt1T3c?oc=5",
-   "source": "참세상",
-   "date": "Wed, 22 Jul 2026 01:45:00 GMT"
-  },
-  {
-   "title": "'A주 비중 확대' 글로벌 IB 일제히 하반기 중국증시 낙관",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ueEtxcVFZX3pQZC1COEF5cWNVYVBPLUtQd0sxRHVxT0ZRMC05dnpoSjJMZEtBY0NCYm1VR3gwaUQ3dURtZTlyR3VvNW1ELVlsWEFSdTBfeDhjMTFG?oc=5",
-   "source": "뉴스핌",
-   "date": "Wed, 22 Jul 2026 01:15:00 GMT"
-  },
-  {
-   "title": "中 경제브리핑...중국 개발 사족보행 로봇, 세계 판매량의 약 70% 外-Xinhua",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tQ2UxMVhQbXZYRWRZZkpHMm1CLUdydnVXdGMtWkZKSk5vTWlrOHFuRjlvNFVURzFYdExUNlZUYllFNndDWnlkdFJPbUhCZ3ZRYkViU01KYU9hWFNkTW1jZlpTdFJ3VW1pajhFQU5kd2VPSEtj?oc=5",
-   "source": "신화망",
-   "date": "Wed, 22 Jul 2026 01:06:37 GMT"
-  },
-  {
-   "title": "“한국, 미·중 사이 줄타기 더는 안 돼”",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TS0FxN1dGdkJISm1kSzlTMmxHV0xBZnBYUGRoa044QlBZWDJ0c2x1SDR0UkNhV2ZnRFliQnAtNXVGbFJoUUNoNGtHTS1lN203T0xxUGszTHVqVVh2ZU5ENEpB?oc=5",
-   "source": "미주중앙일보",
-   "date": "Wed, 22 Jul 2026 00:36:00 GMT"
-  },
-  {
-   "title": "친절한 경제: 중국 경기 둔화에 중동 리스크까지… 호주 경제도 영향 받을까",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNmYtMGdaWXBlU2cxOVRGbW1XaXRhTnliR2tCUW10RUxoZEFiVi1ReUN6dWtUU3pzdTJ2WWQ0MGVnM0hPTkdPU2VBOC03SG9lVEhIenotMExGcGVoaHpaVWlMUXU0Rk5Zem02cGJCY1lFSUNWdXl2N3NORDBYVjJIVjFrakJvNWlJSnhWV0p1U0w?oc=5",
-   "source": "SBS",
-   "date": "Tue, 21 Jul 2026 23:37:41 GMT"
-  },
-  {
-   "title": "중국의 26. 2/4분기 경제성장률(4.3%)에 대한 현지 평가",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYzRWVjB1Z1NSc2hGTkdIUjhGQThMRXhRMnNKSXhzWGVROFVNN3I2aFE5S25DX2Y0UjJPSzZMMzM5ZVFUM0pLQmJSS2FaRFBybzNtbFQtU3RVUXJWYVNXa3RFZ0FzVnpTai1iR1NiS3ZTWXNtb1ZtR0gyaHY3ZGZCZw?oc=5",
-   "source": "KDI 경제교육",
-   "date": "Tue, 21 Jul 2026 16:34:19 GMT"
-  },
-  {
-   "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
-   "source": ":: 위즈경제 ::",
-   "date": "Thu, 16 Jul 2026 07:00:00 GMT"
-  },
-  {
-   "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52UVRRTTIyQW5udGJFTjhSbEhmTHc4Q2QyTHdTd1BWNzE5b0p0U0hWZk5LbmNjdUY5ZWh2MlBZaEczSnd3RVZGSlRfLXlrdU9HYTlfdmthLW01dTVn0gFiQVVfeXFMUDU0UmVDOFl4VUpZYzlneGtDWHJCX3luT1pfdFhKaGZENGxvWTRjRTZYNTltalJDYXVBUG9IV3I2Qy1IMGljUEdDV0k3d3JQbmVXV05QUzNZSWl5QkJPQk1jV0E?oc=5",
-   "source": "BBC",
-   "date": "Wed, 15 Jul 2026 09:03:52 GMT"
-  },
-  {
-   "title": "“중국 경제 안 좋다” 칭화대 전 교수, 강연 중 한 말에···경찰 출동 소동",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YU1llUUxBYTZzbGhkS2pBaE9ybXlnbnpISkVUZGVXc2w1X08tQkNJeU1OVWg1LUdldnBPLXYwRmMxc2hIWVlhNWJGNG5VbVUyOW9sRlUwYW5YZ9IBX0FVX3lxTFBTTXpMdDdfTjRzYW9YOG9pLUN6VXlyYjNVXzRiMWlkTF9PQWhFdmJfNTcyeVU2Z19uUHFSMVFBbU1LSHhOcm12Wi1zc0JYNVV1cXU2b2VwWEhPWFJ1YW5n?oc=5",
-   "source": "경향신문",
-   "date": "Thu, 02 Jul 2026 07:00:00 GMT"
-  }
- ]
+  "run_at_kst": "2026-07-22T20:16:20+09:00",
+  "schema_version": "1.0",
+  "query": "중국 경제",
+  "source": "Google News (한국어)",
+  "count": 12,
+  "items": [
+    {
+      "title": "“CXMT보다 '친구들'이 더 무섭다”…중국 반도체 IPO러쉬의 숨은 의미[반도체 삼국지]",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kbVFWZVVsRXFOQmNBZkFaNHFoNFI2YTZoNFY4TUxCczFfUkEyREs1cGVZaWFheE5jdFh5aXdmcXpzSjdoS2pjLXY0cEhwcEU?oc=5",
+      "source": "v.daum.net",
+      "date": "Wed, 22 Jul 2026 09:33:07 GMT"
+    },
+    {
+      "title": "[시론] 중국발 AI 쇼크",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NcVBLV182cGJZaUI0dlgybVJVQ3JWZlRxRWhiZzlTZXpTOWhTWXlHdWI3Rk8yUzFsVlZKVnc4U2hPNGRWVHB1NkJDUW4tUmh5c2k1bUpGQ1FJUQ?oc=5",
+      "source": "한국경제",
+      "date": "Wed, 22 Jul 2026 08:39:36 GMT"
+    },
+    {
+      "title": "‘엔비디아 필요없어’…中, 로봇까지 자국산 칩 채운다",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zVjNpTExpdFFBQ3puX2JBYldvWFJleVdaRXZKMXZPNGxYaE4yRTBaa3M4c2pfdFg1bDJVdk1LM0NXLTM5azc4Y3Q3STdpOVU2TlHSAVNBVV95cUxOelpmMXNxLTczOE8xLVR4RjVLUzN6UG8yeWRyeUN3a0JjQnNyamtTZzJibWJYWVpWTUdQYlhVYVpGOTF3NTZXekNsS3o1NTlFS3JLcw?oc=5",
+      "source": "서울경제",
+      "date": "Wed, 22 Jul 2026 07:37:29 GMT"
+    },
+    {
+      "title": "중국, 드론 산업에 'AI+IP' 엔진 달았다",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4tNE1VSkFDbkdGWlpzS1NxSnJONFd1S2ZkRzh2d29WNXpGSGh1dkZoMGZwai15QU4xSU1rclNjMGVHR2VKMTZKRA?oc=5",
+      "source": "특허뉴스",
+      "date": "Wed, 22 Jul 2026 06:10:00 GMT"
+    },
+    {
+      "title": "중국 상반기 공업 부가가치 5.4% 증가…경제 성장 기여도 35% 넘어",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHTVpMb0ExQjQ0V3AxaFJJS0x4YjBEVlVCVHo5OHg1dXhDWk5NXzloWnN6SXFlQzN6NkEtc2FzbFpCY0tsbEdLdUtSenByckFERjM3SHR0aHF3YmN1Z0pN?oc=5",
+      "source": "헬로티",
+      "date": "Wed, 22 Jul 2026 04:46:53 GMT"
+    },
+    {
+      "title": "[파워인터뷰] 전병서 중국경제금융연구소장 “하반기 중국 증시는 실적장…AI·반도체 ‘뉴 차이나’에 투자하라",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mRFdOeENMT2ZVbjNCUkF0U0lWS3FTNmZjSWlhVE9ib0JBTUQtT1hpdFFNbG9KZHBMWlVIZnNabllYMWZoSWxhVUl0azFPRm5FcXh2V2RMYWloV0d1V1ZGUDRqLUFTODQ?oc=5",
+      "source": "팍스경제TV",
+      "date": "Wed, 22 Jul 2026 03:20:09 GMT"
+    },
+    {
+      "title": "중국 성장 둔화의 실상",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jTVczWXd6a0ZGNl9LVTB3aXBkSDNKN1pyak5tVFE5cHE1RDMzajUxSi1yU3F4YUxQdXJVRkwtTnVTTjJKaGRXUWtSQlFabmt1T3c?oc=5",
+      "source": "참세상",
+      "date": "Wed, 22 Jul 2026 01:45:00 GMT"
+    },
+    {
+      "title": "'A주 비중 확대' 글로벌 IB 일제히 하반기 중국증시 낙관",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ueEtxcVFZX3pQZC1COEF5cWNVYVBPLUtQd0sxRHVxT0ZRMC05dnpoSjJMZEtBY0NCYm1VR3gwaUQ3dURtZTlyR3VvNW1ELVlsWEFSdTBfeDhjMTFG?oc=5",
+      "source": "뉴스핌",
+      "date": "Wed, 22 Jul 2026 01:15:00 GMT"
+    },
+    {
+      "title": "“한국, 미·중 사이 줄타기 더는 안 돼”",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TS0FxN1dGdkJISm1kSzlTMmxHV0xBZnBYUGRoa044QlBZWDJ0c2x1SDR0UkNhV2ZnRFliQnAtNXVGbFJoUUNoNGtHTS1lN203T0xxUGszTHVqVVh2ZU5ENEpB?oc=5",
+      "source": "미주중앙일보",
+      "date": "Wed, 22 Jul 2026 01:10:00 GMT"
+    },
+    {
+      "title": "中 경제브리핑...중국 개발 사족보행 로봇, 세계 판매량의 약 70% 外-Xinhua",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tQ2UxMVhQbXZYRWRZZkpHMm1CLUdydnVXdGMtWkZKSk5vTWlrOHFuRjlvNFVURzFYdExUNlZUYllFNndDWnlkdFJPbUhCZ3ZRYkViU01KYU9hWFNkTW1jZlpTdFJ3VW1pajhFQU5kd2VPSEtj?oc=5",
+      "source": "신화망",
+      "date": "Wed, 22 Jul 2026 01:06:37 GMT"
+    },
+    {
+      "title": "친절한 경제: 중국 경기 둔화에 중동 리스크까지… 호주 경제도 영향 받을까",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNmYtMGdaWXBlU2cxOVRGbW1XaXRhTnliR2tCUW10RUxoZEFiVi1ReUN6dWtUU3pzdTJ2WWQ0MGVnM0hPTkdPU2VBOC03SG9lVEhIenotMExGcGVoaHpaVWlMUXU0Rk5Zem02cGJCY1lFSUNWdXl2N3NORDBYVjJIVjFrakJvNWlJSnhWV0p1U0w?oc=5",
+      "source": "SBS",
+      "date": "Tue, 21 Jul 2026 23:37:41 GMT"
+    },
+    {
+      "title": "중국의 26. 2/4분기 경제성장률(4.3%)에 대한 현지 평가",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYzRWVjB1Z1NSc2hGTkdIUjhGQThMRXhRMnNKSXhzWGVROFVNN3I2aFE5S25DX2Y0UjJPSzZMMzM5ZVFUM0pLQmJSS2FaRFBybzNtbFQtU3RVUXJWYVNXa3RFZ0FzVnpTai1iR1NiS3ZTWXNtb1ZtR0gyaHY3ZGZCZw?oc=5",
+      "source": "한국개발연구원(KDI)",
+      "date": "Tue, 21 Jul 2026 16:34:19 GMT"
+    }
+  ]
 }
