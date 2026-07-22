@@ -1,10 +1,22 @@
 {
-  "run_at_kst": "2026-07-22T20:16:20+09:00",
+  "run_at_kst": "2026-07-23T07:14:03.614833+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "[박승찬 칼럼] 中 소비 확대 15·5 규획 발표 속뜻은",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nVm1PdUtveVR4UzNCUml0cHMtVFN5SjhKQ2w5Ukc5aHdlY3NyaFhzb1NOMHI1RTM2TTA4UGNBaThYMVdqVEFxZjhHWWxkSExjYk83OUxLUWRBQdIBWEFVX3lxTE92U29MWTh5VHBuOG9SejhxOVY0ZmwycDRNZHNnNE1yZVQ5UjczOXlMcVNGeS1KN0c5YV9qcXdmZXZlR0hsY3dhbjhoM3Yzd1h5N3E5SkFSd1g?oc=5",
+      "source": "아주경제",
+      "date": "Wed, 22 Jul 2026 21:00:00 GMT"
+    },
+    {
+      "title": "[경제] 中 치루이 회장 \"중국 자동차 기업, 지속가능한 글로벌 성장의 키워드는 '현지화'\"",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qQ0RrZURvVFBzT1ZNeWRqUmI3QVRIb1RHaE92TC1HWDZZdnVzTEExVjVSS0RuUGdpSFoycTVJUDJpbDdSMFlYQ2sxQ1dDV05aTmRZTFhvaE5WY3hER21JMXRtZ2dmVzhhT1VF?oc=5",
+      "source": "서울뉴스통신",
+      "date": "Wed, 22 Jul 2026 11:56:20 GMT"
+    },
     {
       "title": "“CXMT보다 '친구들'이 더 무섭다”…중국 반도체 IPO러쉬의 숨은 의미[반도체 삼국지]",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kbVFWZVVsRXFOQmNBZkFaNHFoNFI2YTZoNFY4TUxCczFfUkEyREs1cGVZaWFheE5jdFh5aXdmcXpzSjdoS2pjLXY0cEhwcEU?oc=5",
@@ -12,22 +24,10 @@
       "date": "Wed, 22 Jul 2026 09:33:07 GMT"
     },
     {
-      "title": "[시론] 중국발 AI 쇼크",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NcVBLV182cGJZaUI0dlgybVJVQ3JWZlRxRWhiZzlTZXpTOWhTWXlHdWI3Rk8yUzFsVlZKVnc4U2hPNGRWVHB1NkJDUW4tUmh5c2k1bUpGQ1FJUQ?oc=5",
-      "source": "한국경제",
-      "date": "Wed, 22 Jul 2026 08:39:36 GMT"
-    },
-    {
-      "title": "‘엔비디아 필요없어’…中, 로봇까지 자국산 칩 채운다",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zVjNpTExpdFFBQ3puX2JBYldvWFJleVdaRXZKMXZPNGxYaE4yRTBaa3M4c2pfdFg1bDJVdk1LM0NXLTM5azc4Y3Q3STdpOVU2TlHSAVNBVV95cUxOelpmMXNxLTczOE8xLVR4RjVLUzN6UG8yeWRyeUN3a0JjQnNyamtTZzJibWJYWVpWTUdQYlhVYVpGOTF3NTZXekNsS3o1NTlFS3JLcw?oc=5",
-      "source": "서울경제",
-      "date": "Wed, 22 Jul 2026 07:37:29 GMT"
-    },
-    {
-      "title": "중국, 드론 산업에 'AI+IP' 엔진 달았다",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4tNE1VSkFDbkdGWlpzS1NxSnJONFd1S2ZkRzh2d29WNXpGSGh1dkZoMGZwai15QU4xSU1rclNjMGVHR2VKMTZKRA?oc=5",
-      "source": "특허뉴스",
-      "date": "Wed, 22 Jul 2026 06:10:00 GMT"
+      "title": "中 디지털차이나(000034.SZ), 기업용 AI 전환 공략",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KLU5PNWFNWmZ1RG5jczFjRXFiNXUyUHY3NmxXQVRCYnFDWWdVNnl0N2NBQk5vQm85UEVpLW1QaUJKUXRnWldFMFltYWhwR1hyNGZyejBjY0QzWHhmTGQxOGN5WGg3UmlqOG1YMUJB?oc=5",
+      "source": "알파경제",
+      "date": "Wed, 22 Jul 2026 07:48:03 GMT"
     },
     {
       "title": "중국 상반기 공업 부가가치 5.4% 증가…경제 성장 기여도 35% 넘어",
@@ -48,20 +48,8 @@
       "date": "Wed, 22 Jul 2026 01:45:00 GMT"
     },
     {
-      "title": "'A주 비중 확대' 글로벌 IB 일제히 하반기 중국증시 낙관",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ueEtxcVFZX3pQZC1COEF5cWNVYVBPLUtQd0sxRHVxT0ZRMC05dnpoSjJMZEtBY0NCYm1VR3gwaUQ3dURtZTlyR3VvNW1ELVlsWEFSdTBfeDhjMTFG?oc=5",
-      "source": "뉴스핌",
-      "date": "Wed, 22 Jul 2026 01:15:00 GMT"
-    },
-    {
-      "title": "“한국, 미·중 사이 줄타기 더는 안 돼”",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TS0FxN1dGdkJISm1kSzlTMmxHV0xBZnBYUGRoa044QlBZWDJ0c2x1SDR0UkNhV2ZnRFliQnAtNXVGbFJoUUNoNGtHTS1lN203T0xxUGszTHVqVVh2ZU5ENEpB?oc=5",
-      "source": "미주중앙일보",
-      "date": "Wed, 22 Jul 2026 01:10:00 GMT"
-    },
-    {
       "title": "中 경제브리핑...중국 개발 사족보행 로봇, 세계 판매량의 약 70% 外-Xinhua",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tQ2UxMVhQbXZYRWRZZkpHMm1CLUdydnVXdGMtWkZKSk5vTWlrOHFuRjlvNFVURzFYdExUNlZUYllFNndDWnlkdFJPbUhCZ3ZRYkViU01KYU9hWFNkTW1jZlpTdFJ3VW1pajhFQU5kd2VPSEtj?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CbkRUdllHaVgxM0dLUUF4OFFpbmJHSHNJYnkxc2IyV2haV3pLVGZ5TGRxbWVETWNEa1BoVEpkTXBNVEM5dVlWWXYtQndkNDVyZFZuSEJhSmpvX2ZtVFk1V2cyTy1pVjJYTDBnYUVUVnk4NElZcFE?oc=5",
       "source": "신화망",
       "date": "Wed, 22 Jul 2026 01:06:37 GMT"
     },
@@ -76,6 +64,18 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYzRWVjB1Z1NSc2hGTkdIUjhGQThMRXhRMnNKSXhzWGVROFVNN3I2aFE5S25DX2Y0UjJPSzZMMzM5ZVFUM0pLQmJSS2FaRFBybzNtbFQtU3RVUXJWYVNXa3RFZ0FzVnpTai1iR1NiS3ZTWXNtb1ZtR0gyaHY3ZGZCZw?oc=5",
       "source": "한국개발연구원(KDI)",
       "date": "Tue, 21 Jul 2026 16:34:19 GMT"
+    },
+    {
+      "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Mon, 20 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "중국 경제성장률 추이",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYUTRLWl9qenQ4dUo2LVFmbGtwRXNaZ3NkZGNXTkZiTXB6c2F4MHZhalJPTi1SWExpYXp0STRJOWh4VUFraHdMRzg0QnQ2dw?oc=5",
+      "source": "Haninpost",
+      "date": "Sun, 19 Jul 2026 07:08:44 GMT"
     }
   ]
 }

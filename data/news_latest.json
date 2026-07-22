@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-22T20:14:30+09:00",
+  "run_at_kst": "2026-07-23T07:12:00.382401+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
-      "title": "Oil Jumps Nearly 4% as Houthis Threaten Red Sea Blockade",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Jumps-Nearly-4-as-Houthis-Threaten-Red-Sea-Blockade.html",
+      "title": "Houthi Red Sea Blockade Could Shatter Hopes for Lower Oil Prices",
+      "link": "https://oilprice.com/Energy/Oil-Prices/Houthi-Red-Sea-Blockade-Could-Shatter-Hopes-for-Lower-Oil-Prices.html",
       "source": "OilPrice",
-      "date": "Wed, 22 Jul 2026 06:10:00 -0500"
+      "date": "Wed, 22 Jul 2026 17:00:00 -0500"
     },
     {
-      "title": "Japan’s Power Prices Soar to 3.5-Year High",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Power-Prices-Soar-to-35-Year-High.html",
+      "title": "MIT Framework Maps Grid Weak Spots Before Climate Disasters Hit",
+      "link": "https://oilprice.com/Energy/Energy-General/MIT-Framework-Maps-Grid-Weak-Spots-Before-Climate-Disasters-Hit.html",
       "source": "OilPrice",
-      "date": "Wed, 22 Jul 2026 05:30:00 -0500"
+      "date": "Wed, 22 Jul 2026 16:00:00 -0500"
     },
     {
-      "title": "Equinor Profit Soars 93% as Oil and Gas Price Spike Fuels Windfall",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-Profit-Soars-93-as-Oil-and-Gas-Price-Spike-Fuels-Windfall.html",
+      "title": "Africa's Richest Man Proposes To Build 700,000 Bpd Oil Refinery In Kenya",
+      "link": "https://oilprice.com/Energy/Energy-General/Africas-Richest-Man-Proposes-To-Build-700000-Bpd-Oil-Refinery-In-Kenya.html",
       "source": "OilPrice",
-      "date": "Wed, 22 Jul 2026 04:30:00 -0500"
+      "date": "Wed, 22 Jul 2026 15:00:00 -0500"
     },
     {
-      "title": "China's Oil Output Hits Record High",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Oil-Output-Hits-Record-High.html",
-      "source": "OilPrice",
-      "date": "Wed, 22 Jul 2026 03:30:00 -0500"
-    },
-    {
-      "title": "Surging Oil Prices Push Japan’s Import Bill to an Unprecedented High",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Surging-Oil-Prices-Push-Japans-Import-Bill-to-an-Unprecedented-High.html",
-      "source": "OilPrice",
-      "date": "Wed, 22 Jul 2026 02:30:00 -0500"
-    },
-    {
-      "title": "U.S.-Iran Conflict Threatens Long-Term Energy Shock Across Asia",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Iran-Conflict-Threatens-Long-Term-Energy-Shock-Across-Asia.html",
-      "source": "OilPrice",
-      "date": "Wed, 22 Jul 2026 01:30:00 -0500"
-    },
-    {
-      "title": "Oil Prices Climb as U.S.-Iran Conflict Shows No Signs of Slowing",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-US-Iran-Conflict-Shows-No-Signs-of-Slowing.html",
-      "source": "OilPrice",
-      "date": "Tue, 21 Jul 2026 22:08:20 -0500"
-    },
-    {
-      "title": "China's Next Move Could Decide Where Oil Prices Go This Year",
-      "link": "https://oilprice.com/Energy/Oil-Prices/Chinas-Next-Move-Could-Decide-Where-Oil-Prices-Go-This-Year.html",
-      "source": "OilPrice",
-      "date": "Tue, 21 Jul 2026 19:00:00 -0500"
-    },
-    {
-      "title": "US Departments of Energy and Labor ink MoU to accelerate AI deployment in mining sector",
-      "link": "https://www.mining.com/us-departments-of-energy-and-labor-ink-mou-to-accelerate-ai-deployment-in-mining-sector/",
+      "title": "Most mines face water risk: ICMM",
+      "link": "https://www.mining.com/most-mines-face-water-risk-icmm/",
       "source": "mining.com",
-      "date": "Tue, 21 Jul 2026 23:26:05 +0000"
+      "date": "Wed, 22 Jul 2026 19:30:00 +0000"
     },
     {
-      "title": "ERI, Cyclic Materials partner to recover and recycle rare earths from e-waste",
-      "link": "https://www.mining.com/eri-cyclic-materials-partner-to-recover-and-recycle-rare-earths-from-e-waste/",
-      "source": "mining.com",
-      "date": "Tue, 21 Jul 2026 22:10:41 +0000"
+      "title": "The Metals Selloff Is Creating New Winners And Losers",
+      "link": "https://oilprice.com/Metals/Commodities/The-Metals-Selloff-Is-Creating-New-Winners-And-Losers.html",
+      "source": "OilPrice",
+      "date": "Wed, 22 Jul 2026 14:00:00 -0500"
     },
     {
-      "title": "Movie producer Lee Caplin joins NovaRed Mining after Noem",
-      "link": "https://www.mining.com/movie-producer-lee-caplin-joins-novared-mining-after-noem/",
+      "title": "Gold, silver prices bounce as US-Iran war spreads to second chokepoint",
+      "link": "https://www.mining.com/gold-silver-prices-bounce-as-us-iran-war-spreads-to-second-chokepoint/",
       "source": "mining.com",
-      "date": "Tue, 21 Jul 2026 20:39:03 +0000"
+      "date": "Wed, 22 Jul 2026 18:50:05 +0000"
     },
     {
-      "title": "Permitting reform key to challenging China’s critical minerals dominance: US mining lawyer",
-      "link": "https://www.mining.com/permitting-reform-key-to-challenging-chinas-critical-minerals-dominance-us-mining-lawyer/",
-      "source": "mining.com",
-      "date": "Tue, 21 Jul 2026 19:51:12 +0000"
+      "title": "China's AI Offensive Gains Ground in Central Asia",
+      "link": "https://oilprice.com/Energy/Energy-General/Chinas-AI-Offensive-Gains-Ground-in-Central-Asia.html",
+      "source": "OilPrice",
+      "date": "Wed, 22 Jul 2026 13:00:00 -0500"
     },
     {
-      "title": "Silver price jumps 5%, gold attracts bargain hunters above $4,000",
-      "link": "https://www.mining.com/silver-price-surges-5-on-coppers-coattails-gold-price-finds-footing-above-4000/",
-      "source": "mining.com",
-      "date": "Tue, 21 Jul 2026 18:32:45 +0000"
+      "title": "GE Vernova Raises Outlook As AI Power Boom Masks Wind Weakness",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/GE-Vernova-Raises-Outlook-As-AI-Power-Boom-Masks-Wind-Weakness.html",
+      "source": "OilPrice",
+      "date": "Wed, 22 Jul 2026 12:30:00 -0500"
     },
     {
-      "title": "Copper price nearing US record as premium doubles, Shanghai stockpiles drop 82%",
-      "link": "https://www.mining.com/copper-price-nearing-us-record-as-premium-doubles-shanghai-stockpiles-drop-82/",
+      "title": "Brazil's Oil Boom Is Accelerating as Asian Buyers Flee the Middle East",
+      "link": "https://oilprice.com/Energy/Energy-General/Brazils-Oil-Boom-Is-Accelerating-as-Asian-Buyers-Flee-the-Middle-East.html",
+      "source": "OilPrice",
+      "date": "Wed, 22 Jul 2026 12:00:00 -0500"
+    },
+    {
+      "title": "LNG Supply Crisis Pushes Buyers Toward Coal and Oil",
+      "link": "https://oilprice.com/Energy/Natural-Gas/LNG-Supply-Crisis-Pushes-Buyers-Toward-Coal-and-Oil.html",
+      "source": "OilPrice",
+      "date": "Wed, 22 Jul 2026 11:00:00 -0500"
+    },
+    {
+      "title": "Lithium price sinks to five-month low as restarts stoke 2027 glut fears",
+      "link": "https://www.mining.com/lithium-price-sinks-to-five-month-low-as-restarts-stoke-2027-glut-fears/",
       "source": "mining.com",
-      "date": "Tue, 21 Jul 2026 18:23:31 +0000"
+      "date": "Wed, 22 Jul 2026 15:43:00 +0000"
+    },
+    {
+      "title": "Hochschild keeps output target despite higher costs",
+      "link": "https://www.mining.com/hochschild-keeps-output-target-despite-higher-costs/",
+      "source": "mining.com",
+      "date": "Wed, 22 Jul 2026 15:19:00 +0000"
+    },
+    {
+      "title": "Coeur doubles Mexico exploration budget to $158M",
+      "link": "https://www.mining.com/coeur-doubles-mexico-exploration-budget-to-158m/",
+      "source": "mining.com",
+      "date": "Wed, 22 Jul 2026 14:57:30 +0000"
+    },
+    {
+      "title": "Lundin Gold adds to Fruta del Norte discoveries",
+      "link": "https://www.mining.com/lundin-gold-adds-to-fruta-del-norte-discoveries/",
+      "source": "mining.com",
+      "date": "Wed, 22 Jul 2026 13:03:00 +0000"
     }
   ]
 }
