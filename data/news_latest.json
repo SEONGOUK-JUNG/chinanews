@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-22T07:16:29+09:00",
+  "run_at_kst": "2026-07-22T10:13:16+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,7 +8,25 @@
   "count": 14,
   "items": [
     {
-      "title": "Fossil Fuels Still Generate 57% of the World's Electricity",
+      "title": "China’s Next Move Could Decide Where Oil Prices Go This Year",
+      "link": "https://oilprice.com/Energy/Oil-Prices/Chinas-Next-Move-Could-Decide-Where-Oil-Prices-Go-This-Year.html",
+      "source": "OilPrice",
+      "date": "Tue, 21 Jul 2026 19:00:00 -0500"
+    },
+    {
+      "title": "US Departments of Energy and Labor ink MoU to accelerate AI deployment in mining sector",
+      "link": "https://www.mining.com/us-departments-of-energy-and-labor-ink-mou-to-accelerate-ai-deployment-in-mining-sector/",
+      "source": "mining.com",
+      "date": "Tue, 21 Jul 2026 23:26:05 +0000"
+    },
+    {
+      "title": "ERI, Cyclic Materials partner to recover and recycle rare earths from e-waste",
+      "link": "https://www.mining.com/eri-cyclic-materials-partner-to-recover-and-recycle-rare-earths-from-e-waste/",
+      "source": "mining.com",
+      "date": "Tue, 21 Jul 2026 22:10:41 +0000"
+    },
+    {
+      "title": "Fossil Fuels Still Generate 57% of the World’s Electricity",
       "link": "https://oilprice.com/Energy/Energy-General/Fossil-Fuels-Still-Generate-57-of-the-Worlds-Electricity.html",
       "source": "OilPrice",
       "date": "Tue, 21 Jul 2026 17:00:00 -0500"
@@ -32,7 +50,7 @@
       "date": "Tue, 21 Jul 2026 20:39:03 +0000"
     },
     {
-      "title": "Norway's Oil Output Beats Forecasts as Hormuz Traffic Stays Near Crisis Lows",
+      "title": "Norway’s Oil Output Beats Forecasts as Hormuz Traffic Stays Near Crisis Lows",
       "link": "https://oilprice.com/Energy/Crude-Oil/Norways-Oil-Output-Beats-Forecasts-as-Hormuz-Traffic-Stays-Near-Crisis-Lows.html",
       "source": "OilPrice",
       "date": "Tue, 21 Jul 2026 15:00:00 -0500"
@@ -72,24 +90,6 @@
       "link": "https://oilprice.com/Energy/Crude-Oil/Inside-Washingtons-Quiet-Bid-to-Break-Chinas-Grip-on-Iraq.html",
       "source": "OilPrice",
       "date": "Tue, 21 Jul 2026 13:00:00 -0500"
-    },
-    {
-      "title": "U.S. Says China Has Slashed Iranian Oil Purchases by 40%",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Says-China-Has-Slashed-Iranian-Oil-Purchases-by-40.html",
-      "source": "OilPrice",
-      "date": "Tue, 21 Jul 2026 12:45:00 -0500"
-    },
-    {
-      "title": "China’s rare earth clampdown backfired: CSIS analyst",
-      "link": "https://www.mining.com/chinas-rare-earth-clampdown-backfired-csis-analyst/",
-      "source": "mining.com",
-      "date": "Tue, 21 Jul 2026 17:00:33 +0000"
-    },
-    {
-      "title": "Getchell Gold sees $905M value for Fondaway Canyon",
-      "link": "https://www.mining.com/getchell-gold-sees-905m-value-for-fondaway-canyon/",
-      "source": "mining.com",
-      "date": "Tue, 21 Jul 2026 16:51:09 +0000"
     }
   ]
 }
