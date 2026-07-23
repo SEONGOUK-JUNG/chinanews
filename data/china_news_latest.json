@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-07-23T07:14:03.614833+09:00",
+  "run_at_kst": "2026-07-23T12:01:17+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "AI 시대의 경제성장률은 어떻게 산정되어야 하는가",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TMDcwYnBBT2tDRTFxMzJsUWhGTnYtRXdvdmJjMnFGcXl6bUloamw0VjNhemVBcEQ3dUw2b2lUREFzSmw0cmtJREhlWFJ0ZXM?oc=5",
+      "source": "v.daum.net",
+      "date": "Thu, 23 Jul 2026 02:07:50 GMT"
+    },
     {
       "title": "[박승찬 칼럼] 中 소비 확대 15·5 규획 발표 속뜻은",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nVm1PdUtveVR4UzNCUml0cHMtVFN5SjhKQ2w5Ukc5aHdlY3NyaFhzb1NOMHI1RTM2TTA4UGNBaThYMVdqVEFxZjhHWWxkSExjYk83OUxLUWRBQdIBWEFVX3lxTE92U29MWTh5VHBuOG9SejhxOVY0ZmwycDRNZHNnNE1yZVQ5UjczOXlMcVNGeS1KN0c5YV9qcXdmZXZlR0hsY3dhbjhoM3Yzd1h5N3E5SkFSd1g?oc=5",
@@ -12,16 +18,10 @@
       "date": "Wed, 22 Jul 2026 21:00:00 GMT"
     },
     {
-      "title": "[경제] 中 치루이 회장 \"중국 자동차 기업, 지속가능한 글로벌 성장의 키워드는 '현지화'\"",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qQ0RrZURvVFBzT1ZNeWRqUmI3QVRIb1RHaE92TC1HWDZZdnVzTEExVjVSS0RuUGdpSFoycTVJUDJpbDdSMFlYQ2sxQ1dDV05aTmRZTFhvaE5WY3hER21JMXRtZ2dmVzhhT1VF?oc=5",
-      "source": "서울뉴스통신",
-      "date": "Wed, 22 Jul 2026 11:56:20 GMT"
-    },
-    {
       "title": "“CXMT보다 '친구들'이 더 무섭다”…중국 반도체 IPO러쉬의 숨은 의미[반도체 삼국지]",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kbVFWZVVsRXFOQmNBZkFaNHFoNFI2YTZoNFY4TUxCczFfUkEyREs1cGVZaWFheE5jdFh5aXdmcXpzSjdoS2pjLXY0cEhwcEU?oc=5",
-      "source": "v.daum.net",
-      "date": "Wed, 22 Jul 2026 09:33:07 GMT"
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQdXkwdTNSQlJhRmwxQTk5cUJ1cEZVNVJzOWk5d1lNMEVBSHRoUzI5Uy10SndJU3JEdE15a1QtSk01VXYzcVF0MS13d3dackQ5ZnBBc3luT3BlSGxSZ05wR3A3cWZCZklCMVM0OA?oc=5",
+      "source": "한경매거진&북",
+      "date": "Wed, 22 Jul 2026 09:31:00 GMT"
     },
     {
       "title": "中 디지털차이나(000034.SZ), 기업용 AI 전환 공략",
@@ -48,12 +48,6 @@
       "date": "Wed, 22 Jul 2026 01:45:00 GMT"
     },
     {
-      "title": "中 경제브리핑...중국 개발 사족보행 로봇, 세계 판매량의 약 70% 外-Xinhua",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CbkRUdllHaVgxM0dLUUF4OFFpbmJHSHNJYnkxc2IyV2haV3pLVGZ5TGRxbWVETWNEa1BoVEpkTXBNVEM5dVlWWXYtQndkNDVyZFZuSEJhSmpvX2ZtVFk1V2cyTy1pVjJYTDBnYUVUVnk4NElZcFE?oc=5",
-      "source": "신화망",
-      "date": "Wed, 22 Jul 2026 01:06:37 GMT"
-    },
-    {
       "title": "친절한 경제: 중국 경기 둔화에 중동 리스크까지… 호주 경제도 영향 받을까",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNmYtMGdaWXBlU2cxOVRGbW1XaXRhTnliR2tCUW10RUxoZEFiVi1ReUN6dWtUU3pzdTJ2WWQ0MGVnM0hPTkdPU2VBOC03SG9lVEhIenotMExGcGVoaHpaVWlMUXU0Rk5Zem02cGJCY1lFSUNWdXl2N3NORDBYVjJIVjFrakJvNWlJSnhWV0p1U0w?oc=5",
       "source": "SBS",
@@ -62,7 +56,7 @@
     {
       "title": "중국의 26. 2/4분기 경제성장률(4.3%)에 대한 현지 평가",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYzRWVjB1Z1NSc2hGTkdIUjhGQThMRXhRMnNKSXhzWGVROFVNN3I2aFE5S25DX2Y0UjJPSzZMMzM5ZVFUM0pLQmJSS2FaRFBybzNtbFQtU3RVUXJWYVNXa3RFZ0FzVnpTai1iR1NiS3ZTWXNtb1ZtR0gyaHY3ZGZCZw?oc=5",
-      "source": "한국개발연구원(KDI)",
+      "source": "KDI 경제교육·정보센터",
       "date": "Tue, 21 Jul 2026 16:34:19 GMT"
     },
     {
@@ -76,6 +70,12 @@
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYUTRLWl9qenQ4dUo2LVFmbGtwRXNaZ3NkZGNXTkZiTXB6c2F4MHZhalJPTi1SWExpYXp0STRJOWh4VUFraHdMRzg0QnQ2dw?oc=5",
       "source": "Haninpost",
       "date": "Sun, 19 Jul 2026 07:08:44 GMT"
+    },
+    {
+      "title": "중국 경제 K자 격차의 덫… AI 경제 독주 뒤 숨은 내수 불황 그늘",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOElVT3ppbXRINXltR3d2ZkxkQ05OOUY2Zl8tSnJYa1ZRWGJmeFJPZE43Q3VsTm41d2tVQUpNQ3dvX201Mi1ha2Y4RUYxTkZRajlzSzlTOHRsY3czdmNHME1GcWlHZzVJUWxzWVFWd2JuZGtUNUdQVVBNd0JEWmVROE9DOFFoZ2x3?oc=5",
+      "source": "글로벌이코노믹",
+      "date": "Sat, 11 Jul 2026 21:48:39 GMT"
     }
   ]
 }

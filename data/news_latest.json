@@ -1,12 +1,48 @@
 {
-  "run_at_kst": "2026-07-23T07:12:00.382401+09:00",
+  "run_at_kst": "2026-07-23T12:01:17+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
-    "OilPrice.com"
+    "OilPrice"
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Brent Nears $96 as U.S. Strikes Iran for 12th Consecutive Night",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Nears-96-as-US-Strikes-Iran-for-12th-Consecutive-Night.html",
+      "source": "OilPrice",
+      "date": "Wed, 22 Jul 2026 21:26:49 -0500"
+    },
+    {
+      "title": "Global Refiners Are Cutting Out Oil Traders To Buy Venezuelan Crude Directly",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Global-Refiners-Are-Cutting-Out-Oil-Traders-To-Buy-Venezuelan-Crude-Directly.html",
+      "source": "OilPrice",
+      "date": "Wed, 22 Jul 2026 19:00:00 -0500"
+    },
+    {
+      "title": "New Pacific Metals updates PEA for Carangas project in Bolivia",
+      "link": "https://www.mining.com/new-pacific-metals-updates-pea-for-carangas-project-in-bolivia/",
+      "source": "mining.com",
+      "date": "Wed, 22 Jul 2026 23:28:49 +0000"
+    },
+    {
+      "title": "New Pipelines Set To Ease Permian Natural Gas Glut",
+      "link": "https://oilprice.com/Energy/Natural-Gas/New-Pipelines-Set-To-Ease-Permian-Natural-Gas-Glut.html",
+      "source": "OilPrice",
+      "date": "Wed, 22 Jul 2026 18:00:00 -0500"
+    },
+    {
+      "title": "Nth Cycle to go public in SPAC merger deal",
+      "link": "https://www.mining.com/nth-cycle-to-go-public-in-spac-merger-deal/",
+      "source": "mining.com",
+      "date": "Wed, 22 Jul 2026 22:34:55 +0000"
+    },
+    {
+      "title": "Equinor CEO: Europe May Miss Winter Gas Storage Goal",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-CEO-Europe-May-Miss-Winter-Gas-Storage-Goal.html",
+      "source": "OilPrice",
+      "date": "Wed, 22 Jul 2026 17:30:00 -0500"
+    },
     {
       "title": "Houthi Red Sea Blockade Could Shatter Hopes for Lower Oil Prices",
       "link": "https://oilprice.com/Energy/Oil-Prices/Houthi-Red-Sea-Blockade-Could-Shatter-Hopes-for-Lower-Oil-Prices.html",
@@ -20,7 +56,7 @@
       "date": "Wed, 22 Jul 2026 16:00:00 -0500"
     },
     {
-      "title": "Africa's Richest Man Proposes To Build 700,000 Bpd Oil Refinery In Kenya",
+      "title": "Africa�셲 Richest Man Proposes To Build 700,000 Bpd Oil Refinery In Kenya",
       "link": "https://oilprice.com/Energy/Energy-General/Africas-Richest-Man-Proposes-To-Build-700000-Bpd-Oil-Refinery-In-Kenya.html",
       "source": "OilPrice",
       "date": "Wed, 22 Jul 2026 15:00:00 -0500"
@@ -44,30 +80,6 @@
       "date": "Wed, 22 Jul 2026 18:50:05 +0000"
     },
     {
-      "title": "China's AI Offensive Gains Ground in Central Asia",
-      "link": "https://oilprice.com/Energy/Energy-General/Chinas-AI-Offensive-Gains-Ground-in-Central-Asia.html",
-      "source": "OilPrice",
-      "date": "Wed, 22 Jul 2026 13:00:00 -0500"
-    },
-    {
-      "title": "GE Vernova Raises Outlook As AI Power Boom Masks Wind Weakness",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/GE-Vernova-Raises-Outlook-As-AI-Power-Boom-Masks-Wind-Weakness.html",
-      "source": "OilPrice",
-      "date": "Wed, 22 Jul 2026 12:30:00 -0500"
-    },
-    {
-      "title": "Brazil's Oil Boom Is Accelerating as Asian Buyers Flee the Middle East",
-      "link": "https://oilprice.com/Energy/Energy-General/Brazils-Oil-Boom-Is-Accelerating-as-Asian-Buyers-Flee-the-Middle-East.html",
-      "source": "OilPrice",
-      "date": "Wed, 22 Jul 2026 12:00:00 -0500"
-    },
-    {
-      "title": "LNG Supply Crisis Pushes Buyers Toward Coal and Oil",
-      "link": "https://oilprice.com/Energy/Natural-Gas/LNG-Supply-Crisis-Pushes-Buyers-Toward-Coal-and-Oil.html",
-      "source": "OilPrice",
-      "date": "Wed, 22 Jul 2026 11:00:00 -0500"
-    },
-    {
       "title": "Lithium price sinks to five-month low as restarts stoke 2027 glut fears",
       "link": "https://www.mining.com/lithium-price-sinks-to-five-month-low-as-restarts-stoke-2027-glut-fears/",
       "source": "mining.com",
@@ -78,18 +90,6 @@
       "link": "https://www.mining.com/hochschild-keeps-output-target-despite-higher-costs/",
       "source": "mining.com",
       "date": "Wed, 22 Jul 2026 15:19:00 +0000"
-    },
-    {
-      "title": "Coeur doubles Mexico exploration budget to $158M",
-      "link": "https://www.mining.com/coeur-doubles-mexico-exploration-budget-to-158m/",
-      "source": "mining.com",
-      "date": "Wed, 22 Jul 2026 14:57:30 +0000"
-    },
-    {
-      "title": "Lundin Gold adds to Fruta del Norte discoveries",
-      "link": "https://www.mining.com/lundin-gold-adds-to-fruta-del-norte-discoveries/",
-      "source": "mining.com",
-      "date": "Wed, 22 Jul 2026 13:03:00 +0000"
     }
   ]
 }
