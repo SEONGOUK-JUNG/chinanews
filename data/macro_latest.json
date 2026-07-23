@@ -1,6 +1,6 @@
 {
-  "updated_at_kst": "2026-07-18T08:03:24+09:00",
-  "as_of": "2026-07-18",
+  "updated_at_kst": "2026-07-23T02:54:26+09:00",
+  "as_of": "2026-07-23",
   "source": "Trading Economics",
   "source_url": "https://tradingeconomics.com/china/indicators",
   "note": "월 1회 갱신 거시지표. 출처 Trading Economics(중국).",
@@ -81,9 +81,9 @@
       "value": 3.0,
       "previous": 3.0,
       "display": "3.00%",
-      "ref": "2026-06",
-      "hint": "대출우대금리",
-      "hint_en": "loan prime rate"
+      "ref": "2026-07",
+      "hint": "대출우대금리·14개월 동결",
+      "hint_en": "loan prime rate, held 14 months"
     },
     {
       "label": "지급준비율 RRR",
@@ -118,9 +118,9 @@
     {
       "label": "USD/CNY",
       "label_en": "USD/CNY",
-      "value": 6.78,
-      "previous": 6.77,
-      "display": "6.78",
+      "value": 6.77,
+      "previous": 6.78,
+      "display": "6.77",
       "ref": "2026-07",
       "hint": "위안 환율",
       "hint_en": "yuan FX"
@@ -128,9 +128,9 @@
     {
       "label": "상하이종합지수",
       "label_en": "SSE Composite",
-      "value": 3764,
-      "previous": 3882,
-      "display": "3,764",
+      "value": 3868,
+      "previous": 3867,
+      "display": "3,868",
       "ref": "2026-07",
       "hint": "SSE Composite",
       "hint_en": "Shanghai index"

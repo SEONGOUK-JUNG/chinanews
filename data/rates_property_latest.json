@@ -1,6 +1,6 @@
 {
-  "updated_at_kst": "2026-07-18T08:03:24+09:00",
-  "as_of": "2026-07-18",
+  "updated_at_kst": "2026-07-23T02:54:26+09:00",
+  "as_of": "2026-07-23",
   "source": "Trading Economics",
   "source_url": "https://tradingeconomics.com/china/indicators",
   "note": "통화·금리·부동산 지표. 출처 Trading Economics(중국). 각 카드의 기준시점 표기 참조.",
@@ -11,20 +11,20 @@
       "value": 3.5,
       "previous": 3.5,
       "display": "3.50%",
-      "ref": "2026-06",
-      "hint": "동결·사상 최저",
-      "hint_en": "unchanged, record low"
+      "ref": "2026-07",
+      "hint": "14개월 동결·사상 최저",
+      "hint_en": "held 14 months, record low"
     },
     {
       "label": "10년 국채금리",
       "label_en": "10Y Govt Bond",
       "value": 1.73,
-      "previous": 1.74,
+      "previous": 1.73,
       "display": "1.73%",
       "ref": "현재(7월)",
       "ref_en": "current (Jul)",
-      "hint": "정책지원 기대에 1주 최저",
-      "hint_en": "one-week low on stimulus bets"
+      "hint": "LPR 동결 후 1개월여 최저",
+      "hint_en": "over one-month low after LPR hold"
     },
     {
       "label": "SHIBOR 3개월",
