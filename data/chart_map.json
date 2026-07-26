@@ -1,146 +1,146 @@
 {
-  "note": "히트맵 추가 품목 차트 누적용 매핑 (all_items display_name → chart_id). featured 16종은 별도 처리.",
-  "count": 28,
-  "items": [
-    {
-      "name": "아연(잉곳)",
-      "chart_id": "zinc",
-      "unit": "CNY/t"
-    },
-    {
-      "name": "연(잉곳)",
-      "chart_id": "lead",
-      "unit": "CNY/t"
-    },
-    {
-      "name": "니켈(잉곳)",
-      "chart_id": "nickel",
-      "unit": "CNY/t"
-    },
-    {
-      "name": "주석(잉곳)",
-      "chart_id": "tin",
-      "unit": "CNY/t"
-    },
-    {
-      "name": "코발트",
-      "chart_id": "cobalt",
-      "unit": "CNY/t"
-    },
-    {
-      "name": "탄산리튬",
-      "chart_id": "lithium_carbonate",
-      "unit": "CNY/t"
-    },
-    {
-      "name": "선형저밀도 폴리에틸렌",
-      "chart_id": "lldpe",
-      "unit": "CNY/t"
-    },
-    {
-      "name": "고밀도 폴리에틸렌",
-      "chart_id": "hdpe",
-      "unit": "CNY/t"
-    },
-    {
-      "name": "저밀도 폴리에틸렌",
-      "chart_id": "ldpe",
-      "unit": "CNY/t"
-    },
-    {
-      "name": "폴리프로필렌",
-      "chart_id": "pp",
-      "unit": "CNY/t"
-    },
-    {
-      "name": "폴리염화비닐",
-      "chart_id": "pvc",
-      "unit": "CNY/t"
-    },
-    {
-      "name": "폴리스티렌",
-      "chart_id": "ps",
-      "unit": "CNY/t"
-    },
-    {
-      "name": "폴리카보네이트",
-      "chart_id": "pc",
-      "unit": "CNY/t"
-    },
-    {
-      "name": "아크릴로니트릴-부타디엔-스티렌",
-      "chart_id": "abs",
-      "unit": "CNY/t"
-    },
-    {
-      "name": "스티렌",
-      "chart_id": "styrene",
-      "unit": "CNY/t"
-    },
-    {
-      "name": "파라자일렌",
-      "chart_id": "paraxylene",
-      "unit": "CNY/t"
-    },
-    {
-      "name": "순수 벤젠",
-      "chart_id": "benzene",
-      "unit": "CNY/t"
-    },
-    {
-      "name": "메탄올",
-      "chart_id": "methanol",
-      "unit": "CNY/t"
-    },
-    {
-      "name": "페놀",
-      "chart_id": "phenol",
-      "unit": "CNY/t"
-    },
-    {
-      "name": "아세톤",
-      "chart_id": "acetone",
-      "unit": "CNY/t"
-    },
-    {
-      "name": "글리콜",
-      "chart_id": "ethylene_glycol",
-      "unit": "CNY/t"
-    },
-    {
-      "name": "나프타",
-      "chart_id": "naphtha",
-      "unit": "CNY/t"
-    },
-    {
-      "name": "가솔린",
-      "chart_id": "gasoline",
-      "unit": "CNY/t"
-    },
-    {
-      "name": "디젤유",
-      "chart_id": "diesel",
-      "unit": "CNY/t"
-    },
-    {
-      "name": "철광석",
-      "chart_id": "iron_ore",
-      "unit": "CNY/t"
-    },
-    {
-      "name": "열간 압연 코일",
-      "chart_id": "hrc",
-      "unit": "CNY/t"
-    },
-    {
-      "name": "이형철근",
-      "chart_id": "rebar",
-      "unit": "CNY/t"
-    },
-    {
-      "name": "뇨소",
-      "chart_id": "urea",
-      "unit": "CNY/t"
-    }
-  ]
+ "note": "히트맵 추가 품목 차트 누적용 매핑 (all_items display_name → chart_id). featured 16종은 별도 처리.",
+ "count": 28,
+ "items": [
+  {
+   "name": "아연(잉곳)",
+   "chart_id": "zinc",
+   "unit": "CNY/t"
+  },
+  {
+   "name": "연(잉곳)",
+   "chart_id": "lead",
+   "unit": "CNY/t"
+  },
+  {
+   "name": "니켈(잉곳)",
+   "chart_id": "nickel",
+   "unit": "CNY/t"
+  },
+  {
+   "name": "주석(잉곳)",
+   "chart_id": "tin",
+   "unit": "CNY/t"
+  },
+  {
+   "name": "코발트",
+   "chart_id": "cobalt",
+   "unit": "CNY/t"
+  },
+  {
+   "name": "탄산리튬",
+   "chart_id": "lithium_carbonate",
+   "unit": "CNY/t"
+  },
+  {
+   "name": "선형저밀도 폴리에틸렌",
+   "chart_id": "lldpe",
+   "unit": "CNY/t"
+  },
+  {
+   "name": "고밀도 폴리에틸렌",
+   "chart_id": "hdpe",
+   "unit": "CNY/t"
+  },
+  {
+   "name": "저밀도 폴리에틸렌",
+   "chart_id": "ldpe",
+   "unit": "CNY/t"
+  },
+  {
+   "name": "폴리프로필렌",
+   "chart_id": "pp",
+   "unit": "CNY/t"
+  },
+  {
+   "name": "폴리염화비닐",
+   "chart_id": "pvc",
+   "unit": "CNY/t"
+  },
+  {
+   "name": "폴리스티렌",
+   "chart_id": "ps",
+   "unit": "CNY/t"
+  },
+  {
+   "name": "폴리카보네이트",
+   "chart_id": "pc",
+   "unit": "CNY/t"
+  },
+  {
+   "name": "아크릴로니트릴-부타디엔-스티렌",
+   "chart_id": "abs",
+   "unit": "CNY/t"
+  },
+  {
+   "name": "스티렌",
+   "chart_id": "styrene",
+   "unit": "CNY/t"
+  },
+  {
+   "name": "파라자일렌",
+   "chart_id": "paraxylene",
+   "unit": "CNY/t"
+  },
+  {
+   "name": "순수 벤젠",
+   "chart_id": "benzene",
+   "unit": "CNY/t"
+  },
+  {
+   "name": "메탄올",
+   "chart_id": "methanol",
+   "unit": "CNY/t"
+  },
+  {
+   "name": "페놀",
+   "chart_id": "phenol",
+   "unit": "CNY/t"
+  },
+  {
+   "name": "아세톤",
+   "chart_id": "acetone",
+   "unit": "CNY/t"
+  },
+  {
+   "name": "글리콜",
+   "chart_id": "ethylene_glycol",
+   "unit": "CNY/t"
+  },
+  {
+   "name": "나프타",
+   "chart_id": "naphtha",
+   "unit": "CNY/t"
+  },
+  {
+   "name": "가솔린",
+   "chart_id": "gasoline",
+   "unit": "CNY/t"
+  },
+  {
+   "name": "디젤유",
+   "chart_id": "diesel",
+   "unit": "CNY/t"
+  },
+  {
+   "name": "철광석",
+   "chart_id": "iron_ore",
+   "unit": "CNY/t"
+  },
+  {
+   "name": "열간 압연 코일",
+   "chart_id": "hrc",
+   "unit": "CNY/t"
+  },
+  {
+   "name": "이형철근",
+   "chart_id": "rebar",
+   "unit": "CNY/t"
+  },
+  {
+   "name": "뇨소",
+   "chart_id": "urea",
+   "unit": "CNY/t"
+  }
+ ]
 }
