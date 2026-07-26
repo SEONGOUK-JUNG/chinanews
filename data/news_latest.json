@@ -1,95 +1,95 @@
 {
-  "run_at_kst": "2026-07-23T12:01:17+09:00",
+  "run_at_kst": "2026-07-26T11:11:41+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
-    "OilPrice"
+    "OilPrice.com"
   ],
   "count": 14,
   "items": [
     {
-      "title": "Brent Nears $96 as U.S. Strikes Iran for 12th Consecutive Night",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Nears-96-as-US-Strikes-Iran-for-12th-Consecutive-Night.html",
+      "title": "Can an AI Black Box Be Trusted to Run a Nuclear Reactor?",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Can-an-AI-Black-Box-Be-Trusted-to-Run-a-Nuclear-Reactor.html",
       "source": "OilPrice",
-      "date": "Wed, 22 Jul 2026 21:26:49 -0500"
+      "date": "Sat, 25 Jul 2026 16:00:00 -0500"
     },
     {
-      "title": "Global Refiners Are Cutting Out Oil Traders To Buy Venezuelan Crude Directly",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Global-Refiners-Are-Cutting-Out-Oil-Traders-To-Buy-Venezuelan-Crude-Directly.html",
+      "title": "The Carbon Capture Boom Is Starting to Crack",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Carbon-Capture-Boom-Is-Starting-to-Crack.html",
       "source": "OilPrice",
-      "date": "Wed, 22 Jul 2026 19:00:00 -0500"
+      "date": "Sat, 25 Jul 2026 14:00:00 -0500"
     },
     {
-      "title": "New Pacific Metals updates PEA for Carangas project in Bolivia",
-      "link": "https://www.mining.com/new-pacific-metals-updates-pea-for-carangas-project-in-bolivia/",
+      "title": "UCLA Scientists Turn Plastic Waste Into Pure Hydrogen Fuel",
+      "link": "https://oilprice.com/Energy/Energy-General/UCLA-Scientists-Turn-Plastic-Waste-Into-Pure-Hydrogen-Fuel.html",
+      "source": "OilPrice",
+      "date": "Sat, 25 Jul 2026 12:00:00 -0500"
+    },
+    {
+      "title": "EU Backs Off Methane Rules as Energy Security Fears Mount",
+      "link": "https://oilprice.com/Energy/Energy-General/EU-Backs-Off-Methane-Rules-as-Energy-Security-Fears-Mount.html",
+      "source": "OilPrice",
+      "date": "Sat, 25 Jul 2026 10:00:00 -0500"
+    },
+    {
+      "title": "MAX Power Mining increases landholding at Lawson hydrogen project in Saskatchewan",
+      "link": "https://www.mining.com/max-power-mining-increases-landholding-at-lawson-hydrogen-project-in-saskatchewan/",
       "source": "mining.com",
-      "date": "Wed, 22 Jul 2026 23:28:49 +0000"
+      "date": "Fri, 24 Jul 2026 23:47:23 +0000"
     },
     {
-      "title": "New Pipelines Set To Ease Permian Natural Gas Glut",
-      "link": "https://oilprice.com/Energy/Natural-Gas/New-Pipelines-Set-To-Ease-Permian-Natural-Gas-Glut.html",
+      "title": "The Strait of Hormuz Closure Is Already Hitting Supermarket Prices",
+      "link": "https://oilprice.com/Finance/the-Economy/The-Strait-of-Hormuz-Closure-Is-Already-Hitting-Supermarket-Prices.html",
       "source": "OilPrice",
-      "date": "Wed, 22 Jul 2026 18:00:00 -0500"
+      "date": "Fri, 24 Jul 2026 18:00:00 -0500"
     },
     {
-      "title": "Nth Cycle to go public in SPAC merger deal",
-      "link": "https://www.mining.com/nth-cycle-to-go-public-in-spac-merger-deal/",
+      "title": "American Mineral Resources bets on diversified project portfolio as US juniors struggle to raise capital",
+      "link": "https://www.mining.com/american-mineral-resources-bets-on-diversified-project-portfolio-as-us-juniors-struggle-to-raise-capital/",
       "source": "mining.com",
-      "date": "Wed, 22 Jul 2026 22:34:55 +0000"
+      "date": "Fri, 24 Jul 2026 20:21:17 +0000"
     },
     {
-      "title": "Equinor CEO: Europe May Miss Winter Gas Storage Goal",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-CEO-Europe-May-Miss-Winter-Gas-Storage-Goal.html",
+      "title": "The Red Sea Is Becoming Saudi Arabia's Biggest Oil Bottleneck",
+      "link": "https://oilprice.com/Energy/Crude-Oil/The-Red-Sea-Is-Becoming-Saudi-Arabias-Biggest-Oil-Bottleneck.html",
       "source": "OilPrice",
-      "date": "Wed, 22 Jul 2026 17:30:00 -0500"
+      "date": "Fri, 24 Jul 2026 14:00:00 -0500"
     },
     {
-      "title": "Houthi Red Sea Blockade Could Shatter Hopes for Lower Oil Prices",
-      "link": "https://oilprice.com/Energy/Oil-Prices/Houthi-Red-Sea-Blockade-Could-Shatter-Hopes-for-Lower-Oil-Prices.html",
-      "source": "OilPrice",
-      "date": "Wed, 22 Jul 2026 17:00:00 -0500"
-    },
-    {
-      "title": "MIT Framework Maps Grid Weak Spots Before Climate Disasters Hit",
-      "link": "https://oilprice.com/Energy/Energy-General/MIT-Framework-Maps-Grid-Weak-Spots-Before-Climate-Disasters-Hit.html",
-      "source": "OilPrice",
-      "date": "Wed, 22 Jul 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Africa�셲 Richest Man Proposes To Build 700,000 Bpd Oil Refinery In Kenya",
-      "link": "https://oilprice.com/Energy/Energy-General/Africas-Richest-Man-Proposes-To-Build-700000-Bpd-Oil-Refinery-In-Kenya.html",
-      "source": "OilPrice",
-      "date": "Wed, 22 Jul 2026 15:00:00 -0500"
-    },
-    {
-      "title": "Most mines face water risk: ICMM",
-      "link": "https://www.mining.com/most-mines-face-water-risk-icmm/",
+      "title": "US Department of Energy commits $65.5M to boost domestic oil and gas production",
+      "link": "https://www.mining.com/us-department-of-energy-commits-65-m-to-boost-domestic-oil-and-natural-gas-production/",
       "source": "mining.com",
-      "date": "Wed, 22 Jul 2026 19:30:00 +0000"
+      "date": "Fri, 24 Jul 2026 18:16:55 +0000"
     },
     {
-      "title": "The Metals Selloff Is Creating New Winners And Losers",
-      "link": "https://oilprice.com/Metals/Commodities/The-Metals-Selloff-Is-Creating-New-Winners-And-Losers.html",
+      "title": "$4,000 Gold Is Changing Lives Across Central Asia",
+      "link": "https://oilprice.com/Metals/Gold/4000-Gold-Is-Changing-Lives-Across-Central-Asia.html",
       "source": "OilPrice",
-      "date": "Wed, 22 Jul 2026 14:00:00 -0500"
+      "date": "Fri, 24 Jul 2026 13:00:00 -0500"
     },
     {
-      "title": "Gold, silver prices bounce as US-Iran war spreads to second chokepoint",
-      "link": "https://www.mining.com/gold-silver-prices-bounce-as-us-iran-war-spreads-to-second-chokepoint/",
-      "source": "mining.com",
-      "date": "Wed, 22 Jul 2026 18:50:05 +0000"
+      "title": "Russia's Biggest Black Sea Oil Port Goes Quiet as Drone Threat Grows",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russias-Biggest-Black-Sea-Oil-Port-Goes-Quiet-as-Drone-Threat-Grows.html",
+      "source": "OilPrice",
+      "date": "Fri, 24 Jul 2026 13:00:00 -0500"
     },
     {
-      "title": "Lithium price sinks to five-month low as restarts stoke 2027 glut fears",
-      "link": "https://www.mining.com/lithium-price-sinks-to-five-month-low-as-restarts-stoke-2027-glut-fears/",
+      "title": "Newmont eyes 5M-ounce boost from Lihir gold mine",
+      "link": "https://www.mining.com/newmont-eyes-5m-ounce-boost-from-lihir-gold-mine/",
       "source": "mining.com",
-      "date": "Wed, 22 Jul 2026 15:43:00 +0000"
+      "date": "Fri, 24 Jul 2026 16:02:00 +0000"
     },
     {
-      "title": "Hochschild keeps output target despite higher costs",
-      "link": "https://www.mining.com/hochschild-keeps-output-target-despite-higher-costs/",
+      "title": "Fitzroy builds case for near-term Chile copper mine",
+      "link": "https://www.mining.com/fitzroy-builds-case-for-near-term-chile-copper-mine/",
       "source": "mining.com",
-      "date": "Wed, 22 Jul 2026 15:19:00 +0000"
+      "date": "Fri, 24 Jul 2026 15:38:14 +0000"
+    },
+    {
+      "title": "Agnico bets $60M more on stake in Lassonde-backed Cadillac in Abitibi",
+      "link": "https://www.mining.com/agnico-bets-60m-more-on-stake-in-lassonde-backed-cadillac-in-abitibi/",
+      "source": "mining.com",
+      "date": "Fri, 24 Jul 2026 15:26:09 +0000"
     }
   ]
 }
