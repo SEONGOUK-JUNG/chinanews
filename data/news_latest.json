@@ -1,11 +1,60 @@
 {
- "run_at_kst": "2026-07-27T12:59:10+09:00",
+ "run_at_kst": "2026-07-27T16:24:24+09:00",
  "schema_version": "1.0",
  "sources": [
-  "mining.com"
+  "mining.com",
+  "OilPrice.com"
  ],
  "count": 14,
  "items": [
+  {
+   "title": "China's Crude Oil Imports Surge",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Oil-Imports-Surge.html",
+   "source": "OilPrice",
+   "date": "Mon, 27 Jul 2026 01:45:00 -0500"
+  },
+  {
+   "title": "Oil Prices Plunge 5% After U.S. and Iran Halt Attacks",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-5-After-US-and-Iran-Halt-Attacks.html",
+   "source": "OilPrice",
+   "date": "Sun, 26 Jul 2026 20:06:14 -0500"
+  },
+  {
+   "title": "China's Rare Earth Strategy Is Forcing a U.S. Manufacturing Revolution",
+   "link": "https://oilprice.com/Energy/Energy-General/Chinas-Rare-Earth-Strategy-Is-Forcing-a-US-Manufacturing-Revolution.html",
+   "source": "OilPrice",
+   "date": "Sun, 26 Jul 2026 19:00:00 -0500"
+  },
+  {
+   "title": "Standard Chartered: Oil Markets Must Now Price Two Middle East Chokepoints",
+   "link": "https://oilprice.com/Energy/Crude-Oil/Standard-Chartered-Oil-Markets-Must-Now-Price-Two-Middle-East-Chokepoints.html",
+   "source": "OilPrice",
+   "date": "Sun, 26 Jul 2026 18:00:00 -0500"
+  },
+  {
+   "title": "U.S. Jet Fuel Costs Soar as Iran War Hits Airlines Again",
+   "link": "https://oilprice.com/Energy/Energy-General/US-Jet-Fuel-Costs-Soar-as-Iran-War-Hits-Airlines-Again.html",
+   "source": "OilPrice",
+   "date": "Sun, 26 Jul 2026 16:00:00 -0500"
+  },
+  {
+   "title": "Argentina's Oil Production Soars as Vaca Muerta Breaks New Records",
+   "link": "https://oilprice.com/Energy/Energy-General/Argentinas-Oil-Production-Soars-as-Vaca-Muerta-Breaks-New-Records.html",
+   "source": "OilPrice",
+   "date": "Sun, 26 Jul 2026 14:00:00 -0500"
+  },
+  {
+   "title": "Molten Salt Reactors Just Cleared A Major U.S. Regulatory Hurdle",
+   "link": "https://oilprice.com/Energy/Energy-General/Molten-Salt-Reactors-Just-Cleared-A-Major-U.S.-Regulatory-Hurdle.html",
+   "source": "OilPrice",
+   "date": "Sun, 26 Jul 2026 12:00:00 -0500"
+  },
+  {
+   "title": "Oil Market's Glut Narrative Just Blew Up",
+   "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Markets-Glut-Narrative-Just-Blew-Up.html",
+   "source": "OilPrice",
+   "date": "Sun, 26 Jul 2026 11:00:00 -0500"
+  },
   {
    "title": "MAX Power Mining increases landholding at Lawson hydrogen project in Saskatchewan",
    "link": "https://www.mining.com/max-power-mining-increases-landholding-at-lawson-hydrogen-project-in-saskatchewan/",
@@ -41,54 +90,6 @@
    "link": "https://www.mining.com/agnico-bets-60m-more-on-stake-in-lassonde-backed-cadillac-in-abitibi/",
    "source": "mining.com",
    "date": "Fri, 24 Jul 2026 15:26:09 +0000"
-  },
-  {
-   "title": "US debt could drive gold price to $6,000, analyst says",
-   "link": "https://www.mining.com/us-debt-could-drive-gold-to-6000-analyst-says/",
-   "source": "mining.com",
-   "date": "Fri, 24 Jul 2026 14:00:00 +0000"
-  },
-  {
-   "title": "Japan finds heavy rare earths dominate seabed deposit",
-   "link": "https://www.mining.com/japan-finds-heavy-rare-earths-dominate-seabed-deposit/",
-   "source": "mining.com",
-   "date": "Fri, 24 Jul 2026 11:43:00 +0000"
-  },
-  {
-   "title": "US estimates federal coal could power nation for 600 years",
-   "link": "https://www.mining.com/us-estimates-federal-coal-could-power-nation-for-600-years/",
-   "source": "mining.com",
-   "date": "Fri, 24 Jul 2026 10:51:00 +0000"
-  },
-  {
-   "title": "Sunrise Energy Metals ramps up expansion plans at Friedland-backed scandium project",
-   "link": "https://www.mining.com/sunrise-energy-metals-ramps-up-expansion-plans-at-friedland-backed-scandium-project/",
-   "source": "mining.com",
-   "date": "Thu, 23 Jul 2026 23:09:16 +0000"
-  },
-  {
-   "title": "Freeport beats profit forecasts despite Grasberg slump",
-   "link": "https://www.mining.com/freeport-tops-profit-forecasts-despite-grasberg-slump/",
-   "source": "mining.com",
-   "date": "Thu, 23 Jul 2026 17:51:17 +0000"
-  },
-  {
-   "title": "Copper price pulls back from record territory as war jitters trump earnings beats",
-   "link": "https://www.mining.com/copper-price-pulls-back-from-record-territory-as-war-jitters-trump-earnings-beats/",
-   "source": "mining.com",
-   "date": "Thu, 23 Jul 2026 17:47:59 +0000"
-  },
-  {
-   "title": "India invests $2B for SMRs as Saudi Arabia eyes nuclear power development",
-   "link": "https://www.mining.com/india-invests-2b-for-smrs-as-saudi-arabia-eyes-nuclear-power-development/",
-   "source": "mining.com",
-   "date": "Thu, 23 Jul 2026 16:52:34 +0000"
-  },
-  {
-   "title": "Gold price retreats from two-week high as oil nears $100, silver down 4%",
-   "link": "https://www.mining.com/gold-price-retreats-from-two-week-high-as-oil-nears-100-silver-down-4/",
-   "source": "mining.com",
-   "date": "Thu, 23 Jul 2026 16:52:25 +0000"
   }
  ]
 }
