@@ -1,95 +1,95 @@
 {
-  "run_at_kst": "2026-07-27T20:28:11+09:00",
+  "run_at_kst": "2026-07-28T08:53:58.413490+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
-    "OilPrice.com"
+    "OilPrice"
   ],
   "count": 14,
   "items": [
     {
-      "title": "Irish Energy Distributor Agrees to $7.7 Billion Takeover by KKR-Led Consortium",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Irish-Energy-Distributor-Agrees-to-77-Billion-Takeover-by-KKR-Led-Consortium.html",
+      "title": "$100 Oil Puts Big Tech’s $725 Billion AI Bet at Risk",
+      "link": "https://oilprice.com/Energy/Energy-General/100-Oil-Puts-Big-Techs-725-Billion-AI-Bet-at-Risk.html",
       "source": "OilPrice",
-      "date": "Mon, 27 Jul 2026 05:45:00 -0500"
+      "date": "Mon, 27 Jul 2026 18:00:00 -0500"
     },
     {
-      "title": "Red Sea Tanker Traffic Falls to Multi-Month Low After Houthi Threats",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Red-Sea-Tanker-Traffic-Falls-to-Multi-Month-Low-After-Houthi-Threats.html",
+      "title": "Stormlands re‑rates Odienné with 153% NPV surge",
+      "link": "https://www.mining.com/stormlands-re%e2%80%91rates-odienne-with-153-npv-surge/",
+      "source": "mining.com",
+      "date": "Mon, 27 Jul 2026 22:42:00 +0000"
+    },
+    {
+      "title": "Jet Fuel Spike Blows a Hole in Airline Profit Forecasts",
+      "link": "https://oilprice.com/Energy/Energy-General/Jet-Fuel-Spike-Blows-a-Hole-in-Airline-Profit-Forecasts.html",
       "source": "OilPrice",
-      "date": "Mon, 27 Jul 2026 04:40:00 -0500"
+      "date": "Mon, 27 Jul 2026 17:00:00 -0500"
     },
     {
-      "title": "European Natural Gas Prices Plunge 8% as U.S.-Iran Tensions Ease",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/European-Natural-Gas-Prices-Plunge-8-as-US-Iran-Tensions-Ease.html",
+      "title": "Op-Ed: Copper supply gap — good news on borrowed time",
+      "link": "https://www.mining.com/op-ed-copper-supply-gap-good-news-on-borrowed-time/",
+      "source": "mining.com",
+      "date": "Mon, 27 Jul 2026 21:49:28 +0000"
+    },
+    {
+      "title": "The U.S. Is Walking Into Iran’s Escalation Trap",
+      "link": "https://oilprice.com/Geopolitics/Middle-East/The-US-Is-Walking-Into-Irans-Escalation-Trap.html",
       "source": "OilPrice",
-      "date": "Mon, 27 Jul 2026 03:30:00 -0500"
+      "date": "Mon, 27 Jul 2026 16:00:00 -0500"
     },
     {
-      "title": "Japan Eyes Foreign Banks to Back $33 Billion U.S. Natural Gas Investment",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Eyes-Foreign-Banks-to-Back-33-Billion-US-Natural-Gas-Investment.html",
+      "title": "What If the Most Valuable Part of an EV Isn't the Car?",
+      "link": "https://oilprice.com/Energy/Energy-General/What-If-the-Most-Valuable-Part-of-an-EV-Isnt-the-Car.html",
       "source": "OilPrice",
-      "date": "Mon, 27 Jul 2026 02:45:00 -0500"
+      "date": "Mon, 27 Jul 2026 14:00:00 -0500"
     },
     {
-      "title": "China’s Crude Oil Imports Surge",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Oil-Imports-Surge.html",
+      "title": "The Trade Routes Iran Cannot Afford to Lose",
+      "link": "https://oilprice.com/Geopolitics/Asia/The-Trade-Routes-Iran-Cannot-Afford-to-Lose.html",
       "source": "OilPrice",
-      "date": "Mon, 27 Jul 2026 01:45:00 -0500"
+      "date": "Mon, 27 Jul 2026 14:00:00 -0500"
     },
     {
-      "title": "Oil Prices Plunge 5% After U.S. and Iran Halt Attacks",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-5-After-US-and-Iran-Halt-Attacks.html",
+      "title": "A Skeptical Look at Elon Musk's AI Utopia",
+      "link": "https://oilprice.com/Energy/Energy-General/A-Skeptical-Look-at-Elon-Musks-AI-Utopia.html",
       "source": "OilPrice",
-      "date": "Sun, 26 Jul 2026 20:06:14 -0500"
+      "date": "Mon, 27 Jul 2026 13:00:00 -0500"
     },
     {
-      "title": "China’s Rare Earth Strategy Is Forcing a U.S. Manufacturing Revolution",
-      "link": "https://oilprice.com/Energy/Energy-General/Chinas-Rare-Earth-Strategy-Is-Forcing-a-US-Manufacturing-Revolution.html",
+      "title": "Kazakhstan Restarts CPC Oil Exports After Week-Long Black Sea Shutdown",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Kazakhstan-Restarts-CPC-Oil-Exports-After-Week-Long-Black-Sea-Shutdown.html",
       "source": "OilPrice",
-      "date": "Sun, 26 Jul 2026 19:00:00 -0500"
+      "date": "Mon, 27 Jul 2026 12:30:00 -0500"
     },
     {
-      "title": "Standard Chartered: Oil Markets Must Now Price Two Middle East Chokepoints",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Standard-Chartered-Oil-Markets-Must-Now-Price-Two-Middle-East-Chokepoints.html",
+      "title": "Brixton hits extraordinary 5,015g silver over 20m near Cobalt",
+      "link": "https://www.mining.com/brixton-hits-extraordinary-5015g-silver-over-20m-near-cobalt/",
+      "source": "mining.com",
+      "date": "Mon, 27 Jul 2026 17:12:00 +0000"
+    },
+    {
+      "title": "Nvidia's $250 Billion OpenAI Guarantee Puts AI Capex Concerns Back in Focus",
+      "link": "https://oilprice.com/Energy/Energy-General/Nvidias-250-Billion-OpenAI-Guarantee-Puts-AI-Capex-Concerns-Back-in-Focus.html",
       "source": "OilPrice",
-      "date": "Sun, 26 Jul 2026 18:00:00 -0500"
+      "date": "Mon, 27 Jul 2026 12:00:00 -0500"
     },
     {
-      "title": "MAX Power Mining increases landholding at Lawson hydrogen project in Saskatchewan",
-      "link": "https://www.mining.com/max-power-mining-increases-landholding-at-lawson-hydrogen-project-in-saskatchewan/",
-      "date": "Fri, 24 Jul 2026 23:47:23 +0000",
-      "source": "mining.com"
+      "title": "Quebec selects Troilus for accelerated permitting stream",
+      "link": "https://www.mining.com/quebec-selects-troilus-for-accelerated-permitting-stream/",
+      "source": "mining.com",
+      "date": "Mon, 27 Jul 2026 16:54:54 +0000"
     },
     {
-      "title": "American Mineral Resources bets on diversified project portfolio as US juniors struggle to raise capital",
-      "link": "https://www.mining.com/american-mineral-resources-bets-on-diversified-project-portfolio-as-us-juniors-struggle-to-raise-capital/",
-      "date": "Fri, 24 Jul 2026 20:21:17 +0000",
-      "source": "mining.com"
+      "title": "NextSource’ eyes longer Madagascar graphite mine life, higher costs",
+      "link": "https://www.mining.com/nextsource-eyes-longer-madagascar-graphite-mine-life-higher-costs/",
+      "source": "mining.com",
+      "date": "Mon, 27 Jul 2026 15:21:06 +0000"
     },
     {
-      "title": "US Department of Energy commits $65.5M to boost domestic oil and gas production",
-      "link": "https://www.mining.com/us-department-of-energy-commits-65-m-to-boost-domestic-oil-and-natural-gas-production/",
-      "date": "Fri, 24 Jul 2026 18:16:55 +0000",
-      "source": "mining.com"
-    },
-    {
-      "title": "Newmont eyes 5M-ounce boost from Lihir gold mine",
-      "link": "https://www.mining.com/newmont-eyes-5m-ounce-boost-from-lihir-gold-mine/",
-      "date": "Fri, 24 Jul 2026 16:02:00 +0000",
-      "source": "mining.com"
-    },
-    {
-      "title": "Fitzroy builds case for near-term Chile copper mine",
-      "link": "https://www.mining.com/fitzroy-builds-case-for-near-term-chile-copper-mine/",
-      "date": "Fri, 24 Jul 2026 15:38:14 +0000",
-      "source": "mining.com"
-    },
-    {
-      "title": "Agnico bets $60M more on stake in Lassonde-backed Cadillac in Abitibi",
-      "link": "https://www.mining.com/agnico-bets-60m-more-on-stake-in-lassonde-backed-cadillac-in-abitibi/",
-      "date": "Fri, 24 Jul 2026 15:26:09 +0000",
-      "source": "mining.com"
+      "title": "Prins says gold still headed to $6,000 despite selloff",
+      "link": "https://www.mining.com/prins-says-gold-still-headed-to-6000-despite-selloff/",
+      "source": "mining.com",
+      "date": "Mon, 27 Jul 2026 15:07:00 +0000"
     }
   ]
 }
