@@ -1,95 +1,95 @@
 {
- "run_at_kst": "2026-07-27T16:24:24+09:00",
- "schema_version": "1.0",
- "sources": [
-  "mining.com",
-  "OilPrice.com"
- ],
- "count": 14,
- "items": [
-  {
-   "title": "China's Crude Oil Imports Surge",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Oil-Imports-Surge.html",
-   "source": "OilPrice",
-   "date": "Mon, 27 Jul 2026 01:45:00 -0500"
-  },
-  {
-   "title": "Oil Prices Plunge 5% After U.S. and Iran Halt Attacks",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-5-After-US-and-Iran-Halt-Attacks.html",
-   "source": "OilPrice",
-   "date": "Sun, 26 Jul 2026 20:06:14 -0500"
-  },
-  {
-   "title": "China's Rare Earth Strategy Is Forcing a U.S. Manufacturing Revolution",
-   "link": "https://oilprice.com/Energy/Energy-General/Chinas-Rare-Earth-Strategy-Is-Forcing-a-US-Manufacturing-Revolution.html",
-   "source": "OilPrice",
-   "date": "Sun, 26 Jul 2026 19:00:00 -0500"
-  },
-  {
-   "title": "Standard Chartered: Oil Markets Must Now Price Two Middle East Chokepoints",
-   "link": "https://oilprice.com/Energy/Crude-Oil/Standard-Chartered-Oil-Markets-Must-Now-Price-Two-Middle-East-Chokepoints.html",
-   "source": "OilPrice",
-   "date": "Sun, 26 Jul 2026 18:00:00 -0500"
-  },
-  {
-   "title": "U.S. Jet Fuel Costs Soar as Iran War Hits Airlines Again",
-   "link": "https://oilprice.com/Energy/Energy-General/US-Jet-Fuel-Costs-Soar-as-Iran-War-Hits-Airlines-Again.html",
-   "source": "OilPrice",
-   "date": "Sun, 26 Jul 2026 16:00:00 -0500"
-  },
-  {
-   "title": "Argentina's Oil Production Soars as Vaca Muerta Breaks New Records",
-   "link": "https://oilprice.com/Energy/Energy-General/Argentinas-Oil-Production-Soars-as-Vaca-Muerta-Breaks-New-Records.html",
-   "source": "OilPrice",
-   "date": "Sun, 26 Jul 2026 14:00:00 -0500"
-  },
-  {
-   "title": "Molten Salt Reactors Just Cleared A Major U.S. Regulatory Hurdle",
-   "link": "https://oilprice.com/Energy/Energy-General/Molten-Salt-Reactors-Just-Cleared-A-Major-U.S.-Regulatory-Hurdle.html",
-   "source": "OilPrice",
-   "date": "Sun, 26 Jul 2026 12:00:00 -0500"
-  },
-  {
-   "title": "Oil Market's Glut Narrative Just Blew Up",
-   "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Markets-Glut-Narrative-Just-Blew-Up.html",
-   "source": "OilPrice",
-   "date": "Sun, 26 Jul 2026 11:00:00 -0500"
-  },
-  {
-   "title": "MAX Power Mining increases landholding at Lawson hydrogen project in Saskatchewan",
-   "link": "https://www.mining.com/max-power-mining-increases-landholding-at-lawson-hydrogen-project-in-saskatchewan/",
-   "source": "mining.com",
-   "date": "Fri, 24 Jul 2026 23:47:23 +0000"
-  },
-  {
-   "title": "American Mineral Resources bets on diversified project portfolio as US juniors struggle to raise capital",
-   "link": "https://www.mining.com/american-mineral-resources-bets-on-diversified-project-portfolio-as-us-juniors-struggle-to-raise-capital/",
-   "source": "mining.com",
-   "date": "Fri, 24 Jul 2026 20:21:17 +0000"
-  },
-  {
-   "title": "US Department of Energy commits $65.5M to boost domestic oil and gas production",
-   "link": "https://www.mining.com/us-department-of-energy-commits-65-m-to-boost-domestic-oil-and-natural-gas-production/",
-   "source": "mining.com",
-   "date": "Fri, 24 Jul 2026 18:16:55 +0000"
-  },
-  {
-   "title": "Newmont eyes 5M-ounce boost from Lihir gold mine",
-   "link": "https://www.mining.com/newmont-eyes-5m-ounce-boost-from-lihir-gold-mine/",
-   "source": "mining.com",
-   "date": "Fri, 24 Jul 2026 16:02:00 +0000"
-  },
-  {
-   "title": "Fitzroy builds case for near-term Chile copper mine",
-   "link": "https://www.mining.com/fitzroy-builds-case-for-near-term-chile-copper-mine/",
-   "source": "mining.com",
-   "date": "Fri, 24 Jul 2026 15:38:14 +0000"
-  },
-  {
-   "title": "Agnico bets $60M more on stake in Lassonde-backed Cadillac in Abitibi",
-   "link": "https://www.mining.com/agnico-bets-60m-more-on-stake-in-lassonde-backed-cadillac-in-abitibi/",
-   "source": "mining.com",
-   "date": "Fri, 24 Jul 2026 15:26:09 +0000"
-  }
- ]
+  "run_at_kst": "2026-07-27T20:28:11+09:00",
+  "schema_version": "1.0",
+  "sources": [
+    "mining.com",
+    "OilPrice.com"
+  ],
+  "count": 14,
+  "items": [
+    {
+      "title": "Irish Energy Distributor Agrees to $7.7 Billion Takeover by KKR-Led Consortium",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Irish-Energy-Distributor-Agrees-to-77-Billion-Takeover-by-KKR-Led-Consortium.html",
+      "source": "OilPrice",
+      "date": "Mon, 27 Jul 2026 05:45:00 -0500"
+    },
+    {
+      "title": "Red Sea Tanker Traffic Falls to Multi-Month Low After Houthi Threats",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Red-Sea-Tanker-Traffic-Falls-to-Multi-Month-Low-After-Houthi-Threats.html",
+      "source": "OilPrice",
+      "date": "Mon, 27 Jul 2026 04:40:00 -0500"
+    },
+    {
+      "title": "European Natural Gas Prices Plunge 8% as U.S.-Iran Tensions Ease",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/European-Natural-Gas-Prices-Plunge-8-as-US-Iran-Tensions-Ease.html",
+      "source": "OilPrice",
+      "date": "Mon, 27 Jul 2026 03:30:00 -0500"
+    },
+    {
+      "title": "Japan Eyes Foreign Banks to Back $33 Billion U.S. Natural Gas Investment",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Eyes-Foreign-Banks-to-Back-33-Billion-US-Natural-Gas-Investment.html",
+      "source": "OilPrice",
+      "date": "Mon, 27 Jul 2026 02:45:00 -0500"
+    },
+    {
+      "title": "China’s Crude Oil Imports Surge",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Oil-Imports-Surge.html",
+      "source": "OilPrice",
+      "date": "Mon, 27 Jul 2026 01:45:00 -0500"
+    },
+    {
+      "title": "Oil Prices Plunge 5% After U.S. and Iran Halt Attacks",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-5-After-US-and-Iran-Halt-Attacks.html",
+      "source": "OilPrice",
+      "date": "Sun, 26 Jul 2026 20:06:14 -0500"
+    },
+    {
+      "title": "China’s Rare Earth Strategy Is Forcing a U.S. Manufacturing Revolution",
+      "link": "https://oilprice.com/Energy/Energy-General/Chinas-Rare-Earth-Strategy-Is-Forcing-a-US-Manufacturing-Revolution.html",
+      "source": "OilPrice",
+      "date": "Sun, 26 Jul 2026 19:00:00 -0500"
+    },
+    {
+      "title": "Standard Chartered: Oil Markets Must Now Price Two Middle East Chokepoints",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Standard-Chartered-Oil-Markets-Must-Now-Price-Two-Middle-East-Chokepoints.html",
+      "source": "OilPrice",
+      "date": "Sun, 26 Jul 2026 18:00:00 -0500"
+    },
+    {
+      "title": "MAX Power Mining increases landholding at Lawson hydrogen project in Saskatchewan",
+      "link": "https://www.mining.com/max-power-mining-increases-landholding-at-lawson-hydrogen-project-in-saskatchewan/",
+      "date": "Fri, 24 Jul 2026 23:47:23 +0000",
+      "source": "mining.com"
+    },
+    {
+      "title": "American Mineral Resources bets on diversified project portfolio as US juniors struggle to raise capital",
+      "link": "https://www.mining.com/american-mineral-resources-bets-on-diversified-project-portfolio-as-us-juniors-struggle-to-raise-capital/",
+      "date": "Fri, 24 Jul 2026 20:21:17 +0000",
+      "source": "mining.com"
+    },
+    {
+      "title": "US Department of Energy commits $65.5M to boost domestic oil and gas production",
+      "link": "https://www.mining.com/us-department-of-energy-commits-65-m-to-boost-domestic-oil-and-natural-gas-production/",
+      "date": "Fri, 24 Jul 2026 18:16:55 +0000",
+      "source": "mining.com"
+    },
+    {
+      "title": "Newmont eyes 5M-ounce boost from Lihir gold mine",
+      "link": "https://www.mining.com/newmont-eyes-5m-ounce-boost-from-lihir-gold-mine/",
+      "date": "Fri, 24 Jul 2026 16:02:00 +0000",
+      "source": "mining.com"
+    },
+    {
+      "title": "Fitzroy builds case for near-term Chile copper mine",
+      "link": "https://www.mining.com/fitzroy-builds-case-for-near-term-chile-copper-mine/",
+      "date": "Fri, 24 Jul 2026 15:38:14 +0000",
+      "source": "mining.com"
+    },
+    {
+      "title": "Agnico bets $60M more on stake in Lassonde-backed Cadillac in Abitibi",
+      "link": "https://www.mining.com/agnico-bets-60m-more-on-stake-in-lassonde-backed-cadillac-in-abitibi/",
+      "date": "Fri, 24 Jul 2026 15:26:09 +0000",
+      "source": "mining.com"
+    }
+  ]
 }
