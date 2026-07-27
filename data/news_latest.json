@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-26T13:09:27+09:00",
+  "run_at_kst": "2026-07-27T09:37:43.641270+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,42 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Standard Chartered: Oil Markets Must Now Price Two Middle East Chokepoints",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Standard-Chartered-Oil-Markets-Must-Now-Price-Two-Middle-East-Chokepoints.html",
+      "source": "OilPrice",
+      "date": "Sun, 26 Jul 2026 18:00:00 -0500"
+    },
+    {
+      "title": "U.S. Jet Fuel Costs Soar as Iran War Hits Airlines Again",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Jet-Fuel-Costs-Soar-as-Iran-War-Hits-Airlines-Again.html",
+      "source": "OilPrice",
+      "date": "Sun, 26 Jul 2026 16:00:00 -0500"
+    },
+    {
+      "title": "Argentina's Oil Production Soars as Vaca Muerta Breaks New Records",
+      "link": "https://oilprice.com/Energy/Energy-General/Argentinas-Oil-Production-Soars-as-Vaca-Muerta-Breaks-New-Records.html",
+      "source": "OilPrice",
+      "date": "Sun, 26 Jul 2026 14:00:00 -0500"
+    },
+    {
+      "title": "Molten Salt Reactors Just Cleared A Major U.S. Regulatory Hurdle",
+      "link": "https://oilprice.com/Energy/Energy-General/Molten-Salt-Reactors-Just-Cleared-A-Major-U.S.-Regulatory-Hurdle.html",
+      "source": "OilPrice",
+      "date": "Sun, 26 Jul 2026 12:00:00 -0500"
+    },
+    {
+      "title": "Oil Market's Glut Narrative Just Blew Up",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Markets-Glut-Narrative-Just-Blew-Up.html",
+      "source": "OilPrice",
+      "date": "Sun, 26 Jul 2026 11:00:00 -0500"
+    },
+    {
+      "title": "Australia's Clean Energy Boom Is Gathering Speed",
+      "link": "https://oilprice.com/Energy/Energy-General/Australias-Clean-Energy-Boom-Is-Gathering-Speed.html",
+      "source": "OilPrice",
+      "date": "Sun, 26 Jul 2026 10:00:00 -0500"
+    },
     {
       "title": "Can an AI Black Box Be Trusted to Run a Nuclear Reactor?",
       "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Can-an-AI-Black-Box-Be-Trusted-to-Run-a-Nuclear-Reactor.html",
@@ -20,28 +56,10 @@
       "date": "Sat, 25 Jul 2026 14:00:00 -0500"
     },
     {
-      "title": "UCLA Scientists Turn Plastic Waste Into Pure Hydrogen Fuel",
-      "link": "https://oilprice.com/Energy/Energy-General/UCLA-Scientists-Turn-Plastic-Waste-Into-Pure-Hydrogen-Fuel.html",
-      "source": "OilPrice",
-      "date": "Sat, 25 Jul 2026 12:00:00 -0500"
-    },
-    {
-      "title": "EU Backs Off Methane Rules as Energy Security Fears Mount",
-      "link": "https://oilprice.com/Energy/Energy-General/EU-Backs-Off-Methane-Rules-as-Energy-Security-Fears-Mount.html",
-      "source": "OilPrice",
-      "date": "Sat, 25 Jul 2026 10:00:00 -0500"
-    },
-    {
       "title": "MAX Power Mining increases landholding at Lawson hydrogen project in Saskatchewan",
       "link": "https://www.mining.com/max-power-mining-increases-landholding-at-lawson-hydrogen-project-in-saskatchewan/",
       "source": "mining.com",
       "date": "Fri, 24 Jul 2026 23:47:23 +0000"
-    },
-    {
-      "title": "The Strait of Hormuz Closure Is Already Hitting Supermarket Prices",
-      "link": "https://oilprice.com/Finance/the-Economy/The-Strait-of-Hormuz-Closure-Is-Already-Hitting-Supermarket-Prices.html",
-      "source": "OilPrice",
-      "date": "Fri, 24 Jul 2026 18:00:00 -0500"
     },
     {
       "title": "American Mineral Resources bets on diversified project portfolio as US juniors struggle to raise capital",
@@ -50,28 +68,10 @@
       "date": "Fri, 24 Jul 2026 20:21:17 +0000"
     },
     {
-      "title": "The Red Sea Is Becoming Saudi Arabia's Biggest Oil Bottleneck",
-      "link": "https://oilprice.com/Energy/Crude-Oil/The-Red-Sea-Is-Becoming-Saudi-Arabias-Biggest-Oil-Bottleneck.html",
-      "source": "OilPrice",
-      "date": "Fri, 24 Jul 2026 14:00:00 -0500"
-    },
-    {
       "title": "US Department of Energy commits $65.5M to boost domestic oil and gas production",
       "link": "https://www.mining.com/us-department-of-energy-commits-65-m-to-boost-domestic-oil-and-natural-gas-production/",
       "source": "mining.com",
       "date": "Fri, 24 Jul 2026 18:16:55 +0000"
-    },
-    {
-      "title": "$4,000 Gold Is Changing Lives Across Central Asia",
-      "link": "https://oilprice.com/Metals/Gold/4000-Gold-Is-Changing-Lives-Across-Central-Asia.html",
-      "source": "OilPrice",
-      "date": "Fri, 24 Jul 2026 13:00:00 -0500"
-    },
-    {
-      "title": "Russia's Biggest Black Sea Oil Port Goes Quiet as Drone Threat Grows",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russias-Biggest-Black-Sea-Oil-Port-Goes-Quiet-as-Drone-Threat-Grows.html",
-      "source": "OilPrice",
-      "date": "Fri, 24 Jul 2026 13:00:00 -0500"
     },
     {
       "title": "Newmont eyes 5M-ounce boost from Lihir gold mine",

@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-07-26T13:09:57+09:00",
+  "run_at_kst": "2026-07-27T09:37:43.641270+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "중국은 야간 경제 발전을 가속화하고 있다.",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE14a2Vxc1ZzV3hpRGpzbFpud1dReEpaRnhZejR0M0poejRneGFkV1RPdVFCYW5zR1pNUkdSak51WXU5c25FdnZYN1hFdnI5R3lnZU01eWplcTdadjE2d1c3aE9wVnF2TWpXVHA5bnRRQWNIYUJzZk43WEd6ZVU?oc=5",
+      "source": "Vietnam.vn",
+      "date": "Sun, 26 Jul 2026 13:17:30 GMT"
+    },
     {
       "title": "中 경제브리핑...상반기 약 4천800개 외자기업 중국에 추가 투자 外-Xinhua",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZUm1OX0ZXdy1ZeDhUekRZWThCR2g4eWZldndaZVlwcWd5ajdSUUlBUlQ0Ym9nMjVEU1MwcE9LRm5BSU5YSEtBODNLVS1WcmlZUnB5TzJ0eWIzeWI3Z3VyRHktRzktOHVleFEwb3YyVk52bnVZWTkwYUZTQTY?oc=5",
@@ -12,10 +18,16 @@
       "date": "Sun, 26 Jul 2026 01:12:30 GMT"
     },
     {
-      "title": "‘대륙의 스케일’…“내수시장 1경3000조원까지 키운다”는 중국",
+      "title": "'대륙의 스케일'…\"내수시장 1경3000조원까지 키운다\"는 중국",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02ZTRnVm83Y1RPMTVGcUhuV2YxYVFpZXBxWTV4Q0hTNWo4cGsyUHJqcUVHUmh1OTBzSk5fSXYxTVNCTnlQN1FXX25nQW8xZ3ZP?oc=5",
       "source": "문화일보",
       "date": "Sun, 26 Jul 2026 00:08:37 GMT"
+    },
+    {
+      "title": "\"반년 만에 205만곳 망했다\" 난리났는데…KFC·피자헛에 몰려간 중국인[중국.zip]",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLZW1CRnZzd0FLOTRSZEtYcDBoZkNVT3cwOVp3ZmNUWnNjUXV6QXpEdGFVdXhRWVUyZlNETmpLS08weHdkRGNGV3BtWlRHSXM?oc=5",
+      "source": "v.daum.net",
+      "date": "Sat, 25 Jul 2026 22:30:00 GMT"
     },
     {
       "title": "중국 경제, 하반기 성장 둔화 전망…베이징 광범위한 부양책 기피",
@@ -24,37 +36,25 @@
       "date": "Sat, 25 Jul 2026 07:58:00 GMT"
     },
     {
-      "title": "중국이 AI 패권을 위해 사 모으는 것은?",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xTldMTkdwMl9wMDI3TmhiZ0plQlhMYXMxaWNJV2RwYUs2SS1sWF81cHVwVjdpX18zN21uVWlPaTdFU3hQbWdsRlBfU3hsR2c?oc=5",
-      "source": "v.daum.net",
-      "date": "Sat, 25 Jul 2026 06:52:50 GMT"
-    },
-    {
       "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
       "source": ":: 위즈경제 ::",
       "date": "Fri, 24 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "[열린세상] ‘기술 혁신’ 중국 경제의 역설",
+      "title": "[열린세상] '기술 혁신' 중국 경제의 역설",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVpiQTJsR21nVklIcG5XR1NxR2tBNG9iZ1JfVkVmaWNxUkprY3FteW1WNG1xeDZXNi1CellROVc0NFhPd0l6MnBUdldjWG03NnA2VkdUd1pOXzd1M2FxQU1vYkFYR0FqdUdLWkU2N1p3aEFRZ2oxRkJYTW5VaVpTcGhralgxbkk?oc=5",
       "source": "서울신문",
       "date": "Thu, 23 Jul 2026 16:08:05 GMT"
     },
     {
-      "title": "반도체·투자 협력 확대…'경기도-중국 장쑤성 공동협의체' 2차회의",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IN0VzbnVWa0N1cEs5SUtRTkJlc1F4VnAyT045NmE3blhxTndZQ2pWRm9JQVBEUVN5cUp4QTJBTlluY0FyU3BlLU9NTk9BUFNuS0Naa3BLR2JVNzZyQnNhU3VDVDJ1SGYxeExkQQ?oc=5",
-      "source": "재외동포신문",
-      "date": "Thu, 23 Jul 2026 07:36:55 GMT"
+      "title": "\"니하오 추미애, 협력 확대하자\" 경기도 찾은 중국 경제규모 2위 장쑤성",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mS2tHWllsLU5uWENra2xqWVFZdzl3bDVVajNJRVh4Rnk1ZnJjSjY2cmNaTUpNTGxGVkl6QmplVWhtM3FYMk5pUmNRT2ZRS0NSZGxoR3NaRVUyNm03MGJCa2NBa1JYRWR1YUHSAW9BVV95cUxPS29fV25fZVpJeDJlNm5fSDc4T1BCT0Q4cHYzVURXdWxOdUtoZlZ2UGdENDJJVlh0b19hTVVqQTlpZnEtTGl4YjJuQkVwTVZVRHNETkZZQW81d0k3X1hySko2azBHbFgyMFg5RmZxUnM?oc=5",
+      "source": "머니투데이",
+      "date": "Thu, 23 Jul 2026 08:09:07 GMT"
     },
     {
-      "title": "중국 경제, K자형 양극화 심화...추가 경기부양책은?",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vWV85UDZsaGVOMXBnVnVPaC1oYVczRlNHMzZJRWpBdXlRRXNaaTE2eHFpd0tPcmRDY3dNVHJkWk41NThad3VSV19wRk9hZTIwbmVudE5CNnkwcnQ1Yk42U1FnM0pzOFVlWWZKTGVOYTZlTjDSAXNBVV95cUxNb1lfOVA2bGhlTjFwZ1Z1T2gtaGFXM0ZTRzM2SUVqQXV5UUVzWmkxNnhxaXdLT3JkQ2N3TVRyZFpONTU4Wnd1UldfcEZPYWUyMG5lbnROQjZ5MHJ0NWJONlNRZzNKczhVZVlmSkxlTmE2ZU4w?oc=5",
-      "source": "초이스경제",
-      "date": "Thu, 23 Jul 2026 03:52:49 GMT"
-    },
-    {
-      "title": "[파워인터뷰] 전병서 중국경제금융연구소장 “하반기 중국 증시는 실적장…AI·반도체 ‘뉴 차이나’에 투자하라",
+      "title": "[파워인터뷰] 전병서 중국경제금융연구소장 \"하반기 중국 증시는 실적장…AI·반도체 '뉴 차이나'에 투자하라",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mRFdOeENMT2ZVbjNCUkF0U0lWS3FTNmZjSWlhVE9ib0JBTUQtT1hpdFFNbG9KZHBMWlVIZnNabllYMWZoSWxhVUl0azFPRm5FcXh2V2RMYWloV0d1V1ZGUDRqLUFTODQ?oc=5",
       "source": "팍스경제TV",
       "date": "Wed, 22 Jul 2026 03:20:09 GMT"
@@ -66,13 +66,13 @@
       "date": "Tue, 21 Jul 2026 23:37:41 GMT"
     },
     {
-      "title": "“중국 경제 안 좋다” 칭화대 전 교수, 강연 중 한 말에···경찰 출동 소동",
+      "title": "\"중국 경제 안 좋다\" 칭화대 전 교수, 강연 중 한 말에···경찰 출동 소동",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YU1llUUxBYTZzbGhkS2pBaE9ybXlnbnpISkVUZGVXc2w1X08tQkNJeU1OVWg1LUdldnBPLXYwRmMxc2hIWVlhNWJGNG5VbVUyOW9sRlUwYW5YZ9IBX0FVX3lxTFBTTXpMdDdfTjRzYW9YOG9pLUN6VXlyYjNVXzRiMWlkTF9PQWhFdmJfNTcyeVU2Z19uUHFSMVFBbU1LSHhOcm12Wi1zc0JYNVV1cXU2b2VwWEhPWFJ1YW5n?oc=5",
       "source": "경향신문",
       "date": "Thu, 02 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "경제는 ‘흔들’ 기술은 ‘질주’하는 중국의 딜레마, 실체는?",
+      "title": "경제는 '흔들' 기술은 '질주'하는 중국의 딜레마, 실체는?",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZG1sWUFDY2l6bFoyeFBUdTdzUjgwU1o0clpaZm5hSk9QU0NvUE5uQWdaelg0OFhKNXI2dXk5VnNjSVE5R3lwMkpDMFFiRzc1LW9nYnVn?oc=5",
       "source": "중앙일보",
       "date": "Wed, 22 Apr 2026 07:00:00 GMT"
