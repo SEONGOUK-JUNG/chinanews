@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-28T08:53:58.413490+09:00",
+  "run_at_kst": "2026-07-28T10:20:12+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "The Next Fort Knox? Why the Army is Going All-In On Rare Earths",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Next-Fort-Knox-Why-the-Army-is-Going-All-In-On-Rare-Earths.html",
+      "source": "OilPrice",
+      "date": "Mon, 27 Jul 2026 19:00:00 -0500"
+    },
     {
       "title": "$100 Oil Puts Big Tech’s $725 Billion AI Bet at Risk",
       "link": "https://oilprice.com/Energy/Energy-General/100-Oil-Puts-Big-Techs-725-Billion-AI-Bet-at-Risk.html",
@@ -66,12 +72,6 @@
       "link": "https://www.mining.com/brixton-hits-extraordinary-5015g-silver-over-20m-near-cobalt/",
       "source": "mining.com",
       "date": "Mon, 27 Jul 2026 17:12:00 +0000"
-    },
-    {
-      "title": "Nvidia's $250 Billion OpenAI Guarantee Puts AI Capex Concerns Back in Focus",
-      "link": "https://oilprice.com/Energy/Energy-General/Nvidias-250-Billion-OpenAI-Guarantee-Puts-AI-Capex-Concerns-Back-in-Focus.html",
-      "source": "OilPrice",
-      "date": "Mon, 27 Jul 2026 12:00:00 -0500"
     },
     {
       "title": "Quebec selects Troilus for accelerated permitting stream",
