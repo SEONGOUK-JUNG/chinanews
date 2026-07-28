@@ -1,95 +1,95 @@
 {
-  "run_at_kst": "2026-07-28T10:20:12+09:00",
-  "schema_version": "1.0",
-  "sources": [
-    "mining.com",
-    "OilPrice"
-  ],
-  "count": 14,
-  "items": [
-    {
-      "title": "The Next Fort Knox? Why the Army is Going All-In On Rare Earths",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Next-Fort-Knox-Why-the-Army-is-Going-All-In-On-Rare-Earths.html",
-      "source": "OilPrice",
-      "date": "Mon, 27 Jul 2026 19:00:00 -0500"
-    },
-    {
-      "title": "$100 Oil Puts Big Tech’s $725 Billion AI Bet at Risk",
-      "link": "https://oilprice.com/Energy/Energy-General/100-Oil-Puts-Big-Techs-725-Billion-AI-Bet-at-Risk.html",
-      "source": "OilPrice",
-      "date": "Mon, 27 Jul 2026 18:00:00 -0500"
-    },
-    {
-      "title": "Stormlands re‑rates Odienné with 153% NPV surge",
-      "link": "https://www.mining.com/stormlands-re%e2%80%91rates-odienne-with-153-npv-surge/",
-      "source": "mining.com",
-      "date": "Mon, 27 Jul 2026 22:42:00 +0000"
-    },
-    {
-      "title": "Jet Fuel Spike Blows a Hole in Airline Profit Forecasts",
-      "link": "https://oilprice.com/Energy/Energy-General/Jet-Fuel-Spike-Blows-a-Hole-in-Airline-Profit-Forecasts.html",
-      "source": "OilPrice",
-      "date": "Mon, 27 Jul 2026 17:00:00 -0500"
-    },
-    {
-      "title": "Op-Ed: Copper supply gap — good news on borrowed time",
-      "link": "https://www.mining.com/op-ed-copper-supply-gap-good-news-on-borrowed-time/",
-      "source": "mining.com",
-      "date": "Mon, 27 Jul 2026 21:49:28 +0000"
-    },
-    {
-      "title": "The U.S. Is Walking Into Iran’s Escalation Trap",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/The-US-Is-Walking-Into-Irans-Escalation-Trap.html",
-      "source": "OilPrice",
-      "date": "Mon, 27 Jul 2026 16:00:00 -0500"
-    },
-    {
-      "title": "What If the Most Valuable Part of an EV Isn't the Car?",
-      "link": "https://oilprice.com/Energy/Energy-General/What-If-the-Most-Valuable-Part-of-an-EV-Isnt-the-Car.html",
-      "source": "OilPrice",
-      "date": "Mon, 27 Jul 2026 14:00:00 -0500"
-    },
-    {
-      "title": "The Trade Routes Iran Cannot Afford to Lose",
-      "link": "https://oilprice.com/Geopolitics/Asia/The-Trade-Routes-Iran-Cannot-Afford-to-Lose.html",
-      "source": "OilPrice",
-      "date": "Mon, 27 Jul 2026 14:00:00 -0500"
-    },
-    {
-      "title": "A Skeptical Look at Elon Musk's AI Utopia",
-      "link": "https://oilprice.com/Energy/Energy-General/A-Skeptical-Look-at-Elon-Musks-AI-Utopia.html",
-      "source": "OilPrice",
-      "date": "Mon, 27 Jul 2026 13:00:00 -0500"
-    },
-    {
-      "title": "Kazakhstan Restarts CPC Oil Exports After Week-Long Black Sea Shutdown",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Kazakhstan-Restarts-CPC-Oil-Exports-After-Week-Long-Black-Sea-Shutdown.html",
-      "source": "OilPrice",
-      "date": "Mon, 27 Jul 2026 12:30:00 -0500"
-    },
-    {
-      "title": "Brixton hits extraordinary 5,015g silver over 20m near Cobalt",
-      "link": "https://www.mining.com/brixton-hits-extraordinary-5015g-silver-over-20m-near-cobalt/",
-      "source": "mining.com",
-      "date": "Mon, 27 Jul 2026 17:12:00 +0000"
-    },
-    {
-      "title": "Quebec selects Troilus for accelerated permitting stream",
-      "link": "https://www.mining.com/quebec-selects-troilus-for-accelerated-permitting-stream/",
-      "source": "mining.com",
-      "date": "Mon, 27 Jul 2026 16:54:54 +0000"
-    },
-    {
-      "title": "NextSource’ eyes longer Madagascar graphite mine life, higher costs",
-      "link": "https://www.mining.com/nextsource-eyes-longer-madagascar-graphite-mine-life-higher-costs/",
-      "source": "mining.com",
-      "date": "Mon, 27 Jul 2026 15:21:06 +0000"
-    },
-    {
-      "title": "Prins says gold still headed to $6,000 despite selloff",
-      "link": "https://www.mining.com/prins-says-gold-still-headed-to-6000-despite-selloff/",
-      "source": "mining.com",
-      "date": "Mon, 27 Jul 2026 15:07:00 +0000"
-    }
-  ]
+ "run_at_kst": "2026-07-28T20:21:38+09:00",
+ "schema_version": "1.0",
+ "sources": [
+  "mining.com",
+  "OilPrice"
+ ],
+ "count": 14,
+ "items": [
+  {
+   "title": "Iran Races to Fortify Its Most Vital Oil Terminal as U.S. Threats Persist",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Races-to-Fortify-Its-Most-Vital-Oil-Terminal-as-US-Threats-Persist.html",
+   "source": "OilPrice",
+   "date": "Tue, 28 Jul 2026 05:30:00 -0500"
+  },
+  {
+   "title": "Cyprus Launches First Gas Project with Eni and TotalEnergies Backing",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Cyprus-Launches-First-Gas-Project-with-Eni-and-TotalEnergies-Backing.html",
+   "source": "OilPrice",
+   "date": "Tue, 28 Jul 2026 04:30:00 -0500"
+  },
+  {
+   "title": "Japan Backs Overseas Oil Pipelines to Reduce Hormuz Dependence",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Backs-Overseas-Oil-Pipelines-to-Reduce-Hormuz-Dependence.html",
+   "source": "OilPrice",
+   "date": "Tue, 28 Jul 2026 03:30:00 -0500"
+  },
+  {
+   "title": "Australia Eyes New Oil Refinery to Reduce Reliance on Imported Fuels",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Australia-Eyes-New-Oil-Refinery-to-Reduce-Reliance-on-Imported-Fuels.html",
+   "source": "OilPrice",
+   "date": "Tue, 28 Jul 2026 02:30:00 -0500"
+  },
+  {
+   "title": "Saudi Arabia Weighs Higher Asia Crude Prices as Red Sea Shipping Costs Rise",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Weighs-Higher-Asia-Crude-Prices-as-Red-Sea-Shipping-Costs-Rise.html",
+   "source": "OilPrice",
+   "date": "Tue, 28 Jul 2026 01:30:00 -0500"
+  },
+  {
+   "title": "Oil Prices Extend Losses as U.S.-Iran Calm Holds for Another Night",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Extend-Losses-as-US-Iran-Calm-Holds-for-Another-Night.html",
+   "source": "OilPrice",
+   "date": "Mon, 27 Jul 2026 22:00:00 -0500"
+  },
+  {
+   "title": "The Next Fort Knox? Why the Army is Going All-In On Rare Earths",
+   "link": "https://oilprice.com/Energy/Energy-General/The-Next-Fort-Knox-Why-the-Army-is-Going-All-In-On-Rare-Earths.html",
+   "source": "OilPrice",
+   "date": "Mon, 27 Jul 2026 19:00:00 -0500"
+  },
+  {
+   "title": "$100 Oil Puts Big Tech’s $725 Billion AI Bet at Risk",
+   "link": "https://oilprice.com/Energy/Energy-General/100-Oil-Puts-Big-Techs-725-Billion-AI-Bet-at-Risk.html",
+   "source": "OilPrice",
+   "date": "Mon, 27 Jul 2026 18:00:00 -0500"
+  },
+  {
+   "title": "Stormlands re‑rates Odienné with 153% NPV surge",
+   "link": "https://www.mining.com/stormlands-re%e2%80%91rates-odienne-with-153-npv-surge/",
+   "source": "mining.com",
+   "date": "Mon, 27 Jul 2026 22:42:00 +0000"
+  },
+  {
+   "title": "Op-Ed: Copper supply gap — good news on borrowed time",
+   "link": "https://www.mining.com/op-ed-copper-supply-gap-good-news-on-borrowed-time/",
+   "source": "mining.com",
+   "date": "Mon, 27 Jul 2026 21:49:28 +0000"
+  },
+  {
+   "title": "Brixton hits extraordinary 5,015g silver over 20m near Cobalt",
+   "link": "https://www.mining.com/brixton-hits-extraordinary-5015g-silver-over-20m-near-cobalt/",
+   "source": "mining.com",
+   "date": "Mon, 27 Jul 2026 17:12:00 +0000"
+  },
+  {
+   "title": "Quebec selects Troilus for accelerated permitting stream",
+   "link": "https://www.mining.com/quebec-selects-troilus-for-accelerated-permitting-stream/",
+   "source": "mining.com",
+   "date": "Mon, 27 Jul 2026 16:54:54 +0000"
+  },
+  {
+   "title": "NextSource’ eyes longer Madagascar graphite mine life, higher costs",
+   "link": "https://www.mining.com/nextsource-eyes-longer-madagascar-graphite-mine-life-higher-costs/",
+   "source": "mining.com",
+   "date": "Mon, 27 Jul 2026 15:21:06 +0000"
+  },
+  {
+   "title": "Prins says gold still headed to $6,000 despite selloff",
+   "link": "https://www.mining.com/prins-says-gold-still-headed-to-6000-despite-selloff/",
+   "source": "mining.com",
+   "date": "Mon, 27 Jul 2026 15:07:00 +0000"
+  }
+ ]
 }
