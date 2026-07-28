@@ -1,95 +1,95 @@
 {
- "run_at_kst": "2026-07-28T20:21:38+09:00",
- "schema_version": "1.0",
- "sources": [
-  "mining.com",
-  "OilPrice"
- ],
- "count": 14,
- "items": [
-  {
-   "title": "Iran Races to Fortify Its Most Vital Oil Terminal as U.S. Threats Persist",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Races-to-Fortify-Its-Most-Vital-Oil-Terminal-as-US-Threats-Persist.html",
-   "source": "OilPrice",
-   "date": "Tue, 28 Jul 2026 05:30:00 -0500"
-  },
-  {
-   "title": "Cyprus Launches First Gas Project with Eni and TotalEnergies Backing",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Cyprus-Launches-First-Gas-Project-with-Eni-and-TotalEnergies-Backing.html",
-   "source": "OilPrice",
-   "date": "Tue, 28 Jul 2026 04:30:00 -0500"
-  },
-  {
-   "title": "Japan Backs Overseas Oil Pipelines to Reduce Hormuz Dependence",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Backs-Overseas-Oil-Pipelines-to-Reduce-Hormuz-Dependence.html",
-   "source": "OilPrice",
-   "date": "Tue, 28 Jul 2026 03:30:00 -0500"
-  },
-  {
-   "title": "Australia Eyes New Oil Refinery to Reduce Reliance on Imported Fuels",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Australia-Eyes-New-Oil-Refinery-to-Reduce-Reliance-on-Imported-Fuels.html",
-   "source": "OilPrice",
-   "date": "Tue, 28 Jul 2026 02:30:00 -0500"
-  },
-  {
-   "title": "Saudi Arabia Weighs Higher Asia Crude Prices as Red Sea Shipping Costs Rise",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Weighs-Higher-Asia-Crude-Prices-as-Red-Sea-Shipping-Costs-Rise.html",
-   "source": "OilPrice",
-   "date": "Tue, 28 Jul 2026 01:30:00 -0500"
-  },
-  {
-   "title": "Oil Prices Extend Losses as U.S.-Iran Calm Holds for Another Night",
-   "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Extend-Losses-as-US-Iran-Calm-Holds-for-Another-Night.html",
-   "source": "OilPrice",
-   "date": "Mon, 27 Jul 2026 22:00:00 -0500"
-  },
-  {
-   "title": "The Next Fort Knox? Why the Army is Going All-In On Rare Earths",
-   "link": "https://oilprice.com/Energy/Energy-General/The-Next-Fort-Knox-Why-the-Army-is-Going-All-In-On-Rare-Earths.html",
-   "source": "OilPrice",
-   "date": "Mon, 27 Jul 2026 19:00:00 -0500"
-  },
-  {
-   "title": "$100 Oil Puts Big Tech’s $725 Billion AI Bet at Risk",
-   "link": "https://oilprice.com/Energy/Energy-General/100-Oil-Puts-Big-Techs-725-Billion-AI-Bet-at-Risk.html",
-   "source": "OilPrice",
-   "date": "Mon, 27 Jul 2026 18:00:00 -0500"
-  },
-  {
-   "title": "Stormlands re‑rates Odienné with 153% NPV surge",
-   "link": "https://www.mining.com/stormlands-re%e2%80%91rates-odienne-with-153-npv-surge/",
-   "source": "mining.com",
-   "date": "Mon, 27 Jul 2026 22:42:00 +0000"
-  },
-  {
-   "title": "Op-Ed: Copper supply gap — good news on borrowed time",
-   "link": "https://www.mining.com/op-ed-copper-supply-gap-good-news-on-borrowed-time/",
-   "source": "mining.com",
-   "date": "Mon, 27 Jul 2026 21:49:28 +0000"
-  },
-  {
-   "title": "Brixton hits extraordinary 5,015g silver over 20m near Cobalt",
-   "link": "https://www.mining.com/brixton-hits-extraordinary-5015g-silver-over-20m-near-cobalt/",
-   "source": "mining.com",
-   "date": "Mon, 27 Jul 2026 17:12:00 +0000"
-  },
-  {
-   "title": "Quebec selects Troilus for accelerated permitting stream",
-   "link": "https://www.mining.com/quebec-selects-troilus-for-accelerated-permitting-stream/",
-   "source": "mining.com",
-   "date": "Mon, 27 Jul 2026 16:54:54 +0000"
-  },
-  {
-   "title": "NextSource’ eyes longer Madagascar graphite mine life, higher costs",
-   "link": "https://www.mining.com/nextsource-eyes-longer-madagascar-graphite-mine-life-higher-costs/",
-   "source": "mining.com",
-   "date": "Mon, 27 Jul 2026 15:21:06 +0000"
-  },
-  {
-   "title": "Prins says gold still headed to $6,000 despite selloff",
-   "link": "https://www.mining.com/prins-says-gold-still-headed-to-6000-despite-selloff/",
-   "source": "mining.com",
-   "date": "Mon, 27 Jul 2026 15:07:00 +0000"
-  }
- ]
+  "run_at_kst": "2026-07-29T07:09:36+09:00",
+  "schema_version": "1.0",
+  "sources": [
+    "mining.com",
+    "OilPrice"
+  ],
+  "count": 14,
+  "items": [
+    {
+      "title": "The World’s Largest Sand Battery Is Now Online",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Worlds-Largest-Sand-Battery-Is-Now-Online.html",
+      "source": "OilPrice",
+      "date": "Tue, 28 Jul 2026 17:00:00 -0500"
+    },
+    {
+      "title": "Haywood cuts gold forecasts but says miners remain attractive",
+      "link": "https://www.mining.com/haywood-cuts-gold-forecasts-but-says-miners-remain-attractive/",
+      "source": "mining.com",
+      "date": "Tue, 28 Jul 2026 21:24:00 +0000"
+    },
+    {
+      "title": "Rock Tech Lithium secures 100,000‑tonne Transamine pact",
+      "link": "https://www.mining.com/rock-tech-lithium-secures-100000%e2%80%91tonne-transamine-pact/",
+      "source": "mining.com",
+      "date": "Tue, 28 Jul 2026 21:00:00 +0000"
+    },
+    {
+      "title": "Refined Fuels, Not Crude, Are Driving the Oil Market Crunch",
+      "link": "https://oilprice.com/Energy/Energy-General/Refined-Fuels-Not-Crude-Are-Driving-the-Oil-Market-Crunch.html",
+      "source": "OilPrice",
+      "date": "Tue, 28 Jul 2026 16:00:00 -0500"
+    },
+    {
+      "title": "US Crude Oil Inventories Build Again Despite Hormuz Disruption",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Build-Again-Despite-Hormuz-Disruption.html",
+      "source": "OilPrice",
+      "date": "Tue, 28 Jul 2026 15:58:00 -0500"
+    },
+    {
+      "title": "New Solar Cell Design Solves A Problem That's Plagued Panels for Decades",
+      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/New-Solar-Cell-Design-Solves-A-Problem-Thats-Plagued-Panels-for-Decades.html",
+      "source": "OilPrice",
+      "date": "Tue, 28 Jul 2026 15:00:00 -0500"
+    },
+    {
+      "title": "U.S. Sale Of Venezuela’s Oil Hits $13 Billion Since Trump’s Takeover",
+      "link": "https://oilprice.com/Energy/Crude-Oil/US-Sale-Of-Venezuelas-Oil-Hits-13-Billion-Since-Trumps-Takeover.html",
+      "source": "OilPrice",
+      "date": "Tue, 28 Jul 2026 14:00:00 -0500"
+    },
+    {
+      "title": "OPEC+ Prepares to Stop Raising Oil Output Targets",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Prepares-to-Stop-Raising-Oil-Output-Targets.html",
+      "source": "OilPrice",
+      "date": "Tue, 28 Jul 2026 14:00:00 -0500"
+    },
+    {
+      "title": "Central Asia Seeks New Trade Route to Pakistani Ports",
+      "link": "https://oilprice.com/Geopolitics/Asia/Central-Asia-Seeks-New-Trade-Route-to-Pakistani-Ports.html",
+      "source": "OilPrice",
+      "date": "Tue, 28 Jul 2026 13:00:00 -0500"
+    },
+    {
+      "title": "Saudi Aramco Shuts 400,000-Bpd Refinery After Houthi Strike",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramco-Shuts-400000-Bpd-Refinery-After-Houthi-Strike.html",
+      "source": "OilPrice",
+      "date": "Tue, 28 Jul 2026 13:00:00 -0500"
+    },
+    {
+      "title": "Saga nears first resource with broad titanium-vanadium hits",
+      "link": "https://www.mining.com/saga-nears-first-resource-with-broad-titanium-vanadium-hits/",
+      "source": "mining.com",
+      "date": "Tue, 28 Jul 2026 16:51:22 +0000"
+    },
+    {
+      "title": "US struggles to secure lithium for strategic stockpile",
+      "link": "https://www.mining.com/us-struggles-to-secure-lithium-for-strategic-stockpile/",
+      "source": "mining.com",
+      "date": "Tue, 28 Jul 2026 16:39:39 +0000"
+    },
+    {
+      "title": "Gold price tests $4,000 floor before divisive Fed decision, silver in bear clutches",
+      "link": "https://www.mining.com/gold-price-tests-4000-floor-before-divisive-fed-decision-silver-price-drops-3/",
+      "source": "mining.com",
+      "date": "Tue, 28 Jul 2026 16:26:51 +0000"
+    },
+    {
+      "title": "US enters China’s Africa turf with new rare earth bet",
+      "link": "https://www.mining.com/us-enters-chinas-africa-turf-with-new-rare-earth-bet/",
+      "source": "mining.com",
+      "date": "Tue, 28 Jul 2026 16:04:57 +0000"
+    }
+  ]
 }
