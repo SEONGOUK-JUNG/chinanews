@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-29T10:08:55+09:00",
+  "run_at_kst": "2026-07-29T14:14:04+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Oil Prices Surge on Fresh Middle East Strikes and API Crude Draw",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Surge-on-Fresh-Middle-East-Strikes-and-API-Crude-Draw.html",
+      "source": "OilPrice",
+      "date": "Tue, 28 Jul 2026 22:01:00 -0500"
+    },
     {
       "title": "The U.S. Army Just Called China’s Bluff in the Rare Earth War",
       "link": "https://oilprice.com/Energy/Energy-General/The-US-Army-Just-Called-Chinas-Bluff-in-the-Rare-Earth-War.html",
@@ -50,7 +56,7 @@
       "date": "Tue, 28 Jul 2026 16:00:00 -0500"
     },
     {
-      "title": "US Crude Oil Inventories Build Again Despite Hormuz Disruption",
+      "title": "API Reports Sharp U.S. Crude Stock Draw as SPR Hits New Low",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Build-Again-Despite-Hormuz-Disruption.html",
       "source": "OilPrice",
       "date": "Tue, 28 Jul 2026 15:58:00 -0500"
@@ -64,12 +70,6 @@
     {
       "title": "U.S. Sale Of Venezuela’s Oil Hits $13 Billion Since Trump’s Takeover",
       "link": "https://oilprice.com/Energy/Crude-Oil/US-Sale-Of-Venezuelas-Oil-Hits-13-Billion-Since-Trumps-Takeover.html",
-      "source": "OilPrice",
-      "date": "Tue, 28 Jul 2026 14:00:00 -0500"
-    },
-    {
-      "title": "OPEC+ Prepares to Stop Raising Oil Output Targets",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Prepares-to-Stop-Raising-Oil-Output-Targets.html",
       "source": "OilPrice",
       "date": "Tue, 28 Jul 2026 14:00:00 -0500"
     },

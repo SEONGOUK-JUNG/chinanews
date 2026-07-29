@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-07-29T10:08:55+09:00",
+  "run_at_kst": "2026-07-29T14:14:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "中 상무부 ‘이른바 과잉생산 문제에 대한 중국의 입장’(요지)",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93YjM4M1NUaEU0dUY5cGtFc3A3Sk1EOE9heXZwX3NlMXpWY00yZDg4RGZtWTVncVhyWVE5ODVEU01YQl81NzBTaGhhQTUxdUZDUEdxUEx3T2NmaTNOZGZmStIBeEFVX3lxTFB3WVJTdDRaWFVFMnZ4TkdFVG9hUWxkWmpkUEs4M19DRTZVVHUtQ3lCZVBUamhjTjFiVFp3Ym9hNDlOd2R6WGNvVGZycXMxR1k3RTUzYklFRzJrRGEyX3JMd3RQemF0NnNsUGpVclRQendmUmVsYTFCUQ?oc=5",
+      "source": "뉴시스",
+      "date": "Wed, 29 Jul 2026 03:18:10 GMT"
+    },
     {
       "title": "전재수 시장, 다이빙 주한 중국대사 접견",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjdWkxZjhIQllENkNSa0lra3h1R0tfbFkzcDFKTFRSbWozWWc1U1N2dDRrLXNtUEdkMkp0WkdDTjdLRFc0MUhXLVVXb09aLXViLXRNZmpn?oc=5",
@@ -24,28 +30,28 @@
       "date": "Tue, 28 Jul 2026 23:25:00 GMT"
     },
     {
+      "title": "전재수 부산시장, 다이빙 주한 중국대사 접견…\"경제·해양·관광 협력 확대“",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YZVk0bmtCYnVLZUhEeS12TjBScXo2eC1CYVVQYV9NLW5SbDEyLXpqU19jcWVEVHlhaGtvUE5hZy1xdzNQTzExdHJKRF9EVTdJOXdfOExnaG1WMEh3RGxaLUJodzJSSnY1?oc=5",
+      "source": "복지TV부울경방송",
+      "date": "Tue, 28 Jul 2026 23:13:23 GMT"
+    },
+    {
       "title": "[제14회 환동해국제심포지엄 紙上중계 下] 미국과 중국 사이에서 한국의 전략은?",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OVmloUUgwQktLRDJaQnVVOTB5eDRodmZaNzEwMXR0dlN5WENVVlJTM3EzNjZ4NUJRcUQ5d1U1ck1ORW11S3NVQlFVUFdmWU5Da2UyWExlcWdyRWtGb2haSXkzVXg2TlRNYncw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xcXR6UDZ6NjcybXYwR1lEMk5DQWNqMDFQdXNCOTFFOEJfR2V1STZHM3lMbkpyT255VTZac01zdUNmT2Eta09DT1hRSlF5WWNiOHdEZUsxcmVNbHpSUTZmNENrdzgtWWVNZnc?oc=5",
       "source": "영남일보",
       "date": "Tue, 28 Jul 2026 22:00:00 GMT"
-    },
-    {
-      "title": "반도체주 급락 뒤엔 중국 굴기…“노광장비도 생산 시작”",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lYmgzcXUzSXJ1ZWJyajRvSnRXSXRObDZ6V0E5UUVPSUtmTHNGRjY4NnZJZXBQUUpBRFMtbENKLTZxd1dHaVRCUTRzdzc1aHM?oc=5",
-      "source": "v.daum.net",
-      "date": "Tue, 28 Jul 2026 15:27:09 GMT"
-    },
-    {
-      "title": "중국 AI 숏드라마 시장 138% 성장 전망…흥행작 비중은 0.47%",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XaUZfNFdtVFJrWWVGaHdLSjRmSHRSSDJBSHhHSEstcVN0UmNYbWlseWdQb3hfcW1sN1VVQm9jOEFpRUZXRzdHQ21MRk43XzNJV0hsQ3R3MEVkN2hNVXp5VkxWT1VRU0xHNEsybzV3?oc=5",
-      "source": "알파경제",
-      "date": "Tue, 28 Jul 2026 07:04:33 GMT"
     },
     {
       "title": "딥시크·문샷 이면의 中 경제[뉴스와 시각]",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95bEMzZk5pbU1zSWJCcEZmQXFicmRWQ0FOR0NPTE1JdTVGSjdQNGhYYkFJX2Y5UzdaMXRBOE5ZVExRdUpHM2hCZTJfeHM3NkhM?oc=5",
       "source": "문화일보",
       "date": "Mon, 27 Jul 2026 02:53:14 GMT"
+    },
+    {
+      "title": "\"전 세계 80% 독식하더니 결국…\" 3조원 적자 폭탄 떨어진 중국 태양광",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02WTUwTjdIaVl6QUtKTVNTS3ZqSUlDeXRiTEw1dDR1aS1Jd1ZoV3ZobzczNHU4eVgyX29RRERvN2xnZW1iVUFqSWJJakUxcnc?oc=5",
+      "source": "v.daum.net",
+      "date": "Sun, 26 Jul 2026 23:34:51 GMT"
     },
     {
       "title": "중국 경제, 하반기 성장 둔화 전망…베이징 광범위한 부양책 기피",
@@ -70,12 +76,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52UVRRTTIyQW5udGJFTjhSbEhmTHc4Q2QyTHdTd1BWNzE5b0p0U0hWZk5LbmNjdUY5ZWh2MlBZaEczSnd3RVZGSlRfLXlrdU9HYTlfdmthLW01dTVn0gFiQVVfeXFMUDU0UmVDOFl4VUpZYzlneGtDWHJCX3luT1pfdFhKaGZENGxvWTRjRTZYNTltalJDYXVBUG9IV3I2Qy1IMGljUEdDV0k3d3JQbmVXV05QUzNZSWl5QkJPQk1jV0E?oc=5",
       "source": "BBC",
       "date": "Wed, 15 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "경제는 ‘흔들’ 기술은 ‘질주’하는 중국의 딜레마, 실체는?",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZG1sWUFDY2l6bFoyeFBUdTdzUjgwU1o0clpaZm5hSk9QU0NvUE5uQWdaelg0OFhKNXI2dXk5VnNjSVE5R3lwMkpDMFFiRzc1LW9nYnVn?oc=5",
-      "source": "중앙일보",
-      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
     }
   ]
 }
