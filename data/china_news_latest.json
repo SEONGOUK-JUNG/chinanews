@@ -1,33 +1,33 @@
 {
-  "run_at_kst": "2026-07-29T20:08:49+09:00",
+  "run_at_kst": "2026-07-30T07:10:59+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "[경제] 중국경제원탁회의 \"IMF, 中 성장률 상향 조정...첨단 제조 등 신동력 견인\"",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IZml3djBRbnNBX0FLQUtMWWJ0dDJnS1pJeGltMGFKMTZOcFpZcENVcjYtUjJWOW16OHZlWnFlU2xjMnhON195c196ZkJNUGNpLVFNX25iVWNoS2x3OV9CM1ZaVElJczVPX2h1eg?oc=5",
-      "source": "내외뉴스통신",
-      "date": "Wed, 29 Jul 2026 10:24:47 GMT"
+      "title": "[특파원 칼럼] 중국의 '소주성'은 성공할 수 있을까",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fRmZUXzV4WF9uOEVVaGdhYW5lYi1WbFJQSWRKTl9QWE53a2pVOEpwWWdUMjl1Vjk1OVU5VjZrR3loZklXWnFNUlRCTmQzTm1hNkVR?oc=5",
+      "source": "네이트",
+      "date": "Wed, 29 Jul 2026 22:00:00 GMT"
     },
     {
-      "title": "LG생활건강, 2분기 영업익 87.5% 증가…북미 매출 첫 중국 추월",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KTXRMMFRPVFFVUW9ZVkRXWTI1elpEZ0d1VE9tTVVWTGRoaFZXa1ZQSjV3blUxYk1uSGJZbUJGWWRDSFE0Y2s1bDRBR0VtYUE?oc=5",
-      "source": "v.daum.net",
-      "date": "Wed, 29 Jul 2026 08:19:00 GMT"
+      "title": "[특파원 칼럼] 중국의 '소주성'은 성공할 수 있을까",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvNUV2N2xVUEtLVFU1QWdpN19OTHQ4ZERtRVk4WTh5Ykp4Q1JLT053VWZ6SldTSlNjUGVVckpXeDU1a1JCOGtJTlB3SnVMbU51QzZqdVdCN0tTcFliQ3c?oc=5",
+      "source": "뉴스1",
+      "date": "Wed, 29 Jul 2026 22:00:00 GMT"
     },
     {
-      "title": "혜전대, 중국 구이저우경제무역직업기술학원과 국제교류 협약 체결",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PZWpPTjUyT1I5R29vNmQtOFlEdVg5YTVfQmdQT3BWSDdwbGFmT09aNHhfamJ0UE91ZVR2eFl2bnNUcHAzX2lja3Ftbl82NTRVdTJRMEJZWGs4dDJQcncya29sM3N6UQ?oc=5",
-      "source": "한국대학신문",
-      "date": "Wed, 29 Jul 2026 06:56:45 GMT"
+      "title": "6월 외국인 관광객 199만 명·카드 지출 2조 돌파…중국 65만 명 최다",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DdWp5MmVPdEVMeDEtR09lcDYtWThWdl83VnE3TDZPNjN5MTdtUng5VUEwYzZqcUJmdHo4Y2VCSzU0LTJuM3ZIdjk2dWpTX2o5WENwSUg5b3VFUUhqUEpSdzFGZnNZYnpVTDk4RklB?oc=5",
+      "source": "gukjenews.com",
+      "date": "Wed, 29 Jul 2026 15:55:41 GMT"
     },
     {
-      "title": "중국, 첨단산업 중심 산업구조 전환 가속…AI·반도체·신재생에너지 집중 육성",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE10SFVzdmZVWjE3dmNMdXZJV0hyQ09oOUxKR3dXb09vQlZmTUdodkV1VHl1MlotTU1yejV1NFJzUERCaFJ5TTNNVDZ3?oc=5",
-      "source": "뉴스N연합",
-      "date": "Wed, 29 Jul 2026 06:37:31 GMT"
+      "title": "중국 신동력 40%…내수는 왜 멈췄나",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IQVpTVXlGR011bEJqZkUxTzM1VXVIb0MzdUZxRmxpSHYxTDl0RWxxeG9xS0t0UjlMWDlxeG92OU9iWjBDN3lpY1FVaTJ6cFVlTGdNX1F2THNPWTFHOVJXaE5xNWlFcEZw?oc=5",
+      "source": "OBC 뉴스",
+      "date": "Wed, 29 Jul 2026 14:04:07 GMT"
     },
     {
       "title": "부산-중국, 경제·해양·관광 협력 방안 모색",
@@ -36,10 +36,10 @@
       "date": "Wed, 29 Jul 2026 06:27:13 GMT"
     },
     {
-      "title": "[경제] '2026 중국 국제빅데이터산업박람회' 8월 中 구이저우서 열려...300여 개 기업 참가",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CLTlvb0VTUWE2WVVRVWFRVWFYRzRhQ1hnX0RIN0xlU1lNYUdFWTNHUDA5Z3lNcUxLcnZiNUhyMEtqaHNMZnMxWEN2Wjh6SzRpa1pLT0lvb2hlUUJYWDlIN2xfdDdvcW5VZ213?oc=5",
-      "source": "서울뉴스통신",
-      "date": "Wed, 29 Jul 2026 05:50:31 GMT"
+      "title": "중국경제원탁회의 \"中 신동력, 경제 안정적 운영 떠받치는 핵심 버팀목 역할”-Xinhua",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhaTgzRTJqYXA2cUJjYXkwX216RFQwWkk4bnJBSGhHenRaSUlJNVpMcU4wRXNmX1JWSC14aGlval9HcDVTYk00NVB2anotRDB0NW0xRXZUZWxQbkFFSVlWYVN0c2VSSkxGaGRYZ0liUldwbUMyNlE?oc=5",
+      "source": "신화망",
+      "date": "Wed, 29 Jul 2026 05:49:03 GMT"
     },
     {
       "title": "中 상무부 ‘이른바 과잉생산 문제에 대한 중국의 입장’(요지)",
@@ -48,15 +48,9 @@
       "date": "Wed, 29 Jul 2026 03:18:10 GMT"
     },
     {
-      "title": "‘엎친데 덮친’ 중국·미국발…된서리 맞는 K-증시",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45Nk0xbTFIVk40QVNOa3BTX294cGZuWm1FQlo3UWVzampHVWJvczRoODZmd1dSLTR6SnFUajF3dnk4a3BGVnBnWGx6blFsN01raTFYNg?oc=5",
-      "source": "JTBC",
-      "date": "Tue, 28 Jul 2026 23:25:00 GMT"
-    },
-    {
       "title": "전재수 부산시장, 다이빙 주한 중국 대사 접견…\"경제·통상 협력 확대\"",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1TkN0LTVCY3E1djRDUU1vU2lBbGlpU0VURmUzV19yNGVZZnY4b2c0MjZRaTRidU9nSDlDa2tiNlVoMXd6bGhIQVhqZUs3UEpIVWFrYjkwTXB0dVhl?oc=5",
-      "source": "뉴스핌",
+      "source": "newspim.com",
       "date": "Tue, 28 Jul 2026 22:50:00 GMT"
     },
     {
@@ -66,10 +60,16 @@
       "date": "Tue, 28 Jul 2026 22:00:00 GMT"
     },
     {
-      "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Fri, 24 Jul 2026 07:00:00 GMT"
+      "title": "\"중국이 공급 줄이면 큰일 난다\"…일본 뒤흔든 '충격 진단'",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JaVBlN292eDBCdHBLX0RtYnlRM0g5VDF5TkdnY3hhWlJuNTdJYVRtMlQxTzBQVm9hZHdhblBWQ0U5MmJoVk5IemlyZm9pcW5FWUdqYmN1ODVaZw?oc=5",
+      "source": "한국경제",
+      "date": "Mon, 27 Jul 2026 22:58:02 GMT"
+    },
+    {
+      "title": "\"전 세계 80% 독식하더니 결국…\" 3조원 적자 폭탄 떨어진 중국 태양광",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02WTUwTjdIaVl6QUtKTVNTS3ZqSUlDeXRiTEw1dDR1aS1Jd1ZoV3ZobzczNHU4eVgyX29RRERvN2xnZW1iVUFqSWJJakUxcnc?oc=5",
+      "source": "v.daum.net",
+      "date": "Sun, 26 Jul 2026 23:34:51 GMT"
     },
     {
       "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
