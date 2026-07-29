@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-29T07:09:36+09:00",
+  "run_at_kst": "2026-07-29T10:08:55+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,24 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "The U.S. Army Just Called China’s Bluff in the Rare Earth War",
+      "link": "https://oilprice.com/Energy/Energy-General/The-US-Army-Just-Called-Chinas-Bluff-in-the-Rare-Earth-War.html",
+      "source": "OilPrice",
+      "date": "Tue, 28 Jul 2026 19:00:00 -0500"
+    },
+    {
+      "title": "U.S. Department of Energy shortlists five states for nuclear sites",
+      "link": "https://www.mining.com/u-s-department-of-energy-shortlists-five-states-for-nuclear-sites/",
+      "source": "mining.com",
+      "date": "Tue, 28 Jul 2026 23:56:54 +0000"
+    },
+    {
+      "title": "Oil Prices Ignore the Warning Signs in Physical Markets",
+      "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Ignore-the-Warning-Signs-in-Physical-Markets.html",
+      "source": "OilPrice",
+      "date": "Tue, 28 Jul 2026 18:00:00 -0500"
+    },
     {
       "title": "The World’s Largest Sand Battery Is Now Online",
       "link": "https://oilprice.com/Energy/Energy-General/The-Worlds-Largest-Sand-Battery-Is-Now-Online.html",
@@ -56,18 +74,6 @@
       "date": "Tue, 28 Jul 2026 14:00:00 -0500"
     },
     {
-      "title": "Central Asia Seeks New Trade Route to Pakistani Ports",
-      "link": "https://oilprice.com/Geopolitics/Asia/Central-Asia-Seeks-New-Trade-Route-to-Pakistani-Ports.html",
-      "source": "OilPrice",
-      "date": "Tue, 28 Jul 2026 13:00:00 -0500"
-    },
-    {
-      "title": "Saudi Aramco Shuts 400,000-Bpd Refinery After Houthi Strike",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramco-Shuts-400000-Bpd-Refinery-After-Houthi-Strike.html",
-      "source": "OilPrice",
-      "date": "Tue, 28 Jul 2026 13:00:00 -0500"
-    },
-    {
       "title": "Saga nears first resource with broad titanium-vanadium hits",
       "link": "https://www.mining.com/saga-nears-first-resource-with-broad-titanium-vanadium-hits/",
       "source": "mining.com",
@@ -84,12 +90,6 @@
       "link": "https://www.mining.com/gold-price-tests-4000-floor-before-divisive-fed-decision-silver-price-drops-3/",
       "source": "mining.com",
       "date": "Tue, 28 Jul 2026 16:26:51 +0000"
-    },
-    {
-      "title": "US enters China’s Africa turf with new rare earth bet",
-      "link": "https://www.mining.com/us-enters-chinas-africa-turf-with-new-rare-earth-bet/",
-      "source": "mining.com",
-      "date": "Tue, 28 Jul 2026 16:04:57 +0000"
     }
   ]
 }
