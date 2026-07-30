@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-30T10:14:34+09:00",
+  "run_at_kst": "2026-07-30T14:08:26+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Oil Prices Slip Despite New Attacks Across the Middle East",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Slip-Despite-New-Attacks-Across-the-Middle-East.html",
+      "source": "OilPrice",
+      "date": "Wed, 29 Jul 2026 23:01:09 -0500"
+    },
     {
       "title": "Investors Are Racing to Find America's Next Rare Earth Winner",
       "link": "https://oilprice.com/Energy/Energy-General/Investors-Are-Racing-to-Find-Americas-Next-Rare-Earth-Winner.html",
@@ -72,12 +78,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/Ukraines-Attack-on-Iranian-Cargo-Ship-Links-Two-Wars.html",
       "source": "OilPrice",
       "date": "Wed, 29 Jul 2026 13:00:00 -0500"
-    },
-    {
-      "title": "Guyana’s Oil Boom Matters More Than Ever",
-      "link": "https://oilprice.com/Energy/Energy-General/Guyanas-Oil-Boom-Matters-More-Than-Ever.html",
-      "source": "OilPrice",
-      "date": "Wed, 29 Jul 2026 12:00:00 -0500"
     },
     {
       "title": "First Quantum adds 1,000 jobs as Cobre Panama restart nears",

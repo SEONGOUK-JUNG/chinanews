@@ -1,10 +1,28 @@
 {
-  "run_at_kst": "2026-07-30T10:14:34+09:00",
+  "run_at_kst": "2026-07-30T14:08:26+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "AI·수출만 질주하는 中 경제…전자산업 이익 97% 폭증",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc2duV0JHMy1hVWRmSHZTT1ZkeHhRWFp1OHowM1MxeEJ6VVRDM3BTUEM0N3oybHRBX0RUUk8yOVlvZWx1dnhjb283MWtzMnhMaVQtbWxLbGhtVGlQeUZYVDItNGl4RjNILWxJVm5ud09naWJmc3VycVhCcXB5RWI4a3R6UXN0Uk84?oc=5",
+      "source": "글로벌이코노믹",
+      "date": "Thu, 30 Jul 2026 02:04:10 GMT"
+    },
+    {
+      "title": "中, 이번주 정치국회의 개최 전망…하반기 경제정책 논의",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43UjJPaEw0NFo5QlBRUEttOTI5ZkVkQUJ5eWJtdlA0dm9OMDVScHJnWURjY2ZjQ0VDVVpESlF4ak91bVZURHlOMmVKcjJYX291Z3hZalRZNkE2T2ZqQ3hBbdIBYEFVX3lxTE43UjJPaEw0NFo5QlBRUEttOTI5ZkVkQUJ5eWJtdlA0dm9OMDVScHJnWURjY2ZjQ0VDVVpESlF4ak91bVZURHlOMmVKcjJYX291Z3hZalRZNkE2T2ZqQ3hBbQ?oc=5",
+      "source": "yna.co.kr",
+      "date": "Thu, 30 Jul 2026 01:33:27 GMT"
+    },
+    {
+      "title": "\"중국 올해 대규모 부양책·금리인하 없다...GDP 목표달성 충분\"",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Ya2d4em1ZdVJ5VVo2MzVDV21udWtoYW5VOUVJLVpOY0pkNl9ZQi0wTHlWSGVYNjl1OHpjYVFNaHNSNFlSNU1ucVZYUFRweUU?oc=5",
+      "source": "v.daum.net",
+      "date": "Thu, 30 Jul 2026 00:53:27 GMT"
+    },
     {
       "title": "중국 올해 대규모 부양책·금리인하 없다...GDP 목표달성 충분",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5ZVVQNFVTNHFQVUxuaW5yS095V24zZ0hqNkw4OXdXZEVFVElLQUNCeDBXOVVRQkpicUJoNWlKcnpQVzU1d0QtNjE5OU5qSjZtUmU3RGFoU2JqZ9IBWEFVX3lxTFBheVBfbHRPZmFObUdwd0F0aTlmdnFBdDVwMnhvTHpVcVcxQUVRMkhnTmFSRksycmxCLVh0b0wyTVVNeHhwVURickdzZ1N3ZUlXQjh5SXVxWWY?oc=5",
@@ -14,13 +32,7 @@
     {
       "title": "[특파원 칼럼] 중국의 '소주성'은 성공할 수 있을까",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fRmZUXzV4WF9uOEVVaGdhYW5lYi1WbFJQSWRKTl9QWE53a2pVOEpwWWdUMjl1Vjk1OVU5VjZrR3loZklXWnFNUlRCTmQzTm1hNkVR?oc=5",
-      "source": "네이트",
-      "date": "Wed, 29 Jul 2026 22:00:00 GMT"
-    },
-    {
-      "title": "[특파원 칼럼] 중국의 '소주성'은 성공할 수 있을까",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvNUV2N2xVUEtLVFU1QWdpN19OTHQ4ZERtRVk4WTh5Ykp4Q1JLT053VWZ6SldTSlNjUGVVckpXeDU1a1JCOGtJTlB3SnVMbU51QzZqdVdCN0tTcFliQ3c?oc=5",
-      "source": "뉴스1",
+      "source": "news.nate.com",
       "date": "Wed, 29 Jul 2026 22:00:00 GMT"
     },
     {
@@ -30,21 +42,9 @@
       "date": "Wed, 29 Jul 2026 15:55:41 GMT"
     },
     {
-      "title": "중국 신동력 40%…내수는 왜 멈췄나",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IQVpTVXlGR011bEJqZkUxTzM1VXVIb0MzdUZxRmxpSHYxTDl0RWxxeG9xS0t0UjlMWDlxeG92OU9iWjBDN3lpY1FVaTJ6cFVlTGdNX1F2THNPWTFHOVJXaE5xNWlFcEZw?oc=5",
-      "source": "OBC 뉴스",
-      "date": "Wed, 29 Jul 2026 14:04:07 GMT"
-    },
-    {
-      "title": "부산-중국, 경제·해양·관광 협력 방안 모색",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBERzBMc1J6aGZOS0pSOW8ycnY4ZE9kbTZ0cVNLSXNfc2I1SDc5VTU5aVdrRk1KWm9NZ1d6QXloSWhldWdKMEVKUjBZbDV1MHhLamVad3h6XzE3QXJnTzU2dWVPaFhHaDlBX0c5V01MWU8?oc=5",
-      "source": "news.skbroadband.com",
-      "date": "Wed, 29 Jul 2026 06:27:13 GMT"
-    },
-    {
       "title": "중국경제원탁회의 \"中 신동력, 경제 안정적 운영 떠받치는 핵심 버팀목 역할”-Xinhua",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhaTgzRTJqYXA2cUJjYXkwX216RFQwWkk4bnJBSGhHenRaSUlJNVpMcU4wRXNmX1JWSC14aGlval9HcDVTYk00NVB2anotRDB0NW0xRXZUZWxQbkFFSVlWYVN0c2VSSkxGaGRYZ0liUldwbUMyNlE?oc=5",
-      "source": "신화망",
+      "source": "kr.news.cn",
       "date": "Wed, 29 Jul 2026 05:49:03 GMT"
     },
     {
