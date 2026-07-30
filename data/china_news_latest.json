@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-07-30T07:10:59+09:00",
+  "run_at_kst": "2026-07-30T10:14:34+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "중국 올해 대규모 부양책·금리인하 없다...GDP 목표달성 충분",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5ZVVQNFVTNHFQVUxuaW5yS095V24zZ0hqNkw4OXdXZEVFVElLQUNCeDBXOVVRQkpicUJoNWlKcnpQVzU1d0QtNjE5OU5qSjZtUmU3RGFoU2JqZ9IBWEFVX3lxTFBheVBfbHRPZmFObUdwd0F0aTlmdnFBdDVwMnhvTHpVcVcxQUVRMkhnTmFSRksycmxCLVh0b0wyTVVNeHhwVURickdzZ1N3ZUlXQjh5SXVxWWY?oc=5",
+      "source": "아주경제",
+      "date": "Thu, 30 Jul 2026 00:53:21 GMT"
+    },
     {
       "title": "[특파원 칼럼] 중국의 '소주성'은 성공할 수 있을까",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fRmZUXzV4WF9uOEVVaGdhYW5lYi1WbFJQSWRKTl9QWE53a2pVOEpwWWdUMjl1Vjk1OVU5VjZrR3loZklXWnFNUlRCTmQzTm1hNkVR?oc=5",
@@ -32,7 +38,7 @@
     {
       "title": "부산-중국, 경제·해양·관광 협력 방안 모색",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBERzBMc1J6aGZOS0pSOW8ycnY4ZE9kbTZ0cVNLSXNfc2I1SDc5VTU5aVdrRk1KWm9NZ1d6QXloSWhldWdKMEVKUjBZbDV1MHhLamVad3h6XzE3QXJnTzU2dWVPaFhHaDlBX0c5V01MWU8?oc=5",
-      "source": "B world",
+      "source": "news.skbroadband.com",
       "date": "Wed, 29 Jul 2026 06:27:13 GMT"
     },
     {
@@ -50,14 +56,8 @@
     {
       "title": "전재수 부산시장, 다이빙 주한 중국 대사 접견…\"경제·통상 협력 확대\"",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1TkN0LTVCY3E1djRDUU1vU2lBbGlpU0VURmUzV19yNGVZZnY4b2c0MjZRaTRidU9nSDlDa2tiNlVoMXd6bGhIQVhqZUs3UEpIVWFrYjkwTXB0dVhl?oc=5",
-      "source": "newspim.com",
+      "source": "뉴스핌",
       "date": "Tue, 28 Jul 2026 22:50:00 GMT"
-    },
-    {
-      "title": "[제14회 환동해국제심포지엄 紙上중계 下] 미국과 중국 사이에서 한국의 전략은?",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OVmloUUgwQktLRDJaQnVVOTB5eDRodmZaNzEwMXR0dlN5WENVVlJTM3EzNjZ4NUJRcUQ5d1U1ck1ORW11S3NVQlFVUFdmWU5Da2UyWExlcWdyRWtGb2haSXkzVXg2TlRNYncw?oc=5",
-      "source": "영남일보",
-      "date": "Tue, 28 Jul 2026 22:00:00 GMT"
     },
     {
       "title": "\"중국이 공급 줄이면 큰일 난다\"…일본 뒤흔든 '충격 진단'",
