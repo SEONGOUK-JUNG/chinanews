@@ -1,10 +1,40 @@
 {
-  "run_at_kst": "2026-07-30T14:08:26+09:00",
+  "run_at_kst": "2026-07-30T20:10:02+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "[경제+] \"중국 시장 잠재력 여전\"...CIIE로 쏠리는 글로벌 기업",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82M2lKTHVndW1sX0VwaDU1Nk5paWxudGZSbzJUZ056WDc4Y1pZYXFMR2RCT3Y1RHFmcFlfdUx6SFd6T2luNFJfTFB4eEphTHlKSWJoaHY3WlR5ZjZkdTMzSmdoME5tRmRWS0x5Rw?oc=5",
+      "source": "nbnnews.co.kr",
+      "date": "Thu, 30 Jul 2026 10:21:58 GMT"
+    },
+    {
+      "title": "'창신메모리' 허페이 성장률 6.8%…중국 지역 경제 양극화 심화",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VdU9YZ2d3SHB6bWpxMDI4R1k3SUF5RnBoSXpCTDh4c09mdVpCSnFESEU2NlhGWVJjanhKcFFwMm1JUV9odExZVEhlbFFRamswRFBkMWNnZlJkLTZqTlU2dEVneGNYam1wSGc?oc=5",
+      "source": "news.sbs.co.kr",
+      "date": "Thu, 30 Jul 2026 08:58:00 GMT"
+    },
+    {
+      "title": "中, 10월 5중전회 소집…하반기 경제 운용은 체질 개선에 방점",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wa1FEbzJWV2lnMDdpYjM5MVJEZUloeGo4dTZwZnBrT1hzR3FjdjlCX3RlOGtsM0Q4SFA0Zm9lUzJlNXRkZThCSnZzRUVvbVZuYWpNX0NB?oc=5",
+      "source": "중앙일보",
+      "date": "Thu, 30 Jul 2026 08:18:03 GMT"
+    },
+    {
+      "title": "다이빙(戴兵) 주한 중국대사 울산과 중국 경제·산업 협력 확대 논의",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUHUtR2RXODJxSGpoZmxHWU12X1g4U0swSjB6Wm1EMTZnOE9aYnNpZkFJRUF0TGFoTnp1bkR2OFk0TjhvQ1NQY2xfS1N4UC0tN2VfNzRsYmNVSU4zdWdOZFNoaG10bWR6OXNYN21vWGZoQnZUYkVWLWd4c0RwQUhNRmVRR3ByYmxUeDVN?oc=5",
+      "source": "국제신문",
+      "date": "Thu, 30 Jul 2026 06:02:00 GMT"
+    },
+    {
+      "title": "다이빙(戴兵) 주한 중국대사 울산과 중국 경제·산업 협력 확대 논의",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTjE1WTMyS0Fmem13MkxGM0VZRlNMYTVSLVZpT09sT2lOejVQckEteGY1UWJYNkJBbkhCalhNVWxHQ3cxRkFhRnBxRGZfVE9BZG41YmEwZzdUSzQwNlpIbTBMNTB1Sm9haVA2bjlCSFM5NUhwWDlwVVY2WGF0Sm15RnItNHNzM3hFQnJlWWE3c2FUY2c?oc=5",
+      "source": "국제신문",
+      "date": "Thu, 30 Jul 2026 06:02:00 GMT"
+    },
     {
       "title": "AI·수출만 질주하는 中 경제…전자산업 이익 97% 폭증",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc2duV0JHMy1hVWRmSHZTT1ZkeHhRWFp1OHowM1MxeEJ6VVRDM3BTUEM0N3oybHRBX0RUUk8yOVlvZWx1dnhjb283MWtzMnhMaVQtbWxLbGhtVGlQeUZYVDItNGl4RjNILWxJVm5ud09naWJmc3VycVhCcXB5RWI4a3R6UXN0Uk84?oc=5",
@@ -14,7 +44,7 @@
     {
       "title": "中, 이번주 정치국회의 개최 전망…하반기 경제정책 논의",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43UjJPaEw0NFo5QlBRUEttOTI5ZkVkQUJ5eWJtdlA0dm9OMDVScHJnWURjY2ZjQ0VDVVpESlF4ak91bVZURHlOMmVKcjJYX291Z3hZalRZNkE2T2ZqQ3hBbdIBYEFVX3lxTE43UjJPaEw0NFo5QlBRUEttOTI5ZkVkQUJ5eWJtdlA0dm9OMDVScHJnWURjY2ZjQ0VDVVpESlF4ak91bVZURHlOMmVKcjJYX291Z3hZalRZNkE2T2ZqQ3hBbQ?oc=5",
-      "source": "yna.co.kr",
+      "source": "연합뉴스",
       "date": "Thu, 30 Jul 2026 01:33:27 GMT"
     },
     {
@@ -24,45 +54,15 @@
       "date": "Thu, 30 Jul 2026 00:53:27 GMT"
     },
     {
-      "title": "중국 올해 대규모 부양책·금리인하 없다...GDP 목표달성 충분",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5ZVVQNFVTNHFQVUxuaW5yS095V24zZ0hqNkw4OXdXZEVFVElLQUNCeDBXOVVRQkpicUJoNWlKcnpQVzU1d0QtNjE5OU5qSjZtUmU3RGFoU2JqZ9IBWEFVX3lxTFBheVBfbHRPZmFObUdwd0F0aTlmdnFBdDVwMnhvTHpVcVcxQUVRMkhnTmFSRksycmxCLVh0b0wyTVVNeHhwVURickdzZ1N3ZUlXQjh5SXVxWWY?oc=5",
-      "source": "아주경제",
-      "date": "Thu, 30 Jul 2026 00:53:21 GMT"
-    },
-    {
       "title": "[특파원 칼럼] 중국의 '소주성'은 성공할 수 있을까",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fRmZUXzV4WF9uOEVVaGdhYW5lYi1WbFJQSWRKTl9QWE53a2pVOEpwWWdUMjl1Vjk1OVU5VjZrR3loZklXWnFNUlRCTmQzTm1hNkVR?oc=5",
-      "source": "news.nate.com",
+      "source": "네이트",
       "date": "Wed, 29 Jul 2026 22:00:00 GMT"
-    },
-    {
-      "title": "6월 외국인 관광객 199만 명·카드 지출 2조 돌파…중국 65만 명 최다",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DdWp5MmVPdEVMeDEtR09lcDYtWThWdl83VnE3TDZPNjN5MTdtUng5VUEwYzZqcUJmdHo4Y2VCSzU0LTJuM3ZIdjk2dWpTX2o5WENwSUg5b3VFUUhqUEpSdzFGZnNZYnpVTDk4RklB?oc=5",
-      "source": "gukjenews.com",
-      "date": "Wed, 29 Jul 2026 15:55:41 GMT"
-    },
-    {
-      "title": "중국경제원탁회의 \"中 신동력, 경제 안정적 운영 떠받치는 핵심 버팀목 역할”-Xinhua",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhaTgzRTJqYXA2cUJjYXkwX216RFQwWkk4bnJBSGhHenRaSUlJNVpMcU4wRXNmX1JWSC14aGlval9HcDVTYk00NVB2anotRDB0NW0xRXZUZWxQbkFFSVlWYVN0c2VSSkxGaGRYZ0liUldwbUMyNlE?oc=5",
-      "source": "kr.news.cn",
-      "date": "Wed, 29 Jul 2026 05:49:03 GMT"
-    },
-    {
-      "title": "中 상무부 ‘이른바 과잉생산 문제에 대한 중국의 입장’(요지)",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93YjM4M1NUaEU0dUY5cGtFc3A3Sk1EOE9heXZwX3NlMXpWY00yZDg4RGZtWTVncVhyWVE5ODVEU01YQl81NzBTaGhhQTUxdUZDUEdxUEx3T2NmaTNOZGZmStIBeEFVX3lxTFB3WVJTdDRaWFVFMnZ4TkdFVG9hUWxkWmpkUEs4M19DRTZVVHUtQ3lCZVBUamhjTjFiVFp3Ym9hNDlOd2R6WGNvVGZycXMxR1k3RTUzYklFRzJrRGEyX3JMd3RQemF0NnNsUGpVclRQendmUmVsYTFCUQ?oc=5",
-      "source": "뉴시스",
-      "date": "Wed, 29 Jul 2026 03:18:10 GMT"
-    },
-    {
-      "title": "전재수 부산시장, 다이빙 주한 중국 대사 접견…\"경제·통상 협력 확대\"",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1TkN0LTVCY3E1djRDUU1vU2lBbGlpU0VURmUzV19yNGVZZnY4b2c0MjZRaTRidU9nSDlDa2tiNlVoMXd6bGhIQVhqZUs3UEpIVWFrYjkwTXB0dVhl?oc=5",
-      "source": "뉴스핌",
-      "date": "Tue, 28 Jul 2026 22:50:00 GMT"
     },
     {
       "title": "\"중국이 공급 줄이면 큰일 난다\"…일본 뒤흔든 '충격 진단'",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JaVBlN292eDBCdHBLX0RtYnlRM0g5VDF5TkdnY3hhWlJuNTdJYVRtMlQxTzBQVm9hZHdhblBWQ0U5MmJoVk5IemlyZm9pcW5FWUdqYmN1ODVaZw?oc=5",
-      "source": "한국경제",
+      "source": "hankyung.com",
       "date": "Mon, 27 Jul 2026 22:58:02 GMT"
     },
     {

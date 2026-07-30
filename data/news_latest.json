@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-30T14:08:26+09:00",
+  "run_at_kst": "2026-07-30T20:10:02+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "China’s Coal Prices Surge as Scorching Heat Drives Power Demand",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Coal-Prices-Surge-as-Scorching-Heat-Drives-Power-Demand.html",
+      "source": "OilPrice",
+      "date": "Thu, 30 Jul 2026 05:00:00 -0500"
+    },
+    {
+      "title": "Shell Reports $9.8 Billion in Adjusted Earnings as Energy Prices Surge",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Shell-Reports-98-Billion-in-Adjusted-Earnings-as-Energy-Prices-Surge.html",
+      "source": "OilPrice",
+      "date": "Thu, 30 Jul 2026 03:45:00 -0500"
+    },
+    {
+      "title": "Qatar Sends First LNG Cargo Through Hormuz Since Tanker Attack",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Qatar-Sends-First-LNG-Cargo-Through-Hormuz-Since-Tanker-Attack.html",
+      "source": "OilPrice",
+      "date": "Thu, 30 Jul 2026 02:30:00 -0500"
+    },
+    {
+      "title": "Japan Buys Rare Canadian Oil Cargo",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Buys-Rare-Canadian-Oil-Cargo.html",
+      "source": "OilPrice",
+      "date": "Thu, 30 Jul 2026 01:10:00 -0500"
+    },
     {
       "title": "Oil Prices Slip Despite New Attacks Across the Middle East",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Slip-Despite-New-Attacks-Across-the-Middle-East.html",
@@ -50,34 +74,10 @@
       "date": "Wed, 29 Jul 2026 21:09:21 +0000"
     },
     {
-      "title": "Cooling Emissions Are Set to Triple by 2050 as Heat Waves Intensify",
-      "link": "https://oilprice.com/The-Environment/Global-Warming/Cooling-Emissions-Are-Set-to-Triple-by-2050-as-Heat-Waves-Intensify.html",
-      "source": "OilPrice",
-      "date": "Wed, 29 Jul 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Trump Administration Picks Five States for Nuclear Fuel-Cycle Hubs",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Trump-Administration-Picks-Five-States-for-Nuclear-Fuel-Cycle-Hubs.html",
-      "source": "OilPrice",
-      "date": "Wed, 29 Jul 2026 15:00:00 -0500"
-    },
-    {
-      "title": "BMW Targets 8,000 More Job Cuts in Fresh Cost-Cutting Drive",
-      "link": "https://oilprice.com/Energy/Energy-General/BMW-Targets-8000-More-Job-Cuts-in-Fresh-Cost-Cutting-Drive.html",
-      "source": "OilPrice",
-      "date": "Wed, 29 Jul 2026 14:00:00 -0500"
-    },
-    {
       "title": "Gold price rebounds from sub-$4,000 dip as split Fed holds fire, silver jumps",
       "link": "https://www.mining.com/gold-price-rebounds-from-sub-4000-dip-as-split-fed-holds-fire-silver-jumps/",
       "source": "mining.com",
       "date": "Wed, 29 Jul 2026 18:55:16 +0000"
-    },
-    {
-      "title": "Ukraine’s Attack on Iranian Cargo Ship Links Two Wars",
-      "link": "https://oilprice.com/Energy/Energy-General/Ukraines-Attack-on-Iranian-Cargo-Ship-Links-Two-Wars.html",
-      "source": "OilPrice",
-      "date": "Wed, 29 Jul 2026 13:00:00 -0500"
     },
     {
       "title": "First Quantum adds 1,000 jobs as Cobre Panama restart nears",

@@ -2,8 +2,8 @@
   "id": "soybean_oil",
   "name": "대두유",
   "unit": "CNY/t",
-  "updated_at_kst": "2026-07-29T20:09:42+09:00",
-  "count": 77,
+  "updated_at_kst": "2026-07-30T20:10:31+09:00",
+  "count": 78,
   "candles": [
     {
       "time": "2025-01-01",
@@ -312,6 +312,10 @@
     {
       "time": "2026-07-29",
       "value": 8517.55
+    },
+    {
+      "time": "2026-07-30",
+      "value": 8497.5
     }
   ],
   "history_note": "Pre-2026-05: monthly observations (month-start/end). From late May 2026: daily.",
