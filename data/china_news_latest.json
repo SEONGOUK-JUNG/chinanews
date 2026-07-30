@@ -1,33 +1,51 @@
 {
-  "run_at_kst": "2026-07-30T20:10:02+09:00",
+  "run_at_kst": "2026-07-31T07:09:08+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "[경제+] \"중국 시장 잠재력 여전\"...CIIE로 쏠리는 글로벌 기업",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82M2lKTHVndW1sX0VwaDU1Nk5paWxudGZSbzJUZ056WDc4Y1pZYXFMR2RCT3Y1RHFmcFlfdUx6SFd6T2luNFJfTFB4eEphTHlKSWJoaHY3WlR5ZjZkdTMzSmdoME5tRmRWS0x5Rw?oc=5",
-      "source": "nbnnews.co.kr",
-      "date": "Thu, 30 Jul 2026 10:21:58 GMT"
+      "title": "美中경제수장 통화…\"관세 우려\" vs \"희토류 합의 이행\"(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpTktYQlhPakxaRGR3c19VeFpicFBRaGZrTmZ2UWtFSWxvRkplTUNEUVMyWF9sUXpmbFVOSVVPSG1pTWZwN2s0TzVwR2VVeVpqellCTkpTdVNyTHFXaFowVtIBeEFVX3lxTFBHblpxbEJHNnQwVUQwUXhLb191TTV1SHV4eTBYTGVRcnAwdjRqOU9LQV9TUm9iN3EzLVFIVFBmTzFqVzF3dmY5RGd1TEpUZEN3X3c5VGtzZ3FOUDlzWlZtV3g4Vko3Qi16cWFsTDZWLU41VV9zZS1ubQ?oc=5",
+      "source": "뉴시스",
+      "date": "Thu, 30 Jul 2026 21:27:08 GMT"
     },
     {
-      "title": "'창신메모리' 허페이 성장률 6.8%…중국 지역 경제 양극화 심화",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VdU9YZ2d3SHB6bWpxMDI4R1k3SUF5RnBoSXpCTDh4c09mdVpCSnFESEU2NlhGWVJjanhKcFFwMm1JUV9odExZVEhlbFFRamswRFBkMWNnZlJkLTZqTlU2dEVneGNYam1wSGc?oc=5",
-      "source": "news.sbs.co.kr",
-      "date": "Thu, 30 Jul 2026 08:58:00 GMT"
+      "title": "美中 경제 대표, 9월 정상회담 앞두고 무역합의 이행 압박",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rdWRLZUp0LTl5Mlc1R1BqakR2NU5XUmswckRPOVpGRllYS2RabVo4UFBwRGp4enhpUWl0N2FfVzJkTFdvVF9zQldTM0huLTV3X2gxN0R4ZjZkUQ?oc=5",
+      "source": "파이낸셜뉴스",
+      "date": "Thu, 30 Jul 2026 21:14:43 GMT"
+    },
+    {
+      "title": "美中 경제수장, 9월 정상회담 앞두고 고위급 통화…희토류·무역제재 논의",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QTjVxLUxUanhKM00wXzZab1d3eW1yZW1aM3hXd01sMExqZU41Yjd2VUU1UnlCbnA3U3Izd0d0NnI2RnZTQ3pwZnpjWFRWZUJFdnBUbWxR?oc=5",
+      "source": "헤럴드경제",
+      "date": "Thu, 30 Jul 2026 20:43:50 GMT"
+    },
+    {
+      "title": "미·중 무역대표, 정상회담 두 달 만에 소통…\"대중국 제한 조치 우려 표명\"",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GazJmdGlZTmI1WURoOElueHR4c2VKSjFBWmtzSW5CQXd5VUl3UklsS0x6ampFOXFWZ216QzREeFlrZTZRcVpudTJDeERRanM5Mnk3azNweVpxNDVDdTljRzVldW9IWEk?oc=5",
+      "source": "연합뉴스TV",
+      "date": "Thu, 30 Jul 2026 16:21:00 GMT"
+    },
+    {
+      "title": "주한 중국대사, 울산 찾아 경제·산업협력 논의",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yZDhjUjB4R29VYlFYM1FpRjhYNEM5OVQyVlUybzJmLWNvS0RMZXdmTFlJc0tCV0drdFk1ckJpbHRsMGVRWUc2ZTg4MmNxN0QwMzhGUEZfdFZBUDhFeDNLdDhETVpjQTdnaG5vag?oc=5",
+      "source": "경상일보",
+      "date": "Thu, 30 Jul 2026 15:00:00 GMT"
+    },
+    {
+      "title": "‘중국 과잉 생산론’의 근본적 오류",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3NVBkQlJOZWFPUDZWTXJGZV9SLTZPY2FweUJYa3UzQ3lKRjZQeVAtTkIyRnNVZktHYWNHVGUtZngwd2J0cXhvRkpYMEEwa3NrVWZtMnl5ZmFpTmVwVmxyZ0Q2UkVHbV9KZ1E?oc=5",
+      "source": "인민망 한국어판",
+      "date": "Thu, 30 Jul 2026 08:51:00 GMT"
     },
     {
       "title": "中, 10월 5중전회 소집…하반기 경제 운용은 체질 개선에 방점",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wa1FEbzJWV2lnMDdpYjM5MVJEZUloeGo4dTZwZnBrT1hzR3FjdjlCX3RlOGtsM0Q4SFA0Zm9lUzJlNXRkZThCSnZzRUVvbVZuYWpNX0NB?oc=5",
       "source": "중앙일보",
       "date": "Thu, 30 Jul 2026 08:18:03 GMT"
-    },
-    {
-      "title": "다이빙(戴兵) 주한 중국대사 울산과 중국 경제·산업 협력 확대 논의",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUHUtR2RXODJxSGpoZmxHWU12X1g4U0swSjB6Wm1EMTZnOE9aYnNpZkFJRUF0TGFoTnp1bkR2OFk0TjhvQ1NQY2xfS1N4UC0tN2VfNzRsYmNVSU4zdWdOZFNoaG10bWR6OXNYN21vWGZoQnZUYkVWLWd4c0RwQUhNRmVRR3ByYmxUeDVN?oc=5",
-      "source": "국제신문",
-      "date": "Thu, 30 Jul 2026 06:02:00 GMT"
     },
     {
       "title": "다이빙(戴兵) 주한 중국대사 울산과 중국 경제·산업 협력 확대 논의",
@@ -48,28 +66,10 @@
       "date": "Thu, 30 Jul 2026 01:33:27 GMT"
     },
     {
-      "title": "\"중국 올해 대규모 부양책·금리인하 없다...GDP 목표달성 충분\"",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Ya2d4em1ZdVJ5VVo2MzVDV21udWtoYW5VOUVJLVpOY0pkNl9ZQi0wTHlWSGVYNjl1OHpjYVFNaHNSNFlSNU1ucVZYUFRweUU?oc=5",
-      "source": "v.daum.net",
-      "date": "Thu, 30 Jul 2026 00:53:27 GMT"
-    },
-    {
-      "title": "[특파원 칼럼] 중국의 '소주성'은 성공할 수 있을까",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fRmZUXzV4WF9uOEVVaGdhYW5lYi1WbFJQSWRKTl9QWE53a2pVOEpwWWdUMjl1Vjk1OVU5VjZrR3loZklXWnFNUlRCTmQzTm1hNkVR?oc=5",
-      "source": "네이트",
-      "date": "Wed, 29 Jul 2026 22:00:00 GMT"
-    },
-    {
-      "title": "\"중국이 공급 줄이면 큰일 난다\"…일본 뒤흔든 '충격 진단'",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JaVBlN292eDBCdHBLX0RtYnlRM0g5VDF5TkdnY3hhWlJuNTdJYVRtMlQxTzBQVm9hZHdhblBWQ0U5MmJoVk5IemlyZm9pcW5FWUdqYmN1ODVaZw?oc=5",
-      "source": "hankyung.com",
-      "date": "Mon, 27 Jul 2026 22:58:02 GMT"
-    },
-    {
-      "title": "\"전 세계 80% 독식하더니 결국…\" 3조원 적자 폭탄 떨어진 중국 태양광",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02WTUwTjdIaVl6QUtKTVNTS3ZqSUlDeXRiTEw1dDR1aS1Jd1ZoV3ZobzczNHU4eVgyX29RRERvN2xnZW1iVUFqSWJJakUxcnc?oc=5",
-      "source": "v.daum.net",
-      "date": "Sun, 26 Jul 2026 23:34:51 GMT"
+      "title": "중국경제원탁회의 \"中 신동력, 경제 안정적 운영 떠받치는 핵심 버팀목 역할”-Xinhua",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhaTgzRTJqYXA2cUJjYXkwX216RFQwWkk4bnJBSGhHenRaSUlJNVpMcU4wRXNmX1JWSC14aGlval9HcDVTYk00NVB2anotRDB0NW0xRXZUZWxQbkFFSVlWYVN0c2VSSkxGaGRYZ0liUldwbUMyNlE?oc=5",
+      "source": "신화망",
+      "date": "Wed, 29 Jul 2026 05:49:03 GMT"
     },
     {
       "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",

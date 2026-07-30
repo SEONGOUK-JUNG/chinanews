@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-30T20:10:02+09:00",
+  "run_at_kst": "2026-07-31T07:09:08+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
-      "title": "China’s Coal Prices Surge as Scorching Heat Drives Power Demand",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Coal-Prices-Surge-as-Scorching-Heat-Drives-Power-Demand.html",
-      "source": "OilPrice",
-      "date": "Thu, 30 Jul 2026 05:00:00 -0500"
-    },
-    {
-      "title": "Shell Reports $9.8 Billion in Adjusted Earnings as Energy Prices Surge",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Shell-Reports-98-Billion-in-Adjusted-Earnings-as-Energy-Prices-Surge.html",
-      "source": "OilPrice",
-      "date": "Thu, 30 Jul 2026 03:45:00 -0500"
-    },
-    {
-      "title": "Qatar Sends First LNG Cargo Through Hormuz Since Tanker Attack",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Qatar-Sends-First-LNG-Cargo-Through-Hormuz-Since-Tanker-Attack.html",
-      "source": "OilPrice",
-      "date": "Thu, 30 Jul 2026 02:30:00 -0500"
-    },
-    {
-      "title": "Japan Buys Rare Canadian Oil Cargo",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Buys-Rare-Canadian-Oil-Cargo.html",
-      "source": "OilPrice",
-      "date": "Thu, 30 Jul 2026 01:10:00 -0500"
-    },
-    {
-      "title": "Oil Prices Slip Despite New Attacks Across the Middle East",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Slip-Despite-New-Attacks-Across-the-Middle-East.html",
-      "source": "OilPrice",
-      "date": "Wed, 29 Jul 2026 23:01:09 -0500"
-    },
-    {
-      "title": "Investors Are Racing to Find America's Next Rare Earth Winner",
-      "link": "https://oilprice.com/Energy/Energy-General/Investors-Are-Racing-to-Find-Americas-Next-Rare-Earth-Winner.html",
-      "source": "OilPrice",
-      "date": "Wed, 29 Jul 2026 19:00:00 -0500"
-    },
-    {
-      "title": "U.S. Backs Madagascar’s Rare Earths Project",
-      "link": "https://oilprice.com/Metals/Commodities/US-Backs-Madagascars-Rare-Earths-Project.html",
-      "source": "OilPrice",
-      "date": "Wed, 29 Jul 2026 18:00:00 -0500"
-    },
-    {
-      "title": "Rare Earths Americas expands footprint at Shiloh project in Georgia",
-      "link": "https://www.mining.com/rare-earths-americas-expands-footprint-at-shiloh-project-in-georgia/",
+      "title": "Perpetua Resources, US Army and Idaho National Laboratory launch antimony pilot plant",
+      "link": "https://www.mining.com/perpetua-resources-us-army-and-idaho-national-laboratory-launch-antimony-pilot-plant/",
       "source": "mining.com",
-      "date": "Wed, 29 Jul 2026 22:39:29 +0000"
+      "date": "Thu, 30 Jul 2026 21:11:49 +0000"
     },
     {
-      "title": "GBM agrees to buy Lomiko Metals to add Quebec graphite project",
-      "link": "https://www.mining.com/gbm-agrees-to-buy-lomiko-to-add-quebec-graphite-project/",
-      "source": "mining.com",
-      "date": "Wed, 29 Jul 2026 22:00:00 +0000"
-    },
-    {
-      "title": "Low Gas Storage and Diesel Shortages Threaten Europe’s Winter Supply",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Low-Gas-Storage-and-Diesel-Shortages-Threaten-Europes-Winter-Supply.html",
+      "title": "John Kerry: Europe's Energy Crisis Is a Bigger Threat Than Any Weapon",
+      "link": "https://oilprice.com/Energy/Energy-General/John-Kerry-Europes-Energy-Crisis-Is-a-Bigger-Threat-Than-Any-Weapon.html",
       "source": "OilPrice",
-      "date": "Wed, 29 Jul 2026 17:00:00 -0500"
+      "date": "Thu, 30 Jul 2026 16:00:00 -0500"
     },
     {
-      "title": "Titan Mining secures graphite supply deal with US aerospace and defense manufacturer",
-      "link": "https://www.mining.com/titan-mining-secures-graphite-supply-deal-with-us-aerospace-and-defense-manufacturer/",
-      "source": "mining.com",
-      "date": "Wed, 29 Jul 2026 21:09:21 +0000"
+      "title": "War Sends Saudi Oil Output Down and Revenue Up",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/War-Sends-Saudi-Oil-Output-Down-and-Revenue-Up.html",
+      "source": "OilPrice",
+      "date": "Thu, 30 Jul 2026 15:30:00 -0500"
     },
     {
-      "title": "Gold price rebounds from sub-$4,000 dip as split Fed holds fire, silver jumps",
-      "link": "https://www.mining.com/gold-price-rebounds-from-sub-4000-dip-as-split-fed-holds-fire-silver-jumps/",
-      "source": "mining.com",
-      "date": "Wed, 29 Jul 2026 18:55:16 +0000"
+      "title": "Gulf Oil Exports Struggle to Recover Despite Higher Hormuz Traffic",
+      "link": "https://oilprice.com/Energy/Energy-General/Gulf-Oil-Exports-Struggle-to-Recover-Despite-Higher-Hormuz-Traffic.html",
+      "source": "OilPrice",
+      "date": "Thu, 30 Jul 2026 14:00:00 -0500"
     },
     {
-      "title": "First Quantum adds 1,000 jobs as Cobre Panama restart nears",
-      "link": "https://www.mining.com/first-quantum-adds-1000-jobs-as-cobre-panama-restart-nears/",
-      "source": "mining.com",
-      "date": "Wed, 29 Jul 2026 15:02:00 +0000"
+      "title": "China’s Trade With Central Asia Surges 6.5%",
+      "link": "https://oilprice.com/Geopolitics/Asia/Chinas-Trade-With-Central-Asia-Surges-65.html",
+      "source": "OilPrice",
+      "date": "Thu, 30 Jul 2026 13:00:00 -0500"
     },
     {
-      "title": "FAST Metals raises $4.3M, inks deal to process red‑mud stockpiles",
-      "link": "https://www.mining.com/fast-metals-raises-4-3m-inks-deal-to-process-red%e2%80%91mud-stockpiles/",
+      "title": "Newcore Gold’s best Nyam hit points to larger Enchi mine in Ghana",
+      "link": "https://www.mining.com/newcore-golds-best-nyam-hit-points-to-larger-enchi-mine-in-ghana/",
       "source": "mining.com",
-      "date": "Wed, 29 Jul 2026 14:51:05 +0000"
+      "date": "Thu, 30 Jul 2026 17:34:00 +0000"
+    },
+    {
+      "title": "Anglo American CEO to lead combined Anglo Teck group",
+      "link": "https://www.mining.com/anglo-american-ceo-to-lead-combined-anglo-teck-group/",
+      "source": "mining.com",
+      "date": "Thu, 30 Jul 2026 17:32:36 +0000"
+    },
+    {
+      "title": "Desperate for Fuel, Russia Looks to Kazakhstan for Refining Capacity",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Desperate-for-Fuel-Russia-Looks-to-Kazakhstan-for-Refining-Capacity.html",
+      "source": "OilPrice",
+      "date": "Thu, 30 Jul 2026 12:30:00 -0500"
+    },
+    {
+      "title": "Kinross Gold’s Lobo-Marte cost jumps 67% as NPV more than triples",
+      "link": "https://www.mining.com/kinross-golds-lobo-marte-cost-jumps-67-as-npv-more-than-triples/",
+      "source": "mining.com",
+      "date": "Thu, 30 Jul 2026 17:26:06 +0000"
+    },
+    {
+      "title": "Record U.S. Refinery Runs Fail to Ease Global Fuel Crunch",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Record-US-Refinery-Runs-Fail-to-Ease-Global-Fuel-Crunch.html",
+      "source": "OilPrice",
+      "date": "Thu, 30 Jul 2026 12:00:00 -0500"
+    },
+    {
+      "title": "U.S. GDP Growth Slows to 1.5% in Second Quarter, Missing Forecasts",
+      "link": "https://oilprice.com/Finance/the-Economy/US-GDP-Growth-Slows-to-15-in-Second-Quarter-Missing-Forecasts.html",
+      "source": "OilPrice",
+      "date": "Thu, 30 Jul 2026 12:00:00 -0500"
+    },
+    {
+      "title": "Russia Extends Diesel and Gasoline Export Bans Into 2027",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Extends-Diesel-and-Gasoline-Export-Bans-Into-2027.html",
+      "source": "OilPrice",
+      "date": "Thu, 30 Jul 2026 11:30:00 -0500"
+    },
+    {
+      "title": "Copper price jumps on tightening supply, mining stocks rally",
+      "link": "https://www.mining.com/copper-price-jumps-on-tightening-supply-mining-stocks-rally/",
+      "source": "mining.com",
+      "date": "Thu, 30 Jul 2026 15:50:34 +0000"
+    },
+    {
+      "title": "Gangs hijack Ecuador’s gold mining supply chain",
+      "link": "https://www.mining.com/gangs-hijack-ecuadors-gold-mining-supply-chain/",
+      "source": "mining.com",
+      "date": "Thu, 30 Jul 2026 15:00:00 +0000"
     }
   ]
 }
