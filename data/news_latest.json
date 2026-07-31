@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-31T14:08:34+09:00",
+  "run_at_kst": "2026-07-31T20:08:36+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "ADNOC Buys Five Supertankers as Hormuz Crisis Tightens Shipping",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Buys-Five-Supertankers-as-Hormuz-Crisis-Tightens-Shipping.html",
+      "source": "OilPrice",
+      "date": "Fri, 31 Jul 2026 04:45:00 -0500"
+    },
+    {
+      "title": "BP Puts Its North Sea Oil Business Up for Sale",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/BP-Puts-Its-North-Sea-Oil-Business-Up-for-Sale.html",
+      "source": "OilPrice",
+      "date": "Fri, 31 Jul 2026 03:40:00 -0500"
+    },
+    {
+      "title": "Japan Has Enough LNG to Avoid Summer Power Shortages",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Has-Enough-LNG-to-Avoid-Summer-Power-Shortages.html",
+      "source": "OilPrice",
+      "date": "Fri, 31 Jul 2026 02:35:00 -0500"
+    },
+    {
+      "title": "Caspian Oil Pipeline Shuts Down Again After Black Sea Drone Attack",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Caspian-Oil-Pipeline-Shuts-Down-Again-After-Black-Sea-Drone-Attack.html",
+      "source": "OilPrice",
+      "date": "Fri, 31 Jul 2026 01:20:00 -0500"
+    },
     {
       "title": "Oil Prices Head for 20% Monthly Surge Despite Recent Pullback",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-20-Monthly-Surge-Despite-Recent-Pullback.html",
@@ -48,30 +72,6 @@
       "link": "https://www.mining.com/perpetua-resources-us-army-and-idaho-national-laboratory-launch-antimony-pilot-plant/",
       "source": "mining.com",
       "date": "Thu, 30 Jul 2026 21:11:49 +0000"
-    },
-    {
-      "title": "John Kerry: Europe's Energy Crisis Is a Bigger Threat Than Any Weapon",
-      "link": "https://oilprice.com/Energy/Energy-General/John-Kerry-Europes-Energy-Crisis-Is-a-Bigger-Threat-Than-Any-Weapon.html",
-      "source": "OilPrice",
-      "date": "Thu, 30 Jul 2026 16:00:00 -0500"
-    },
-    {
-      "title": "War Sends Saudi Oil Output Down and Revenue Up",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/War-Sends-Saudi-Oil-Output-Down-and-Revenue-Up.html",
-      "source": "OilPrice",
-      "date": "Thu, 30 Jul 2026 15:30:00 -0500"
-    },
-    {
-      "title": "Gulf Oil Exports Struggle to Recover Despite Higher Hormuz Traffic",
-      "link": "https://oilprice.com/Energy/Energy-General/Gulf-Oil-Exports-Struggle-to-Recover-Despite-Higher-Hormuz-Traffic.html",
-      "source": "OilPrice",
-      "date": "Thu, 30 Jul 2026 14:00:00 -0500"
-    },
-    {
-      "title": "China’s Trade With Central Asia Surges 6.5%",
-      "link": "https://oilprice.com/Geopolitics/Asia/Chinas-Trade-With-Central-Asia-Surges-65.html",
-      "source": "OilPrice",
-      "date": "Thu, 30 Jul 2026 13:00:00 -0500"
     },
     {
       "title": "Newcore Gold’s best Nyam hit points to larger Enchi mine in Ghana",

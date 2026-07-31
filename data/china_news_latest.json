@@ -1,10 +1,28 @@
 {
-  "run_at_kst": "2026-07-31T14:08:34+09:00",
+  "run_at_kst": "2026-07-31T20:08:36+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "중국, 대규모 경기부양 신중모드 속 제조업 다시 ‘위축’ 국면",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yZWF5ajRVa2tBakNXN0tJSk5lTjF6Ylk3c2pVSVF2VGdoX3p3enh4YVhVcnQ5aS1veXdkYkhTQ0tNWEJCNWhoOXZLRkFIelZXM1Y3ZU9hYm11Y0J4SGtCZW1SRU9vd2pDZDZfRw?oc=5",
+      "source": "hani.co.kr",
+      "date": "Fri, 31 Jul 2026 08:20:00 GMT"
+    },
+    {
+      "title": "중국 7월 제조업 PMI 49.2로 하락…5개월 만에 경기 위축 국면 진입",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LRDdvTFhncjRCNEh6d2NmVUdwRXpORS1oRURLQ2kwb00zekNkSW1lMEwyeExFd3U0b0ZKb0xJSHRQckljQlI0anJvMnJSOFlsbnBJWm9OSVI1MjBFS1I2MlN2WXU5dFQ0Q3Q0eg?oc=5",
+      "source": "파이낸스투데이",
+      "date": "Fri, 31 Jul 2026 07:38:53 GMT"
+    },
+    {
+      "title": "미·중 경제수장, 전화통화하며 “희토류” “대중국 견제 조치” 언급",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrMTd3QXA3M0xXQ01ERTdsdGlzSG5UcFBGOEZmVHk0RjdOcFB0YmItbzl6QUlycWxCTnFVYjJrbVJwRjdBSHlDSTM1enJ6RUU?oc=5",
+      "source": "v.daum.net",
+      "date": "Fri, 31 Jul 2026 03:47:27 GMT"
+    },
     {
       "title": "미·중 경제수장, 전화통화하며 “희토류” “대중국 견제 조치” 언급",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92RmxtU1hjZFMweF9Rd3FCajctcm5WNjl4UkdoWUMtcjBQZ25mQTZVd1dfdS1qYzh0UjBqMTJJeHRCbXhBM3NNZ2NSdFhGYUpnd1ktMEc1enhHd9IBX0FVX3lxTE9fazZpaENqN2MybWctUjNVT1N6OVdjc2NUdmVQamdPcW1GRFdWcHJPZEZhN0p2Q1htVHlEMzVFS1hodHlsWnlJTjNXcmlTR09ESURGdXpzMmhBMzdMbC0w?oc=5",
@@ -30,18 +48,6 @@
       "date": "Fri, 31 Jul 2026 00:54:46 GMT"
     },
     {
-      "title": "[SW키트] 중국 AI 붐, 소수 도시 집중…고용·소비도 제자리",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16UUNNX2VTVWl0N1RkbXVOLTJOWUs4cnlXUlBZU3ZpTldVelNQTmRiMGh6Y24tNUh5ZDRXa2pYdjY0NnppNTFUSEgzUFlUdjdUd2dERmNR?oc=5",
-      "source": "지디넷코리아",
-      "date": "Fri, 31 Jul 2026 00:53:02 GMT"
-    },
-    {
-      "title": "美·中, 9월 정상회담 앞 희토류·무역 제재 논의… 경제 수장 간 샅바싸움",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdDVleFhyOFdvemlVMk9kS3BYdlp1ZkszRDB3MTh1ZmFaN2dEelpOZ3ExZW1XYVFVbGhCeW1vVW1wSk5KRVVISEZhRFVhdlAtRENZZHZ2RkJRemdGZjVnS0VSVWZ6UnNRX0pyRUcwMmdtQzlUaVhfbzNQOXdBMV9SV2YtMXE?oc=5",
-      "source": "조선일보",
-      "date": "Thu, 30 Jul 2026 20:32:00 GMT"
-    },
-    {
       "title": "[경제+] \"중국 시장 잠재력 여전\"...CIIE로 쏠리는 글로벌 기업",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82M2lKTHVndW1sX0VwaDU1Nk5paWxudGZSbzJUZ056WDc4Y1pZYXFMR2RCT3Y1RHFmcFlfdUx6SFd6T2luNFJfTFB4eEphTHlKSWJoaHY3WlR5ZjZkdTMzSmdoME5tRmRWS0x5Rw?oc=5",
       "source": "내외뉴스통신",
@@ -52,12 +58,6 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VdU9YZ2d3SHB6bWpxMDI4R1k3SUF5RnBoSXpCTDh4c09mdVpCSnFESEU2NlhGWVJjanhKcFFwMm1JUV9odExZVEhlbFFRamswRFBkMWNnZlJkLTZqTlU2dEVneGNYam1wSGc?oc=5",
       "source": "news.sbs.co.kr",
       "date": "Thu, 30 Jul 2026 08:58:00 GMT"
-    },
-    {
-      "title": "다이빙(戴兵) 주한 중국대사 울산과 중국 경제·산업 협력 확대 논의",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUHUtR2RXODJxSGpoZmxHWU12X1g4U0swSjB6Wm1EMTZnOE9aYnNpZkFJRUF0TGFoTnp1bkR2OFk0TjhvQ1NQY2xfS1N4UC0tN2VfNzRsYmNVSU4zdWdOZFNoaG10bWR6OXNYN21vWGZoQnZUYkVWLWd4c0RwQUhNRmVRR3ByYmxUeDVN?oc=5",
-      "source": "국제신문",
-      "date": "Thu, 30 Jul 2026 06:02:00 GMT"
     },
     {
       "title": "중국 올해 대규모 부양책·금리인하 없다...GDP 목표달성 충분",
