@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-31T20:08:36+09:00",
+  "run_at_kst": "2026-08-01T07:03:43+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -8,7 +8,7 @@
     {
       "title": "중국, 대규모 경기부양 신중모드 속 제조업 다시 ‘위축’ 국면",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yZWF5ajRVa2tBakNXN0tJSk5lTjF6Ylk3c2pVSVF2VGdoX3p3enh4YVhVcnQ5aS1veXdkYkhTQ0tNWEJCNWhoOXZLRkFIelZXM1Y3ZU9hYm11Y0J4SGtCZW1SRU9vd2pDZDZfRw?oc=5",
-      "source": "hani.co.kr",
+      "source": "한겨레",
       "date": "Fri, 31 Jul 2026 08:20:00 GMT"
     },
     {
@@ -28,12 +28,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92RmxtU1hjZFMweF9Rd3FCajctcm5WNjl4UkdoWUMtcjBQZ25mQTZVd1dfdS1qYzh0UjBqMTJJeHRCbXhBM3NNZ2NSdFhGYUpnd1ktMEc1enhHd9IBX0FVX3lxTE9fazZpaENqN2MybWctUjNVT1N6OVdjc2NUdmVQamdPcW1GRFdWcHJPZEZhN0p2Q1htVHlEMzVFS1hodHlsWnlJTjNXcmlTR09ESURGdXpzMmhBMzdMbC0w?oc=5",
       "source": "경향신문",
       "date": "Fri, 31 Jul 2026 03:46:00 GMT"
-    },
-    {
-      "title": "中 7월 제조·서비스업 동반 위축⋯경기 회복 또 제동",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4cXFwb3R2Z2UwMUpNTXlQXzFybWl0R3d3c1RpSnoyRTNwRG85LXFzc01rVDh5Q2R4YkFkYnJFM3ozWkNiOTJ3TlFDSDdOWDl4VTZIbGQzZzJZOU5Ya3c?oc=5",
-      "source": "포커스온경제",
-      "date": "Fri, 31 Jul 2026 03:30:03 GMT"
     },
     {
       "title": "중국 7월 공장 제조 활동 4개월만에 위축",
@@ -60,6 +54,12 @@
       "date": "Thu, 30 Jul 2026 08:58:00 GMT"
     },
     {
+      "title": "中, 이번주 정치국회의 개최 전망…하반기 경제정책 논의",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43UjJPaEw0NFo5QlBRUEttOTI5ZkVkQUJ5eWJtdlA0dm9OMDVScHJnWURjY2ZjQ0VDVVpESlF4ak91bVZURHlOMmVKcjJYX291Z3hZalRZNkE2T2ZqQ3hBbdIBYEFVX3lxTE43UjJPaEw0NFo5QlBRUEttOTI5ZkVkQUJ5eWJtdlA0dm9OMDVScHJnWURjY2ZjQ0VDVVpESlF4ak91bVZURHlOMmVKcjJYX291Z3hZalRZNkE2T2ZqQ3hBbQ?oc=5",
+      "source": "연합뉴스",
+      "date": "Thu, 30 Jul 2026 01:33:27 GMT"
+    },
+    {
       "title": "중국 올해 대규모 부양책·금리인하 없다...GDP 목표달성 충분",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5ZVVQNFVTNHFQVUxuaW5yS095V24zZ0hqNkw4OXdXZEVFVElLQUNCeDBXOVVRQkpicUJoNWlKcnpQVzU1d0QtNjE5OU5qSjZtUmU3RGFoU2JqZ9IBWEFVX3lxTFBheVBfbHRPZmFObUdwd0F0aTlmdnFBdDVwMnhvTHpVcVcxQUVRMkhnTmFSRksycmxCLVh0b0wyTVVNeHhwVURickdzZ1N3ZUlXQjh5SXVxWWY?oc=5",
       "source": "아주경제",
@@ -68,14 +68,14 @@
     {
       "title": "[특파원 칼럼] 중국의 '소주성'은 성공할 수 있을까",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fRmZUXzV4WF9uOEVVaGdhYW5lYi1WbFJQSWRKTl9QWE53a2pVOEpwWWdUMjl1Vjk1OVU5VjZrR3loZklXWnFNUlRCTmQzTm1hNkVR?oc=5",
-      "source": "네이트",
+      "source": "news.nate.com",
       "date": "Wed, 29 Jul 2026 22:00:00 GMT"
     },
     {
-      "title": "\"중국이 공급 줄이면 큰일 난다\"…일본 뒤흔든 '충격 진단'",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JaVBlN292eDBCdHBLX0RtYnlRM0g5VDF5TkdnY3hhWlJuNTdJYVRtMlQxTzBQVm9hZHdhblBWQ0U5MmJoVk5IemlyZm9pcW5FWUdqYmN1ODVaZw?oc=5",
-      "source": "한국경제",
-      "date": "Mon, 27 Jul 2026 22:58:02 GMT"
+      "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52UVRRTTIyQW5udGJFTjhSbEhmTHc4Q2QyTHdTd1BWNzE5b0p0U0hWZk5LbmNjdUY5ZWh2MlBZaEczSnd3RVZGSlRfLXlrdU9HYTlfdmthLW01dTVn0gFiQVVfeXFMUDU0UmVDOFl4VUpZYzlneGtDWHJCX3luT1pfdFhKaGZENGxvWTRjRTZYNTltalJDYXVBUG9IV3I2Qy1IMGljUEdDV0k3d3JQbmVXV05QUzNZSWl5QkJPQk1jV0E?oc=5",
+      "source": "BBC",
+      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
     }
   ]
 }
