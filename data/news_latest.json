@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-31T10:08:35+09:00",
+  "run_at_kst": "2026-07-31T14:08:34+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Oil Prices Head for 20% Monthly Surge Despite Recent Pullback",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-20-Monthly-Surge-Despite-Recent-Pullback.html",
+      "source": "OilPrice",
+      "date": "Thu, 30 Jul 2026 23:56:58 -0500"
+    },
     {
       "title": "The U.S. Just Took A Big Step to Break China's Magnet Dominance",
       "link": "https://oilprice.com/Energy/Energy-General/The-US-Just-Took-A-Big-Step-to-Break-Chinas-Magnet-Dominance.html",
@@ -78,12 +84,6 @@
       "link": "https://www.mining.com/anglo-american-ceo-to-lead-combined-anglo-teck-group/",
       "source": "mining.com",
       "date": "Thu, 30 Jul 2026 17:32:36 +0000"
-    },
-    {
-      "title": "Desperate for Fuel, Russia Looks to Kazakhstan for Refining Capacity",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Desperate-for-Fuel-Russia-Looks-to-Kazakhstan-for-Refining-Capacity.html",
-      "source": "OilPrice",
-      "date": "Thu, 30 Jul 2026 12:30:00 -0500"
     },
     {
       "title": "Kinross Gold’s Lobo-Marte cost jumps 67% as NPV more than triples",

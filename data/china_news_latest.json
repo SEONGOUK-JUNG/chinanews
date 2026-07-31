@@ -1,10 +1,28 @@
 {
-  "run_at_kst": "2026-07-31T10:08:35+09:00",
+  "run_at_kst": "2026-07-31T14:08:34+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "미·중 경제수장, 전화통화하며 “희토류” “대중국 견제 조치” 언급",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92RmxtU1hjZFMweF9Rd3FCajctcm5WNjl4UkdoWUMtcjBQZ25mQTZVd1dfdS1qYzh0UjBqMTJJeHRCbXhBM3NNZ2NSdFhGYUpnd1ktMEc1enhHd9IBX0FVX3lxTE9fazZpaENqN2MybWctUjNVT1N6OVdjc2NUdmVQamdPcW1GRFdWcHJPZEZhN0p2Q1htVHlEMzVFS1hodHlsWnlJTjNXcmlTR09ESURGdXpzMmhBMzdMbC0w?oc=5",
+      "source": "경향신문",
+      "date": "Fri, 31 Jul 2026 03:46:00 GMT"
+    },
+    {
+      "title": "中 7월 제조·서비스업 동반 위축⋯경기 회복 또 제동",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4cXFwb3R2Z2UwMUpNTXlQXzFybWl0R3d3c1RpSnoyRTNwRG85LXFzc01rVDh5Q2R4YkFkYnJFM3ozWkNiOTJ3TlFDSDdOWDl4VTZIbGQzZzJZOU5Ya3c?oc=5",
+      "source": "포커스온경제",
+      "date": "Fri, 31 Jul 2026 03:30:03 GMT"
+    },
+    {
+      "title": "중국 7월 공장 제조 활동 4개월만에 위축",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iOWQtUjRzWFlEeExfSkNyN1ZUa3F6ZTg1LXpDakhBcjVpdWVwejB2VDhTR0lxZmx6RTVUVmtxMlREdUE5QzY3WlNmTFpjZ3M?oc=5",
+      "source": "v.daum.net",
+      "date": "Fri, 31 Jul 2026 02:02:40 GMT"
+    },
     {
       "title": "[SW키트] 중국 AI 붐, 소수 도시 집중…고용·소비도 제자리",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EVU1tSWQ3eEZ3X3lpaTRqNEdHSGxxMzc4cS1paWlFbGluNW9qZUpYNWJQWkVSSzBibkFYenBZNlY5TFQwVTRmRGwzb2VRNk0?oc=5",
@@ -12,28 +30,16 @@
       "date": "Fri, 31 Jul 2026 00:54:46 GMT"
     },
     {
-      "title": "ICC 사무총장 \"中, '세계 시장'으로서 중요성 더 부각되고 있어\"-Xinhua",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBILVFpN01yd0d3QmV3Y19odm5jaTR2enlmNVVLNTZBUHp1LW1HY1Y3dmttVFQ3YWdlWmg4MjdVTmZVYy1ldUZvbHVVbnFkY3UyMG1uSFJhSWlNME9xVlBWSTRPYlc2OHFQYmVUR3pXOTI5RGc2?oc=5",
-      "source": "신화망",
-      "date": "Fri, 31 Jul 2026 00:25:25 GMT"
-    },
-    {
-      "title": "美中경제수장 통화…\"관세 우려\" vs \"희토류 합의 이행\"(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpTktYQlhPakxaRGR3c19VeFpicFBRaGZrTmZ2UWtFSWxvRkplTUNEUVMyWF9sUXpmbFVOSVVPSG1pTWZwN2s0TzVwR2VVeVpqellCTkpTdVNyTHFXaFowVtIBeEFVX3lxTFBHblpxbEJHNnQwVUQwUXhLb191TTV1SHV4eTBYTGVRcnAwdjRqOU9LQV9TUm9iN3EzLVFIVFBmTzFqVzF3dmY5RGd1TEpUZEN3X3c5VGtzZ3FOUDlzWlZtV3g4Vko3Qi16cWFsTDZWLU41VV9zZS1ubQ?oc=5",
-      "source": "뉴시스",
-      "date": "Thu, 30 Jul 2026 21:27:08 GMT"
+      "title": "[SW키트] 중국 AI 붐, 소수 도시 집중…고용·소비도 제자리",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16UUNNX2VTVWl0N1RkbXVOLTJOWUs4cnlXUlBZU3ZpTldVelNQTmRiMGh6Y24tNUh5ZDRXa2pYdjY0NnppNTFUSEgzUFlUdjdUd2dERmNR?oc=5",
+      "source": "지디넷코리아",
+      "date": "Fri, 31 Jul 2026 00:53:02 GMT"
     },
     {
       "title": "美·中, 9월 정상회담 앞 희토류·무역 제재 논의… 경제 수장 간 샅바싸움",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdDVleFhyOFdvemlVMk9kS3BYdlp1ZkszRDB3MTh1ZmFaN2dEelpOZ3ExZW1XYVFVbGhCeW1vVW1wSk5KRVVISEZhRFVhdlAtRENZZHZ2RkJRemdGZjVnS0VSVWZ6UnNRX0pyRUcwMmdtQzlUaVhfbzNQOXdBMV9SV2YtMXE?oc=5",
       "source": "조선일보",
       "date": "Thu, 30 Jul 2026 20:32:00 GMT"
-    },
-    {
-      "title": "미·중 경제수장, 9월 정상회담 앞 ‘샅바싸움’…희토류·무역제재 등 논의",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXUm52Q2FuVXZjTThhM0x1X1pXcWQ0RXBVNVcydjlrRXlEVk12bUJ6RnJuRTFlSjMyMEpHMVBZQUdERU83YVByemNLd3dJenFEdEpIREtaZWNYZmc?oc=5",
-      "source": "KBS 뉴스",
-      "date": "Thu, 30 Jul 2026 16:13:00 GMT"
     },
     {
       "title": "[경제+] \"중국 시장 잠재력 여전\"...CIIE로 쏠리는 글로벌 기업",
@@ -50,19 +56,13 @@
     {
       "title": "다이빙(戴兵) 주한 중국대사 울산과 중국 경제·산업 협력 확대 논의",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUHUtR2RXODJxSGpoZmxHWU12X1g4U0swSjB6Wm1EMTZnOE9aYnNpZkFJRUF0TGFoTnp1bkR2OFk0TjhvQ1NQY2xfS1N4UC0tN2VfNzRsYmNVSU4zdWdOZFNoaG10bWR6OXNYN21vWGZoQnZUYkVWLWd4c0RwQUhNRmVRR3ByYmxUeDVN?oc=5",
-      "source": "kookje.co.kr",
-      "date": "Thu, 30 Jul 2026 06:02:00 GMT"
-    },
-    {
-      "title": "다이빙(戴兵) 주한 중국대사 울산과 중국 경제·산업 협력 확대 논의",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTjE1WTMyS0Fmem13MkxGM0VZRlNMYTVSLVZpT09sT2lOejVQckEteGY1UWJYNkJBbkhCalhNVWxHQ3cxRkFhRnBxRGZfVE9BZG41YmEwZzdUSzQwNlpIbTBMNTB1Sm9haVA2bjlCSFM5NUhwWDlwVVY2WGF0Sm15RnItNHNzM3hFQnJlWWE3c2FUY2c?oc=5",
-      "source": "kookje.co.kr",
+      "source": "국제신문",
       "date": "Thu, 30 Jul 2026 06:02:00 GMT"
     },
     {
       "title": "중국 올해 대규모 부양책·금리인하 없다...GDP 목표달성 충분",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5ZVVQNFVTNHFQVUxuaW5yS095V24zZ0hqNkw4OXdXZEVFVElLQUNCeDBXOVVRQkpicUJoNWlKcnpQVzU1d0QtNjE5OU5qSjZtUmU3RGFoU2JqZ9IBWEFVX3lxTFBheVBfbHRPZmFObUdwd0F0aTlmdnFBdDVwMnhvTHpVcVcxQUVRMkhnTmFSRksycmxCLVh0b0wyTVVNeHhwVURickdzZ1N3ZUlXQjh5SXVxWWY?oc=5",
-      "source": "ajunews.com",
+      "source": "아주경제",
       "date": "Thu, 30 Jul 2026 00:53:21 GMT"
     },
     {
