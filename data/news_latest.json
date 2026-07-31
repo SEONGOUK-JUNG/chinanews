@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-07-31T07:09:08+09:00",
+  "run_at_kst": "2026-07-31T10:08:35+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "The U.S. Just Took A Big Step to Break China's Magnet Dominance",
+      "link": "https://oilprice.com/Energy/Energy-General/The-US-Just-Took-A-Big-Step-to-Break-Chinas-Magnet-Dominance.html",
+      "source": "OilPrice",
+      "date": "Thu, 30 Jul 2026 19:00:00 -0500"
+    },
+    {
+      "title": "How China Became the Ultimate Swing Oil Buyer",
+      "link": "https://oilprice.com/Energy/Crude-Oil/How-China-Became-the-Ultimate-Swing-Oil-Buyer.html",
+      "source": "OilPrice",
+      "date": "Thu, 30 Jul 2026 18:00:00 -0500"
+    },
+    {
+      "title": "IMC Rare Earths debuts on NYSE American",
+      "link": "https://www.mining.com/imc-rare-earths-debuts-on-nyse-american/",
+      "source": "mining.com",
+      "date": "Thu, 30 Jul 2026 22:37:23 +0000"
+    },
+    {
+      "title": "Update almost triples contained metal at Selkirk Copper’s Minto mine",
+      "link": "https://www.mining.com/update-almost-triples-contained-metal-at-selkirk-coppers-minto-mine/",
+      "source": "mining.com",
+      "date": "Thu, 30 Jul 2026 22:03:00 +0000"
+    },
+    {
+      "title": "Middle East Oil Shock Could Hand Upstream Sector a $495 Billion Windfall",
+      "link": "https://oilprice.com/Energy/Energy-General/Middle-East-Oil-Shock-Could-Hand-Upstream-Sector-a-495-Billion-Windfall.html",
+      "source": "OilPrice",
+      "date": "Thu, 30 Jul 2026 17:00:00 -0500"
+    },
     {
       "title": "Perpetua Resources, US Army and Idaho National Laboratory launch antimony pilot plant",
       "link": "https://www.mining.com/perpetua-resources-us-army-and-idaho-national-laboratory-launch-antimony-pilot-plant/",
@@ -60,36 +90,6 @@
       "link": "https://www.mining.com/kinross-golds-lobo-marte-cost-jumps-67-as-npv-more-than-triples/",
       "source": "mining.com",
       "date": "Thu, 30 Jul 2026 17:26:06 +0000"
-    },
-    {
-      "title": "Record U.S. Refinery Runs Fail to Ease Global Fuel Crunch",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Record-US-Refinery-Runs-Fail-to-Ease-Global-Fuel-Crunch.html",
-      "source": "OilPrice",
-      "date": "Thu, 30 Jul 2026 12:00:00 -0500"
-    },
-    {
-      "title": "U.S. GDP Growth Slows to 1.5% in Second Quarter, Missing Forecasts",
-      "link": "https://oilprice.com/Finance/the-Economy/US-GDP-Growth-Slows-to-15-in-Second-Quarter-Missing-Forecasts.html",
-      "source": "OilPrice",
-      "date": "Thu, 30 Jul 2026 12:00:00 -0500"
-    },
-    {
-      "title": "Russia Extends Diesel and Gasoline Export Bans Into 2027",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Extends-Diesel-and-Gasoline-Export-Bans-Into-2027.html",
-      "source": "OilPrice",
-      "date": "Thu, 30 Jul 2026 11:30:00 -0500"
-    },
-    {
-      "title": "Copper price jumps on tightening supply, mining stocks rally",
-      "link": "https://www.mining.com/copper-price-jumps-on-tightening-supply-mining-stocks-rally/",
-      "source": "mining.com",
-      "date": "Thu, 30 Jul 2026 15:50:34 +0000"
-    },
-    {
-      "title": "Gangs hijack Ecuador’s gold mining supply chain",
-      "link": "https://www.mining.com/gangs-hijack-ecuadors-gold-mining-supply-chain/",
-      "source": "mining.com",
-      "date": "Thu, 30 Jul 2026 15:00:00 +0000"
     }
   ]
 }
