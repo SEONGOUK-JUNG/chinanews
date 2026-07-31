@@ -1,6 +1,6 @@
 {
-  "updated_at_kst": "2026-07-23T02:54:26+09:00",
-  "as_of": "2026-07-23",
+  "updated_at_kst": "2026-08-01T08:18:23+09:00",
+  "as_of": "2026-08-01",
   "source": "Trading Economics",
   "source_url": "https://tradingeconomics.com/china/indicators",
   "note": "월 1회 갱신 거시지표. 출처 Trading Economics(중국).",
@@ -18,12 +18,12 @@
     {
       "label": "비제조업 PMI",
       "label_en": "Non-Mfg PMI",
-      "value": 50.2,
-      "previous": 50.1,
-      "display": "50.2",
-      "ref": "2026-06",
-      "hint": "50 기준",
-      "hint_en": "50 line"
+      "value": 49.0,
+      "previous": 50.2,
+      "display": "49.0",
+      "ref": "2026-07",
+      "hint": "50 하회·위축 전환",
+      "hint_en": "below 50, contraction"
     },
     {
       "label": "차이신 서비스 PMI",
@@ -118,9 +118,9 @@
     {
       "label": "USD/CNY",
       "label_en": "USD/CNY",
-      "value": 6.77,
-      "previous": 6.78,
-      "display": "6.77",
+      "value": 6.75,
+      "previous": 6.75,
+      "display": "6.75",
       "ref": "2026-07",
       "hint": "위안 환율",
       "hint_en": "yuan FX"
@@ -128,9 +128,9 @@
     {
       "label": "상하이종합지수",
       "label_en": "SSE Composite",
-      "value": 3868,
-      "previous": 3867,
-      "display": "3,868",
+      "value": 3832,
+      "previous": 3805,
+      "display": "3,832",
       "ref": "2026-07",
       "hint": "SSE Composite",
       "hint_en": "Shanghai index"
