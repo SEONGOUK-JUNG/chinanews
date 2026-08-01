@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-01T07:00:05.992426+09:00",
+  "run_at_kst": "2026-08-01T13:00:09.730195+09:00",
   "source": "Yahoo Finance (yfinance)",
   "source_url": "https://finance.yahoo.com/currencies",
   "delay": "15-20min",
@@ -7,18 +7,18 @@
     "usd_krw": {
       "name": "USD/KRW",
       "memo": "달러/원",
-      "value": 1442.0699,
+      "value": 1436.6,
       "prev_value": 1421.16,
-      "change_pct": 1.4713,
+      "change_pct": 1.0864,
       "source": "yfinance",
       "ticker": "USDKRW=X"
     },
     "cny_krw": {
       "name": "CNY/KRW",
       "memo": "위안/원",
-      "value": 213.426,
+      "value": 212.845,
       "prev_value": 210.369,
-      "change_pct": 1.4532,
+      "change_pct": 1.177,
       "source": "yfinance",
       "ticker": "CNYKRW=X"
     },
@@ -45,9 +45,9 @@
     "usd_cny": {
       "name": "USD/CNY",
       "memo": "달러/위안 (Yahoo 직접)",
-      "value": 6.7448,
+      "value": 6.7505,
       "prev_value": 6.7438,
-      "change_pct": 0.0148,
+      "change_pct": 0.0994,
       "source": "yfinance",
       "ticker": "USDCNY=X"
     }
