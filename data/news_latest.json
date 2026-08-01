@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-01T10:08:52+09:00",
+  "run_at_kst": "2026-08-02T07:08:42+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Suriname's $26 Billion Oil Bet Is Finally Paying Off",
+      "link": "https://oilprice.com/Energy/Energy-General/Surinames-26-Billion-Oil-Bet-Is-Finally-Paying-Off.html",
+      "source": "OilPrice",
+      "date": "Sat, 01 Aug 2026 16:00:00 -0500"
+    },
+    {
+      "title": "The Controversial Space Mirrors Designed to Boost Solar Power",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Controversial-Space-Mirrors-Designed-to-Boost-Solar-Power.html",
+      "source": "OilPrice",
+      "date": "Sat, 01 Aug 2026 14:00:00 -0500"
+    },
+    {
+      "title": "Finland's Sand Battery Cuts Emissions 70% Without a Single Rare Earth",
+      "link": "https://oilprice.com/Energy/Energy-General/Finlands-Sand-Battery-Cuts-Emissions-70-Without-a-Single-Rare-Earth.html",
+      "source": "OilPrice",
+      "date": "Sat, 01 Aug 2026 12:00:00 -0500"
+    },
+    {
+      "title": "The Bank of England Is Moving Away From Coal",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Bank-of-England-Is-Moving-Away-From-Coal.html",
+      "source": "OilPrice",
+      "date": "Sat, 01 Aug 2026 10:00:00 -0500"
+    },
     {
       "title": "Hercules hires executive team behind $2B Hudbay deal",
       "link": "https://www.mining.com/hercules-hires-executive-team-behind-2b-hudbay-deal/",
@@ -42,30 +66,6 @@
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Exxon-and-Chevrons-265-Billion-Quarter-Draws-Trumps-Ire.html",
       "source": "OilPrice",
       "date": "Fri, 31 Jul 2026 13:05:13 -0500"
-    },
-    {
-      "title": "What Kyrgyzstan Wants From the UN Security Council",
-      "link": "https://oilprice.com/Geopolitics/Asia/What-Kyrgyzstan-Wants-From-the-UN-Security-Council.html",
-      "source": "OilPrice",
-      "date": "Fri, 31 Jul 2026 13:00:00 -0500"
-    },
-    {
-      "title": "US Oil Drillers Turn Cautious as WTI Holds Near $85 per Barrel",
-      "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Drillers-Turn-Cautious-as-WTI-Holds-Near-85-per-Barrel.html",
-      "source": "OilPrice",
-      "date": "Fri, 31 Jul 2026 12:20:31 -0500"
-    },
-    {
-      "title": "Ukraine Strikes Lukoil's Volgograd Refinery as Drone Attacks Resume",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Strikes-Lukoils-Volgograd-Refinery-as-Drone-Attacks-Resume.html",
-      "source": "OilPrice",
-      "date": "Fri, 31 Jul 2026 11:30:00 -0500"
-    },
-    {
-      "title": "Saudis Push Maritime Coalition as Oil Finds Support",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Saudis-Push-Maritime-Coalition-as-Oil-Finds-Support.html",
-      "source": "OilPrice",
-      "date": "Fri, 31 Jul 2026 11:15:56 -0500"
     },
     {
       "title": "Gold price: record gold output, record cost per ounce",

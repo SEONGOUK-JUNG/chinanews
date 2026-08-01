@@ -1,16 +1,10 @@
 {
-  "run_at_kst": "2026-08-01T20:13:29+09:00",
+  "run_at_kst": "2026-08-02T07:08:42+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
-    {
-      "title": "중국, 미국 신장 강제노동제재 반발‥\"경제대화 하루 만에 악의적 조치\"",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zcDIwMEl4alZwZXRnNmlfYjdBdm1rR2hjaTA3c21ZWTZNRzBudzl3ci1RZTJCd3ZJdE1nMUd5SFlSWkdESTlkVjU4QmhaaFk?oc=5",
-      "source": "v.daum.net",
-      "date": "Sat, 01 Aug 2026 05:13:13 GMT"
-    },
     {
       "title": "美, 신장 강제노동 이유로 中기업 추가 제재…중국 “경제 강압”",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NRXV4Z09XdGZodm51c3JaYUNVVU80R3k5T0lzUXRWdTlFZjdJSlpsdWtUSU9IcXlaNDRHdmtrZkpmTThZQWtZWjlkR1JhbV9BQUVpcFJR?oc=5",
@@ -26,14 +20,8 @@
     {
       "title": "중국, 대규모 경기부양 신중모드 속 제조업 다시 ‘위축’ 국면",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yZWF5ajRVa2tBakNXN0tJSk5lTjF6Ylk3c2pVSVF2VGdoX3p3enh4YVhVcnQ5aS1veXdkYkhTQ0tNWEJCNWhoOXZLRkFIelZXM1Y3ZU9hYm11Y0J4SGtCZW1SRU9vd2pDZDZfRw?oc=5",
-      "source": "한겨레",
+      "source": "hani.co.kr",
       "date": "Fri, 31 Jul 2026 08:20:00 GMT"
-    },
-    {
-      "title": "중국 7월 제조업 PMI 49.2로 하락…5개월 만에 경기 위축 국면 진입",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LRDdvTFhncjRCNEh6d2NmVUdwRXpORS1oRURLQ2kwb00zekNkSW1lMEwyeExFd3U0b0ZKb0xJSHRQckljQlI0anJvMnJSOFlsbnBJWm9OSVI1MjBFS1I2MlN2WXU5dFQ0Q3Q0eg?oc=5",
-      "source": "파이낸스투데이",
-      "date": "Fri, 31 Jul 2026 07:38:53 GMT"
     },
     {
       "title": "미·중 경제수장, 전화통화하며 “희토류” “대중국 견제 조치” 언급",
@@ -42,10 +30,16 @@
       "date": "Fri, 31 Jul 2026 03:47:27 GMT"
     },
     {
-      "title": "[SW키트] 중국 AI 붐, 소수 도시 집중…고용·소비도 제자리",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EVU1tSWQ3eEZ3X3lpaTRqNEdHSGxxMzc4cS1paWlFbGluNW9qZUpYNWJQWkVSSzBibkFYenBZNlY5TFQwVTRmRGwzb2VRNk0?oc=5",
+      "title": "미·중 경제수장, 전화통화하며 “희토류” “대중국 견제 조치” 언급",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92RmxtU1hjZFMweF9Rd3FCajctcm5WNjl4UkdoWUMtcjBQZ25mQTZVd1dfdS1qYzh0UjBqMTJJeHRCbXhBM3NNZ2NSdFhGYUpnd1ktMEc1enhHd9IBX0FVX3lxTE9fazZpaENqN2MybWctUjNVT1N6OVdjc2NUdmVQamdPcW1GRFdWcHJPZEZhN0p2Q1htVHlEMzVFS1hodHlsWnlJTjNXcmlTR09ESURGdXpzMmhBMzdMbC0w?oc=5",
+      "source": "경향신문",
+      "date": "Fri, 31 Jul 2026 03:46:00 GMT"
+    },
+    {
+      "title": "중국 7월 공장 제조 활동 4개월만에 위축",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iOWQtUjRzWFlEeExfSkNyN1ZUa3F6ZTg1LXpDakhBcjVpdWVwejB2VDhTR0lxZmx6RTVUVmtxMlREdUE5QzY3WlNmTFpjZ3M?oc=5",
       "source": "v.daum.net",
-      "date": "Fri, 31 Jul 2026 00:54:46 GMT"
+      "date": "Fri, 31 Jul 2026 02:02:40 GMT"
     },
     {
       "title": "다롄항에 줄 선 북한 화물선…무너지는 대북 제재, 커지는 중국 의존",
@@ -54,22 +48,28 @@
       "date": "Thu, 30 Jul 2026 13:16:21 GMT"
     },
     {
-      "title": "'창신메모리' 허페이 성장률 6.8%…중국 지역 경제 양극화 심화",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VdU9YZ2d3SHB6bWpxMDI4R1k3SUF5RnBoSXpCTDh4c09mdVpCSnFESEU2NlhGWVJjanhKcFFwMm1JUV9odExZVEhlbFFRamswRFBkMWNnZlJkLTZqTlU2dEVneGNYam1wSGc?oc=5",
-      "source": "news.sbs.co.kr",
-      "date": "Thu, 30 Jul 2026 08:58:00 GMT"
-    },
-    {
       "title": "중국 올해 대규모 부양책·금리인하 없다...GDP 목표달성 충분",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5ZVVQNFVTNHFQVUxuaW5yS095V24zZ0hqNkw4OXdXZEVFVElLQUNCeDBXOVVRQkpicUJoNWlKcnpQVzU1d0QtNjE5OU5qSjZtUmU3RGFoU2JqZ9IBWEFVX3lxTFBheVBfbHRPZmFObUdwd0F0aTlmdnFBdDVwMnhvTHpVcVcxQUVRMkhnTmFSRksycmxCLVh0b0wyTVVNeHhwVURickdzZ1N3ZUlXQjh5SXVxWWY?oc=5",
       "source": "아주경제",
       "date": "Thu, 30 Jul 2026 00:53:21 GMT"
     },
     {
+      "title": "중국경제원탁회의 \"IMF, 中 성장률 상향 조정...첨단 제조 등 신동력 견인\"-Xinhua",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44ejIzZUJvQVpDWlJSb2trY1dtYUc2aDU5NnFJZVExQWNCNEVVRkZud2lFVmwxQTJEbE03Zmx1ZG9NMnp6eFJYRzBGZldIRGJWbDJkY09GWExaTUdBU2s1VUhVZy1TRUVfTEMzWURZcEtERWdk?oc=5",
+      "source": "신화망",
+      "date": "Thu, 30 Jul 2026 00:17:57 GMT"
+    },
+    {
       "title": "[특파원 칼럼] 중국의 '소주성'은 성공할 수 있을까",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fRmZUXzV4WF9uOEVVaGdhYW5lYi1WbFJQSWRKTl9QWE53a2pVOEpwWWdUMjl1Vjk1OVU5VjZrR3loZklXWnFNUlRCTmQzTm1hNkVR?oc=5",
       "source": "네이트",
       "date": "Wed, 29 Jul 2026 22:00:00 GMT"
+    },
+    {
+      "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Wed, 29 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
