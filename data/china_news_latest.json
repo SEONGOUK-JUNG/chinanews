@@ -1,14 +1,20 @@
 {
-  "run_at_kst": "2026-08-01T07:03:43+09:00",
+  "run_at_kst": "2026-08-01T10:08:52+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "中 지리차의 승부수…제휴형 글로벌화 성공할까",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13cG85VE1WNzVqV1RXNnBGVlFCNXhSMjczNmNmX2xicklyanlOV3NZZGtIVk5YaXVpSkVmaGl3QWFxU3pTa1kwRkNtcjlBQjJQd2VFNVVyUGRyUQ?oc=5",
+      "source": "한국경제",
+      "date": "Sat, 01 Aug 2026 00:00:12 GMT"
+    },
+    {
       "title": "중국, 대규모 경기부양 신중모드 속 제조업 다시 ‘위축’ 국면",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yZWF5ajRVa2tBakNXN0tJSk5lTjF6Ylk3c2pVSVF2VGdoX3p3enh4YVhVcnQ5aS1veXdkYkhTQ0tNWEJCNWhoOXZLRkFIelZXM1Y3ZU9hYm11Y0J4SGtCZW1SRU9vd2pDZDZfRw?oc=5",
-      "source": "한겨레",
+      "source": "hani.co.kr",
       "date": "Fri, 31 Jul 2026 08:20:00 GMT"
     },
     {
@@ -48,12 +54,6 @@
       "date": "Thu, 30 Jul 2026 10:21:58 GMT"
     },
     {
-      "title": "'창신메모리' 허페이 성장률 6.8%…중국 지역 경제 양극화 심화",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VdU9YZ2d3SHB6bWpxMDI4R1k3SUF5RnBoSXpCTDh4c09mdVpCSnFESEU2NlhGWVJjanhKcFFwMm1JUV9odExZVEhlbFFRamswRFBkMWNnZlJkLTZqTlU2dEVneGNYam1wSGc?oc=5",
-      "source": "news.sbs.co.kr",
-      "date": "Thu, 30 Jul 2026 08:58:00 GMT"
-    },
-    {
       "title": "中, 이번주 정치국회의 개최 전망…하반기 경제정책 논의",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43UjJPaEw0NFo5QlBRUEttOTI5ZkVkQUJ5eWJtdlA0dm9OMDVScHJnWURjY2ZjQ0VDVVpESlF4ak91bVZURHlOMmVKcjJYX291Z3hZalRZNkE2T2ZqQ3hBbdIBYEFVX3lxTE43UjJPaEw0NFo5QlBRUEttOTI5ZkVkQUJ5eWJtdlA0dm9OMDVScHJnWURjY2ZjQ0VDVVpESlF4ak91bVZURHlOMmVKcjJYX291Z3hZalRZNkE2T2ZqQ3hBbQ?oc=5",
       "source": "연합뉴스",
@@ -68,7 +68,7 @@
     {
       "title": "[특파원 칼럼] 중국의 '소주성'은 성공할 수 있을까",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fRmZUXzV4WF9uOEVVaGdhYW5lYi1WbFJQSWRKTl9QWE53a2pVOEpwWWdUMjl1Vjk1OVU5VjZrR3loZklXWnFNUlRCTmQzTm1hNkVR?oc=5",
-      "source": "news.nate.com",
+      "source": "네이트",
       "date": "Wed, 29 Jul 2026 22:00:00 GMT"
     },
     {

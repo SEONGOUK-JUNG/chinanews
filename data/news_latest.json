@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-01T07:03:43+09:00",
+  "run_at_kst": "2026-08-01T10:08:52+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Hercules hires executive team behind $2B Hudbay deal",
+      "link": "https://www.mining.com/hercules-hires-executive-team-behind-2b-hudbay-deal/",
+      "source": "mining.com",
+      "date": "Fri, 31 Jul 2026 22:30:00 +0000"
+    },
     {
       "title": "VC Money Floods Into U.S. Nuclear Startups as AI Power Demand Explodes",
       "link": "https://oilprice.com/Energy/Energy-General/VC-Money-Floods-Into-US-Nuclear-Startups-as-AI-Power-Demand-Explodes.html",
@@ -18,6 +24,12 @@
       "link": "https://oilprice.com/Energy/Crude-Oil/Abqaiq-Is-a-Warning-That-Oil-Markets-May-Be-Misreading.html",
       "source": "OilPrice",
       "date": "Fri, 31 Jul 2026 15:00:00 -0500"
+    },
+    {
+      "title": "Equinox hands CEO job to Orla’s Simpson",
+      "link": "https://www.mining.com/equinox-hands-ceo-job-to-orlas-simpson/",
+      "source": "mining.com",
+      "date": "Fri, 31 Jul 2026 19:52:00 +0000"
     },
     {
       "title": "Why Trump’s Trade Threat Puts Spain’s Energy Security on the Line",
@@ -78,18 +90,6 @@
       "link": "https://www.mining.com/camecos-westinghouse-nuclear-power-venture-files-for-ipo/",
       "source": "mining.com",
       "date": "Fri, 31 Jul 2026 14:37:12 +0000"
-    },
-    {
-      "title": "Agnico Eagle keeps 2026 target despite 370,000-ounce loss",
-      "link": "https://www.mining.com/agnico-eagle-keeps-2026-target-despite-370000-ounce-loss/",
-      "source": "mining.com",
-      "date": "Fri, 31 Jul 2026 14:03:00 +0000"
-    },
-    {
-      "title": "Ottawa approves Canada Nickel’s Crawford mine",
-      "link": "https://www.mining.com/ottawa-approves-canada-nickels-crawford-mine/",
-      "source": "mining.com",
-      "date": "Fri, 31 Jul 2026 11:12:43 +0000"
     }
   ]
 }
