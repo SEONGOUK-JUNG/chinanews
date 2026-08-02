@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-02T10:13:38+09:00",
+  "run_at_kst": "2026-08-02T14:04:22+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -18,51 +18,39 @@
       "date": "Sat, 01 Aug 2026 01:00:00 GMT"
     },
     {
-      "title": "중국, 대규모 경기부양 신중모드 속 제조업 다시 ‘위축’ 국면",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yZWF5ajRVa2tBakNXN0tJSk5lTjF6Ylk3c2pVSVF2VGdoX3p3enh4YVhVcnQ5aS1veXdkYkhTQ0tNWEJCNWhoOXZLRkFIelZXM1Y3ZU9hYm11Y0J4SGtCZW1SRU9vd2pDZDZfRw?oc=5",
-      "source": "hani.co.kr",
-      "date": "Fri, 31 Jul 2026 08:20:00 GMT"
-    },
-    {
-      "title": "미·중 경제수장, 전화통화하며 “희토류” “대중국 견제 조치” 언급",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrMTd3QXA3M0xXQ01ERTdsdGlzSG5UcFBGOEZmVHk0RjdOcFB0YmItbzl6QUlycWxCTnFVYjJrbVJwRjdBSHlDSTM1enJ6RUU?oc=5",
-      "source": "v.daum.net",
-      "date": "Fri, 31 Jul 2026 03:47:27 GMT"
-    },
-    {
       "title": "미·중 경제수장, 전화통화하며 “희토류” “대중국 견제 조치” 언급",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92RmxtU1hjZFMweF9Rd3FCajctcm5WNjl4UkdoWUMtcjBQZ25mQTZVd1dfdS1qYzh0UjBqMTJJeHRCbXhBM3NNZ2NSdFhGYUpnd1ktMEc1enhHd9IBX0FVX3lxTE9fazZpaENqN2MybWctUjNVT1N6OVdjc2NUdmVQamdPcW1GRFdWcHJPZEZhN0p2Q1htVHlEMzVFS1hodHlsWnlJTjNXcmlTR09ESURGdXpzMmhBMzdMbC0w?oc=5",
       "source": "경향신문",
       "date": "Fri, 31 Jul 2026 03:46:00 GMT"
     },
     {
-      "title": "중국 7월 공장 제조 활동 4개월만에 위축",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iOWQtUjRzWFlEeExfSkNyN1ZUa3F6ZTg1LXpDakhBcjVpdWVwejB2VDhTR0lxZmx6RTVUVmtxMlREdUE5QzY3WlNmTFpjZ3M?oc=5",
-      "source": "v.daum.net",
-      "date": "Fri, 31 Jul 2026 02:02:40 GMT"
+      "title": "美·中, 9월 정상회담 앞 희토류·무역 제재 논의… 경제 수장 간 샅바싸움",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdDVleFhyOFdvemlVMk9kS3BYdlp1ZkszRDB3MTh1ZmFaN2dEelpOZ3ExZW1XYVFVbGhCeW1vVW1wSk5KRVVISEZhRFVhdlAtRENZZHZ2RkJRemdGZjVnS0VSVWZ6UnNRX0pyRUcwMmdtQzlUaVhfbzNQOXdBMV9SV2YtMXE?oc=5",
+      "source": "조선일보",
+      "date": "Thu, 30 Jul 2026 20:35:59 GMT"
     },
     {
-      "title": "다롄항에 줄 선 북한 화물선…무너지는 대북 제재, 커지는 중국 의존",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5bmhja0JjWjd5cUFiUG9RcWVHUHBfZXdiT1l1OF9oWXEybWpjUTB5dXZiWTlOdDJHdW9ZUS04TmtXSERuQ3JQVG44V2VLY2J2RVhFdGZ2N1RJV2FNNHo3MHVDZDFwTTQ5RGJn?oc=5",
-      "source": "프레시안",
-      "date": "Thu, 30 Jul 2026 13:16:21 GMT"
+      "title": "인공지능·‘6대 네트워크’…중국 경제의 새로운 성장 동력으로 떠오르는 핵심 산업",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsWm9UaXN0dk1PWU00NUF1Uk16UHpZNkI0RFg0N3BnR2hWSXotLVI4bjNuTGJBSWRxT0lWX3FnVW9zWWZ1NnpsR0xpQzV1bTk4WEs4bHJKM094d3VvU0hkZ1lVWQ?oc=5",
+      "source": "CGTN",
+      "date": "Thu, 30 Jul 2026 16:48:17 GMT"
+    },
+    {
+      "title": "美中무역대표, 정상회담 두달 만에 소통…\"상호 우려 등 논의\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tdk5MMjYwdHc5NHUxT0NTUFlMcHM0LVlGd3NQQ0s2aFQ4VzE2WE1ZQVN1UUxkeDRSTHZHZlh6WDY3eE9MUHJEQl9fTGZ4Z3QyaUE0ckdWbDExdEnSAWBBVV95cUxQRkVHbGl1SlkyTTMxSmd5NDl6TXZia3NRMXJrSUtnaU5Jam5KOGVCQ3dUYTVsWTNaaUFvOHplVENmSUJoOGd5Sms0WnBCLXVfWTlvMk43RWNzU2tUUHVwQ3g?oc=5",
+      "source": "연합뉴스",
+      "date": "Thu, 30 Jul 2026 15:43:03 GMT"
     },
     {
       "title": "다이빙(戴兵) 주한 중국대사 울산과 중국 경제·산업 협력 확대 논의",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTjE1WTMyS0Fmem13MkxGM0VZRlNMYTVSLVZpT09sT2lOejVQckEteGY1UWJYNkJBbkhCalhNVWxHQ3cxRkFhRnBxRGZfVE9BZG41YmEwZzdUSzQwNlpIbTBMNTB1Sm9haVA2bjlCSFM5NUhwWDlwVVY2WGF0Sm15RnItNHNzM3hFQnJlWWE3c2FUY2c?oc=5",
-      "source": "국제신문",
+      "source": "kookje.co.kr",
       "date": "Thu, 30 Jul 2026 06:02:00 GMT"
-    },
-    {
-      "title": "중국 올해 대규모 부양책·금리인하 없다...GDP 목표달성 충분",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5ZVVQNFVTNHFQVUxuaW5yS095V24zZ0hqNkw4OXdXZEVFVElLQUNCeDBXOVVRQkpicUJoNWlKcnpQVzU1d0QtNjE5OU5qSjZtUmU3RGFoU2JqZ9IBWEFVX3lxTFBheVBfbHRPZmFObUdwd0F0aTlmdnFBdDVwMnhvTHpVcVcxQUVRMkhnTmFSRksycmxCLVh0b0wyTVVNeHhwVURickdzZ1N3ZUlXQjh5SXVxWWY?oc=5",
-      "source": "아주경제",
-      "date": "Thu, 30 Jul 2026 00:53:21 GMT"
     },
     {
       "title": "중국경제원탁회의 \"IMF, 中 성장률 상향 조정...첨단 제조 등 신동력 견인\"-Xinhua",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zaVJET0NoMTBZUEZzNlZLdGpzSnN5ZTFVRUloYVAzNm85azRDb3dmTkN4SFJEbGNjM3BtcjBPbW85N0ZEenppZF83b3VxZHV1ZUJGMFlveHU0eHoyemRXVlRMdDZKOXRHQnNsZlRWZTl6dll4V2c?oc=5",
-      "source": "신화망",
+      "source": "kr.news.cn",
       "date": "Thu, 30 Jul 2026 00:17:57 GMT"
     },
     {
@@ -72,10 +60,22 @@
       "date": "Wed, 29 Jul 2026 07:00:00 GMT"
     },
     {
+      "title": "중국경제원탁회의 \"中 신동력, 경제 안정적 운영 떠받치는 핵심 버팀목 역할”-Xinhua",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlS3dwVDhWUEx3eHJMS09lYTd0ZGFEWl9rOTRQMXNDakNndTNOU1hWWmRXangwMTZXQ19QZXBXUWtlRGlsMEhQVjVReDdQZmIwZ3IwcjVMcFhvUVk3VlRSWVBEektnc1FpSFFoOXhFZFJBTXcxVzJ4NnhhdjY?oc=5",
+      "source": "新华网",
+      "date": "Wed, 29 Jul 2026 04:49:03 GMT"
+    },
+    {
       "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52UVRRTTIyQW5udGJFTjhSbEhmTHc4Q2QyTHdTd1BWNzE5b0p0U0hWZk5LbmNjdUY5ZWh2MlBZaEczSnd3RVZGSlRfLXlrdU9HYTlfdmthLW01dTVn0gFiQVVfeXFMUDU0UmVDOFl4VUpZYzlneGtDWHJCX3luT1pfdFhKaGZENGxvWTRjRTZYNTltalJDYXVBUG9IV3I2Qy1IMGljUEdDV0k3d3JQbmVXV05QUzNZSWl5QkJPQk1jV0E?oc=5",
       "source": "BBC",
       "date": "Wed, 15 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "경제는 ‘흔들’ 기술은 ‘질주’하는 중국의 딜레마, 실체는?",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZG1sWUFDY2l6bFoyeFBUdTdzUjgwU1o0clpaZm5hSk9QU0NvUE5uQWdaelg0OFhKNXI2dXk5VnNjSVE5R3lwMkpDMFFiRzc1LW9nYnVn?oc=5",
+      "source": "중앙일보",
+      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
     }
   ]
 }

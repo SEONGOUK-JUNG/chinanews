@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-02T10:13:38+09:00",
+  "run_at_kst": "2026-08-02T14:04:22+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -12,6 +12,12 @@
       "link": "https://oilprice.com/Energy/Crude-Oil/Record-Vaca-Muerta-Output-Fails-to-Lift-Argentinas-Wider-Economy.html",
       "source": "OilPrice",
       "date": "Sat, 01 Aug 2026 18:00:00 -0500"
+    },
+    {
+      "title": "AI’s Electricity Demand Is Not the Real Problem. Its Inflexibility Is",
+      "link": "https://oilprice.com/Energy/Energy-General/AIs-Electricity-Demand-Is-Not-the-Real-Problem-Its-Inflexibility-Is.html",
+      "source": "OilPrice",
+      "date": "Sat, 01 Aug 2026 16:00:00 -0500"
     },
     {
       "title": "Suriname's $26 Billion Oil Bet Is Finally Paying Off",
@@ -60,12 +66,6 @@
       "link": "https://www.mining.com/equinox-hands-ceo-job-to-orlas-simpson/",
       "source": "mining.com",
       "date": "Fri, 31 Jul 2026 19:52:00 +0000"
-    },
-    {
-      "title": "Why Trump’s Trade Threat Puts Spain’s Energy Security on the Line",
-      "link": "https://oilprice.com/Energy/Energy-General/Why-Trumps-Trade-Threat-Puts-Spains-Energy-Security-on-the-Line.html",
-      "source": "OilPrice",
-      "date": "Fri, 31 Jul 2026 14:00:00 -0500"
     },
     {
       "title": "Gold price: record gold output, record cost per ounce",
