@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-02T14:04:22+09:00",
+  "run_at_kst": "2026-08-03T07:08:44+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,24 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "China's Car Market Stalls Even as Global Demand Keeps Growing",
+      "link": "https://oilprice.com/Energy/Energy-General/Chinas-Car-Market-Stalls-Even-as-Global-Demand-Keeps-Growing.html",
+      "source": "OilPrice",
+      "date": "Sun, 02 Aug 2026 14:00:00 -0500"
+    },
+    {
+      "title": "Tidal Energy Could Cover 57% of US Electricity Demand, NREL Study Finds",
+      "link": "https://oilprice.com/Energy/Energy-General/Tidal-Energy-Could-Cover-57-of-US-Electricity-Demand-NREL-Study-Finds.html",
+      "source": "OilPrice",
+      "date": "Sun, 02 Aug 2026 12:00:00 -0500"
+    },
+    {
+      "title": "China Doubles Down on Clean Energy Even as Coal Keeps Growing",
+      "link": "https://oilprice.com/Energy/Energy-General/China-Doubles-Down-on-Clean-Energy-Even-as-Coal-Keeps-Growing.html",
+      "source": "OilPrice",
+      "date": "Sun, 02 Aug 2026 10:00:00 -0500"
+    },
     {
       "title": "Record Vaca Muerta Output Fails to Lift Argentina’s Wider Economy",
       "link": "https://oilprice.com/Energy/Crude-Oil/Record-Vaca-Muerta-Output-Fails-to-Lift-Argentinas-Wider-Economy.html",
@@ -38,28 +56,10 @@
       "date": "Sat, 01 Aug 2026 12:00:00 -0500"
     },
     {
-      "title": "The Bank of England Is Moving Away From Coal",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Bank-of-England-Is-Moving-Away-From-Coal.html",
-      "source": "OilPrice",
-      "date": "Sat, 01 Aug 2026 10:00:00 -0500"
-    },
-    {
       "title": "Hercules hires executive team behind $2B Hudbay deal",
       "link": "https://www.mining.com/hercules-hires-executive-team-behind-2b-hudbay-deal/",
       "source": "mining.com",
       "date": "Fri, 31 Jul 2026 22:30:00 +0000"
-    },
-    {
-      "title": "VC Money Floods Into U.S. Nuclear Startups as AI Power Demand Explodes",
-      "link": "https://oilprice.com/Energy/Energy-General/VC-Money-Floods-Into-US-Nuclear-Startups-as-AI-Power-Demand-Explodes.html",
-      "source": "OilPrice",
-      "date": "Fri, 31 Jul 2026 17:00:00 -0500"
-    },
-    {
-      "title": "Abqaiq Is a Warning That Oil Markets May Be Misreading",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Abqaiq-Is-a-Warning-That-Oil-Markets-May-Be-Misreading.html",
-      "source": "OilPrice",
-      "date": "Fri, 31 Jul 2026 15:00:00 -0500"
     },
     {
       "title": "Equinox hands CEO job to Orla’s Simpson",
