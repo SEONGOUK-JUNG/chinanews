@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-02T07:08:42+09:00",
+  "run_at_kst": "2026-08-02T10:13:38+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -48,6 +48,12 @@
       "date": "Thu, 30 Jul 2026 13:16:21 GMT"
     },
     {
+      "title": "다이빙(戴兵) 주한 중국대사 울산과 중국 경제·산업 협력 확대 논의",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTjE1WTMyS0Fmem13MkxGM0VZRlNMYTVSLVZpT09sT2lOejVQckEteGY1UWJYNkJBbkhCalhNVWxHQ3cxRkFhRnBxRGZfVE9BZG41YmEwZzdUSzQwNlpIbTBMNTB1Sm9haVA2bjlCSFM5NUhwWDlwVVY2WGF0Sm15RnItNHNzM3hFQnJlWWE3c2FUY2c?oc=5",
+      "source": "국제신문",
+      "date": "Thu, 30 Jul 2026 06:02:00 GMT"
+    },
+    {
       "title": "중국 올해 대규모 부양책·금리인하 없다...GDP 목표달성 충분",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5ZVVQNFVTNHFQVUxuaW5yS095V24zZ0hqNkw4OXdXZEVFVElLQUNCeDBXOVVRQkpicUJoNWlKcnpQVzU1d0QtNjE5OU5qSjZtUmU3RGFoU2JqZ9IBWEFVX3lxTFBheVBfbHRPZmFObUdwd0F0aTlmdnFBdDVwMnhvTHpVcVcxQUVRMkhnTmFSRksycmxCLVh0b0wyTVVNeHhwVURickdzZ1N3ZUlXQjh5SXVxWWY?oc=5",
       "source": "아주경제",
@@ -55,15 +61,9 @@
     },
     {
       "title": "중국경제원탁회의 \"IMF, 中 성장률 상향 조정...첨단 제조 등 신동력 견인\"-Xinhua",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44ejIzZUJvQVpDWlJSb2trY1dtYUc2aDU5NnFJZVExQWNCNEVVRkZud2lFVmwxQTJEbE03Zmx1ZG9NMnp6eFJYRzBGZldIRGJWbDJkY09GWExaTUdBU2s1VUhVZy1TRUVfTEMzWURZcEtERWdk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zaVJET0NoMTBZUEZzNlZLdGpzSnN5ZTFVRUloYVAzNm85azRDb3dmTkN4SFJEbGNjM3BtcjBPbW85N0ZEenppZF83b3VxZHV1ZUJGMFlveHU0eHoyemRXVlRMdDZKOXRHQnNsZlRWZTl6dll4V2c?oc=5",
       "source": "신화망",
       "date": "Thu, 30 Jul 2026 00:17:57 GMT"
-    },
-    {
-      "title": "[특파원 칼럼] 중국의 '소주성'은 성공할 수 있을까",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fRmZUXzV4WF9uOEVVaGdhYW5lYi1WbFJQSWRKTl9QWE53a2pVOEpwWWdUMjl1Vjk1OVU5VjZrR3loZklXWnFNUlRCTmQzTm1hNkVR?oc=5",
-      "source": "네이트",
-      "date": "Wed, 29 Jul 2026 22:00:00 GMT"
     },
     {
       "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
