@@ -1,10 +1,22 @@
 {
-  "run_at_kst": "2026-08-03T07:08:44+09:00",
+  "run_at_kst": "2026-08-03T10:08:52+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "'토큰 경제' 한눈에...'2026 중국 국제빅데이터산업박람회' 내달 中 구이양에서 개막-Xinhua",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqZjQtbzdTX0xvRHotX01RRHJvRDEyT2JzZW1OZml6R0FEbUI5V0RnU21KOEtvQUczOC05OHQyVFhVeVp2TEU0c1ZiZzIwdmF1MmF0Q3JVN3FnRmpnVktwM1dIV0VKSE9mS0l3bXA1eUNJeE5X?oc=5",
+      "source": "신화망",
+      "date": "Mon, 03 Aug 2026 00:53:36 GMT"
+    },
+    {
+      "title": "중국, 미·EU 무역협상 앞두고 경제모델 '레드라인' 제시…\"산업 중심 성장 유지\"",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TYy04bVJfX1FPVjFWbkdXZzVNeTB4dHJwT2MxWkowWGJubHBhUHpoSDN3Yms4dy1McjU5SElhZ2RaNDJyUG9SbzFhdmFGX1JHQzYxaWVFZm91dEtWMV9KcFptYw?oc=5",
+      "source": "더구루",
+      "date": "Sun, 02 Aug 2026 23:47:59 GMT"
+    },
     {
       "title": "중국 첨단 제조업 중심의 경제 모델 고수, 미·EU 통상 압박 정면 대응",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM2diMTQyLUZFM1BzNDJEdVhjczljSzF0ZTJRLXR1bnhSYWhyQVAyZWQwbWpaSGtlcG1zSFhEY1Jxd0NBbUpTSGhOLV9QRGxyNFNsWnMtcmhOdW1wNUhsVF83VDdiS0Y2dWVqZXY1WUVwTjh4YVpNU0NhMzBuWllVbFhXOUxnZmZy?oc=5",
@@ -12,22 +24,16 @@
       "date": "Sun, 02 Aug 2026 21:11:19 GMT"
     },
     {
-      "title": "추경호 대구시장, 주한중국대사와 경제협력 논의",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoa3JKMVR1SkdMLTRyckR2LU1uZ21DejVYR01JVTNvS2VYZ3c3NTcyWUFId0hmcW9CT0Q0NlBkR3BEUXRYeDB1WEhyLXNaVWlIcmRWV0c4ZWg?oc=5",
-      "source": "경북신문",
-      "date": "Sun, 02 Aug 2026 02:53:26 GMT"
+      "title": "[월요칼럼] 중국 서부 내륙과 경북의 공급망 (2)",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oMjVqNlV1cmFLRmRWS2MzQ2dKY2czZV9PVXB2S1RvNjg3MkFPTTllazMxVWYwNmZwYnEwVkgwUmNjRDB5dXRGX1R1SDg3dmM?oc=5",
+      "source": "v.daum.net",
+      "date": "Sun, 02 Aug 2026 21:00:13 GMT"
     },
     {
       "title": "美, 신장 강제노동 이유로 中기업 추가 제재…중국 \"경제 강압\"",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yajl1cnVjT2hyTkpjSnBrZEwxWVREQUQwenJRdGUyZ05jZkU0VEVhQWl4WG02amVoQjBVYlNCeEdhanhXdm5xX3dhTUpPbzhVR2xj?oc=5",
-      "source": "news.nate.com",
+      "source": "네이트",
       "date": "Sat, 01 Aug 2026 05:10:00 GMT"
-    },
-    {
-      "title": "美, 신장 강제노동 이유로 中기업 추가 제재…중국 “경제 강압”",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NRXV4Z09XdGZodm51c3JaYUNVVU80R3k5T0lzUXRWdTlFZjdJSlpsdWtUSU9IcXlaNDRHdmtrZkpmTThZQWtZWjlkR1JhbV9BQUVpcFJR?oc=5",
-      "source": "헤럴드경제",
-      "date": "Sat, 01 Aug 2026 05:09:05 GMT"
     },
     {
       "title": "청년세대 극우화, 기성세대의 무능과 부조리 때문일까?",
@@ -60,15 +66,9 @@
       "date": "Fri, 31 Jul 2026 02:02:40 GMT"
     },
     {
-      "title": "[SW키트] 중국 AI 붐, 소수 도시 집중…고용·소비도 제자리",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EVU1tSWQ3eEZ3X3lpaTRqNEdHSGxxMzc4cS1paWlFbGluNW9qZUpYNWJQWkVSSzBibkFYenBZNlY5TFQwVTRmRGwzb2VRNk0?oc=5",
-      "source": "v.daum.net",
-      "date": "Fri, 31 Jul 2026 00:54:46 GMT"
-    },
-    {
       "title": "다롄항에 줄 선 북한 화물선…무너지는 대북 제재, 커지는 중국 의존",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5bmhja0JjWjd5cUFiUG9RcWVHUHBfZXdiT1l1OF9oWXEybWpjUTB5dXZiWTlOdDJHdW9ZUS04TmtXSERuQ3JQVG44V2VLY2J2RVhFdGZ2N1RJV2FNNHo3MHVDZDFwTTQ5RGJn?oc=5",
-      "source": "pressian.com",
+      "source": "프레시안",
       "date": "Thu, 30 Jul 2026 13:16:21 GMT"
     },
     {
