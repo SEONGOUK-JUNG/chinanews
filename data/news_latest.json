@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-03T14:09:15+09:00",
+  "run_at_kst": "2026-08-03T20:08:27+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "India’s Imports of Russian Crude Hit New High in July",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Imports-of-Russian-Crude-Hit-New-High-in-July.html",
+      "source": "OilPrice",
+      "date": "Mon, 03 Aug 2026 05:30:00 -0500"
+    },
+    {
+      "title": "BP Completes Sale of German Refinery as Portfolio Overhaul Accelerates",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/BP-Completes-Sale-of-German-Refinery-as-Portfolio-Overhaul-Accelerates.html",
+      "source": "OilPrice",
+      "date": "Mon, 03 Aug 2026 04:30:00 -0500"
+    },
+    {
+      "title": "Kuwait Oil Production Surges as OPEC+ Completes Output Cut Reversal",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Kuwait-Oil-Production-Surges-as-OPEC-Completes-Output-Cut-Reversal.html",
+      "source": "OilPrice",
+      "date": "Mon, 03 Aug 2026 03:30:00 -0500"
+    },
+    {
+      "title": "India Moves to Rescue Renewable Energy Projects Stalled by Grid Shortages",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Moves-to-Rescue-Renewable-Energy-Projects-Stalled-by-Grid-Shortages.html",
+      "source": "OilPrice",
+      "date": "Mon, 03 Aug 2026 02:30:00 -0500"
+    },
+    {
+      "title": "Greek LNG Ship Safely Clears Hormuz After Maritime Incident",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Greek-LNG-Ship-Safely-Clears-Hormuz-After-Maritime-Incident.html",
+      "source": "OilPrice",
+      "date": "Mon, 03 Aug 2026 01:30:00 -0500"
+    },
     {
       "title": "Oil Prices Plunge 5% as Trump Halts Iran Strike Plans",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-5-as-Trump-Halts-Iran-Strike-Plans.html",
@@ -24,36 +54,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/Chinas-Car-Market-Stalls-Even-as-Global-Demand-Keeps-Growing.html",
       "source": "OilPrice",
       "date": "Sun, 02 Aug 2026 14:00:00 -0500"
-    },
-    {
-      "title": "Tidal Energy Could Cover 57% of US Electricity Demand, NREL Study Finds",
-      "link": "https://oilprice.com/Energy/Energy-General/Tidal-Energy-Could-Cover-57-of-US-Electricity-Demand-NREL-Study-Finds.html",
-      "source": "OilPrice",
-      "date": "Sun, 02 Aug 2026 12:00:00 -0500"
-    },
-    {
-      "title": "China Doubles Down on Clean Energy Even as Coal Keeps Growing",
-      "link": "https://oilprice.com/Energy/Energy-General/China-Doubles-Down-on-Clean-Energy-Even-as-Coal-Keeps-Growing.html",
-      "source": "OilPrice",
-      "date": "Sun, 02 Aug 2026 10:00:00 -0500"
-    },
-    {
-      "title": "Record Vaca Muerta Output Fails to Lift Argentina’s Wider Economy",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Record-Vaca-Muerta-Output-Fails-to-Lift-Argentinas-Wider-Economy.html",
-      "source": "OilPrice",
-      "date": "Sat, 01 Aug 2026 18:00:00 -0500"
-    },
-    {
-      "title": "AI’s Electricity Demand Is Not the Real Problem. Its Inflexibility Is",
-      "link": "https://oilprice.com/Energy/Energy-General/AIs-Electricity-Demand-Is-Not-the-Real-Problem-Its-Inflexibility-Is.html",
-      "source": "OilPrice",
-      "date": "Sat, 01 Aug 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Suriname's $26 Billion Oil Bet Is Finally Paying Off",
-      "link": "https://oilprice.com/Energy/Energy-General/Surinames-26-Billion-Oil-Bet-Is-Finally-Paying-Off.html",
-      "source": "OilPrice",
-      "date": "Sat, 01 Aug 2026 16:00:00 -0500"
     },
     {
       "title": "Hercules hires executive team behind $2B Hudbay deal",
