@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-03T10:08:52+09:00",
+  "run_at_kst": "2026-08-03T14:09:15+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Oil Prices Plunge 5% as Trump Halts Iran Strike Plans",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-5-as-Trump-Halts-Iran-Strike-Plans.html",
+      "source": "OilPrice",
+      "date": "Sun, 02 Aug 2026 22:05:00 -0500"
+    },
     {
       "title": "Saudi Oil Reroutes Hit Capacity and Security Limits",
       "link": "https://oilprice.com/Energy/Crude-Oil/Saudi-Oil-Reroutes-Hit-Capacity-and-Security-Limits.html",
@@ -48,12 +54,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/Surinames-26-Billion-Oil-Bet-Is-Finally-Paying-Off.html",
       "source": "OilPrice",
       "date": "Sat, 01 Aug 2026 16:00:00 -0500"
-    },
-    {
-      "title": "The Controversial Space Mirrors Designed to Boost Solar Power",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Controversial-Space-Mirrors-Designed-to-Boost-Solar-Power.html",
-      "source": "OilPrice",
-      "date": "Sat, 01 Aug 2026 14:00:00 -0500"
     },
     {
       "title": "Hercules hires executive team behind $2B Hudbay deal",
