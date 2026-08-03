@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-03T20:08:27+09:00",
+  "run_at_kst": "2026-08-04T07:08:38+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,52 +8,70 @@
   "count": 14,
   "items": [
     {
-      "title": "India’s Imports of Russian Crude Hit New High in July",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Imports-of-Russian-Crude-Hit-New-High-in-July.html",
+      "title": "Harold Hamm Bets Bigger on Argentina’s Vaca Muerta Shale Boom",
+      "link": "https://oilprice.com/Energy/Energy-General/Harold-Hamm-Bets-Bigger-on-Argentinas-Vaca-Muerta-Shale-Boom.html",
       "source": "OilPrice",
-      "date": "Mon, 03 Aug 2026 05:30:00 -0500"
+      "date": "Mon, 03 Aug 2026 17:00:00 -0500"
     },
     {
-      "title": "BP Completes Sale of German Refinery as Portfolio Overhaul Accelerates",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/BP-Completes-Sale-of-German-Refinery-as-Portfolio-Overhaul-Accelerates.html",
+      "title": "How Geothermal and Nuclear Could Help the U.S. Catch China in the Energy Race",
+      "link": "https://oilprice.com/Energy/Energy-General/How-Geothermal-and-Nuclear-Could-Help-the-US-Catch-China-in-the-Energy-Race.html",
       "source": "OilPrice",
-      "date": "Mon, 03 Aug 2026 04:30:00 -0500"
+      "date": "Mon, 03 Aug 2026 16:00:00 -0500"
     },
     {
-      "title": "Kuwait Oil Production Surges as OPEC+ Completes Output Cut Reversal",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Kuwait-Oil-Production-Surges-as-OPEC-Completes-Output-Cut-Reversal.html",
-      "source": "OilPrice",
-      "date": "Mon, 03 Aug 2026 03:30:00 -0500"
+      "title": "AI boom lifts mining while competing for power",
+      "link": "https://www.mining.com/ai-boom-lifts-mining-while-competing-for-power/",
+      "source": "mining.com",
+      "date": "Mon, 03 Aug 2026 20:29:00 +0000"
     },
     {
-      "title": "India Moves to Rescue Renewable Energy Projects Stalled by Grid Shortages",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Moves-to-Rescue-Renewable-Energy-Projects-Stalled-by-Grid-Shortages.html",
+      "title": "Russia Is Running Out of Soldiers, Oil, and Time",
+      "link": "https://oilprice.com/Energy/Energy-General/Russia-Is-Running-Out-of-Soldiers-Oil-and-Time.html",
       "source": "OilPrice",
-      "date": "Mon, 03 Aug 2026 02:30:00 -0500"
+      "date": "Mon, 03 Aug 2026 15:00:00 -0500"
     },
     {
-      "title": "Greek LNG Ship Safely Clears Hormuz After Maritime Incident",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Greek-LNG-Ship-Safely-Clears-Hormuz-After-Maritime-Incident.html",
+      "title": "Ukraine’s Drone Campaign Drives Russian Oil Refining to 24-Year Low",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraines-Drone-Campaign-Drives-Russian-Oil-Refining-to-24-Year-Low.html",
       "source": "OilPrice",
-      "date": "Mon, 03 Aug 2026 01:30:00 -0500"
+      "date": "Mon, 03 Aug 2026 14:30:00 -0500"
     },
     {
-      "title": "Oil Prices Plunge 5% as Trump Halts Iran Strike Plans",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-5-as-Trump-Halts-Iran-Strike-Plans.html",
+      "title": "Big Oil Companies Report Record Profits Amid High Oil Prices",
+      "link": "https://oilprice.com/Energy/Energy-General/Big-Oil-Companies-Report-Record-Profits-Amid-High-Oil-Prices.html",
       "source": "OilPrice",
-      "date": "Sun, 02 Aug 2026 22:05:00 -0500"
+      "date": "Mon, 03 Aug 2026 14:00:00 -0500"
     },
     {
-      "title": "Saudi Oil Reroutes Hit Capacity and Security Limits",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Saudi-Oil-Reroutes-Hit-Capacity-and-Security-Limits.html",
-      "source": "OilPrice",
-      "date": "Sun, 02 Aug 2026 18:00:00 -0500"
+      "title": "Site visit: Northern Star heralds new era for KCGM as Elliott circles",
+      "link": "https://www.mining.com/site-visit-northern-star-heralds-new-era-for-kcgm-as-elliott-circles/",
+      "source": "mining.com",
+      "date": "Mon, 03 Aug 2026 18:23:29 +0000"
     },
     {
-      "title": "China's Car Market Stalls Even as Global Demand Keeps Growing",
-      "link": "https://oilprice.com/Energy/Energy-General/Chinas-Car-Market-Stalls-Even-as-Global-Demand-Keeps-Growing.html",
+      "title": "Ukrainian Drone Attacks Push Russia's Largest Online Retailer Abroad",
+      "link": "https://oilprice.com/Geopolitics/Europe/Ukrainian-Drone-Attacks-Push-Russias-Largest-Online-Retailer-Abroad.html",
       "source": "OilPrice",
-      "date": "Sun, 02 Aug 2026 14:00:00 -0500"
+      "date": "Mon, 03 Aug 2026 13:00:00 -0500"
+    },
+    {
+      "title": "Trump Orders Oil Companies to Cut Gas Prices, Targets Chevron CEO",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Orders-Oil-Companies-to-Cut-Gas-Prices-Targets-Chevron-CEO.html",
+      "source": "OilPrice",
+      "date": "Mon, 03 Aug 2026 12:30:00 -0500"
+    },
+    {
+      "title": "Why Have China and Russia Just Stepped Out Of The Shadows In The U.S.-Iran War?",
+      "link": "https://oilprice.com/Geopolitics/Middle-East/Why-Have-China-and-Russia-Just-Stepped-Out-Of-The-Shadows-In-The-US-Iran-War.html",
+      "source": "OilPrice",
+      "date": "Mon, 03 Aug 2026 12:00:00 -0500"
+    },
+    {
+      "title": "Dirty gold overtakes cocaine as crime’s cash machine",
+      "link": "https://www.mining.com/dirty-gold-overtakes-cocaine-as-crimes-cash-machine/",
+      "source": "mining.com",
+      "date": "Mon, 03 Aug 2026 10:55:00 +0000"
     },
     {
       "title": "Hercules hires executive team behind $2B Hudbay deal",
@@ -72,24 +90,6 @@
       "link": "https://www.mining.com/gold-price-record-gold-output-record-cost-per-ounce/",
       "source": "mining.com",
       "date": "Fri, 31 Jul 2026 16:01:47 +0000"
-    },
-    {
-      "title": "Op-Ed: Giving credit where it’s due — The US finally gets rare earth strategy",
-      "link": "https://www.mining.com/op-ed-giving-credit-where-its-due-the-us-finally-gets-rare-earth-strategy/",
-      "source": "mining.com",
-      "date": "Fri, 31 Jul 2026 15:17:00 +0000"
-    },
-    {
-      "title": "Séguéla revamp sets up decade of 200,000‑oz production",
-      "link": "https://www.mining.com/seguela-revamp-sets-up-decade-of-200000%e2%80%91oz-production/",
-      "source": "mining.com",
-      "date": "Fri, 31 Jul 2026 14:59:32 +0000"
-    },
-    {
-      "title": "Cameco’s Westinghouse nuclear power venture files for IPO",
-      "link": "https://www.mining.com/camecos-westinghouse-nuclear-power-venture-files-for-ipo/",
-      "source": "mining.com",
-      "date": "Fri, 31 Jul 2026 14:37:12 +0000"
     }
   ]
 }

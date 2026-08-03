@@ -1,10 +1,28 @@
 {
-  "run_at_kst": "2026-08-03T20:08:27+09:00",
+  "run_at_kst": "2026-08-04T07:08:38+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "\"AI 불확실성에 26% 급락\"…홍콩 증시 오히려 웃었다",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91X01XYUZubFQ5T002QU5ZT0c4UTZRNTA1ckZiNFlpQ0xXWW5YVzJ2SUxFYllTXzZqVzg0ZFljdFBtVFRfTExoQThFay1HY2M?oc=5",
+      "source": "v.daum.net",
+      "date": "Mon, 03 Aug 2026 13:21:52 GMT"
+    },
+    {
+      "title": "중국, UNFCCC와 손잡고 개도국 BTR 지원",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZTUdhUUoxcHpIZGhqTnhwM2E4Z0p0Ym9zdWRqYUJqOHEyRHFXazFOU0Qxdll0cThVN1EwNEk1RG50QUdqbWx6MkVCOE1qQms3aG1lODh5dW5WSXBwRElObGM4Q1lLcjQta2FhQQ?oc=5",
+      "source": "ESG경제",
+      "date": "Mon, 03 Aug 2026 11:48:56 GMT"
+    },
+    {
+      "title": "\"누가 사냐\" 무시당했는데...점유율 '8배' 폭발에 중국차 1위도 뛰어든다",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5OeGczek1kNXBxaHFwZ09yNlFfNzFTX01TVng3bzBic21ZQUt4UGJPVnhFZDFXQmxNQjVwajYyQTdPNWRvRlE?oc=5",
+      "source": "v.daum.net",
+      "date": "Mon, 03 Aug 2026 09:06:53 GMT"
+    },
     {
       "title": "[경제] UCBC 회장 \"美 기업, 中 시장∙기업과의 협력에 큰 관심\"",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiTjFrQzhoZUp0MjRkeVBSVUp5MUJrOWNWb0NzaGJiS19BWEhMbkdsVDhjT1dTenBYRXJWRk9YV1VaRTFCSjAxVGU1MTVhWjhQZ0RZMXpCcjNmb2EydzdETXMyNlROWjhtQ3gw?oc=5",
@@ -14,7 +32,7 @@
     {
       "title": "[中 증시 마감] PMI 약세에 하락...정책 호재에 원전 급등",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsQ0xWMlJsSTB4VHZqNVVLQXNnX19wXzQxNjVtd2UxUHZNUkU5MDVMcFNNN2hfNGZpQWFOWUFQRFZOV1lfWDl3VW9ZdGZUNTdnbnNwU1pYVE54d9IBWEFVX3lxTFBDR0FjU09nV0JVU0tvOXpiUEZqYnp5VkFrYkpWSnRhZ3Vwa2M4ZmJjcmFZanF5ZW9rOFNMcUdteVZlT1B3RDBQZVBOVDdJUTdzMHJydmtYWDc?oc=5",
-      "source": "ajunews.com",
+      "source": "아주경제",
       "date": "Mon, 03 Aug 2026 07:12:25 GMT"
     },
     {
@@ -22,12 +40,6 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XbUxnYjdScnVrWEdHYUF0dW5oVy0xWXI0LU1wNlZGa2tzWGJreUdRbkVQOGRwcTBzbFp1Y0NrNG01b0lmSmtsdEpvSVhNelJvR1dnTHczQzluOWvSAWBBVV95cUxOa3hYRkM2Y0JOcW5CZnowSk9mM0g4allJZmVhNVhNNENIRy1Tb0wtYWNRMjF6WTNYcWs4MXdDRS1mTmg4WGhRcVZKbFBCN1NRQVVtUVVyY2VNNFRidURuN2w?oc=5",
       "source": "연합뉴스",
       "date": "Mon, 03 Aug 2026 02:00:49 GMT"
-    },
-    {
-      "title": "'토큰 경제' 한눈에...'2026 중국 국제빅데이터산업박람회' 내달 中 구이양에서 개막-Xinhua",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqZjQtbzdTX0xvRHotX01RRHJvRDEyT2JzZW1OZml6R0FEbUI5V0RnU21KOEtvQUczOC05OHQyVFhVeVp2TEU0c1ZiZzIwdmF1MmF0Q3JVN3FnRmpnVktwM1dIV0VKSE9mS0l3bXA1eUNJeE5X?oc=5",
-      "source": "신화망",
-      "date": "Mon, 03 Aug 2026 00:53:36 GMT"
     },
     {
       "title": "중국, 미·EU 무역협상 앞두고 경제모델 '레드라인' 제시…\"산업 중심 성장 유지\"",
@@ -38,7 +50,7 @@
     {
       "title": "중국 첨단 제조업 중심의 경제 모델 고수, 미·EU 통상 압박 정면 대응",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM2diMTQyLUZFM1BzNDJEdVhjczljSzF0ZTJRLXR1bnhSYWhyQVAyZWQwbWpaSGtlcG1zSFhEY1Jxd0NBbUpTSGhOLV9QRGxyNFNsWnMtcmhOdW1wNUhsVF83VDdiS0Y2dWVqZXY1WUVwTjh4YVpNU0NhMzBuWllVbFhXOUxnZmZy?oc=5",
-      "source": "g-enews.com",
+      "source": "글로벌이코노믹",
       "date": "Sun, 02 Aug 2026 21:11:19 GMT"
     },
     {
@@ -58,18 +70,6 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aR3lvV1haWk9ycWo4dWs1R3d1MFowZ244OWIwQXhFTWd6MEQ5b1R1OEJIam1iMnVoNkpjMGo5WlZqRDVURERaX1B5SkxRMGVQbFk5cnFCOTVJSmZudjVHMkJVaDFSYWVoS05z?oc=5",
       "source": "제주의소리",
       "date": "Sat, 01 Aug 2026 01:00:00 GMT"
-    },
-    {
-      "title": "중국, 대규모 경기부양 신중모드 속 제조업 다시 ‘위축’ 국면",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yZWF5ajRVa2tBakNXN0tJSk5lTjF6Ylk3c2pVSVF2VGdoX3p3enh4YVhVcnQ5aS1veXdkYkhTQ0tNWEJCNWhoOXZLRkFIelZXM1Y3ZU9hYm11Y0J4SGtCZW1SRU9vd2pDZDZfRw?oc=5",
-      "source": "한겨레",
-      "date": "Fri, 31 Jul 2026 08:20:00 GMT"
-    },
-    {
-      "title": "다롄항에 줄 선 북한 화물선…무너지는 대북 제재, 커지는 중국 의존",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5bmhja0JjWjd5cUFiUG9RcWVHUHBfZXdiT1l1OF9oWXEybWpjUTB5dXZiWTlOdDJHdW9ZUS04TmtXSERuQ3JQVG44V2VLY2J2RVhFdGZ2N1RJV2FNNHo3MHVDZDFwTTQ5RGJn?oc=5",
-      "source": "프레시안",
-      "date": "Thu, 30 Jul 2026 13:16:21 GMT"
     },
     {
       "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
