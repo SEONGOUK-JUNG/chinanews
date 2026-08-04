@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-04T07:08:38+09:00",
+  "run_at_kst": "2026-08-04T10:08:26+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,24 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Canada can double uranium exports by 2035, but execution remains biggest risk, Marsh says",
+      "link": "https://www.mining.com/canada-can-double-uranium-exports-by-2035-but-execution-remains-biggest-risk-marsh-says/",
+      "source": "mining.com",
+      "date": "Tue, 04 Aug 2026 00:14:14 +0000"
+    },
+    {
+      "title": "How Namibia Pulled Ahead In Africa’s Hottest Offshore Oil Basin",
+      "link": "https://oilprice.com/Energy/Energy-General/How-Namibia-Pulled-Ahead-In-Africas-Hottest-Offshore-Oil-Basin.html",
+      "source": "OilPrice",
+      "date": "Mon, 03 Aug 2026 19:00:00 -0500"
+    },
+    {
+      "title": "Big Oil Warns Global Fuel Stocks Are Running Dangerously Low",
+      "link": "https://oilprice.com/Energy/Energy-General/Big-Oil-Warns-Global-Fuel-Stocks-Are-Running-Dangerously-Low.html",
+      "source": "OilPrice",
+      "date": "Mon, 03 Aug 2026 18:00:00 -0500"
+    },
     {
       "title": "Harold Hamm Bets Bigger on Argentina’s Vaca Muerta Shale Boom",
       "link": "https://oilprice.com/Energy/Energy-General/Harold-Hamm-Bets-Bigger-on-Argentinas-Vaca-Muerta-Shale-Boom.html",
@@ -56,18 +74,6 @@
       "date": "Mon, 03 Aug 2026 13:00:00 -0500"
     },
     {
-      "title": "Trump Orders Oil Companies to Cut Gas Prices, Targets Chevron CEO",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Orders-Oil-Companies-to-Cut-Gas-Prices-Targets-Chevron-CEO.html",
-      "source": "OilPrice",
-      "date": "Mon, 03 Aug 2026 12:30:00 -0500"
-    },
-    {
-      "title": "Why Have China and Russia Just Stepped Out Of The Shadows In The U.S.-Iran War?",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/Why-Have-China-and-Russia-Just-Stepped-Out-Of-The-Shadows-In-The-US-Iran-War.html",
-      "source": "OilPrice",
-      "date": "Mon, 03 Aug 2026 12:00:00 -0500"
-    },
-    {
       "title": "Dirty gold overtakes cocaine as crime’s cash machine",
       "link": "https://www.mining.com/dirty-gold-overtakes-cocaine-as-crimes-cash-machine/",
       "source": "mining.com",
@@ -84,12 +90,6 @@
       "link": "https://www.mining.com/equinox-hands-ceo-job-to-orlas-simpson/",
       "source": "mining.com",
       "date": "Fri, 31 Jul 2026 19:52:00 +0000"
-    },
-    {
-      "title": "Gold price: record gold output, record cost per ounce",
-      "link": "https://www.mining.com/gold-price-record-gold-output-record-cost-per-ounce/",
-      "source": "mining.com",
-      "date": "Fri, 31 Jul 2026 16:01:47 +0000"
     }
   ]
 }
