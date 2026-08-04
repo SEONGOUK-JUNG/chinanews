@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-08-04T20:08:55+09:00",
+  "run_at_kst": "2026-08-05T07:09:01+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "[경제직필]한국 앞에 다가온 ‘중국 쇼크 2.0’",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtcXR4eDZQN2VIRTg2YUdwS0hXMEMzeGM5RTZkSHdvdEc4YmJLZy1JWUE2LW1YVE9USG96LUZUWjZ5aWlQTHlRaDRGcHhTS2ZnMEJIVmNXX1BrUdIBX0FVX3lxTFBxa182WnhkUFd0OXR5TEpmdlRWVHVuS1dNcmdDbVRMLW5SWE9ZU281Vk03SzlsSHlzbDY1RU5qZWN0NWNOSDRqSGxybmtBRFViZl9mcWg2VDllcXdvZ0pj?oc=5",
+      "source": "경향신문",
+      "date": "Tue, 04 Aug 2026 11:18:00 GMT"
+    },
     {
       "title": "중국의 저가매수에 금값 지지…4000달러 웃돌아",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIZDBoS2VSODhKNnZFNjJnWkY0dG5JSVRVcEFZa0pHR3lBamlfc3lwLVI1elcweHRZLTZXbm9qd3M5MXZyLXVpWFgzdmpFZTQ?oc=5",
@@ -18,16 +24,10 @@
       "date": "Tue, 04 Aug 2026 00:43:00 GMT"
     },
     {
-      "title": "'판호' 빗장 풀리자…중국으로 달려가는 K게임들",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RVVZWUGEzM1Z4NTYtelc0YTZoUFBibC03RDJiZ1R1RVNfX0kycUNUUUNiUVRBUDY0NzZCeXVLOHRfaTliZmdnRFdFX2UtZnBGZTBJSjVnZ2JpRmJBazM1MEZTcTd6OVpZ?oc=5",
-      "source": "동행일보",
-      "date": "Tue, 04 Aug 2026 00:02:00 GMT"
-    },
-    {
-      "title": "중국 제조업 둔화…수출 버팀목도 흔들리며 경기 둔화 신호 강화",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81MVRNNGFfenphMzdtdW1pUF90RTVTSm1zX2dDOXJiQ3BBbldYWlNid1BFZDNNUkZuUnB0Ti04aHJUd3JfbFVNOW10Q0gtS1hHOEVxMGE1WmJTUWpJRFE?oc=5",
-      "source": "theguru.co.kr",
-      "date": "Mon, 03 Aug 2026 23:28:23 GMT"
+      "title": "[하현옥의 세계경제전망] 중국 ‘소주성’ 5개년 계획…걸림돌은 ‘K자형 양극화’",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UZzQwSHZrbkdKdWs3Rks5bkc1X01Eczh3Z1RBWkhLVjhzLVpTcUNGZjcwbmZyTFRjLWk0TGhlZ0t1Z3d6d09UVElJZmRNOXVGbE5rU0dfS0VHUGZIYlFySGln?oc=5",
+      "source": "미주중앙일보",
+      "date": "Mon, 03 Aug 2026 15:14:00 GMT"
     },
     {
       "title": "[中 증시 마감] PMI 약세에 하락...정책 호재에 원전 급등",
@@ -36,9 +36,15 @@
       "date": "Mon, 03 Aug 2026 07:12:25 GMT"
     },
     {
+      "title": "中, 3분기에 금리 인하할까…인민은행 \"유동성 충분히 유지\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XbUxnYjdScnVrWEdHYUF0dW5oVy0xWXI0LU1wNlZGa2tzWGJreUdRbkVQOGRwcTBzbFp1Y0NrNG01b0lmSmtsdEpvSVhNelJvR1dnTHczQzluOWvSAWBBVV95cUxOa3hYRkM2Y0JOcW5CZnowSk9mM0g4allJZmVhNVhNNENIRy1Tb0wtYWNRMjF6WTNYcWs4MXdDRS1mTmg4WGhRcVZKbFBCN1NRQVVtUVVyY2VNNFRidURuN2w?oc=5",
+      "source": "연합뉴스",
+      "date": "Mon, 03 Aug 2026 02:00:49 GMT"
+    },
+    {
       "title": "중국, 미·EU 무역협상 앞두고 경제모델 '레드라인' 제시…\"산업 중심 성장 유지\"",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TYy04bVJfX1FPVjFWbkdXZzVNeTB4dHJwT2MxWkowWGJubHBhUHpoSDN3Yms4dy1McjU5SElhZ2RaNDJyUG9SbzFhdmFGX1JHQzYxaWVFZm91dEtWMV9KcFptYw?oc=5",
-      "source": "theguru.co.kr",
+      "source": "더구루",
       "date": "Sun, 02 Aug 2026 23:47:59 GMT"
     },
     {
@@ -54,22 +60,16 @@
       "date": "Sun, 02 Aug 2026 10:54:00 GMT"
     },
     {
+      "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Sat, 01 Aug 2026 07:00:00 GMT"
+    },
+    {
       "title": "美, 신장 강제노동 이유로 中기업 추가 제재…중국 “경제 강압”",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NRXV4Z09XdGZodm51c3JaYUNVVU80R3k5T0lzUXRWdTlFZjdJSlpsdWtUSU9IcXlaNDRHdmtrZkpmTThZQWtZWjlkR1JhbV9BQUVpcFJR?oc=5",
       "source": "헤럴드경제",
       "date": "Sat, 01 Aug 2026 05:09:05 GMT"
-    },
-    {
-      "title": "청년세대 극우화, 기성세대의 무능과 부조리 때문일까",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aR3lvV1haWk9ycWo4dWs1R3d1MFowZ244OWIwQXhFTWd6MEQ5b1R1OEJIam1iMnVoNkpjMGo5WlZqRDVURERaX1B5SkxRMGVQbFk5cnFCOTVJSmZudjVHMkJVaDFSYWVoS05z?oc=5",
-      "source": "제주의소리",
-      "date": "Sat, 01 Aug 2026 01:00:00 GMT"
-    },
-    {
-      "title": "중국경제원탁회의 \"IMF, 中 성장률 상향 조정...첨단 제조 등 신동력 견인\"-Xinhua",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zaVJET0NoMTBZUEZzNlZLdGpzSnN5ZTFVRUloYVAzNm85azRDb3dmTkN4SFJEbGNjM3BtcjBPbW85N0ZEenppZF83b3VxZHV1ZUJGMFlveHU0eHoyemRXVlRMdDZKOXRHQnNsZlRWZTl6dll4V2c?oc=5",
-      "source": "신화망",
-      "date": "Thu, 30 Jul 2026 00:17:57 GMT"
     },
     {
       "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",

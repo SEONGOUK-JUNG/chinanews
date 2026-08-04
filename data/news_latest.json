@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-04T20:08:55+09:00",
+  "run_at_kst": "2026-08-05T07:09:01+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
-      "title": "BP Earnings Surge to $5.7 Billion on Oil Price and Refining Boom",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/BP-Earnings-Surge-to-57-Billion-on-Oil-Price-and-Refining-Boom.html",
+      "title": "U.S. Hits New Obstacle on Critical Mineral Security Course",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Hits-New-Obstacle-on-Critical-Mineral-Security-Course.html",
       "source": "OilPrice",
-      "date": "Tue, 04 Aug 2026 05:30:00 -0500"
+      "date": "Tue, 04 Aug 2026 17:00:00 -0500"
     },
     {
-      "title": "Saudi Aramco’s Adjusted Profit Jumps 33% as Oil Prices Surge",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramcos-Adjusted-Profit-Jumps-33-as-Oil-Prices-Surge.html",
+      "title": "Fishlike Nanorobots Could Become America’s Answer to China’s Lithium Grip",
+      "link": "https://oilprice.com/Metals/Commodities/Fishlike-Nanorobots-Could-Become-Americas-Answer-to-Chinas-Lithium-Grip.html",
       "source": "OilPrice",
-      "date": "Tue, 04 Aug 2026 04:30:00 -0500"
+      "date": "Tue, 04 Aug 2026 16:00:00 -0500"
     },
     {
-      "title": "Germany’s Energy Demand Falls as High Prices Hit Oil Consumption",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Germanys-Energy-Demand-Falls-as-High-Prices-Hit-Oil-Consumption.html",
+      "title": "US Crude Oil Inventories Build As Washington Talks Up Potential Peace Deal",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Build-As-Washington-Talks-Up-Potential-Peace-Deal.html",
       "source": "OilPrice",
-      "date": "Tue, 04 Aug 2026 03:15:00 -0500"
+      "date": "Tue, 04 Aug 2026 15:44:00 -0500"
     },
     {
-      "title": "Tanker Traffic Remains Subdued Despite Trump’s Talk of Peace",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Tanker-Traffic-Remains-Subdued-Despite-Trumps-Talk-of-Peace.html",
-      "source": "OilPrice",
-      "date": "Tue, 04 Aug 2026 01:45:00 -0500"
-    },
-    {
-      "title": "Venezuela’s Oil Exports Fall Even as U.S. Shipments Hit Seven-Year High",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Venezuelas-Oil-Exports-Fall-Even-as-US-Shipments-Hit-Seven-Year-High.html",
-      "source": "OilPrice",
-      "date": "Tue, 04 Aug 2026 00:30:00 -0500"
-    },
-    {
-      "title": "Canada can double uranium exports by 2035, but execution remains biggest risk, Marsh says",
-      "link": "https://www.mining.com/canada-can-double-uranium-exports-by-2035-but-execution-remains-biggest-risk-marsh-says/",
+      "title": "Artemis Gold’s Blackwater mill bill balloons",
+      "link": "https://www.mining.com/artemis-golds-blackwater-mill-bill-balloons/",
       "source": "mining.com",
-      "date": "Tue, 04 Aug 2026 00:14:14 +0000"
+      "date": "Tue, 04 Aug 2026 20:33:00 +0000"
     },
     {
-      "title": "How Namibia Pulled Ahead In Africa’s Hottest Offshore Oil Basin",
-      "link": "https://oilprice.com/Energy/Energy-General/How-Namibia-Pulled-Ahead-In-Africas-Hottest-Offshore-Oil-Basin.html",
+      "title": "Fremont NPV jumps 101% in Stormlands model",
+      "link": "https://www.mining.com/fremont-npv-jumps-101-in-stormlands-model/",
+      "source": "mining.com",
+      "date": "Tue, 04 Aug 2026 20:22:00 +0000"
+    },
+    {
+      "title": "China's EV Boom Is Quietly Undermining Oil's Biggest Chokepoint",
+      "link": "https://oilprice.com/Energy/Energy-General/Chinas-EV-Boom-Is-Quietly-Undermining-Oils-Biggest-Chokepoint.html",
       "source": "OilPrice",
-      "date": "Mon, 03 Aug 2026 19:00:00 -0500"
+      "date": "Tue, 04 Aug 2026 15:00:00 -0500"
     },
     {
-      "title": "Big Oil Warns Global Fuel Stocks Are Running Dangerously Low",
-      "link": "https://oilprice.com/Energy/Energy-General/Big-Oil-Warns-Global-Fuel-Stocks-Are-Running-Dangerously-Low.html",
+      "title": "Lion Copper’s Yerington now ranks among Nevada’s largest red metal deposits",
+      "link": "https://www.mining.com/lion-coppers-yerington-now-ranks-among-nevadas-largest-red-metal-deposits/",
+      "source": "mining.com",
+      "date": "Tue, 04 Aug 2026 19:51:00 +0000"
+    },
+    {
+      "title": "Pakistan Bets on Security and Trade as Ties with Iran Grow",
+      "link": "https://oilprice.com/Geopolitics/Middle-East/Pakistan-Bets-on-Security-and-Trade-as-Ties-with-Iran-Grow.html",
       "source": "OilPrice",
-      "date": "Mon, 03 Aug 2026 18:00:00 -0500"
+      "date": "Tue, 04 Aug 2026 14:00:00 -0500"
     },
     {
-      "title": "Harold Hamm Bets Bigger on Argentina’s Vaca Muerta Shale Boom",
-      "link": "https://oilprice.com/Energy/Energy-General/Harold-Hamm-Bets-Bigger-on-Argentinas-Vaca-Muerta-Shale-Boom.html",
+      "title": "Oil Markets Price In an Iran Deal That Does Not Exist Yet",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Markets-Price-In-an-Iran-Deal-That-Does-Not-Exist-Yet.html",
       "source": "OilPrice",
-      "date": "Mon, 03 Aug 2026 17:00:00 -0500"
+      "date": "Tue, 04 Aug 2026 13:19:00 -0500"
     },
     {
-      "title": "AI boom lifts mining while competing for power",
-      "link": "https://www.mining.com/ai-boom-lifts-mining-while-competing-for-power/",
-      "source": "mining.com",
-      "date": "Mon, 03 Aug 2026 20:29:00 +0000"
+      "title": "New Agreements Advance Central Asia’s Middle Corridor Ambitions",
+      "link": "https://oilprice.com/Energy/Energy-General/New-Agreements-Advance-Central-Asias-Middle-Corridor-Ambitions.html",
+      "source": "OilPrice",
+      "date": "Tue, 04 Aug 2026 13:00:00 -0500"
     },
     {
-      "title": "Site visit: Northern Star heralds new era for KCGM as Elliott circles",
-      "link": "https://www.mining.com/site-visit-northern-star-heralds-new-era-for-kcgm-as-elliott-circles/",
+      "title": "How war in Myanmar is driving a deadly rare earth mining boom",
+      "link": "https://www.mining.com/how-war-in-myanmar-is-driving-a-deadly-rare-earth-mining-boom/",
       "source": "mining.com",
-      "date": "Mon, 03 Aug 2026 18:23:29 +0000"
+      "date": "Tue, 04 Aug 2026 17:10:14 +0000"
     },
     {
-      "title": "Dirty gold overtakes cocaine as crime’s cash machine",
-      "link": "https://www.mining.com/dirty-gold-overtakes-cocaine-as-crimes-cash-machine/",
-      "source": "mining.com",
-      "date": "Mon, 03 Aug 2026 10:55:00 +0000"
+      "title": "The Cold War Roots of Colombia’s Paramilitary Death Squads",
+      "link": "https://oilprice.com/Geopolitics/South-America/The-Cold-War-Roots-of-Colombias-Paramilitary-Death-Squads.html",
+      "source": "OilPrice",
+      "date": "Tue, 04 Aug 2026 12:00:00 -0500"
     },
     {
-      "title": "Hercules hires executive team behind $2B Hudbay deal",
-      "link": "https://www.mining.com/hercules-hires-executive-team-behind-2b-hudbay-deal/",
+      "title": "LBMA suspends Shandong Gold refinery over US labour list",
+      "link": "https://www.mining.com/lbma-suspends-shandong-gold-refinery-over-us-labour-list/",
       "source": "mining.com",
-      "date": "Fri, 31 Jul 2026 22:30:00 +0000"
+      "date": "Tue, 04 Aug 2026 16:01:00 +0000"
     },
     {
-      "title": "Equinox hands CEO job to Orla’s Simpson",
-      "link": "https://www.mining.com/equinox-hands-ceo-job-to-orlas-simpson/",
+      "title": "Largest US tungsten discovery hits NASA roadblock",
+      "link": "https://www.mining.com/largest-us-tungsten-discovery-hits-nasa-roadblock/",
       "source": "mining.com",
-      "date": "Fri, 31 Jul 2026 19:52:00 +0000"
+      "date": "Tue, 04 Aug 2026 13:59:00 +0000"
     }
   ]
 }
