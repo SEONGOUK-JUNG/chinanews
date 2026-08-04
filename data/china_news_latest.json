@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-04T10:08:26+09:00",
+  "run_at_kst": "2026-08-04T14:03:34+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -24,10 +24,10 @@
       "date": "Mon, 03 Aug 2026 23:28:23 GMT"
     },
     {
-      "title": "중국·아세안 관계 핵심 기조는 공동발전과 실질 협력",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Rdk5meWhMeTZqRkFWSDI3ZS12LWwzMUx3LV9lTjFzRnZYc1JCdk9fUmUwbl8tSV9oT1lRTlJyMDJpSERXcF9fX1hQMVlpS2ppQ0p5bHJ4dDhXSEZDUS1VNHV2TFRucEh4TzBV?oc=5",
-      "source": "시사주간",
-      "date": "Mon, 03 Aug 2026 20:35:00 GMT"
+      "title": "중국, UNFCCC와 손잡고 개도국 BTR 지원",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZTUdhUUoxcHpIZGhqTnhwM2E4Z0p0Ym9zdWRqYUJqOHEyRHFXazFOU0Qxdll0cThVN1EwNEk1RG50QUdqbWx6MkVCOE1qQms3aG1lODh5dW5WSXBwRElObGM4Q1lLcjQta2FhQQ?oc=5",
+      "source": "ESG경제",
+      "date": "Mon, 03 Aug 2026 11:48:56 GMT"
     },
     {
       "title": "\"누가 사냐\" 무시당했는데...점유율 '8배' 폭발에 중국차 1위도 뛰어든다",
@@ -42,12 +42,6 @@
       "date": "Mon, 03 Aug 2026 07:12:25 GMT"
     },
     {
-      "title": "[칩워 3년]①크리스 밀러 \"한국 반도체 기업의 가장 큰 도전은 중국 추격\"",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBtYzRUQ0RRMTBVRlY2RjlYT0FWa3BMOXR3ZlhUNlpGSkEtZ3BqTmR2a1Rpel9vOEZyQTg5bHE0V1NCN2hFSnc?oc=5",
-      "source": "v.daum.net",
-      "date": "Mon, 03 Aug 2026 01:03:51 GMT"
-    },
-    {
       "title": "중국, 미·EU 무역협상 앞두고 경제모델 '레드라인' 제시…\"산업 중심 성장 유지\"",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TYy04bVJfX1FPVjFWbkdXZzVNeTB4dHJwT2MxWkowWGJubHBhUHpoSDN3Yms4dy1McjU5SElhZ2RaNDJyUG9SbzFhdmFGX1JHQzYxaWVFZm91dEtWMV9KcFptYw?oc=5",
       "source": "더구루",
@@ -60,16 +54,22 @@
       "date": "Sun, 02 Aug 2026 21:11:19 GMT"
     },
     {
-      "title": "중·몽·러 경제회랑의 교훈 [세상읽기]",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43VUNqamU0cW02WHlBd2VyWVFwODMxR2hFdndHQnB5b0hjYmljOXZMMWcyLXpVNXlaWG02WGsxZl9kM1d6WFdPdVFQVmU1alNxcEZKTHpwTTctdXcyTXh5TlNCZ2gxUQ?oc=5",
-      "source": "한겨레",
-      "date": "Sun, 02 Aug 2026 10:54:00 GMT"
+      "title": "美, 신장 강제노동 이유로 中기업 추가 제재…중국 “경제 강압”",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NRXV4Z09XdGZodm51c3JaYUNVVU80R3k5T0lzUXRWdTlFZjdJSlpsdWtUSU9IcXlaNDRHdmtrZkpmTThZQWtZWjlkR1JhbV9BQUVpcFJR?oc=5",
+      "source": "헤럴드경제",
+      "date": "Sat, 01 Aug 2026 05:09:05 GMT"
     },
     {
       "title": "청년세대 극우화, 기성세대의 무능과 부조리 때문일까",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aR3lvV1haWk9ycWo4dWs1R3d1MFowZ244OWIwQXhFTWd6MEQ5b1R1OEJIam1iMnVoNkpjMGo5WlZqRDVURERaX1B5SkxRMGVQbFk5cnFCOTVJSmZudjVHMkJVaDFSYWVoS05z?oc=5",
       "source": "제주의소리",
       "date": "Sat, 01 Aug 2026 01:00:00 GMT"
+    },
+    {
+      "title": "중국경제원탁회의 \"IMF, 中 성장률 상향 조정...첨단 제조 등 신동력 견인\"-Xinhua",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zaVJET0NoMTBZUEZzNlZLdGpzSnN5ZTFVRUloYVAzNm85azRDb3dmTkN4SFJEbGNjM3BtcjBPbW85N0ZEenppZF83b3VxZHV1ZUJGMFlveHU0eHoyemRXVlRMdDZKOXRHQnNsZlRWZTl6dll4V2c?oc=5",
+      "source": "신화망",
+      "date": "Thu, 30 Jul 2026 00:17:57 GMT"
     },
     {
       "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
