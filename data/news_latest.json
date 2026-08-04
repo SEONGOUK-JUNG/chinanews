@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-04T10:08:26+09:00",
+  "run_at_kst": "2026-08-04T20:08:55+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "BP Earnings Surge to $5.7 Billion on Oil Price and Refining Boom",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/BP-Earnings-Surge-to-57-Billion-on-Oil-Price-and-Refining-Boom.html",
+      "source": "OilPrice",
+      "date": "Tue, 04 Aug 2026 05:30:00 -0500"
+    },
+    {
+      "title": "Saudi Aramco’s Adjusted Profit Jumps 33% as Oil Prices Surge",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramcos-Adjusted-Profit-Jumps-33-as-Oil-Prices-Surge.html",
+      "source": "OilPrice",
+      "date": "Tue, 04 Aug 2026 04:30:00 -0500"
+    },
+    {
+      "title": "Germany’s Energy Demand Falls as High Prices Hit Oil Consumption",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Germanys-Energy-Demand-Falls-as-High-Prices-Hit-Oil-Consumption.html",
+      "source": "OilPrice",
+      "date": "Tue, 04 Aug 2026 03:15:00 -0500"
+    },
+    {
+      "title": "Tanker Traffic Remains Subdued Despite Trump’s Talk of Peace",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Tanker-Traffic-Remains-Subdued-Despite-Trumps-Talk-of-Peace.html",
+      "source": "OilPrice",
+      "date": "Tue, 04 Aug 2026 01:45:00 -0500"
+    },
+    {
+      "title": "Venezuela’s Oil Exports Fall Even as U.S. Shipments Hit Seven-Year High",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Venezuelas-Oil-Exports-Fall-Even-as-US-Shipments-Hit-Seven-Year-High.html",
+      "source": "OilPrice",
+      "date": "Tue, 04 Aug 2026 00:30:00 -0500"
+    },
     {
       "title": "Canada can double uranium exports by 2035, but execution remains biggest risk, Marsh says",
       "link": "https://www.mining.com/canada-can-double-uranium-exports-by-2035-but-execution-remains-biggest-risk-marsh-says/",
@@ -32,46 +62,16 @@
       "date": "Mon, 03 Aug 2026 17:00:00 -0500"
     },
     {
-      "title": "How Geothermal and Nuclear Could Help the U.S. Catch China in the Energy Race",
-      "link": "https://oilprice.com/Energy/Energy-General/How-Geothermal-and-Nuclear-Could-Help-the-US-Catch-China-in-the-Energy-Race.html",
-      "source": "OilPrice",
-      "date": "Mon, 03 Aug 2026 16:00:00 -0500"
-    },
-    {
       "title": "AI boom lifts mining while competing for power",
       "link": "https://www.mining.com/ai-boom-lifts-mining-while-competing-for-power/",
       "source": "mining.com",
       "date": "Mon, 03 Aug 2026 20:29:00 +0000"
     },
     {
-      "title": "Russia Is Running Out of Soldiers, Oil, and Time",
-      "link": "https://oilprice.com/Energy/Energy-General/Russia-Is-Running-Out-of-Soldiers-Oil-and-Time.html",
-      "source": "OilPrice",
-      "date": "Mon, 03 Aug 2026 15:00:00 -0500"
-    },
-    {
-      "title": "Ukraine’s Drone Campaign Drives Russian Oil Refining to 24-Year Low",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraines-Drone-Campaign-Drives-Russian-Oil-Refining-to-24-Year-Low.html",
-      "source": "OilPrice",
-      "date": "Mon, 03 Aug 2026 14:30:00 -0500"
-    },
-    {
-      "title": "Big Oil Companies Report Record Profits Amid High Oil Prices",
-      "link": "https://oilprice.com/Energy/Energy-General/Big-Oil-Companies-Report-Record-Profits-Amid-High-Oil-Prices.html",
-      "source": "OilPrice",
-      "date": "Mon, 03 Aug 2026 14:00:00 -0500"
-    },
-    {
       "title": "Site visit: Northern Star heralds new era for KCGM as Elliott circles",
       "link": "https://www.mining.com/site-visit-northern-star-heralds-new-era-for-kcgm-as-elliott-circles/",
       "source": "mining.com",
       "date": "Mon, 03 Aug 2026 18:23:29 +0000"
-    },
-    {
-      "title": "Ukrainian Drone Attacks Push Russia's Largest Online Retailer Abroad",
-      "link": "https://oilprice.com/Geopolitics/Europe/Ukrainian-Drone-Attacks-Push-Russias-Largest-Online-Retailer-Abroad.html",
-      "source": "OilPrice",
-      "date": "Mon, 03 Aug 2026 13:00:00 -0500"
     },
     {
       "title": "Dirty gold overtakes cocaine as crime’s cash machine",
