@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-05T10:14:00+09:00",
+  "run_at_kst": "2026-08-05T20:08:34+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "U.S. Moves to Keep Tungsten Scrap and Battery Metals at Home",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Moves-to-Keep-Tungsten-Scrap-and-Battery-Metals-at-Home.html",
+      "source": "OilPrice",
+      "date": "Wed, 05 Aug 2026 05:30:00 -0500"
+    },
+    {
+      "title": "Red Sea Attack Sinks India-Flagged Cargo Vessel Off Yemen",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Red-Sea-Attack-Sinks-India-Flagged-Cargo-Vessel-Off-Yemen.html",
+      "source": "OilPrice",
+      "date": "Wed, 05 Aug 2026 04:30:00 -0500"
+    },
+    {
+      "title": "China’s Power Demand Hits Records as Heatwave Grips Key Regions",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Power-Demand-Hits-Records-as-Heatwave-Grips-Key-Regions.html",
+      "source": "OilPrice",
+      "date": "Wed, 05 Aug 2026 03:30:00 -0500"
+    },
+    {
+      "title": "China Eases Fuel Export Curbs as Global Supply Crunch Deepens",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Eases-Fuel-Export-Curbs-as-Global-Supply-Crunch-Deepens.html",
+      "source": "OilPrice",
+      "date": "Wed, 05 Aug 2026 02:15:00 -0500"
+    },
+    {
+      "title": "Hormuz Tanker Traffic Remains Subdued Despite Reports of Peace Talks",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Traffic-Remains-Subdued-Despite-Reports-of-Peace-Talks.html",
+      "source": "OilPrice",
+      "date": "Wed, 05 Aug 2026 01:00:00 -0500"
+    },
     {
       "title": "Middle East War Triggers New Global Refining Boom",
       "link": "https://oilprice.com/Energy/Energy-General/Middle-East-War-Triggers-New-Global-Refining-Boom.html",
@@ -26,18 +56,6 @@
       "date": "Tue, 04 Aug 2026 17:00:00 -0500"
     },
     {
-      "title": "Fishlike Nanorobots Could Become America’s Answer to China’s Lithium Grip",
-      "link": "https://oilprice.com/Metals/Commodities/Fishlike-Nanorobots-Could-Become-Americas-Answer-to-Chinas-Lithium-Grip.html",
-      "source": "OilPrice",
-      "date": "Tue, 04 Aug 2026 16:00:00 -0500"
-    },
-    {
-      "title": "US Crude Oil Inventories Build As Washington Talks Up Potential Peace Deal",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Build-As-Washington-Talks-Up-Potential-Peace-Deal.html",
-      "source": "OilPrice",
-      "date": "Tue, 04 Aug 2026 15:44:00 -0500"
-    },
-    {
       "title": "Artemis Gold’s Blackwater mill bill balloons",
       "link": "https://www.mining.com/artemis-golds-blackwater-mill-bill-balloons/",
       "source": "mining.com",
@@ -50,28 +68,10 @@
       "date": "Tue, 04 Aug 2026 20:22:00 +0000"
     },
     {
-      "title": "China's EV Boom Is Quietly Undermining Oil's Biggest Chokepoint",
-      "link": "https://oilprice.com/Energy/Energy-General/Chinas-EV-Boom-Is-Quietly-Undermining-Oils-Biggest-Chokepoint.html",
-      "source": "OilPrice",
-      "date": "Tue, 04 Aug 2026 15:00:00 -0500"
-    },
-    {
       "title": "Lion Copper’s Yerington now ranks among Nevada’s largest red metal deposits",
       "link": "https://www.mining.com/lion-coppers-yerington-now-ranks-among-nevadas-largest-red-metal-deposits/",
       "source": "mining.com",
       "date": "Tue, 04 Aug 2026 19:51:00 +0000"
-    },
-    {
-      "title": "Pakistan Bets on Security and Trade as Ties with Iran Grow",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/Pakistan-Bets-on-Security-and-Trade-as-Ties-with-Iran-Grow.html",
-      "source": "OilPrice",
-      "date": "Tue, 04 Aug 2026 14:00:00 -0500"
-    },
-    {
-      "title": "Oil Markets Price In an Iran Deal That Does Not Exist Yet",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Markets-Price-In-an-Iran-Deal-That-Does-Not-Exist-Yet.html",
-      "source": "OilPrice",
-      "date": "Tue, 04 Aug 2026 13:19:00 -0500"
     },
     {
       "title": "How war in Myanmar is driving a deadly rare earth mining boom",

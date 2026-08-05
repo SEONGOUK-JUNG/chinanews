@@ -1,26 +1,32 @@
 {
-  "run_at_kst": "2026-08-05T14:08:14+09:00",
+  "run_at_kst": "2026-08-05T20:08:34+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "다리 달고 팔 뻗는 로봇청소기…글로벌 70% 싹쓸이",
+      "title": "[경제] 말레이 학자 \"아세안·중국 협력 강화, 지정학적 충격 대응력 높인다\"",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lYmUza1VhTGItaUJlelJrZ1IwTEo3Vl9YUi15Z0ZNUFdmTGczOU5lb2licV9ucHptTnlzdHVVMTZCOEdpa25NT3ctRWtsNG9ISEpkbjZfdTA3X3lRN09DQ2NSU2xLb3pTbHNr?oc=5",
+      "source": "서울뉴스통신",
+      "date": "Wed, 05 Aug 2026 06:59:26 GMT"
+    },
+    {
+      "title": "\"비싸도 산다\"…글로벌에서도 중국 이모님 통했다",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PdzEtNWZtN2FWVWNKdkR3VzdJRmdURmFiWnhUNW92OXpNT1M4VllQMDdpcjBkeGJrWnpGcElfOVhJUmtmbVhpa25HUEZKbmpGZWEtU1g5YXhjZw?oc=5",
       "source": "한국경제",
       "date": "Wed, 05 Aug 2026 04:00:05 GMT"
     },
     {
-      "title": "중국이 500발의 미사일로 대만 모든 항구를 파괴한다면",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9taVJGWmRKNjFDWXZqN1pxU0xYZnpPLWs2S2dydTdNQVBoTDk5aHBCTXg1bk95T0Z2ZkI2UE85T25IOGVSNW5PZ2NyajhLSzA?oc=5",
-      "source": "v.daum.net",
-      "date": "Wed, 05 Aug 2026 02:19:00 GMT"
+      "title": "[작품속 경제리뷰] 중국 고전소설 ‘수호전’, 산업혁명 직전까지 간 북송 몰락 이유",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BZmVsLUxxa3ZnWmxYaGhucXlpSHBCV2U0emZxRV9mTkpLOHdrMlo4VklRU1J0Vm0yVTlpUEYzRFNQN3BIN2xseFNibnRRMDlkZGdvOXMtQlNBaGhVNlp3d29odXBpblp0bFNoejQ3dk9ZbGls?oc=5",
+      "source": "파이낸셜리뷰",
+      "date": "Wed, 05 Aug 2026 01:16:00 GMT"
     },
     {
       "title": "중국 내수 침체와 과잉수출, 독일 제조업 압박하는 ‘이중고’",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNblEwa0hMNk5NVGdYbURZNHJ0dVJ6Q3NCOXVTUGI1LU1rZU1wY1pyUjNndWhFYm83R2M2Ykl5VU1wT01jZ1B6bzFlYks3Mnk2RVBkd2gxMzVJV1gycTRpX1d4bnVlTGVvYUNPZ0c5RUxTVnpnZEYycUc0NUtZMllYMEFRV0tsdWls?oc=5",
-      "source": "g-enews.com",
+      "source": "글로벌이코노믹",
       "date": "Tue, 04 Aug 2026 22:37:10 GMT"
     },
     {
@@ -64,12 +70,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NRXV4Z09XdGZodm51c3JaYUNVVU80R3k5T0lzUXRWdTlFZjdJSlpsdWtUSU9IcXlaNDRHdmtrZkpmTThZQWtZWjlkR1JhbV9BQUVpcFJR?oc=5",
       "source": "헤럴드경제",
       "date": "Sat, 01 Aug 2026 05:09:05 GMT"
-    },
-    {
-      "title": "중국 경제성장률 추이",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYUTRLWl9qenQ4dUo2LVFmbGtwRXNaZ3NkZGNXTkZiTXB6c2F4MHZhalJPTi1SWExpYXp0STRJOWh4VUFraHdMRzg0QnQ2dw?oc=5",
-      "source": "한인포스트",
-      "date": "Sun, 19 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
