@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-05T20:08:34+09:00",
+  "run_at_kst": "2026-08-06T07:08:11+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
-      "title": "U.S. Moves to Keep Tungsten Scrap and Battery Metals at Home",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Moves-to-Keep-Tungsten-Scrap-and-Battery-Metals-at-Home.html",
+      "title": "Big Tech Turns to Fuel Cells to Power the AI Boom",
+      "link": "https://oilprice.com/Alternative-Energy/Fuel-Cells/Big-Tech-Turns-to-Fuel-Cells-to-Power-the-AI-Boom.html",
       "source": "OilPrice",
-      "date": "Wed, 05 Aug 2026 05:30:00 -0500"
+      "date": "Wed, 05 Aug 2026 17:00:00 -0500"
     },
     {
-      "title": "Red Sea Attack Sinks India-Flagged Cargo Vessel Off Yemen",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Red-Sea-Attack-Sinks-India-Flagged-Cargo-Vessel-Off-Yemen.html",
+      "title": "Venezuela’s Oil Production Grows at a Crucial Time Despite Challenges",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Production-Grows-at-a-Crucial-Time-Despite-Challenges.html",
       "source": "OilPrice",
-      "date": "Wed, 05 Aug 2026 04:30:00 -0500"
+      "date": "Wed, 05 Aug 2026 16:00:00 -0500"
     },
     {
-      "title": "China’s Power Demand Hits Records as Heatwave Grips Key Regions",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Power-Demand-Hits-Records-as-Heatwave-Grips-Key-Regions.html",
+      "title": "Philippines Could Become the World's First Geologic Hydrogen Hub",
+      "link": "https://oilprice.com/Energy/Energy-General/Philippines-Could-Become-the-Worlds-First-Geologic-Hydrogen-Hub.html",
       "source": "OilPrice",
-      "date": "Wed, 05 Aug 2026 03:30:00 -0500"
+      "date": "Wed, 05 Aug 2026 15:00:00 -0500"
     },
     {
-      "title": "China Eases Fuel Export Curbs as Global Supply Crunch Deepens",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Eases-Fuel-Export-Curbs-as-Global-Supply-Crunch-Deepens.html",
-      "source": "OilPrice",
-      "date": "Wed, 05 Aug 2026 02:15:00 -0500"
-    },
-    {
-      "title": "Hormuz Tanker Traffic Remains Subdued Despite Reports of Peace Talks",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Traffic-Remains-Subdued-Despite-Reports-of-Peace-Talks.html",
-      "source": "OilPrice",
-      "date": "Wed, 05 Aug 2026 01:00:00 -0500"
-    },
-    {
-      "title": "Middle East War Triggers New Global Refining Boom",
-      "link": "https://oilprice.com/Energy/Energy-General/Middle-East-War-Triggers-New-Global-Refining-Boom.html",
-      "source": "OilPrice",
-      "date": "Tue, 04 Aug 2026 19:00:00 -0500"
-    },
-    {
-      "title": "China, Turkey Relations Strained After EV Investment Fallout",
-      "link": "https://oilprice.com/Energy/Energy-General/China-Turkey-Relations-Strained-After-EV-Investment-Fallout.html",
-      "source": "OilPrice",
-      "date": "Tue, 04 Aug 2026 18:00:00 -0500"
-    },
-    {
-      "title": "U.S. Hits New Obstacle on Critical Mineral Security Course",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Hits-New-Obstacle-on-Critical-Mineral-Security-Course.html",
-      "source": "OilPrice",
-      "date": "Tue, 04 Aug 2026 17:00:00 -0500"
-    },
-    {
-      "title": "Artemis Gold’s Blackwater mill bill balloons",
-      "link": "https://www.mining.com/artemis-golds-blackwater-mill-bill-balloons/",
+      "title": "Ferrexpo’s Ukraine shutdown deepens fight for survival",
+      "link": "https://www.mining.com/ferrexpos-ukraine-shutdown-deepens-fight-for-survival/",
       "source": "mining.com",
-      "date": "Tue, 04 Aug 2026 20:33:00 +0000"
+      "date": "Wed, 05 Aug 2026 19:15:45 +0000"
     },
     {
-      "title": "Fremont NPV jumps 101% in Stormlands model",
-      "link": "https://www.mining.com/fremont-npv-jumps-101-in-stormlands-model/",
-      "source": "mining.com",
-      "date": "Tue, 04 Aug 2026 20:22:00 +0000"
+      "title": "Hormuz Crisis Is Rewriting the Global LPG Trade",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Hormuz-Crisis-Is-Rewriting-the-Global-LPG-Trade.html",
+      "source": "OilPrice",
+      "date": "Wed, 05 Aug 2026 14:00:00 -0500"
     },
     {
-      "title": "Lion Copper’s Yerington now ranks among Nevada’s largest red metal deposits",
-      "link": "https://www.mining.com/lion-coppers-yerington-now-ranks-among-nevadas-largest-red-metal-deposits/",
+      "title": "EMP moves toward production with Saskatchewan lithium demo plant",
+      "link": "https://www.mining.com/emp-moves-toward-production-with-saskatchewan-lithium-demo-plant-build/",
       "source": "mining.com",
-      "date": "Tue, 04 Aug 2026 19:51:00 +0000"
+      "date": "Wed, 05 Aug 2026 18:14:12 +0000"
     },
     {
-      "title": "How war in Myanmar is driving a deadly rare earth mining boom",
-      "link": "https://www.mining.com/how-war-in-myanmar-is-driving-a-deadly-rare-earth-mining-boom/",
-      "source": "mining.com",
-      "date": "Tue, 04 Aug 2026 17:10:14 +0000"
+      "title": "China Accelerates Its Economic Push Across Central Asia",
+      "link": "https://oilprice.com/Energy/Energy-General/China-Accelerates-Its-Economic-Push-Across-Central-Asia.html",
+      "source": "OilPrice",
+      "date": "Wed, 05 Aug 2026 13:00:00 -0500"
     },
     {
-      "title": "LBMA suspends Shandong Gold refinery over US labour list",
-      "link": "https://www.mining.com/lbma-suspends-shandong-gold-refinery-over-us-labour-list/",
+      "title": "China’s copper smelting grip worries veteran metallurgist",
+      "link": "https://www.mining.com/chinas-copper-smelting-grip-worries-veteran-metallurgist/",
       "source": "mining.com",
-      "date": "Tue, 04 Aug 2026 16:01:00 +0000"
+      "date": "Wed, 05 Aug 2026 17:57:21 +0000"
     },
     {
-      "title": "Largest US tungsten discovery hits NASA roadblock",
-      "link": "https://www.mining.com/largest-us-tungsten-discovery-hits-nasa-roadblock/",
+      "title": "WGC, OMM partner to advance artisanal and small-scale gold mining",
+      "link": "https://www.mining.com/wgc-omm-partner-to-advance-artisanal-and-small-scale-gold-mining/",
       "source": "mining.com",
-      "date": "Tue, 04 Aug 2026 13:59:00 +0000"
+      "date": "Wed, 05 Aug 2026 17:32:50 +0000"
+    },
+    {
+      "title": "India Hopes To Take Over Operation Of Venezuelan Oil Fields From PDVSA",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Hopes-To-Take-Over-Operation-Of-Venezuelan-Oil-Fields-From-PDVSA.html",
+      "source": "OilPrice",
+      "date": "Wed, 05 Aug 2026 12:30:00 -0500"
+    },
+    {
+      "title": "Codelco’s El Teniente two-year setback deepens copper fears",
+      "link": "https://www.mining.com/codelcos-el-teniente-two-year-setback-deepens-copper-fears/",
+      "source": "mining.com",
+      "date": "Wed, 05 Aug 2026 17:21:38 +0000"
+    },
+    {
+      "title": "Aramco's Record Profits Hide a Growing Cash Flow Crisis",
+      "link": "https://oilprice.com/Energy/Energy-General/Aramcos-Record-Profits-Hide-a-Growing-Cash-Flow-Crisis.html",
+      "source": "OilPrice",
+      "date": "Wed, 05 Aug 2026 12:00:00 -0500"
+    },
+    {
+      "title": "SuperCritical appoints Neal Froneman as chair",
+      "link": "https://www.mining.com/supercritical-appoints-neal-froneman-as-chair/",
+      "source": "mining.com",
+      "date": "Wed, 05 Aug 2026 16:26:53 +0000"
+    },
+    {
+      "title": "Copper price sets fresh US record as tariff-driven hoarding meets shrinking supply",
+      "link": "https://www.mining.com/copper-price-sets-fresh-us-record-as-tariff-driven-hoarding-meets-shrinking-supply/",
+      "source": "mining.com",
+      "date": "Wed, 05 Aug 2026 16:26:27 +0000"
     }
   ]
 }
