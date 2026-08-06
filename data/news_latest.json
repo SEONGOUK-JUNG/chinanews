@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-06T07:08:11+09:00",
+  "run_at_kst": "2026-08-06T10:10:16+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Europe’s Heatwave Is Hitting Refineries And Power Supplies",
+      "link": "https://oilprice.com/Energy/Energy-General/Europes-Heatwave-Is-Hitting-Refineries-And-Power-Supplies.html",
+      "source": "OilPrice",
+      "date": "Wed, 05 Aug 2026 19:00:00 -0500"
+    },
+    {
+      "title": "Stardust Power signs lithium supply deal with Charge CCCV",
+      "link": "https://www.mining.com/stardust-power-signs-lithium-supply-deal-with-charge-cccv/",
+      "source": "mining.com",
+      "date": "Wed, 05 Aug 2026 23:39:44 +0000"
+    },
+    {
+      "title": "Middle East War Throws LNG’s Growth Story Into Doubt",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Middle-East-War-Throws-LNGs-Growth-Story-Into-Doubt.html",
+      "source": "OilPrice",
+      "date": "Wed, 05 Aug 2026 18:00:00 -0500"
+    },
+    {
+      "title": "US uranium contracting wave is coming, Eagle Nuclear Energy CEO says",
+      "link": "https://www.mining.com/us-uranium-contracting-wave-is-coming-eagle-nuclear-energy-ceo-says/",
+      "source": "mining.com",
+      "date": "Wed, 05 Aug 2026 22:53:20 +0000"
+    },
     {
       "title": "Big Tech Turns to Fuel Cells to Power the AI Boom",
       "link": "https://oilprice.com/Alternative-Energy/Fuel-Cells/Big-Tech-Turns-to-Fuel-Cells-to-Power-the-AI-Boom.html",
@@ -66,30 +90,6 @@
       "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Hopes-To-Take-Over-Operation-Of-Venezuelan-Oil-Fields-From-PDVSA.html",
       "source": "OilPrice",
       "date": "Wed, 05 Aug 2026 12:30:00 -0500"
-    },
-    {
-      "title": "Codelco’s El Teniente two-year setback deepens copper fears",
-      "link": "https://www.mining.com/codelcos-el-teniente-two-year-setback-deepens-copper-fears/",
-      "source": "mining.com",
-      "date": "Wed, 05 Aug 2026 17:21:38 +0000"
-    },
-    {
-      "title": "Aramco's Record Profits Hide a Growing Cash Flow Crisis",
-      "link": "https://oilprice.com/Energy/Energy-General/Aramcos-Record-Profits-Hide-a-Growing-Cash-Flow-Crisis.html",
-      "source": "OilPrice",
-      "date": "Wed, 05 Aug 2026 12:00:00 -0500"
-    },
-    {
-      "title": "SuperCritical appoints Neal Froneman as chair",
-      "link": "https://www.mining.com/supercritical-appoints-neal-froneman-as-chair/",
-      "source": "mining.com",
-      "date": "Wed, 05 Aug 2026 16:26:53 +0000"
-    },
-    {
-      "title": "Copper price sets fresh US record as tariff-driven hoarding meets shrinking supply",
-      "link": "https://www.mining.com/copper-price-sets-fresh-us-record-as-tariff-driven-hoarding-meets-shrinking-supply/",
-      "source": "mining.com",
-      "date": "Wed, 05 Aug 2026 16:26:27 +0000"
     }
   ]
 }

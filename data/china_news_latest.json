@@ -1,14 +1,20 @@
 {
-  "run_at_kst": "2026-08-06T07:08:11+09:00",
+  "run_at_kst": "2026-08-06T10:10:16+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "중국의 대미 보복조치에 희토류는 제외…정상회담 앞두고 수위조절",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qajFjRUdlLU4tTW1Wb3p3OXd6V3ZEcTRONVFxeGtWSVBDQ2phYi0yVFlyQjZyZzJfazB4NFNnU0ZPSmRBNEstTFJvN1EtanNmWndIcGxfVTFha0p2RHExLQ?oc=5",
+      "source": "네이트",
+      "date": "Thu, 06 Aug 2026 00:03:00 GMT"
+    },
+    {
       "title": "[경제] 상하이GM, 합자 계약 20년 연장...'중국 글로벌화'로 사업 전환",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnbUR0eEF5M3dhQXJTdE5hR3ZVX21pbGxyZVdGSE1vcVZVUkpHWkhOSl9SRmRiVkN6UzdDOWF2Wmh5Z09TNURPWENDNEZiSTFOcVN5ckJueV9iWkExMExHNW0tdTVPTXpMSlpj?oc=5",
-      "source": "snakorea.com",
+      "source": "서울뉴스통신",
       "date": "Wed, 05 Aug 2026 11:55:19 GMT"
     },
     {
@@ -26,7 +32,7 @@
     {
       "title": "중국 내수 침체와 과잉수출, 독일 제조업 압박하는 ‘이중고’",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNblEwa0hMNk5NVGdYbURZNHJ0dVJ6Q3NCOXVTUGI1LU1rZU1wY1pyUjNndWhFYm83R2M2Ykl5VU1wT01jZ1B6bzFlYks3Mnk2RVBkd2gxMzVJV1gycTRpX1d4bnVlTGVvYUNPZ0c5RUxTVnpnZEYycUc0NUtZMllYMEFRV0tsdWls?oc=5",
-      "source": "g-enews.com",
+      "source": "글로벌이코노믹",
       "date": "Tue, 04 Aug 2026 22:37:10 GMT"
     },
     {
@@ -36,6 +42,12 @@
       "date": "Tue, 04 Aug 2026 11:18:00 GMT"
     },
     {
+      "title": "최근 중국경제 불안에 대한 평가 및 시사점",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05cXJ3bEM4X1NkR2MwSGJCa1dHLWdZc0lBY2lwMEVMYkdhVWllT1dLTUFJdU01MU9SdVp1ZEROQ25DeGZlcmhnLThXQTZvdmRyb3RhR0dNY2VSZmQ0QXFncmlNYzcyZw?oc=5",
+      "source": "kdi.re.kr",
+      "date": "Tue, 04 Aug 2026 10:45:05 GMT"
+    },
+    {
       "title": "중국 제조업 둔화…수출 버팀목도 흔들리며 경기 둔화 신호 강화",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81MVRNNGFfenphMzdtdW1pUF90RTVTSm1zX2dDOXJiQ3BBbldYWlNid1BFZDNNUkZuUnB0Ti04aHJUd3JfbFVNOW10Q0gtS1hHOEVxMGE1WmJTUWpJRFE?oc=5",
       "source": "더구루",
@@ -43,33 +55,21 @@
     },
     {
       "title": "[하현옥의 세계경제전망] 중국 ‘소주성’ 5개년 계획…걸림돌은 ‘K자형 양극화’",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UZzQwSHZrbkdKdWs3Rks5bkc1X01Eczh3Z1RBWkhLVjhzLVpTcUNGZjcwbmZyTFRjLWk0TGhlZ0t1Z3d6d09UVElJZmRNOXVGbE5rU0dfS0VHUGZIYlFySGln?oc=5",
-      "source": "koreadaily.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nc3ZURlVZeWRGS043dkhhajFnaXo3djZLaXFtQmprNjZVMWRFTDJjRzRCNElFQVdfMXk3MnVtV2ZMZVJTVUptTGZRZ1RsSlBfdS1GWVR3?oc=5",
+      "source": "중앙일보",
       "date": "Mon, 03 Aug 2026 15:14:00 GMT"
-    },
-    {
-      "title": "중국, UNFCCC와 손잡고 개도국 BTR 지원",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZTUdhUUoxcHpIZGhqTnhwM2E4Z0p0Ym9zdWRqYUJqOHEyRHFXazFOU0Qxdll0cThVN1EwNEk1RG50QUdqbWx6MkVCOE1qQms3aG1lODh5dW5WSXBwRElObGM4Q1lLcjQta2FhQQ?oc=5",
-      "source": "ESG경제",
-      "date": "Mon, 03 Aug 2026 11:48:56 GMT"
     },
     {
       "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
       "source": ":: 위즈경제 ::",
-      "date": "Sat, 01 Aug 2026 07:00:00 GMT"
+      "date": "Mon, 03 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "美, 신장 강제노동 이유로 中기업 추가 제재…중국 “경제 강압”",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NRXV4Z09XdGZodm51c3JaYUNVVU80R3k5T0lzUXRWdTlFZjdJSlpsdWtUSU9IcXlaNDRHdmtrZkpmTThZQWtZWjlkR1JhbV9BQUVpcFJR?oc=5",
-      "source": "헤럴드경제",
-      "date": "Sat, 01 Aug 2026 05:09:05 GMT"
-    },
-    {
-      "title": "중국 경제성장률 추이",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYUTRLWl9qenQ4dUo2LVFmbGtwRXNaZ3NkZGNXTkZiTXB6c2F4MHZhalJPTi1SWExpYXp0STRJOWh4VUFraHdMRzg0QnQ2dw?oc=5",
-      "source": "Haninpost",
-      "date": "Sun, 19 Jul 2026 07:00:00 GMT"
+      "title": "[열린세상] ‘기술 혁신’ 중국 경제의 역설",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVpiQTJsR21nVklIcG5XR1NxR2tBNG9iZ1JfVkVmaWNxUkprY3FteW1WNG1xeDZXNi1CellROVc0NFhPd0l6MnBUdldjWG03NnA2VkdUd1pOXzd1M2FxQU1vYkFYR0FqdUdLWkU2N1p3aEFRZ2oxRkJYTW5VaVpTcGhralgxbkk?oc=5",
+      "source": "서울신문",
+      "date": "Fri, 24 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
