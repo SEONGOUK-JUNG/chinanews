@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-06T10:10:16+09:00",
+  "run_at_kst": "2026-08-06T20:08:17+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Europe's Gas Storage Hits Lowest Level Since 2011 as Winter Looms",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Gas-Storage-Hits-Lowest-Level-Since-2011-as-Winter-Looms.html",
+      "source": "OilPrice",
+      "date": "Thu, 06 Aug 2026 05:30:00 -0500"
+    },
+    {
+      "title": "How the UAE Has Kept Its Oil Flowing Through Hormuz",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/How-the-UAE-Has-Kept-Its-Oil-Flowing-Through-Hormuz.html",
+      "source": "OilPrice",
+      "date": "Thu, 06 Aug 2026 04:40:00 -0500"
+    },
+    {
+      "title": "China’s Top Refiner Pivots to Russian Crude",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Top-Refiner-Pivots-to-Russian-Crude.html",
+      "source": "OilPrice",
+      "date": "Thu, 06 Aug 2026 03:40:00 -0500"
+    },
+    {
+      "title": "U.S. Diesel Exports Hit Record High as Domestic Stockpiles Slide",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Diesel-Exports-Hit-Record-High-as-Domestic-Stockpiles-Slide.html",
+      "source": "OilPrice",
+      "date": "Thu, 06 Aug 2026 01:30:00 -0500"
+    },
+    {
+      "title": "Iran and Oman Near Landmark Deal to Manage Strait of Hormuz",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-and-Oman-Near-Landmark-Deal-to-Manage-Strait-of-Hormuz.html",
+      "source": "OilPrice",
+      "date": "Thu, 06 Aug 2026 00:10:00 -0500"
+    },
     {
       "title": "Europe’s Heatwave Is Hitting Refineries And Power Supplies",
       "link": "https://oilprice.com/Energy/Energy-General/Europes-Heatwave-Is-Hitting-Refineries-And-Power-Supplies.html",
@@ -38,40 +68,16 @@
       "date": "Wed, 05 Aug 2026 17:00:00 -0500"
     },
     {
-      "title": "Venezuela’s Oil Production Grows at a Crucial Time Despite Challenges",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Production-Grows-at-a-Crucial-Time-Despite-Challenges.html",
-      "source": "OilPrice",
-      "date": "Wed, 05 Aug 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Philippines Could Become the World's First Geologic Hydrogen Hub",
-      "link": "https://oilprice.com/Energy/Energy-General/Philippines-Could-Become-the-Worlds-First-Geologic-Hydrogen-Hub.html",
-      "source": "OilPrice",
-      "date": "Wed, 05 Aug 2026 15:00:00 -0500"
-    },
-    {
       "title": "Ferrexpo’s Ukraine shutdown deepens fight for survival",
       "link": "https://www.mining.com/ferrexpos-ukraine-shutdown-deepens-fight-for-survival/",
       "source": "mining.com",
       "date": "Wed, 05 Aug 2026 19:15:45 +0000"
     },
     {
-      "title": "Hormuz Crisis Is Rewriting the Global LPG Trade",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Hormuz-Crisis-Is-Rewriting-the-Global-LPG-Trade.html",
-      "source": "OilPrice",
-      "date": "Wed, 05 Aug 2026 14:00:00 -0500"
-    },
-    {
       "title": "EMP moves toward production with Saskatchewan lithium demo plant",
       "link": "https://www.mining.com/emp-moves-toward-production-with-saskatchewan-lithium-demo-plant-build/",
       "source": "mining.com",
       "date": "Wed, 05 Aug 2026 18:14:12 +0000"
-    },
-    {
-      "title": "China Accelerates Its Economic Push Across Central Asia",
-      "link": "https://oilprice.com/Energy/Energy-General/China-Accelerates-Its-Economic-Push-Across-Central-Asia.html",
-      "source": "OilPrice",
-      "date": "Wed, 05 Aug 2026 13:00:00 -0500"
     },
     {
       "title": "China’s copper smelting grip worries veteran metallurgist",
@@ -84,12 +90,6 @@
       "link": "https://www.mining.com/wgc-omm-partner-to-advance-artisanal-and-small-scale-gold-mining/",
       "source": "mining.com",
       "date": "Wed, 05 Aug 2026 17:32:50 +0000"
-    },
-    {
-      "title": "India Hopes To Take Over Operation Of Venezuelan Oil Fields From PDVSA",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Hopes-To-Take-Over-Operation-Of-Venezuelan-Oil-Fields-From-PDVSA.html",
-      "source": "OilPrice",
-      "date": "Wed, 05 Aug 2026 12:30:00 -0500"
     }
   ]
 }
