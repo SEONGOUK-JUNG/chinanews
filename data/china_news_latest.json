@@ -1,21 +1,27 @@
 {
-  "run_at_kst": "2026-08-06T10:10:16+09:00",
+  "run_at_kst": "2026-08-06T14:08:07+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "중국의 대미 보복조치에 희토류는 제외…정상회담 앞두고 수위조절",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qajFjRUdlLU4tTW1Wb3p3OXd6V3ZEcTRONVFxeGtWSVBDQ2phYi0yVFlyQjZyZzJfazB4NFNnU0ZPSmRBNEstTFJvN1EtanNmWndIcGxfVTFha0p2RHExLQ?oc=5",
+      "title": "[미국 특징주] 엔비디아, 중국서 6G AI-RAN 기지국 개발 협력사 물색",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95X0lCOFRKRU9jaXFKRGxxZm1zOU02RjV0Q3BidERUTGJxWGtIdFRMRDQ5NnQ1b29zdFRNMHZvcVkwWHNBcVdwMDFIMjM1REp4UWV4VDV6ZEVCUGFXTEhqaw?oc=5",
       "source": "네이트",
-      "date": "Thu, 06 Aug 2026 00:03:00 GMT"
+      "date": "Thu, 06 Aug 2026 04:51:00 GMT"
     },
     {
-      "title": "[경제] 상하이GM, 합자 계약 20년 연장...'중국 글로벌화'로 사업 전환",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnbUR0eEF5M3dhQXJTdE5hR3ZVX21pbGxyZVdGSE1vcVZVUkpHWkhOSl9SRmRiVkN6UzdDOWF2Wmh5Z09TNURPWENDNEZiSTFOcVN5ckJueV9iWkExMExHNW0tdTVPTXpMSlpj?oc=5",
-      "source": "서울뉴스통신",
-      "date": "Wed, 05 Aug 2026 11:55:19 GMT"
+      "title": "태풍 '돌핀' 日 오키나와 접근…중국으로 향할 전망",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zYlpuMTJKVEQweVFEY3hTTjdSWmtMX05OWDRzVzFyRU5ieTA3ZlFoRmhUR3htWTZadE95VHBpeWl2WHJYQng5WUFVc0FCMzg?oc=5",
+      "source": "v.daum.net",
+      "date": "Thu, 06 Aug 2026 01:40:00 GMT"
+    },
+    {
+      "title": "중국의 대미 보복조치에 희토류는 제외...정상회담 앞두고 수위조절",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01ekw3YnhTN0pGcmJlUWxIZDJ5Q0QzOXNBb25TTUNWQ2VaNTRxbzkwdmFyT041cGY5emNRZ0Z2NWM0RHo3dUFMWEZNMThIdU1JZ2czZGJpOVh5UdIBWEFVX3lxTE9ESXlaTm43eldQRnVTYmJKMFpOYXhacUZsSlMwc3oyQVdqdEd2SWs2OWl5TWVYdGxQeFRZRWVabEFOa0pIajFqbGstYzB3Tm9yTDYwWFhuZEo?oc=5",
+      "source": "아주경제",
+      "date": "Thu, 06 Aug 2026 00:02:16 GMT"
     },
     {
       "title": "새로운 성장 동력이 중국 경제를 지속적으로 견인하고 있습니다.",
@@ -46,12 +52,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05cXJ3bEM4X1NkR2MwSGJCa1dHLWdZc0lBY2lwMEVMYkdhVWllT1dLTUFJdU01MU9SdVp1ZEROQ25DeGZlcmhnLThXQTZvdmRyb3RhR0dNY2VSZmQ0QXFncmlNYzcyZw?oc=5",
       "source": "kdi.re.kr",
       "date": "Tue, 04 Aug 2026 10:45:05 GMT"
-    },
-    {
-      "title": "중국 제조업 둔화…수출 버팀목도 흔들리며 경기 둔화 신호 강화",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81MVRNNGFfenphMzdtdW1pUF90RTVTSm1zX2dDOXJiQ3BBbldYWlNid1BFZDNNUkZuUnB0Ti04aHJUd3JfbFVNOW10Q0gtS1hHOEVxMGE1WmJTUWpJRFE?oc=5",
-      "source": "더구루",
-      "date": "Mon, 03 Aug 2026 23:28:23 GMT"
     },
     {
       "title": "[하현옥의 세계경제전망] 중국 ‘소주성’ 5개년 계획…걸림돌은 ‘K자형 양극화’",
