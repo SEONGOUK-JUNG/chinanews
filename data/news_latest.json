@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-06T20:08:17+09:00",
+  "run_at_kst": "2026-08-07T07:07:51+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
-      "title": "Europe's Gas Storage Hits Lowest Level Since 2011 as Winter Looms",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Gas-Storage-Hits-Lowest-Level-Since-2011-as-Winter-Looms.html",
+      "title": "UK Drivers Take To Fuel Theft amid War-Driven Price Surge",
+      "link": "https://oilprice.com/Energy/Energy-General/UK-Drivers-Take-To-Fuel-Theft-amid-War-Driven-Price-Surge.html",
       "source": "OilPrice",
-      "date": "Thu, 06 Aug 2026 05:30:00 -0500"
+      "date": "Thu, 06 Aug 2026 17:00:00 -0500"
     },
     {
-      "title": "How the UAE Has Kept Its Oil Flowing Through Hormuz",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/How-the-UAE-Has-Kept-Its-Oil-Flowing-Through-Hormuz.html",
-      "source": "OilPrice",
-      "date": "Thu, 06 Aug 2026 04:40:00 -0500"
-    },
-    {
-      "title": "China’s Top Refiner Pivots to Russian Crude",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Top-Refiner-Pivots-to-Russian-Crude.html",
-      "source": "OilPrice",
-      "date": "Thu, 06 Aug 2026 03:40:00 -0500"
-    },
-    {
-      "title": "U.S. Diesel Exports Hit Record High as Domestic Stockpiles Slide",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Diesel-Exports-Hit-Record-High-as-Domestic-Stockpiles-Slide.html",
-      "source": "OilPrice",
-      "date": "Thu, 06 Aug 2026 01:30:00 -0500"
-    },
-    {
-      "title": "Iran and Oman Near Landmark Deal to Manage Strait of Hormuz",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-and-Oman-Near-Landmark-Deal-to-Manage-Strait-of-Hormuz.html",
-      "source": "OilPrice",
-      "date": "Thu, 06 Aug 2026 00:10:00 -0500"
-    },
-    {
-      "title": "Europe’s Heatwave Is Hitting Refineries And Power Supplies",
-      "link": "https://oilprice.com/Energy/Energy-General/Europes-Heatwave-Is-Hitting-Refineries-And-Power-Supplies.html",
-      "source": "OilPrice",
-      "date": "Wed, 05 Aug 2026 19:00:00 -0500"
-    },
-    {
-      "title": "Stardust Power signs lithium supply deal with Charge CCCV",
-      "link": "https://www.mining.com/stardust-power-signs-lithium-supply-deal-with-charge-cccv/",
+      "title": "Luca sees resource growth potential at Campo Morado",
+      "link": "https://www.mining.com/luca-sees-resource-growth-potential-at-campo-morado/",
       "source": "mining.com",
-      "date": "Wed, 05 Aug 2026 23:39:44 +0000"
+      "date": "Thu, 06 Aug 2026 21:43:00 +0000"
     },
     {
-      "title": "Middle East War Throws LNG’s Growth Story Into Doubt",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Middle-East-War-Throws-LNGs-Growth-Story-Into-Doubt.html",
+      "title": "Inferred tonnes drive rare earth growth in Avalon update",
+      "link": "https://www.mining.com/inferred-tonnes-drive-rare-earth-growth-in-avalon-update/",
+      "source": "mining.com",
+      "date": "Thu, 06 Aug 2026 21:30:00 +0000"
+    },
+    {
+      "title": "Europe's Electricity Prices Spike to €500 a Megawatt-Hour as Drought Bites",
+      "link": "https://oilprice.com/Energy/Energy-General/Europes-Electricity-Prices-Spike-to-500-a-Megawatt-Hour-as-Drought-Bites.html",
       "source": "OilPrice",
-      "date": "Wed, 05 Aug 2026 18:00:00 -0500"
+      "date": "Thu, 06 Aug 2026 16:00:00 -0500"
     },
     {
-      "title": "US uranium contracting wave is coming, Eagle Nuclear Energy CEO says",
-      "link": "https://www.mining.com/us-uranium-contracting-wave-is-coming-eagle-nuclear-energy-ceo-says/",
-      "source": "mining.com",
-      "date": "Wed, 05 Aug 2026 22:53:20 +0000"
-    },
-    {
-      "title": "Big Tech Turns to Fuel Cells to Power the AI Boom",
-      "link": "https://oilprice.com/Alternative-Energy/Fuel-Cells/Big-Tech-Turns-to-Fuel-Cells-to-Power-the-AI-Boom.html",
+      "title": "U.S. Diesel Exports Hit Record High as Global Supply Crunch Deepens",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Diesel-Exports-Hit-Record-High-as-Global-Supply-Crunch-Deepens.html",
       "source": "OilPrice",
-      "date": "Wed, 05 Aug 2026 17:00:00 -0500"
+      "date": "Thu, 06 Aug 2026 15:00:00 -0500"
     },
     {
-      "title": "Ferrexpo’s Ukraine shutdown deepens fight for survival",
-      "link": "https://www.mining.com/ferrexpos-ukraine-shutdown-deepens-fight-for-survival/",
+      "title": "Florence copper mine must triple output to hit Trekor target: CEO",
+      "link": "https://www.mining.com/florence-copper-mine-must-triple-output-to-hit-trekor-target-ceo/",
       "source": "mining.com",
-      "date": "Wed, 05 Aug 2026 19:15:45 +0000"
+      "date": "Thu, 06 Aug 2026 19:33:55 +0000"
     },
     {
-      "title": "EMP moves toward production with Saskatchewan lithium demo plant",
-      "link": "https://www.mining.com/emp-moves-toward-production-with-saskatchewan-lithium-demo-plant-build/",
-      "source": "mining.com",
-      "date": "Wed, 05 Aug 2026 18:14:12 +0000"
+      "title": "Mining Giant Glencore Looks Beyond London With Secondary ASX Listing",
+      "link": "https://oilprice.com/Energy/Energy-General/Mining-Giant-Glencore-Looks-Beyond-London-With-Secondary-ASX-Listing.html",
+      "source": "OilPrice",
+      "date": "Thu, 06 Aug 2026 14:00:00 -0500"
     },
     {
-      "title": "China’s copper smelting grip worries veteran metallurgist",
-      "link": "https://www.mining.com/chinas-copper-smelting-grip-worries-veteran-metallurgist/",
-      "source": "mining.com",
-      "date": "Wed, 05 Aug 2026 17:57:21 +0000"
+      "title": "Russian Oil Production Climbs Above 9 Million Bpd in July",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russian-Oil-Production-Climbs-Above-9-Million-Bpd-in-July.html",
+      "source": "OilPrice",
+      "date": "Thu, 06 Aug 2026 13:30:00 -0500"
     },
     {
-      "title": "WGC, OMM partner to advance artisanal and small-scale gold mining",
-      "link": "https://www.mining.com/wgc-omm-partner-to-advance-artisanal-and-small-scale-gold-mining/",
+      "title": "Gold price holds above $4,300 as rate-hike bets fade",
+      "link": "https://www.mining.com/gold-price-holds-above-4300-as-rate-hike-bets-fade/",
       "source": "mining.com",
-      "date": "Wed, 05 Aug 2026 17:32:50 +0000"
+      "date": "Thu, 06 Aug 2026 18:00:00 +0000"
+    },
+    {
+      "title": "Mexico Bans Fracking in Key Shale Basin",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Mexico-Bans-Fracking-in-Key-Shale-Basin.html",
+      "source": "OilPrice",
+      "date": "Thu, 06 Aug 2026 13:00:00 -0500"
+    },
+    {
+      "title": "This Megaproject Could Keep Brazil's Oil Boom Running Deep Into The 2030's",
+      "link": "https://oilprice.com/Energy/Energy-General/This-Megaproject-Could-Keep-Brazils-Oil-Boom-Running-Deep-Into-The-2030s.html",
+      "source": "OilPrice",
+      "date": "Thu, 06 Aug 2026 12:00:00 -0500"
+    },
+    {
+      "title": "Aramco Deepens Asia Oil Discount Ahead of Possible Hormuz Deal",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Aramco-Deepens-Asia-Oil-Discount-Ahead-of-Possible-Hormuz-Deal.html",
+      "source": "OilPrice",
+      "date": "Thu, 06 Aug 2026 11:30:00 -0500"
+    },
+    {
+      "title": "Lupaka Gold lands first $49M from Peru to settle mining dispute",
+      "link": "https://www.mining.com/lupaka-gold-lands-first-49m-from-peru-to-settle-mining-dispute/",
+      "source": "mining.com",
+      "date": "Thu, 06 Aug 2026 14:54:00 +0000"
+    },
+    {
+      "title": "Equinox Gold approves $436M Valentine mine expansion",
+      "link": "https://www.mining.com/equinox-gold-approves-436m-valentine-mine-expansion/",
+      "source": "mining.com",
+      "date": "Thu, 06 Aug 2026 14:08:00 +0000"
     }
   ]
 }
