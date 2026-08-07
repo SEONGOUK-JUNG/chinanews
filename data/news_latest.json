@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-07T20:07:48+09:00",
+  "run_at_kst": "2026-08-08T07:08:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
-      "title": "Shipping Through Hormuz Drops Sharply as Tensions Rise",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Shipping-Through-Hormuz-Drops-Sharply-as-Tensions-Rise.html",
+      "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+      "link": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
       "source": "OilPrice",
-      "date": "Fri, 07 Aug 2026 04:30:00 -0500"
+      "date": "Fri, 07 Aug 2026 16:00:00 -0500"
     },
     {
-      "title": "China’s Crude Imports Bounce Back After Historic June Slump",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Imports-Bounce-Back-After-Historic-June-Slump.html",
+      "title": "Energy Affordability Trumps Climate in US Midterm Races",
+      "link": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
       "source": "OilPrice",
-      "date": "Fri, 07 Aug 2026 03:15:00 -0500"
+      "date": "Fri, 07 Aug 2026 15:00:00 -0500"
     },
     {
-      "title": "Russia Turns to South Korea for Fuel as Refinery Crisis Deepens",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Turns-to-South-Korea-for-Fuel-as-Refinery-Crisis-Deepens.html",
+      "title": "Russia’s Labor Shortage Worsens as Central Asian Workers Stay Away",
+      "link": "https://oilprice.com/Energy/Energy-General/Russias-Labor-Shortage-Worsens-as-Central-Asian-Workers-Stay-Away.html",
       "source": "OilPrice",
-      "date": "Fri, 07 Aug 2026 02:00:00 -0500"
+      "date": "Fri, 07 Aug 2026 14:00:00 -0500"
     },
     {
-      "title": "Oil Prices Jump as Houthi Attacks Raise Saudi Supply Risks",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Jump-as-Houthi-Attacks-Raise-Saudi-Supply-Risks.html",
+      "title": "Citi Lifts Brent Outlook but Still Sees Oil Falling in 2027",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Citi-Lifts-Brent-Outlook-but-Still-Sees-Oil-Falling-in-2027.html",
       "source": "OilPrice",
-      "date": "Fri, 07 Aug 2026 00:40:20 -0500"
+      "date": "Fri, 07 Aug 2026 13:05:14 -0500"
     },
     {
-      "title": "Lower Oil Prices Lend Support For The Gold Rally",
-      "link": "https://oilprice.com/Metals/Gold/Lower-Oil-Prices-Lend-Support-For-The-Gold-Rally.html",
+      "title": "Gold miners surge more than 20% in breakout week",
+      "link": "https://www.mining.com/gold-miners-surge-more-than-20-in-breakout-week/",
+      "source": "mining.com",
+      "date": "Fri, 07 Aug 2026 18:02:16 +0000"
+    },
+    {
+      "title": "Norway’s $2.3-Trillion Fund Opposes SEC Idea to Rescind Climate Reporting",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Norways-23-Trillion-Fund-Opposes-SEC-Idea-to-Rescind-Climate-Reporting.html",
       "source": "OilPrice",
-      "date": "Thu, 06 Aug 2026 19:00:00 -0500"
+      "date": "Fri, 07 Aug 2026 12:30:00 -0500"
+    },
+    {
+      "title": "US Oil Drillers Add Rigs",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Oil-Drillers-Add-Rigs.html",
+      "source": "OilPrice",
+      "date": "Fri, 07 Aug 2026 12:14:00 -0500"
+    },
+    {
+      "title": "Op-ed: The battle for critical minerals is won at the port, not the mine",
+      "link": "https://www.mining.com/op-ed-the-battle-for-critical-minerals-is-won-at-the-port-not-the-mine/",
+      "source": "mining.com",
+      "date": "Fri, 07 Aug 2026 16:19:07 +0000"
+    },
+    {
+      "title": "Is Iran Preparing to Permanently Block the Strait of Hormuz?",
+      "link": "https://oilprice.com/Energy/Energy-General/Is-Iran-Preparing-to-Permanently-Block-the-Strait-of-Hormuz.html",
+      "source": "OilPrice",
+      "date": "Fri, 07 Aug 2026 11:04:46 -0500"
+    },
+    {
+      "title": "ADNOC Reports 15 Vessel Attacks as Hormuz Risks Mount",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Reports-15-Vessel-Attacks-as-Hormuz-Risks-Mount.html",
+      "source": "OilPrice",
+      "date": "Fri, 07 Aug 2026 10:45:00 -0500"
+    },
+    {
+      "title": "NGEx to spin out South American exploration company",
+      "link": "https://www.mining.com/ngex-to-spin-out-south-american-exploration-company/",
+      "source": "mining.com",
+      "date": "Fri, 07 Aug 2026 14:40:55 +0000"
+    },
+    {
+      "title": "Gold, silver prices surge as US economy sheds 23,000 jobs",
+      "link": "https://www.mining.com/gold-silver-prices-surge-as-us-economy-sheds-23000-jobs/",
+      "source": "mining.com",
+      "date": "Fri, 07 Aug 2026 12:14:00 +0000"
+    },
+    {
+      "title": "DRC probes how 5,000 tonnes of uranium ‘leaked’ into cobalt exports",
+      "link": "https://www.mining.com/drc-probes-how-5000-tonnes-of-uranium-leaked-into-cobalt-exports/",
+      "source": "mining.com",
+      "date": "Fri, 07 Aug 2026 11:15:00 +0000"
     },
     {
       "title": "Perpetua makes tungsten discovery at Gold-Stibnite project in Idaho",
       "link": "https://www.mining.com/perpetua-discovers-tungsten-mineralization-at-gold-stibnite-project-in-idaho/",
       "source": "mining.com",
       "date": "Thu, 06 Aug 2026 23:09:08 +0000"
-    },
-    {
-      "title": "Gas Shortages and High Prices Derail Southeast Asia’s Power Buildout",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Gas-Shortages-and-High-Prices-Derail-Southeast-Asias-Power-Buildout.html",
-      "source": "OilPrice",
-      "date": "Thu, 06 Aug 2026 18:00:00 -0500"
-    },
-    {
-      "title": "UK Drivers Take To Fuel Theft amid War-Driven Price Surge",
-      "link": "https://oilprice.com/Energy/Energy-General/UK-Drivers-Take-To-Fuel-Theft-amid-War-Driven-Price-Surge.html",
-      "source": "OilPrice",
-      "date": "Thu, 06 Aug 2026 17:00:00 -0500"
-    },
-    {
-      "title": "Luca sees resource growth potential at Campo Morado",
-      "link": "https://www.mining.com/luca-sees-resource-growth-potential-at-campo-morado/",
-      "source": "mining.com",
-      "date": "Thu, 06 Aug 2026 21:43:00 +0000"
-    },
-    {
-      "title": "Inferred tonnes drive rare earth growth in Avalon update",
-      "link": "https://www.mining.com/inferred-tonnes-drive-rare-earth-growth-in-avalon-update/",
-      "source": "mining.com",
-      "date": "Thu, 06 Aug 2026 21:30:00 +0000"
-    },
-    {
-      "title": "Europe's Electricity Prices Spike to €500 a Megawatt-Hour as Drought Bites",
-      "link": "https://oilprice.com/Energy/Energy-General/Europes-Electricity-Prices-Spike-to-500-a-Megawatt-Hour-as-Drought-Bites.html",
-      "source": "OilPrice",
-      "date": "Thu, 06 Aug 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Florence copper mine must triple output to hit Trekor target: CEO",
-      "link": "https://www.mining.com/florence-copper-mine-must-triple-output-to-hit-trekor-target-ceo/",
-      "source": "mining.com",
-      "date": "Thu, 06 Aug 2026 19:33:55 +0000"
-    },
-    {
-      "title": "Gold price holds above $4,300 as rate-hike bets fade",
-      "link": "https://www.mining.com/gold-price-holds-above-4300-as-rate-hike-bets-fade/",
-      "source": "mining.com",
-      "date": "Thu, 06 Aug 2026 18:00:00 +0000"
-    },
-    {
-      "title": "Lupaka Gold lands first $49M from Peru to settle mining dispute",
-      "link": "https://www.mining.com/lupaka-gold-lands-first-49m-from-peru-to-settle-mining-dispute/",
-      "source": "mining.com",
-      "date": "Thu, 06 Aug 2026 14:54:00 +0000"
     }
   ]
 }
