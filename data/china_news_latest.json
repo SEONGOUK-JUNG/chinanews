@@ -1,10 +1,22 @@
 {
-  "run_at_kst": "2026-08-07T10:07:50+09:00",
+  "run_at_kst": "2026-08-07T14:13:08+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "[경제] 中 경제브리핑...중국-아르헨티나, 통화스와프 5년 연장 外",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qVG44QUlHbFEza0lueHZCSmFzbHQ3bi14T0NwVWRPZkpTOUVzeVNaUTNId2dHTV9rRTZObHFOcjREMzN3RXU1eHUzOE94MTRLY1U5cWYxMTMxZTZmMzZFdjY0eThlZ0hrVy1TNW8tZ2wyZEk?oc=5",
+      "source": "동방일보",
+      "date": "Fri, 07 Aug 2026 02:58:56 GMT"
+    },
+    {
+      "title": "정부 ‘희토류 탈중국’ 선언 반년째 공회전",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSYkVpaXREdWY4cFVXaUV1c19oQTQyODdyd2RqN3c5eWFGLWN0bFFiOXUyYTRwM2c3ZVRVWlhBUm05SnlVa3JWTHVGbFR0ai1oRXdCNlJR?oc=5",
+      "source": "헤럴드경제",
+      "date": "Fri, 07 Aug 2026 02:03:00 GMT"
+    },
     {
       "title": "엔비디아의 기지국 데이터센터, 중국과 공동개발",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlRjVTLTVxclhuTDZKQTJfRkYwUmhaMDRjUHFRbzFMQjB3a3RZaXJRUjBNTV9NaDJvLU9McVVGNTM2RDF6WFJUbVcyUGlTYjVuNVlVbWF6dFdPQdIBWEFVX3lxTFBrQXJsRWtRMDg3T090N3FVYWx2YzhEbld5bDVEVmlJamwzbGRxX1lBSDczelZRdTNoQ0s3eWJFVkx3U0ZCN1pxN25CUDVXb1V2U3MtVzhQMXg?oc=5",
@@ -18,16 +30,16 @@
       "date": "Thu, 06 Aug 2026 23:35:00 GMT"
     },
     {
-      "title": "“중국 대신 한국것 쓰게해야”…미·중 갈등이 벌어준 韓 골든타임",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Pc0lIMkFVSWhaNGM0NWFkVXFWMGo1V2s0LXBLbUR3dzhRclJtMHdWTTRlNVJvT2Y3NWdQQ090WFQ1cnRLeVRVekZzQW9SMzA?oc=5",
-      "source": "v.daum.net",
-      "date": "Thu, 06 Aug 2026 20:02:00 GMT"
+      "title": "SBA, 중국 전략시장 공략 본격화, 서울 중소기업 글로벌 판로 확대",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zeEtoR0xFSk9SOWo0ckl1TWtYdngtakJoZ3JyT2pBUzJscWhweF9sUDNMb2NJMlJ0VjU3Zkx4TkFWdl8tMTVVMVdibElab3Q4YTE5WXVOTW5NS0oySmhZeXUxb3pqV0xBYWFnejl4dw?oc=5",
+      "source": "서울시티",
+      "date": "Thu, 06 Aug 2026 22:54:39 GMT"
     },
     {
-      "title": "중국과 미국 재계, 유대 강화하고 공급망 협력 새 기회 모색",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94Vl9tcl9sY3o5MUEycHVPdUtUMFRxX2JRMWZ5WEV0UU4zWG9BbmUtaFRBSkZvVEhMLUl4UHNQOTFWRGt0U3dKVXBzaEIzR3NQVmtPWVdR?oc=5",
-      "source": "지디넷코리아",
-      "date": "Thu, 06 Aug 2026 13:10:02 GMT"
+      "title": "하반기 중국 경제 업무, 어떻게 추진할까?",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DaW5wdThwa05Ma0hrMkd2WjVnYWxzQ1hpYllUNnNlX0IwbWpiQzNvamQzZEpTVHlWaS11VzhLbFdsTE1NaERJdXdYWVBtckUzVzF3UWlWN3BaXzRyV2dTNXpnZw?oc=5",
+      "source": "CGTN",
+      "date": "Thu, 06 Aug 2026 10:28:00 GMT"
     },
     {
       "title": "중국 경제 및 무역 뉴스 게시판 2026년 7월호: 시장 동향, 정책 및 무역 기회",
@@ -40,18 +52,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxSTN4d0dXXzBMSEZVTk9DTDdTS1hBQ21VUmhNMy1IVk11clZWc25MRFo1V3BfSGpHYTRtWTUzUDJWazhUdVNuUUZfbGt0QnVVSXpVN2x3?oc=5",
       "source": "중앙일보",
       "date": "Thu, 06 Aug 2026 07:55:46 GMT"
-    },
-    {
-      "title": "중국 내수 침체와 과잉수출, 독일 제조업 압박하는 ‘이중고’",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNblEwa0hMNk5NVGdYbURZNHJ0dVJ6Q3NCOXVTUGI1LU1rZU1wY1pyUjNndWhFYm83R2M2Ykl5VU1wT01jZ1B6bzFlYks3Mnk2RVBkd2gxMzVJV1gycTRpX1d4bnVlTGVvYUNPZ0c5RUxTVnpnZEYycUc0NUtZMllYMEFRV0tsdWls?oc=5",
-      "source": "글로벌이코노믹",
-      "date": "Tue, 04 Aug 2026 22:37:10 GMT"
-    },
-    {
-      "title": "[경제직필]한국 앞에 다가온 ‘중국 쇼크 2.0’",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtcXR4eDZQN2VIRTg2YUdwS0hXMEMzeGM5RTZkSHdvdEc4YmJLZy1JWUE2LW1YVE9USG96LUZUWjZ5aWlQTHlRaDRGcHhTS2ZnMEJIVmNXX1BrUdIBX0FVX3lxTFBxa182WnhkUFd0OXR5TEpmdlRWVHVuS1dNcmdDbVRMLW5SWE9ZU281Vk03SzlsSHlzbDY1RU5qZWN0NWNOSDRqSGxybmtBRFViZl9mcWg2VDllcXdvZ0pj?oc=5",
-      "source": "경향신문",
-      "date": "Tue, 04 Aug 2026 11:18:00 GMT"
     },
     {
       "title": "최근 중국경제 불안에 대한 평가 및 시사점",
