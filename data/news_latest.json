@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-07T10:07:50+09:00",
+  "run_at_kst": "2026-08-07T20:07:48+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Shipping Through Hormuz Drops Sharply as Tensions Rise",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Shipping-Through-Hormuz-Drops-Sharply-as-Tensions-Rise.html",
+      "source": "OilPrice",
+      "date": "Fri, 07 Aug 2026 04:30:00 -0500"
+    },
+    {
+      "title": "China’s Crude Imports Bounce Back After Historic June Slump",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Imports-Bounce-Back-After-Historic-June-Slump.html",
+      "source": "OilPrice",
+      "date": "Fri, 07 Aug 2026 03:15:00 -0500"
+    },
+    {
+      "title": "Russia Turns to South Korea for Fuel as Refinery Crisis Deepens",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Turns-to-South-Korea-for-Fuel-as-Refinery-Crisis-Deepens.html",
+      "source": "OilPrice",
+      "date": "Fri, 07 Aug 2026 02:00:00 -0500"
+    },
+    {
+      "title": "Oil Prices Jump as Houthi Attacks Raise Saudi Supply Risks",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Jump-as-Houthi-Attacks-Raise-Saudi-Supply-Risks.html",
+      "source": "OilPrice",
+      "date": "Fri, 07 Aug 2026 00:40:20 -0500"
+    },
     {
       "title": "Lower Oil Prices Lend Support For The Gold Rally",
       "link": "https://oilprice.com/Metals/Gold/Lower-Oil-Prices-Lend-Support-For-The-Gold-Rally.html",
@@ -50,40 +74,16 @@
       "date": "Thu, 06 Aug 2026 16:00:00 -0500"
     },
     {
-      "title": "U.S. Diesel Exports Hit Record High as Global Supply Crunch Deepens",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Diesel-Exports-Hit-Record-High-as-Global-Supply-Crunch-Deepens.html",
-      "source": "OilPrice",
-      "date": "Thu, 06 Aug 2026 15:00:00 -0500"
-    },
-    {
       "title": "Florence copper mine must triple output to hit Trekor target: CEO",
       "link": "https://www.mining.com/florence-copper-mine-must-triple-output-to-hit-trekor-target-ceo/",
       "source": "mining.com",
       "date": "Thu, 06 Aug 2026 19:33:55 +0000"
     },
     {
-      "title": "Mining Giant Glencore Looks Beyond London With Secondary ASX Listing",
-      "link": "https://oilprice.com/Energy/Energy-General/Mining-Giant-Glencore-Looks-Beyond-London-With-Secondary-ASX-Listing.html",
-      "source": "OilPrice",
-      "date": "Thu, 06 Aug 2026 14:00:00 -0500"
-    },
-    {
-      "title": "Russian Oil Production Climbs Above 9 Million Bpd in July",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russian-Oil-Production-Climbs-Above-9-Million-Bpd-in-July.html",
-      "source": "OilPrice",
-      "date": "Thu, 06 Aug 2026 13:30:00 -0500"
-    },
-    {
       "title": "Gold price holds above $4,300 as rate-hike bets fade",
       "link": "https://www.mining.com/gold-price-holds-above-4300-as-rate-hike-bets-fade/",
       "source": "mining.com",
       "date": "Thu, 06 Aug 2026 18:00:00 +0000"
-    },
-    {
-      "title": "Mexico Bans Fracking in Key Shale Basin",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Mexico-Bans-Fracking-in-Key-Shale-Basin.html",
-      "source": "OilPrice",
-      "date": "Thu, 06 Aug 2026 13:00:00 -0500"
     },
     {
       "title": "Lupaka Gold lands first $49M from Peru to settle mining dispute",

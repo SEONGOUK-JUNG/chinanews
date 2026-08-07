@@ -1,27 +1,39 @@
 {
-  "run_at_kst": "2026-08-07T14:13:08+09:00",
+  "run_at_kst": "2026-08-07T20:07:48+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "[경제] 中 경제브리핑...중국-아르헨티나, 통화스와프 5년 연장 外",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qVG44QUlHbFEza0lueHZCSmFzbHQ3bi14T0NwVWRPZkpTOUVzeVNaUTNId2dHTV9rRTZObHFOcjREMzN3RXU1eHUzOE94MTRLY1U5cWYxMTMxZTZmMzZFdjY0eThlZ0hrVy1TNW8tZ2wyZEk?oc=5",
+      "title": "AI 열풍에 한중 교역 급증…중국, 한국산 수입 1년 새 두 배",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51QUJFRUM2dHAtT3FXSXFldnhUVDVUWG1kU2sxQTduNVdpcUZUbFVXOFpMT25ubHRSUzRsM0NpblFsVG05MWpTVWZjcnFuSWVVMXRxLVZvRjhPU0tBQkR2RmhVMDRpUFF0STM4SDJVNnnSAXRBVV95cUxPcHRxbXRWRVJwMmpEVTVvX0hIMVJteGh5SE9oWGpqR2RKQzRVVGxFQ2hjemJuWmcxTk1keHoyY0Y3cTZJb2FxSWxFb25YQXl4WmNzNl9CVkQxWWVKU1RmaW0xMVRKTVA5WnNNeVdwOTd0WHBoTg?oc=5",
+      "source": "산경투데이",
+      "date": "Fri, 07 Aug 2026 06:12:45 GMT"
+    },
+    {
+      "title": "[경제+] AI·하드테크가 이끄는 中 경제...외국계 금융기관 \"하반기 목표치 달성 순조로울 것\"",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92MmNPNnFlYnAzQ3U3dVJrc09ENmZRaktudTZsRzNaSHJ4elVVUzdWNzVfYmc4ZUg2bTU5RXAyd1J2WlBELXRVSVZ5S2hKbGp3Z0JkeFNsYTZyekdlSlU4MjJVZE9mNEYyVGZ6NWxUM3dvcG8?oc=5",
       "source": "동방일보",
-      "date": "Fri, 07 Aug 2026 02:58:56 GMT"
+      "date": "Fri, 07 Aug 2026 05:35:35 GMT"
     },
     {
-      "title": "정부 ‘희토류 탈중국’ 선언 반년째 공회전",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSYkVpaXREdWY4cFVXaUV1c19oQTQyODdyd2RqN3c5eWFGLWN0bFFiOXUyYTRwM2c3ZVRVWlhBUm05SnlVa3JWTHVGbFR0ai1oRXdCNlJR?oc=5",
-      "source": "헤럴드경제",
-      "date": "Fri, 07 Aug 2026 02:03:00 GMT"
+      "title": "[홍승희 칼럼] 일본의 과거와 중국의 미래",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEOG5YT01sZ0E4RVlEY09uNmlHYmhCSXJWcnlFbzc2STAxRFhaak1TUF93aXE4SHRMZVlkcDlwYjVHbFpIaTdvSUtQQXNsaFU5ekxKT2dMc2hYWmVlT1FWQ0FYMmNXUFZCSmc?oc=5",
+      "source": "서울파이낸스",
+      "date": "Fri, 07 Aug 2026 05:27:33 GMT"
     },
     {
-      "title": "엔비디아의 기지국 데이터센터, 중국과 공동개발",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlRjVTLTVxclhuTDZKQTJfRkYwUmhaMDRjUHFRbzFMQjB3a3RZaXJRUjBNTV9NaDJvLU9McVVGNTM2RDF6WFJUbVcyUGlTYjVuNVlVbWF6dFdPQdIBWEFVX3lxTFBrQXJsRWtRMDg3T090N3FVYWx2YzhEbld5bDVEVmlJamwzbGRxX1lBSDczelZRdTNoQ0s3eWJFVkx3U0ZCN1pxN25CUDVXb1V2U3MtVzhQMXg?oc=5",
+      "title": "중국 7월 수출 전년비 23.9%↑⋯한국산 수입 97.8% 늘어",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Ebzh0Z3FEX0R3ZWxHR0s1aW04MWpBa1RsS1FHdldwWFNhempCQWZlS19fT1o4cEFLQi1WUl85Q0RkcnZlTmJSY01HTGdVTEJLdlZ0ZA?oc=5",
+      "source": "이투데이",
+      "date": "Fri, 07 Aug 2026 05:13:00 GMT"
+    },
+    {
+      "title": "중국 수출 견조한 상승...7월 24% 증가",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jSTd6OU9rSnM5QkdhUzN0eV83WHB6OE1DUXlhQ0FCVTRBZGxmRGNQU0VuS2o0LW1yRDlseVVfMUl0ZmlDTUU4M1A1V1YtNU90a1A3cHZXMnNUUdIBWEFVX3lxTE1SYXlqOFVtY1F5bWQ4djExR2podTZOVmNWNFNqQ1VzQXhuZW1DSU5iYklhNUtoM3c5eEg2MW15YS1HTTJTbWh5TFlyRDFLVzkxVkNXenU0ZWo?oc=5",
       "source": "아주경제",
-      "date": "Thu, 06 Aug 2026 23:51:27 GMT"
+      "date": "Fri, 07 Aug 2026 04:55:55 GMT"
     },
     {
       "title": "서울경제진흥원, \"중국 시장 문 활짝\", 서울 중소기업 광저우·청두 판로 개척 지원",
@@ -30,10 +42,10 @@
       "date": "Thu, 06 Aug 2026 23:35:00 GMT"
     },
     {
-      "title": "SBA, 중국 전략시장 공략 본격화, 서울 중소기업 글로벌 판로 확대",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zeEtoR0xFSk9SOWo0ckl1TWtYdngtakJoZ3JyT2pBUzJscWhweF9sUDNMb2NJMlJ0VjU3Zkx4TkFWdl8tMTVVMVdibElab3Q4YTE5WXVOTW5NS0oySmhZeXUxb3pqV0xBYWFnejl4dw?oc=5",
-      "source": "서울시티",
-      "date": "Thu, 06 Aug 2026 22:54:39 GMT"
+      "title": "중국과 미국 재계, 유대 강화하고 공급망 협력 새 기회 모색",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94Vl9tcl9sY3o5MUEycHVPdUtUMFRxX2JRMWZ5WEV0UU4zWG9BbmUtaFRBSkZvVEhMLUl4UHNQOTFWRGt0U3dKVXBzaEIzR3NQVmtPWVdR?oc=5",
+      "source": "지디넷코리아",
+      "date": "Thu, 06 Aug 2026 13:10:02 GMT"
     },
     {
       "title": "하반기 중국 경제 업무, 어떻게 추진할까?",
@@ -42,16 +54,16 @@
       "date": "Thu, 06 Aug 2026 10:28:00 GMT"
     },
     {
-      "title": "중국 경제 및 무역 뉴스 게시판 2026년 7월호: 시장 동향, 정책 및 무역 기회",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOajAyOHNHQ3pyQVlrU1F4c1N6c1lvWEVlSkJBaEpVQzhqNkxJcTJ6bWt1eGlzSWFFdHZOSTZjSmctdFduc2t1TjZFR3hkVWp2TXI1UEo4bklhaVp1d0NzSlRETTNfLU9sR1poT1U0b2M5OFdVZWlEcV9mRWZ1SHRfejBhTjEtSXpET2RFYkxJNWNNWGdhYURxcTRrVTlIbVVBQXd4N2VnajBXdTNSU0VIZ3JSSDZEak1sTjZCSXRyWU83QUM3ZzBlWA?oc=5",
-      "source": "Vietnam.vn",
-      "date": "Thu, 06 Aug 2026 10:27:02 GMT"
+      "title": "미국·중국 꺾고 무기 선주문 1위...국산화 없인 ‘반짝 특수’ [배창학의 방산인사이드]",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZQ3pyWnVOcE45TXFST1gzZ0tNb3dLMGdmaXdOQXBybnZBQjM4UnBmVTA1YTFEYWo2Q3YwVEw5cF81VVBzM2VSSTgycGhrZEk?oc=5",
+      "source": "v.daum.net",
+      "date": "Thu, 06 Aug 2026 09:36:00 GMT"
     },
     {
-      "title": "[Biz-inside,China] 1일 평균 사용량 140조 개 이상...中 토큰 경제, 新 성장 동력으로 부상",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxSTN4d0dXXzBMSEZVTk9DTDdTS1hBQ21VUmhNMy1IVk11clZWc25MRFo1V3BfSGpHYTRtWTUzUDJWazhUdVNuUUZfbGt0QnVVSXpVN2x3?oc=5",
-      "source": "중앙일보",
-      "date": "Thu, 06 Aug 2026 07:55:46 GMT"
+      "title": "[경제직필]한국 앞에 다가온 ‘중국 쇼크 2.0’",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtcXR4eDZQN2VIRTg2YUdwS0hXMEMzeGM5RTZkSHdvdEc4YmJLZy1JWUE2LW1YVE9USG96LUZUWjZ5aWlQTHlRaDRGcHhTS2ZnMEJIVmNXX1BrUdIBX0FVX3lxTFBxa182WnhkUFd0OXR5TEpmdlRWVHVuS1dNcmdDbVRMLW5SWE9ZU281Vk03SzlsSHlzbDY1RU5qZWN0NWNOSDRqSGxybmtBRFViZl9mcWg2VDllcXdvZ0pj?oc=5",
+      "source": "경향신문",
+      "date": "Tue, 04 Aug 2026 11:18:00 GMT"
     },
     {
       "title": "최근 중국경제 불안에 대한 평가 및 시사점",
@@ -64,18 +76,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
       "source": ":: 위즈경제 ::",
       "date": "Mon, 03 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "[열린세상] ‘기술 혁신’ 중국 경제의 역설",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVpiQTJsR21nVklIcG5XR1NxR2tBNG9iZ1JfVkVmaWNxUkprY3FteW1WNG1xeDZXNi1CellROVc0NFhPd0l6MnBUdldjWG03NnA2VkdUd1pOXzd1M2FxQU1vYkFYR0FqdUdLWkU2N1p3aEFRZ2oxRkJYTW5VaVpTcGhralgxbkk?oc=5",
-      "source": "서울신문",
-      "date": "Fri, 24 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52UVRRTTIyQW5udGJFTjhSbEhmTHc4Q2QyTHdTd1BWNzE5b0p0U0hWZk5LbmNjdUY5ZWh2MlBZaEczSnd3RVZGSlRfLXlrdU9HYTlfdmthLW01dTVn0gFiQVVfeXFMUDU0UmVDOFl4VUpZYzlneGtDWHJCX3luT1pfdFhKaGZENGxvWTRjRTZYNTltalJDYXVBUG9IV3I2Qy1IMGljUEdDV0k3d3JQbmVXV05QUzNZSWl5QkJPQk1jV0E?oc=5",
-      "source": "BBC",
-      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
     }
   ]
 }
