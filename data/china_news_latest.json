@@ -1,15 +1,33 @@
 {
-  "run_at_kst": "2026-08-07T07:07:51+09:00",
+  "run_at_kst": "2026-08-07T10:07:50+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "강진군, 중국 푸양시 전지훈련 개최…경제효과 10억",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tRmxjZEV4ejVIbjdGZmpFeWJ5WFNOMGpDMGJvb1hRUllrdVRFVUJPOS1oa2xmbFMxWlZRaUNuTExOaWJCaG4wNUM4QVJ0TTJjaFU3U3hFSWhHWFFMWHJaTkVadzJTc1VNYnUwYg?oc=5",
-      "source": "theleader.co.kr",
-      "date": "Thu, 06 Aug 2026 13:08:33 GMT"
+      "title": "엔비디아의 기지국 데이터센터, 중국과 공동개발",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlRjVTLTVxclhuTDZKQTJfRkYwUmhaMDRjUHFRbzFMQjB3a3RZaXJRUjBNTV9NaDJvLU9McVVGNTM2RDF6WFJUbVcyUGlTYjVuNVlVbWF6dFdPQdIBWEFVX3lxTFBrQXJsRWtRMDg3T090N3FVYWx2YzhEbld5bDVEVmlJamwzbGRxX1lBSDczelZRdTNoQ0s3eWJFVkx3U0ZCN1pxN25CUDVXb1V2U3MtVzhQMXg?oc=5",
+      "source": "아주경제",
+      "date": "Thu, 06 Aug 2026 23:51:27 GMT"
+    },
+    {
+      "title": "서울경제진흥원, \"중국 시장 문 활짝\", 서울 중소기업 광저우·청두 판로 개척 지원",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rYnM4bktoRFZ5OEttWWp2V1RRblZKSXlaM2tRU1NfTHJYWVJDdUNjM09YMHJ5OWxQdHgyQzZNdGJMVEJZejUzRERGb2JZSHNfUW9xVTkzVEE1bGo4dFU2RXRNelE0d2M5cllrQ2tJUDE?oc=5",
+      "source": "이뉴스투데이",
+      "date": "Thu, 06 Aug 2026 23:35:00 GMT"
+    },
+    {
+      "title": "“중국 대신 한국것 쓰게해야”…미·중 갈등이 벌어준 韓 골든타임",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Pc0lIMkFVSWhaNGM0NWFkVXFWMGo1V2s0LXBLbUR3dzhRclJtMHdWTTRlNVJvT2Y3NWdQQ090WFQ1cnRLeVRVekZzQW9SMzA?oc=5",
+      "source": "v.daum.net",
+      "date": "Thu, 06 Aug 2026 20:02:00 GMT"
+    },
+    {
+      "title": "중국과 미국 재계, 유대 강화하고 공급망 협력 새 기회 모색",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94Vl9tcl9sY3o5MUEycHVPdUtUMFRxX2JRMWZ5WEV0UU4zWG9BbmUtaFRBSkZvVEhMLUl4UHNQOTFWRGt0U3dKVXBzaEIzR3NQVmtPWVdR?oc=5",
+      "source": "지디넷코리아",
+      "date": "Thu, 06 Aug 2026 13:10:02 GMT"
     },
     {
       "title": "중국 경제 및 무역 뉴스 게시판 2026년 7월호: 시장 동향, 정책 및 무역 기회",
@@ -22,18 +40,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxSTN4d0dXXzBMSEZVTk9DTDdTS1hBQ21VUmhNMy1IVk11clZWc25MRFo1V3BfSGpHYTRtWTUzUDJWazhUdVNuUUZfbGt0QnVVSXpVN2x3?oc=5",
       "source": "중앙일보",
       "date": "Thu, 06 Aug 2026 07:55:46 GMT"
-    },
-    {
-      "title": "중국의 대미 보복조치에 희토류는 제외...정상회담 앞두고 수위조절",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01ekw3YnhTN0pGcmJlUWxIZDJ5Q0QzOXNBb25TTUNWQ2VaNTRxbzkwdmFyT041cGY5emNRZ0Z2NWM0RHo3dUFMWEZNMThIdU1JZ2czZGJpOVh5UdIBWEFVX3lxTE9ESXlaTm43eldQRnVTYmJKMFpOYXhacUZsSlMwc3oyQVdqdEd2SWs2OWl5TWVYdGxQeFRZRWVabEFOa0pIajFqbGstYzB3Tm9yTDYwWFhuZEo?oc=5",
-      "source": "아주경제",
-      "date": "Thu, 06 Aug 2026 00:02:16 GMT"
-    },
-    {
-      "title": "\"비싸도 산다\"…글로벌에서도 중국 이모님 통했다",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PdzEtNWZtN2FWVWNKdkR3VzdJRmdURmFiWnhUNW92OXpNT1M4VllQMDdpcjBkeGJrWnpGcElfOVhJUmtmbVhpa25HUEZKbmpGZWEtU1g5YXhjZw?oc=5",
-      "source": "한국경제",
-      "date": "Wed, 05 Aug 2026 04:00:05 GMT"
     },
     {
       "title": "중국 내수 침체와 과잉수출, 독일 제조업 압박하는 ‘이중고’",
@@ -66,15 +72,9 @@
       "date": "Fri, 24 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "중국 경제성장률 추이",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYUTRLWl9qenQ4dUo2LVFmbGtwRXNaZ3NkZGNXTkZiTXB6c2F4MHZhalJPTi1SWExpYXp0STRJOWh4VUFraHdMRzg0QnQ2dw?oc=5",
-      "source": "Haninpost",
-      "date": "Sun, 19 Jul 2026 07:00:00 GMT"
-    },
-    {
       "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52UVRRTTIyQW5udGJFTjhSbEhmTHc4Q2QyTHdTd1BWNzE5b0p0U0hWZk5LbmNjdUY5ZWh2MlBZaEczSnd3RVZGSlRfLXlrdU9HYTlfdmthLW01dTVn0gFiQVVfeXFMUDU0UmVDOFl4VUpZYzlneGtDWHJCX3luT1pfdFhKaGZENGxvWTRjRTZYNTltalJDYXVBUG9IV3I2Qy1IMGljUEdDV0k3d3JQbmVXV05QUzNZSWl5QkJPQk1jV0E?oc=5",
-      "source": "bbc.com",
+      "source": "BBC",
       "date": "Wed, 15 Jul 2026 07:00:00 GMT"
     }
   ]

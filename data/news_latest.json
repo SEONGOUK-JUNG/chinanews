@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-07T07:07:51+09:00",
+  "run_at_kst": "2026-08-07T10:07:50+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,24 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Lower Oil Prices Lend Support For The Gold Rally",
+      "link": "https://oilprice.com/Metals/Gold/Lower-Oil-Prices-Lend-Support-For-The-Gold-Rally.html",
+      "source": "OilPrice",
+      "date": "Thu, 06 Aug 2026 19:00:00 -0500"
+    },
+    {
+      "title": "Perpetua makes tungsten discovery at Gold-Stibnite project in Idaho",
+      "link": "https://www.mining.com/perpetua-discovers-tungsten-mineralization-at-gold-stibnite-project-in-idaho/",
+      "source": "mining.com",
+      "date": "Thu, 06 Aug 2026 23:09:08 +0000"
+    },
+    {
+      "title": "Gas Shortages and High Prices Derail Southeast Asia’s Power Buildout",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Gas-Shortages-and-High-Prices-Derail-Southeast-Asias-Power-Buildout.html",
+      "source": "OilPrice",
+      "date": "Thu, 06 Aug 2026 18:00:00 -0500"
+    },
     {
       "title": "UK Drivers Take To Fuel Theft amid War-Driven Price Surge",
       "link": "https://oilprice.com/Energy/Energy-General/UK-Drivers-Take-To-Fuel-Theft-amid-War-Driven-Price-Surge.html",
@@ -68,28 +86,10 @@
       "date": "Thu, 06 Aug 2026 13:00:00 -0500"
     },
     {
-      "title": "This Megaproject Could Keep Brazil's Oil Boom Running Deep Into The 2030's",
-      "link": "https://oilprice.com/Energy/Energy-General/This-Megaproject-Could-Keep-Brazils-Oil-Boom-Running-Deep-Into-The-2030s.html",
-      "source": "OilPrice",
-      "date": "Thu, 06 Aug 2026 12:00:00 -0500"
-    },
-    {
-      "title": "Aramco Deepens Asia Oil Discount Ahead of Possible Hormuz Deal",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Aramco-Deepens-Asia-Oil-Discount-Ahead-of-Possible-Hormuz-Deal.html",
-      "source": "OilPrice",
-      "date": "Thu, 06 Aug 2026 11:30:00 -0500"
-    },
-    {
       "title": "Lupaka Gold lands first $49M from Peru to settle mining dispute",
       "link": "https://www.mining.com/lupaka-gold-lands-first-49m-from-peru-to-settle-mining-dispute/",
       "source": "mining.com",
       "date": "Thu, 06 Aug 2026 14:54:00 +0000"
-    },
-    {
-      "title": "Equinox Gold approves $436M Valentine mine expansion",
-      "link": "https://www.mining.com/equinox-gold-approves-436m-valentine-mine-expansion/",
-      "source": "mining.com",
-      "date": "Thu, 06 Aug 2026 14:08:00 +0000"
     }
   ]
 }
