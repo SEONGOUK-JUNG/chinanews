@@ -1,10 +1,34 @@
 {
-  "run_at_kst": "2026-08-08T14:12:56+09:00",
+  "run_at_kst": "2026-08-08T20:08:15+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "중국 부자 4명 중 1명, 베이징·상하이에 산다",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQNFNiQUYyWm1GR25tZG5kZWk2NklPeGtfUGRaaWVkdmdvR0cycGpkbDBOdHZFUFNEcjBQM3F3d3lZeTVfcUxrUEM3YUdncG4xWXMwcDNWV2JXUFZOdmFWMlpTQzVsRmlt?oc=5",
+      "source": "OBC 뉴스",
+      "date": "Sat, 08 Aug 2026 06:25:56 GMT"
+    },
+    {
+      "title": "[경제] 中 경제브리핑...중국 상반기 광고업 매출 209조원 돌파 外",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VNF9wNXRyWHc2QmtXb1ZKNGotVW9MaEg4amJ0akNCMGR4aVBlblBxdmNEdE44QTc4TmhsbnBSYnFRWm91ai01MmRRSVRQOXNuakVTeTg3WmVzSmVVMmsyS2xSaFE2b1NPZFp3?oc=5",
+      "source": "snakorea.com",
+      "date": "Sat, 08 Aug 2026 05:56:19 GMT"
+    },
+    {
+      "title": "중국 때린 트럼프...한화, '초대박' 터지나",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03LVZabFhGVHktRlB3ZkFtS2FDN003QlkwWnVDdGtvank0al83TmFsdnlnc1RGR2RvU2d6bjU3T3YzVzg4SnltcC16X04zazQ?oc=5",
+      "source": "v.daum.net",
+      "date": "Sat, 08 Aug 2026 03:51:36 GMT"
+    },
+    {
+      "title": "AI·하드테크가 이끄는 中 경제...외국계 금융기관 \"하반기 목표치 달성 순조로울 것\"-Xinhua",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92ZHBKN1pHcy1BNzUySFd0WHlMZ2ZqUjR1SnhLbkphbFFtdjlEYzJnMi1FcjBlVVZxTFM5c3hWd0ZJOGZMUHlTdEszU3NxNmVWZHEyLUpQQy1iWjRabTcwamdsVlQzcDV2SkVWU0gwT2RLSURUaFZ4ck4xbWs?oc=5",
+      "source": "新华网",
+      "date": "Sat, 08 Aug 2026 01:16:10 GMT"
+    },
     {
       "title": "중국을 깎아내리면 한국이 강해지는가",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IQ1poeC1sT1FzQWVhNGVxbGRETjNmU003UE42Z0lfWXVnanpOOC10MnhsUlNKVTEzZXdIdEpYbU9hdnRwaURacF9PWEZXb05keWVGVzVMS19sWTg?oc=5",
@@ -14,8 +38,14 @@
     {
       "title": "소비 침체에도 가격 두번 올린 마오타이의 속내",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04MEJ5cUtxcHpNRTg0akZsVldzWHRMXzJlRTAtR1ZPbzlFd0I0c2pBdkpZMDd0RGZwVEEzam5mRV8zREtRYVR1Z1VqWXJxTjlJUzFUMlFhN0NsUQ?oc=5",
-      "source": "한국경제",
+      "source": "hankyung.com",
       "date": "Sat, 08 Aug 2026 00:00:02 GMT"
+    },
+    {
+      "title": "엔비디아의 기지국 데이터센터, 중국과 공동개발",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlRjVTLTVxclhuTDZKQTJfRkYwUmhaMDRjUHFRbzFMQjB3a3RZaXJRUjBNTV9NaDJvLU9McVVGNTM2RDF6WFJUbVcyUGlTYjVuNVlVbWF6dFdPQdIBWEFVX3lxTFBrQXJsRWtRMDg3T090N3FVYWx2YzhEbld5bDVEVmlJamwzbGRxX1lBSDczelZRdTNoQ0s3eWJFVkx3U0ZCN1pxN25CUDVXb1V2U3MtVzhQMXg?oc=5",
+      "source": "ajunews.com",
+      "date": "Thu, 06 Aug 2026 23:51:27 GMT"
     },
     {
       "title": "하반기 중국 경제 업무, 어떻게 추진할까?",
@@ -24,40 +54,10 @@
       "date": "Thu, 06 Aug 2026 10:28:00 GMT"
     },
     {
-      "title": "중국 경제 및 무역 뉴스 게시판 2026년 7월호: 시장 동향, 정책 및 무역 기회",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOajAyOHNHQ3pyQVlrU1F4c1N6c1lvWEVlSkJBaEpVQzhqNkxJcTJ6bWt1eGlzSWFFdHZOSTZjSmctdFduc2t1TjZFR3hkVWp2TXI1UEo4bklhaVp1d0NzSlRETTNfLU9sR1poT1U0b2M5OFdVZWlEcV9mRWZ1SHRfejBhTjEtSXpET2RFYkxJNWNNWGdhYURxcTRrVTlIbVVBQXd4N2VnajBXdTNSU0VIZ3JSSDZEak1sTjZCSXRyWU83QUM3ZzBlWA?oc=5",
-      "source": "Vietnam.vn",
-      "date": "Thu, 06 Aug 2026 10:27:02 GMT"
-    },
-    {
-      "title": "중국의 대미 보복조치에 희토류는 제외...정상회담 앞두고 수위조절",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01ekw3YnhTN0pGcmJlUWxIZDJ5Q0QzOXNBb25TTUNWQ2VaNTRxbzkwdmFyT041cGY5emNRZ0Z2NWM0RHo3dUFMWEZNMThIdU1JZ2czZGJpOVh5UdIBWEFVX3lxTE9ESXlaTm43eldQRnVTYmJKMFpOYXhacUZsSlMwc3oyQVdqdEd2SWs2OWl5TWVYdGxQeFRZRWVabEFOa0pIajFqbGstYzB3Tm9yTDYwWFhuZEo?oc=5",
-      "source": "아주경제",
-      "date": "Thu, 06 Aug 2026 00:02:16 GMT"
-    },
-    {
-      "title": "중국 내수 침체와 과잉수출, 독일 제조업 압박하는 ‘이중고’",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNblEwa0hMNk5NVGdYbURZNHJ0dVJ6Q3NCOXVTUGI1LU1rZU1wY1pyUjNndWhFYm83R2M2Ykl5VU1wT01jZ1B6bzFlYks3Mnk2RVBkd2gxMzVJV1gycTRpX1d4bnVlTGVvYUNPZ0c5RUxTVnpnZEYycUc0NUtZMllYMEFRV0tsdWls?oc=5",
-      "source": "글로벌이코노믹",
-      "date": "Tue, 04 Aug 2026 22:37:10 GMT"
-    },
-    {
       "title": "최근 중국경제 불안에 대한 평가 및 시사점",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05cXJ3bEM4X1NkR2MwSGJCa1dHLWdZc0lBY2lwMEVMYkdhVWllT1dLTUFJdU01MU9SdVp1ZEROQ25DeGZlcmhnLThXQTZvdmRyb3RhR0dNY2VSZmQ0QXFncmlNYzcyZw?oc=5",
       "source": "kdi.re.kr",
       "date": "Tue, 04 Aug 2026 10:45:05 GMT"
-    },
-    {
-      "title": "[하현옥의 세계경제전망] 중국 ‘소주성’ 5개년 계획…걸림돌은 ‘K자형 양극화’",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yUFA5TTAwQmNVbU8yM2QzcFgzUGVWc0wwSDBjeUc2eEdHcnphci1IZ3Y1SmxHT3hDd2N6Y1cwUnQ1cTlWRl9kZEhsUmx4X0k?oc=5",
-      "source": "v.daum.net",
-      "date": "Mon, 03 Aug 2026 15:16:09 GMT"
-    },
-    {
-      "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Mon, 03 Aug 2026 05:06:17 GMT"
     },
     {
       "title": "[열린세상] ‘기술 혁신’ 중국 경제의 역설",
