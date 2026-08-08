@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-08T07:08:05+09:00",
+  "run_at_kst": "2026-08-08T10:07:59+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,10 +8,46 @@
   "count": 14,
   "items": [
     {
+      "title": "Sunrise Energy Metals’ scandium project gets $400M conditional loan from US Department of War",
+      "link": "https://www.mining.com/sunrise-energy-metals-scandium-project-gets-400m-conditional-loan-from-us-department-of-war/",
+      "source": "mining.com",
+      "date": "Sat, 08 Aug 2026 00:22:30 +0000"
+    },
+    {
+      "title": "Niron Magnetics lands conditional $150M Department of War funding commitment",
+      "link": "https://www.mining.com/niron-magnetics-lands-conditional-150m-department-of-war-funding-commitment/",
+      "source": "mining.com",
+      "date": "Fri, 07 Aug 2026 23:52:28 +0000"
+    },
+    {
+      "title": "Oil Traders Stay Bearish Despite Deepening Middle East Disruptions",
+      "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Traders-Stay-Bearish-Despite-Deepening-Middle-East-Disruptions.html",
+      "source": "OilPrice",
+      "date": "Fri, 07 Aug 2026 18:00:00 -0500"
+    },
+    {
+      "title": "EU Locks In Plan To Triple Energy Storage Capacity By 2030",
+      "link": "https://oilprice.com/Energy/Energy-General/EU-Locks-In-Plan-To-Triple-Energy-Storage-Capacity-By-2030.html",
+      "source": "OilPrice",
+      "date": "Fri, 07 Aug 2026 18:00:00 -0500"
+    },
+    {
+      "title": "Glomar Minerals targets deep-sea production before end of Trump term",
+      "link": "https://www.mining.com/glomar-minerals-targets-deep-sea-production-before-end-of-trump-term/",
+      "source": "mining.com",
+      "date": "Fri, 07 Aug 2026 22:50:08 +0000"
+    },
+    {
       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
       "link": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
       "source": "OilPrice",
       "date": "Fri, 07 Aug 2026 16:00:00 -0500"
+    },
+    {
+      "title": "B2Gold wins Mali permit after guidance cut",
+      "link": "https://www.mining.com/b2gold-wins-mali-permit-after-guidance-cut/",
+      "source": "mining.com",
+      "date": "Fri, 07 Aug 2026 20:30:50 +0000"
     },
     {
       "title": "Energy Affordability Trumps Climate in US Midterm Races",
@@ -54,42 +90,6 @@
       "link": "https://www.mining.com/op-ed-the-battle-for-critical-minerals-is-won-at-the-port-not-the-mine/",
       "source": "mining.com",
       "date": "Fri, 07 Aug 2026 16:19:07 +0000"
-    },
-    {
-      "title": "Is Iran Preparing to Permanently Block the Strait of Hormuz?",
-      "link": "https://oilprice.com/Energy/Energy-General/Is-Iran-Preparing-to-Permanently-Block-the-Strait-of-Hormuz.html",
-      "source": "OilPrice",
-      "date": "Fri, 07 Aug 2026 11:04:46 -0500"
-    },
-    {
-      "title": "ADNOC Reports 15 Vessel Attacks as Hormuz Risks Mount",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Reports-15-Vessel-Attacks-as-Hormuz-Risks-Mount.html",
-      "source": "OilPrice",
-      "date": "Fri, 07 Aug 2026 10:45:00 -0500"
-    },
-    {
-      "title": "NGEx to spin out South American exploration company",
-      "link": "https://www.mining.com/ngex-to-spin-out-south-american-exploration-company/",
-      "source": "mining.com",
-      "date": "Fri, 07 Aug 2026 14:40:55 +0000"
-    },
-    {
-      "title": "Gold, silver prices surge as US economy sheds 23,000 jobs",
-      "link": "https://www.mining.com/gold-silver-prices-surge-as-us-economy-sheds-23000-jobs/",
-      "source": "mining.com",
-      "date": "Fri, 07 Aug 2026 12:14:00 +0000"
-    },
-    {
-      "title": "DRC probes how 5,000 tonnes of uranium ‘leaked’ into cobalt exports",
-      "link": "https://www.mining.com/drc-probes-how-5000-tonnes-of-uranium-leaked-into-cobalt-exports/",
-      "source": "mining.com",
-      "date": "Fri, 07 Aug 2026 11:15:00 +0000"
-    },
-    {
-      "title": "Perpetua makes tungsten discovery at Gold-Stibnite project in Idaho",
-      "link": "https://www.mining.com/perpetua-discovers-tungsten-mineralization-at-gold-stibnite-project-in-idaho/",
-      "source": "mining.com",
-      "date": "Thu, 06 Aug 2026 23:09:08 +0000"
     }
   ]
 }
