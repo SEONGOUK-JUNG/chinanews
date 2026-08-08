@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-08T10:07:59+09:00",
+  "run_at_kst": "2026-08-08T14:12:56+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -18,34 +18,28 @@
       "date": "Sat, 08 Aug 2026 00:00:02 GMT"
     },
     {
-      "title": "AI 열풍에 한중 교역 급증…중국, 한국산 수입 1년 새 두 배",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51QUJFRUM2dHAtT3FXSXFldnhUVDVUWG1kU2sxQTduNVdpcUZUbFVXOFpMT25ubHRSUzRsM0NpblFsVG05MWpTVWZjcnFuSWVVMXRxLVZvRjhPU0tBQkR2RmhVMDRpUFF0STM4SDJVNnnSAXRBVV95cUxPcHRxbXRWRVJwMmpEVTVvX0hIMVJteGh5SE9oWGpqR2RKQzRVVGxFQ2hjemJuWmcxTk1keHoyY0Y3cTZJb2FxSWxFb25YQXl4WmNzNl9CVkQxWWVKU1RmaW0xMVRKTVA5WnNNeVdwOTd0WHBoTg?oc=5",
-      "source": "산경투데이",
-      "date": "Fri, 07 Aug 2026 06:12:45 GMT"
-    },
-    {
-      "title": "[경제+] AI·하드테크가 이끄는 中 경제...외국계 금융기관 \"하반기 목표치 달성 순조로울 것\"",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92MmNPNnFlYnAzQ3U3dVJrc09ENmZRaktudTZsRzNaSHJ4elVVUzdWNzVfYmc4ZUg2bTU5RXAyd1J2WlBELXRVSVZ5S2hKbGp3Z0JkeFNsYTZyekdlSlU4MjJVZE9mNEYyVGZ6NWxUM3dvcG8?oc=5",
-      "source": "동방일보",
-      "date": "Fri, 07 Aug 2026 05:35:35 GMT"
-    },
-    {
-      "title": "[홍승희 칼럼] 일본의 과거와 중국의 미래",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEOG5YT01sZ0E4RVlEY09uNmlHYmhCSXJWcnlFbzc2STAxRFhaak1TUF93aXE4SHRMZVlkcDlwYjVHbFpIaTdvSUtQQXNsaFU5ekxKT2dMc2hYWmVlT1FWQ0FYMmNXUFZCSmc?oc=5",
-      "source": "서울파이낸스",
-      "date": "Fri, 07 Aug 2026 05:27:33 GMT"
-    },
-    {
-      "title": "중국 수출 견조한 상승...7월 24% 증가",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jSTd6OU9rSnM5QkdhUzN0eV83WHB6OE1DUXlhQ0FCVTRBZGxmRGNQU0VuS2o0LW1yRDlseVVfMUl0ZmlDTUU4M1A1V1YtNU90a1A3cHZXMnNUUdIBWEFVX3lxTE1SYXlqOFVtY1F5bWQ4djExR2podTZOVmNWNFNqQ1VzQXhuZW1DSU5iYklhNUtoM3c5eEg2MW15YS1HTTJTbWh5TFlyRDFLVzkxVkNXenU0ZWo?oc=5",
-      "source": "ajunews.com",
-      "date": "Fri, 07 Aug 2026 04:55:55 GMT"
-    },
-    {
       "title": "하반기 중국 경제 업무, 어떻게 추진할까?",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DaW5wdThwa05Ma0hrMkd2WjVnYWxzQ1hpYllUNnNlX0IwbWpiQzNvamQzZEpTVHlWaS11VzhLbFdsTE1NaERJdXdYWVBtckUzVzF3UWlWN3BaXzRyV2dTNXpnZw?oc=5",
       "source": "CGTN",
       "date": "Thu, 06 Aug 2026 10:28:00 GMT"
+    },
+    {
+      "title": "중국 경제 및 무역 뉴스 게시판 2026년 7월호: 시장 동향, 정책 및 무역 기회",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOajAyOHNHQ3pyQVlrU1F4c1N6c1lvWEVlSkJBaEpVQzhqNkxJcTJ6bWt1eGlzSWFFdHZOSTZjSmctdFduc2t1TjZFR3hkVWp2TXI1UEo4bklhaVp1d0NzSlRETTNfLU9sR1poT1U0b2M5OFdVZWlEcV9mRWZ1SHRfejBhTjEtSXpET2RFYkxJNWNNWGdhYURxcTRrVTlIbVVBQXd4N2VnajBXdTNSU0VIZ3JSSDZEak1sTjZCSXRyWU83QUM3ZzBlWA?oc=5",
+      "source": "Vietnam.vn",
+      "date": "Thu, 06 Aug 2026 10:27:02 GMT"
+    },
+    {
+      "title": "중국의 대미 보복조치에 희토류는 제외...정상회담 앞두고 수위조절",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01ekw3YnhTN0pGcmJlUWxIZDJ5Q0QzOXNBb25TTUNWQ2VaNTRxbzkwdmFyT041cGY5emNRZ0Z2NWM0RHo3dUFMWEZNMThIdU1JZ2czZGJpOVh5UdIBWEFVX3lxTE9ESXlaTm43eldQRnVTYmJKMFpOYXhacUZsSlMwc3oyQVdqdEd2SWs2OWl5TWVYdGxQeFRZRWVabEFOa0pIajFqbGstYzB3Tm9yTDYwWFhuZEo?oc=5",
+      "source": "아주경제",
+      "date": "Thu, 06 Aug 2026 00:02:16 GMT"
+    },
+    {
+      "title": "중국 내수 침체와 과잉수출, 독일 제조업 압박하는 ‘이중고’",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNblEwa0hMNk5NVGdYbURZNHJ0dVJ6Q3NCOXVTUGI1LU1rZU1wY1pyUjNndWhFYm83R2M2Ykl5VU1wT01jZ1B6bzFlYks3Mnk2RVBkd2gxMzVJV1gycTRpX1d4bnVlTGVvYUNPZ0c5RUxTVnpnZEYycUc0NUtZMllYMEFRV0tsdWls?oc=5",
+      "source": "글로벌이코노믹",
+      "date": "Tue, 04 Aug 2026 22:37:10 GMT"
     },
     {
       "title": "최근 중국경제 불안에 대한 평가 및 시사점",
@@ -58,6 +52,12 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yUFA5TTAwQmNVbU8yM2QzcFgzUGVWc0wwSDBjeUc2eEdHcnphci1IZ3Y1SmxHT3hDd2N6Y1cwUnQ1cTlWRl9kZEhsUmx4X0k?oc=5",
       "source": "v.daum.net",
       "date": "Mon, 03 Aug 2026 15:16:09 GMT"
+    },
+    {
+      "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Mon, 03 Aug 2026 05:06:17 GMT"
     },
     {
       "title": "[열린세상] ‘기술 혁신’ 중국 경제의 역설",

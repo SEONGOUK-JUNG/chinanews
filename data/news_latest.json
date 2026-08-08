@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-08T10:07:59+09:00",
+  "run_at_kst": "2026-08-08T14:12:56+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "World’s biggest mining companies now worth $2.17 trillion",
+      "link": "https://www.mining.com/worlds-biggest-mining-companies-now-worth-2-17-trillion/",
+      "source": "mining.com",
+      "date": "Sat, 08 Aug 2026 01:11:59 +0000"
+    },
     {
       "title": "Sunrise Energy Metals’ scandium project gets $400M conditional loan from US Department of War",
       "link": "https://www.mining.com/sunrise-energy-metals-scandium-project-gets-400m-conditional-loan-from-us-department-of-war/",
@@ -84,12 +90,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/US-Oil-Drillers-Add-Rigs.html",
       "source": "OilPrice",
       "date": "Fri, 07 Aug 2026 12:14:00 -0500"
-    },
-    {
-      "title": "Op-ed: The battle for critical minerals is won at the port, not the mine",
-      "link": "https://www.mining.com/op-ed-the-battle-for-critical-minerals-is-won-at-the-port-not-the-mine/",
-      "source": "mining.com",
-      "date": "Fri, 07 Aug 2026 16:19:07 +0000"
     }
   ]
 }
