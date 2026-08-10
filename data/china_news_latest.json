@@ -1,15 +1,21 @@
 {
-  "run_at_kst": "2026-08-10T20:13:34+09:00",
+  "run_at_kst": "2026-08-11T07:08:24+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "중국 7월 소비자물가 상승률 0.5%로 둔화…내수 회복세 여전히 ‘온도 차’",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VVjNLYWM0TkIwZmtSdVBqZDU4amlpMEtDU0JzcUU1UkY3cFA1d2s2WWE4MU1xckFDVE80UDVYN3BWUEs1YVYtMmdHLTg?oc=5",
-      "source": "한국AI부동산신문",
-      "date": "Mon, 10 Aug 2026 10:57:42 GMT"
+      "title": "“일본 ‘핵 반입’ 피할 수 없다…중·일 갈등은 경제서 군사지대로 이동”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56U3ZoSmZvUjdEX2IxbTA4RU1IR25nMjQzVGt0OWs4TUp4TFBaOXU5WDJ6TFZhYVJ2TWh2V3pnazhwNGl4Z1RLZWRGOXdVNjRMa3VEcHdqZjZYcnFJZVE?oc=5",
+      "source": "주간경향",
+      "date": "Mon, 10 Aug 2026 21:00:00 GMT"
+    },
+    {
+      "title": "광양경자청, 중국 12개사에 황금·세풍산단 제시…투자 협의 구체화",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kdEItc0VtYk05MmZGRWxwQXFlZXVnWnFtWFBPd1N3eHpnN0o0TzlVWURNeS1QZlUtb2otQjgyZHpRVHFoYVNFUkpCRndZdmhJN2QzZ1pOTWVUa2hBS1dPbUcyV0x0RDQ?oc=5",
+      "source": "지이코노미",
+      "date": "Mon, 10 Aug 2026 18:55:28 GMT"
     },
     {
       "title": "‘중국 과기협회’ 광양만권 투자 집중 탐방",
@@ -22,18 +28,6 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lSkJ0MnRBaXJrSFRzWXFFUjJPa1E1QUd4QXNwX2FNZG8ycEZWdVpBeVczMEotZ3o3RVBCWUR2WThpZ216TklmaURjRTRSSXhLeGY2LUxQc1ZMaEUzZnozcnBMTUFkZlZCZXNMazhR?oc=5",
       "source": "알파경제",
       "date": "Mon, 10 Aug 2026 07:00:36 GMT"
-    },
-    {
-      "title": "[경제] 호주 기업, 중국 AI 모델 도입 확대...가성비와 개방성 주목",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mX2xuQkczQmN6TTVSSGIxMnc4Q2xHZ19scmxrWVowNHdxR1BJaDFoV1dJWjNZUTNvMmRIeXdUQlFkeWladmxnVkl4X2VfNXh6SVlaMDluaFNTUkFlMkFCYVhGR3M0TGp5X1R4SFV3Z0pSR00?oc=5",
-      "source": "동방일보",
-      "date": "Mon, 10 Aug 2026 06:54:41 GMT"
-    },
-    {
-      "title": "[경제+] 노후공업 도시의 변신...中 안후이 벙부, 중국의 센서 밸리로 부상",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vNFBaYmxBVm9KTVVlRE9xQkRBZjFnX1QxXzUxTktKZDIwaktWVUQzUTE4WjFVQVU1N3pqX3NWYUhEcUZ0MHlqNXYxeUdNZ0V1U1c5TERPY1BkWkI5N0VTMlNaWlMxOFNEcG5F?oc=5",
-      "source": "서울뉴스통신",
-      "date": "Mon, 10 Aug 2026 06:41:58 GMT"
     },
     {
       "title": "6,000km 이동한 태풍 중국 상륙...'경제수도' 물바다",
@@ -54,16 +48,22 @@
       "date": "Mon, 10 Aug 2026 01:27:46 GMT"
     },
     {
-      "title": "中 경제브리핑...중국 상반기 광고업 매출 209조원 돌파 外-Xinhua",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsZWJzeWJpQXpvX09UQkxiYXdMSXFEdWJOMWF6VXMyLVJIaHZPT0t0WDNWTFRyQVFkdG9ZUjJDMDBocnBoTHVlbnowTHdodWhJN1o2a19tUFAtbWFzU2lsUFhCaE1hbkEwNjVxOC1EU2FVbGk0Y1dvdGl4aU8?oc=5",
-      "source": "신화망",
-      "date": "Sun, 09 Aug 2026 22:47:56 GMT"
+      "title": "중동 정세 中 경제에 영향 지속, 물가 계속 상승",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VTGs3TXhsc0R4bWo1Yk9SOHJlRDh6bUIzNXl3eHoxZ3FZR1FhaWo5dDdwdTctTGNURTZmbjZybkVjR28wbG9zdDQyTVBPTTJ1a1Fmd3lSLTFBM0ZrZDlwd0dOVnduQnczbjFMbFh3?oc=5",
+      "source": "아시아투데이",
+      "date": "Sun, 09 Aug 2026 08:11:03 GMT"
     },
     {
       "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
       "source": ":: 위즈경제 ::",
       "date": "Fri, 07 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "하반기 중국 경제 업무, 어떻게 추진할까?",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DaW5wdThwa05Ma0hrMkd2WjVnYWxzQ1hpYllUNnNlX0IwbWpiQzNvamQzZEpTVHlWaS11VzhLbFdsTE1NaERJdXdYWVBtckUzVzF3UWlWN3BaXzRyV2dTNXpnZw?oc=5",
+      "source": "korean.cri.cn",
+      "date": "Thu, 06 Aug 2026 10:28:00 GMT"
     },
     {
       "title": "최근 중국경제 불안에 대한 평가 및 시사점",
