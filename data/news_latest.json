@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-10T16:09:24+09:00",
+  "run_at_kst": "2026-08-10T20:13:34+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,24 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Hungary’s Nuclear Power Returns as Rain Lifts Danube Water Levels",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hungarys-Nuclear-Power-Returns-as-Rain-Lifts-Danube-Water-Levels.html",
+      "source": "OilPrice",
+      "date": "Mon, 10 Aug 2026 05:30:00 -0500"
+    },
+    {
+      "title": "Ukrainian Drone Strike Kills 12 in Major Attack on Russian Refining Hub",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukrainian-Drone-Strike-Kills-12-in-Major-Attack-on-Russian-Refining-Hub.html",
+      "source": "OilPrice",
+      "date": "Mon, 10 Aug 2026 04:00:00 -0500"
+    },
+    {
+      "title": "ADNOC Gas Unveils $8.2 Billion Expansion Push",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Gas-Unveils-82-Billion-Expansion-Push.html",
+      "source": "OilPrice",
+      "date": "Mon, 10 Aug 2026 03:00:00 -0500"
+    },
     {
       "title": "Hormuz Tensions Surge After Reports of Another Tanker Strike",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tensions-Surge-After-Reports-of-Another-Tanker-Strike.html",
@@ -36,24 +54,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/Europes-Next-Energy-Crisis-Wont-Be-a-War-Itll-Be-Peak-Oil.html",
       "source": "OilPrice",
       "date": "Sun, 09 Aug 2026 12:00:00 -0500"
-    },
-    {
-      "title": "How Engineers Are Reinventing the Wind Turbine",
-      "link": "https://oilprice.com/Alternative-Energy/Wind-Power/How-Engineers-Are-Reinventing-the-Wind-Turbine.html",
-      "source": "OilPrice",
-      "date": "Sun, 09 Aug 2026 10:00:00 -0500"
-    },
-    {
-      "title": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Energy-Helps-Cushion-Global-Supply-Shock-From-Hormuz.html",
-      "source": "OilPrice",
-      "date": "Sat, 08 Aug 2026 18:00:00 -0500"
-    },
-    {
-      "title": "Why Southeast Asia's Clean Energy Surge Could Stall Before It Starts",
-      "link": "https://oilprice.com/Energy/Energy-General/Why-Southeast-Asias-Clean-Energy-Surge-Could-Stall-Before-It-Starts.html",
-      "source": "OilPrice",
-      "date": "Sat, 08 Aug 2026 16:00:00 -0500"
     },
     {
       "title": "World’s biggest mining companies now worth $2.17 trillion",
