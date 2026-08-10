@@ -1,51 +1,57 @@
 {
-  "run_at_kst": "2026-08-08T20:08:15+09:00",
+  "run_at_kst": "2026-08-10T16:09:24+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "중국 부자 4명 중 1명, 베이징·상하이에 산다",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQNFNiQUYyWm1GR25tZG5kZWk2NklPeGtfUGRaaWVkdmdvR0cycGpkbDBOdHZFUFNEcjBQM3F3d3lZeTVfcUxrUEM3YUdncG4xWXMwcDNWV2JXUFZOdmFWMlpTQzVsRmlt?oc=5",
-      "source": "OBC 뉴스",
-      "date": "Sat, 08 Aug 2026 06:25:56 GMT"
+      "title": "[경제] 호주 기업, 중국 AI 모델 도입 확대...가성비와 개방성 주목",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13M2ZmN0FWb2JValhmamM3MnRkbGdqZFlCeGo1d0NKMUxlSGxrQjdpWXJSelFhaGV3Q2hQRHhtQkFENUNtNnVwdEZJOC14eXdTMEZCc2hNNk9YUXF4aDFScXR3V3ZfVkNSTUxB?oc=5",
+      "source": "서울뉴스통신",
+      "date": "Mon, 10 Aug 2026 06:54:41 GMT"
     },
     {
-      "title": "[경제] 中 경제브리핑...중국 상반기 광고업 매출 209조원 돌파 外",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VNF9wNXRyWHc2QmtXb1ZKNGotVW9MaEg4amJ0akNCMGR4aVBlblBxdmNEdE44QTc4TmhsbnBSYnFRWm91ai01MmRRSVRQOXNuakVTeTg3WmVzSmVVMmsyS2xSaFE2b1NPZFp3?oc=5",
-      "source": "snakorea.com",
-      "date": "Sat, 08 Aug 2026 05:56:19 GMT"
+      "title": "다음 달 미·중 3차 정상회담이 열린다…'베이징 거버넌스'와 '트럼프 거버넌스' [국제경제읽기 한상춘]",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zYl95R2owS0NMZUtCZjd6ZDRuV09VQTRBU3lfMHFqbFpmRm55Vkp4UGtMM1Bldmc3TUxuOXR2YnQwX0Izbk1XUWRqeW9KYmFMWm94T3JVNjZKTVY4OF9jNVN3ZTM2SF8tRjVfNTd3?oc=5",
+      "source": "네이트",
+      "date": "Mon, 10 Aug 2026 04:49:00 GMT"
     },
     {
-      "title": "중국 때린 트럼프...한화, '초대박' 터지나",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03LVZabFhGVHktRlB3ZkFtS2FDN003QlkwWnVDdGtvank0al83TmFsdnlnc1RGR2RvU2d6bjU3T3YzVzg4SnltcC16X04zazQ?oc=5",
-      "source": "v.daum.net",
-      "date": "Sat, 08 Aug 2026 03:51:36 GMT"
+      "title": "6,000km 이동한 태풍 중국 상륙...'경제수도' 물바다",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqVU94QzJTRlR3VjBVbDJaNERnLXY0aHJlMXpROXFDYWFHRWppTkwyZHk1VF9zQlZXYXJOM0huZXNJN01GeVA2bmQyaVB1TkpqZVRhSmRmSzQtTUpZcGc?oc=5",
+      "source": "YTN",
+      "date": "Mon, 10 Aug 2026 04:42:00 GMT"
     },
     {
-      "title": "AI·하드테크가 이끄는 中 경제...외국계 금융기관 \"하반기 목표치 달성 순조로울 것\"-Xinhua",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92ZHBKN1pHcy1BNzUySFd0WHlMZ2ZqUjR1SnhLbkphbFFtdjlEYzJnMi1FcjBlVVZxTFM5c3hWd0ZJOGZMUHlTdEszU3NxNmVWZHEyLUpQQy1iWjRabTcwamdsVlQzcDV2SkVWU0gwT2RLSURUaFZ4ck4xbWs?oc=5",
-      "source": "新华网",
-      "date": "Sat, 08 Aug 2026 01:16:10 GMT"
+      "title": "중국 관영매체 \"한국 폭염은 경제협력 기회\" 주장, 소비자 수요와 공급망 장점 강조",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YMlJzZFJqNU1WSERFTEI5RGg0NVdZbjZjejUwZlV4VlJleVh4YnNXeGhiNzFmUk5pUzFBaHpKWXhRVWZNdEllU1hQTkZIRHN4eUpCMm1DUU1iRml3dXlvNTdDNFd0aFV3LW95Y2U2UjJZdXc?oc=5",
+      "source": "비즈니스포스트",
+      "date": "Mon, 10 Aug 2026 02:31:50 GMT"
     },
     {
-      "title": "중국을 깎아내리면 한국이 강해지는가",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IQ1poeC1sT1FzQWVhNGVxbGRETjNmU003UE42Z0lfWXVnanpOOC10MnhsUlNKVTEzZXdIdEpYbU9hdnRwaURacF9PWEZXb05keWVGVzVMS19sWTg?oc=5",
-      "source": "인터내셔널포커스",
-      "date": "Sat, 08 Aug 2026 00:40:00 GMT"
+      "title": "中 전 재정장관 러우지웨이 공개석상 등장…'체포설' 일축",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xQ0Qxa29sbTdoMWVjUDMxa2VFWDlGOU96cFlIMW9zVnVnVVpTS3NFZWNSaFhodzhabFd2NWZlSHRaQ3lzV0xtdVZDeDRpaXdJQmxGVnlKQ3pOMTTSAWBBVV95cUxPcmw2bW4zNV81TG4tc005VXhoaXFDTnlUOFlILTFBZHJLSjM5eHoxcmc5MkFjYkJrSS01MmZ2VXp5SGRvZjJMejZYTmh0VW9TZ21IT25FM1Y3NWRFN2oydDY?oc=5",
+      "source": "연합뉴스",
+      "date": "Mon, 10 Aug 2026 01:27:46 GMT"
     },
     {
-      "title": "소비 침체에도 가격 두번 올린 마오타이의 속내",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04MEJ5cUtxcHpNRTg0akZsVldzWHRMXzJlRTAtR1ZPbzlFd0I0c2pBdkpZMDd0RGZwVEEzam5mRV8zREtRYVR1Z1VqWXJxTjlJUzFUMlFhN0NsUQ?oc=5",
-      "source": "hankyung.com",
-      "date": "Sat, 08 Aug 2026 00:00:02 GMT"
+      "title": "中 경제브리핑...중국 상반기 광고업 매출 209조원 돌파 外-Xinhua",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsZWJzeWJpQXpvX09UQkxiYXdMSXFEdWJOMWF6VXMyLVJIaHZPT0t0WDNWTFRyQVFkdG9ZUjJDMDBocnBoTHVlbnowTHdodWhJN1o2a19tUFAtbWFzU2lsUFhCaE1hbkEwNjVxOC1EU2FVbGk0Y1dvdGl4aU8?oc=5",
+      "source": "신화망",
+      "date": "Sun, 09 Aug 2026 22:47:56 GMT"
     },
     {
-      "title": "엔비디아의 기지국 데이터센터, 중국과 공동개발",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlRjVTLTVxclhuTDZKQTJfRkYwUmhaMDRjUHFRbzFMQjB3a3RZaXJRUjBNTV9NaDJvLU9McVVGNTM2RDF6WFJUbVcyUGlTYjVuNVlVbWF6dFdPQdIBWEFVX3lxTFBrQXJsRWtRMDg3T090N3FVYWx2YzhEbld5bDVEVmlJamwzbGRxX1lBSDczelZRdTNoQ0s3eWJFVkx3U0ZCN1pxN25CUDVXb1V2U3MtVzhQMXg?oc=5",
-      "source": "ajunews.com",
-      "date": "Thu, 06 Aug 2026 23:51:27 GMT"
+      "title": "중동 정세 中 경제에 영향 지속, 물가 계속 상승",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VTGs3TXhsc0R4bWo1Yk9SOHJlRDh6bUIzNXl3eHoxZ3FZR1FhaWo5dDdwdTctTGNURTZmbjZybkVjR28wbG9zdDQyTVBPTTJ1a1Fmd3lSLTFBM0ZrZDlwd0dOVnduQnczbjFMbFh3?oc=5",
+      "source": "아시아투데이",
+      "date": "Sun, 09 Aug 2026 08:11:03 GMT"
+    },
+    {
+      "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Fri, 07 Aug 2026 07:00:00 GMT"
     },
     {
       "title": "하반기 중국 경제 업무, 어떻게 추진할까?",
@@ -58,12 +64,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05cXJ3bEM4X1NkR2MwSGJCa1dHLWdZc0lBY2lwMEVMYkdhVWllT1dLTUFJdU01MU9SdVp1ZEROQ25DeGZlcmhnLThXQTZvdmRyb3RhR0dNY2VSZmQ0QXFncmlNYzcyZw?oc=5",
       "source": "kdi.re.kr",
       "date": "Tue, 04 Aug 2026 10:45:05 GMT"
-    },
-    {
-      "title": "[열린세상] ‘기술 혁신’ 중국 경제의 역설",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVpiQTJsR21nVklIcG5XR1NxR2tBNG9iZ1JfVkVmaWNxUkprY3FteW1WNG1xeDZXNi1CellROVc0NFhPd0l6MnBUdldjWG03NnA2VkdUd1pOXzd1M2FxQU1vYkFYR0FqdUdLWkU2N1p3aEFRZ2oxRkJYTW5VaVpTcGhralgxbkk?oc=5",
-      "source": "서울신문",
-      "date": "Fri, 24 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
