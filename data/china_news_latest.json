@@ -1,21 +1,33 @@
 {
-  "run_at_kst": "2026-08-11T14:13:55+09:00",
+  "run_at_kst": "2026-08-11T20:08:25+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "[글로벌이코노믹 사설] 글로벌 에너지 패권 거머쥔 중국",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSzhRelFMUW5yZ1RDSVhNeHNZYXViQnNVMjFibldqRGRwX1JBTDctaUVLaVpOMkZSNWk1YVFPNU1ETjBHZVdwd1Z2ejFBbG1WVkdmS1M2ME92T2R5enFvTm9hMFdRcmJod19GVk1QZFZReFVTZEtMUGt1ZHhLMEVsTjFtN2g?oc=5",
+      "source": "글로벌이코노믹",
+      "date": "Tue, 11 Aug 2026 08:56:52 GMT"
+    },
+    {
+      "title": "전남광주통합특별시의회, 중국과 경제·문화·관광 교류 확대 논의",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKVFlNUUdKTmxIMTgwSmM1WVJ0NTJ5Q0tZd2NHRU0xazNjZ3hNRTRsUmdzdmJldFBZdkJ2OFFfVHZrZ3ZOVlk0U1BOYUp4Yk1lUnMwSXBHMjUwOC1iZjM4WV9DbnQ?oc=5",
+      "source": "베타뉴스",
+      "date": "Tue, 11 Aug 2026 08:30:27 GMT"
+    },
+    {
       "title": "[경제+] \"두바이 거리 달리는 中 무인 택시\"...중국 자율주행 기업 3사, UAE 공략 가속",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lRlV5cm92c3RodnJ3bHFRZGJKa0lBV3phYUVKa2ZsdFlCNEVDT3ZDV3JuM2tSeDBjaldubkg5U0hWYi1xUWZZQS1pWlk2TUdEUG15UDVHOE5mQnE0bFFlSWpGc2E0VllXd1FN?oc=5",
-      "source": "서울뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53ajhTYTA5SGpGcnl6Y0V1TUlJdDZSaFpXdnU4c18yUTVGNkp0dmJLcEtxQ2tCa1FGYTJHamFubnQ0Q3pmVUZGQS1XT2xfNFJMbEJWR3Q0eXdld0hrMWtOTDhSZVhkRDV5LXotREV6V0FIMlE?oc=5",
+      "source": "동방일보",
       "date": "Tue, 11 Aug 2026 04:55:27 GMT"
     },
     {
-      "title": "삼성패션 준지, 미스토와 중국 럭셔리시장 진출",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xTmNaQmxGOU9tbGc3MC1jTkZTcU5uN19xWlZYbDYxeWpfaDY1djJ6TG43X3huOWR4U25hM1B0TnozQTBlX2ZlcDZucVgzV2JZTDNwUndB?oc=5",
-      "source": "헤럴드경제",
-      "date": "Tue, 11 Aug 2026 02:20:36 GMT"
+      "title": "취업 보장되는 곳이 최고…중국서 전문대가 4년제 앞질러",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DTXczbW5IMjNCZXBPUTBNTmlTWTFuV3R3WmdRaWx1N3pUdUpPVW1kbVhONWFLY1JNTXJibmhBZXg2azNJbGVvVGJEV2JfYmI4TnfSAUxBVV95cUxQQXhrUnZsNkZDVkI5cEZveUF2RGtTMjF6SUF4Sk9CNHVwbmVzWTJHR0N1TkVfWXhrQUpnUjd3M0IxUUhEV3A5dkpNeW5G?oc=5",
+      "source": "mbn.co.kr",
+      "date": "Tue, 11 Aug 2026 04:23:00 GMT"
     },
     {
       "title": "미국 기관투자자들이 중국 반도체 매수한다",
@@ -42,28 +54,16 @@
       "date": "Mon, 10 Aug 2026 21:00:00 GMT"
     },
     {
-      "title": "6,000km 이동한 태풍 중국 강타...'경제수도' 쑥대밭",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45Z1NHSDRrM1lDUFdNNENWejhWRGE4aktHQXMwUDc0SmE5TXJnVXBQTzl1MDRVcENiOG9keTlxa0xvX0pHdnN5VXRiQkduTHZnb1JBTkh5NFdFbjRvSVE?oc=5",
+      "title": "6,000km 이동한 태풍 중국 상륙...'경제수도' 물바다",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqVU94QzJTRlR3VjBVbDJaNERnLXY0aHJlMXpROXFDYWFHRWppTkwyZHk1VF9zQlZXYXJOM0huZXNJN01GeVA2bmQyaVB1TkpqZVRhSmRmSzQtTUpZcGc?oc=5",
       "source": "YTN",
-      "date": "Mon, 10 Aug 2026 06:54:00 GMT"
-    },
-    {
-      "title": "중동 정세 中 경제에 영향 지속, 물가 계속 상승",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VTGs3TXhsc0R4bWo1Yk9SOHJlRDh6bUIzNXl3eHoxZ3FZR1FhaWo5dDdwdTctTGNURTZmbjZybkVjR28wbG9zdDQyTVBPTTJ1a1Fmd3lSLTFBM0ZrZDlwd0dOVnduQnczbjFMbFh3?oc=5",
-      "source": "아시아투데이",
-      "date": "Sun, 09 Aug 2026 08:11:03 GMT"
+      "date": "Mon, 10 Aug 2026 04:42:00 GMT"
     },
     {
       "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
-      "source": "wikyung.com",
+      "source": ":: 위즈경제 ::",
       "date": "Fri, 07 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "하반기 중국 경제 업무, 어떻게 추진할까?",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DaW5wdThwa05Ma0hrMkd2WjVnYWxzQ1hpYllUNnNlX0IwbWpiQzNvamQzZEpTVHlWaS11VzhLbFdsTE1NaERJdXdYWVBtckUzVzF3UWlWN3BaXzRyV2dTNXpnZw?oc=5",
-      "source": "CGTN",
-      "date": "Thu, 06 Aug 2026 10:28:00 GMT"
     },
     {
       "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",

@@ -2,8 +2,8 @@
   "id": "corn_starch",
   "name": "옥수수 전분",
   "unit": "CNY/t",
-  "updated_at_kst": "2026-08-10T20:14:00+09:00",
-  "count": 85,
+  "updated_at_kst": "2026-08-11T20:08:47+09:00",
+  "count": 86,
   "candles": [
     {
       "time": "2025-01-01",
@@ -344,6 +344,10 @@
     {
       "time": "2026-08-10",
       "value": 2918.7
+    },
+    {
+      "time": "2026-08-11",
+      "value": 2912.68
     }
   ],
   "history_note": "Pre-2026-05: monthly observations (month-start/end). From late May 2026: daily.",
