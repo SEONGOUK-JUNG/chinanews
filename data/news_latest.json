@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-11T10:09:06+09:00",
+  "run_at_kst": "2026-08-11T14:13:55+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Oil Prices Climb as U.S.-Iran Peace Hopes Fade",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-US-Iran-Peace-Hopes-Fade.html",
+      "source": "OilPrice",
+      "date": "Mon, 10 Aug 2026 23:39:37 -0500"
+    },
     {
       "title": "The Hormuz Shock Is Far From Over",
       "link": "https://oilprice.com/Energy/Energy-General/The-Hormuz-Shock-Is-Far-From-Over.html",
@@ -72,12 +78,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/The-Hormuz-Crisis-Has-Forever-Changed-the-Economics-of-Energy-Security.html",
       "source": "OilPrice",
       "date": "Mon, 10 Aug 2026 13:00:00 -0500"
-    },
-    {
-      "title": "BofA: Hormuz Needs 10 Times More Ships to Stabilize Oil Markets",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/BofA-Hormuz-Needs-10-Times-More-Ships-to-Stabilize-Oil-Markets.html",
-      "source": "OilPrice",
-      "date": "Mon, 10 Aug 2026 12:30:00 -0500"
     },
     {
       "title": "Gold price holds jobs-shock gain, Barrick craters",

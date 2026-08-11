@@ -1,21 +1,33 @@
 {
-  "run_at_kst": "2026-08-11T10:09:06+09:00",
+  "run_at_kst": "2026-08-11T14:13:55+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "뷰티는 '탈중국'·패션은 '재도전'…대륙 바라보는 엇갈린 전략",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44UXJLbi1mMGNkTkRxV2RodEg4WXJVMGt2RHp2NnpVc1gyMUNORzhmNkFoZFFZakF6T0xEYmZnRkE2MDhJYi1PaGpQdzJiV1U?oc=5",
-      "source": "v.daum.net",
-      "date": "Tue, 11 Aug 2026 00:46:54 GMT"
+      "title": "[경제+] \"두바이 거리 달리는 中 무인 택시\"...중국 자율주행 기업 3사, UAE 공략 가속",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lRlV5cm92c3RodnJ3bHFRZGJKa0lBV3phYUVKa2ZsdFlCNEVDT3ZDV3JuM2tSeDBjaldubkg5U0hWYi1xUWZZQS1pWlk2TUdEUG15UDVHOE5mQnE0bFFlSWpGc2E0VllXd1FN?oc=5",
+      "source": "서울뉴스통신",
+      "date": "Tue, 11 Aug 2026 04:55:27 GMT"
     },
     {
-      "title": "사막에서 ‘왕훙’처럼 인생샷… 中 서부대개발, 이젠 관광이다[박세희의 ‘차이나 스캔’]",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yR2JpRTlDSUlxOUFWa0FkSEpqVzMzT21QeXVnOTRZTlV2YlZXbTNVdWV5dks3cktYYTJEc0c5M09hWGJaWmo3dTdUOGJ2bzlC?oc=5",
-      "source": "문화일보",
-      "date": "Tue, 11 Aug 2026 00:29:24 GMT"
+      "title": "삼성패션 준지, 미스토와 중국 럭셔리시장 진출",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xTmNaQmxGOU9tbGc3MC1jTkZTcU5uN19xWlZYbDYxeWpfaDY1djJ6TG43X3huOWR4U25hM1B0TnozQTBlX2ZlcDZucVgzV2JZTDNwUndB?oc=5",
+      "source": "헤럴드경제",
+      "date": "Tue, 11 Aug 2026 02:20:36 GMT"
+    },
+    {
+      "title": "미국 기관투자자들이 중국 반도체 매수한다",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yQmJmUWhnWm5tZGdVXzA1Rm5nN2tvQ2d5RUljbm9iY2liaXNRVzVNNEUtTk9iMDFsOWlGeWNFUkh0QUU1cXZtMTBjZWRjZnM?oc=5",
+      "source": "v.daum.net",
+      "date": "Tue, 11 Aug 2026 01:17:33 GMT"
+    },
+    {
+      "title": "드론 킬러 중국 레이저 무기, 상륙함에 실전배치",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MQ25YWkREemI4cy1RSkdfZHQ5QUNVS2htVWhqbEMyMUtqS1FqNkhmdVVrMGdBMGU5SFNXMnhQYVBvRjJNOGNlcW9RRnZxNW5fTnhCTVJhLXZUd9IBWEFVX3lxTFBtN1ptazd0ZHBDV0hxUW1jeG5IZTNZaEpCLVRnUkVXQ3IzOVlmdlNDRWp2elc4bVNreTJNMHN2LXhwZTJBOGRlTE5RNk5zX1FMQjJTc2xJeHg?oc=5",
+      "source": "아주경제",
+      "date": "Tue, 11 Aug 2026 00:44:17 GMT"
     },
     {
       "title": "광양경자청, 중국 경제단체 초청해 현장 시찰 및 투자 간담회 개최",
@@ -26,20 +38,8 @@
     {
       "title": "“일본 ‘핵 반입’ 피할 수 없다…중·일 갈등은 경제서 군사지대로 이동”",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56U3ZoSmZvUjdEX2IxbTA4RU1IR25nMjQzVGt0OWs4TUp4TFBaOXU5WDJ6TFZhYVJ2TWh2V3pnazhwNGl4Z1RLZWRGOXdVNjRMa3VEcHdqZjZYcnFJZVE?oc=5",
-      "source": "weekly.khan.co.kr",
+      "source": "주간경향",
       "date": "Mon, 10 Aug 2026 21:00:00 GMT"
-    },
-    {
-      "title": "광양경자청, 중국 12개사에 황금·세풍산단 제시…투자 협의 구체화",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kdEItc0VtYk05MmZGRWxwQXFlZXVnWnFtWFBPd1N3eHpnN0o0TzlVWURNeS1QZlUtb2otQjgyZHpRVHFoYVNFUkpCRndZdmhJN2QzZ1pOTWVUa2hBS1dPbUcyV0x0RDQ?oc=5",
-      "source": "지이코노미",
-      "date": "Mon, 10 Aug 2026 18:55:28 GMT"
-    },
-    {
-      "title": "그앤반도체, GaN 레이저 칩 30여종 양산…중국 100여개 업체에 공급",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lSkJ0MnRBaXJrSFRzWXFFUjJPa1E1QUd4QXNwX2FNZG8ycEZWdVpBeVczMEotZ3o3RVBCWUR2WThpZ216TklmaURjRTRSSXhLeGY2LUxQc1ZMaEUzZnozcnBMTUFkZlZCZXNMazhR?oc=5",
-      "source": "알파경제",
-      "date": "Mon, 10 Aug 2026 07:00:36 GMT"
     },
     {
       "title": "6,000km 이동한 태풍 중국 강타...'경제수도' 쑥대밭",
@@ -48,9 +48,15 @@
       "date": "Mon, 10 Aug 2026 06:54:00 GMT"
     },
     {
+      "title": "중동 정세 中 경제에 영향 지속, 물가 계속 상승",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VTGs3TXhsc0R4bWo1Yk9SOHJlRDh6bUIzNXl3eHoxZ3FZR1FhaWo5dDdwdTctTGNURTZmbjZybkVjR28wbG9zdDQyTVBPTTJ1a1Fmd3lSLTFBM0ZrZDlwd0dOVnduQnczbjFMbFh3?oc=5",
+      "source": "아시아투데이",
+      "date": "Sun, 09 Aug 2026 08:11:03 GMT"
+    },
+    {
       "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
-      "source": ":: 위즈경제 ::",
+      "source": "wikyung.com",
       "date": "Fri, 07 Aug 2026 07:00:00 GMT"
     },
     {
@@ -58,12 +64,6 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DaW5wdThwa05Ma0hrMkd2WjVnYWxzQ1hpYllUNnNlX0IwbWpiQzNvamQzZEpTVHlWaS11VzhLbFdsTE1NaERJdXdYWVBtckUzVzF3UWlWN3BaXzRyV2dTNXpnZw?oc=5",
       "source": "CGTN",
       "date": "Thu, 06 Aug 2026 10:28:00 GMT"
-    },
-    {
-      "title": "최근 중국경제 불안에 대한 평가 및 시사점",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05cXJ3bEM4X1NkR2MwSGJCa1dHLWdZc0lBY2lwMEVMYkdhVWllT1dLTUFJdU01MU9SdVp1ZEROQ25DeGZlcmhnLThXQTZvdmRyb3RhR0dNY2VSZmQ0QXFncmlNYzcyZw?oc=5",
-      "source": "kdi.re.kr",
-      "date": "Tue, 04 Aug 2026 10:45:05 GMT"
     },
     {
       "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
