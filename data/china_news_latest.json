@@ -1,15 +1,15 @@
 {
-  "run_at_kst": "2026-08-11T20:08:25+09:00",
+  "run_at_kst": "2026-08-12T07:12:55+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "[글로벌이코노믹 사설] 글로벌 에너지 패권 거머쥔 중국",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSzhRelFMUW5yZ1RDSVhNeHNZYXViQnNVMjFibldqRGRwX1JBTDctaUVLaVpOMkZSNWk1YVFPNU1ETjBHZVdwd1Z2ejFBbG1WVkdmS1M2ME92T2R5enFvTm9hMFdRcmJod19GVk1QZFZReFVTZEtMUGt1ZHhLMEVsTjFtN2g?oc=5",
-      "source": "글로벌이코노믹",
-      "date": "Tue, 11 Aug 2026 08:56:52 GMT"
+      "title": "고전에서 찾는 중국 비즈니스 철학 [더 머니이스트-조평규의 중국 본색]",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxdjYxOXk4RGxvTi1EcmlhaDhhX21rUlAxdkM0WjlielJya2VZVnAtR2lyOFVIc1BVQWx2SWhCRFQ0dkJGX3hORmppYktoS3daV2lZ?oc=5",
+      "source": "네이트",
+      "date": "Tue, 11 Aug 2026 21:31:00 GMT"
     },
     {
       "title": "전남광주통합특별시의회, 중국과 경제·문화·관광 교류 확대 논의",
@@ -18,10 +18,10 @@
       "date": "Tue, 11 Aug 2026 08:30:27 GMT"
     },
     {
-      "title": "[경제+] \"두바이 거리 달리는 中 무인 택시\"...중국 자율주행 기업 3사, UAE 공략 가속",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53ajhTYTA5SGpGcnl6Y0V1TUlJdDZSaFpXdnU4c18yUTVGNkp0dmJLcEtxQ2tCa1FGYTJHamFubnQ0Q3pmVUZGQS1XT2xfNFJMbEJWR3Q0eXdld0hrMWtOTDhSZVhkRDV5LXotREV6V0FIMlE?oc=5",
-      "source": "동방일보",
-      "date": "Tue, 11 Aug 2026 04:55:27 GMT"
+      "title": "침수된 중국 '경제수도'…태풍 돌핀, 내륙 깊숙이 이동하며 물폭탄 [지금이뉴스]",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0taW5Xa0trcXJJVkx3RkF4N1RWSGJDX1ptbzU2a1RTa3hxYWxyRXZvOUxOc2x2N2ZMYW54M0J0QVpxU3A0TzhOM0tfVTBTRW5xVkE3ODc2N19UN1hZY3c?oc=5",
+      "source": "YTN",
+      "date": "Tue, 11 Aug 2026 05:30:00 GMT"
     },
     {
       "title": "취업 보장되는 곳이 최고…중국서 전문대가 4년제 앞질러",
@@ -30,34 +30,34 @@
       "date": "Tue, 11 Aug 2026 04:23:00 GMT"
     },
     {
-      "title": "미국 기관투자자들이 중국 반도체 매수한다",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yQmJmUWhnWm5tZGdVXzA1Rm5nN2tvQ2d5RUljbm9iY2liaXNRVzVNNEUtTk9iMDFsOWlGeWNFUkh0QUU1cXZtMTBjZWRjZnM?oc=5",
-      "source": "v.daum.net",
-      "date": "Tue, 11 Aug 2026 01:17:33 GMT"
-    },
-    {
-      "title": "드론 킬러 중국 레이저 무기, 상륙함에 실전배치",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MQ25YWkREemI4cy1RSkdfZHQ5QUNVS2htVWhqbEMyMUtqS1FqNkhmdVVrMGdBMGU5SFNXMnhQYVBvRjJNOGNlcW9RRnZxNW5fTnhCTVJhLXZUd9IBWEFVX3lxTFBtN1ptazd0ZHBDV0hxUW1jeG5IZTNZaEpCLVRnUkVXQ3IzOVlmdlNDRWp2elc4bVNreTJNMHN2LXhwZTJBOGRlTE5RNk5zX1FMQjJTc2xJeHg?oc=5",
-      "source": "아주경제",
-      "date": "Tue, 11 Aug 2026 00:44:17 GMT"
-    },
-    {
-      "title": "광양경자청, 중국 경제단체 초청해 현장 시찰 및 투자 간담회 개최",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZUHFiUUtQUHF1VlhMU3BIQ1J6amlRNW9QZmdYLUFGMVNUUVpPZmJRS3pnOEVuWDZXcFYwMWptb2tHdkVYZ1hkS005RzlvSTEzX3o4?oc=5",
-      "source": "네이트",
-      "date": "Tue, 11 Aug 2026 00:23:00 GMT"
-    },
-    {
       "title": "“일본 ‘핵 반입’ 피할 수 없다…중·일 갈등은 경제서 군사지대로 이동”",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56U3ZoSmZvUjdEX2IxbTA4RU1IR25nMjQzVGt0OWs4TUp4TFBaOXU5WDJ6TFZhYVJ2TWh2V3pnazhwNGl4Z1RLZWRGOXdVNjRMa3VEcHdqZjZYcnFJZVE?oc=5",
       "source": "주간경향",
       "date": "Mon, 10 Aug 2026 21:00:00 GMT"
     },
     {
-      "title": "6,000km 이동한 태풍 중국 상륙...'경제수도' 물바다",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqVU94QzJTRlR3VjBVbDJaNERnLXY0aHJlMXpROXFDYWFHRWppTkwyZHk1VF9zQlZXYXJOM0huZXNJN01GeVA2bmQyaVB1TkpqZVRhSmRmSzQtTUpZcGc?oc=5",
-      "source": "YTN",
-      "date": "Mon, 10 Aug 2026 04:42:00 GMT"
+      "title": "23화 중국 경제의 위기 현상 — 우리가 참고 할 것들은...",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5nLTBaNWlnVDlfeHVxUGxNRzI3TC0yZV9PaFR4TGozdjZOUzJWb0MyZ3pPMnpLcThhTVRHUWZPb3FISEZFTEE?oc=5",
+      "source": "브런치",
+      "date": "Mon, 10 Aug 2026 20:56:13 GMT"
+    },
+    {
+      "title": "중국 관영매체 \"한국 폭염은 경제협력 기회\", 긴급한 사태 때 공급망 장점 강조",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YMlJzZFJqNU1WSERFTEI5RGg0NVdZbjZjejUwZlV4VlJleVh4YnNXeGhiNzFmUk5pUzFBaHpKWXhRVWZNdEllU1hQTkZIRHN4eUpCMm1DUU1iRml3dXlvNTdDNFd0aFV3LW95Y2U2UjJZdXc?oc=5",
+      "source": "비즈니스포스트",
+      "date": "Mon, 10 Aug 2026 02:31:50 GMT"
+    },
+    {
+      "title": "中 전 재정장관 러우지웨이 공개석상 등장…'체포설' 일축",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xQ0Qxa29sbTdoMWVjUDMxa2VFWDlGOU96cFlIMW9zVnVnVVpTS3NFZWNSaFhodzhabFd2NWZlSHRaQ3lzV0xtdVZDeDRpaXdJQmxGVnlKQ3pOMTTSAWBBVV95cUxPcmw2bW4zNV81TG4tc005VXhoaXFDTnlUOFlILTFBZHJLSjM5eHoxcmc5MkFjYkJrSS01MmZ2VXp5SGRvZjJMejZYTmh0VW9TZ21IT25FM1Y3NWRFN2oydDY?oc=5",
+      "source": "연합뉴스",
+      "date": "Mon, 10 Aug 2026 01:27:46 GMT"
+    },
+    {
+      "title": "중동 정세 中 경제에 영향 지속, 물가 계속 상승",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VTGs3TXhsc0R4bWo1Yk9SOHJlRDh6bUIzNXl3eHoxZ3FZR1FhaWo5dDdwdTctTGNURTZmbjZybkVjR28wbG9zdDQyTVBPTTJ1a1Fmd3lSLTFBM0ZrZDlwd0dOVnduQnczbjFMbFh3?oc=5",
+      "source": "asiatoday.co.kr",
+      "date": "Sun, 09 Aug 2026 08:11:03 GMT"
     },
     {
       "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
@@ -66,16 +66,16 @@
       "date": "Fri, 07 Aug 2026 07:00:00 GMT"
     },
     {
+      "title": "하반기 중국 경제 업무, 어떻게 추진할까?",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DaW5wdThwa05Ma0hrMkd2WjVnYWxzQ1hpYllUNnNlX0IwbWpiQzNvamQzZEpTVHlWaS11VzhLbFdsTE1NaERJdXdYWVBtckUzVzF3UWlWN3BaXzRyV2dTNXpnZw?oc=5",
+      "source": "CGTN",
+      "date": "Thu, 06 Aug 2026 10:28:00 GMT"
+    },
+    {
       "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52UVRRTTIyQW5udGJFTjhSbEhmTHc4Q2QyTHdTd1BWNzE5b0p0U0hWZk5LbmNjdUY5ZWh2MlBZaEczSnd3RVZGSlRfLXlrdU9HYTlfdmthLW01dTVn0gFiQVVfeXFMUDU0UmVDOFl4VUpZYzlneGtDWHJCX3luT1pfdFhKaGZENGxvWTRjRTZYNTltalJDYXVBUG9IV3I2Qy1IMGljUEdDV0k3d3JQbmVXV05QUzNZSWl5QkJPQk1jV0E?oc=5",
       "source": "BBC",
       "date": "Wed, 15 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "경제는 ‘흔들’ 기술은 ‘질주’하는 중국의 딜레마, 실체는?",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZG1sWUFDY2l6bFoyeFBUdTdzUjgwU1o0clpaZm5hSk9QU0NvUE5uQWdaelg0OFhKNXI2dXk5VnNjSVE5R3lwMkpDMFFiRzc1LW9nYnVn?oc=5",
-      "source": "중앙일보",
-      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
     }
   ]
 }
