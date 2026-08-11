@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-11T07:08:24+09:00",
+  "run_at_kst": "2026-08-11T10:09:06+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,24 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "The Hormuz Shock Is Far From Over",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Hormuz-Shock-Is-Far-From-Over.html",
+      "source": "OilPrice",
+      "date": "Mon, 10 Aug 2026 19:00:00 -0500"
+    },
+    {
+      "title": "Friedland-backed Sunrise Energy Metals eyes US redomicile",
+      "link": "https://www.mining.com/friedland-backed-sunrise-energy-metals-eyes-us-redomicile/",
+      "source": "mining.com",
+      "date": "Mon, 10 Aug 2026 23:07:20 +0000"
+    },
+    {
+      "title": "Colombia Revives Oil And Gas After Four-Year Renewable Energy Push",
+      "link": "https://oilprice.com/Energy/Energy-General/Colombia-Revives-Oil-And-Gas-After-Four-Year-Renewable-Energy-Push.html",
+      "source": "OilPrice",
+      "date": "Mon, 10 Aug 2026 18:00:00 -0500"
+    },
     {
       "title": "Volta drills gallium 210m past Springer pit",
       "link": "https://www.mining.com/volta-drills-gallium-210m-past-springer-pit/",
@@ -62,34 +80,16 @@
       "date": "Mon, 10 Aug 2026 12:30:00 -0500"
     },
     {
-      "title": "Why Iran Just Replaced Its Security Chief Days After A Hardline Ultimatum",
-      "link": "https://oilprice.com/Geopolitics/Africa/Why-Iran-Just-Replaced-Its-Security-Chief-Days-After-A-Hardline-Ultimatum.html",
-      "source": "OilPrice",
-      "date": "Mon, 10 Aug 2026 12:00:00 -0500"
-    },
-    {
       "title": "Gold price holds jobs-shock gain, Barrick craters",
       "link": "https://www.mining.com/gold-price-holds-jobs-shock-gain-barrick-craters/",
       "source": "mining.com",
       "date": "Mon, 10 Aug 2026 16:37:56 +0000"
     },
     {
-      "title": "Egypt and Libya Near $1 Billion Oil Pipeline Deal",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Egypt-and-Libya-Near-1-Billion-Oil-Pipeline-Deal.html",
-      "source": "OilPrice",
-      "date": "Mon, 10 Aug 2026 11:30:00 -0500"
-    },
-    {
       "title": "Gold price holds above $4,300 as rate-cut bets build",
       "link": "https://www.mining.com/gold-holds-above-4300-as-rate-cut-bets-build/",
       "source": "mining.com",
       "date": "Mon, 10 Aug 2026 15:43:18 +0000"
-    },
-    {
-      "title": "Study gives White Gold nearly C$2B value for 9-year mine in Yukon",
-      "link": "https://www.mining.com/study-gives-white-gold-nearly-c2b-value-for-9-year-mine-in-yukon/",
-      "source": "mining.com",
-      "date": "Mon, 10 Aug 2026 15:20:23 +0000"
     }
   ]
 }

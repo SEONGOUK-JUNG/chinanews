@@ -1,14 +1,32 @@
 {
-  "run_at_kst": "2026-08-11T07:08:24+09:00",
+  "run_at_kst": "2026-08-11T10:09:06+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "뷰티는 '탈중국'·패션은 '재도전'…대륙 바라보는 엇갈린 전략",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44UXJLbi1mMGNkTkRxV2RodEg4WXJVMGt2RHp2NnpVc1gyMUNORzhmNkFoZFFZakF6T0xEYmZnRkE2MDhJYi1PaGpQdzJiV1U?oc=5",
+      "source": "v.daum.net",
+      "date": "Tue, 11 Aug 2026 00:46:54 GMT"
+    },
+    {
+      "title": "사막에서 ‘왕훙’처럼 인생샷… 中 서부대개발, 이젠 관광이다[박세희의 ‘차이나 스캔’]",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yR2JpRTlDSUlxOUFWa0FkSEpqVzMzT21QeXVnOTRZTlV2YlZXbTNVdWV5dks3cktYYTJEc0c5M09hWGJaWmo3dTdUOGJ2bzlC?oc=5",
+      "source": "문화일보",
+      "date": "Tue, 11 Aug 2026 00:29:24 GMT"
+    },
+    {
+      "title": "광양경자청, 중국 경제단체 초청해 현장 시찰 및 투자 간담회 개최",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZUHFiUUtQUHF1VlhMU3BIQ1J6amlRNW9QZmdYLUFGMVNUUVpPZmJRS3pnOEVuWDZXcFYwMWptb2tHdkVYZ1hkS005RzlvSTEzX3o4?oc=5",
+      "source": "네이트",
+      "date": "Tue, 11 Aug 2026 00:23:00 GMT"
+    },
+    {
       "title": "“일본 ‘핵 반입’ 피할 수 없다…중·일 갈등은 경제서 군사지대로 이동”",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56U3ZoSmZvUjdEX2IxbTA4RU1IR25nMjQzVGt0OWs4TUp4TFBaOXU5WDJ6TFZhYVJ2TWh2V3pnazhwNGl4Z1RLZWRGOXdVNjRMa3VEcHdqZjZYcnFJZVE?oc=5",
-      "source": "주간경향",
+      "source": "weekly.khan.co.kr",
       "date": "Mon, 10 Aug 2026 21:00:00 GMT"
     },
     {
@@ -18,40 +36,16 @@
       "date": "Mon, 10 Aug 2026 18:55:28 GMT"
     },
     {
-      "title": "‘중국 과기협회’ 광양만권 투자 집중 탐방",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HNEh2elE0SzBCOHlZNkxsRE40QUZ0Y2xfU0RrYzhhLW1YTDFfNndVZ09PdFBPNXJnSXhtWVlYWERfdHFNZzE2cHg0SklxRW5RZjJHS3E3Sk52TktsaGtpbEVJaXRCZw?oc=5",
-      "source": "전남타임스",
-      "date": "Mon, 10 Aug 2026 10:44:55 GMT"
-    },
-    {
       "title": "그앤반도체, GaN 레이저 칩 30여종 양산…중국 100여개 업체에 공급",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lSkJ0MnRBaXJrSFRzWXFFUjJPa1E1QUd4QXNwX2FNZG8ycEZWdVpBeVczMEotZ3o3RVBCWUR2WThpZ216TklmaURjRTRSSXhLeGY2LUxQc1ZMaEUzZnozcnBMTUFkZlZCZXNMazhR?oc=5",
       "source": "알파경제",
       "date": "Mon, 10 Aug 2026 07:00:36 GMT"
     },
     {
-      "title": "6,000km 이동한 태풍 중국 상륙...'경제수도' 물바다",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqVU94QzJTRlR3VjBVbDJaNERnLXY0aHJlMXpROXFDYWFHRWppTkwyZHk1VF9zQlZXYXJOM0huZXNJN01GeVA2bmQyaVB1TkpqZVRhSmRmSzQtTUpZcGc?oc=5",
+      "title": "6,000km 이동한 태풍 중국 강타...'경제수도' 쑥대밭",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45Z1NHSDRrM1lDUFdNNENWejhWRGE4aktHQXMwUDc0SmE5TXJnVXBQTzl1MDRVcENiOG9keTlxa0xvX0pHdnN5VXRiQkduTHZnb1JBTkh5NFdFbjRvSVE?oc=5",
       "source": "YTN",
-      "date": "Mon, 10 Aug 2026 04:42:00 GMT"
-    },
-    {
-      "title": "중국 관영매체 \"한국 폭염은 경제협력 기회\", 긴급한 사태 때 공급망 장점 강조",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YMlJzZFJqNU1WSERFTEI5RGg0NVdZbjZjejUwZlV4VlJleVh4YnNXeGhiNzFmUk5pUzFBaHpKWXhRVWZNdEllU1hQTkZIRHN4eUpCMm1DUU1iRml3dXlvNTdDNFd0aFV3LW95Y2U2UjJZdXc?oc=5",
-      "source": "businesspost.co.kr",
-      "date": "Mon, 10 Aug 2026 02:31:50 GMT"
-    },
-    {
-      "title": "中 전 재정장관 러우지웨이 공개석상 등장…'체포설' 일축",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xQ0Qxa29sbTdoMWVjUDMxa2VFWDlGOU96cFlIMW9zVnVnVVpTS3NFZWNSaFhodzhabFd2NWZlSHRaQ3lzV0xtdVZDeDRpaXdJQmxGVnlKQ3pOMTTSAWBBVV95cUxPcmw2bW4zNV81TG4tc005VXhoaXFDTnlUOFlILTFBZHJLSjM5eHoxcmc5MkFjYkJrSS01MmZ2VXp5SGRvZjJMejZYTmh0VW9TZ21IT25FM1Y3NWRFN2oydDY?oc=5",
-      "source": "연합뉴스",
-      "date": "Mon, 10 Aug 2026 01:27:46 GMT"
-    },
-    {
-      "title": "중동 정세 中 경제에 영향 지속, 물가 계속 상승",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VTGs3TXhsc0R4bWo1Yk9SOHJlRDh6bUIzNXl3eHoxZ3FZR1FhaWo5dDdwdTctTGNURTZmbjZybkVjR28wbG9zdDQyTVBPTTJ1a1Fmd3lSLTFBM0ZrZDlwd0dOVnduQnczbjFMbFh3?oc=5",
-      "source": "아시아투데이",
-      "date": "Sun, 09 Aug 2026 08:11:03 GMT"
+      "date": "Mon, 10 Aug 2026 06:54:00 GMT"
     },
     {
       "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
@@ -62,7 +56,7 @@
     {
       "title": "하반기 중국 경제 업무, 어떻게 추진할까?",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DaW5wdThwa05Ma0hrMkd2WjVnYWxzQ1hpYllUNnNlX0IwbWpiQzNvamQzZEpTVHlWaS11VzhLbFdsTE1NaERJdXdYWVBtckUzVzF3UWlWN3BaXzRyV2dTNXpnZw?oc=5",
-      "source": "korean.cri.cn",
+      "source": "CGTN",
       "date": "Thu, 06 Aug 2026 10:28:00 GMT"
     },
     {
@@ -76,6 +70,12 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52UVRRTTIyQW5udGJFTjhSbEhmTHc4Q2QyTHdTd1BWNzE5b0p0U0hWZk5LbmNjdUY5ZWh2MlBZaEczSnd3RVZGSlRfLXlrdU9HYTlfdmthLW01dTVn0gFiQVVfeXFMUDU0UmVDOFl4VUpZYzlneGtDWHJCX3luT1pfdFhKaGZENGxvWTRjRTZYNTltalJDYXVBUG9IV3I2Qy1IMGljUEdDV0k3d3JQbmVXV05QUzNZSWl5QkJPQk1jV0E?oc=5",
       "source": "BBC",
       "date": "Wed, 15 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "경제는 ‘흔들’ 기술은 ‘질주’하는 중국의 딜레마, 실체는?",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZG1sWUFDY2l6bFoyeFBUdTdzUjgwU1o0clpaZm5hSk9QU0NvUE5uQWdaelg0OFhKNXI2dXk5VnNjSVE5R3lwMkpDMFFiRzc1LW9nYnVn?oc=5",
+      "source": "중앙일보",
+      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
     }
   ]
 }
