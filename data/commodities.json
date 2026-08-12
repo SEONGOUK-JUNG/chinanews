@@ -1,39 +1,39 @@
 {
-  "updated_at_kst": "2026-08-11T20:08:17+09:00",
-  "ref_date": "2026-08-11",
+  "updated_at_kst": "2026-08-13T01:18:56+09:00",
+  "ref_date": "2026-08-12",
   "schema_version": "1.0",
   "adjustment_applied": true,
   "pulse": {
-    "up_count": 83,
-    "down_count": 47,
-    "flat_count": 313,
-    "total": 443,
+    "up_count": 63,
+    "down_count": 34,
+    "flat_count": 345,
+    "total": 442,
     "top_gainers": [
       {
+        "name": "이소부티르알데히드",
+        "change_pct": 4.42
+      },
+      {
         "name": "염산",
-        "change_pct": 8.14
+        "change_pct": 3.67
       },
       {
-        "name": "형산",
-        "change_pct": 5.56
-      },
-      {
-        "name": "원유",
-        "change_pct": 5.05
+        "name": "탄산리튬",
+        "change_pct": 2.78
       }
     ],
     "top_losers": [
       {
-        "name": "부탄 케톤",
-        "change_pct": -6.67
+        "name": "질산 칼륨",
+        "change_pct": -2.91
       },
       {
-        "name": "디클로로메탄",
-        "change_pct": -2.47
+        "name": "마른 시타버섯",
+        "change_pct": -2.83
       },
       {
-        "name": "테트라클로로에틸렌",
-        "change_pct": -2.44
+        "name": "이소 옥산",
+        "change_pct": -1.98
       }
     ]
   },
@@ -45,9 +45,9 @@
       "sector": "비철금속",
       "unit": "CNY/g",
       "chart_id": "gold",
-      "price_prev": 942.94,
-      "price_today": 957.19,
-      "change_pct": 1.51
+      "price_prev": 957.19,
+      "price_today": 957.92,
+      "change_pct": 0.08
     },
     {
       "display_name": "은",
@@ -56,9 +56,9 @@
       "sector": "비철금속",
       "unit": "CNY/kg",
       "chart_id": "silver",
-      "price_prev": 15424.65,
-      "price_today": 16121.78,
-      "change_pct": 4.52
+      "price_prev": 16121.78,
+      "price_today": 15887.62,
+      "change_pct": -1.45
     },
     {
       "display_name": "구리",
@@ -67,9 +67,9 @@
       "sector": "비철금속",
       "unit": "CNY/t",
       "chart_id": "copper",
-      "price_prev": 108238.49,
-      "price_today": 108876.49,
-      "change_pct": 0.59
+      "price_prev": 108876.49,
+      "price_today": 108762.92,
+      "change_pct": -0.1
     },
     {
       "display_name": "알루미늄",
@@ -78,9 +78,9 @@
       "sector": "비철금속",
       "unit": "CNY/t",
       "chart_id": "aluminum",
-      "price_prev": 24053.74,
-      "price_today": 24165.64,
-      "change_pct": 0.47
+      "price_prev": 24165.64,
+      "price_today": 24439.55,
+      "change_pct": 1.13
     },
     {
       "display_name": "원유",
@@ -89,9 +89,9 @@
       "sector": "에너지",
       "unit": "USD/bbl",
       "chart_id": "crude_oil",
-      "price_prev": 78.26,
-      "price_today": 82.21,
-      "change_pct": 5.05
+      "price_prev": 82.21,
+      "price_today": 83.28,
+      "change_pct": 1.3
     },
     {
       "display_name": "석탄",
@@ -101,8 +101,8 @@
       "unit": "CNY/t",
       "chart_id": "coal",
       "price_prev": 863.86,
-      "price_today": 863.86,
-      "change_pct": 0.0
+      "price_today": 868.87,
+      "change_pct": 0.58
     },
     {
       "display_name": "천연가스",
@@ -144,9 +144,9 @@
       "sector": "농산물 및 부산물",
       "unit": "CNY/t",
       "chart_id": "corn_starch",
-      "price_prev": 2918.7,
-      "price_today": 2912.68,
-      "change_pct": -0.21
+      "price_prev": 2912.68,
+      "price_today": 2902.66,
+      "change_pct": -0.34
     },
     {
       "display_name": "백설탕",
@@ -155,9 +155,9 @@
       "sector": "농산물 및 부산물",
       "unit": "CNY/t",
       "chart_id": "white_sugar",
-      "price_prev": 5245.37,
-      "price_today": 5235.34,
-      "change_pct": -0.19
+      "price_prev": 5235.34,
+      "price_today": 5238.69,
+      "change_pct": 0.06
     },
     {
       "display_name": "달걀",
@@ -166,9 +166,9 @@
       "sector": "농산물 및 부산물",
       "unit": "CNY/kg",
       "chart_id": "egg",
-      "price_prev": 9.57,
-      "price_today": 9.7,
-      "change_pct": 1.36
+      "price_prev": 9.7,
+      "price_today": 9.74,
+      "change_pct": 0.41
     },
     {
       "display_name": "생 돼지",
@@ -177,8 +177,8 @@
       "sector": "농산물 및 부산물",
       "unit": "CNY/kg",
       "chart_id": "live_pig",
-      "price_prev": 10.6,
-      "price_today": 10.67,
+      "price_prev": 10.67,
+      "price_today": 10.74,
       "change_pct": 0.66
     },
     {
@@ -188,9 +188,9 @@
       "sector": "농산물 및 부산물",
       "unit": "CNY/t",
       "chart_id": "palm_oil",
-      "price_prev": 9383.53,
-      "price_today": 9443.67,
-      "change_pct": 0.64
+      "price_prev": 9443.67,
+      "price_today": 9377.52,
+      "change_pct": -0.7
     },
     {
       "display_name": "채종유",
@@ -199,9 +199,9 @@
       "sector": "농산물 및 부산물",
       "unit": "CNY/t",
       "chart_id": "rapeseed_oil",
-      "price_prev": 10490.07,
-      "price_today": 10526.15,
-      "change_pct": 0.34
+      "price_prev": 10526.15,
+      "price_today": 10488.07,
+      "change_pct": -0.36
     },
     {
       "display_name": "대두유",
@@ -210,592 +210,452 @@
       "sector": "농산물 및 부산물",
       "unit": "CNY/t",
       "chart_id": "soybean_oil",
-      "price_prev": 8535.59,
-      "price_today": 8553.63,
-      "change_pct": 0.21
+      "price_prev": 8553.63,
+      "price_today": 8559.64,
+      "change_pct": 0.07
     }
   ],
   "all_items": [
     {
-      "display_name": "염산",
-      "sector": "화학공업",
-      "price_prev": 168.24,
-      "price_today": 181.92,
-      "change_pct": 8.14
-    },
-    {
-      "display_name": "형산",
-      "sector": "화학공업",
-      "price_prev": 1802.52,
-      "price_today": 1902.66,
-      "change_pct": 5.56
-    },
-    {
-      "display_name": "원유",
-      "sector": "에너지",
-      "price_prev": 78.26,
-      "price_today": 82.21,
-      "change_pct": 5.05
-    },
-    {
-      "display_name": "원유",
-      "sector": "에너지",
-      "price_prev": 83.63,
-      "price_today": 87.81,
-      "change_pct": 4.99
-    },
-    {
-      "display_name": "은",
-      "sector": "비철금속",
-      "price_prev": 15424.65,
-      "price_today": 16121.78,
-      "change_pct": 4.52
-    },
-    {
       "display_name": "이소부티르알데히드",
       "sector": "화학공업",
-      "price_prev": 7276.84,
-      "price_today": 7543.88,
+      "price_prev": 7543.88,
+      "price_today": 7877.68,
+      "change_pct": 4.42
+    },
+    {
+      "display_name": "염산",
+      "sector": "화학공업",
+      "price_prev": 181.92,
+      "price_today": 188.59,
       "change_pct": 3.67
-    },
-    {
-      "display_name": "리 튬 수 산 화 물 (배 터 리 등 급)",
-      "sector": "화학공업",
-      "price_prev": 118165.2,
-      "price_today": 122170.8,
-      "change_pct": 3.39
-    },
-    {
-      "display_name": "메탄올",
-      "sector": "화학공업",
-      "price_prev": 2583.61,
-      "price_today": 2663.72,
-      "change_pct": 3.1
-    },
-    {
-      "display_name": "리 튬 수 산 화 물 (배 터 리 등 급)",
-      "sector": "화학공업",
-      "price_prev": 131183.4,
-      "price_today": 135189.0,
-      "change_pct": 3.05
     },
     {
       "display_name": "탄산리튬",
       "sector": "화학공업",
-      "price_prev": 143200.2,
-      "price_today": 144201.6,
-      "change_pct": 0.7
-    },
-    {
-      "display_name": "사이토카인",
-      "sector": "화학공업",
-      "price_prev": 8436.8,
-      "price_today": 8662.11,
-      "change_pct": 2.67
-    },
-    {
-      "display_name": "시클로헥산",
-      "sector": "화학공업",
-      "price_prev": 6275.44,
-      "price_today": 6442.34,
-      "change_pct": 2.66
-    },
-    {
-      "display_name": "다이메틸에탄올아민",
-      "sector": "화학공업",
-      "price_prev": 14954.24,
-      "price_today": 15288.04,
-      "change_pct": 2.23
-    },
-    {
-      "display_name": "디젤유",
-      "sector": "에너지",
-      "price_prev": 7439.14,
-      "price_today": 7592.58,
-      "change_pct": 2.06
-    },
-    {
-      "display_name": "폴리아미드6",
-      "sector": "고무 및 프라스틱",
-      "price_prev": 12513.75,
-      "price_today": 12713.97,
-      "change_pct": 1.6
-    },
-    {
-      "display_name": "황금",
-      "sector": "비철금속",
-      "price_prev": 942.94,
-      "price_today": 957.19,
-      "change_pct": 1.51
-    },
-    {
-      "display_name": "액체 암모니아",
-      "sector": "화학공업",
-      "price_prev": 2263.16,
-      "price_today": 2296.54,
-      "change_pct": 1.47
-    },
-    {
-      "display_name": "나프타",
-      "sector": "에너지",
-      "price_prev": 8011.33,
-      "price_today": 8128.12,
-      "change_pct": 1.46
-    },
-    {
-      "display_name": "달걀",
-      "sector": "농산물 및 부산물",
-      "price_prev": 9.57,
-      "price_today": 9.7,
-      "change_pct": 1.36
-    },
-    {
-      "display_name": "DMF",
-      "sector": "화학공업",
-      "price_prev": 4426.19,
-      "price_today": 4486.27,
-      "change_pct": 1.36
-    },
-    {
-      "display_name": "폴리프로필렌",
-      "sector": "고무 및 프라스틱",
-      "price_prev": 8876.42,
-      "price_today": 8993.21,
-      "change_pct": 1.32
-    },
-    {
-      "display_name": "이가산에스터 MDBE",
-      "sector": "화학공업",
-      "price_prev": 7840.96,
-      "price_today": 7941.1,
-      "change_pct": 1.28
-    },
-    {
-      "display_name": "가솔린",
-      "sector": "에너지",
-      "price_prev": 8572.56,
-      "price_today": 8680.96,
-      "change_pct": 1.26
-    },
-    {
-      "display_name": "에틸렌글리콜모노에틸에테르",
-      "sector": "화학공업",
-      "price_prev": 9438.2,
-      "price_today": 9555.03,
-      "change_pct": 1.24
-    },
-    {
-      "display_name": "디에틸렌글리콜모노부틸에테르",
-      "sector": "화학공업",
-      "price_prev": 10489.67,
-      "price_today": 10614.84,
-      "change_pct": 1.19
-    },
-    {
-      "display_name": "브롬화수소산",
-      "sector": "화학공업",
-      "price_prev": 14219.88,
-      "price_today": 14386.78,
-      "change_pct": 1.17
-    },
-    {
-      "display_name": "순수 벤젠",
-      "sector": "화학공업",
-      "price_prev": 7444.74,
-      "price_today": 7528.19,
-      "change_pct": 1.12
-    },
-    {
-      "display_name": "카프로락탐",
-      "sector": "화학공업",
-      "price_prev": 11996.77,
-      "price_today": 12130.29,
-      "change_pct": 1.11
+      "price_prev": 144201.6,
+      "price_today": 148207.2,
+      "change_pct": 2.78
     },
     {
       "display_name": "프로필렌",
       "sector": "화학공업",
-      "price_prev": 8172.43,
-      "price_today": 8262.55,
-      "change_pct": 1.1
+      "price_prev": 8262.55,
+      "price_today": 8462.83,
+      "change_pct": 2.42
     },
     {
-      "display_name": "안티모늄",
-      "sector": "비철금속",
-      "price_prev": 91942.68,
-      "price_today": 92944.77,
-      "change_pct": 1.09
-    },
-    {
-      "display_name": "형석",
+      "display_name": "아닐린",
       "sector": "화학공업",
-      "price_prev": 3511.16,
-      "price_today": 3542.45,
-      "change_pct": 0.89
+      "price_prev": 11641.28,
+      "price_today": 11841.56,
+      "change_pct": 1.72
     },
     {
-      "display_name": "이산인산 나트륨",
+      "display_name": "글리콜",
       "sector": "화학공업",
-      "price_prev": 6749.44,
-      "price_today": 6809.52,
-      "change_pct": 0.89
+      "price_prev": 5043.72,
+      "price_today": 5127.17,
+      "change_pct": 1.65
     },
     {
-      "display_name": "디옥틸 프탈레이트",
+      "display_name": "아세톤",
       "sector": "화학공업",
-      "price_prev": 8738.05,
-      "price_today": 8813.15,
-      "change_pct": 0.86
+      "price_prev": 6308.82,
+      "price_today": 6408.96,
+      "change_pct": 1.59
     },
     {
-      "display_name": "푸마르산",
-      "sector": "화학공업",
-      "price_prev": 7500.49,
-      "price_today": 7560.57,
-      "change_pct": 0.8
-    },
-    {
-      "display_name": "이수염화칼슘",
-      "sector": "화학공업",
-      "price_prev": 834.5,
-      "price_today": 841.18,
-      "change_pct": 0.8
-    },
-    {
-      "display_name": "게르마늄",
-      "sector": "비철금속",
-      "price_prev": 23849.98,
-      "price_today": 24033.69,
-      "change_pct": 0.77
-    },
-    {
-      "display_name": "과탄산나트륨",
-      "sector": "화학공업",
-      "price_prev": 3254.55,
-      "price_today": 3279.59,
-      "change_pct": 0.77
-    },
-    {
-      "display_name": "철광석",
-      "sector": "철강",
-      "price_prev": 693.72,
-      "price_today": 698.72,
-      "change_pct": 0.72
-    },
-    {
-      "display_name": "탄산리튬",
-      "sector": "화학공업",
-      "price_prev": 137191.8,
-      "price_today": 141197.4,
-      "change_pct": 2.92
-    },
-    {
-      "display_name": "디글리콜",
-      "sector": "화학공업",
-      "price_prev": 9640.15,
-      "price_today": 9706.9,
-      "change_pct": 0.69
-    },
-    {
-      "display_name": "디에틸렌글리콜 에틸 에테르",
-      "sector": "화학공업",
-      "price_prev": 12125.28,
-      "price_today": 12208.74,
-      "change_pct": 0.69
-    },
-    {
-      "display_name": "생 돼지",
-      "sector": "농산물 및 부산물",
-      "price_prev": 10.6,
-      "price_today": 10.67,
-      "change_pct": 0.66
-    },
-    {
-      "display_name": "모르플린",
-      "sector": "화학공업",
-      "price_prev": 15361.48,
-      "price_today": 15461.62,
-      "change_pct": 0.65
-    },
-    {
-      "display_name": "크실렌",
-      "sector": "화학공업",
-      "price_prev": 6669.32,
-      "price_today": 6712.71,
-      "change_pct": 0.65
-    },
-    {
-      "display_name": "팜오일",
-      "sector": "농산물 및 부산물",
-      "price_prev": 9383.53,
-      "price_today": 9443.67,
-      "change_pct": 0.64
-    },
-    {
-      "display_name": "연(잉곳)",
-      "sector": "비철금속",
-      "price_prev": 15702.91,
-      "price_today": 15798.11,
-      "change_pct": 0.61
-    },
-    {
-      "display_name": "액화가스",
+      "display_name": "원유",
       "sector": "에너지",
-      "price_prev": 6306.3,
-      "price_today": 6343.84,
-      "change_pct": 0.6
+      "price_prev": 82.21,
+      "price_today": 83.28,
+      "change_pct": 1.3
     },
     {
-      "display_name": "인산 철 리튬",
+      "display_name": "원유",
+      "sector": "에너지",
+      "price_prev": 87.81,
+      "price_today": 89.0,
+      "change_pct": 1.36
+    },
+    {
+      "display_name": "단소 후 코크스",
+      "sector": "에너지",
+      "price_prev": 2572.57,
+      "price_today": 2602.6,
+      "change_pct": 1.17
+    },
+    {
+      "display_name": "사이토카인",
       "sector": "화학공업",
-      "price_prev": 56078.4,
-      "price_today": 56412.2,
-      "change_pct": 0.6
-    },
-    {
-      "display_name": "동",
-      "sector": "비철금속",
-      "price_prev": 108238.49,
-      "price_today": 108876.49,
-      "change_pct": 0.59
-    },
-    {
-      "display_name": "화이트 카본 블랙",
-      "sector": "화학공업",
-      "price_prev": 5975.02,
-      "price_today": 6008.4,
-      "change_pct": 0.56
-    },
-    {
-      "display_name": "테릴렌 단섬유",
-      "sector": "방직",
-      "price_prev": 7552.31,
-      "price_today": 7594.13,
-      "change_pct": 0.55
-    },
-    {
-      "display_name": "톨루엔",
-      "sector": "화학공업",
-      "price_prev": 6642.62,
-      "price_today": 6676.0,
-      "change_pct": 0.5
+      "price_prev": 8662.11,
+      "price_today": 8762.25,
+      "change_pct": 1.16
     },
     {
       "display_name": "알루미늄(알루미늄 잉곳)",
       "sector": "비철금속",
-      "price_prev": 24053.74,
-      "price_today": 24165.64,
-      "change_pct": 0.47
+      "price_prev": 24165.64,
+      "price_today": 24439.55,
+      "change_pct": 1.13
     },
     {
-      "display_name": "옥탄올",
-      "sector": "화학공업",
-      "price_prev": 8178.1,
-      "price_today": 8211.48,
-      "change_pct": 0.41
-    },
-    {
-      "display_name": "면사",
-      "sector": "방직",
-      "price_prev": 23311.65,
-      "price_today": 23378.35,
-      "change_pct": 0.29
-    },
-    {
-      "display_name": "연료유",
-      "sector": "에너지",
-      "price_prev": 6193.69,
-      "price_today": 6218.71,
-      "change_pct": 0.4
-    },
-    {
-      "display_name": "채종유",
-      "sector": "농산물 및 부산물",
-      "price_prev": 10490.07,
-      "price_today": 10526.15,
-      "change_pct": 0.34
-    },
-    {
-      "display_name": "벤타산화 바나",
+      "display_name": "안티모늄",
       "sector": "비철금속",
-      "price_prev": 97537.73,
-      "price_today": 97871.77,
-      "change_pct": 0.34
-    },
-    {
-      "display_name": "부타디엔",
-      "sector": "화학공업",
-      "price_prev": 10407.88,
-      "price_today": 10441.27,
-      "change_pct": 0.32
-    },
-    {
-      "display_name": "인산",
-      "sector": "화학공업",
-      "price_prev": 8662.11,
-      "price_today": 8687.15,
-      "change_pct": 0.29
-    },
-    {
-      "display_name": "면사",
-      "sector": "방직",
-      "price_prev": 24687.34,
-      "price_today": 24787.39,
-      "change_pct": 0.41
-    },
-    {
-      "display_name": "아크릴로니트릴-부타디엔-스티렌",
-      "sector": "고무 및 프라스틱",
-      "price_prev": 9500.44,
-      "price_today": 9527.14,
-      "change_pct": 0.28
-    },
-    {
-      "display_name": "폴리프로필렌",
-      "sector": "고무 및 프라스틱",
-      "price_prev": 9135.04,
-      "price_today": 9160.07,
-      "change_pct": 0.27
-    },
-    {
-      "display_name": "폴리염화비닐",
-      "sector": "고무 및 프라스틱",
-      "price_prev": 4434.87,
-      "price_today": 4446.89,
-      "change_pct": 0.27
-    },
-    {
-      "display_name": "이소프로파올",
-      "sector": "화학공업",
-      "price_prev": 6959.73,
-      "price_today": 6976.42,
-      "change_pct": 0.24
-    },
-    {
-      "display_name": "고밀도 폴리에틸렌",
-      "sector": "고무 및 프라스틱",
-      "price_prev": 10486.52,
-      "price_today": 10511.55,
-      "change_pct": 0.24
-    },
-    {
-      "display_name": "스티렌",
-      "sector": "화학공업",
-      "price_prev": 8632.07,
-      "price_today": 8652.1,
-      "change_pct": 0.23
-    },
-    {
-      "display_name": "금속규소(공업규소)",
-      "sector": "비철금속",
-      "price_prev": 9299.49,
-      "price_today": 9319.53,
-      "change_pct": 0.22
-    },
-    {
-      "display_name": "망간 실리콘",
-      "sector": "철강",
-      "price_prev": 5582.23,
-      "price_today": 5594.24,
-      "change_pct": 0.22
-    },
-    {
-      "display_name": "대두유",
-      "sector": "농산물 및 부산물",
-      "price_prev": 8535.59,
-      "price_today": 8553.63,
-      "change_pct": 0.21
+      "price_prev": 92944.77,
+      "price_today": 93946.88,
+      "change_pct": 1.08
     },
     {
       "display_name": "선형저밀도 폴리에틸렌",
       "sector": "고무 및 프라스틱",
-      "price_prev": 8183.99,
-      "price_today": 8200.67,
-      "change_pct": 0.2
+      "price_prev": 8200.67,
+      "price_today": 8284.1,
+      "change_pct": 1.02
+    },
+    {
+      "display_name": "보라사",
+      "sector": "화학공업",
+      "price_prev": 5667.92,
+      "price_today": 5717.99,
+      "change_pct": 0.88
+    },
+    {
+      "display_name": "액체 암모니아",
+      "sector": "화학공업",
+      "price_prev": 2296.54,
+      "price_today": 2316.57,
+      "change_pct": 0.87
+    },
+    {
+      "display_name": "크실렌",
+      "sector": "화학공업",
+      "price_prev": 6712.71,
+      "price_today": 6769.46,
+      "change_pct": 0.85
+    },
+    {
+      "display_name": "부탄 케톤",
+      "sector": "화학공업",
+      "price_prev": 7944.44,
+      "price_today": 8011.2,
+      "change_pct": 0.84
+    },
+    {
+      "display_name": "나프타",
+      "sector": "에너지",
+      "price_prev": 8128.12,
+      "price_today": 8194.86,
+      "change_pct": 0.82
+    },
+    {
+      "display_name": "옥탄올",
+      "sector": "화학공업",
+      "price_prev": 8211.48,
+      "price_today": 8278.24,
+      "change_pct": 0.81
     },
     {
       "display_name": "폐종이",
       "sector": "건축자재",
-      "price_prev": 1980.37,
-      "price_today": 1984.38,
-      "change_pct": 0.2
+      "price_prev": 1984.38,
+      "price_today": 2000.4,
+      "change_pct": 0.81
     },
     {
-      "display_name": "고순도 텔레프탈산",
-      "sector": "방직",
-      "price_prev": 6053.29,
-      "price_today": 6065.1,
-      "change_pct": 0.2
-    },
-    {
-      "display_name": "DBP",
+      "display_name": "톨루엔",
       "sector": "화학공업",
-      "price_prev": 8680.47,
-      "price_today": 8697.16,
-      "change_pct": 0.19
+      "price_prev": 6676.0,
+      "price_today": 6726.07,
+      "change_pct": 0.75
     },
     {
-      "display_name": "OP-10",
-      "sector": "",
-      "price_prev": 10150.0,
-      "price_today": 10166.67,
-      "change_pct": 0.16
+      "display_name": "유황",
+      "sector": "화학공업",
+      "price_prev": 9448.88,
+      "price_today": 9515.63,
+      "change_pct": 0.71
     },
     {
-      "display_name": "저밀도 폴리에틸렌",
+      "display_name": "부타디엔",
+      "sector": "화학공업",
+      "price_prev": 10441.27,
+      "price_today": 10514.7,
+      "change_pct": 0.7
+    },
+    {
+      "display_name": "폴리부타디엔 고무",
       "sector": "고무 및 프라스틱",
-      "price_prev": 10311.33,
-      "price_today": 10328.02,
-      "change_pct": 0.16
+      "price_prev": 13534.87,
+      "price_today": 13624.97,
+      "change_pct": 0.67
     },
     {
-      "display_name": "천연 고무",
-      "sector": "고무 및 프라스틱",
-      "price_prev": 16918.59,
-      "price_today": 16943.62,
-      "change_pct": 0.15
-    },
-    {
-      "display_name": "조면",
-      "sector": "방직",
-      "price_prev": 17960.65,
-      "price_today": 17986.16,
-      "change_pct": 0.14
-    },
-    {
-      "display_name": "아연도금판",
-      "sector": "철강",
-      "price_prev": 4099.14,
-      "price_today": 4104.14,
-      "change_pct": 0.12
+      "display_name": "생 돼지",
+      "sector": "농산물 및 부산물",
+      "price_prev": 10.67,
+      "price_today": 10.74,
+      "change_pct": 0.66
     },
     {
       "display_name": "폴리카보네이트",
       "sector": "고무 및 프라스틱",
-      "price_prev": 13965.35,
-      "price_today": 13982.03,
-      "change_pct": 0.12
+      "price_prev": 13982.03,
+      "price_today": 14065.46,
+      "change_pct": 0.6
     },
     {
-      "display_name": "열간 압연 코일",
+      "display_name": "철광석",
       "sector": "철강",
-      "price_prev": 3249.3,
-      "price_today": 3251.3,
-      "change_pct": 0.06
+      "price_prev": 698.72,
+      "price_today": 702.84,
+      "change_pct": 0.59
     },
     {
-      "display_name": "페놀",
+      "display_name": "석탄",
+      "sector": "에너지",
+      "price_prev": 863.86,
+      "price_today": 868.87,
+      "change_pct": 0.58
+    },
+    {
+      "display_name": "디옥틸 프탈레이트",
       "sector": "화학공업",
-      "price_prev": 8421.77,
-      "price_today": 8426.78,
-      "change_pct": 0.06
+      "price_prev": 8813.15,
+      "price_today": 8863.22,
+      "change_pct": 0.57
+    },
+    {
+      "display_name": "무수프탈산",
+      "sector": "화학공업",
+      "price_prev": 8979.22,
+      "price_today": 9029.29,
+      "change_pct": 0.56
+    },
+    {
+      "display_name": "천연 고무",
+      "sector": "고무 및 프라스틱",
+      "price_prev": 16943.62,
+      "price_today": 17035.39,
+      "change_pct": 0.54
+    },
+    {
+      "display_name": "브롬",
+      "sector": "화학공업",
+      "price_prev": 37051.8,
+      "price_today": 37252.08,
+      "change_pct": 0.54
     },
     {
       "display_name": "아연(잉곳)",
       "sector": "비철금속",
-      "price_prev": 25546.54,
-      "price_today": 25551.55,
-      "change_pct": 0.02
+      "price_prev": 25551.55,
+      "price_today": 25685.83,
+      "change_pct": 0.53
+    },
+    {
+      "display_name": "형산 칼륨",
+      "sector": "화학공업",
+      "price_prev": 6659.31,
+      "price_today": 6692.69,
+      "change_pct": 0.5
+    },
+    {
+      "display_name": "망간 실리콘",
+      "sector": "철강",
+      "price_prev": 5594.24,
+      "price_today": 5622.25,
+      "change_pct": 0.5
+    },
+    {
+      "display_name": "달걀",
+      "sector": "농산물 및 부산물",
+      "price_prev": 9.7,
+      "price_today": 9.74,
+      "change_pct": 0.41
+    },
+    {
+      "display_name": "부틸아세트산",
+      "sector": "화학공업",
+      "price_prev": 6746.93,
+      "price_today": 6771.97,
+      "change_pct": 0.37
+    },
+    {
+      "display_name": "스티렌 부타디엔 고무",
+      "sector": "고무 및 프라스틱",
+      "price_prev": 13723.41,
+      "price_today": 13773.46,
+      "change_pct": 0.36
+    },
+    {
+      "display_name": "형석",
+      "sector": "화학공업",
+      "price_prev": 3542.45,
+      "price_today": 3554.97,
+      "change_pct": 0.35
+    },
+    {
+      "display_name": "아크릴로니트릴-부타디엔-스티렌",
+      "sector": "고무 및 프라스틱",
+      "price_prev": 9527.14,
+      "price_today": 9560.51,
+      "change_pct": 0.35
+    },
+    {
+      "display_name": "저밀도 폴리에틸렌",
+      "sector": "고무 및 프라스틱",
+      "price_prev": 10328.02,
+      "price_today": 10361.39,
+      "change_pct": 0.32
+    },
+    {
+      "display_name": "폴리프로필렌",
+      "sector": "고무 및 프라스틱",
+      "price_prev": 8993.21,
+      "price_today": 9019.91,
+      "change_pct": 0.3
+    },
+    {
+      "display_name": "아스팔트",
+      "sector": "건축자재",
+      "price_prev": 4327.69,
+      "price_today": 4340.2,
+      "change_pct": 0.29
+    },
+    {
+      "display_name": "연(잉곳)",
+      "sector": "비철금속",
+      "price_prev": 15798.11,
+      "price_today": 15838.19,
+      "change_pct": 0.25
+    },
+    {
+      "display_name": "디젤유",
+      "sector": "에너지",
+      "price_prev": 7592.58,
+      "price_today": 7609.74,
+      "change_pct": 0.23
+    },
+    {
+      "display_name": "이형철근",
+      "sector": "철강",
+      "price_prev": 3013.54,
+      "price_today": 3020.21,
+      "change_pct": 0.22
+    },
+    {
+      "display_name": "고순도 텔레프탈산",
+      "sector": "방직",
+      "price_prev": 6065.1,
+      "price_today": 6078.3,
+      "change_pct": 0.22
+    },
+    {
+      "display_name": "연료유",
+      "sector": "에너지",
+      "price_prev": 6218.71,
+      "price_today": 6231.22,
+      "change_pct": 0.2
+    },
+    {
+      "display_name": "아크릴산",
+      "sector": "화학공업",
+      "price_prev": 8395.07,
+      "price_today": 8411.76,
+      "change_pct": 0.2
+    },
+    {
+      "display_name": "주석(잉곳)",
+      "sector": "비철금속",
+      "price_prev": 427646.17,
+      "price_today": 428447.85,
+      "change_pct": 0.19
+    },
+    {
+      "display_name": "아연도금판",
+      "sector": "철강",
+      "price_prev": 4104.14,
+      "price_today": 4111.64,
+      "change_pct": 0.18
+    },
+    {
+      "display_name": "MIBK",
+      "sector": "화학공업",
+      "price_prev": 9513.3,
+      "price_today": 9529.99,
+      "change_pct": 0.18
+    },
+    {
+      "display_name": "가솔린",
+      "sector": "에너지",
+      "price_prev": 8680.96,
+      "price_today": 8693.83,
+      "change_pct": 0.15
+    },
+    {
+      "display_name": "석유 코크스",
+      "sector": "에너지",
+      "price_prev": 3445.44,
+      "price_today": 3450.45,
+      "change_pct": 0.15
+    },
+    {
+      "display_name": "열간 압연 코일",
+      "sector": "철강",
+      "price_prev": 3251.3,
+      "price_today": 3255.3,
+      "change_pct": 0.12
+    },
+    {
+      "display_name": "스티렌",
+      "sector": "화학공업",
+      "price_prev": 8652.1,
+      "price_today": 8662.11,
+      "change_pct": 0.12
+    },
+    {
+      "display_name": "포름알데히드",
+      "sector": "화학공업",
+      "price_prev": 1230.47,
+      "price_today": 1231.72,
+      "change_pct": 0.1
+    },
+    {
+      "display_name": "황금",
+      "sector": "비철금속",
+      "price_prev": 957.19,
+      "price_today": 957.92,
+      "change_pct": 0.08
+    },
+    {
+      "display_name": "대두유",
+      "sector": "농산물 및 부산물",
+      "price_prev": 8553.63,
+      "price_today": 8559.64,
+      "change_pct": 0.07
+    },
+    {
+      "display_name": "백설탕",
+      "sector": "농산물 및 부산물",
+      "price_prev": 5235.34,
+      "price_today": 5238.69,
+      "change_pct": 0.06
+    },
+    {
+      "display_name": "테릴렌 단섬유",
+      "sector": "방직",
+      "price_prev": 7594.13,
+      "price_today": 7597.01,
+      "change_pct": 0.04
+    },
+    {
+      "display_name": "폐강",
+      "sector": "철강",
+      "price_prev": 2338.35,
+      "price_today": 2339.19,
+      "change_pct": 0.04
     },
     {
       "display_name": "천연가스",
@@ -805,17 +665,17 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "불수강판",
-      "sector": "철강",
-      "price_prev": 13388.68,
-      "price_today": 13388.68,
+      "display_name": "순수 벤젠",
+      "sector": "화학공업",
+      "price_prev": 7578.26,
+      "price_today": 7578.26,
       "change_pct": 0.0
     },
     {
-      "display_name": "불수강판",
+      "display_name": "비틀",
       "sector": "철강",
-      "price_prev": 14752.57,
-      "price_today": 14752.57,
+      "price_prev": 3001.2,
+      "price_today": 3001.2,
       "change_pct": 0.0
     },
     {
@@ -840,13 +700,6 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "콩비지",
-      "sector": "농산물 및 부산물",
-      "price_prev": 3097.11,
-      "price_today": 3097.11,
-      "change_pct": 0.0
-    },
-    {
       "display_name": "생사",
       "sector": "방직",
       "price_prev": 425912.85,
@@ -868,10 +721,10 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "보라사",
-      "sector": "화학공업",
-      "price_prev": 5667.92,
-      "price_today": 5667.92,
+      "display_name": "금속규소(공업규소)",
+      "sector": "비철금속",
+      "price_prev": 9319.53,
+      "price_today": 9319.53,
       "change_pct": 0.0
     },
     {
@@ -882,10 +735,10 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "에탄올",
-      "sector": "화학공업",
-      "price_prev": 5583.37,
-      "price_today": 5583.37,
+      "display_name": "코크스",
+      "sector": "에너지",
+      "price_prev": 1870.62,
+      "price_today": 1870.62,
       "change_pct": 0.0
     },
     {
@@ -896,24 +749,10 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "아세톤",
+      "display_name": "시클로헥산",
       "sector": "화학공업",
-      "price_prev": 6308.82,
-      "price_today": 6308.82,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "폴리부타디엔 고무",
-      "sector": "고무 및 프라스틱",
-      "price_prev": 13534.87,
-      "price_today": 13534.87,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "니트라이트 고무",
-      "sector": "고무 및 프라스틱",
-      "price_prev": 16618.26,
-      "price_today": 16618.26,
+      "price_prev": 6442.34,
+      "price_today": 6442.34,
       "change_pct": 0.0
     },
     {
@@ -945,17 +784,17 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "포름알데히드",
+      "display_name": "탄소 블랙",
       "sector": "화학공업",
-      "price_prev": 1230.47,
-      "price_today": 1230.47,
+      "price_prev": 8497.59,
+      "price_today": 8497.59,
       "change_pct": 0.0
     },
     {
-      "display_name": "유황",
-      "sector": "화학공업",
-      "price_prev": 9448.88,
-      "price_today": 9448.88,
+      "display_name": "폴리프로필렌",
+      "sector": "고무 및 프라스틱",
+      "price_prev": 9160.07,
+      "price_today": 9160.07,
       "change_pct": 0.0
     },
     {
@@ -963,6 +802,20 @@
       "sector": "화학공업",
       "price_prev": 2403.36,
       "price_today": 2403.36,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "면사",
+      "sector": "방직",
+      "price_prev": 23378.35,
+      "price_today": 23378.35,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "면사",
+      "sector": "방직",
+      "price_prev": 24787.39,
+      "price_today": 24787.39,
       "change_pct": 0.0
     },
     {
@@ -987,10 +840,10 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "유리",
-      "sector": "건축자재",
-      "price_prev": 12.14,
-      "price_today": 12.14,
+      "display_name": "규소철(철합금)",
+      "sector": "철강",
+      "price_prev": 5567.94,
+      "price_today": 5567.94,
       "change_pct": 0.0
     },
     {
@@ -1001,17 +854,17 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "황산",
+      "sector": "화학공업",
+      "price_prev": 1872.62,
+      "price_today": 1872.62,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "목재 펄프",
       "sector": "건축자재",
       "price_prev": 4355.22,
       "price_today": 4355.22,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "뇨소",
-      "sector": "화학공업",
-      "price_prev": 1737.43,
-      "price_today": 1737.43,
       "change_pct": 0.0
     },
     {
@@ -1043,10 +896,31 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "탄산 수소 나트륨",
+      "sector": "화학공업",
+      "price_prev": 1199.18,
+      "price_today": 1199.18,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "산화칼슘(생석회)",
       "sector": "화학공업",
       "price_prev": 690.97,
       "price_today": 690.97,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "인산",
+      "sector": "화학공업",
+      "price_prev": 8687.15,
+      "price_today": 8687.15,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "인산",
+      "sector": "화학공업",
+      "price_prev": 8678.8,
+      "price_today": 8678.8,
       "change_pct": 0.0
     },
     {
@@ -1071,6 +945,13 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "카프로락탐",
+      "sector": "화학공업",
+      "price_prev": 12130.29,
+      "price_today": 12130.29,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "스프사",
       "sector": "방직",
       "price_prev": 17933.96,
@@ -1085,10 +966,24 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "폴리스티렌",
+      "sector": "고무 및 프라스틱",
+      "price_prev": 9744.04,
+      "price_today": 9744.04,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "클로로벤젠",
       "sector": "화학공업",
       "price_prev": 6308.82,
       "price_today": 6308.82,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "무수말레산",
+      "sector": "화학공업",
+      "price_prev": 8336.66,
+      "price_today": 8336.66,
       "change_pct": 0.0
     },
     {
@@ -1113,6 +1008,13 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "액화가스",
+      "sector": "에너지",
+      "price_prev": 6343.84,
+      "price_today": 6343.84,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "폴리에스테르",
       "sector": "고무 및 프라스틱",
       "price_prev": 7425.66,
@@ -1124,13 +1026,6 @@
       "sector": "에너지",
       "price_prev": 4454.45,
       "price_today": 4454.45,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "석탄",
-      "sector": "에너지",
-      "price_prev": 863.86,
-      "price_today": 863.86,
       "change_pct": 0.0
     },
     {
@@ -1155,13 +1050,6 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "아닐린",
-      "sector": "화학공업",
-      "price_prev": 11641.28,
-      "price_today": 11641.28,
-      "change_pct": 0.0
-    },
-    {
       "display_name": "디페닐메탄 디이소시아네이트",
       "sector": "화학공업",
       "price_prev": 18091.96,
@@ -1169,17 +1057,31 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "폴리아미드66",
+      "sector": "고무 및 프라스틱",
+      "price_prev": 17852.95,
+      "price_today": 17852.95,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "폴리아미드6",
+      "sector": "고무 및 프라스틱",
+      "price_prev": 12713.97,
+      "price_today": 12713.97,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "고밀도 폴리에틸렌",
+      "sector": "고무 및 프라스틱",
+      "price_prev": 10511.55,
+      "price_today": 10511.55,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "냉간압연판",
       "sector": "철강",
       "price_prev": 3761.5,
       "price_today": 3761.5,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "심레스파이프",
-      "sector": "철강",
-      "price_prev": 4043.62,
-      "price_today": 4043.62,
       "change_pct": 0.0
     },
     {
@@ -1232,13 +1134,6 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "인산 모암모늄",
-      "sector": "화학공업",
-      "price_prev": 4456.23,
-      "price_today": 4456.23,
-      "change_pct": 0.0
-    },
-    {
       "display_name": "염화칼륨",
       "sector": "화학공업",
       "price_prev": 3488.21,
@@ -1246,10 +1141,31 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "스티렌 부타디엔 고무",
-      "sector": "고무 및 프라스틱",
-      "price_prev": 13723.41,
-      "price_today": 13723.41,
+      "display_name": "질산",
+      "sector": "화학공업",
+      "price_prev": 1311.83,
+      "price_today": 1311.83,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "비스페놀 A",
+      "sector": "화학공업",
+      "price_prev": 9313.02,
+      "price_today": 9313.02,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "테트라클로로에틸렌",
+      "sector": "화학공업",
+      "price_prev": 3204.48,
+      "price_today": 3204.48,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "게르마늄",
+      "sector": "비철금속",
+      "price_prev": 24033.69,
+      "price_today": 24033.69,
       "change_pct": 0.0
     },
     {
@@ -1311,22 +1227,22 @@
     {
       "display_name": "텅스텐 정광",
       "sector": "비철금속",
-      "price_prev": 410861.0,
-      "price_today": 410861.0,
+      "price_prev": 411529.06,
+      "price_today": 411529.06,
       "change_pct": 0.0
     },
     {
       "display_name": "텅스텐 정광",
       "sector": "비철금속",
-      "price_prev": 411863.1,
-      "price_today": 411863.1,
+      "price_prev": 412531.16,
+      "price_today": 412531.16,
       "change_pct": 0.0
     },
     {
       "display_name": "암모늄 파라텅스테이트",
       "sector": "비철금속",
-      "price_prev": 607940.69,
-      "price_today": 607940.69,
+      "price_prev": 608608.71,
+      "price_today": 608608.71,
       "change_pct": 0.0
     },
     {
@@ -1341,6 +1257,13 @@
       "sector": "화학공업",
       "price_prev": 2853.99,
       "price_today": 2853.99,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "디글리콜",
+      "sector": "화학공업",
+      "price_prev": 9706.9,
+      "price_today": 9706.9,
       "change_pct": 0.0
     },
     {
@@ -1393,13 +1316,6 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "n - 프로파일 알코올",
-      "sector": "화학공업",
-      "price_prev": 7210.08,
-      "price_today": 7210.08,
-      "change_pct": 0.0
-    },
-    {
       "display_name": "전해 망간",
       "sector": "비철금속",
       "price_prev": 18138.01,
@@ -1407,17 +1323,10 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "브롬",
+      "display_name": "화이트 카본 블랙",
       "sector": "화학공업",
-      "price_prev": 37051.8,
-      "price_today": 37051.8,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "아크릴산",
-      "sector": "화학공업",
-      "price_prev": 8395.07,
-      "price_today": 8395.07,
+      "price_prev": 6008.4,
+      "price_today": 6008.4,
       "change_pct": 0.0
     },
     {
@@ -1425,13 +1334,6 @@
       "sector": "화학공업",
       "price_prev": 10564.77,
       "price_today": 10564.77,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "메틸 터샤리 부틸에텔",
-      "sector": "화학공업",
-      "price_prev": 6790.09,
-      "price_today": 6790.09,
       "change_pct": 0.0
     },
     {
@@ -1456,24 +1358,24 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "프로필렌 글리콜",
+      "sector": "화학공업",
+      "price_prev": 9212.88,
+      "price_today": 9212.88,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "DBP",
+      "sector": "화학공업",
+      "price_prev": 8697.16,
+      "price_today": 8697.16,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "트리에틸아민",
       "sector": "화학공업",
       "price_prev": 11052.95,
       "price_today": 11052.95,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "과산화수소",
-      "sector": "화학공업",
-      "price_prev": 610.85,
-      "price_today": 610.85,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "스테인리스 스틸 롤",
-      "sector": "철강",
-      "price_prev": 14685.87,
-      "price_today": 14685.87,
       "change_pct": 0.0
     },
     {
@@ -1505,6 +1407,20 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "탄산리튬",
+      "sector": "화학공업",
+      "price_prev": 141197.4,
+      "price_today": 141197.4,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "이소프로파올",
+      "sector": "화학공업",
+      "price_prev": 6976.42,
+      "price_today": 6976.42,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "1, 4 - 부탄글리올",
       "sector": "화학공업",
       "price_prev": 7794.23,
@@ -1512,10 +1428,24 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "DMF",
+      "sector": "화학공업",
+      "price_prev": 4486.27,
+      "price_today": 4486.27,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "차아염소산나트륨",
       "sector": "화학공업",
       "price_prev": 553.27,
       "price_today": 553.27,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "PMMA",
+      "sector": "고무 및 프라스틱",
+      "price_prev": 14349.1,
+      "price_today": 14349.1,
       "change_pct": 0.0
     },
     {
@@ -1540,6 +1470,13 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "트리하이드록시메틸프로판",
+      "sector": "화학공업",
+      "price_prev": 11115.54,
+      "price_today": 11115.54,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "Neopentyl glycol",
       "sector": "화학공업",
       "price_prev": 8912.46,
@@ -1561,6 +1498,13 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "브롬화수소산",
+      "sector": "화학공업",
+      "price_prev": 14386.78,
+      "price_today": 14386.78,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "피리딘",
       "sector": "화학공업",
       "price_prev": 18397.15,
@@ -1572,6 +1516,13 @@
       "sector": "화학공업",
       "price_prev": 8845.7,
       "price_today": 8845.7,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "디클로로메탄",
+      "sector": "화학공업",
+      "price_prev": 1977.77,
+      "price_today": 1977.77,
       "change_pct": 0.0
     },
     {
@@ -1610,6 +1561,13 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "인산이수소칼륨",
+      "sector": "화학공업",
+      "price_prev": 9045.98,
+      "price_today": 9045.98,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "나일론 DTY",
       "sector": "방직",
       "price_prev": 16128.06,
@@ -1628,6 +1586,27 @@
       "sector": "방직",
       "price_prev": 14007.0,
       "price_today": 14007.0,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "리 튬 수 산 화 물 (배 터 리 등 급)",
+      "sector": "화학공업",
+      "price_prev": 122170.8,
+      "price_today": 122170.8,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "리 튬 수 산 화 물 (배 터 리 등 급)",
+      "sector": "화학공업",
+      "price_prev": 135189.0,
+      "price_today": 135189.0,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "인산 철 리튬",
+      "sector": "화학공업",
+      "price_prev": 56412.2,
+      "price_today": 56412.2,
       "change_pct": 0.0
     },
     {
@@ -1698,6 +1677,13 @@
       "sector": "화학공업",
       "price_prev": 1154.11,
       "price_today": 1154.11,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "프로피온산",
+      "sector": "화학공업",
+      "price_prev": 5470.15,
+      "price_today": 5470.15,
       "change_pct": 0.0
     },
     {
@@ -1785,10 +1771,24 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "옥살산",
+      "sector": "화학공업",
+      "price_prev": 3738.56,
+      "price_today": 3738.56,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "트라이플루오로아세트산",
       "sector": "화학공업",
       "price_prev": 33021.17,
       "price_today": 33021.17,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "황산 칼륨",
+      "sector": "화학공업",
+      "price_prev": 4032.31,
+      "price_today": 4032.31,
       "change_pct": 0.0
     },
     {
@@ -1827,6 +1827,13 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "형산",
+      "sector": "화학공업",
+      "price_prev": 1902.66,
+      "price_today": 1902.66,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "Dimethyl phosphonate",
       "sector": "화학공업",
       "price_prev": 17691.4,
@@ -1848,6 +1855,20 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "과붕산나트륨",
+      "sector": "화학공업",
+      "price_prev": 7961.13,
+      "price_today": 7961.13,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "과탄산나트륨",
+      "sector": "화학공업",
+      "price_prev": 3279.59,
+      "price_today": 3279.59,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "오르토-다이클로로벤젠",
       "sector": "화학공업",
       "price_prev": 6742.76,
@@ -1862,6 +1883,13 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "모르플린",
+      "sector": "화학공업",
+      "price_prev": 15461.62,
+      "price_today": 15461.62,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "옥산 디에틸",
       "sector": "화학공업",
       "price_prev": 12350.6,
@@ -1869,10 +1897,24 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "이산인산 나트륨",
+      "sector": "화학공업",
+      "price_prev": 6809.52,
+      "price_today": 6809.52,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "피로인산 나트륨",
       "sector": "화학공업",
       "price_prev": 8445.14,
       "price_today": 8445.14,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "에틸렌글리콜모노에틸에테르",
+      "sector": "화학공업",
+      "price_prev": 9555.03,
+      "price_today": 9555.03,
       "change_pct": 0.0
     },
     {
@@ -1899,9 +1941,9 @@
     {
       "display_name": "인산이수소칼륨",
       "sector": "화학공업",
-      "price_prev": 9179.5,
-      "price_today": 9045.98,
-      "change_pct": -1.45
+      "price_prev": 7810.92,
+      "price_today": 7810.92,
+      "change_pct": 0.0
     },
     {
       "display_name": "젖산",
@@ -1911,24 +1953,10 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "이소 옥산",
-      "sector": "화학공업",
-      "price_prev": 12642.68,
-      "price_today": 12642.68,
-      "change_pct": 0.0
-    },
-    {
       "display_name": "피로인산칼륨",
       "sector": "화학공업",
       "price_prev": 13719.18,
       "price_today": 13719.18,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "질산 칼륨",
-      "sector": "화학공업",
-      "price_prev": 5157.21,
-      "price_today": 5157.21,
       "change_pct": 0.0
     },
     {
@@ -1971,6 +1999,13 @@
       "sector": "고무 및 프라스틱",
       "price_prev": 10344.7,
       "price_today": 10344.7,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "유채 식사",
+      "sector": "농산물 및 부산물",
+      "price_prev": 2357.41,
+      "price_today": 2357.41,
       "change_pct": 0.0
     },
     {
@@ -2114,6 +2149,13 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "디에틸렌글리콜모노부틸에테르",
+      "sector": "화학공업",
+      "price_prev": 10614.84,
+      "price_today": 10614.84,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "무수 아황산 나트륨",
       "sector": "화학공업",
       "price_prev": 3154.41,
@@ -2125,6 +2167,13 @@
       "sector": "화학공업",
       "price_prev": 566.79,
       "price_today": 566.79,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "오수 나트륨 메타실리케이트",
+      "sector": "화학공업",
+      "price_prev": 1522.13,
+      "price_today": 1522.13,
       "change_pct": 0.0
     },
     {
@@ -2153,6 +2202,27 @@
       "sector": "화학공업",
       "price_prev": 6795.21,
       "price_today": 6795.21,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "푸마르산",
+      "sector": "화학공업",
+      "price_prev": 7560.57,
+      "price_today": 7560.57,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "이수염화칼슘",
+      "sector": "화학공업",
+      "price_prev": 841.18,
+      "price_today": 841.18,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "과황산암모늄",
+      "sector": "화학공업",
+      "price_prev": 5774.74,
+      "price_today": 5774.74,
       "change_pct": 0.0
     },
     {
@@ -2198,10 +2268,10 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "단소 후 코크스",
-      "sector": "에너지",
-      "price_prev": 2572.57,
-      "price_today": 2572.57,
+      "display_name": "다이메틸에탄올아민",
+      "sector": "화학공업",
+      "price_prev": 15288.04,
+      "price_today": 15288.04,
       "change_pct": 0.0
     },
     {
@@ -2251,6 +2321,20 @@
       "sector": "화학공업",
       "price_prev": 9613.44,
       "price_today": 9613.44,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "이가산에스터 MDBE",
+      "sector": "화학공업",
+      "price_prev": 7941.1,
+      "price_today": 7941.1,
+      "change_pct": 0.0
+    },
+    {
+      "display_name": "에틸렌글리콜모노메틸에테르",
+      "sector": "화학공업",
+      "price_prev": 8161.41,
+      "price_today": 8161.41,
       "change_pct": 0.0
     },
     {
@@ -2394,6 +2478,13 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "디에틸렌글리콜 에틸 에테르",
+      "sector": "화학공업",
+      "price_prev": 12208.74,
+      "price_today": 12208.74,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "무수 아세산 나트륨",
       "sector": "화학공업",
       "price_prev": 5393.25,
@@ -2408,17 +2499,17 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "OP-10",
+      "sector": "",
+      "price_prev": 10166.67,
+      "price_today": 10166.67,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "p-톨루엔설폰산",
       "sector": "화학공업",
       "price_prev": 14453.54,
       "price_today": 14453.54,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "형산 칼륨",
-      "sector": "화학공업",
-      "price_prev": 6659.31,
-      "price_today": 6659.31,
       "change_pct": 0.0
     },
     {
@@ -2737,6 +2828,13 @@
       "change_pct": 0.0
     },
     {
+      "display_name": "벤타산화 바나",
+      "sector": "비철금속",
+      "price_prev": 97871.77,
+      "price_today": 97871.77,
+      "change_pct": 0.0
+    },
+    {
       "display_name": "tert-부틸 하이드로퍼옥사이드",
       "sector": "화학공업",
       "price_prev": 10714.98,
@@ -2755,20 +2853,6 @@
       "sector": "화학공업",
       "price_prev": 8511.9,
       "price_today": 8511.9,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "마른 시타버섯",
-      "sector": "농산물 및 부산물",
-      "price_prev": 53.53,
-      "price_today": 53.53,
-      "change_pct": 0.0
-    },
-    {
-      "display_name": "마른 시타버섯",
-      "sector": "농산물 및 부산물",
-      "price_prev": 8.83,
-      "price_today": 8.83,
       "change_pct": 0.0
     },
     {
@@ -2807,333 +2891,242 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "폐강",
-      "sector": "철강",
-      "price_prev": 2340.02,
-      "price_today": 2338.35,
-      "change_pct": -0.07
-    },
-    {
-      "display_name": "규소철(철합금)",
-      "sector": "철강",
-      "price_prev": 5572.23,
-      "price_today": 5567.94,
-      "change_pct": -0.08
-    },
-    {
-      "display_name": "황산 칼륨",
-      "sector": "화학공업",
-      "price_prev": 4035.64,
-      "price_today": 4032.31,
-      "change_pct": -0.08
-    },
-    {
-      "display_name": "트리하이드록시메틸프로판",
-      "sector": "화학공업",
-      "price_prev": 11128.06,
-      "price_today": 11115.54,
-      "change_pct": -0.11
-    },
-    {
-      "display_name": "주석(잉곳)",
-      "sector": "비철금속",
-      "price_prev": 428247.43,
-      "price_today": 427646.17,
-      "change_pct": -0.14
-    },
-    {
-      "display_name": "MIBK",
-      "sector": "화학공업",
-      "price_prev": 9529.99,
-      "price_today": 9513.3,
-      "change_pct": -0.18
-    },
-    {
-      "display_name": "갈",
-      "sector": "비철금속",
-      "price_prev": 1825.5,
-      "price_today": 1822.15,
-      "change_pct": -0.18
-    },
-    {
-      "display_name": "백설탕",
-      "sector": "농산물 및 부산물",
-      "price_prev": 5245.37,
-      "price_today": 5235.34,
-      "change_pct": -0.19
-    },
-    {
-      "display_name": "옥수수 전분",
-      "sector": "농산물 및 부산물",
-      "price_prev": 2918.7,
-      "price_today": 2912.68,
-      "change_pct": -0.21
-    },
-    {
-      "display_name": "석유 코크스",
-      "sector": "에너지",
-      "price_prev": 3452.95,
-      "price_today": 3445.44,
-      "change_pct": -0.22
-    },
-    {
-      "display_name": "이형철근",
-      "sector": "철강",
-      "price_prev": 3020.21,
-      "price_today": 3013.54,
-      "change_pct": -0.22
-    },
-    {
-      "display_name": "질산",
-      "sector": "화학공업",
-      "price_prev": 1315.17,
-      "price_today": 1311.83,
-      "change_pct": -0.25
-    },
-    {
-      "display_name": "비틀",
-      "sector": "철강",
-      "price_prev": 3011.2,
-      "price_today": 3001.2,
-      "change_pct": -0.33
-    },
-    {
-      "display_name": "아스팔트",
-      "sector": "건축자재",
-      "price_prev": 4342.71,
-      "price_today": 4327.69,
-      "change_pct": -0.35
-    },
-    {
-      "display_name": "부틸아세트산",
-      "sector": "화학공업",
-      "price_prev": 6771.97,
-      "price_today": 6746.93,
-      "change_pct": -0.37
-    },
-    {
-      "display_name": "멜라민",
-      "sector": "화학공업",
-      "price_prev": 6371.41,
-      "price_today": 6346.37,
-      "change_pct": -0.39
-    },
-    {
-      "display_name": "과붕산나트륨",
-      "sector": "화학공업",
-      "price_prev": 7994.51,
-      "price_today": 7961.13,
-      "change_pct": -0.42
-    },
-    {
-      "display_name": "황산",
-      "sector": "화학공업",
-      "price_prev": 1882.63,
-      "price_today": 1872.62,
-      "change_pct": -0.53
-    },
-    {
-      "display_name": "아세트산",
-      "sector": "화학공업",
-      "price_prev": 3074.3,
-      "price_today": 3057.6,
-      "change_pct": -0.54
-    },
-    {
-      "display_name": "탄소 블랙",
-      "sector": "화학공업",
-      "price_prev": 8545.28,
-      "price_today": 8497.59,
-      "change_pct": -0.56
-    },
-    {
-      "display_name": "과황산암모늄",
-      "sector": "화학공업",
-      "price_prev": 5808.12,
-      "price_today": 5774.74,
-      "change_pct": -0.57
-    },
-    {
-      "display_name": "글리콜",
-      "sector": "화학공업",
-      "price_prev": 5073.76,
-      "price_today": 5043.72,
-      "change_pct": -0.59
-    },
-    {
-      "display_name": "코발트",
-      "sector": "비철금속",
-      "price_prev": 331394.47,
-      "price_today": 329390.27,
-      "change_pct": -0.6
-    },
-    {
-      "display_name": "탄산 수소 나트륨",
-      "sector": "화학공업",
-      "price_prev": 1206.69,
-      "price_today": 1199.18,
-      "change_pct": -0.62
-    },
-    {
-      "display_name": "오수 나트륨 메타실리케이트",
-      "sector": "화학공업",
-      "price_prev": 1532.14,
-      "price_today": 1522.13,
-      "change_pct": -0.65
-    },
-    {
-      "display_name": "폴리스티렌",
+      "display_name": "폴리염화비닐",
       "sector": "고무 및 프라스틱",
-      "price_prev": 9810.78,
-      "price_today": 9744.04,
-      "change_pct": -0.68
+      "price_prev": 4446.89,
+      "price_today": 4445.89,
+      "change_pct": -0.02
     },
     {
-      "display_name": "목재 펄프",
-      "sector": "건축자재",
-      "price_prev": 4789.07,
-      "price_today": 4755.7,
-      "change_pct": -0.7
-    },
-    {
-      "display_name": "프로필렌 옥사이드",
-      "sector": "화학공업",
-      "price_prev": 9279.64,
-      "price_today": 9212.88,
-      "change_pct": -0.72
-    },
-    {
-      "display_name": "에틸렌글리콜모노메틸에테르",
-      "sector": "화학공업",
-      "price_prev": 8224.0,
-      "price_today": 8161.41,
-      "change_pct": -0.76
-    },
-    {
-      "display_name": "아크릴니트릴",
-      "sector": "방직",
-      "price_prev": 12039.35,
-      "price_today": 11939.3,
-      "change_pct": -0.83
-    },
-    {
-      "display_name": "무수프탈산",
-      "sector": "화학공업",
-      "price_prev": 9062.67,
-      "price_today": 8979.22,
-      "change_pct": -0.92
-    },
-    {
-      "display_name": "인산",
-      "sector": "화학공업",
-      "price_prev": 8762.25,
-      "price_today": 8678.8,
-      "change_pct": -0.95
+      "display_name": "스테인리스 스틸 롤",
+      "sector": "철강",
+      "price_prev": 14685.87,
+      "price_today": 14680.87,
+      "change_pct": -0.03
     },
     {
       "display_name": "니켈(잉곳)",
       "sector": "비철금속",
-      "price_prev": 130991.18,
-      "price_today": 129688.45,
-      "change_pct": -0.99
+      "price_prev": 129688.45,
+      "price_today": 129621.63,
+      "change_pct": -0.05
     },
     {
-      "display_name": "프로피온산",
+      "display_name": "조면",
+      "sector": "방직",
+      "price_prev": 17986.16,
+      "price_today": 17975.31,
+      "change_pct": -0.06
+    },
+    {
+      "display_name": "불수강판",
+      "sector": "철강",
+      "price_prev": 13388.68,
+      "price_today": 13363.67,
+      "change_pct": -0.19
+    },
+    {
+      "display_name": "갈",
+      "sector": "비철금속",
+      "price_prev": 1822.15,
+      "price_today": 1820.49,
+      "change_pct": -0.09
+    },
+    {
+      "display_name": "심레스파이프",
+      "sector": "철강",
+      "price_prev": 4043.62,
+      "price_today": 4039.62,
+      "change_pct": -0.1
+    },
+    {
+      "display_name": "동",
+      "sector": "비철금속",
+      "price_prev": 108876.49,
+      "price_today": 108762.92,
+      "change_pct": -0.1
+    },
+    {
+      "display_name": "불수강판",
+      "sector": "철강",
+      "price_prev": 14752.57,
+      "price_today": 14739.22,
+      "change_pct": -0.09
+    },
+    {
+      "display_name": "아세트산",
       "sector": "화학공업",
-      "price_prev": 5545.25,
-      "price_today": 5470.15,
-      "change_pct": -1.35
+      "price_prev": 3057.6,
+      "price_today": 3050.94,
+      "change_pct": -0.22
     },
     {
-      "display_name": "유채 식사",
+      "display_name": "유리",
+      "sector": "건축자재",
+      "price_prev": 12.14,
+      "price_today": 12.11,
+      "change_pct": -0.25
+    },
+    {
+      "display_name": "니트라이트 고무",
+      "sector": "고무 및 프라스틱",
+      "price_prev": 16618.26,
+      "price_today": 16568.21,
+      "change_pct": -0.3
+    },
+    {
+      "display_name": "코발트",
+      "sector": "비철금속",
+      "price_prev": 329390.27,
+      "price_today": 328388.17,
+      "change_pct": -0.3
+    },
+    {
+      "display_name": "콩비지",
       "sector": "농산물 및 부산물",
-      "price_prev": 2391.49,
-      "price_today": 2357.41,
-      "change_pct": -1.42
+      "price_prev": 3097.11,
+      "price_today": 3087.08,
+      "change_pct": -0.32
     },
     {
-      "display_name": "프로필렌 글리콜",
+      "display_name": "옥수수 전분",
+      "sector": "농산물 및 부산물",
+      "price_prev": 2912.68,
+      "price_today": 2902.66,
+      "change_pct": -0.34
+    },
+    {
+      "display_name": "채종유",
+      "sector": "농산물 및 부산물",
+      "price_prev": 10526.15,
+      "price_today": 10488.07,
+      "change_pct": -0.36
+    },
+    {
+      "display_name": "인산 모암모늄",
       "sector": "화학공업",
-      "price_prev": 9346.4,
-      "price_today": 9212.88,
-      "change_pct": -1.43
+      "price_prev": 4439.54,
+      "price_today": 4422.85,
+      "change_pct": -0.38
+    },
+    {
+      "display_name": "메탄올",
+      "sector": "화학공업",
+      "price_prev": 2663.72,
+      "price_today": 2648.7,
+      "change_pct": -0.56
     },
     {
       "display_name": "황산암모늄",
       "sector": "화학공업",
-      "price_prev": 1168.3,
-      "price_today": 1151.61,
-      "change_pct": -1.43
+      "price_prev": 1151.61,
+      "price_today": 1144.93,
+      "change_pct": -0.58
     },
     {
-      "display_name": "인산이수소칼륨",
+      "display_name": "팜오일",
+      "sector": "농산물 및 부산물",
+      "price_prev": 9443.67,
+      "price_today": 9377.52,
+      "change_pct": -0.7
+    },
+    {
+      "display_name": "목재 펄프",
+      "sector": "건축자재",
+      "price_prev": 4755.7,
+      "price_today": 4722.33,
+      "change_pct": -0.7
+    },
+    {
+      "display_name": "메틸 터샤리 부틸에텔",
       "sector": "화학공업",
-      "price_prev": 7810.92,
-      "price_today": 7810.92,
-      "change_pct": 0.0
+      "price_prev": 6750.04,
+      "price_today": 6699.97,
+      "change_pct": -0.74
     },
     {
-      "display_name": "폴리아미드66",
-      "sector": "고무 및 프라스틱",
-      "price_prev": 18153.28,
-      "price_today": 17852.95,
-      "change_pct": -1.65
-    },
-    {
-      "display_name": "무수말레산",
+      "display_name": "에탄올",
       "sector": "화학공업",
-      "price_prev": 8486.86,
-      "price_today": 8336.66,
-      "change_pct": -1.77
+      "price_prev": 5583.37,
+      "price_today": 5538.85,
+      "change_pct": -0.8
     },
     {
-      "display_name": "코크스",
-      "sector": "에너지",
-      "price_prev": 1905.65,
-      "price_today": 1870.62,
-      "change_pct": -1.84
-    },
-    {
-      "display_name": "비스페놀 A",
+      "display_name": "뇨소",
       "sector": "화학공업",
-      "price_prev": 9513.3,
-      "price_today": 9313.02,
-      "change_pct": -2.11
+      "price_prev": 1737.43,
+      "price_today": 1719.9,
+      "change_pct": -1.01
     },
     {
-      "display_name": "옥살산",
+      "display_name": "멜라민",
       "sector": "화학공업",
-      "price_prev": 3822.01,
-      "price_today": 3738.56,
-      "change_pct": -2.18
+      "price_prev": 6346.37,
+      "price_today": 6271.27,
+      "change_pct": -1.18
     },
     {
-      "display_name": "PMMA",
-      "sector": "고무 및 프라스틱",
-      "price_prev": 14682.8,
-      "price_today": 14349.1,
-      "change_pct": -2.27
-    },
-    {
-      "display_name": "테트라클로로에틸렌",
+      "display_name": "페놀",
       "sector": "화학공업",
-      "price_prev": 3284.59,
-      "price_today": 3204.48,
-      "change_pct": -2.44
+      "price_prev": 8426.78,
+      "price_today": 8321.63,
+      "change_pct": -1.25
     },
     {
-      "display_name": "디클로로메탄",
+      "display_name": "n - 프로파일 알코올",
       "sector": "화학공업",
-      "price_prev": 2027.84,
-      "price_today": 1977.77,
-      "change_pct": -2.47
+      "price_prev": 7210.08,
+      "price_today": 7109.94,
+      "change_pct": -1.39
     },
     {
-      "display_name": "부탄 케톤",
+      "display_name": "프로필렌 옥사이드",
       "sector": "화학공업",
-      "price_prev": 8511.9,
-      "price_today": 7944.44,
-      "change_pct": -6.67
+      "price_prev": 9212.88,
+      "price_today": 9079.36,
+      "change_pct": -1.45
+    },
+    {
+      "display_name": "은",
+      "sector": "비철금속",
+      "price_prev": 16121.78,
+      "price_today": 15887.62,
+      "change_pct": -1.45
+    },
+    {
+      "display_name": "과산화수소",
+      "sector": "화학공업",
+      "price_prev": 610.85,
+      "price_today": 600.84,
+      "change_pct": -1.64
+    },
+    {
+      "display_name": "아크릴니트릴",
+      "sector": "방직",
+      "price_prev": 11939.3,
+      "price_today": 11739.2,
+      "change_pct": -1.68
+    },
+    {
+      "display_name": "이소 옥산",
+      "sector": "화학공업",
+      "price_prev": 12642.68,
+      "price_today": 12392.33,
+      "change_pct": -1.98
+    },
+    {
+      "display_name": "마른 시타버섯",
+      "sector": "농산물 및 부산물",
+      "price_prev": 53.53,
+      "price_today": 52.02,
+      "change_pct": -2.83
+    },
+    {
+      "display_name": "질산 칼륨",
+      "sector": "화학공업",
+      "price_prev": 5157.21,
+      "price_today": 5007.0,
+      "change_pct": -2.91
     }
   ]
 }
