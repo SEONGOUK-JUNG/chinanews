@@ -1,21 +1,21 @@
 {
-  "run_at_kst": "2026-08-12T10:22:52+09:00",
+  "run_at_kst": "2026-08-12T15:14:19+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "이제는 중국에서 생산된 자동차의 절반이 수출된다",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WSERfYXFkNnMxcUFrajNMZjhxVFI4QzdpcWdiVUQ5eHRQejZKSG05RmEzXzBLamFHSERLNGdnMnVqM3JFZjhHNlQ0ODVqLUk?oc=5",
-      "source": "v.daum.net",
-      "date": "Wed, 12 Aug 2026 00:39:00 GMT"
+      "title": "中, 장쩌민 탄생 100주년 기념 돌입…17일 시진핑 주재 좌담회 전망",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ubjdsWlhwSG5QTC1pZkNva1ZzaS01Q1A0ejdlSlhBVXJtSW5ISU1JcTVCVjZ6WGNaN1JTNE5mbVVWckN3Xy16VFpOdW1Ic2pJYWswTnlMY3N3bnBF?oc=5",
+      "source": "supple.kr",
+      "date": "Wed, 12 Aug 2026 05:59:36 GMT"
     },
     {
-      "title": "생애 업적 집중 조명, 中 탄생 100주년 고 장쩌민 주석 띄우기",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXMThuQlF3d2c5enNsWDZoUXhrS1Fwa0o1RTlsc0NmSWpQTUJlMVV0SkYzMjh1ZmZ6Y2dKUktrenotWGJCb0Y4VDJ2UXFXRXdqbEZTaHNJbkZ1M2dp?oc=5",
-      "source": "뉴스핌",
-      "date": "Tue, 11 Aug 2026 22:41:00 GMT"
+      "title": "[조용성의 현실중국] 희토류의 위력...해외로 나갔던 공장들이 돌아온다",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMckJON1NXSzkzOTFPVnd3R2NrVXNVZTNySUhWbHNITUtBV09DTDFhbUR6c2VLSTZ2UGV3U3JWYk5NQTlXNmY5QzRuQ0Z3NGc?oc=5",
+      "source": "v.daum.net",
+      "date": "Wed, 12 Aug 2026 01:14:14 GMT"
     },
     {
       "title": "전남광주통합특별시의회, 중국과 경제·문화·관광 교류 확대 논의",
@@ -30,16 +30,28 @@
       "date": "Tue, 11 Aug 2026 05:30:00 GMT"
     },
     {
-      "title": "취업 보장되는 곳이 최고…중국서 전문대가 4년제 앞질러",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DTXczbW5IMjNCZXBPUTBNTmlTWTFuV3R3WmdRaWx1N3pUdUpPVW1kbVhONWFLY1JNTXJibmhBZXg2azNJbGVvVGJEV2JfYmI4TnfSAUxBVV95cUxQQXhrUnZsNkZDVkI5cEZveUF2RGtTMjF6SUF4Sk9CNHVwbmVzWTJHR0N1TkVfWXhrQUpnUjd3M0IxUUhEV3A5dkpNeW5G?oc=5",
-      "source": "mbn.co.kr",
-      "date": "Tue, 11 Aug 2026 04:23:00 GMT"
-    },
-    {
       "title": "“일본 ‘핵 반입’ 피할 수 없다…중·일 갈등은 경제서 군사지대로 이동”",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56U3ZoSmZvUjdEX2IxbTA4RU1IR25nMjQzVGt0OWs4TUp4TFBaOXU5WDJ6TFZhYVJ2TWh2V3pnazhwNGl4Z1RLZWRGOXdVNjRMa3VEcHdqZjZYcnFJZVE?oc=5",
-      "source": "weekly.khan.co.kr",
+      "source": "주간경향",
       "date": "Mon, 10 Aug 2026 21:00:00 GMT"
+    },
+    {
+      "title": "23화 중국 경제의 위기 현상 — 우리가 참고 할 것들은...",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5nLTBaNWlnVDlfeHVxUGxNRzI3TC0yZV9PaFR4TGozdjZOUzJWb0MyZ3pPMnpLcThhTVRHUWZPb3FISEZFTEE?oc=5",
+      "source": "브런치",
+      "date": "Mon, 10 Aug 2026 20:56:13 GMT"
+    },
+    {
+      "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Mon, 10 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "중국 관영매체 \"한국 폭염은 경제협력 기회\", 긴급한 사태 때 공급망 장점 강조",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YMlJzZFJqNU1WSERFTEI5RGg0NVdZbjZjejUwZlV4VlJleVh4YnNXeGhiNzFmUk5pUzFBaHpKWXhRVWZNdEllU1hQTkZIRHN4eUpCMm1DUU1iRml3dXlvNTdDNFd0aFV3LW95Y2U2UjJZdXc?oc=5",
+      "source": "비즈니스포스트",
+      "date": "Mon, 10 Aug 2026 02:31:50 GMT"
     },
     {
       "title": "中 전 재정장관 러우지웨이 공개석상 등장…'체포설' 일축",
@@ -52,18 +64,6 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VTGs3TXhsc0R4bWo1Yk9SOHJlRDh6bUIzNXl3eHoxZ3FZR1FhaWo5dDdwdTctTGNURTZmbjZybkVjR28wbG9zdDQyTVBPTTJ1a1Fmd3lSLTFBM0ZrZDlwd0dOVnduQnczbjFMbFh3?oc=5",
       "source": "아시아투데이",
       "date": "Sun, 09 Aug 2026 08:11:03 GMT"
-    },
-    {
-      "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Fri, 07 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "하반기 중국 경제 업무, 어떻게 추진할까?",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DaW5wdThwa05Ma0hrMkd2WjVnYWxzQ1hpYllUNnNlX0IwbWpiQzNvamQzZEpTVHlWaS11VzhLbFdsTE1NaERJdXdYWVBtckUzVzF3UWlWN3BaXzRyV2dTNXpnZw?oc=5",
-      "source": "CGTN",
-      "date": "Thu, 06 Aug 2026 10:28:00 GMT"
     },
     {
       "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",

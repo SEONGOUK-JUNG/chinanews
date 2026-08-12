@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-12T10:22:52+09:00",
+  "run_at_kst": "2026-08-12T15:14:19+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Russia Imports Indian Fuel as Refinery Crisis Deepens",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Imports-Indian-Fuel-as-Refinery-Crisis-Deepens.html",
+      "source": "OilPrice",
+      "date": "Wed, 12 Aug 2026 00:45:00 -0500"
+    },
     {
       "title": "Updated feasibility study gives NioCorp’s Elk Creek critical minerals project a $4B valuation",
       "link": "https://www.mining.com/updated-feasibility-study-gives-niocorps-elk-creek-critical-minerals-project-a-4b-valuation/",
@@ -72,12 +78,6 @@
       "link": "https://www.mining.com/copper-price-back-at-records-edge-as-grasberg-smelter-halt-bites-aluminum-surges/",
       "source": "mining.com",
       "date": "Tue, 11 Aug 2026 18:11:26 +0000"
-    },
-    {
-      "title": "China's Coal-to-Gas Industry Set to Triple by 2030, Rystad Says",
-      "link": "https://oilprice.com/Energy/Energy-General/Chinas-Coal-to-Gas-Industry-Set-to-Triple-by-2030-Rystad-Says.html",
-      "source": "OilPrice",
-      "date": "Tue, 11 Aug 2026 13:00:00 -0500"
     },
     {
       "title": "Gold price hits two-month high, retreats after  Hormuz escalation spikes oil price",
