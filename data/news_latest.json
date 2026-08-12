@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-13T01:19:12+09:00",
+  "run_at_kst": "2026-08-13T08:11:38+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,16 +8,76 @@
   "count": 14,
   "items": [
     {
-      "title": "China Expands Its Economic Footprint Across Central Asia",
-      "link": "https://oilprice.com/Geopolitics/Asia/China-Expands-Its-Economic-Footprint-Across-Central-Asia.html",
+      "title": "Ukrainian Attack Halts Operations at Key Russian Black Sea Grain Terminals",
+      "link": "https://oilprice.com/Geopolitics/Europe/Ukrainian-Attack-Halts-Operations-at-Key-Russian-Black-Sea-Grain-Terminals.html",
       "source": "OilPrice",
-      "date": "Wed, 12 Aug 2026 11:00:00 -0500"
+      "date": "Wed, 12 Aug 2026 18:00:00 -0500"
     },
     {
-      "title": "Trump Puts 81 Million Gulf Acres Up for Oil and Gas Auction",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Puts-81-Million-Gulf-Acres-Up-for-Oil-and-Gas-Auction.html",
+      "title": "EIA Sees 600,000 Bpd of Middle East Oil Still Offline by End-2027",
+      "link": "https://oilprice.com/Energy/Crude-Oil/EIA-Sees-600000-Bpd-of-Middle-East-Oil-Still-Offline-by-End-2027.html",
       "source": "OilPrice",
-      "date": "Wed, 12 Aug 2026 10:30:00 -0500"
+      "date": "Wed, 12 Aug 2026 17:00:00 -0500"
+    },
+    {
+      "title": "MIT's New Framework Aims to Tackle Nuclear Fusion's Money Problem",
+      "link": "https://oilprice.com/Energy/Energy-General/MITs-New-Framework-Aims-to-Tackle-Nuclear-Fusions-Money-Problem.html",
+      "source": "OilPrice",
+      "date": "Wed, 12 Aug 2026 16:00:00 -0500"
+    },
+    {
+      "title": "Refinery Attacks Deepen Global Diesel Supply Crunch",
+      "link": "https://oilprice.com/Energy/Energy-General/Refinery-Attacks-Deepen-Global-Diesel-Supply-Crunch.html",
+      "source": "OilPrice",
+      "date": "Wed, 12 Aug 2026 15:00:00 -0500"
+    },
+    {
+      "title": "5 LNG Megaprojects Poised to Power the Next Gas Boom",
+      "link": "https://oilprice.com/Energy/Natural-Gas/5-LNG-Megaprojects-Poised-to-Power-the-Next-Gas-Boom.html",
+      "source": "OilPrice",
+      "date": "Wed, 12 Aug 2026 14:00:00 -0500"
+    },
+    {
+      "title": "Putin Opens New Front in Shadow Fleet Fight With Threat to Seize EU Ships",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Putin-Opens-New-Front-in-Shadow-Fleet-Fight-With-Threat-to-Seize-EU-Ships.html",
+      "source": "OilPrice",
+      "date": "Wed, 12 Aug 2026 12:30:00 -0500"
+    },
+    {
+      "title": "Copper price touches fresh Comex record as squeeze in London hits hardest of the year",
+      "link": "https://www.mining.com/copper-price-touches-fresh-comex-record-as-squeeze-in-london-hits-hardest-of-the-year/",
+      "source": "mining.com",
+      "date": "Wed, 12 Aug 2026 17:26:04 +0000"
+    },
+    {
+      "title": "Gold price tops $4,500 in New York as tame US inflation cools Fed hike bets",
+      "link": "https://www.mining.com/gold-price-tops-4500-in-new-york-as-tame-us-inflation-cools-fed-hike-bets/",
+      "source": "mining.com",
+      "date": "Wed, 12 Aug 2026 17:17:04 +0000"
+    },
+    {
+      "title": "Solar Power Is Gaining Traction With Farmers",
+      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Solar-Power-Is-Gaining-Traction-With-Farmers.html",
+      "source": "OilPrice",
+      "date": "Wed, 12 Aug 2026 12:00:00 -0500"
+    },
+    {
+      "title": "Vale, ABB expand AI, automation across Brazil iron ore",
+      "link": "https://www.mining.com/vale-abb-expand-ai-automation-across-brazil-iron-ore/",
+      "source": "mining.com",
+      "date": "Wed, 12 Aug 2026 16:58:29 +0000"
+    },
+    {
+      "title": "Norway $2.3 Trillion Wealth Fund Posts Record-High Profit in H1",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Norway-23-Trillion-Wealth-Fund-Posts-Record-High-Profit-in-H1.html",
+      "source": "OilPrice",
+      "date": "Wed, 12 Aug 2026 11:30:00 -0500"
+    },
+    {
+      "title": "Apex’s rare earth assays elevate Rift among US projects",
+      "link": "https://www.mining.com/apexs-rare-earth-assays-elevate-rift-among-us-projects/",
+      "source": "mining.com",
+      "date": "Wed, 12 Aug 2026 15:57:58 +0000"
     },
     {
       "title": "Brazil Potash wins key court ruling on $2.5B project",
@@ -26,70 +86,10 @@
       "date": "Wed, 12 Aug 2026 15:07:00 +0000"
     },
     {
-      "title": "EIA Sees Massive Uptick in US Crude Oil Inventories",
-      "link": "https://oilprice.com/Energy/Crude-Oil/EIA-Sees-Massive-Uptick-in-US-Crude-Oil-Inventories.html",
-      "source": "OilPrice",
-      "date": "Wed, 12 Aug 2026 09:38:18 -0500"
-    },
-    {
-      "title": "Ukraine Halts Oil Tanker Attacks on JD Vance Request",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Halts-Oil-Tanker-Attacks-on-JD-Vance-Request.html",
-      "source": "OilPrice",
-      "date": "Wed, 12 Aug 2026 09:30:00 -0500"
-    },
-    {
-      "title": "LME Aluminum Stockpiles Sink to Lowest Level Since 1990",
-      "link": "https://oilprice.com/Metals/Commodities/LME-Aluminum-Stockpiles-Sink-to-Lowest-Level-Since-1990.html",
-      "source": "OilPrice",
-      "date": "Wed, 12 Aug 2026 09:00:00 -0500"
-    },
-    {
-      "title": "Iran’s Leadership Reshuffle Signals a New Era of Centralized Command",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/Irans-Leadership-Reshuffle-Signals-a-New-Era-of-Centralized-Command.html",
-      "source": "OilPrice",
-      "date": "Wed, 12 Aug 2026 09:00:00 -0500"
-    },
-    {
-      "title": "Judge drops Adani bribery case, flags DOJ conduct",
+      "title": "US judge drops Adani bribery case, flags DOJ conduct",
       "link": "https://www.mining.com/judge-drops-adani-bribery-case-flags-doj-conduct/",
       "source": "mining.com",
       "date": "Wed, 12 Aug 2026 13:55:05 +0000"
-    },
-    {
-      "title": "Indian Refiners Seek 6 Million Barrels of Spot Crude",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Refiners-Seek-6-Million-Barrels-of-Spot-Crude.html",
-      "source": "OilPrice",
-      "date": "Wed, 12 Aug 2026 08:30:00 -0500"
-    },
-    {
-      "title": "Salares Norte lifts Gold Fields as other mines falter",
-      "link": "https://www.mining.com/salares-norte-lifts-gold-fields-as-other-mines-falter/",
-      "source": "mining.com",
-      "date": "Wed, 12 Aug 2026 12:58:00 +0000"
-    },
-    {
-      "title": "IEA: Global Oil Deficit To Hit 1.8 Million Bpd This Quarter",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Global-Oil-Deficit-To-Hit-18-Million-Bpd-This-Quarter.html",
-      "source": "OilPrice",
-      "date": "Wed, 12 Aug 2026 07:30:00 -0500"
-    },
-    {
-      "title": "Elliott turns up heat on Northern Star with six board picks",
-      "link": "https://www.mining.com/elliott-turns-up-heat-on-northern-star-with-six-board-picks/",
-      "source": "mining.com",
-      "date": "Wed, 12 Aug 2026 11:03:00 +0000"
-    },
-    {
-      "title": "Updated feasibility study gives NioCorp’s Elk Creek critical minerals project a $4B valuation",
-      "link": "https://www.mining.com/updated-feasibility-study-gives-niocorps-elk-creek-critical-minerals-project-a-4b-valuation/",
-      "source": "mining.com",
-      "date": "Wed, 12 Aug 2026 00:02:08 +0000"
-    },
-    {
-      "title": "Blue Moon gains 33 tungsten and antimony projects in $20.5M deal",
-      "link": "https://www.mining.com/blue-moon-gains-33-tungsten-and-antimony-projects-in-20-5m-deal/",
-      "source": "mining.com",
-      "date": "Tue, 11 Aug 2026 22:50:00 +0000"
     }
   ]
 }
