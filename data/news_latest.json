@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-12T07:12:55+09:00",
+  "run_at_kst": "2026-08-12T10:22:52+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Updated feasibility study gives NioCorp’s Elk Creek critical minerals project a $4B valuation",
+      "link": "https://www.mining.com/updated-feasibility-study-gives-niocorps-elk-creek-critical-minerals-project-a-4b-valuation/",
+      "source": "mining.com",
+      "date": "Wed, 12 Aug 2026 00:02:08 +0000"
+    },
+    {
+      "title": "Inside the U.S.–Israel–Saudi Plan to Cut Iran Out of Global Oil",
+      "link": "https://oilprice.com/Energy/Energy-General/Inside-the-Secret-USIsraelSaudi-Plan-to-Cut-Iran-Out-of-the-Global-Oil-Suppl.html",
+      "source": "OilPrice",
+      "date": "Tue, 11 Aug 2026 19:00:00 -0500"
+    },
+    {
+      "title": "Alaska’s $55B LNG Mega-Project In Talks With More Buyers Ahead Of FID",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Alaskas-55B-LNG-Mega-Project-In-Talks-With-More-Buyers-Ahead-Of-FID.html",
+      "source": "OilPrice",
+      "date": "Tue, 11 Aug 2026 18:00:00 -0500"
+    },
+    {
+      "title": "Blue Moon gains 33 tungsten and antimony projects in $20.5M deal",
+      "link": "https://www.mining.com/blue-moon-gains-33-tungsten-and-antimony-projects-in-20-5m-deal/",
+      "source": "mining.com",
+      "date": "Tue, 11 Aug 2026 22:50:00 +0000"
+    },
+    {
+      "title": "Lake Victoria’s Tembo holds 600K oz. gold beside Barrick",
+      "link": "https://www.mining.com/lake-victorias-tembo-holds-600k-oz-gold-beside-barrick/",
+      "source": "mining.com",
+      "date": "Tue, 11 Aug 2026 22:06:00 +0000"
+    },
     {
       "title": "Sodium-Ion Batteries Gain Ground as Lithium Alternative",
       "link": "https://oilprice.com/Energy/Energy-General/Sodium-Ion-Batteries-Gain-Ground-as-Lithium-Alternative.html",
@@ -50,12 +80,6 @@
       "date": "Tue, 11 Aug 2026 13:00:00 -0500"
     },
     {
-      "title": "Iran Says Hormuz Will Stay Closed Until U.S. Meets Its Conditions",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-Hormuz-Will-Stay-Closed-Until-US-Meets-Its-Conditions.html",
-      "source": "OilPrice",
-      "date": "Tue, 11 Aug 2026 13:00:00 -0500"
-    },
-    {
       "title": "Gold price hits two-month high, retreats after  Hormuz escalation spikes oil price",
       "link": "https://www.mining.com/gold-price-hits-two-month-high-retreats-after-hormuz-turns-oil/",
       "source": "mining.com",
@@ -66,30 +90,6 @@
       "link": "https://www.mining.com/14-illegal-chrome-miners-killed-in-south-africa-cave-in/",
       "source": "mining.com",
       "date": "Tue, 11 Aug 2026 17:50:42 +0000"
-    },
-    {
-      "title": "Gold Nears Two-Month High Ahead of Wednesday's CPI Report",
-      "link": "https://oilprice.com/Metals/Gold/Gold-Nears-Two-Month-High-Ahead-of-Wednesdays-CPI-Report.html",
-      "source": "OilPrice",
-      "date": "Tue, 11 Aug 2026 12:00:00 -0500"
-    },
-    {
-      "title": "Public trust is key to faster permitting: report",
-      "link": "https://www.mining.com/public-trust-is-the-key-to-faster-permitting-report-finds/",
-      "source": "mining.com",
-      "date": "Tue, 11 Aug 2026 16:23:06 +0000"
-    },
-    {
-      "title": "Silver price slips as investors bank gains ahead of US CPI",
-      "link": "https://www.mining.com/silver-price-slips-as-investors-bank-gains-ahead-of-us-cpi/",
-      "source": "mining.com",
-      "date": "Tue, 11 Aug 2026 16:20:34 +0000"
-    },
-    {
-      "title": "Cobre Panama restart hopes rise as thousands return to mine",
-      "link": "https://www.mining.com/cobre-panama-restart-hopes-rise-as-thousands-return-to-mine/",
-      "source": "mining.com",
-      "date": "Tue, 11 Aug 2026 15:23:00 +0000"
     }
   ]
 }
