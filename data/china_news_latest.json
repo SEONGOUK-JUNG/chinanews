@@ -1,33 +1,39 @@
 {
-  "run_at_kst": "2026-08-13T17:28:33+09:00",
+  "run_at_kst": "2026-08-14T02:17:50+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "“좋은 총리님, 편히 쉬시길” 주룽지 별세에 中 현지 추모 분위기",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03emRPbzhsY3NXeW11VjJvck9fbmRUSkE1VlNka2dKVmhPZ0lHdXNHNG1Fd2pGRDZNeU03RDVmN2xKV0RzcFdWR2lzei1lYzdSc1lNZHpmVWpoc1JnaTBPcDZ0T245dWlJcnV0UjZKNTZKd1U?oc=5",
-      "source": "마켓인",
-      "date": "Thu, 13 Aug 2026 07:13:21 GMT"
-    },
-    {
-      "title": "[베트남 주간 이슈] 삼성전기 'AI 기판' 2.4배 증설…중국차 상륙 속 빈패스트 수성",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rbENtMlRVdHhkeU51aDI3RlhEVExvMHpnSVdSTXpVbHkyVWhXc3A0ZkQtYzRjVUlHZDFTUVctTDBqNUQ0TWo0dlZrTzB4dC1CWVJQbm9YdFMxZFU4RHBZeXk4c0lXWUp2cjBJeg?oc=5",
-      "source": "인사이드비나",
-      "date": "Thu, 13 Aug 2026 06:11:00 GMT"
-    },
-    {
-      "title": "‘중국 경제 대수술’ 주룽지 전 총리 사망…98세로 생 마쳐",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04TnJWYVVpbkRrUXZ0b0ZRMW5qV0RFakZFRERTdnk2R0VOY19vcVNYM0xDZ3VFeHYtWGVtdzFtMXhDMW0ySnBaRDNheTktRTA0OEhRcllzWkpOb2VyZlBuMWlKc3d5SnBLTjZPOXFqSQ?oc=5",
-      "source": "프리진뉴스",
-      "date": "Thu, 13 Aug 2026 03:01:50 GMT"
-    },
-    {
       "title": "주룽지 전 중국 총리 별세…시장경제 전환 이끈 ‘경제 차르’",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jT2ZhSTRGbUR6MTRveTByODFPdElwS09kMC1FYW1YYVNKQ3NVa3ZUZmJGYnpIaFc3SjAxQ1JVLWkxQkxFOWRtUWszdXd1bTluQ3R3NVhJNHZCSmtIbF9zS1FmcjZMTnd2dUpUTw?oc=5",
       "source": "한겨레",
-      "date": "Thu, 13 Aug 2026 00:14:00 GMT"
+      "date": "Thu, 13 Aug 2026 16:01:44 GMT"
+    },
+    {
+      "title": "개혁개방의 '총괄 집행자' 중국 경제강국 만들고 떠났다",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJRWZjMUlHWFlQTEw5UkRkeFFZY3pXNlB4dnAxa1FONnQ2ekV6MVpHVFhlc2ZWVG05WDg0c3NwMUZqZHR6OGcxcXZDOXpFUkpjUDYycGhFcVBHdw?oc=5",
+      "source": "파이낸셜뉴스",
+      "date": "Thu, 13 Aug 2026 04:30:46 GMT"
+    },
+    {
+      "title": "주룽지, 鄧의 ‘중국특색 사회주의 경제’ 다진 ‘상하이의 고르바초프’",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12ZzRjUkFLeXNkN0xLYjlhQVZDTlk2Uk1DSHMzNnMxaXFnUUFaLTRkLU5WeFpNUTYyaDYyeXVxMGdZaW9SV2pDaDBSLWoyeWdCQjZ0czd4a2UtUWZKWVhWa9IBeEFVX3lxTE1oRWFhdGhXbWhOR0xGcDRMcE1DUGlxQ0wtYWFFZ2ZiZUdXOWxpbmZGc1NrVWV0NV9UQjdnSlNYR3lUTllqVC1lQVhwYWl4TGJLWFFwclpKSlF0MzRacHpEOXI2VzZhYWVoWWxHNlVXZldXN0NmWkRwTQ?oc=5",
+      "source": "뉴시스",
+      "date": "Thu, 13 Aug 2026 03:06:59 GMT"
+    },
+    {
+      "title": "중국, 불가피한 AI·로봇 도입과 실업대란 공포 딜레마",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41LWwwRUx6MEpvZlpjMVZRd2tjbGE1bVBCSl9Vand5Tk1WTXc3YlNqYnl2aDdXZ1ZXZkZFaDh0T3NNMFlnSHFQNjZVTTR1WlZ6NTFwSkpWUTlXN01IbVM5eEZ6VUVWckt2aHhvOQ?oc=5",
+      "source": "mindlenews.com",
+      "date": "Thu, 13 Aug 2026 01:25:00 GMT"
+    },
+    {
+      "title": "포항시 박용선 시장, 주부산중국총영사 만나 경제·산업·항만물류 협력 논의",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Ed18wVUFXaU10Y2Y5NFUtMVZXOFlsY1JiOVNnN01TdEdFYXBVM21KM2hsZGMxc2tmM19jUVpTYkFIUjVQSmlxZXF5cFlWcFNvZEcwVjVpejc2UzBONHgxSQ?oc=5",
+      "source": "메트로신문",
+      "date": "Thu, 13 Aug 2026 00:17:46 GMT"
     },
     {
       "title": "[조용성의 현실중국] 중국경제사 명장면 WTO 가입, 주룽지였기에 가능했다",
@@ -37,9 +43,15 @@
     },
     {
       "title": "‘중국 경제개혁’ 이끈 주룽지 전 총리 별세",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJSkYyNDVGOG5QelA4NFdZMGdQZ1kxQWdLdHJ3M1NzeUFIQ2FjdVRpcjNtVjFQMURINWtkcHhtOW52V1NrelIyV0VEUUh6djg?oc=5",
-      "source": "v.daum.net",
-      "date": "Wed, 12 Aug 2026 21:30:11 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5RkUtTXJKaUZaamtvSjhMNFE3M1JBRUMzOGdLZE5YaUpuZDZtRmFDNHRwRGVBZm1CcWtPRUxTRHdNdUw1MkRjU0ZUX25kTG9mOVdoUU9KeEwtSWc?oc=5",
+      "source": "KBS 뉴스",
+      "date": "Wed, 12 Aug 2026 22:13:00 GMT"
+    },
+    {
+      "title": "‘중국 경제개혁’ 이끈 주룽지 전 총리 별세",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11Rzh1blBBTHBEZnJITUJIVVJvVVl6MVFMMW5EalIxd001MVJuXzk2bWtDM2dtOGJrOVpXQmViRDg2a1dCM2tlb2x2LTBvWjQxcUhWVFJjRVJWOHI0SkxFN2ViR1ZWUQ?oc=5",
+      "source": "KBS 뉴스",
+      "date": "Wed, 12 Aug 2026 21:17:00 GMT"
     },
     {
       "title": "[논현논단] 혁신이란 착시에 갇힌 중국 경제",
@@ -49,33 +61,21 @@
     },
     {
       "title": "'중국 경제개혁 주역' 주룽지 전 총리 별세",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JcGFCZlpIVjdpT1JpcDhMbFpNdXhrNm0yZ01PX3J6WHl5akRLLU4ybG52Q0w0cWVoa0RCcWFTaHBFOHB0UnB1Q1RCZjVUemNnYnhfbUFyZ1dUUUVTNUlmM9IBYEFVX3lxTE5JcGFCZlpIVjdpT1JpcDhMbFpNdXhrNm0yZ01PX3J6WHl5akRLLU4ybG52Q0w0cWVoa0RCcWFTaHBFOHB0UnB1Q1RCZjVUemNnYnhfbUFyZ1dUUUVTNUlmMw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nYlZUdW1sOXVCajRGSHpHTW9TQ1ZEN2QtRWVLRnBBWUEyZWVsRWYtcXNnRXFUVlE4Qmdob3hEOFpsZENNekRxMXYtaFMwMm5SWkllNEktUWpyNFXSAWBBVV95cUxOSXBhQmZaSFY3aU9SaXA4TGxaTXV4azZtMmdNT19yelh5eWpESy1OMmxudkNMNHFlaGtEQnFhU2hwRThwdFJwdUNUQmY1VHpjZ2J4X21BcmdXVFFFUzVJZjM?oc=5",
       "source": "연합뉴스",
       "date": "Wed, 12 Aug 2026 14:16:21 GMT"
     },
     {
-      "title": "주룽지 전 중국 총리 별세…중국 경제개혁 사령탑",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9acll2YUdXaElyNXByUGs2SUZETXhOZUdYSjBXT05yN2NPcEVwUkIxaGVHWk4tbVVfN2pIek1SSmVSR1RBaG51Vkc4LUNzWDg?oc=5",
+      "title": "주룽지 전 중국 총리 별세…WTO 가입 이끈 '경제개혁 사령탑'(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yX0wzVnF1VWVCcUFrN2FqbXBZaktyb0pVbEx1SkVnMUVyZU52dkMzQlc3dmNCOXFjczdwcWVDa3NxRUxjc2FsT09VaEZfbDA?oc=5",
       "source": "v.daum.net",
-      "date": "Wed, 12 Aug 2026 11:51:00 GMT"
+      "date": "Wed, 12 Aug 2026 11:59:53 GMT"
     },
     {
-      "title": "주룽지 전 중국 총리 별세…중국 경제개혁 사령탑",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aMnlKVXlwMzhTWEJSa0RfbU1aeWJnMC14OHBXellWTWNwQU1BOG5wTlRycEtzOGQ0VUZNX0pRMTNVVDljVm4yN1lIbDVkNkZWV0dfRF9vU3I1b2poOG5KVFFwR2RpUQ?oc=5",
-      "source": "KBS 뉴스",
-      "date": "Wed, 12 Aug 2026 11:49:00 GMT"
-    },
-    {
-      "title": "중국 WTO 시대 연 경제 설계자 주룽지 전 중국 총리 별세",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LV19EeHZJTXVlajIzM2lVUGdrRHdqWWRSX0RnNnY3cVlZUmVNWDczRWNIZ09BOUpuMHZ1Y3dIV3U2Rnd0d0MzUDE4YmNYd3pmN1RhTQ?oc=5",
-      "source": "JTBC",
-      "date": "Wed, 12 Aug 2026 10:59:00 GMT"
-    },
-    {
-      "title": "’중국 경제개혁 사령탑’ 주룽지 전 총리 사망",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DTjZWT0lVbVV6X1pkdDF3RzFhX3gyT09FZlVqM2JJZHJXRU5sN0VfLXdBcWhWSnZYWmJHY0hxcUxNZ3BYamo2NzJQUk5SRU1TbldYTXJWcGk1cm9jd2JURkppSGdtd3M?oc=5",
-      "source": "연합뉴스TV",
-      "date": "Wed, 12 Aug 2026 10:47:00 GMT"
+      "title": "광양경자청, 중국 경제단체 초청해 현장 시찰 및 투자 간담회 개최",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZUHFiUUtQUHF1VlhMU3BIQ1J6amlRNW9QZmdYLUFGMVNUUVpPZmJRS3pnOEVuWDZXcFYwMWptb2tHdkVYZ1hkS005RzlvSTEzX3o4?oc=5",
+      "source": "네이트",
+      "date": "Tue, 11 Aug 2026 00:23:00 GMT"
     }
   ]
 }
