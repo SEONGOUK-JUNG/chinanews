@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-13T23:30:20.508959+09:00",
+  "run_at_kst": "2026-08-14T07:00:13.437354+09:00",
   "sources": {
     "a_stocks": "AkShare (Eastmoney via 中国证监会)",
     "hk_us_kr": "Yahoo Finance (yfinance)"
@@ -501,9 +501,9 @@
       "ex": "NYSE",
       "sector": "E-commerce",
       "type": "us_adr",
-      "price": 122.95,
+      "price": 122.16,
       "prev_close": 124.92,
-      "change_pct": -1.58,
+      "change_pct": -2.21,
       "currency": "USD",
       "found": true
     },
@@ -513,9 +513,9 @@
       "ex": "NASDAQ",
       "sector": "E-commerce",
       "type": "us_adr",
-      "price": 86.1,
+      "price": 84.17,
       "prev_close": 89.5,
-      "change_pct": -3.8,
+      "change_pct": -5.96,
       "currency": "USD",
       "found": true
     },
@@ -525,9 +525,9 @@
       "ex": "NASDAQ",
       "sector": "E-commerce",
       "type": "us_adr",
-      "price": 29.49,
+      "price": 29.3,
       "prev_close": 31.34,
-      "change_pct": -5.9,
+      "change_pct": -6.51,
       "currency": "USD",
       "found": true
     },
@@ -537,9 +537,9 @@
       "ex": "NASDAQ",
       "sector": "IT",
       "type": "us_adr",
-      "price": 104.87,
+      "price": 104.68,
       "prev_close": 104.8,
-      "change_pct": 0.07,
+      "change_pct": -0.11,
       "currency": "USD",
       "found": true
     },
@@ -561,9 +561,9 @@
       "ex": "NASDAQ",
       "sector": "EV",
       "type": "us_adr",
-      "price": 12.28,
+      "price": 12.27,
       "prev_close": 12.52,
-      "change_pct": -1.88,
+      "change_pct": -2.0,
       "currency": "USD",
       "found": true
     },
@@ -573,9 +573,9 @@
       "ex": "NYSE",
       "sector": "EV",
       "type": "us_adr",
-      "price": 11.73,
+      "price": 11.78,
       "prev_close": 11.75,
-      "change_pct": -0.13,
+      "change_pct": 0.26,
       "currency": "USD",
       "found": true
     },
@@ -585,9 +585,9 @@
       "ex": "NYSE",
       "sector": "Entertainment",
       "type": "us_adr",
-      "price": 8.64,
+      "price": 8.66,
       "prev_close": 8.45,
-      "change_pct": 2.19,
+      "change_pct": 2.49,
       "currency": "USD",
       "found": true
     },
@@ -609,9 +609,9 @@
       "ex": "NASDAQ",
       "sector": "Gaming",
       "type": "us_adr",
-      "price": 122.58,
+      "price": 122.65,
       "prev_close": 123.78,
-      "change_pct": -0.97,
+      "change_pct": -0.91,
       "currency": "USD",
       "found": true
     },
@@ -621,9 +621,9 @@
       "ex": "Nasdaq",
       "sector": "Travel",
       "type": "us_adr",
-      "price": 44.98,
+      "price": 45.02,
       "prev_close": 45.58,
-      "change_pct": -1.32,
+      "change_pct": -1.23,
       "currency": "USD",
       "found": true
     },
@@ -633,9 +633,9 @@
       "ex": "NYSE",
       "sector": "Real Estate",
       "type": "us_adr",
-      "price": 17.01,
+      "price": 16.96,
       "prev_close": 17.45,
-      "change_pct": -2.49,
+      "change_pct": -2.81,
       "currency": "USD",
       "found": true
     },
@@ -645,9 +645,9 @@
       "ex": "NYSE",
       "sector": "Restaurants",
       "type": "us_adr",
-      "price": 48.22,
+      "price": 47.24,
       "prev_close": 47.97,
-      "change_pct": 0.53,
+      "change_pct": -1.52,
       "currency": "USD",
       "found": true
     }
@@ -666,7 +666,7 @@
       "id": "sse",
       "name": "SSE COMP",
       "type": "index",
-      "price": 3926.96,
+      "price": 3926.97,
       "prev_close": 3948.49,
       "change_pct": -0.55,
       "found": true
