@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-13T08:11:38+09:00",
+  "run_at_kst": "2026-08-13T16:26:09+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "South Korean Fleet Reshuffle Creates Asia’s Largest LNG Carrier Operator",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/SK-Shipping-to-Become-Asias-Largest-LNG-Carrier-Operator.html",
+      "source": "OilPrice",
+      "date": "Thu, 13 Aug 2026 01:50:00 -0500"
+    },
+    {
+      "title": "Oil Prices Fall as OPEC and IEA Slash 2026 Demand Outlooks",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-OPEC-and-IEA-Slash-2026-Demand-Outlooks.html",
+      "source": "OilPrice",
+      "date": "Thu, 13 Aug 2026 00:25:00 -0500"
+    },
+    {
+      "title": "Trump’s Bosnia Power Play Puts an Opaque Energy Deal at the Center",
+      "link": "https://oilprice.com/Energy/Energy-General/Trumps-Bosnia-Power-Play-Puts-an-Opaque-Energy-Deal-at-the-Center.html",
+      "source": "OilPrice",
+      "date": "Wed, 12 Aug 2026 19:00:00 -0500"
+    },
+    {
+      "title": "Tether lifts Metalla Royalty & Streaming stake to 14%",
+      "link": "https://www.mining.com/tether-lifts-metalla-royalty-streaming-stake-to-14/",
+      "source": "mining.com",
+      "date": "Wed, 12 Aug 2026 23:57:00 +0000"
+    },
+    {
+      "title": "Savannah Resources signs agreements with local communities for Barroso lithium project",
+      "link": "https://www.mining.com/savannah-resources-signs-agreements-with-local-communities-for-barroso-lithium-project/",
+      "source": "mining.com",
+      "date": "Wed, 12 Aug 2026 23:43:26 +0000"
+    },
     {
       "title": "Ukrainian Attack Halts Operations at Key Russian Black Sea Grain Terminals",
       "link": "https://oilprice.com/Geopolitics/Europe/Ukrainian-Attack-Halts-Operations-at-Key-Russian-Black-Sea-Grain-Terminals.html",
@@ -38,12 +68,6 @@
       "date": "Wed, 12 Aug 2026 14:00:00 -0500"
     },
     {
-      "title": "Putin Opens New Front in Shadow Fleet Fight With Threat to Seize EU Ships",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Putin-Opens-New-Front-in-Shadow-Fleet-Fight-With-Threat-to-Seize-EU-Ships.html",
-      "source": "OilPrice",
-      "date": "Wed, 12 Aug 2026 12:30:00 -0500"
-    },
-    {
       "title": "Copper price touches fresh Comex record as squeeze in London hits hardest of the year",
       "link": "https://www.mining.com/copper-price-touches-fresh-comex-record-as-squeeze-in-london-hits-hardest-of-the-year/",
       "source": "mining.com",
@@ -56,40 +80,16 @@
       "date": "Wed, 12 Aug 2026 17:17:04 +0000"
     },
     {
-      "title": "Solar Power Is Gaining Traction With Farmers",
-      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Solar-Power-Is-Gaining-Traction-With-Farmers.html",
-      "source": "OilPrice",
-      "date": "Wed, 12 Aug 2026 12:00:00 -0500"
-    },
-    {
       "title": "Vale, ABB expand AI, automation across Brazil iron ore",
       "link": "https://www.mining.com/vale-abb-expand-ai-automation-across-brazil-iron-ore/",
       "source": "mining.com",
       "date": "Wed, 12 Aug 2026 16:58:29 +0000"
     },
     {
-      "title": "Norway $2.3 Trillion Wealth Fund Posts Record-High Profit in H1",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Norway-23-Trillion-Wealth-Fund-Posts-Record-High-Profit-in-H1.html",
-      "source": "OilPrice",
-      "date": "Wed, 12 Aug 2026 11:30:00 -0500"
-    },
-    {
       "title": "Apex’s rare earth assays elevate Rift among US projects",
       "link": "https://www.mining.com/apexs-rare-earth-assays-elevate-rift-among-us-projects/",
       "source": "mining.com",
       "date": "Wed, 12 Aug 2026 15:57:58 +0000"
-    },
-    {
-      "title": "Brazil Potash wins key court ruling on $2.5B project",
-      "link": "https://www.mining.com/brazil-potash-wins-key-court-ruling-on-2-5b-project/",
-      "source": "mining.com",
-      "date": "Wed, 12 Aug 2026 15:07:00 +0000"
-    },
-    {
-      "title": "US judge drops Adani bribery case, flags DOJ conduct",
-      "link": "https://www.mining.com/judge-drops-adani-bribery-case-flags-doj-conduct/",
-      "source": "mining.com",
-      "date": "Wed, 12 Aug 2026 13:55:05 +0000"
     }
   ]
 }
