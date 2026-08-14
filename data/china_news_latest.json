@@ -1,45 +1,57 @@
 {
-  "run_at_kst": "2026-08-14T11:52:34+09:00",
+  "run_at_kst": "2026-08-15T02:18:08+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "[최헌규의 중국은 지금] 100주년 장쩌민 기념행사에 공교롭게 날아든 주룽지 부고",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0eG9JaElVWEFvZlpuUDYxeEtELUo3V3ozeHF5V19DM204NEZkOEpSbDZYTkVzcVhCVll4eW55bGw2VTVSS3hoX3pVRVdVbXoxcEhfZU9uOFNUS2Fh?oc=5",
-      "source": "뉴스핌",
-      "date": "Fri, 14 Aug 2026 01:59:00 GMT"
+      "title": "[경제] 中 경제브리핑...중국인민은행, 약 210조원 규모 역레포 가동 外",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ld3RfVGttQ2pScWU5TndLQXl6S25uM1lsYlhUOWU2QkVodGNmbmVvWnFINjdOLXBETzA3cy1GU2dWT2FFMGpiblBobEtiTUlQcXpOaXJtN2xsaE9pZEdqalNKbjFqZWdvdmJnctIBcEFVX3lxTFBpRm9tME5nRzRUMDJkaDA0N2NCOUhua3NRWHpVd2JhWDV3enMzUi03YnY3dmNDUDF3S0w0YUUwVlkxMGFkU19UcXhCMnFvdFo3UF9kQUxyZUdfcG5KSmVzdEN2c0pobG1fbFptbi02TUU?oc=5",
+      "source": "내외뉴스통신",
+      "date": "Fri, 14 Aug 2026 08:05:25 GMT"
     },
     {
-      "title": "키옥시아 제친 중국 반도체…삼전닉스 턱밑까지 따라왔다",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxYWU2SmNQcnc5WTVMVTN5NGlidi1hcUlVS3Z2RkQ0YjdqSVVnRi1ZdmNWbnoyR2lycWtwbndjVGtUU25nQVUxNDlkbkhhNUt6WVE?oc=5",
-      "source": "매일경제",
-      "date": "Thu, 13 Aug 2026 21:16:50 GMT"
+      "title": "과잉공급은 중국의 약점?… 경쟁 속에서 강자 자란다",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBETFJVTXlXb05rblkxdy1adlEya0Z4elFZWkdBQVAtWjZ3aDh0S1dlajVpWWhLMmZscnJlZTBhRXZtNEpDaElwNGdvMmV4VHM?oc=5",
+      "source": "v.daum.net",
+      "date": "Fri, 14 Aug 2026 07:39:11 GMT"
+    },
+    {
+      "title": "[中경제, 두 개의 실험실①] '우마정신' 선전·'양안융합' 핑탄…현장 가보니",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jeTR5VDVWeFFUaEpaa0x5eEVNQlVKcXlYNWVqdUdtcmpwc0gycGZJUnlsS0ZXZDFGd3JGNjgxYm4tdEV2TGxDOS1ueHhEOTFnZFRYYmpsZVRMdzJCUS1uOUdLNDRBYkVfWlhKZVpfMEI?oc=5",
+      "source": "연합인포맥스",
+      "date": "Fri, 14 Aug 2026 04:35:00 GMT"
+    },
+    {
+      "title": "美 백악관 “韓, 중국의 거대 환적 사기(Scam)에 연루”",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03TEw1Ri1WZXZnMlJrU2pTT1ZnN3NmdGszZFZSaXduZWpPSHpqS2VUU29BMWEtNE9Eakk3QjUxcUFPbjEwYVZRdV9ONXpuMHNSNERLelotdUxzUUtuNldwZjY2V3hFNTdTMGhZ0gFvQVVfeXFMTXJYaGVBc2g3UFBRYXpRRXpPY1M3M3RiZ1Brc0tEc2dTVnB3emFWR19kbTBLTVFUUmN4YzJndnEwWUlka0NZLUVwTVZLNGw4WEh4T1lCTjNycFJoenQ1NXpOTll3NzM2aTZJVVhucS1B?oc=5",
+      "source": "펜앤마이크",
+      "date": "Fri, 14 Aug 2026 04:16:55 GMT"
+    },
+    {
+      "title": "주룽지, 그리고 중국이 될 수도 있었던 모습 [이주의 WSJ]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nSDBPZEZvc3paWnlCT2VWRnZPam15US1HNnFmbkpQV2tfNXVuQXlmSVJObHp5Ulo2OVhpSUpDa21weXl1T29fUW43NkRKcVpJNHI1R3pjMXRJZw?oc=5",
+      "source": "한국경제",
+      "date": "Fri, 14 Aug 2026 02:28:12 GMT"
     },
     {
       "title": "개혁개방의 '총괄 집행자' 중국 경제강국 만들고 떠났다",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJRWZjMUlHWFlQTEw5UkRkeFFZY3pXNlB4dnAxa1FONnQ2ekV6MVpHVFhlc2ZWVG05WDg0c3NwMUZqZHR6OGcxcXZDOXpFUkpjUDYycGhFcVBHdw?oc=5",
-      "source": "파이낸셜뉴스",
-      "date": "Thu, 13 Aug 2026 04:30:46 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QT3hOc0pRYjF5RjVKc1hJb2RRdnJKMTlCLXlWOGJ0YnlsMm5jUDhIVWd3SFZxNG9UWXliOHJOOTBEUXNRSFk5Nk1rQ2pMUW8?oc=5",
+      "source": "v.daum.net",
+      "date": "Thu, 13 Aug 2026 04:33:13 GMT"
+    },
+    {
+      "title": "[조용성의 현실중국] 중국경제사 명장면 WTO 가입, 주룽지였기에 가능했다",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuY1Z5aVBwQ3lnbjZOMjc5dXBVTlg2eVl1RV9vMEc0N0Y0bkRtNVJzT1ZST09rN1l3bng5T2hSY0w5akhTN1VjeUVUOUJMWFVmRXVEYUstMEwtd9IBWEFVX3lxTFA0UmZTbzhuRTZjeXhxLVFqVlgxU2hTWlhLVGRST294TFNsc1ppVDFZbmVIYlhSTnBHX3hhUkhhRmlPVFdteXk1U1I0eU43blp6VGRSMzd5RHA?oc=5",
+      "source": "아주경제",
+      "date": "Wed, 12 Aug 2026 23:40:31 GMT"
     },
     {
       "title": "‘중국 경제개혁’ 이끈 주룽지 전 총리 별세",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5RkUtTXJKaUZaamtvSjhMNFE3M1JBRUMzOGdLZE5YaUpuZDZtRmFDNHRwRGVBZm1CcWtPRUxTRHdNdUw1MkRjU0ZUX25kTG9mOVdoUU9KeEwtSWc?oc=5",
       "source": "KBS 뉴스",
       "date": "Wed, 12 Aug 2026 22:13:00 GMT"
-    },
-    {
-      "title": "‘중국 경제개혁’ 이끈 주룽지 전 총리 별세",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11Rzh1blBBTHBEZnJITUJIVVJvVVl6MVFMMW5EalIxd001MVJuXzk2bWtDM2dtOGJrOVpXQmViRDg2a1dCM2tlb2x2LTBvWjQxcUhWVFJjRVJWOHI0SkxFN2ViR1ZWUQ?oc=5",
-      "source": "KBS 뉴스",
-      "date": "Wed, 12 Aug 2026 21:17:00 GMT"
-    },
-    {
-      "title": "[논현논단] 혁신이란 착시에 갇힌 중국 경제",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zLXk5TlZrM0dRQ2s3V1BiNHM4MzdjRG1wZmp2Rzg3V2VLY3pSWVN4WkhOdkNBMWwwM3pKNnpLVEVzX040ZFV1eGpxTlhTczJjWWZJbw?oc=5",
-      "source": "v.daum.net",
-      "date": "Wed, 12 Aug 2026 21:01:13 GMT"
     },
     {
       "title": "[논현논단] 혁신이란 착시에 갇힌 중국 경제",
@@ -49,15 +61,9 @@
     },
     {
       "title": "'중국 경제개혁 주역' 주룽지 전 총리 별세",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JcGFCZlpIVjdpT1JpcDhMbFpNdXhrNm0yZ01PX3J6WHl5akRLLU4ybG52Q0w0cWVoa0RCcWFTaHBFOHB0UnB1Q1RCZjVUemNnYnhfbUFyZ1dUUUVTNUlmM9IBYEFVX3lxTE5JcGFCZlpIVjdpT1JpcDhMbFpNdXhrNm0yZ01PX3J6WHl5akRLLU4ybG52Q0w0cWVoa0RCcWFTaHBFOHB0UnB1Q1RCZjVUemNnYnhfbUFyZ1dUUUVTNUlmMw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nYlZUdW1sOXVCajRGSHpHTW9TQ1ZEN2QtRWVLRnBBWUEyZWVsRWYtcXNnRXFUVlE4Qmdob3hEOFpsZENNekRxMXYtaFMwMm5SWkllNEktUWpyNFXSAWBBVV95cUxOSXBhQmZaSFY3aU9SaXA4TGxaTXV4azZtMmdNT19yelh5eWpESy1OMmxudkNMNHFlaGtEQnFhU2hwRThwdFJwdUNUQmY1VHpjZ2J4X21BcmdXVFFFUzVJZjM?oc=5",
       "source": "연합뉴스",
       "date": "Wed, 12 Aug 2026 14:16:21 GMT"
-    },
-    {
-      "title": "중국 WTO 시대 연 경제 설계자 주룽지 전 중국 총리 별세",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LV19EeHZJTXVlajIzM2lVUGdrRHdqWWRSX0RnNnY3cVlZUmVNWDczRWNIZ09BOUpuMHZ1Y3dIV3U2Rnd0d0MzUDE4YmNYd3pmN1RhTQ?oc=5",
-      "source": "news.jtbc.co.kr",
-      "date": "Wed, 12 Aug 2026 10:59:00 GMT"
     },
     {
       "title": "’중국 경제개혁 사령탑’ 주룽지 전 총리 사망",
@@ -66,16 +72,10 @@
       "date": "Wed, 12 Aug 2026 10:47:00 GMT"
     },
     {
-      "title": "中 시장경제 전환 이끈 주룽지 전 총리 별세",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMGRfR2FmajBtb3VleGZYdExYZVFJdmg0N0poNGlPSmtWaDV3dGhRTEhoNkk1R2VLOGctc01jTHNFWHdfU1J5TGNKX1U1QV9TTVhldXdsQnM0SGVzUC1jLWVMSDdqMUVwYXp1TENDcUhYQkRYbnJFT3BmWEItNUd1c1VLX1pOdUs5TkplOFJBOGwzVlBWTTFoeFYxZk9RUQ?oc=5",
-      "source": "조선일보",
-      "date": "Wed, 12 Aug 2026 10:12:00 GMT"
-    },
-    {
-      "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Mon, 10 Aug 2026 07:00:00 GMT"
+      "title": "[조용성의 현실중국] 희토류의 위력...해외로 나갔던 공장들이 돌아온다",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMckJON1NXSzkzOTFPVnd3R2NrVXNVZTNySUhWbHNITUtBV09DTDFhbUR6c2VLSTZ2UGV3U3JWYk5NQTlXNmY5QzRuQ0Z3NGc?oc=5",
+      "source": "v.daum.net",
+      "date": "Wed, 12 Aug 2026 01:14:14 GMT"
     }
   ]
 }
