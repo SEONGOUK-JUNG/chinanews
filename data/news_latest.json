@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-14T07:20:31+09:00",
+  "run_at_kst": "2026-08-14T11:52:34+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Trump Is Spending Billions On The Minerals That Power EVs",
+      "link": "https://oilprice.com/Energy/Energy-General/Trump-Is-Spending-Billions-On-The-Minerals-That-Power-EVs.html",
+      "source": "OilPrice",
+      "date": "Thu, 13 Aug 2026 19:00:00 -0500"
+    },
+    {
+      "title": "Nuclea to acquire Moltex Energy’s nuclear technology assets",
+      "link": "https://www.mining.com/nuclea-to-acquire-moltex-energys-nuclear-technology-assets/",
+      "source": "mining.com",
+      "date": "Thu, 13 Aug 2026 23:32:28 +0000"
+    },
+    {
+      "title": "Steadright Critical Minerals granted mining licence for Morocco titanium project",
+      "link": "https://www.mining.com/steadright-critical-minerals-granted-mining-licence-for-morocco-titanium-project/",
+      "source": "mining.com",
+      "date": "Thu, 13 Aug 2026 23:02:01 +0000"
+    },
+    {
+      "title": "Mexico Has More Refining Capacity. So Why Are Fuel Imports Rising?",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Mexico-Has-More-Refining-Capacity-So-Why-Are-Fuel-Imports-Rising.html",
+      "source": "OilPrice",
+      "date": "Thu, 13 Aug 2026 18:00:00 -0500"
+    },
     {
       "title": "U.S. Power Grid Strains Under Record Electricity Demand",
       "link": "https://oilprice.com/Energy/Energy-General/US-Power-Grid-Strains-Under-Record-Electricity-Demand.html",
@@ -50,22 +74,10 @@
       "date": "Thu, 13 Aug 2026 13:30:00 -0500"
     },
     {
-      "title": "The Struggle to Build the TAPI Gas Pipeline Through Afghanistan",
-      "link": "https://oilprice.com/Energy/Natural-Gas/The-Struggle-to-Build-the-TAPI-Gas-Pipeline-Through-Afghanistan.html",
-      "source": "OilPrice",
-      "date": "Thu, 13 Aug 2026 13:00:00 -0500"
-    },
-    {
       "title": "Newmont backs explorer Headwater on 3rd Nevada gold project",
       "link": "https://www.mining.com/newmont-backs-explorer-headwater-on-3rd-nevada-gold-project/",
       "source": "mining.com",
       "date": "Thu, 13 Aug 2026 17:58:00 +0000"
-    },
-    {
-      "title": "Jefferies: Diesel Cracks Reveal the Real Oil Market Squeeze",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Jefferies-Diesel-Cracks-Reveal-the-Real-Oil-Market-Squeeze.html",
-      "source": "OilPrice",
-      "date": "Thu, 13 Aug 2026 12:00:00 -0500"
     },
     {
       "title": "Vale speeds Salobo copper expansion, cuts costs",
@@ -78,18 +90,6 @@
       "link": "https://www.mining.com/coal-mine-plans-grow-even-as-new-capacity-plunges/",
       "source": "mining.com",
       "date": "Thu, 13 Aug 2026 16:28:54 +0000"
-    },
-    {
-      "title": "Northern Star rejects Elliott’s board overhaul push",
-      "link": "https://www.mining.com/northern-star-rejects-elliotts-board-overhaul-push/",
-      "source": "mining.com",
-      "date": "Thu, 13 Aug 2026 16:15:00 +0000"
-    },
-    {
-      "title": "G Mining hikes cost forecast on labour, royalties",
-      "link": "https://www.mining.com/g-mining-hikes-cost-forecast-on-labour-royalties/",
-      "source": "mining.com",
-      "date": "Thu, 13 Aug 2026 14:51:25 +0000"
     }
   ]
 }
