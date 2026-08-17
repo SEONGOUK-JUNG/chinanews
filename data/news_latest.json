@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-15T02:18:08+09:00",
+  "run_at_kst": "2026-08-17T13:50:30+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
-      "title": "US Oil Drillers Add Even More Rigs As Oil Prices Stay Higher",
-      "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Drillers-Add-Even-More-Rigs-As-Oil-Prices-Stay-Higher.html",
+      "title": "Have Middle East Oil Flows Rebounded to 15 Million Bpd as U.S. Claims?",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Have-Middle-East-Oil-Flows-Rebounded-to-15-Million-Bpd-as-US-Claims.html",
       "source": "OilPrice",
-      "date": "Fri, 14 Aug 2026 12:07:38 -0500"
+      "date": "Sun, 16 Aug 2026 18:00:00 -0500"
+    },
+    {
+      "title": "Europe’s Gas Storage Crunch Deepens Ahead of Heating Season",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Europes-Gas-Storage-Crunch-Deepens-Ahead-of-Heating-Season.html",
+      "source": "OilPrice",
+      "date": "Sun, 16 Aug 2026 16:00:00 -0500"
+    },
+    {
+      "title": "Oil Majors Reap $93 Billion Windfall From the Iran War",
+      "link": "https://oilprice.com/Energy/Energy-General/Oil-Majors-Reap-93-Billion-Windfall-From-the-Iran-War.html",
+      "source": "OilPrice",
+      "date": "Sun, 16 Aug 2026 14:00:00 -0500"
+    },
+    {
+      "title": "Op-ed: When the machines learn to dig",
+      "link": "https://www.mining.com/op-ed-when-the-machines-learn-to-dig/",
+      "source": "mining.com",
+      "date": "Sun, 16 Aug 2026 17:37:56 +0000"
+    },
+    {
+      "title": "Op-Ed: ASM risk is becoming harder to manage",
+      "link": "https://www.mining.com/op-ed-asm-risk-is-becoming-harder-to-manage/",
+      "source": "mining.com",
+      "date": "Sun, 16 Aug 2026 17:36:03 +0000"
+    },
+    {
+      "title": "AI Set to Extend Fossil Fuel Dominance",
+      "link": "https://oilprice.com/Energy/Energy-General/AI-Set-to-Extend-Fossil-Fuel-Dominance.html",
+      "source": "OilPrice",
+      "date": "Sun, 16 Aug 2026 12:00:00 -0500"
+    },
+    {
+      "title": "The Trillion-Dollar Problem at the Heart of the AI Boom",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Trillion-Dollar-Problem-at-the-Heart-of-the-AI-Boom.html",
+      "source": "OilPrice",
+      "date": "Sun, 16 Aug 2026 10:00:00 -0500"
+    },
+    {
+      "title": "Electric Aviation Won't Kill Jet Fuel - But It Could Take the Best Routes First",
+      "link": "https://oilprice.com/Energy/Energy-General/Electric-Aviation-Wont-Kill-Jet-Fuel-But-It-Could-Take-the-Best-Routes-First.html",
+      "source": "OilPrice",
+      "date": "Sat, 15 Aug 2026 18:00:00 -0500"
+    },
+    {
+      "title": "Just 7% of America’s Nuclear Fuel Comes From Home",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Just-7-of-Americas-Nuclear-Fuel-Comes-From-Home.html",
+      "source": "OilPrice",
+      "date": "Sat, 15 Aug 2026 16:00:00 -0500"
+    },
+    {
+      "title": "The Battle Over North Sea Oil Is Heating Up Under Britain’s New PM",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Battle-Over-North-Sea-Oil-Is-Heating-Up-Under-Britains-New-PM.html",
+      "source": "OilPrice",
+      "date": "Sat, 15 Aug 2026 14:00:00 -0500"
+    },
+    {
+      "title": "Modern Mining eyes US expansion as e-waste emerges as domestic metals resource",
+      "link": "https://www.mining.com/modern-mining-eyes-us-expansion-as-e-waste-emerges-as-domestic-metals-resource/",
+      "source": "mining.com",
+      "date": "Fri, 14 Aug 2026 22:19:45 +0000"
+    },
+    {
+      "title": "Gold price shakes off early profit taking after run to 10-week high",
+      "link": "https://www.mining.com/gold-price-shakes-off-early-profit-taking-after-run-to-10-week-high/",
+      "source": "mining.com",
+      "date": "Fri, 14 Aug 2026 18:26:58 +0000"
+    },
+    {
+      "title": "Copper price holds near record as London warehouse bidding war looms",
+      "link": "https://www.mining.com/copper-price-holds-near-record-as-london-warehouse-bidding-war-looms/",
+      "source": "mining.com",
+      "date": "Fri, 14 Aug 2026 17:59:20 +0000"
     },
     {
       "title": "Faraday targets 18B-lb Arizona copper district",
       "link": "https://www.mining.com/faraday-targets-18b-lb-arizona-copper-district/",
       "source": "mining.com",
       "date": "Fri, 14 Aug 2026 16:36:00 +0000"
-    },
-    {
-      "title": "Venezuela targets $4.4B London gold stash",
-      "link": "https://www.mining.com/venezuela-targets-4-4b-london-gold-stash/",
-      "source": "mining.com",
-      "date": "Fri, 14 Aug 2026 16:33:58 +0000"
-    },
-    {
-      "title": "South Africa’s Top Court Blocks Shell Wild Coast Exploration",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/South-Africas-Top-Court-Blocks-Shell-Wild-Coast-Exploration.html",
-      "source": "OilPrice",
-      "date": "Fri, 14 Aug 2026 11:30:00 -0500"
-    },
-    {
-      "title": "Hormuz Attacks Push Oil Toward $100 Despite US Crude Build",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Hormuz-Attacks-Push-Oil-Toward-100-Despite-US-Crude-Build.html",
-      "source": "OilPrice",
-      "date": "Fri, 14 Aug 2026 11:21:21 -0500"
-    },
-    {
-      "title": "U.S. West Coast Refiners Tap Malaysian Supply",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-West-Coast-Refiners-Tap-Malaysian-Supply.html",
-      "source": "OilPrice",
-      "date": "Fri, 14 Aug 2026 10:30:00 -0500"
-    },
-    {
-      "title": "Kazakhstan Accuses Big Oil of $10.7 Billion Corruption in Kashagan Oil Project",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Kazakhstan-Accuses-Big-Oil-of-107-Billion-Corruption-in-Kashagan-Oil-Project.html",
-      "source": "OilPrice",
-      "date": "Fri, 14 Aug 2026 09:30:00 -0500"
-    },
-    {
-      "title": "Iran’s Economy Is Buckling Under the Weight of War",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/Irans-Economy-Is-Buckling-Under-the-Weight-of-War.html",
-      "source": "OilPrice",
-      "date": "Fri, 14 Aug 2026 09:00:00 -0500"
-    },
-    {
-      "title": "India's Coal Demand Set to Hit 1.6 Billion Tons by 2030",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Coal-Demand-Set-to-Hit-16-Billion-Tons-by-2030.html",
-      "source": "OilPrice",
-      "date": "Fri, 14 Aug 2026 08:30:00 -0500"
-    },
-    {
-      "title": "Hormuz Crisis Pushes Asian Refiners Toward U.S. Oil",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Crisis-Pushes-Asian-Refiners-Toward-US-Oil.html",
-      "source": "OilPrice",
-      "date": "Fri, 14 Aug 2026 07:30:00 -0500"
-    },
-    {
-      "title": "Blue Moon rejects short seller’s claims",
-      "link": "https://www.mining.com/blue-moon-rejects-short-sellers-claims/",
-      "source": "mining.com",
-      "date": "Fri, 14 Aug 2026 12:25:42 +0000"
-    },
-    {
-      "title": "NexGen starts $1.6B uranium build to rival top mines",
-      "link": "https://www.mining.com/nexgen-starts-1-6b-uranium-build-to-rival-top-mines/",
-      "source": "mining.com",
-      "date": "Fri, 14 Aug 2026 11:55:00 +0000"
-    },
-    {
-      "title": "CATL mine shutdown threatens to flip lithium market into deficit",
-      "link": "https://www.mining.com/catl-mine-shutdown-threatens-to-flip-lithium-market-into-deficit/",
-      "source": "mining.com",
-      "date": "Fri, 14 Aug 2026 11:08:00 +0000"
-    },
-    {
-      "title": "Nuclea to acquire Moltex Energy’s nuclear technology assets",
-      "link": "https://www.mining.com/nuclea-to-acquire-moltex-energys-nuclear-technology-assets/",
-      "source": "mining.com",
-      "date": "Thu, 13 Aug 2026 23:32:28 +0000"
     }
   ]
 }
