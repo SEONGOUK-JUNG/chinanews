@@ -1,20 +1,20 @@
 {
-  "run_at_kst": "2026-08-17T18:04:04+09:00",
+  "run_at_kst": "2026-08-17T18:41:53+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "中 경제브리핑...중국인민은행, 약 210조원 규모 역레포 가동 外-Xinhua",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50QU1HelhtLWEwdlNLdjZpVTdKWUFwOGN6Q3NPSVBLM1pJRm0taWczaERIU2NnT2NLbVVqYVhOdGJEM19qbFhwOUdIaXFCTmlMQnNqeXgzeFlQZUlwdmZyblNaWTFiUkNMUFdpYkhpeGlLQi1o?oc=5",
-      "source": "신화망",
-      "date": "Mon, 17 Aug 2026 08:26:35 GMT"
+      "title": "중국 경제 하반기 불안한 출발... 7월 생산·소비도 예상 하회",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45ZWk5TXpXaURWd1RfR3Qxa0UyM2pXLWlMUGRjM0pzM0NjLS1FRk4xVld1dlUzb3dYc1hfRFphcDJ1eDZBdXg0MDNRelBrTVNMRUd0NVloVURvS2JfWnFhR1o4OWxrQjBsNTBISnFn0gFzQVVfeXFMTlUwNTh0Y2gtLTJCamkzdzJiZkVjNGpKSXFBcFBRUzVENmp5bmVrcWFLOW9TR3hMS0pWb3NpdF9YQVBUajlBTkJXbXNHeVdrT0k1cWlxTGZGM3RQZjgyQ0JzVEgxTGlvcF9INWJ2RDV3eUo1Yw?oc=5",
+      "source": "한국일보",
+      "date": "Mon, 17 Aug 2026 09:06:00 GMT"
     },
     {
       "title": "중국, 지난달 산업생산 4.5% 증가…시장 기대치 밑돌아",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tLUNlM0djQTVqYlVoZWdZc2gyMEpOSEdIbV9xYmdHRHR6ZmZUeDJybVJtREg3SHBZQnFUaXh2LWhxdjdTclBaTGhacXFHMF9acDNn0gFYQVVfeXFMTkNOcnVRYUpzN3pXb1FPcUhhdHA3UF9NV0llTmZubzhSUGRtRzNmbmJ3Ti1PTGtsUGphZWwtZ2dBdE9neXRqeDNyWmJLckxfZ0xkelhpQU04Tw?oc=5",
-      "source": "biz.sbs.co.kr",
+      "source": "SBS Biz",
       "date": "Mon, 17 Aug 2026 07:51:00 GMT"
     },
     {
