@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-17T13:50:30+09:00",
+  "run_at_kst": "2026-08-17T18:04:04+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Asian Refiners Seek Alternative Pickup Point for Saudi Crude",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Asian-Refiners-Seek-Alternative-Pickup-Point-for-Saudi-Crude.html",
+      "source": "OilPrice",
+      "date": "Mon, 17 Aug 2026 03:55:00 -0500"
+    },
+    {
+      "title": "Indian Oil Giant Secures U.S. License to Return to Venezuela",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Oil-Giant-Secures-US-License-to-Return-to-Venezuela.html",
+      "source": "OilPrice",
+      "date": "Mon, 17 Aug 2026 02:50:00 -0500"
+    },
+    {
+      "title": "India Lets Delayed Renewable Projects Pay to Keep Grid Access",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Lets-Delayed-Renewable-Projects-Pay-to-Keep-Grid-Access.html",
+      "source": "OilPrice",
+      "date": "Mon, 17 Aug 2026 01:45:00 -0500"
+    },
+    {
+      "title": "Hormuz Tanker Traffic Slows to a Trickle",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Traffic-Slows-to-a-Trickle.html",
+      "source": "OilPrice",
+      "date": "Mon, 17 Aug 2026 00:30:00 -0500"
+    },
     {
       "title": "Have Middle East Oil Flows Rebounded to 15 Million Bpd as U.S. Claims?",
       "link": "https://oilprice.com/Energy/Crude-Oil/Have-Middle-East-Oil-Flows-Rebounded-to-15-Million-Bpd-as-US-Claims.html",
@@ -42,30 +66,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/AI-Set-to-Extend-Fossil-Fuel-Dominance.html",
       "source": "OilPrice",
       "date": "Sun, 16 Aug 2026 12:00:00 -0500"
-    },
-    {
-      "title": "The Trillion-Dollar Problem at the Heart of the AI Boom",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Trillion-Dollar-Problem-at-the-Heart-of-the-AI-Boom.html",
-      "source": "OilPrice",
-      "date": "Sun, 16 Aug 2026 10:00:00 -0500"
-    },
-    {
-      "title": "Electric Aviation Won't Kill Jet Fuel - But It Could Take the Best Routes First",
-      "link": "https://oilprice.com/Energy/Energy-General/Electric-Aviation-Wont-Kill-Jet-Fuel-But-It-Could-Take-the-Best-Routes-First.html",
-      "source": "OilPrice",
-      "date": "Sat, 15 Aug 2026 18:00:00 -0500"
-    },
-    {
-      "title": "Just 7% of America’s Nuclear Fuel Comes From Home",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Just-7-of-Americas-Nuclear-Fuel-Comes-From-Home.html",
-      "source": "OilPrice",
-      "date": "Sat, 15 Aug 2026 16:00:00 -0500"
-    },
-    {
-      "title": "The Battle Over North Sea Oil Is Heating Up Under Britain’s New PM",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Battle-Over-North-Sea-Oil-Is-Heating-Up-Under-Britains-New-PM.html",
-      "source": "OilPrice",
-      "date": "Sat, 15 Aug 2026 14:00:00 -0500"
     },
     {
       "title": "Modern Mining eyes US expansion as e-waste emerges as domestic metals resource",
