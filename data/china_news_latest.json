@@ -1,21 +1,57 @@
 {
-  "run_at_kst": "2026-08-17T18:41:53+09:00",
+  "run_at_kst": "2026-08-18T20:09:01+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "중국 경제 하반기 불안한 출발... 7월 생산·소비도 예상 하회",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45ZWk5TXpXaURWd1RfR3Qxa0UyM2pXLWlMUGRjM0pzM0NjLS1FRk4xVld1dlUzb3dYc1hfRFphcDJ1eDZBdXg0MDNRelBrTVNMRUd0NVloVURvS2JfWnFhR1o4OWxrQjBsNTBISnFn0gFzQVVfeXFMTlUwNTh0Y2gtLTJCamkzdzJiZkVjNGpKSXFBcFBRUzVENmp5bmVrcWFLOW9TR3hMS0pWb3NpdF9YQVBUajlBTkJXbXNHeVdrT0k1cWlxTGZGM3RQZjgyQ0JzVEgxTGlvcF9INWJ2RDV3eUo1Yw?oc=5",
-      "source": "한국일보",
-      "date": "Mon, 17 Aug 2026 09:06:00 GMT"
+      "title": "중국 경제개혁 이끈 주룽지 영결식…시진핑 등 마지막 길 배웅",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRX1ZCMW9Lcm5ITE9jb0J5X0MwRU5NYXE0dFdpaVcxNUFHNWVXTW9JOXlIUUhxQ1c4VEVpMlZqNWI5eGxoc2U4OGsxc3REbFE?oc=5",
+      "source": "v.daum.net",
+      "date": "Tue, 18 Aug 2026 08:09:07 GMT"
     },
     {
-      "title": "중국, 지난달 산업생산 4.5% 증가…시장 기대치 밑돌아",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tLUNlM0djQTVqYlVoZWdZc2gyMEpOSEdIbV9xYmdHRHR6ZmZUeDJybVJtREg3SHBZQnFUaXh2LWhxdjdTclBaTGhacXFHMF9acDNn0gFYQVVfeXFMTkNOcnVRYUpzN3pXb1FPcUhhdHA3UF9NV0llTmZubzhSUGRtRzNmbmJ3Ti1PTGtsUGphZWwtZ2dBdE9neXRqeDNyWmJLckxfZ0xkelhpQU04Tw?oc=5",
-      "source": "SBS Biz",
-      "date": "Mon, 17 Aug 2026 07:51:00 GMT"
+      "title": "주룽지 前중국총리 영결식…시진핑 세차례 허리 숙여 애도(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wX0dYU0RlV085eHFQN2lfRkljZjNtTlVDZTVpLW52NFNXMzliY2pxa1ZpQm0zWmI1MjVTeDF0d19hS1JtZ1NNMkVvZWVER0U?oc=5",
+      "source": "v.daum.net",
+      "date": "Tue, 18 Aug 2026 07:37:48 GMT"
+    },
+    {
+      "title": "중국 경기 회복세 주춤…생산·소비 둔화에 부양책 압박 커져",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPeDZTbFFudUg4cnNJSUFvV3VtVEo2LUQ0NnNLVlFqVjNvTndTMERjc2VEQWJXSTRfczIyOGxZYldfT3J5TDM5eVJvSWZiWU15SThNcDhUa2NmTmdaOTlKRVJQTQ?oc=5",
+      "source": "더구루",
+      "date": "Tue, 18 Aug 2026 04:58:34 GMT"
+    },
+    {
+      "title": "[中경제, 두 개의 실험실④] 대만까지 68해리…푸젠성서 본 '양안교류' 현주소 |",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpZTlnVGhkandZaW85dnlwVE1VcTVsTkkwR3pHOFlCemtSd1hyc2RZZm40Zk9kYVBad3JyM3NTNU9JYS0xdUdLcjk5bEN0UHJmTmMwblhhbXN0Z216X0dtQVlmcVYyNlRFS1d0dGJtRUpVMlY4?oc=5",
+      "source": "연합인포맥스",
+      "date": "Tue, 18 Aug 2026 04:12:22 GMT"
+    },
+    {
+      "title": "중국 7월 생산·소비 동반 부진…경기 둔화 장기화 우려",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IcFVZc1J1N051YVozcmw5dVJ4RDVNZ1BSdFRudDJnLVdHZG00RWRGdExsMy1ub1psaTdjY2RlbXgyVXBjNTc1RGhlRVF0MnVYT0NhdTZiTU11dw?oc=5",
+      "source": "파이낸셜뉴스",
+      "date": "Tue, 18 Aug 2026 02:16:56 GMT"
+    },
+    {
+      "title": "[올댓차이나] 中 총리 “내수 부족 여전…추가 정책 적시 시행”",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzRWtBZVpVR3dVTUVtNzZiWjZ6MDZYWVJTTS04Qk1hTlZKMGZyU3BRcE4yRjlYZU1ONE56OVVOeUM3Q01KV2tEVnpWbGZwdGc2enRYSjJvSkVhVU9NcVQ4VdIBeEFVX3lxTE1aSzJUS2JOczFTWEZCcXFCMDhyenNiRW5MVW9POXJXS3p0VTlnVzZlSVlYVnZYeS1PZEFCWUpjcm03VVdtOFhWTG8yNHdmdFIxVUVwakxoWlpjeWZWN1FWODYxai1OUWdocmFwR09PQWVjQ0FUZDZMbA?oc=5",
+      "source": "뉴시스",
+      "date": "Tue, 18 Aug 2026 01:44:03 GMT"
+    },
+    {
+      "title": "[애널리스트의 마켓뷰]돈 풀기로 경기 부양 나서는 중국",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlbmkxemlHemVwZEhyYmJwV0lidTZYay1Zb1c4bGduZzJTbXNEYm5HOG5yTW5qcENRdERIUEZydVVmU1ViSDdxREdkR0tPUHVrR01PcnVac2lsejZ4VzJPVGpoTjJwWVZpS3NLRWFLM2pSMmtUc0HSAWZBVV95cUxNX2ZQTk9Xal9PU2k1TVZZdUhJenFxa2JzME9zQ2JhWmxDcUZxejhBMU1SeGk3N3dpSG9KcmZ1R19oVHdUWkVFWllfdlpmOF9PYmVqU0c1WTRHQzZxai1XbS1zODVqWXc?oc=5",
+      "source": "동아일보",
+      "date": "Mon, 17 Aug 2026 15:30:00 GMT"
+    },
+    {
+      "title": "中, 자동차판매 -21%·부동산 투자 -19%…중국경제 '빨간불'",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iNTRtZUhiM3RVU2ZWWmZwNHk1RVBZME9uMnplbV91c3BMSjFlNm5WQUFqYjJ6cFpxMDVLOGc1VWhTdDJfSk1OY3VfVzNKRmp2aWc3XzZ3ZXJYQQ?oc=5",
+      "source": "한국경제",
+      "date": "Mon, 17 Aug 2026 10:06:43 GMT"
     },
     {
       "title": "중국 경제 하반기 불안한 출발…정책 부양 압박 커져(종합)",
@@ -24,40 +60,10 @@
       "date": "Mon, 17 Aug 2026 07:40:48 GMT"
     },
     {
-      "title": "중국 경제 하반기 불안한 출발…정책 부양 압박 커져(종합)",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaXBhVkpCTGxLcVFZNWNhdkFIUW9BVHdmU2xpY3BNNlpnYVNMcm81a3ZnaV9ZeDZJNGxFZnVEcXZUVlJrYTlKd3l4TXVRVXMtX3dTbnN5WTlxeklLTURZWjJKWFNlV0xGLWJsdEFYUTI2MTd2Vk1IS05hNWtfaFpHaA?oc=5",
-      "source": "edaily.co.kr",
-      "date": "Mon, 17 Aug 2026 07:40:48 GMT"
-    },
-    {
-      "title": "수출은 19% 늘었는데 대출은 마이너스…엇갈린 중국 경제 신호",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Ba1Mwa3RJS0l5T1VfMkFNbVloUV9VQjJvNzV3bUJ5QlBKc0ZyZWMzUWN2RUs0Q01kRWlVMXprNE41czVEZk1Mb0JjYWJGR1dDSk9GSnVsTzRHX0JoWGcxWmJZV1BRbGp1Vlpj0gFvQVVfeXFMTlJlZzRBakttX2lWMUx0S3NjNy0yTi1JbmN0NkJGdG9sMmNVZGxkSlhuVExURGRHVEJoZDBWNDhESktXcmQ4VWItSUxmdkVMM2hMMUNCZlhuZUtYMklnZUtzMWZEMHIzTVN5MlJ5Vlgw?oc=5",
-      "source": "서울일보",
-      "date": "Mon, 17 Aug 2026 07:35:21 GMT"
-    },
-    {
-      "title": "[중국증시-마감] 경제지표 기다리며 기술주 위주로 상승",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WdEpmZEpnaXdfUUVaNnVEQkJaX0YwMnhFSldUM0hwR0xBY01OY0xHQjVWSEszR1puaU50ang5cjN0S1BuWnlaOGhuWW9ESldvZjZjWHkwa2MtQ1RyZFdUQV82WVV3c1UyaHljWUhDRWo?oc=5",
-      "source": "연합인포맥스",
-      "date": "Mon, 17 Aug 2026 07:22:42 GMT"
-    },
-    {
-      "title": "[속보]중국 7월 생산 4.5%·소비 0.6%…예상치 하회",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdlBOcGQ1SlZiMFlLY2VQdW8wVURLMlF0T0NCZ2JfTTBVTnd4TXFWa25pN2ZhM2ZtcDNoZFhFSVJBc3VYZHBPNGQ1WlJrVU54U1h1VkpsdGhnWmF6c3pyR1p4dU9Fc1JPbUt5QlZMdVYyTS1CNW9wb0FQdThKaFdIUQ?oc=5",
-      "source": "edaily.co.kr",
-      "date": "Mon, 17 Aug 2026 07:06:56 GMT"
-    },
-    {
       "title": "[GMC] 중국 내수는 잊어라? 따로 크는 중국 기업 7곳",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xbFFFMklpUmtlTG4zTjNrdGp0NDk0QUhnLVM4RXlGV1k1Q3FkUDF5ei1GZkZ2d1k3eFdIWkNxSTRSbDhXQmdteDV1bkY4a28?oc=5",
-      "source": "v.daum.net",
-      "date": "Mon, 17 Aug 2026 06:40:09 GMT"
-    },
-    {
-      "title": "\"중국 시장지배력 문제 심각…공동으로 무역장벽 세워야\" [이상은의 워싱턴나우]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zb3lHaFJBeW9tVTFBMlV5amNmY3llcy1tX3dRSUowYXZ2WDlBYjgxRTIyTlQ4MTdXUEFSR01saDNnT1ZjaGZkam0tQnVuZm9OdGl3R0dXVHFYUQ?oc=5",
-      "source": "한국경제",
-      "date": "Sun, 16 Aug 2026 20:26:02 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4ZXQ3WW9aalRqTHk5TWNPakg2ZlpoYW8zT1FBS0plamVaTTNxT1pfVXNzMmZzbDNtenE4clQzckZLLUQxcjZYbEh6amt1TmpIYWVr?oc=5",
+      "source": "네이트",
+      "date": "Mon, 17 Aug 2026 06:39:00 GMT"
     },
     {
       "title": "중국 ‘남색경제’ 확산…SNS서 20억회 재생된 ‘탄춘펑’ 열풍",
@@ -66,16 +72,10 @@
       "date": "Sun, 16 Aug 2026 10:36:00 GMT"
     },
     {
-      "title": "이란에 발 묶인 미국, 중국은 아시아서 압박…동맹국들 \"美 믿어도 되나\"",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50dDM0eVNobnZDU0oxMGlyYzFIeWgyZERJRURhMHFNX1gxc2VIWnBDYlNja3NJeXBQZEUwbWpNZ1p1VHB0cVpHZ0xqZVhHdlE?oc=5",
-      "source": "v.daum.net",
-      "date": "Sun, 16 Aug 2026 00:39:33 GMT"
-    },
-    {
       "title": "한국 대통령을 ‘형님’으로 불렀던 중국 총리",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQelBZMk93LURpTF9qMGxILXZyNHMzU0tYb21IdGZDUWNJWFNuOHVqUGx6YnFJVDRVbjBHVG1wZFNNLVRMcGVMSVFWM3hvY3VldlgtUTI5MmpzaGpjd3M2LVJ3WjdscjJvRDRieVNFdEVwN3Q3SklxYkJqTlhabHo3dFZ3dVRYNXRkSWlHV2NBLVNQQQ?oc=5",
       "source": "조선일보",
-      "date": "Sat, 15 Aug 2026 20:42:11 GMT"
+      "date": "Sat, 15 Aug 2026 20:30:00 GMT"
     }
   ]
 }
