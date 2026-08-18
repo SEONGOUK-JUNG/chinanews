@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-18T20:09:01+09:00",
+  "run_at_kst": "2026-08-18T22:13:24+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,24 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Tankers U-Turn at Hormuz as Iran Tightens Its Grip",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Tankers-U-Turn-at-Hormuz-as-Iran-Tightens-Its-Grip.html",
+      "source": "OilPrice",
+      "date": "Tue, 18 Aug 2026 07:30:00 -0500"
+    },
+    {
+      "title": "Pakistan's Power Generation Costs Jump 38% on Record Spot LNG Buys",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistans-Power-Generation-Costs-Jump-38-on-Record-Spot-LNG-Buys.html",
+      "source": "OilPrice",
+      "date": "Tue, 18 Aug 2026 06:30:00 -0500"
+    },
+    {
+      "title": "BHP’s new boss favours new builds over M&A",
+      "link": "https://www.mining.com/bhps-new-boss-favours-new-builds-over-ma/",
+      "source": "mining.com",
+      "date": "Tue, 18 Aug 2026 10:56:00 +0000"
+    },
     {
       "title": "Houthis Claim Third Attack on Saudi Aramco Refinery in Two Weeks",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Claim-Third-Attack-on-Saudi-Aramco-Refinery-in-Two-Weeks.html",
@@ -50,18 +68,6 @@
       "date": "Mon, 17 Aug 2026 23:21:18 +0000"
     },
     {
-      "title": "U.S. Shale Majors Cut Spending Despite Higher Oil Prices",
-      "link": "https://oilprice.com/Energy/Crude-Oil/US-Shale-Majors-Cut-Spending-Despite-Higher-Oil-Prices.html",
-      "source": "OilPrice",
-      "date": "Mon, 17 Aug 2026 18:00:00 -0500"
-    },
-    {
-      "title": "Automation Could Start Eating Into U.S. Diesel Demand",
-      "link": "https://oilprice.com/Energy/Energy-General/Automation-Could-Start-Eating-Into-US-Diesel-Demand.html",
-      "source": "OilPrice",
-      "date": "Mon, 17 Aug 2026 17:00:00 -0500"
-    },
-    {
       "title": "Op-Ed: What’s all the fuss over Simandou?",
       "link": "https://www.mining.com/op-ed-whats-all-the-fuss-over-simandou/",
       "source": "mining.com",
@@ -84,12 +90,6 @@
       "link": "https://www.mining.com/equinox-gold-gains-key-federal-permit-for-south-railroad-kicks-off-early-works/",
       "source": "mining.com",
       "date": "Mon, 17 Aug 2026 14:33:39 +0000"
-    },
-    {
-      "title": "Korea taps Glencore for copper supply with $1B loan deal",
-      "link": "https://www.mining.com/korea-taps-glencore-for-copper-supply-with-1b-loan-deal/",
-      "source": "mining.com",
-      "date": "Mon, 17 Aug 2026 12:09:00 +0000"
     }
   ]
 }

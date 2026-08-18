@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-08-18T20:09:01+09:00",
+  "run_at_kst": "2026-08-18T22:13:24+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "[경제+] 中 1~7월 경제 안정세 지속...AI가 핵심 동력으로 부상",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45RjItaEZrOUgzLVdjTTFUVlBicTdVMzRfY0hMT25JZFE2OWQ3U0kxYXY4UENkVHIxbnhQbUhoeVByLU5seFFNTVpKVHp3bEltVkZBSjB4ZF9TUUpfLWxGSTk4RlVyaHNXbkd3?oc=5",
+      "source": "snakorea.com",
+      "date": "Tue, 18 Aug 2026 08:49:32 GMT"
+    },
     {
       "title": "중국 경제개혁 이끈 주룽지 영결식…시진핑 등 마지막 길 배웅",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRX1ZCMW9Lcm5ITE9jb0J5X0MwRU5NYXE0dFdpaVcxNUFHNWVXTW9JOXlIUUhxQ1c4VEVpMlZqNWI5eGxoc2U4OGsxc3REbFE?oc=5",
@@ -13,21 +19,21 @@
     },
     {
       "title": "주룽지 前중국총리 영결식…시진핑 세차례 허리 숙여 애도(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wX0dYU0RlV085eHFQN2lfRkljZjNtTlVDZTVpLW52NFNXMzliY2pxa1ZpQm0zWmI1MjVTeDF0d19hS1JtZ1NNMkVvZWVER0U?oc=5",
-      "source": "v.daum.net",
-      "date": "Tue, 18 Aug 2026 07:37:48 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UampnOEs2aFFXajU5Sm1id2dGQlhVbXppSTFNbFFFT25xVjlaV2NUVW00UVFOYkJ6UGdyX2R5VUtnRkxOMGhCZFdrLUtfbUR2V1ptOWYwR1I4UFXSAWBBVV95cUxNTXFZbjBpRTFvT2QyWk9hYXZYanNOQko0SmRZSm1yZFpoQmgwbnB2bU1fVjBPbWJGM3h4TU1sNm1LWTh4WXZaNEhOdFcyWmQ4bXcteGV6dHRkZjJtSmdrVVI?oc=5",
+      "source": "연합뉴스",
+      "date": "Tue, 18 Aug 2026 07:36:31 GMT"
     },
     {
-      "title": "중국 경기 회복세 주춤…생산·소비 둔화에 부양책 압박 커져",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPeDZTbFFudUg4cnNJSUFvV3VtVEo2LUQ0NnNLVlFqVjNvTndTMERjc2VEQWJXSTRfczIyOGxZYldfT3J5TDM5eVJvSWZiWU15SThNcDhUa2NmTmdaOTlKRVJQTQ?oc=5",
-      "source": "더구루",
-      "date": "Tue, 18 Aug 2026 04:58:34 GMT"
+      "title": "중국 경제가 둔화되고 있다.",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5EVEVoTHRnRjhXV01tel9XQXAxNmJBZk44S3VWc2dyZGFjRDR0dFBnbGEyelk5TmM0enRrWExxVUw5SGlNUFFOYmtseDhqZW9xMVJjbjZQcTBBYThMckhway1TYw?oc=5",
+      "source": "vietnam.vn",
+      "date": "Tue, 18 Aug 2026 06:08:40 GMT"
     },
     {
-      "title": "[中경제, 두 개의 실험실④] 대만까지 68해리…푸젠성서 본 '양안교류' 현주소 |",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpZTlnVGhkandZaW85dnlwVE1VcTVsTkkwR3pHOFlCemtSd1hyc2RZZm40Zk9kYVBad3JyM3NTNU9JYS0xdUdLcjk5bEN0UHJmTmMwblhhbXN0Z216X0dtQVlmcVYyNlRFS1d0dGJtRUpVMlY4?oc=5",
-      "source": "연합인포맥스",
-      "date": "Tue, 18 Aug 2026 04:12:22 GMT"
+      "title": "[中경제, 두 개의 실험실④] 대만까지 68해리…푸젠성서 본 '양안교류' 현주소",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55VjZfRkdQV25tTXYzM1htY0d0Q0JTN0FBQmtqNHZyM0xHRkoxcFdYTHFBYUJEZ1VieHBtRDZmZWkyVm5EZ1VzdUY5Y29DVDBnUkdUSWtkOVZhYnBLNlo5UTc3b0p4ZTVkczlBVHZFbk8tQQ?oc=5",
+      "source": "KB Think",
+      "date": "Tue, 18 Aug 2026 04:05:01 GMT"
     },
     {
       "title": "중국 7월 생산·소비 동반 부진…경기 둔화 장기화 우려",
@@ -42,6 +48,12 @@
       "date": "Tue, 18 Aug 2026 01:44:03 GMT"
     },
     {
+      "title": "피터슨연구소 \"미국 탈중국 전략 한계 확연… 제3국 우회 공급망으로 중국 의존 지속\"",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjVjNvbEVITHhiUTlvaGdTbGVLbF8wWEhfd05yUnN6SVowS0gyaHh0N2xyWWladkxwWXdIWUVBTmVVOVhqNVNTSmpwNnlVU1dCdS0tNzVQYVB4azFCdXJuWGo0NXlWcDh5WGc?oc=5",
+      "source": "청년투데이",
+      "date": "Tue, 18 Aug 2026 01:37:54 GMT"
+    },
+    {
       "title": "[애널리스트의 마켓뷰]돈 풀기로 경기 부양 나서는 중국",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlbmkxemlHemVwZEhyYmJwV0lidTZYay1Zb1c4bGduZzJTbXNEYm5HOG5yTW5qcENRdERIUEZydVVmU1ViSDdxREdkR0tPUHVrR01PcnVac2lsejZ4VzJPVGpoTjJwWVZpS3NLRWFLM2pSMmtUc0HSAWZBVV95cUxNX2ZQTk9Xal9PU2k1TVZZdUhJenFxa2JzME9zQ2JhWmxDcUZxejhBMU1SeGk3N3dpSG9KcmZ1R19oVHdUWkVFWllfdlpmOF9PYmVqU0c1WTRHQzZxai1XbS1zODVqWXc?oc=5",
       "source": "동아일보",
@@ -54,28 +66,16 @@
       "date": "Mon, 17 Aug 2026 10:06:43 GMT"
     },
     {
-      "title": "중국 경제 하반기 불안한 출발…정책 부양 압박 커져(종합)",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9teURtbkFzaksyTXVPUlc2MkxlcnVkU0ZTcUhJdzlfckxibnFTU0dwS1JYQmZGQURHNDBSdjE1d1ljWmhkUzc3bUxqc0hNSHdqWU81R2wyM0ZZeFdPUUhlZHVrd21LWFlhZWdSMEl2dC1TWlE?oc=5",
-      "source": "마켓인",
-      "date": "Mon, 17 Aug 2026 07:40:48 GMT"
+      "title": "수출은 19% 늘었는데 대출은 마이너스…엇갈린 중국 경제 신호",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Ba1Mwa3RJS0l5T1VfMkFNbVloUV9VQjJvNzV3bUJ5QlBKc0ZyZWMzUWN2RUs0Q01kRWlVMXprNE41czVEZk1Mb0JjYWJGR1dDSk9GSnVsTzRHX0JoWGcxWmJZV1BRbGp1Vlpj0gFvQVVfeXFMTlJlZzRBakttX2lWMUx0S3NjNy0yTi1JbmN0NkJGdG9sMmNVZGxkSlhuVExURGRHVEJoZDBWNDhESktXcmQ4VWItSUxmdkVMM2hMMUNCZlhuZUtYMklnZUtzMWZEMHIzTVN5MlJ5Vlgw?oc=5",
+      "source": "서울일보",
+      "date": "Mon, 17 Aug 2026 07:35:21 GMT"
     },
     {
-      "title": "[GMC] 중국 내수는 잊어라? 따로 크는 중국 기업 7곳",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4ZXQ3WW9aalRqTHk5TWNPakg2ZlpoYW8zT1FBS0plamVaTTNxT1pfVXNzMmZzbDNtenE4clQzckZLLUQxcjZYbEh6amt1TmpIYWVr?oc=5",
-      "source": "네이트",
-      "date": "Mon, 17 Aug 2026 06:39:00 GMT"
-    },
-    {
-      "title": "중국 ‘남색경제’ 확산…SNS서 20억회 재생된 ‘탄춘펑’ 열풍",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WU01MMDBiNGJVd1B5dm1uODlPMHhtLTVaNHk4MFU2aUdpZDh4T05yaU9TN0l0WUNJcUpsWi1FdnJvSmF5aXhFMTNzbE9HVUdLaEFuTXhSb1FNSkdGeHc0ems5X0NfWTV6Y1Y0dQ?oc=5",
-      "source": "한겨레",
-      "date": "Sun, 16 Aug 2026 10:36:00 GMT"
-    },
-    {
-      "title": "한국 대통령을 ‘형님’으로 불렀던 중국 총리",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQelBZMk93LURpTF9qMGxILXZyNHMzU0tYb21IdGZDUWNJWFNuOHVqUGx6YnFJVDRVbjBHVG1wZFNNLVRMcGVMSVFWM3hvY3VldlgtUTI5MmpzaGpjd3M2LVJ3WjdscjJvRDRieVNFdEVwN3Q3SklxYkJqTlhabHo3dFZ3dVRYNXRkSWlHV2NBLVNQQQ?oc=5",
-      "source": "조선일보",
-      "date": "Sat, 15 Aug 2026 20:30:00 GMT"
+      "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Fri, 14 Aug 2026 07:00:00 GMT"
     }
   ]
 }
