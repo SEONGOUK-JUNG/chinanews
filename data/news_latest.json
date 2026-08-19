@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-19T09:17:52+09:00",
+  "run_at_kst": "2026-08-19T15:05:25+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Oil Prices Rise for Fourth Day as Hormuz Traffic Slows",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rise-for-Fourth-Day-as-Hormuz-Traffic-Slows.html",
+      "source": "OilPrice",
+      "date": "Wed, 19 Aug 2026 00:40:00 -0500"
+    },
     {
       "title": "5 Energy Stocks Cashing In On The New Energy Crunch",
       "link": "https://oilprice.com/Energy/Energy-General/5-Energy-Stocks-Cashing-In-On-The-New-Energy-Crunch.html",
@@ -60,12 +66,6 @@
       "link": "https://oilprice.com/Energy/Crude-Oil/A-4-Million-Bpd-Shadow-Oil-Highway-Is-Running-Through-Hormuz.html",
       "source": "OilPrice",
       "date": "Tue, 18 Aug 2026 14:00:00 -0500"
-    },
-    {
-      "title": "Aramco Puts VLCCs Back Into Hormuz After Three-Week Pause",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Aramco-Puts-VLCCs-Back-Into-Hormuz-After-Three-Week-Pause.html",
-      "source": "OilPrice",
-      "date": "Tue, 18 Aug 2026 13:18:00 -0500"
     },
     {
       "title": "Petrobras finds oil off Amazon as Lula touts potential",

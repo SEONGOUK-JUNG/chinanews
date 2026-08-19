@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-08-19T13:16:34+09:00",
+  "run_at_kst": "2026-08-19T15:05:25+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "파산 열풍 등 동시다발 악재, 中 경제 침체 조짐 확연",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54TVZZT2RZTGE2WFFzbElINUw4MVZZVWNDLU9CcG90OEdXaDZKS1hTYjlFdENoZ0xwenpNYzkyZy1tVHE0WUotRDhUUmdvTVZVMUplbktsaWxEYmxIV2llSFpPbUpnOHVIX2MxLTJR?oc=5",
+      "source": "아시아투데이",
+      "date": "Wed, 19 Aug 2026 04:38:59 GMT"
+    },
     {
       "title": "데이터센터 89곳 들어설 중국 도시, 물부족 경고등",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PeFRIRjBzekh3d0xHUlg4R2ZJelNwUGFHLXg2TE5qaG9OY2J4UVp1ZWpITGNyVlh5Rm9fYmN4dTB5OFc1V0hfeWNFMHlWdFFGRzdNTnpCV2VWZ9IBWEFVX3lxTFBxYWh4Qm0tb0kwOGhkQldRYXNaT2h3cTVvQktOSFVIdHF0eTdKV0Y1eU9WdzZfWUJkOS1WUGZDMEFiREZwd3NzTlV1a0RmTE9oT0ozVDRWX2M?oc=5",
@@ -24,12 +30,6 @@
       "date": "Tue, 18 Aug 2026 09:20:00 GMT"
     },
     {
-      "title": "[경제+] 中 1~7월 경제 안정세 지속...AI가 핵심 동력으로 부상",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45RjItaEZrOUgzLVdjTTFUVlBicTdVMzRfY0hMT25JZFE2OWQ3U0kxYXY4UENkVHIxbnhQbUhoeVByLU5seFFNTVpKVHp3bEltVkZBSjB4ZF9TUUpfLWxGSTk4RlVyaHNXbkd3?oc=5",
-      "source": "서울뉴스통신",
-      "date": "Tue, 18 Aug 2026 08:49:32 GMT"
-    },
-    {
       "title": "중국 경제개혁 이끈 주룽지 영결식…시진핑 등 마지막 길 배웅",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBuZnJnWkdSQmw3TkNBMU43eThlU2xpLXVTUUVzQktwazV5NDM3THZoMTdVbW9vbV9ub2U1R2N3d2VIbUNOWnc?oc=5",
       "source": "v.daum.net",
@@ -38,7 +38,7 @@
     {
       "title": "주룽지 前중국총리 영결식…시진핑 세차례 허리 숙여 애도(종합)",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UampnOEs2aFFXajU5Sm1id2dGQlhVbXppSTFNbFFFT25xVjlaV2NUVW00UVFOYkJ6UGdyX2R5VUtnRkxOMGhCZFdrLUtfbUR2V1ptOWYwR1I4UFXSAWBBVV95cUxNTXFZbjBpRTFvT2QyWk9hYXZYanNOQko0SmRZSm1yZFpoQmgwbnB2bU1fVjBPbWJGM3h4TU1sNm1LWTh4WXZaNEhOdFcyWmQ4bXcteGV6dHRkZjJtSmdrVVI?oc=5",
-      "source": "연합뉴스",
+      "source": "yna.co.kr",
       "date": "Tue, 18 Aug 2026 07:36:31 GMT"
     },
     {
@@ -62,7 +62,7 @@
     {
       "title": "수출은 19% 늘었는데 대출은 마이너스…엇갈린 중국 경제 신호",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Ba1Mwa3RJS0l5T1VfMkFNbVloUV9VQjJvNzV3bUJ5QlBKc0ZyZWMzUWN2RUs0Q01kRWlVMXprNE41czVEZk1Mb0JjYWJGR1dDSk9GSnVsTzRHX0JoWGcxWmJZV1BRbGp1Vlpj0gFvQVVfeXFMTlJlZzRBakttX2lWMUx0S3NjNy0yTi1JbmN0NkJGdG9sMmNVZGxkSlhuVExURGRHVEJoZDBWNDhESktXcmQ4VWItSUxmdkVMM2hMMUNCZlhuZUtYMklnZUtzMWZEMHIzTVN5MlJ5Vlgw?oc=5",
-      "source": "서울일보",
+      "source": "seoulilbo.com",
       "date": "Mon, 17 Aug 2026 07:35:21 GMT"
     },
     {
