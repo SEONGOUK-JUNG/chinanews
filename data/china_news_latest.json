@@ -1,10 +1,22 @@
 {
-  "run_at_kst": "2026-08-19T20:03:39+09:00",
+  "run_at_kst": "2026-08-20T07:39:03+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "[경제인사이드] 중국 전기차 공세… ‘브랜드’ 넘어 ‘중국산’이 온다",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zTndNYUp4Xzdpc2xrcmNTNGpGRlBaQ2t2bFpoOHc0N0xFMzM0R3pfWmtubU1lckgyYm10NE90UFkxR1dfNUVBZEFnVWZjSXNRYlpwd0gzdE1Ua191VVdHakpDNFd4QjhqeFE?oc=5",
+      "source": "천지일보",
+      "date": "Wed, 19 Aug 2026 22:00:00 GMT"
+    },
+    {
+      "title": "'신질 생산력' 드라이브와 내수 디플레이션의 그늘… ‘15·5 계획’ 원년 맞은 중국 경제의 이중주",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE83UGhxVmplcGNhSnM2bUFON1VYc2lPeXc0LTdwRlgtT3l2UFlRWlJhSkxwTzlIZ2p2RnZ6dDBzanJldVBrT2hCSg?oc=5",
+      "source": "얼리어답터뉴스",
+      "date": "Wed, 19 Aug 2026 20:39:18 GMT"
+    },
     {
       "title": "파산 열풍 등 동시다발 악재, 中 경제 침체 조짐 확연",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54TVZZT2RZTGE2WFFzbElINUw4MVZZVWNDLU9CcG90OEdXaDZKS1hTYjlFdENoZ0xwenpNYzkyZy1tVHE0WUotRDhUUmdvTVZVMUplbktsaWxEYmxIV2llSFpPbUpnOHVIX2MxLTJR?oc=5",
@@ -20,7 +32,7 @@
     {
       "title": "중국 경제, 어떻게 지속적으로 '새로운 방향·더 나은 방향·양호한 방향'으로 발전할 수 있을까?",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FZjJLdkdWak91d3dObFZhYVBPMzRJdE9aTjVyWG9ObVVIZDFpbEljdEJlSVpiRHJ0d0s0N0ZKTUJTS25BMkVjWnRSdnE5NlBOQk0ybGY2dk82UEFySFZ2ekxNRQ?oc=5",
-      "source": "korean.cri.cn",
+      "source": "CGTN",
       "date": "Tue, 18 Aug 2026 10:56:17 GMT"
     },
     {
@@ -31,7 +43,7 @@
     },
     {
       "title": "중국 경제개혁 이끈 주룽지 영결식…시진핑 등 마지막 길 배웅",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRX1ZCMW9Lcm5ITE9jb0J5X0MwRU5NYXE0dFdpaVcxNUFHNWVXTW9JOXlIUUhxQ1c4VEVpMlZqNWI5eGxoc2U4OGsxc3REbFE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBuZnJnWkdSQmw3TkNBMU43eThlU2xpLXVTUUVzQktwazV5NDM3THZoMTdVbW9vbV9ub2U1R2N3d2VIbUNOWnc?oc=5",
       "source": "v.daum.net",
       "date": "Tue, 18 Aug 2026 08:09:07 GMT"
     },
@@ -58,18 +70,6 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Ba1Mwa3RJS0l5T1VfMkFNbVloUV9VQjJvNzV3bUJ5QlBKc0ZyZWMzUWN2RUs0Q01kRWlVMXprNE41czVEZk1Mb0JjYWJGR1dDSk9GSnVsTzRHX0JoWGcxWmJZV1BRbGp1Vlpj0gFvQVVfeXFMTlJlZzRBakttX2lWMUx0S3NjNy0yTi1JbmN0NkJGdG9sMmNVZGxkSlhuVExURGRHVEJoZDBWNDhESktXcmQ4VWItSUxmdkVMM2hMMUNCZlhuZUtYMklnZUtzMWZEMHIzTVN5MlJ5Vlgw?oc=5",
       "source": "서울일보",
       "date": "Mon, 17 Aug 2026 07:35:21 GMT"
-    },
-    {
-      "title": "[중국증시-마감] 경제지표 기다리며 기술주 위주로 상승",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WdEpmZEpnaXdfUUVaNnVEQkJaX0YwMnhFSldUM0hwR0xBY01OY0xHQjVWSEszR1puaU50ang5cjN0S1BuWnlaOGhuWW9ESldvZjZjWHkwa2MtQ1RyZFdUQV82WVV3c1UyaHljWUhDRWo?oc=5",
-      "source": "연합인포맥스",
-      "date": "Mon, 17 Aug 2026 07:22:42 GMT"
-    },
-    {
-      "title": "중국車, 중국 빼고 다 잘 팔린다",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEcDNxUjlka0lEOFpiRHB2T3A1X2IxZDFxNW4xUUQxVTFUUm9FOHdEQ1Y4UmlmSFJZOEg5T2FXTXJVdUhJS0NkWmNvRThBOHhqQnRLczY3T1pPODY0NzhfZU13?oc=5",
-      "source": "이코노미스트",
-      "date": "Mon, 17 Aug 2026 06:15:00 GMT"
     },
     {
       "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
