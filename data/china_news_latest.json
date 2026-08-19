@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-19T15:05:25+09:00",
+  "run_at_kst": "2026-08-19T20:03:39+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -20,7 +20,7 @@
     {
       "title": "중국 경제, 어떻게 지속적으로 '새로운 방향·더 나은 방향·양호한 방향'으로 발전할 수 있을까?",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FZjJLdkdWak91d3dObFZhYVBPMzRJdE9aTjVyWG9ObVVIZDFpbEljdEJlSVpiRHJ0d0s0N0ZKTUJTS25BMkVjWnRSdnE5NlBOQk0ybGY2dk82UEFySFZ2ekxNRQ?oc=5",
-      "source": "CGTN",
+      "source": "korean.cri.cn",
       "date": "Tue, 18 Aug 2026 10:56:17 GMT"
     },
     {
@@ -31,15 +31,9 @@
     },
     {
       "title": "중국 경제개혁 이끈 주룽지 영결식…시진핑 등 마지막 길 배웅",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBuZnJnWkdSQmw3TkNBMU43eThlU2xpLXVTUUVzQktwazV5NDM3THZoMTdVbW9vbV9ub2U1R2N3d2VIbUNOWnc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRX1ZCMW9Lcm5ITE9jb0J5X0MwRU5NYXE0dFdpaVcxNUFHNWVXTW9JOXlIUUhxQ1c4VEVpMlZqNWI5eGxoc2U4OGsxc3REbFE?oc=5",
       "source": "v.daum.net",
       "date": "Tue, 18 Aug 2026 08:09:07 GMT"
-    },
-    {
-      "title": "주룽지 前중국총리 영결식…시진핑 세차례 허리 숙여 애도(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UampnOEs2aFFXajU5Sm1id2dGQlhVbXppSTFNbFFFT25xVjlaV2NUVW00UVFOYkJ6UGdyX2R5VUtnRkxOMGhCZFdrLUtfbUR2V1ptOWYwR1I4UFXSAWBBVV95cUxNTXFZbjBpRTFvT2QyWk9hYXZYanNOQko0SmRZSm1yZFpoQmgwbnB2bU1fVjBPbWJGM3h4TU1sNm1LWTh4WXZaNEhOdFcyWmQ4bXcteGV6dHRkZjJtSmdrVVI?oc=5",
-      "source": "yna.co.kr",
-      "date": "Tue, 18 Aug 2026 07:36:31 GMT"
     },
     {
       "title": "[中경제, 두 개의 실험실④] 대만까지 68해리…푸젠성서 본 '양안교류' 현주소",
@@ -62,7 +56,7 @@
     {
       "title": "수출은 19% 늘었는데 대출은 마이너스…엇갈린 중국 경제 신호",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Ba1Mwa3RJS0l5T1VfMkFNbVloUV9VQjJvNzV3bUJ5QlBKc0ZyZWMzUWN2RUs0Q01kRWlVMXprNE41czVEZk1Mb0JjYWJGR1dDSk9GSnVsTzRHX0JoWGcxWmJZV1BRbGp1Vlpj0gFvQVVfeXFMTlJlZzRBakttX2lWMUx0S3NjNy0yTi1JbmN0NkJGdG9sMmNVZGxkSlhuVExURGRHVEJoZDBWNDhESktXcmQ4VWItSUxmdkVMM2hMMUNCZlhuZUtYMklnZUtzMWZEMHIzTVN5MlJ5Vlgw?oc=5",
-      "source": "seoulilbo.com",
+      "source": "서울일보",
       "date": "Mon, 17 Aug 2026 07:35:21 GMT"
     },
     {
@@ -76,6 +70,12 @@
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEcDNxUjlka0lEOFpiRHB2T3A1X2IxZDFxNW4xUUQxVTFUUm9FOHdEQ1Y4UmlmSFJZOEg5T2FXTXJVdUhJS0NkWmNvRThBOHhqQnRLczY3T1pPODY0NzhfZU13?oc=5",
       "source": "이코노미스트",
       "date": "Mon, 17 Aug 2026 06:15:00 GMT"
+    },
+    {
+      "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Fri, 14 Aug 2026 07:00:00 GMT"
     }
   ]
 }
