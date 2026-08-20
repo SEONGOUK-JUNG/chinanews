@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-20T07:39:03+09:00",
+  "run_at_kst": "2026-08-20T18:20:40+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,48 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Middle East Oil Crisis Sends Supertanker Prices to Record Highs",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Middle-East-Oil-Crisis-Sends-Supertanker-Prices-to-Record-Highs.html",
+      "source": "OilPrice",
+      "date": "Thu, 20 Aug 2026 03:00:00 -0500"
+    },
+    {
+      "title": "Elevated Oil Prices Push Japan’s Imports to an All-Time High",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Elevated-Oil-Prices-Push-Japans-Imports-to-an-All-Time-High.html",
+      "source": "OilPrice",
+      "date": "Thu, 20 Aug 2026 01:45:00 -0500"
+    },
+    {
+      "title": "Chinese Refiners Snap Up Iraqi Oil as Gulf Supply Routes Fracture",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinese-Refiners-Snap-Up-Iraqi-Oil-as-Gulf-Supply-Routes-Fracture.html",
+      "source": "OilPrice",
+      "date": "Thu, 20 Aug 2026 00:30:00 -0500"
+    },
+    {
+      "title": "Coal Remains The Undisputed King Of Global Power",
+      "link": "https://oilprice.com/Energy/Coal/Coal-Remains-The-Undisputed-King-Of-Global-Power.html",
+      "source": "OilPrice",
+      "date": "Wed, 19 Aug 2026 19:00:00 -0500"
+    },
+    {
+      "title": "Ramaco Resources, Indium Corp ink gallium and germanium supply deal for Brook mine",
+      "link": "https://www.mining.com/ramaco-resources-indium-corp-ink-gallium-and-germanium-supply-deal-for-brook-mine/",
+      "source": "mining.com",
+      "date": "Wed, 19 Aug 2026 23:52:57 +0000"
+    },
+    {
+      "title": "Omai values Guyana gold project at $4B",
+      "link": "https://www.mining.com/omai-values-guyana-gold-project-at-4b/",
+      "source": "mining.com",
+      "date": "Wed, 19 Aug 2026 23:00:00 +0000"
+    },
+    {
+      "title": "Hope Fades, Traders Brace for Extended Oil, LNG Squeeze",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Hope-Fades-Traders-Brace-for-Extended-Oil-LNG-Squeeze.html",
+      "source": "OilPrice",
+      "date": "Wed, 19 Aug 2026 18:00:00 -0500"
+    },
     {
       "title": "Russia’s Fuel Crisis Hits Moscow as Rationing Spreads",
       "link": "https://oilprice.com/Energy/Energy-General/Russias-Fuel-Crisis-Hits-Moscow-as-Rationing-Spreads.html",
@@ -32,34 +74,10 @@
       "date": "Wed, 19 Aug 2026 15:00:00 -0500"
     },
     {
-      "title": "Copper Backwardation Collapses After 20,000 Tons Hit LME Warehouses",
-      "link": "https://oilprice.com/Metals/Commodities/Copper-Backwardation-Collapses-After-20000-Tons-Hit-LME-Warehouses.html",
-      "source": "OilPrice",
-      "date": "Wed, 19 Aug 2026 14:00:00 -0500"
-    },
-    {
-      "title": "Central Asia Blackout Traced to Key Hydropower Plant",
-      "link": "https://oilprice.com/Energy/Energy-General/Central-Asia-Blackout-Traced-to-Key-Hydropower-Plant.html",
-      "source": "OilPrice",
-      "date": "Wed, 19 Aug 2026 13:00:00 -0500"
-    },
-    {
-      "title": "World's Largest Electric Plane Flies for 27 Minutes on $5 of Power",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Worlds-Largest-Electric-Plane-Flies-for-27-Minutes-on-5-of-Power.html",
-      "source": "OilPrice",
-      "date": "Wed, 19 Aug 2026 12:30:00 -0500"
-    },
-    {
       "title": "Copper inventories surge 50%, easing LME squeeze",
       "link": "https://www.mining.com/copper-inventories-surge-50-easing-lme-squeeze/",
       "source": "mining.com",
       "date": "Wed, 19 Aug 2026 17:00:00 +0000"
-    },
-    {
-      "title": "The Strongest El Niño on Record Lands on the Tightest Energy Market in Years",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Strongest-El-Nio-on-Record-Lands-on-the-Tightest-Energy-Market-in-Years.html",
-      "source": "OilPrice",
-      "date": "Wed, 19 Aug 2026 12:00:00 -0500"
     },
     {
       "title": "Brazil’s top court breaks Indigenous mining deadlock",
@@ -68,28 +86,10 @@
       "date": "Wed, 19 Aug 2026 16:47:47 +0000"
     },
     {
-      "title": "Saudi Aramco Gives Full September Oil Allocations to 3 European Refiners",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramco-Gives-Full-September-Oil-Allocations-to-3-European-Refiners.html",
-      "source": "OilPrice",
-      "date": "Wed, 19 Aug 2026 11:30:00 -0500"
-    },
-    {
       "title": "Community blockade keeps Endeavour’s Mexican mine shut",
       "link": "https://www.mining.com/community-blockade-keeps-endeavours-mexican-mine-shut/",
       "source": "mining.com",
       "date": "Wed, 19 Aug 2026 15:53:00 +0000"
-    },
-    {
-      "title": "Friedland’s forgotten metal wins $400M US backing",
-      "link": "https://www.mining.com/friedlands-forgotten-metal-wins-400m-us-backing/",
-      "source": "mining.com",
-      "date": "Wed, 19 Aug 2026 15:00:00 +0000"
-    },
-    {
-      "title": "Empire Metals shares jump as Pitfield titanium resource hits 8.2B tonnes",
-      "link": "https://www.mining.com/empire-metals-shares-jump-as-pitfield-titanium-resource-hits-8-2b-tonnes/",
-      "source": "mining.com",
-      "date": "Wed, 19 Aug 2026 12:58:00 +0000"
     }
   ]
 }
