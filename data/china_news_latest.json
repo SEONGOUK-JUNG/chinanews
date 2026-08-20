@@ -1,16 +1,10 @@
 {
-  "run_at_kst": "2026-08-20T18:20:40+09:00",
+  "run_at_kst": "2026-08-20T18:49:36+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
-    {
-      "title": "“중국 자동차 불안해서 타겠나”...날림 테스트 논란",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DeGNocDk5VmkxUWxNM1VNU2ExaW1wbEkxQWV5bmYxeE1mdGloTi0wZ2JYdHVLcjQtbFI5Sk5vUmhFdllqcUw5d1FiN05odXc?oc=5",
-      "source": "v.daum.net",
-      "date": "Thu, 20 Aug 2026 07:00:01 GMT"
-    },
     {
       "title": "\"AI 붐에 커촹반50, 중국 대표 주가지수로 부상\"",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kX0prQXJpQUJ2ZC1mcnlOQm9NdDFrNWtHTmxNZXh2RjhRRDNhSUJoWGI0emkxMlBuaFpyTDM5Qy1ZVHZKWS1VX0FNMHFnZkk?oc=5",
@@ -58,6 +52,12 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Bc1BLYmpzY05fSGFSeEV2VEthY1hFMHh0SHlsQkpobGZZTzh3amlmV2laRFExR09CYXJWanQ0T2lMdzRCXzlyZ2ROcF9Fa2Y4REVNbzE1U1Z2cU5ZRjJ0RENGMG91WEgtRFgzbg?oc=5",
       "source": "세상을 바꾸는 시민언론 민들레",
       "date": "Tue, 18 Aug 2026 09:20:00 GMT"
+    },
+    {
+      "title": "주룽지 前중국총리 영결식…시진핑 세차례 허리 숙여 애도(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UampnOEs2aFFXajU5Sm1id2dGQlhVbXppSTFNbFFFT25xVjlaV2NUVW00UVFOYkJ6UGdyX2R5VUtnRkxOMGhCZFdrLUtfbUR2V1ptOWYwR1I4UFXSAWBBVV95cUxNTXFZbjBpRTFvT2QyWk9hYXZYanNOQko0SmRZSm1yZFpoQmgwbnB2bU1fVjBPbWJGM3h4TU1sNm1LWTh4WXZaNEhOdFcyWmQ4bXcteGV6dHRkZjJtSmdrVVI?oc=5",
+      "source": "연합뉴스",
+      "date": "Tue, 18 Aug 2026 07:36:31 GMT"
     },
     {
       "title": "中, 자동차판매 -21%·부동산 투자 -19%…중국경제 '빨간불'",

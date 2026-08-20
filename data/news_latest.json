@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-20T18:20:40+09:00",
+  "run_at_kst": "2026-08-20T18:49:36+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Has Iranian Crude Become Irrelevant to Global Oil Supply?",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Has-Iranian-Crude-Become-Irrelevant-to-Global-Oil-Supply.html",
+      "source": "OilPrice",
+      "date": "Thu, 20 Aug 2026 04:30:00 -0500"
+    },
     {
       "title": "Middle East Oil Crisis Sends Supertanker Prices to Record Highs",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Middle-East-Oil-Crisis-Sends-Supertanker-Prices-to-Record-Highs.html",
@@ -66,12 +72,6 @@
       "link": "https://www.mining.com/gold-fields-boosts-stake-in-suriname-focused-founders-for-55m/",
       "source": "mining.com",
       "date": "Wed, 19 Aug 2026 20:37:00 +0000"
-    },
-    {
-      "title": "$100 Diesel Cracks Signal a Much Tighter Oil Market Than Brent Suggests",
-      "link": "https://oilprice.com/Energy/Energy-General/100-Diesel-Cracks-Signal-a-Much-Tighter-Oil-Market-Than-Brent-Suggests.html",
-      "source": "OilPrice",
-      "date": "Wed, 19 Aug 2026 15:00:00 -0500"
     },
     {
       "title": "Copper inventories surge 50%, easing LME squeeze",
