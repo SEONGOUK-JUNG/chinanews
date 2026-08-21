@@ -1,10 +1,28 @@
 {
-  "run_at_kst": "2026-08-21T16:26:12+09:00",
+  "run_at_kst": "2026-08-21T20:54:25+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "[올댓차이나] 中 증시, 자원주 강세에 상승 마감…창업판 1.43%↑",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qMV9pZThrVWdmX0RNbDYtRjdBRFR0TFdpX2pIdVdDS2dTZEVQQWRxVUF0ZHZIdkdNbXVOUVFyeHZYbUpscE5GWC0tck9BUVlIbDVzWnBwN2J3YmdJazVVZNIBeEFVX3lxTE14YllaT2oyN1JWLWdtM1kxYmtHV3VQZGZ1NmxjVXYtRUE0bGh5ank2c2J6TnkwNmVtUWFjak5PVXZGQVl2aXNqeXBpbTl0eWpDV0JnZG1aeTBGYjdENmZIWDVaLW5xN2wtZVI5cnh0a2RsTHoySHhxeA?oc=5",
+      "source": "뉴시스",
+      "date": "Fri, 21 Aug 2026 10:19:14 GMT"
+    },
+    {
+      "title": "트럼프, 이란 '경제 고립' 총력전···中·튀르키예까지 압박권",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4bkpnbW81ZVlsajc3NDJ4UUZWTk9ROG5ucGFycG9CT3ZJeU5MZ3VzREdGVHd0Q01CTHBTeE1tN0l4blN4X01hOFFwenBqRW1rTnlV?oc=5",
+      "source": "네이트",
+      "date": "Fri, 21 Aug 2026 10:15:00 GMT"
+    },
+    {
+      "title": "中, 내수부진 속 소비·투자 촉진 의지…상하이는 부동산 부양책(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IdFo0a1puYkhmcF9RSUlEb2g0YmNzVUFPOEdUVk1vcC1rV29fZFp5bDZVQmFVMk54bTBuVEV6VWctLW0yU1I5WGhINUtCRFhXcEk0M3p3MExHcE3SAWBBVV95cUxPUm5IekVxYjBtZ2JrZnE5TDhqR282ejUwQmNCdUZrRVpJMEowd3ptZjRUNTN1MzhUanNzTDNlMnRITG83NmxfOTFQRnQwRlludUdGS0dyOWRobjBrOWd6Wmo?oc=5",
+      "source": "연합뉴스",
+      "date": "Fri, 21 Aug 2026 08:46:55 GMT"
+    },
     {
       "title": "이란 제재…중국·튀르키예 경제 위기 촉발하나",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iOUpub3ZFX2RVbmlBa0xaTUtZdU9qSlBKM0ZZX09OemFXNVR0U1BseFdOVXphLUQ2SWk3OFZLV2M2Vlo4TmtFUTg5N3V0ZzFQZEdxZ1huU19FVkpRc0d2T01hMzBCbE1v?oc=5",
@@ -24,28 +42,10 @@
       "date": "Fri, 21 Aug 2026 03:19:31 GMT"
     },
     {
-      "title": "트럼프, 이란 무역 파트너 정조준…중국·튀르키예 등 사정권",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HYnMwR3FzazNjZndsOUl2TW1FMVdIMUFINElGRjJTbzB4SHNRZEc5Tnc1ak1ZMTRVSnVibktmNjR2XzdwSlZOa09STlljRmxOSEdR0gFYQVVfeXFMUHhhUTg0c3pCc3VhTkMzQXl1YnBNXzRMWGx2ck5Nb0JpX2xCLXJvX3VBUHZ0dUxrWHNqT0l0UGVpeHktOGFrd0gwVmF3VEw4REthQXR6S2pVWA?oc=5",
-      "source": "SBS Biz",
-      "date": "Fri, 21 Aug 2026 02:58:00 GMT"
-    },
-    {
-      "title": "트럼프, 이란 무역 파트너 정조준…중국·튀르키예 등 사정권",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LRFhSeHlZRmVsSFkzTUFLeC1vcy1aREtmZjVhQlhaTVRsVUpya1FxOGtmUVlRVnVHUmItY0YxZDZ4OEgxX2xObUNiRG9ZaXdIeVFN?oc=5",
-      "source": "네이트",
-      "date": "Fri, 21 Aug 2026 02:44:00 GMT"
-    },
-    {
       "title": "중국 반도체와 AI 자체 성장 여력 갖춰 수익산업 탈바꿈, 내수 부진에 정부 육성책 힘 더 실려",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMN2ozbmJhNGFXc1BVWGotVnluNEotVjlRT3RqRHR1TU9GcXhjdFlSTTM5YmRTeUh4MUQ5Z1RtU3ktdkVNcGpHM1BUVDJWbFVYbzZTSlBVRkdDaGt4WjgxMHpES2VJMkdGRExockhyU3ZaM28?oc=5",
       "source": "비즈니스포스트",
       "date": "Fri, 21 Aug 2026 01:56:55 GMT"
-    },
-    {
-      "title": "美, 이란 경제고립 총공세…중국에도 제재 동참 압박",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1heFFoVkZMLWN2bS1xc0xsM2s3V0VnYmdZWXlLOFVCaFVGY0JyeXJOVnRhbzk2eWx5UktjYnRxVlNGMTNkeU0wMDFQVTBTWmJuLVIwVFFCRVpBUlVkNGNNUnEzdnZQRFR1dWc?oc=5",
-      "source": "청년일보",
-      "date": "Thu, 20 Aug 2026 23:53:39 GMT"
     },
     {
       "title": "중국 경제, 어떻게 지속적으로 '새로운 방향·더 나은 방향·양호한 방향'으로 발전할 수 있을까?",
@@ -66,10 +66,10 @@
       "date": "Tue, 18 Aug 2026 08:09:07 GMT"
     },
     {
-      "title": "'시장개혁 주도' 주룽지 前중국총리 영결식…톈안먼 광장에 조기",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zd0JrUElJVjFFVktpalJKejBkR3pfeDhFLXJpUGFSWTZHLUV6bDFyNjNybE9DT1VSRHF1TlFQOHRPdGNXYjNxLWlxTU4wUTd5UnNHNncxYmJlTEXSAWBBVV95cUxQUW96UnVFZXJ4UWtQTjVxZm9ITzFtZ2tHSU1JLWhMX0g0bHlSV3FXejdKVEptZ1U1VFZaeDhndjZwQVdtc3JkQ0hNbzM3cWhndkdlN2VzdEczazBvU0VrQVI?oc=5",
-      "source": "연합뉴스",
-      "date": "Tue, 18 Aug 2026 05:23:56 GMT"
+      "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Tue, 18 Aug 2026 07:00:00 GMT"
     },
     {
       "title": "中, 자동차판매 -21%·부동산 투자 -19%…중국경제 '빨간불'",

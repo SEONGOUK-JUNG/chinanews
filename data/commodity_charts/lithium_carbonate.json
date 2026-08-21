@@ -2,8 +2,8 @@
   "id": "lithium_carbonate",
   "name": "탄산리튬",
   "unit": "CNY/t",
-  "updated_at_kst": "2026-08-20T18:21:02+09:00",
-  "count": 87,
+  "updated_at_kst": "2026-08-21T20:54:45+09:00",
+  "count": 88,
   "candles": [
     {
       "time": "2025-01-01",
@@ -352,6 +352,10 @@
     {
       "time": "2026-08-20",
       "value": 150210.0
+    },
+    {
+      "time": "2026-08-21",
+      "value": 154215.6
     }
   ],
   "history_note": "2026-06 SunSirs 일별가(최근 6일) 시드. 이후 매일 누적.",
