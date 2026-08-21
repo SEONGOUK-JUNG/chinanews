@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-21T09:42:23+09:00",
+  "run_at_kst": "2026-08-21T16:26:12+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,18 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Australia’s Beetaloo Shale Basin Is About to Start Pumping Gas",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Australias-Beetaloo-Shale-Basin-Is-About-to-Start-Pumping-Gas.html",
+      "source": "OilPrice",
+      "date": "Fri, 21 Aug 2026 01:45:00 -0500"
+    },
+    {
+      "title": "Oil Prices Head for Second Straight Weekly Gain as Iran Risks Mount",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-Second-Straight-Weekly-Gain-as-Iran-Risks-Mount.html",
+      "source": "OilPrice",
+      "date": "Fri, 21 Aug 2026 00:30:00 -0500"
+    },
     {
       "title": "Brazil’s New Oil Frontier Could Keep Its Boom Alive For Decades",
       "link": "https://oilprice.com/Energy/Energy-General/Brazils-New-Oil-Frontier-Could-Keep-Its-Boom-Alive-For-Decades.html",
@@ -62,22 +74,10 @@
       "date": "Thu, 20 Aug 2026 19:03:56 +0000"
     },
     {
-      "title": "China Is Squeezing India Out of Russia’s Oil Trade",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Is-Squeezing-India-Out-of-Russias-Oil-Trade.html",
-      "source": "OilPrice",
-      "date": "Thu, 20 Aug 2026 13:30:00 -0500"
-    },
-    {
       "title": "Government cash reshapes mining’s capital: study",
       "link": "https://www.mining.com/government-cash-reshapes-minings-capital-study/",
       "source": "mining.com",
       "date": "Thu, 20 Aug 2026 18:04:37 +0000"
-    },
-    {
-      "title": "Kazakhstan Caught in the Middle of the U.S.-China AI Rivalry",
-      "link": "https://oilprice.com/Energy/Energy-General/Kazakhstan-Caught-in-the-Middle-of-the-US-China-AI-Rivalry.html",
-      "source": "OilPrice",
-      "date": "Thu, 20 Aug 2026 13:00:00 -0500"
     },
     {
       "title": "Gold miners climb as US Treasury yields rebound",
