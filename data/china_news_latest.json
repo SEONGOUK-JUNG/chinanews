@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-08-21T01:15:41+09:00",
+  "run_at_kst": "2026-08-21T09:42:23+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "美, 이란 경제고립 총공세…중국에도 제재 동참 압박",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1heFFoVkZMLWN2bS1xc0xsM2s3V0VnYmdZWXlLOFVCaFVGY0JyeXJOVnRhbzk2eWx5UktjYnRxVlNGMTNkeU0wMDFQVTBTWmJuLVIwVFFCRVpBUlVkNGNNUnEzdnZQRFR1dWc?oc=5",
+      "source": "청년일보",
+      "date": "Thu, 20 Aug 2026 23:53:39 GMT"
+    },
     {
       "title": "제주-중국 칭다오 산업‧경제‧인재 협력 ‘물꼬’",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jNFg0bHVwX19oQm9jR3BmakRiWDlyeHpiY2lKV2Z6UXczZmdIc2VwTk5mVDBOSC1YZXUxblFnWHZGQ0ZSczdoUU1LcWIwck9LNGJGVktMZzhXeEY2UWgyc1ZXTXpMT2dyMkFwdw?oc=5",
@@ -16,12 +22,6 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kX0prQXJpQUJ2ZC1mcnlOQm9NdDFrNWtHTmxNZXh2RjhRRDNhSUJoWGI0emkxMlBuaFpyTDM5Qy1ZVHZKWS1VX0FNMHFnZkk?oc=5",
       "source": "v.daum.net",
       "date": "Thu, 20 Aug 2026 06:09:58 GMT"
-    },
-    {
-      "title": "[아시아 이슈] 탈출구는 노! 中 청년 실업률 20% 돌파 위기",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lanA1UTM4NGNDTEVSVjRmckhlM1ZlNzFQVVB3NlhnNmZHRXEtdG1HcXp0dDNiVzhfR3RxNGk2V3ljVXE0cFh0TUdiUjNtMjF4NmhzRU5HUEdYWF9ySm9FRGhJWDZXb2hVVGNxeEpB?oc=5",
-      "source": "아시아투데이",
-      "date": "Thu, 20 Aug 2026 04:31:02 GMT"
     },
     {
       "title": "中 자동차 업계 날림 테스트 논란…\"테스트 단축해 빨리 출시\"",
@@ -42,12 +42,6 @@
       "date": "Thu, 20 Aug 2026 01:42:19 GMT"
     },
     {
-      "title": "[경제인사이드] 중국 전기차 공세… ‘브랜드’ 넘어 ‘중국산’이 온다",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zTndNYUp4Xzdpc2xrcmNTNGpGRlBaQ2t2bFpoOHc0N0xFMzM0R3pfWmtubU1lckgyYm10NE90UFkxR1dfNUVBZEFnVWZjSXNRYlpwd0gzdE1Ua191VVdHakpDNFd4QjhqeFE?oc=5",
-      "source": "천지일보",
-      "date": "Wed, 19 Aug 2026 22:00:00 GMT"
-    },
-    {
       "title": "중국 경제, 어떻게 지속적으로 '새로운 방향·더 나은 방향·양호한 방향'으로 발전할 수 있을까?",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FZjJLdkdWak91d3dObFZhYVBPMzRJdE9aTjVyWG9ObVVIZDFpbEljdEJlSVpiRHJ0d0s0N0ZKTUJTS25BMkVjWnRSdnE5NlBOQk0ybGY2dk82UEFySFZ2ekxNRQ?oc=5",
       "source": "CGTN",
@@ -60,10 +54,16 @@
       "date": "Tue, 18 Aug 2026 09:20:00 GMT"
     },
     {
-      "title": "[애널리스트의 마켓뷰]돈 풀기로 경기 부양 나서는 중국",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlbmkxemlHemVwZEhyYmJwV0lidTZYay1Zb1c4bGduZzJTbXNEYm5HOG5yTW5qcENRdERIUEZydVVmU1ViSDdxREdkR0tPUHVrR01PcnVac2lsejZ4VzJPVGpoTjJwWVZpS3NLRWFLM2pSMmtUc0HSAWZBVV95cUxNX2ZQTk9Xal9PU2k1TVZZdUhJenFxa2JzME9zQ2JhWmxDcUZxejhBMU1SeGk3N3dpSG9KcmZ1R19oVHdUWkVFWllfdlpmOF9PYmVqU0c1WTRHQzZxai1XbS1zODVqWXc?oc=5",
-      "source": "동아일보",
-      "date": "Mon, 17 Aug 2026 15:30:00 GMT"
+      "title": "'시장개혁 주도' 주룽지 前중국총리 영결식…톈안먼 광장에 조기",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zd0JrUElJVjFFVktpalJKejBkR3pfeDhFLXJpUGFSWTZHLUV6bDFyNjNybE9DT1VSRHF1TlFQOHRPdGNXYjNxLWlxTU4wUTd5UnNHNncxYmJlTEXSAWBBVV95cUxQUW96UnVFZXJ4UWtQTjVxZm9ITzFtZ2tHSU1JLWhMX0g0bHlSV3FXejdKVEptZ1U1VFZaeDhndjZwQVdtc3JkQ0hNbzM3cWhndkdlN2VzdEczazBvU0VrQVI?oc=5",
+      "source": "연합뉴스",
+      "date": "Tue, 18 Aug 2026 05:23:56 GMT"
+    },
+    {
+      "title": "[中경제, 두 개의 실험실④] 대만까지 68해리…푸젠성서 본 '양안교류' 현주소",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55VjZfRkdQV25tTXYzM1htY0d0Q0JTN0FBQmtqNHZyM0xHRkoxcFdYTHFBYUJEZ1VieHBtRDZmZWkyVm5EZ1VzdUY5Y29DVDBnUkdUSWtkOVZhYnBLNlo5UTc3b0p4ZTVkczlBVHZFbk8tQQ?oc=5",
+      "source": "KB Think",
+      "date": "Tue, 18 Aug 2026 04:05:01 GMT"
     },
     {
       "title": "中, 자동차판매 -21%·부동산 투자 -19%…중국경제 '빨간불'",
@@ -72,10 +72,10 @@
       "date": "Mon, 17 Aug 2026 10:06:43 GMT"
     },
     {
-      "title": "수출은 19% 늘었는데 대출은 마이너스…엇갈린 중국 경제 신호",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Ba1Mwa3RJS0l5T1VfMkFNbVloUV9VQjJvNzV3bUJ5QlBKc0ZyZWMzUWN2RUs0Q01kRWlVMXprNE41czVEZk1Mb0JjYWJGR1dDSk9GSnVsTzRHX0JoWGcxWmJZV1BRbGp1Vlpj0gFvQVVfeXFMTlJlZzRBakttX2lWMUx0S3NjNy0yTi1JbmN0NkJGdG9sMmNVZGxkSlhuVExURGRHVEJoZDBWNDhESktXcmQ4VWItSUxmdkVMM2hMMUNCZlhuZUtYMklnZUtzMWZEMHIzTVN5MlJ5Vlgw?oc=5",
-      "source": "서울일보",
-      "date": "Mon, 17 Aug 2026 07:35:21 GMT"
+      "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Fri, 14 Aug 2026 07:00:00 GMT"
     }
   ]
 }
