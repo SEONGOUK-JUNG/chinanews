@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-08-25T03:17:59+09:00",
+  "run_at_kst": "2026-08-25T07:29:51+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "[전병서 칼럼] 기술도 정부도 시장을 이길 수 없다",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aYUxoVU85aHF6Y1RmbzAwV1BYQThXZHQ2MjFQeWlPYWVYTTJFNTMxNmVrdVZySFRJdXJWQVFVN3VjdHNick9CSk9vZFV6UTJxZ3NiZFVFUkw3d9IBWEFVX3lxTFBUYXF4NTZfQWlZVFBPZ3JzY3VEOTJvX2VmckZVT1owNTBRVV8tcXdPQWhZa3pDUmRMN0ZwejVOZFpiWG5wVUZGRDU0aDR3Tmx6NHhxMTNhRFE?oc=5",
+      "source": "아주경제",
+      "date": "Mon, 24 Aug 2026 21:00:00 GMT"
+    },
     {
       "title": "美, 이란 '경제고립' 돌입, 글로벌 제재 발표…\"중국도 예외 아냐\" - 머니투데이",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OQmV1dmpudWRnTUpOWTJuVVdIdXQ5N01DR0VMa0RyRTBrcDl0eEtTMEcySXNUQnVjbkNjVnFuNEctaDhSVUJLeWJDMlZXajV3cF9Eemw0UjhlaE9NWVN2OXVvWDJELVIx0gFuQVVfeXFMTTFoTlNmZ2FvNy1IMlY0OGl3MmNBODZDby00QzFBLUY1M3RBNFRRTF8tUVR6U3I1RmcwYUR4SnQ3UjlxOEtuNDczOXpKcVhRaWZ2REdSNU1ZbEdhNlFkeVBrM3doQ19rSFFmNVN6T0E?oc=5",
@@ -30,22 +36,22 @@
       "date": "Mon, 24 Aug 2026 07:36:43 GMT"
     },
     {
-      "title": "美의 대이란 ‘경제 고립 작전’ 임박, 궁극적 표적은 중국 에너지원 전방위 차단",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUUnRaemdDZ2JvRkd6ZHRoQkVVRXJSaE5GYjdLbkJpRUtOY2ZSNGpheDdUZDdlQzgtLWtSTVRVaVNSUDJ6U3RoV0NSRU9mVk91U0o3ZlF4VTFjOW8?oc=5",
-      "source": "The Economy Korea",
-      "date": "Mon, 24 Aug 2026 03:27:16 GMT"
-    },
-    {
-      "title": "인천의 중국 전략, ‘톈진’ 넘어 ‘허페이·우한’으로…교류 지형 바꾼다",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPeVFNQXdTckNTbV9paW16SDlSLUdiMm9wdlBRaE5sNzkzNkJMQ2xxbDU2SnJkX2NWakNOWjg4S1I2anYtV3BLaHM4WU16OWlDeVZwWFlVVzM0NXFoTXI2b3ZrbWpMbS1ZbVlxNDNNU0NSTTNnTk1ISkdKVXZDTlZDTTVjcEVXRDRUcWFwMlFXRVVLbjNzR01aSUp5VXdoWnRrZE9iTWU5U1dxcTdXdE1wNmV1QjBJR3dZQ1Y1azRRTThEdkgzWjNzNGRhNm1zekEtZlVhZUhNSHVvbGFmQzJBRTlXcDR0VjRMaFNTaVhZaXVFSEgtd2tQMDZSTGNTcHR3ZEh6c3V0RTgyMDhoQ3hjN1lpRnlBWENj?oc=5",
-      "source": "데일리안",
-      "date": "Mon, 24 Aug 2026 01:45:00 GMT"
-    },
-    {
       "title": "[이슈&경제] 팍스시니카 시대 현실화 눈앞",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMVER4bFc1MG9oWUx4Z2lrNWlzVFM3aE5Dem5pN09hOWdNQTZfNHRPYVd0MTNKYkJ5M21KSHJyMEY1ZmRMOGN5WUo2ZXRXTW9mNUt5RXZFZzhtRXc?oc=5",
       "source": "경기일보",
       "date": "Sun, 23 Aug 2026 10:02:35 GMT"
+    },
+    {
+      "title": "7월 경제 지표 부진 우려 의식했나… 中 중앙재경위, 경제 회복력·활력 강조 - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbDQza0JmQk9DajBQM2c1ZXlUNjdxbmJSYmU4bENoZlZpNUtFMk5GclBFRXFYSlhxSHBNc3NweUhOUC1ZN25sNUM5MnkyaW9qSzhDaVBOc2J1ZzRPSlZBRm9MMFptT2E2VGEzRkxWOS1kbl8tRE94eW4yejh3dDdYcDBSbnVHdGtUOWQxZmtIT0RhcERkbTdNVjFMNUJZZ9IBsgFBVV95cUxNTXA4dVRiVGVVTjAzUWJoRFNRWE5FOG5ocVdVa0dzM0dFNnlDbzBZSE1YV002bUdXSnc4UDMzcDdaMDB6NENYbmVWa3R6Z19iUGFiNHhremF1ZVNwUzhUaXRiVDE4bXU3UjcwNTlDY042ZUtsMTRSZGZaTjdFNlFHVy10MmlzQl9vXzJyM3Bid2t0RnN2WXlHeklJbzBaTWZfRWpzemNQMmxtem9URmFmbFZR?oc=5",
+      "source": "Chosunbiz",
+      "date": "Sun, 23 Aug 2026 06:48:00 GMT"
+    },
+    {
+      "title": "\"자정에도 4억명이 지갑 연다\"…밤에 꽂힌 중국, 60조 '야간경제' 후끈 [중국.zip]",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52bk5FTFFLSEZHa3FNNVpaclVJNkJZeWpuSGE2czZqdzI4dEpPMXBuend1YVJMS0hCZFpIeHhENEI1M0stTWJBODhxVEc3cG8?oc=5",
+      "source": "v.daum.net",
+      "date": "Sat, 22 Aug 2026 22:04:37 GMT"
     },
     {
       "title": "서울기독교세계관연구원 “오늘의 중국, 경제·기술·군사력과 일당체제를 함께 봐야”",
@@ -66,16 +72,10 @@
       "date": "Fri, 21 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "[열린세상] ‘기술 혁신’ 중국 경제의 역설",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVpiQTJsR21nVklIcG5XR1NxR2tBNG9iZ1JfVkVmaWNxUkprY3FteW1WNG1xeDZXNi1CellROVc0NFhPd0l6MnBUdldjWG03NnA2VkdUd1pOXzd1M2FxQU1vYkFYR0FqdUdLWkU2N1p3aEFRZ2oxRkJYTW5VaVpTcGhralgxbkk?oc=5",
-      "source": "서울신문",
-      "date": "Fri, 24 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "경제는 ‘흔들’ 기술은 ‘질주’하는 중국의 딜레마, 실체는?",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZG1sWUFDY2l6bFoyeFBUdTdzUjgwU1o0clpaZm5hSk9QU0NvUE5uQWdaelg0OFhKNXI2dXk5VnNjSVE5R3lwMkpDMFFiRzc1LW9nYnVn?oc=5",
-      "source": "중앙일보",
-      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
+      "title": "중국 반도체와 AI 기업 수익 내는 구조로 진화, 정부의 육성책에 힘 더 실려",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMN2ozbmJhNGFXc1BVWGotVnluNEotVjlRT3RqRHR1TU9GcXhjdFlSTTM5YmRTeUh4MUQ5Z1RtU3ktdkVNcGpHM1BUVDJWbFVYbzZTSlBVRkdDaGt4WjgxMHpES2VJMkdGRExockhyU3ZaM28?oc=5",
+      "source": "비즈니스포스트",
+      "date": "Fri, 21 Aug 2026 01:56:55 GMT"
     }
   ]
 }
