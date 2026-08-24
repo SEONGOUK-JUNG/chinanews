@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-24T17:33:25+09:00",
+  "run_at_kst": "2026-08-25T03:17:59+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,52 +8,64 @@
   "count": 14,
   "items": [
     {
-      "title": "Iran Unveils Huge New Gas Discovery Amid U.S. Economic Pressure",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Unveils-Huge-New-Gas-Discovery-Amid-US-Economic-Pressure.html",
+      "title": "US Accuses More Than 40 Countries of Helping China Evade Tariffs",
+      "link": "https://oilprice.com/Geopolitics/Asia/US-Accuses-More-Than-40-Countries-of-Helping-China-Evade-Tariffs.html",
       "source": "OilPrice",
-      "date": "Mon, 24 Aug 2026 03:30:00 -0500"
+      "date": "Mon, 24 Aug 2026 13:00:00 -0500"
     },
     {
-      "title": "Exxon Eyes Shell’s $8 Billion U.S. Chemicals Business",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Exxon-Eyes-Shells-8-Billion-US-Chemicals-Business.html",
-      "source": "OilPrice",
-      "date": "Mon, 24 Aug 2026 02:15:00 -0500"
+      "title": "Gold price rises, silver slips on Treasury cash-pile buyback signal",
+      "link": "https://www.mining.com/gold-price-rises-silver-slips-on-treasury-cash-pile-buyback-signal/",
+      "source": "mining.com",
+      "date": "Mon, 24 Aug 2026 17:50:42 +0000"
     },
     {
-      "title": "Hormuz Tanker Traffic Slumps as U.S. and Iran Trade Threats",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Traffic-Slumps-as-US-and-Iran-Trade-Threats.html",
+      "title": "The 60 Day Peace Window Closed, and Trump’s Iran Strategy May Shift Dramatically",
+      "link": "https://oilprice.com/Energy/Energy-General/The-60-Day-Peace-Window-Closed-and-Trumps-Iran-Strategy-May-Shift-Dramatically.html",
       "source": "OilPrice",
-      "date": "Mon, 24 Aug 2026 01:00:00 -0500"
+      "date": "Mon, 24 Aug 2026 12:00:00 -0500"
     },
     {
-      "title": "Oil Prices Slide 2% as Markets Brace for Bessent’s ‘Economic D-Day’",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Slide-2-as-Markets-Brace-for-Bessents-Economic-D-Day.html",
+      "title": "Iran-Linked Cyberattack Tests Britain’s Energy Defenses",
+      "link": "https://oilprice.com/Energy/Energy-General/Iran-Linked-Cyberattack-Tests-Britains-Energy-Defenses.html",
       "source": "OilPrice",
-      "date": "Sun, 23 Aug 2026 21:18:19 -0500"
+      "date": "Mon, 24 Aug 2026 11:00:00 -0500"
     },
     {
-      "title": "Diesel Crisis Threatens to Outlast the Middle East War",
-      "link": "https://oilprice.com/Energy/Energy-General/Diesel-Crisis-Threatens-to-Outlast-the-Middle-East-War.html",
+      "title": "Goldman Sachs: Europe Needs Much Higher Gas Prices to Secure Winter Supply",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Europe-Needs-Much-Higher-Gas-Prices-to-Secure-Winter-Supply.html",
       "source": "OilPrice",
-      "date": "Sun, 23 Aug 2026 18:00:00 -0500"
+      "date": "Mon, 24 Aug 2026 10:30:00 -0500"
     },
     {
-      "title": "Pemex and Petrobras Bet Big on High-Risk High-Reward Drilling Off Mexico",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Pemex-and-Petrobras-Bet-Big-on-High-Risk-High-Reward-Drilling-Off-Mexico.html",
+      "title": "European Leaders Gather in Kyiv as Ukraine Seeks More Air Defense",
+      "link": "https://oilprice.com/Geopolitics/Europe/European-Leaders-Gather-in-Kyiv-as-Ukraine-Seeks-More-Air-Defense.html",
       "source": "OilPrice",
-      "date": "Sun, 23 Aug 2026 16:00:00 -0500"
+      "date": "Mon, 24 Aug 2026 10:00:00 -0500"
     },
     {
-      "title": "Super El Niño Threatens Food, Water and Trade Worldwide",
-      "link": "https://oilprice.com/Energy/Energy-General/Super-El-Nio-Threatens-Food-Water-and-Trade-Worldwide.html",
-      "source": "OilPrice",
-      "date": "Sun, 23 Aug 2026 14:00:00 -0500"
+      "title": "Hydro, Statkraft sign long-term power agreement",
+      "link": "https://www.mining.com/hydro-statkraft-sign-long-term-power-agreement/",
+      "source": "mining.com",
+      "date": "Mon, 24 Aug 2026 14:53:53 +0000"
     },
     {
-      "title": "Private Equity Is Circling Utilities as AI Reshapes the Grid",
-      "link": "https://oilprice.com/Energy/Energy-General/Private-Equity-Is-Circling-Utilities-as-AI-Reshapes-the-Grid.html",
+      "title": "Russia Scrambles to Restore Fuel Supplies as Refineries Resume Operations",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Scrambles-to-Restore-Fuel-Supplies-as-Refineries-Resume-Operations.html",
       "source": "OilPrice",
-      "date": "Sun, 23 Aug 2026 13:00:00 -0500"
+      "date": "Mon, 24 Aug 2026 09:30:00 -0500"
+    },
+    {
+      "title": "Iran Blacklists 45 Tankers as Hormuz Standoff Escalates",
+      "link": "https://oilprice.com/Energy/Energy-General/Iran-Blacklists-45-Tankers-as-Hormuz-Standoff-Escalates.html",
+      "source": "OilPrice",
+      "date": "Mon, 24 Aug 2026 09:00:00 -0500"
+    },
+    {
+      "title": "Equinor and Aker BP Make New North Sea Gas Discovery",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-and-Aker-BP-Make-New-North-Sea-Gas-Discovery.html",
+      "source": "OilPrice",
+      "date": "Mon, 24 Aug 2026 08:30:00 -0500"
     },
     {
       "title": "Op-Ed: US scrap rules put processing to the test",
@@ -78,18 +90,6 @@
       "link": "https://www.mining.com/new-american-industrial-alliance-launches-ground-truth-critical-minerals-readiness-survey/",
       "source": "mining.com",
       "date": "Fri, 21 Aug 2026 20:30:35 +0000"
-    },
-    {
-      "title": "Silver price 20% August surge sends miners soaring",
-      "link": "https://www.mining.com/silver-price-20-august-surge-sends-miners-soaring/",
-      "source": "mining.com",
-      "date": "Fri, 21 Aug 2026 17:02:33 +0000"
-    },
-    {
-      "title": "Mining’s next biggest challenge is securing talent",
-      "link": "https://www.mining.com/minings-next-biggest-challenge-is-securing-talent/",
-      "source": "mining.com",
-      "date": "Fri, 21 Aug 2026 16:37:54 +0000"
     }
   ]
 }

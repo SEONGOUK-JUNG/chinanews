@@ -1,15 +1,33 @@
 {
-  "run_at_kst": "2026-08-24T17:33:25+09:00",
+  "run_at_kst": "2026-08-25T03:17:59+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "\"정책 여력 충분\" 中, 하반기 경기 반등 승부수 띄우나",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zWTR1Mmo1Yi1pbDQ5MEpNRnVvVjNFeUJYSXdkNW1SVDViZkJPMGUtSTRvb1ozRGhBNXB6T09CM054ZTVCUzlGM3hrWXRDME8yUmNv?oc=5",
-      "source": "네이트",
-      "date": "Mon, 24 Aug 2026 04:46:00 GMT"
+      "title": "美, 이란 '경제고립' 돌입, 글로벌 제재 발표…\"중국도 예외 아냐\" - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OQmV1dmpudWRnTUpOWTJuVVdIdXQ5N01DR0VMa0RyRTBrcDl0eEtTMEcySXNUQnVjbkNjVnFuNEctaDhSVUJLeWJDMlZXajV3cF9Eemw0UjhlaE9NWVN2OXVvWDJELVIx0gFuQVVfeXFMTTFoTlNmZ2FvNy1IMlY0OGl3MmNBODZDby00QzFBLUY1M3RBNFRRTF8tUVR6U3I1RmcwYUR4SnQ3UjlxOEtuNDczOXpKcVhRaWZ2REdSNU1ZbEdhNlFkeVBrM3doQ19rSFFmNVN6T0E?oc=5",
+      "source": "머니투데이",
+      "date": "Mon, 24 Aug 2026 18:00:09 GMT"
+    },
+    {
+      "title": "인천연구원 \"대중국 전략, AI·첨단산업 중심으로 재편해야\"",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MaVh1Wm9Oanc1dTE1eHJnN2poUkZCQ3JtdnZ1Z2ZObGg5d0VrT0xubHpyWnl3aWp2S0tqQU44UTVLLUNxVlYzM3FSdUVTWFBfU05OU2hVZDZNQ2JLcHZMdDIxa19Temc2TTJ3Xw?oc=5",
+      "source": "재외동포신문",
+      "date": "Mon, 24 Aug 2026 14:16:01 GMT"
+    },
+    {
+      "title": "인천연구원, 중국 거점도시 발전 분석해 인천 대중국 전략 재편 제안",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wanJTRTU4bzBiR2xIakhtak1ueVU1YjBsREZueG82X0p6S2pHN3RGSlJGTjd1cXppSjB5S3FJTHVKcV9aU2ZGd3hET1RZWVU3V25TVTJhUG9iUGVlTnEybjF1X19yR0EwcHc?oc=5",
+      "source": "경기도민일보 미디어",
+      "date": "Mon, 24 Aug 2026 08:26:07 GMT"
+    },
+    {
+      "title": "베트남-중국 경제 회랑을 따라 5개 성 및 도시의 지역 간 인프라 및 무역 연결성을 강화합니다.",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ3I3WG1fWUVaaEhuZWpPX1htYzRxb21xdWJtbTlLYnRULUp5MXYyMHdhX3NYVzNyMjU1RHcxRGkwa0dSRmk4V2hYTi1PaGM2azhDTVg1WUlQRy1IMXphb2llaW5ZM2JvMVZvU0lyWmVOSF83T18zd2dDTGRSbkpkNW96SGYza3JTUm9YcW5jbi02VG4yeXZmVVRxMWNBV01PbEV4UFhzcjAxaDBXUlZpamI0S1VobDd1bFZBX1ZtUUl3dHhS?oc=5",
+      "source": "Vietnam.vn",
+      "date": "Mon, 24 Aug 2026 07:36:43 GMT"
     },
     {
       "title": "美의 대이란 ‘경제 고립 작전’ 임박, 궁극적 표적은 중국 에너지원 전방위 차단",
@@ -42,34 +60,16 @@
       "date": "Fri, 21 Aug 2026 08:36:46 GMT"
     },
     {
-      "title": "중국 반도체와 AI 기업 수익 내는 구조로 진화, 정부의 육성책에 힘 더 실려",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMN2ozbmJhNGFXc1BVWGotVnluNEotVjlRT3RqRHR1TU9GcXhjdFlSTTM5YmRTeUh4MUQ5Z1RtU3ktdkVNcGpHM1BUVDJWbFVYbzZTSlBVRkdDaGt4WjgxMHpES2VJMkdGRExockhyU3ZaM28?oc=5",
-      "source": "비즈니스포스트",
-      "date": "Fri, 21 Aug 2026 01:56:55 GMT"
-    },
-    {
-      "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
+      "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
       "source": ":: 위즈경제 ::",
-      "date": "Thu, 20 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "중국 경제개혁 이끈 주룽지 영결식…시진핑 등 마지막 길 배웅",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRX1ZCMW9Lcm5ITE9jb0J5X0MwRU5NYXE0dFdpaVcxNUFHNWVXTW9JOXlIUUhxQ1c4VEVpMlZqNWI5eGxoc2U4OGsxc3REbFE?oc=5",
-      "source": "v.daum.net",
-      "date": "Tue, 18 Aug 2026 08:09:07 GMT"
+      "date": "Fri, 21 Aug 2026 07:00:00 GMT"
     },
     {
       "title": "[열린세상] ‘기술 혁신’ 중국 경제의 역설",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVpiQTJsR21nVklIcG5XR1NxR2tBNG9iZ1JfVkVmaWNxUkprY3FteW1WNG1xeDZXNi1CellROVc0NFhPd0l6MnBUdldjWG03NnA2VkdUd1pOXzd1M2FxQU1vYkFYR0FqdUdLWkU2N1p3aEFRZ2oxRkJYTW5VaVpTcGhralgxbkk?oc=5",
       "source": "서울신문",
       "date": "Fri, 24 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52UVRRTTIyQW5udGJFTjhSbEhmTHc4Q2QyTHdTd1BWNzE5b0p0U0hWZk5LbmNjdUY5ZWh2MlBZaEczSnd3RVZGSlRfLXlrdU9HYTlfdmthLW01dTVn0gFiQVVfeXFMUDU0UmVDOFl4VUpZYzlneGtDWHJCX3luT1pfdFhKaGZENGxvWTRjRTZYNTltalJDYXVBUG9IV3I2Qy1IMGljUEdDV0k3d3JQbmVXV05QUzNZSWl5QkJPQk1jV0E?oc=5",
-      "source": "BBC",
-      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
     },
     {
       "title": "경제는 ‘흔들’ 기술은 ‘질주’하는 중국의 딜레마, 실체는?",
