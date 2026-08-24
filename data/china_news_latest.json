@@ -1,21 +1,21 @@
 {
-  "run_at_kst": "2026-08-24T16:51:26+09:00",
+  "run_at_kst": "2026-08-24T17:33:25+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "中 전인대 상무위 회의 25일 개막…경제운용·정부부채 보고 심의",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53b1ZsZVJwMXdBa3BsYTZfVnJyM0N1MHlwaVd4ZXJKdjVLTEZnOWxWNFgzb2NVTy1Dc2k2OWhjZ251N0VZNFAxVWF3RG1pS1U5TUlZ?oc=5",
+      "title": "\"정책 여력 충분\" 中, 하반기 경기 반등 승부수 띄우나",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zWTR1Mmo1Yi1pbDQ5MEpNRnVvVjNFeUJYSXdkNW1SVDViZkJPMGUtSTRvb1ozRGhBNXB6T09CM054ZTVCUzlGM3hrWXRDME8yUmNv?oc=5",
       "source": "네이트",
-      "date": "Mon, 24 Aug 2026 06:27:00 GMT"
+      "date": "Mon, 24 Aug 2026 04:46:00 GMT"
     },
     {
-      "title": "“정책 여력 충분” 中, 하반기 경기 반등 승부수 띄우나 - 조선비즈",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMDhrYk9LX1RiY2ZFb1BESWtlOGpHb2h2Uk5fVTdmUWRfTjlfT1VYdlBDbmtuN3Vad1JxV0RaTjQ3bzY0SlhQU1hsbEY0aE5lUHhKbDJnQXRfTUF0UFdGT3Fhb1k4V0FQMlMxcTJBSlBWbUg5Nl9xOFRuTzNuUW9YLTU0V3RpTXdMZGJuLUtSSzkzSF9hT0hqc2xZNVlLUdIBsgFBVV95cUxPQzZSNk5IRzJMTFRJaDBFSE9aVk5fY3lzTEVrYmx2X0pDaUhXUGxPOW9SV20wcENxOXBHWmxxc3RSdVJFdEk2ZWtLN3pNdTNya0VfMUQzdHBaekdKS0VqN01LcmVqd1NfVVVYX2xVN3pzT2tHa0M3cjkwbmwzOE0yVVBFRTJpMGVXWjl5amFtRXJvQ0RBVGY1SC1HZzZTVnpEZmtPMV95dWpURlRMSkdrek1R?oc=5",
-      "source": "Chosunbiz",
-      "date": "Mon, 24 Aug 2026 04:45:00 GMT"
+      "title": "美의 대이란 ‘경제 고립 작전’ 임박, 궁극적 표적은 중국 에너지원 전방위 차단",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUUnRaemdDZ2JvRkd6ZHRoQkVVRXJSaE5GYjdLbkJpRUtOY2ZSNGpheDdUZDdlQzgtLWtSTVRVaVNSUDJ6U3RoV0NSRU9mVk91U0o3ZlF4VTFjOW8?oc=5",
+      "source": "The Economy Korea",
+      "date": "Mon, 24 Aug 2026 03:27:16 GMT"
     },
     {
       "title": "인천의 중국 전략, ‘톈진’ 넘어 ‘허페이·우한’으로…교류 지형 바꾼다",
@@ -30,12 +30,6 @@
       "date": "Sun, 23 Aug 2026 10:02:35 GMT"
     },
     {
-      "title": "\"자정에도 4억명이 지갑 연다\"…밤에 꽂힌 중국, 60조 '야간경제' 후끈 [중국.zip]",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VdEswS0QtWkE1SDRLNVRMOEJSWFhhWVhXT0pvMnlNbS1NeG5pcFIxSEhxSm1BMy15VjRkaHA5YWQ3QnN4MXladGVPQVJTSFhzZGhPUDIwUjlSUk9LVDRreQ?oc=5",
-      "source": "아시아경제",
-      "date": "Sat, 22 Aug 2026 22:03:00 GMT"
-    },
-    {
       "title": "서울기독교세계관연구원 “오늘의 중국, 경제·기술·군사력과 일당체제를 함께 봐야”",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BYmxxTnFtQ08wbnhSbmN4bWxNVl82Qy0xTjR6UUxhWGxwZUdaQy1ULW9qc1ltZ2VpclphYmZubllKU3JKdUg0b3hTRzVnb2RlMTZaOXJ2cXZNN0hUcXdqM0lUNk5SV2hnYjNz?oc=5",
       "source": "한국교회장로닷컴",
@@ -46,12 +40,6 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wNTB5TVV3dlIzYTBsSkFTcHJydTNrbFpJTFBZNFU2R0xlVDAwOXNsTVdZREw1THd1VWU2YTZiMWo2ckQ4T1c5ZlBLMTMxRTJrYTF4SHdXTjRWdmfSAWBBVV95cUxNSnRXT2d1LVZHaV9QREx6NVpYWmxzT29adjlfSGVxdTV3ajlJZDZzOS1USUl6am9ya0VhMnlxNVAybHd2V1JBMThYbVMzcDBFaXh3UEFmZnA2RVEtTS1uMzA?oc=5",
       "source": "연합뉴스",
       "date": "Fri, 21 Aug 2026 08:36:46 GMT"
-    },
-    {
-      "title": "[이슈앤피플] 중국 'AI 굴기' 속 본토 상장 의미는?",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5MG1hY3BnMkhxMUdrMVB6RURhTFg5bDZDc1NuVXlzd2VMTDd0S18yckhPSXlvNGN2MnpLYzdfU1Q1cWY2S2dHWkFleGVqQ2lJcGc?oc=5",
-      "source": "매일경제 마켓",
-      "date": "Fri, 21 Aug 2026 03:23:32 GMT"
     },
     {
       "title": "중국 반도체와 AI 기업 수익 내는 구조로 진화, 정부의 육성책에 힘 더 실려",
@@ -66,16 +54,28 @@
       "date": "Thu, 20 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "중국 경제, 어떻게 지속적으로 '새로운 방향·더 나은 방향·양호한 방향'으로 발전할 수 있을까?",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FZjJLdkdWak91d3dObFZhYVBPMzRJdE9aTjVyWG9ObVVIZDFpbEljdEJlSVpiRHJ0d0s0N0ZKTUJTS25BMkVjWnRSdnE5NlBOQk0ybGY2dk82UEFySFZ2ekxNRQ?oc=5",
-      "source": "CGTN",
-      "date": "Tue, 18 Aug 2026 10:56:17 GMT"
-    },
-    {
       "title": "중국 경제개혁 이끈 주룽지 영결식…시진핑 등 마지막 길 배웅",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRX1ZCMW9Lcm5ITE9jb0J5X0MwRU5NYXE0dFdpaVcxNUFHNWVXTW9JOXlIUUhxQ1c4VEVpMlZqNWI5eGxoc2U4OGsxc3REbFE?oc=5",
       "source": "v.daum.net",
       "date": "Tue, 18 Aug 2026 08:09:07 GMT"
+    },
+    {
+      "title": "[열린세상] ‘기술 혁신’ 중국 경제의 역설",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVpiQTJsR21nVklIcG5XR1NxR2tBNG9iZ1JfVkVmaWNxUkprY3FteW1WNG1xeDZXNi1CellROVc0NFhPd0l6MnBUdldjWG03NnA2VkdUd1pOXzd1M2FxQU1vYkFYR0FqdUdLWkU2N1p3aEFRZ2oxRkJYTW5VaVpTcGhralgxbkk?oc=5",
+      "source": "서울신문",
+      "date": "Fri, 24 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52UVRRTTIyQW5udGJFTjhSbEhmTHc4Q2QyTHdTd1BWNzE5b0p0U0hWZk5LbmNjdUY5ZWh2MlBZaEczSnd3RVZGSlRfLXlrdU9HYTlfdmthLW01dTVn0gFiQVVfeXFMUDU0UmVDOFl4VUpZYzlneGtDWHJCX3luT1pfdFhKaGZENGxvWTRjRTZYNTltalJDYXVBUG9IV3I2Qy1IMGljUEdDV0k3d3JQbmVXV05QUzNZSWl5QkJPQk1jV0E?oc=5",
+      "source": "BBC",
+      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "경제는 ‘흔들’ 기술은 ‘질주’하는 중국의 딜레마, 실체는?",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZG1sWUFDY2l6bFoyeFBUdTdzUjgwU1o0clpaZm5hSk9QU0NvUE5uQWdaelg0OFhKNXI2dXk5VnNjSVE5R3lwMkpDMFFiRzc1LW9nYnVn?oc=5",
+      "source": "중앙일보",
+      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
     }
   ]
 }

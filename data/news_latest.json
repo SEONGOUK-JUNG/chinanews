@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-24T16:51:26+09:00",
+  "run_at_kst": "2026-08-24T17:33:25+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Iran Unveils Huge New Gas Discovery Amid U.S. Economic Pressure",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Unveils-Huge-New-Gas-Discovery-Amid-US-Economic-Pressure.html",
+      "source": "OilPrice",
+      "date": "Mon, 24 Aug 2026 03:30:00 -0500"
+    },
     {
       "title": "Exxon Eyes Shell’s $8 Billion U.S. Chemicals Business",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Exxon-Eyes-Shells-8-Billion-US-Chemicals-Business.html",
@@ -54,12 +60,6 @@
       "link": "https://www.mining.com/op-ed-us-scrap-rules-put-processing-to-the-test/",
       "source": "mining.com",
       "date": "Sun, 23 Aug 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Europe Dodges a Rhine Crisis for the Worst Possible Reason",
-      "link": "https://oilprice.com/Energy/Energy-General/Europe-Dodges-a-Rhine-Crisis-for-the-Worst-Possible-Reason.html",
-      "source": "OilPrice",
-      "date": "Sat, 22 Aug 2026 18:00:00 -0500"
     },
     {
       "title": "Central Nevada Gold on mine hunt: CEO",
