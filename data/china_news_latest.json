@@ -1,33 +1,51 @@
 {
-  "run_at_kst": "2026-08-21T20:54:25+09:00",
+  "run_at_kst": "2026-08-24T16:51:26+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "[올댓차이나] 中 증시, 자원주 강세에 상승 마감…창업판 1.43%↑",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qMV9pZThrVWdmX0RNbDYtRjdBRFR0TFdpX2pIdVdDS2dTZEVQQWRxVUF0ZHZIdkdNbXVOUVFyeHZYbUpscE5GWC0tck9BUVlIbDVzWnBwN2J3YmdJazVVZNIBeEFVX3lxTE14YllaT2oyN1JWLWdtM1kxYmtHV3VQZGZ1NmxjVXYtRUE0bGh5ank2c2J6TnkwNmVtUWFjak5PVXZGQVl2aXNqeXBpbTl0eWpDV0JnZG1aeTBGYjdENmZIWDVaLW5xN2wtZVI5cnh0a2RsTHoySHhxeA?oc=5",
-      "source": "뉴시스",
-      "date": "Fri, 21 Aug 2026 10:19:14 GMT"
-    },
-    {
-      "title": "트럼프, 이란 '경제 고립' 총력전···中·튀르키예까지 압박권",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4bkpnbW81ZVlsajc3NDJ4UUZWTk9ROG5ucGFycG9CT3ZJeU5MZ3VzREdGVHd0Q01CTHBTeE1tN0l4blN4X01hOFFwenBqRW1rTnlV?oc=5",
+      "title": "中 전인대 상무위 회의 25일 개막…경제운용·정부부채 보고 심의",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53b1ZsZVJwMXdBa3BsYTZfVnJyM0N1MHlwaVd4ZXJKdjVLTEZnOWxWNFgzb2NVTy1Dc2k2OWhjZ251N0VZNFAxVWF3RG1pS1U5TUlZ?oc=5",
       "source": "네이트",
-      "date": "Fri, 21 Aug 2026 10:15:00 GMT"
+      "date": "Mon, 24 Aug 2026 06:27:00 GMT"
     },
     {
-      "title": "中, 내수부진 속 소비·투자 촉진 의지…상하이는 부동산 부양책(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IdFo0a1puYkhmcF9RSUlEb2g0YmNzVUFPOEdUVk1vcC1rV29fZFp5bDZVQmFVMk54bTBuVEV6VWctLW0yU1I5WGhINUtCRFhXcEk0M3p3MExHcE3SAWBBVV95cUxPUm5IekVxYjBtZ2JrZnE5TDhqR282ejUwQmNCdUZrRVpJMEowd3ptZjRUNTN1MzhUanNzTDNlMnRITG83NmxfOTFQRnQwRlludUdGS0dyOWRobjBrOWd6Wmo?oc=5",
+      "title": "“정책 여력 충분” 中, 하반기 경기 반등 승부수 띄우나 - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMDhrYk9LX1RiY2ZFb1BESWtlOGpHb2h2Uk5fVTdmUWRfTjlfT1VYdlBDbmtuN3Vad1JxV0RaTjQ3bzY0SlhQU1hsbEY0aE5lUHhKbDJnQXRfTUF0UFdGT3Fhb1k4V0FQMlMxcTJBSlBWbUg5Nl9xOFRuTzNuUW9YLTU0V3RpTXdMZGJuLUtSSzkzSF9hT0hqc2xZNVlLUdIBsgFBVV95cUxPQzZSNk5IRzJMTFRJaDBFSE9aVk5fY3lzTEVrYmx2X0pDaUhXUGxPOW9SV20wcENxOXBHWmxxc3RSdVJFdEk2ZWtLN3pNdTNya0VfMUQzdHBaekdKS0VqN01LcmVqd1NfVVVYX2xVN3pzT2tHa0M3cjkwbmwzOE0yVVBFRTJpMGVXWjl5amFtRXJvQ0RBVGY1SC1HZzZTVnpEZmtPMV95dWpURlRMSkdrek1R?oc=5",
+      "source": "Chosunbiz",
+      "date": "Mon, 24 Aug 2026 04:45:00 GMT"
+    },
+    {
+      "title": "인천의 중국 전략, ‘톈진’ 넘어 ‘허페이·우한’으로…교류 지형 바꾼다",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPeVFNQXdTckNTbV9paW16SDlSLUdiMm9wdlBRaE5sNzkzNkJMQ2xxbDU2SnJkX2NWakNOWjg4S1I2anYtV3BLaHM4WU16OWlDeVZwWFlVVzM0NXFoTXI2b3ZrbWpMbS1ZbVlxNDNNU0NSTTNnTk1ISkdKVXZDTlZDTTVjcEVXRDRUcWFwMlFXRVVLbjNzR01aSUp5VXdoWnRrZE9iTWU5U1dxcTdXdE1wNmV1QjBJR3dZQ1Y1azRRTThEdkgzWjNzNGRhNm1zekEtZlVhZUhNSHVvbGFmQzJBRTlXcDR0VjRMaFNTaVhZaXVFSEgtd2tQMDZSTGNTcHR3ZEh6c3V0RTgyMDhoQ3hjN1lpRnlBWENj?oc=5",
+      "source": "데일리안",
+      "date": "Mon, 24 Aug 2026 01:45:00 GMT"
+    },
+    {
+      "title": "[이슈&경제] 팍스시니카 시대 현실화 눈앞",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMVER4bFc1MG9oWUx4Z2lrNWlzVFM3aE5Dem5pN09hOWdNQTZfNHRPYVd0MTNKYkJ5M21KSHJyMEY1ZmRMOGN5WUo2ZXRXTW9mNUt5RXZFZzhtRXc?oc=5",
+      "source": "경기일보",
+      "date": "Sun, 23 Aug 2026 10:02:35 GMT"
+    },
+    {
+      "title": "\"자정에도 4억명이 지갑 연다\"…밤에 꽂힌 중국, 60조 '야간경제' 후끈 [중국.zip]",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VdEswS0QtWkE1SDRLNVRMOEJSWFhhWVhXT0pvMnlNbS1NeG5pcFIxSEhxSm1BMy15VjRkaHA5YWQ3QnN4MXladGVPQVJTSFhzZGhPUDIwUjlSUk9LVDRreQ?oc=5",
+      "source": "아시아경제",
+      "date": "Sat, 22 Aug 2026 22:03:00 GMT"
+    },
+    {
+      "title": "서울기독교세계관연구원 “오늘의 중국, 경제·기술·군사력과 일당체제를 함께 봐야”",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BYmxxTnFtQ08wbnhSbmN4bWxNVl82Qy0xTjR6UUxhWGxwZUdaQy1ULW9qc1ltZ2VpclphYmZubllKU3JKdUg0b3hTRzVnb2RlMTZaOXJ2cXZNN0hUcXdqM0lUNk5SV2hnYjNz?oc=5",
+      "source": "한국교회장로닷컴",
+      "date": "Sat, 22 Aug 2026 11:39:56 GMT"
+    },
+    {
+      "title": "中법원, 헝다부동산 파산 신청 수리…'경제 뇌관' 수습 속도",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wNTB5TVV3dlIzYTBsSkFTcHJydTNrbFpJTFBZNFU2R0xlVDAwOXNsTVdZREw1THd1VWU2YTZiMWo2ckQ4T1c5ZlBLMTMxRTJrYTF4SHdXTjRWdmfSAWBBVV95cUxNSnRXT2d1LVZHaV9QREx6NVpYWmxzT29adjlfSGVxdTV3ajlJZDZzOS1USUl6am9ya0VhMnlxNVAybHd2V1JBMThYbVMzcDBFaXh3UEFmZnA2RVEtTS1uMzA?oc=5",
       "source": "연합뉴스",
-      "date": "Fri, 21 Aug 2026 08:46:55 GMT"
-    },
-    {
-      "title": "이란 제재…중국·튀르키예 경제 위기 촉발하나",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iOUpub3ZFX2RVbmlBa0xaTUtZdU9qSlBKM0ZZX09OemFXNVR0U1BseFdOVXphLUQ2SWk3OFZLV2M2Vlo4TmtFUTg5N3V0ZzFQZEdxZ1huU19FVkpRc0d2T01hMzBCbE1v?oc=5",
-      "source": "공감신문",
-      "date": "Fri, 21 Aug 2026 06:45:14 GMT"
+      "date": "Fri, 21 Aug 2026 08:36:46 GMT"
     },
     {
       "title": "[이슈앤피플] 중국 'AI 굴기' 속 본토 상장 의미는?",
@@ -36,16 +54,16 @@
       "date": "Fri, 21 Aug 2026 03:23:32 GMT"
     },
     {
-      "title": "“우리 편 아니면 적”…이란 못 꺾은 트럼프, 중국과 ‘경제전쟁’ 벌이나 [이슈+]",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyUks0MVBHTEZ6U29MaUtCdHczLU5WZEZoelQzanBtZ2VKbGFsMmdyMk5EeUFHak5tQms0ZE1YVTc0NHFCR1Y0S3FLRDNzeExVN2MxV2JtWXpHUGNibUh6TXMxZw?oc=5",
-      "source": "에너지경제신문",
-      "date": "Fri, 21 Aug 2026 03:19:31 GMT"
-    },
-    {
-      "title": "중국 반도체와 AI 자체 성장 여력 갖춰 수익산업 탈바꿈, 내수 부진에 정부 육성책 힘 더 실려",
+      "title": "중국 반도체와 AI 기업 수익 내는 구조로 진화, 정부의 육성책에 힘 더 실려",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMN2ozbmJhNGFXc1BVWGotVnluNEotVjlRT3RqRHR1TU9GcXhjdFlSTTM5YmRTeUh4MUQ5Z1RtU3ktdkVNcGpHM1BUVDJWbFVYbzZTSlBVRkdDaGt4WjgxMHpES2VJMkdGRExockhyU3ZaM28?oc=5",
       "source": "비즈니스포스트",
       "date": "Fri, 21 Aug 2026 01:56:55 GMT"
+    },
+    {
+      "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Thu, 20 Aug 2026 07:00:00 GMT"
     },
     {
       "title": "중국 경제, 어떻게 지속적으로 '새로운 방향·더 나은 방향·양호한 방향'으로 발전할 수 있을까?",
@@ -54,28 +72,10 @@
       "date": "Tue, 18 Aug 2026 10:56:17 GMT"
     },
     {
-      "title": "중국발 '과잉생산·수출' 임계점…경제 위기 막으려면",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Bc1BLYmpzY05fSGFSeEV2VEthY1hFMHh0SHlsQkpobGZZTzh3amlmV2laRFExR09CYXJWanQ0T2lMdzRCXzlyZ2ROcF9Fa2Y4REVNbzE1U1Z2cU5ZRjJ0RENGMG91WEgtRFgzbg?oc=5",
-      "source": "세상을 바꾸는 시민언론 민들레",
-      "date": "Tue, 18 Aug 2026 09:20:00 GMT"
-    },
-    {
       "title": "중국 경제개혁 이끈 주룽지 영결식…시진핑 등 마지막 길 배웅",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRX1ZCMW9Lcm5ITE9jb0J5X0MwRU5NYXE0dFdpaVcxNUFHNWVXTW9JOXlIUUhxQ1c4VEVpMlZqNWI5eGxoc2U4OGsxc3REbFE?oc=5",
       "source": "v.daum.net",
       "date": "Tue, 18 Aug 2026 08:09:07 GMT"
-    },
-    {
-      "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Tue, 18 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "中, 자동차판매 -21%·부동산 투자 -19%…중국경제 '빨간불'",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iNTRtZUhiM3RVU2ZWWmZwNHk1RVBZME9uMnplbV91c3BMSjFlNm5WQUFqYjJ6cFpxMDVLOGc1VWhTdDJfSk1OY3VfVzNKRmp2aWc3XzZ3ZXJYQQ?oc=5",
-      "source": "한국경제",
-      "date": "Mon, 17 Aug 2026 10:06:43 GMT"
     }
   ]
 }
