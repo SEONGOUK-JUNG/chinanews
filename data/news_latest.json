@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-25T19:51:48+09:00",
+  "run_at_kst": "2026-08-25T20:54:21+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Malacca States Vow to Keep Asia’s Busiest Shipping Route Open",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Malacca-States-Vow-to-Keep-Asias-Busiest-Shipping-Route-Open.html",
+      "source": "OilPrice",
+      "date": "Tue, 25 Aug 2026 06:00:00 -0500"
+    },
     {
       "title": "India’s Crude Import Bill Surges as Hormuz Shipping Rates Soar",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Crude-Import-Bill-Surges-as-Hormuz-Shipping-Rates-Soar.html",
@@ -60,12 +66,6 @@
       "link": "https://www.mining.com/agnico-buys-quebec-gold-junior-stake-for-41m/",
       "source": "mining.com",
       "date": "Mon, 24 Aug 2026 21:15:00 +0000"
-    },
-    {
-      "title": "Europe’s Biogas Plants Could Become Fertilizer Factories",
-      "link": "https://oilprice.com/Alternative-Energy/Biofuels/Europes-Biogas-Plants-Could-Become-Fertilizer-Factories.html",
-      "source": "OilPrice",
-      "date": "Mon, 24 Aug 2026 16:00:00 -0500"
     },
     {
       "title": "Top of Mine: Costa sees mining as the cheapest way to invest in AI",
