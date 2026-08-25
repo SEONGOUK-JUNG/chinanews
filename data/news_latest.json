@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-25T07:29:51+09:00",
+  "run_at_kst": "2026-08-25T19:51:48+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,48 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "India’s Crude Import Bill Surges as Hormuz Shipping Rates Soar",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Crude-Import-Bill-Surges-as-Hormuz-Shipping-Rates-Soar.html",
+      "source": "OilPrice",
+      "date": "Tue, 25 Aug 2026 04:45:00 -0500"
+    },
+    {
+      "title": "Japan Holds Off on New Oil Reserve Release Despite September Import Drop",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Holds-Off-on-New-Oil-Reserve-Release-Despite-September-Import-Drop.html",
+      "source": "OilPrice",
+      "date": "Tue, 25 Aug 2026 03:30:00 -0500"
+    },
+    {
+      "title": "JPMorgan and Santander Lead $15 Billion Financing Push for Argentina LNG",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/JPMorgan-and-Santander-Lead-15-Billion-Financing-Push-for-Argentina-LNG.html",
+      "source": "OilPrice",
+      "date": "Tue, 25 Aug 2026 02:30:00 -0500"
+    },
+    {
+      "title": "Iran Threatens Retaliation as U.S. Widens Sanctions",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Threatens-Retaliation-as-US-Widens-Sanctions.html",
+      "source": "OilPrice",
+      "date": "Tue, 25 Aug 2026 01:00:00 -0500"
+    },
+    {
+      "title": "The Biggest Victims Of Trump’s Economic D-Day On Iran",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Biggest-Victims-Of-Trumps-Economic-D-Day-On-Iran.html",
+      "source": "OilPrice",
+      "date": "Mon, 24 Aug 2026 19:00:00 -0500"
+    },
+    {
+      "title": "South32 boosts Sierra Gorda ore reserve estimate by 61%",
+      "link": "https://www.mining.com/south32-boosts-sierra-gorda-ore-reserve-estimate-by-61/",
+      "source": "mining.com",
+      "date": "Mon, 24 Aug 2026 23:28:42 +0000"
+    },
+    {
+      "title": "Venezuela’s Oil Revival Is Slower Than the U.S. Hoped",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Revival-Is-Slower-Than-the-US-Hoped.html",
+      "source": "OilPrice",
+      "date": "Mon, 24 Aug 2026 18:00:00 -0500"
+    },
     {
       "title": "U.S. Leaves Europe Behind in Critical Minerals Race",
       "link": "https://oilprice.com/Energy/Energy-General/US-Leaves-Europe-Behind-in-Critical-Minerals-Race.html",
@@ -32,40 +74,10 @@
       "date": "Mon, 24 Aug 2026 20:04:04 +0000"
     },
     {
-      "title": "Houthis Target Saudi Oil Tanker in Red Sea Missile and Drone Attack",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/Houthis-Target-Saudi-Oil-Tanker-in-Red-Sea-Missile-and-Drone-Attack.html",
-      "source": "OilPrice",
-      "date": "Mon, 24 Aug 2026 15:00:00 -0500"
-    },
-    {
-      "title": "Treasury Expands Iran Sanctions Without Targeting Major Chinese Banks",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Treasury-Expands-Iran-Sanctions-Without-Targeting-Major-Chinese-Banks.html",
-      "source": "OilPrice",
-      "date": "Mon, 24 Aug 2026 14:13:50 -0500"
-    },
-    {
-      "title": "Norway Warns Oil and Gas Output Could Collapse After 2030",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Norway-Warns-Oil-and-Gas-Output-Could-Collapse-After-2030.html",
-      "source": "OilPrice",
-      "date": "Mon, 24 Aug 2026 14:00:00 -0500"
-    },
-    {
-      "title": "TotalEnergies Backs Two Major Oil Pipelines to Bypass Hormuz",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-Backs-Two-Major-Oil-Pipelines-to-Bypass-Hormuz.html",
-      "source": "OilPrice",
-      "date": "Mon, 24 Aug 2026 13:27:00 -0500"
-    },
-    {
       "title": "Ontario ready to cut off electricity, critical minerals to US amid trade war",
       "link": "https://www.mining.com/ontario-ready-to-cut-off-electricity-critical-minerals-to-us-amid-trade-war/",
       "source": "mining.com",
       "date": "Mon, 24 Aug 2026 18:11:06 +0000"
-    },
-    {
-      "title": "US Accuses More Than 40 Countries of Helping China Evade Tariffs",
-      "link": "https://oilprice.com/Geopolitics/Asia/US-Accuses-More-Than-40-Countries-of-Helping-China-Evade-Tariffs.html",
-      "source": "OilPrice",
-      "date": "Mon, 24 Aug 2026 13:00:00 -0500"
     },
     {
       "title": "Gold price rises, silver slips on Treasury cash-pile buyback signal",
@@ -74,22 +86,10 @@
       "date": "Mon, 24 Aug 2026 17:50:42 +0000"
     },
     {
-      "title": "The 60 Day Peace Window Closed, and Trump’s Iran Strategy May Shift Dramatically",
-      "link": "https://oilprice.com/Energy/Energy-General/The-60-Day-Peace-Window-Closed-and-Trumps-Iran-Strategy-May-Shift-Dramatically.html",
-      "source": "OilPrice",
-      "date": "Mon, 24 Aug 2026 12:00:00 -0500"
-    },
-    {
       "title": "Hydro, Statkraft sign long-term power agreement",
       "link": "https://www.mining.com/hydro-statkraft-sign-long-term-power-agreement/",
       "source": "mining.com",
       "date": "Mon, 24 Aug 2026 14:53:53 +0000"
-    },
-    {
-      "title": "US preps $1.1B loan for Ivanhoe’s Santa Cruz copper project",
-      "link": "https://www.mining.com/us-preps-1-1b-loan-for-ivanhoes-santa-cruz-copper-project/",
-      "source": "mining.com",
-      "date": "Mon, 24 Aug 2026 14:37:04 +0000"
     }
   ]
 }
