@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-25T20:54:21+09:00",
+  "run_at_kst": "2026-08-25T21:49:34+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Equinor Eyes Major Oil Discovery Offshore Namibia",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-Eyes-Major-Oil-Discovery-Offshore-Namibia.html",
+      "source": "OilPrice",
+      "date": "Tue, 25 Aug 2026 07:15:00 -0500"
+    },
     {
       "title": "Malacca States Vow to Keep Asia’s Busiest Shipping Route Open",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Malacca-States-Vow-to-Keep-Asias-Busiest-Shipping-Route-Open.html",
@@ -54,12 +60,6 @@
       "link": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Revival-Is-Slower-Than-the-US-Hoped.html",
       "source": "OilPrice",
       "date": "Mon, 24 Aug 2026 18:00:00 -0500"
-    },
-    {
-      "title": "U.S. Leaves Europe Behind in Critical Minerals Race",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Leaves-Europe-Behind-in-Critical-Minerals-Race.html",
-      "source": "OilPrice",
-      "date": "Mon, 24 Aug 2026 17:00:00 -0500"
     },
     {
       "title": "Agnico buys Quebec gold junior stake for $41M",
