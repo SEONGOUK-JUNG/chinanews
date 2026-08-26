@@ -1,21 +1,27 @@
 {
-  "run_at_kst": "2026-08-25T19:51:48+09:00",
+  "run_at_kst": "2026-08-26T11:51:47+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "[새론새평-곽수종] 버려진 질서: 조각난 세계에서 살아남는 법",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DLVppRFhmOGQ1X1BNV0hIV2lwelZwUmxNOGVPYjJnWmt3WW5hQ1Q5X1VEZ1dsNGdaOHg5eThKd0pNT2luSk54N1V0ZlRtNlU0ZTBxblJQYXZBMVltTE5PS1Fn?oc=5",
+      "source": "매일신문",
+      "date": "Tue, 25 Aug 2026 23:30:00 GMT"
+    },
+    {
+      "title": "중국의 반내권…더 무서운 중국이 온다 [더 머니이스트-조평규의 중국 본색]",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzdEpxdm1iem50OTBSZ2FQb2stWTVldnNYdzF5ZUYyZW5oa1NldTFqMm5RRjRyd21SQ2RKbFZQRDFuR3QzbmdrQmZ0YWItNkFvbVp3?oc=5",
+      "source": "네이트",
+      "date": "Tue, 25 Aug 2026 21:31:00 GMT"
+    },
+    {
       "title": "[경제+] \"중국 기업이 준 건 일자리 그 이상\"...키르기스스탄서 확대되는 中 장비 협력",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84MDgzM2dydzloVkV2Nlg4dTdRNXF5RFdyVmZrdkhQenZwMEFkaERqdDJ5NEkzYmFfalFPS1FHT2xfVFRVV25vZ3lHUk9zNzVQWTg3dEUwMlBmeWEwRXJzeHZqZGNoZlNGS3Zr?oc=5",
       "source": "서울뉴스통신",
       "date": "Tue, 25 Aug 2026 08:20:15 GMT"
-    },
-    {
-      "title": "美·이란 '경제 전쟁' 격화…이란 돈줄 쥔 중국이 변수",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14NGsydnFsaW44clJOdWptbXVhUjl6cnl5Q2FkaVp3NXdkMWtXVlJaZ0NPNjZ6UHZGMFcybFlpWFBZOXRXNjZERWkyY1drTThhN1ZzSDZ3Uy1OUQ?oc=5",
-      "source": "파이낸셜뉴스",
-      "date": "Tue, 25 Aug 2026 06:15:27 GMT"
     },
     {
       "title": "美 對이란 '경제 왕따 작전' 성패 중국에 달렸다고?",
@@ -24,28 +30,10 @@
       "date": "Tue, 25 Aug 2026 05:26:27 GMT"
     },
     {
-      "title": "美, 이란 경제 고립 작전 본격화…중국이 최대 변수",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NSXlJeEwzazB4QzY5VFN0ek8wR2tBNVY4a21Yem1XQnhpbWhQYm1HaWdhbU82b2VRRVlvdXdzY25PWG5yTE5kWHI5WnA1QUJISGVSYXI5c05CUdIBWEFVX3lxTE5IRmpYay1BM0NWZ3FSdnBDN1F1SWRBVi1FbUREaXdxeUFKZUdOTjl3OTItcUI1Sll1dVZ2WlJobkFfS2I1YVo5amN2UlJXQTdGRFM1cEN5SHY?oc=5",
-      "source": "아주경제",
-      "date": "Tue, 25 Aug 2026 05:12:13 GMT"
-    },
-    {
       "title": "경제지표 악화에 中 최고경제컨트롤타워 나흘 연속 인민일보 등판",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tV2NQMkp1S3VULUxDVkZBSGlSc0VGcVByLVBmdXpKdE1QTGN4UWpDU3hvekI4OUlRSENGYTdVbUFvWHpyai1YUmlraDBEcWhzSEpMRzN3?oc=5",
       "source": "중앙일보",
       "date": "Tue, 25 Aug 2026 04:27:55 GMT"
-    },
-    {
-      "title": "\"러시아 다음은 이란\" 달러 패권 앞세워 경제 압박 나선 美, 中 위안화 블록 확대 변수로",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qLWlRcDJlU3NsTlBnZkhVNjNXNmx1Y1ZRWTRKNkwwZHFpSlJ1dUpfTHMwZHhvYnlEc29sYlZmaFRqZmxzOHFEcklsZ2NqaF81OVF4anREZjdEUTA?oc=5",
-      "source": "The Economy Korea",
-      "date": "Tue, 25 Aug 2026 03:43:00 GMT"
-    },
-    {
-      "title": "중국의 내수 부진과 디플레이션, 선택은 수출·AI '올인'",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GdTlFUXMwU21PSVhsa0NKOVhocEo4b0hvN0dpSmlxN1ZRLXpLMWdOSXgxTFVVQUljOGFqSkkyMzZSRE9XZ3p1RlhRZzd5d0VQQklGeHA5ZmQ0ZGs5VEVsQ0pWb3huMjN4?oc=5",
-      "source": "fetv.co.kr",
-      "date": "Tue, 25 Aug 2026 01:53:58 GMT"
     },
     {
       "title": "中경제사령탑, 경기둔화에도 연일 자신감…\"고품질 발전 추진\"",
@@ -76,6 +64,18 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
       "source": ":: 위즈경제 ::",
       "date": "Fri, 21 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "[열린세상] ‘기술 혁신’ 중국 경제의 역설",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVpiQTJsR21nVklIcG5XR1NxR2tBNG9iZ1JfVkVmaWNxUkprY3FteW1WNG1xeDZXNi1CellROVc0NFhPd0l6MnBUdldjWG03NnA2VkdUd1pOXzd1M2FxQU1vYkFYR0FqdUdLWkU2N1p3aEFRZ2oxRkJYTW5VaVpTcGhralgxbkk?oc=5",
+      "source": "서울신문",
+      "date": "Fri, 24 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52UVRRTTIyQW5udGJFTjhSbEhmTHc4Q2QyTHdTd1BWNzE5b0p0U0hWZk5LbmNjdUY5ZWh2MlBZaEczSnd3RVZGSlRfLXlrdU9HYTlfdmthLW01dTVn0gFiQVVfeXFMUDU0UmVDOFl4VUpZYzlneGtDWHJCX3luT1pfdFhKaGZENGxvWTRjRTZYNTltalJDYXVBUG9IV3I2Qy1IMGljUEdDV0k3d3JQbmVXV05QUzNZSWl5QkJPQk1jV0E?oc=5",
+      "source": "BBC",
+      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
     }
   ]
 }
