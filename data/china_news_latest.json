@@ -1,10 +1,28 @@
 {
-  "run_at_kst": "2026-08-26T11:51:47+09:00",
+  "run_at_kst": "2026-08-26T20:59:06+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "충북도의회-중국 헤이룽장성 인민대표대회, 경제·산업 협력 확대 논의",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Rc0hfT19HcjBtM0tWZ3RhRVFhWExzcHJkMHlWcG4yN3NmZFZnV0EzYUtQOUZfSFMta0pDOE1HZG12S3NvdW1MT1R1elhjeTRTejdRNnB0THVCZWNrVWc0VVBXR0hWQ3li?oc=5",
+      "source": "충청타임즈",
+      "date": "Wed, 26 Aug 2026 10:12:00 GMT"
+    },
+    {
+      "title": "[김상철 칼럼] 中의 전방위적 시장 지배력 확대 …경계 낮추면 치명적 위기가 온다",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zTVJxUmVYYVVpMUhfN3c0MF9Ebm0wREtPSklsMHdiSF9IWDNhM2stNEplQWJCZUd3Zkd1d2JRa2tpT0dSNzFnWmVtSE10a1pNUHYydElEZDRjQdIBWEFVX3lxTE14NFdsQjFjbDBEclNuc085NGgtWVRTV1NiMGNadkNmN1lPSmw3WThXb3hxZVNhcmFwdldtdjBadW9pSXVoSFRfdFhKMk1WWjhZUmZHeVZRT3k?oc=5",
+      "source": "아주경제",
+      "date": "Wed, 26 Aug 2026 05:59:53 GMT"
+    },
+    {
+      "title": "탄산 지고 건강 음료 뜬다…판 바뀌는 中 음료 시장",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wbkZFWEFNSVBNUHlUYXNsMzlnWkN2RUI5bmVkU3o0RC0zWnNYbDl6Y1dNelV2MGVhWTlCeWtDNWNVbFg4c2Y3N1V4eUI0alJsYUFPbFotVXE4QQ?oc=5",
+      "source": "한국경제",
+      "date": "Wed, 26 Aug 2026 04:00:11 GMT"
+    },
     {
       "title": "[새론새평-곽수종] 버려진 질서: 조각난 세계에서 살아남는 법",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DLVppRFhmOGQ1X1BNV0hIV2lwelZwUmxNOGVPYjJnWmt3WW5hQ1Q5X1VEZ1dsNGdaOHg5eThKd0pNT2luSk54N1V0ZlRtNlU0ZTBxblJQYXZBMVltTE5PS1Fn?oc=5",
@@ -16,18 +34,6 @@
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzdEpxdm1iem50OTBSZ2FQb2stWTVldnNYdzF5ZUYyZW5oa1NldTFqMm5RRjRyd21SQ2RKbFZQRDFuR3QzbmdrQmZ0YWItNkFvbVp3?oc=5",
       "source": "네이트",
       "date": "Tue, 25 Aug 2026 21:31:00 GMT"
-    },
-    {
-      "title": "[경제+] \"중국 기업이 준 건 일자리 그 이상\"...키르기스스탄서 확대되는 中 장비 협력",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84MDgzM2dydzloVkV2Nlg4dTdRNXF5RFdyVmZrdkhQenZwMEFkaERqdDJ5NEkzYmFfalFPS1FHT2xfVFRVV25vZ3lHUk9zNzVQWTg3dEUwMlBmeWEwRXJzeHZqZGNoZlNGS3Zr?oc=5",
-      "source": "서울뉴스통신",
-      "date": "Tue, 25 Aug 2026 08:20:15 GMT"
-    },
-    {
-      "title": "美 對이란 '경제 왕따 작전' 성패 중국에 달렸다고?",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16b0VPT09OM0M4UmwxS3F5RHk3alluSjl3cjNRVHVTeHlKTExFZnNpRFhpaWF0TW9XSGZ1WmtPUkl0Qm1UekF0Z1dHNA?oc=5",
-      "source": "아이뉴스24",
-      "date": "Tue, 25 Aug 2026 05:26:27 GMT"
     },
     {
       "title": "경제지표 악화에 中 최고경제컨트롤타워 나흘 연속 인민일보 등판",
@@ -70,12 +76,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVpiQTJsR21nVklIcG5XR1NxR2tBNG9iZ1JfVkVmaWNxUkprY3FteW1WNG1xeDZXNi1CellROVc0NFhPd0l6MnBUdldjWG03NnA2VkdUd1pOXzd1M2FxQU1vYkFYR0FqdUdLWkU2N1p3aEFRZ2oxRkJYTW5VaVpTcGhralgxbkk?oc=5",
       "source": "서울신문",
       "date": "Fri, 24 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52UVRRTTIyQW5udGJFTjhSbEhmTHc4Q2QyTHdTd1BWNzE5b0p0U0hWZk5LbmNjdUY5ZWh2MlBZaEczSnd3RVZGSlRfLXlrdU9HYTlfdmthLW01dTVn0gFiQVVfeXFMUDU0UmVDOFl4VUpZYzlneGtDWHJCX3luT1pfdFhKaGZENGxvWTRjRTZYNTltalJDYXVBUG9IV3I2Qy1IMGljUEdDV0k3d3JQbmVXV05QUzNZSWl5QkJPQk1jV0E?oc=5",
-      "source": "BBC",
-      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-26T11:51:47+09:00",
+  "run_at_kst": "2026-08-26T20:59:06+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Qatar Loses $24 Billion as LNG Exports Collapse 96%",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Qatar-Loses-24-Billion-as-LNG-Exports-Collapse-96.html",
+      "source": "OilPrice",
+      "date": "Wed, 26 Aug 2026 06:00:00 -0500"
+    },
+    {
+      "title": "Hormuz Traffic Remains Depressed as Iran and Oman Weigh Temporary Corridor",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Traffic-Remains-Depressed-as-Iran-and-Oman-Weigh-Temporary-Corridor.html",
+      "source": "OilPrice",
+      "date": "Wed, 26 Aug 2026 04:30:00 -0500"
+    },
+    {
+      "title": "Japan to Unveil New Oil Diversification Strategy",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-to-Unveil-New-Oil-Diversification-Strategy.html",
+      "source": "OilPrice",
+      "date": "Wed, 26 Aug 2026 03:30:00 -0500"
+    },
+    {
+      "title": "Iran’s Tanker Blacklist Raises New Risks for Gulf Oil",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Irans-Tanker-Blacklist-Raises-New-Risks-for-Gulf-Oil.html",
+      "source": "OilPrice",
+      "date": "Wed, 26 Aug 2026 02:30:00 -0500"
+    },
+    {
+      "title": "Oil Prices Fall as Iran-Oman Talks Fuel Hopes of Strait Reopening",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Iran-Oman-Talks-Fuel-Hopes-of-Strait-Reopening.html",
+      "source": "OilPrice",
+      "date": "Wed, 26 Aug 2026 01:30:00 -0500"
+    },
     {
       "title": "Big Oil Is Betting Billions On Nuclear Fusion",
       "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Big-Oil-Is-Betting-Billions-On-Nuclear-Fusion.html",
@@ -42,36 +72,6 @@
       "link": "https://oilprice.com/Latest-Energy-News/World-News/SPR-Sinks-Toward-Operational-Minimum-as-US-Crude-Inventories-Build.html",
       "source": "OilPrice",
       "date": "Tue, 25 Aug 2026 16:06:25 -0500"
-    },
-    {
-      "title": "U.S. Refiners Face New Crude Squeeze as Canada Cuts Oil Sands Output",
-      "link": "https://oilprice.com/Energy/Crude-Oil/US-Refiners-Face-New-Crude-Squeeze-as-Canada-Cuts-Oil-Sands-Output.html",
-      "source": "OilPrice",
-      "date": "Tue, 25 Aug 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Uranium Prices Surge as Nuclear Demand Accelerates",
-      "link": "https://oilprice.com/Metals/Commodities/Uranium-Prices-Surge-as-Nuclear-Demand-Accelerates.html",
-      "source": "OilPrice",
-      "date": "Tue, 25 Aug 2026 15:00:00 -0500"
-    },
-    {
-      "title": "Satellite Images Show Seven Tankers Loading Iraqi Crude at Once",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Satellite-Images-Show-Seven-Tankers-Loading-Iraqi-Crude-at-Once.html",
-      "source": "OilPrice",
-      "date": "Tue, 25 Aug 2026 14:32:27 -0500"
-    },
-    {
-      "title": "Norway’s Troll Gas Expansion Buys Europe Time—But Not New Supply",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Norways-Troll-Gas-Expansion-Buys-Europe-TimeBut-Not-New-Supply.html",
-      "source": "OilPrice",
-      "date": "Tue, 25 Aug 2026 14:00:00 -0500"
-    },
-    {
-      "title": "UK Tax Rises Back on the Table as Burnham Faces Fiscal Crunch",
-      "link": "https://oilprice.com/Energy/Energy-General/UK-Tax-Rises-Back-on-the-Table-as-Burnham-Faces-Fiscal-Crunch.html",
-      "source": "OilPrice",
-      "date": "Tue, 25 Aug 2026 14:00:00 -0500"
     },
     {
       "title": "Tungsten West scores $97M UK investment, stock soars",
