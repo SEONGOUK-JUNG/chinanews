@@ -1,15 +1,27 @@
 {
-  "run_at_kst": "2026-08-26T20:59:06+09:00",
+  "run_at_kst": "2026-08-27T10:33:52+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "응이엠 비엣 청 총영사: 인프라 연결성이 베트남-중국 경제 회랑에 추진력을 불어넣고 있습니다.",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdDk2NExIcVlrMEhEbUM0dWFyU2JQTVZfQXNtT0NQdDZxejhmWWZVaXlUbkVYUkNZUnZiRUpmSFJTWXhmQ3dSOTBxNkZsY0FIeldqUmxpdElMZ1pFN2ExeVFuTmtKQ050WUxLVmIzeEZaN3dUbk1xSDJtbHIxYjIwX016ZU1DOWt5dFZWbWpuaU43WkhIenVLOTJYZlZ3VE00Q3kzajVZV3Z0WEl4TGgxY3NBMTJieDBZbW0yQnJZWnRsWkYwdXc?oc=5",
+      "source": "Vietnam.vn",
+      "date": "Wed, 26 Aug 2026 14:17:45 GMT"
+    },
+    {
       "title": "충북도의회-중국 헤이룽장성 인민대표대회, 경제·산업 협력 확대 논의",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Rc0hfT19HcjBtM0tWZ3RhRVFhWExzcHJkMHlWcG4yN3NmZFZnV0EzYUtQOUZfSFMta0pDOE1HZG12S3NvdW1MT1R1elhjeTRTejdRNnB0THVCZWNrVWc0VVBXR0hWQ3li?oc=5",
       "source": "충청타임즈",
       "date": "Wed, 26 Aug 2026 10:12:00 GMT"
+    },
+    {
+      "title": "수출 잘 나가도 속앓이하는 중국…\"내수 부진에 둔화하는 중국 경제\"",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aNWM0ZjZGSVN4QV9hQlc0ek80U2FiVWVNRXpYNW1ORUxkY2Nha21xVThmUERNeFp1OFB1NTl5WlJ4NnRqVjFaMDFYWUlESTBacWs1R1FCSVNqVXdUazFuYzgyZFRTdms5am94TA?oc=5",
+      "source": "프리진경제",
+      "date": "Wed, 26 Aug 2026 07:31:36 GMT"
     },
     {
       "title": "[김상철 칼럼] 中의 전방위적 시장 지배력 확대 …경계 낮추면 치명적 위기가 온다",
@@ -22,18 +34,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wbkZFWEFNSVBNUHlUYXNsMzlnWkN2RUI5bmVkU3o0RC0zWnNYbDl6Y1dNelV2MGVhWTlCeWtDNWNVbFg4c2Y3N1V4eUI0alJsYUFPbFotVXE4QQ?oc=5",
       "source": "한국경제",
       "date": "Wed, 26 Aug 2026 04:00:11 GMT"
-    },
-    {
-      "title": "[새론새평-곽수종] 버려진 질서: 조각난 세계에서 살아남는 법",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DLVppRFhmOGQ1X1BNV0hIV2lwelZwUmxNOGVPYjJnWmt3WW5hQ1Q5X1VEZ1dsNGdaOHg5eThKd0pNT2luSk54N1V0ZlRtNlU0ZTBxblJQYXZBMVltTE5PS1Fn?oc=5",
-      "source": "매일신문",
-      "date": "Tue, 25 Aug 2026 23:30:00 GMT"
-    },
-    {
-      "title": "중국의 반내권…더 무서운 중국이 온다 [더 머니이스트-조평규의 중국 본색]",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzdEpxdm1iem50OTBSZ2FQb2stWTVldnNYdzF5ZUYyZW5oa1NldTFqMm5RRjRyd21SQ2RKbFZQRDFuR3QzbmdrQmZ0YWItNkFvbVp3?oc=5",
-      "source": "네이트",
-      "date": "Tue, 25 Aug 2026 21:31:00 GMT"
     },
     {
       "title": "경제지표 악화에 中 최고경제컨트롤타워 나흘 연속 인민일보 등판",
@@ -66,16 +66,16 @@
       "date": "Mon, 24 Aug 2026 18:00:09 GMT"
     },
     {
+      "title": "中 당국, 경제 지표 악화에 연이어 논평 \"개별 지표 얽매이면 안 돼\"",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OenhZcEIxZjhQTjJEUldtX1pLX1BmRUN2TWJkby15Y1BlWmI2bFVYYXV2bVo3Z2VLbTdHQW5qNG1vbFltMV9HNEtPYkJQbmM?oc=5",
+      "source": "v.daum.net",
+      "date": "Sun, 23 Aug 2026 08:13:30 GMT"
+    },
+    {
       "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
       "source": ":: 위즈경제 ::",
       "date": "Fri, 21 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "[열린세상] ‘기술 혁신’ 중국 경제의 역설",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVpiQTJsR21nVklIcG5XR1NxR2tBNG9iZ1JfVkVmaWNxUkprY3FteW1WNG1xeDZXNi1CellROVc0NFhPd0l6MnBUdldjWG03NnA2VkdUd1pOXzd1M2FxQU1vYkFYR0FqdUdLWkU2N1p3aEFRZ2oxRkJYTW5VaVpTcGhralgxbkk?oc=5",
-      "source": "서울신문",
-      "date": "Fri, 24 Jul 2026 07:00:00 GMT"
     }
   ]
 }
