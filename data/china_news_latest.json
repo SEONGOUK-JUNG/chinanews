@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-01T21:59:39+09:00",
+  "run_at_kst": "2026-09-01T22:58:41+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -26,7 +26,7 @@
     {
       "title": "베선트 “이란 경제 수주~수개월 내 붕괴 가능…중국 도움 없이도 제재 가능”",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95cE02VGZqNzhweFJwNE1YT3pTSHp1NG1VTHVwNnRTLUNzTzhvdmFUU1ZGZHhDM1lnNDg4ejFfSkFSaE9KTENwOU5rTGttX1NsVFZjbnFYWXc2a3NQMFlGSE00TXJYSjIxOS0xVXRIRQ?oc=5",
-      "source": "한겨레신문",
+      "source": "hani.co.kr",
       "date": "Mon, 31 Aug 2026 22:11:00 GMT"
     },
     {
@@ -66,16 +66,16 @@
       "date": "Fri, 28 Aug 2026 19:35:53 GMT"
     },
     {
-      "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Fri, 28 Aug 2026 07:00:00 GMT"
-    },
-    {
       "title": "中, 자동차판매 -21%·부동산 투자 -19%…중국경제 '빨간불'",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iNTRtZUhiM3RVU2ZWWmZwNHk1RVBZME9uMnplbV91c3BMSjFlNm5WQUFqYjJ6cFpxMDVLOGc1VWhTdDJfSk1OY3VfVzNKRmp2aWc3XzZ3ZXJYQQ?oc=5",
-      "source": "한국경제",
+      "source": "hankyung.com",
       "date": "Mon, 17 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "[열린세상] ‘기술 혁신’ 중국 경제의 역설",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVpiQTJsR21nVklIcG5XR1NxR2tBNG9iZ1JfVkVmaWNxUkprY3FteW1WNG1xeDZXNi1CellROVc0NFhPd0l6MnBUdldjWG03NnA2VkdUd1pOXzd1M2FxQU1vYkFYR0FqdUdLWkU2N1p3aEFRZ2oxRkJYTW5VaVpTcGhralgxbkk?oc=5",
+      "source": "서울신문",
+      "date": "Fri, 24 Jul 2026 07:00:00 GMT"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-01T21:59:39+09:00",
+  "run_at_kst": "2026-09-01T22:58:41+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Russia Doubles Dark Fleet to Ship LNG to Asia",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Doubles-Dark-Fleet-to-Ship-LNG-to-Asia.html",
+      "source": "OilPrice",
+      "date": "Tue, 01 Sep 2026 08:30:00 -0500"
+    },
     {
       "title": "Solar Overtakes Coal as China's Largest Power Source",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Solar-Overtakes-Coal-as-Chinas-Largest-Power-Source.html",
@@ -18,6 +24,12 @@
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Two-Supertankers-Hit-by-Unknown-Projectiles-in-Strait-of-Hormuz.html",
       "source": "OilPrice",
       "date": "Tue, 01 Sep 2026 06:35:16 -0500"
+    },
+    {
+      "title": "Larvotto joins antimony ranks as Hillgrove springs back to life",
+      "link": "https://www.mining.com/larvotto-joins-antimony-ranks-as-hillgrove-springs-back-to-life/",
+      "source": "mining.com",
+      "date": "Tue, 01 Sep 2026 10:57:00 +0000"
     },
     {
       "title": "Op-Ed: Venezuela mining revival threatens isolated indigenous peoples",
@@ -62,12 +74,6 @@
       "date": "Tue, 01 Sep 2026 00:30:00 -0500"
     },
     {
-      "title": "New Tech Breakthrough Aims To Solve The World's Plastic Waste Problem",
-      "link": "https://oilprice.com/Energy/Energy-General/New-Tech-Breakthrough-Aims-To-Solve-The-Worlds-Plastic-Waste-Problem.html",
-      "source": "OilPrice",
-      "date": "Mon, 31 Aug 2026 19:00:00 -0500"
-    },
-    {
       "title": "Court ruling backs Perpetua’s $1.3B Stibnite build",
       "link": "https://www.mining.com/court-ruling-backs-perpetuas-1-3b-stibnite-build/",
       "source": "mining.com",
@@ -84,12 +90,6 @@
       "link": "https://www.mining.com/gold-price-slips-as-mideast-tensions-stoke-fed-hike-bets/",
       "source": "mining.com",
       "date": "Mon, 31 Aug 2026 16:51:00 +0000"
-    },
-    {
-      "title": "Talamore gets key road permit for Coffee gold project in Yukon Territory",
-      "link": "https://www.mining.com/talamore-gets-key-road-permit-for-coffee-gold-project/",
-      "source": "mining.com",
-      "date": "Mon, 31 Aug 2026 15:34:09 +0000"
     }
   ]
 }
