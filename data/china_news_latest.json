@@ -1,45 +1,45 @@
 {
-  "run_at_kst": "2026-08-31T22:14:08+09:00",
+  "run_at_kst": "2026-09-01T21:59:39+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "베선트, 세계에 '대중국 관세' 촉구…\"중국 감당 못 해\"",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZTDUzeWJKOVFyZHBBZ0plVE9aU2g1LTJSdVVfQTE1SlpFd3NmTGJZbFlnR3pURzJXM0pIYm9EWnFVMGFpOEprcC1kbEdGM2xuOVlJ?oc=5",
-      "source": "네이트",
-      "date": "Mon, 31 Aug 2026 12:15:00 GMT"
+      "title": "'2026 중국 국제빅데이터산업박람회' 폐막...中 디지털 경제 고도화 잠재력 입증-Xinhua",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00UF91TWdmSFdnLXhsVnkxM185YnhBUzk5dDFZWC1OaGtkTzN1RVJ6NGlXRlhBTm85Q080MmdnSUtwTmR6WW5tM2U3RnhjaWRIV1hSbC1rbERRTFc5MnY4VF80ZWZOUVAyd01lQ0l6dW56ZFI4?oc=5",
+      "source": "신화망",
+      "date": "Tue, 01 Sep 2026 05:45:34 GMT"
     },
     {
-      "title": "중국 은행들은 사업 다각화 덕분에 성장하고 있다.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX0R4VmV5RUZ1Q2lpd1RrNEdHSjZ6b09ETFY3YURXVk41dmNidUpwdHEtd0p3eVBCaEluTGwxdUQ0UU03YVljVUFwZ2xuUFhkU1NiLVNlSkhORWc2ckR5d0RnWENpNFo5XzF4SXVqUjVwZW9Ld2xCYnZKT1NNUlhxbndzNlQ0YlhTb3otblFtb1o4UEgxYzdMcWg0cmU2UTU3?oc=5",
-      "source": "Vietnam.vn",
-      "date": "Mon, 31 Aug 2026 09:56:25 GMT"
+      "title": "美 베선트 재무, 中 1조 2000억 달러 무역흑자 겨냥 “과도한 불균형”",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMbnJra1hoRTlzd01qeFE2WENZREZvektUb2hRbXdPeEhJbUdGVTlSYTkzcDdXUTY3ZGl1Q2hBRUhEN3FEd3o2b2lpbXppMXNnTmdTUzN0Y1A0MUdhRkxLRdIBeEFVX3lxTE9uVXdnWGRnZXktZ244YVAtVkpWQkdZWC1POUQzTHRzcUJfeHpNM1Z6Y25sTTlEV2d6UXE3MzFyaEJCLTEtbFRDcTJVQk44SjlkRWEyWXBWX09iUERFUUJkeUVTNG85V3JzbFNDSkIwc0VKcEtuaDA2Sg?oc=5",
+      "source": "뉴시스",
+      "date": "Tue, 01 Sep 2026 01:09:14 GMT"
     },
     {
-      "title": "美, 대중 공동전선 본격화…G20에 ‘中제품 수입 줄이라’",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JSzNJemlPd3prb3NNTGtkanp2bnpkclhXT2ZfWExPbFZFSEFJWGo2dG43czZ0WXZQZkEwNXR5TjFDUW40eUFJUnlySlVCNTg?oc=5",
-      "source": "v.daum.net",
-      "date": "Mon, 31 Aug 2026 07:54:09 GMT"
+      "title": "베선트, G20서 中 정조준…“1.2조 달러 무역흑자 지속 불가능”",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxc25CMHJQbFkwVnhQLVlHYTRxVHA4X0pQWVlxaDktaFJRMmJleWVtTUR4LWthUl94ODlQdjdWcXF3TTBtcGxkY1lSajZNMy1pN3oyckotUDFxV3BfNkN0bzNrVFZhUzJURl9BcG90bmFhTk3SAXdBVV95cUxPLWRwOGxyM2hlSXIzbnowWEhSaHMxXzVwZ1VQMWtKOTJ3MUxVbnh6bnBFRk1Cbl9mSFhZYXZMOW1QTkhiUUFTMnhPNF85Q2g3Vy1ldjNkNlpaYnJFN1g0c2t1dUd3VFF4QUlBMFlYc1lHQk0yM09Ucw?oc=5",
+      "source": "스트레이트뉴스",
+      "date": "Mon, 31 Aug 2026 22:15:28 GMT"
     },
     {
-      "title": "[경제] '2026 중국 국제빅데이터산업박람회' 폐막...中 디지털 경제 고도화 잠재력 입증",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43N043NUZmcjN0R2dselIxRGtyY1VfWDdfNlV6QVBubTZlWjFnWU1rUzkyYk54Tkxlc09Sc1JUdjhLa1BKdkdGeDNTME90WFBGYWlRSFFJbnhFZWJpUVVmTjBYNkw1Snl0NzNN?oc=5",
-      "source": "서울뉴스통신",
-      "date": "Mon, 31 Aug 2026 07:49:21 GMT"
+      "title": "베선트 “이란 경제 수주~수개월 내 붕괴 가능…중국 도움 없이도 제재 가능”",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95cE02VGZqNzhweFJwNE1YT3pTSHp1NG1VTHVwNnRTLUNzTzhvdmFUU1ZGZHhDM1lnNDg4ejFfSkFSaE9KTENwOU5rTGttX1NsVFZjbnFYWXc2a3NQMFlGSE00TXJYSjIxOS0xVXRIRQ?oc=5",
+      "source": "한겨레신문",
+      "date": "Mon, 31 Aug 2026 22:11:00 GMT"
     },
     {
-      "title": "[이철우 칼럼] 차이나 인플럭스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxOGlYdGdhRm5TRU9fa1hHRWJEaFQ4dzVydk80OGlDamkzcFpUMXV0U1RaVWZ2Y09sc1lPMTVGWXhIUmRCWXpxOGJ2QWJqVUF3VzIwaGVUZFRCYnBwWS1Gek1zSlJHYlFL?oc=5",
-      "source": "대경일보",
-      "date": "Mon, 31 Aug 2026 05:19:43 GMT"
+      "title": "[월드 프리즘] 중국 제조업 경기 2개월 연속 위축…내수 부진, 부동산 시장 침체가 중국 경제 '발목'",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05N2k1UXZmZUJOUi1SX2JSY3RNRkJnWXo1Ql9ILTdoOFVuM2tYcWwwUGJld2tudXN4ZDM5T2RldHpKU2tERTNES25QQlFqU2lBTFRCYUFEU3BSY1R3Y3RfNG1xdDZTbFVWdGszT0FDSnc?oc=5",
+      "source": "위키리크스한국",
+      "date": "Mon, 31 Aug 2026 21:01:00 GMT"
     },
     {
-      "title": "[기자수첩] 중국 시장은 넓히고 의존은 낮추고…한중 경제 새 공식",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLWVFmNkswNEFkakd0Zkg4R3pXU3BhTnJ3Z2NwNjg1MjVzSVp5NkFuRzJLeWlPTzZYNERCVWxaV2xXejhCUFdOeld4eHEyRUIyVGZyWGE3TzFkdzk3bmhDdm1HUmpKVGRHV0xsd1V3?oc=5",
-      "source": "뉴스후플러스",
-      "date": "Mon, 31 Aug 2026 01:01:57 GMT"
+      "title": "\"中경제중심 상하이 시장에 '1970년대생' 주중밍 내정\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rRHl1Yy01RkZSMUg5bVdsUjBNRkFkLW5uQjJZaHZQUHZRWWplRG9YOHJNWjRZM0ZtSEJtSUtNaXlBNWRPMmxQN1VlUUx0YnRiV043VV9qZzBvbDjSAWBBVV95cUxPTGY1MUJ4MjdEU0M4VWVma0JkSkYxZDR1cTd3RlFkM3JRRXBtaVJPNFZPVDBUM3ZweHlCQ1VQY0o1QnJvUEwxRXdKSHRXQU0zUDl4d3NjaGRYZkxlOXpTSEY?oc=5",
+      "source": "연합뉴스",
+      "date": "Sun, 30 Aug 2026 18:40:43 GMT"
     },
     {
       "title": "[유상철의 중국 읽기] 얼음과 불…두 얼굴의 중국 경제",

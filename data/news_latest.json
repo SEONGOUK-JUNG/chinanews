@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-08-31T22:14:08+09:00",
+  "run_at_kst": "2026-09-01T21:59:39+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
-      "title": "China's LNG Imports Set to Drop 18% in August as Prices Soar",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-LNG-Imports-Set-to-Drop-18-in-August-as-Prices-Soar.html",
+      "title": "Solar Overtakes Coal as China's Largest Power Source",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Solar-Overtakes-Coal-as-Chinas-Largest-Power-Source.html",
       "source": "OilPrice",
-      "date": "Mon, 31 Aug 2026 07:30:00 -0500"
+      "date": "Tue, 01 Sep 2026 07:30:00 -0500"
     },
     {
-      "title": "Op-Ed: Cameroon’s mining moment has arrived",
-      "link": "https://www.mining.com/op-ed-cameroons-mining-moment-has-arrived/",
+      "title": "Two Supertankers Hit by Unknown Projectiles in Strait of Hormuz",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Two-Supertankers-Hit-by-Unknown-Projectiles-in-Strait-of-Hormuz.html",
+      "source": "OilPrice",
+      "date": "Tue, 01 Sep 2026 06:35:16 -0500"
+    },
+    {
+      "title": "Op-Ed: Venezuela mining revival threatens isolated indigenous peoples",
+      "link": "https://www.mining.com/op-ed-venezuela-mining-revival-threatens-isolated-indigenous-peoples/",
       "source": "mining.com",
-      "date": "Mon, 31 Aug 2026 12:07:18 +0000"
+      "date": "Tue, 01 Sep 2026 10:45:00 +0000"
     },
     {
-      "title": "Iran Says Supertanker Hit by Mines in Strait of Hormuz",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-Supertanker-Hit-by-Mines-in-Strait-of-Hormuz.html",
+      "title": "Ukrainian Drone Barrage Sets Key Russian Oil Port Ablaze",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukrainian-Drone-Barrage-Sets-Key-Russian-Oil-Port-Ablaze.html",
       "source": "OilPrice",
-      "date": "Mon, 31 Aug 2026 06:00:00 -0500"
+      "date": "Tue, 01 Sep 2026 05:45:00 -0500"
     },
     {
-      "title": "US-Venezuela oil pact raises legal, transparency doubts",
-      "link": "https://www.mining.com/us-venezuela-oil-pact-raises-legal-transparency-doubts/",
+      "title": "Price, Not Politics, Is Driving Most of India’s Oil Buying",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Price-Not-Politics-Is-Driving-Most-of-Indias-Oil-Buying.html",
+      "source": "OilPrice",
+      "date": "Tue, 01 Sep 2026 04:30:00 -0500"
+    },
+    {
+      "title": "Rio’s Barton joins Carney’s $1T investment drive",
+      "link": "https://www.mining.com/rios-barton-joins-carneys-1t-investment-drive/",
       "source": "mining.com",
-      "date": "Mon, 31 Aug 2026 10:55:00 +0000"
+      "date": "Tue, 01 Sep 2026 08:55:00 +0000"
     },
     {
-      "title": "Lithium Miners Cash In as Battery Storage Demand Surges",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Lithium-Miners-Cash-In-as-Battery-Storage-Demand-Surges.html",
+      "title": "Europe’s Wind Power Buildout Jumps 30% in First Half",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Wind-Power-Buildout-Jumps-30-in-First-Half.html",
       "source": "OilPrice",
-      "date": "Mon, 31 Aug 2026 04:50:00 -0500"
+      "date": "Tue, 01 Sep 2026 03:15:00 -0500"
     },
     {
-      "title": "Asian Refiners Turn to Argentina as Iran War Disrupts Oil Supply",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Asian-Refiners-Turn-to-Argentina-as-Iran-War-Disrupts-Oil-Supply.html",
+      "title": "U.S. Oil Deal Pushes China and Russia Out of Venezuelan Fields",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Oil-Deal-Pushes-China-and-Russia-Out-of-Venezuelan-Fields.html",
       "source": "OilPrice",
-      "date": "Mon, 31 Aug 2026 03:35:35 -0500"
+      "date": "Tue, 01 Sep 2026 01:45:00 -0500"
     },
     {
-      "title": "Goldman Sachs Sees Diesel Refining Margins Soaring to $63 a Barrel",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Sees-Diesel-Refining-Margins-Soaring-to-63-a-Barrel.html",
+      "title": "Oil Prices Climb as Trump Threatens New Strikes on Iran",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-Trump-Threatens-New-Strikes-on-Iran.html",
       "source": "OilPrice",
-      "date": "Mon, 31 Aug 2026 01:45:00 -0500"
+      "date": "Tue, 01 Sep 2026 00:30:00 -0500"
     },
     {
-      "title": "Trump Says Venezuelan Oil Will Refill U.S. Strategic Petroleum Reserve",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Says-Venezuelan-Oil-Will-Refill-US-Strategic-Petroleum-Reserve.html",
+      "title": "New Tech Breakthrough Aims To Solve The World's Plastic Waste Problem",
+      "link": "https://oilprice.com/Energy/Energy-General/New-Tech-Breakthrough-Aims-To-Solve-The-Worlds-Plastic-Waste-Problem.html",
       "source": "OilPrice",
-      "date": "Mon, 31 Aug 2026 00:35:00 -0500"
+      "date": "Mon, 31 Aug 2026 19:00:00 -0500"
     },
     {
-      "title": "Oil Prices Surge as U.S. and Iran Exchange Strikes",
-      "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Surge-as-US-and-Iran-Exchange-Strikes.html",
-      "source": "OilPrice",
-      "date": "Sun, 30 Aug 2026 21:30:06 -0500"
-    },
-    {
-      "title": "U.S. Army To Spend $2.2B On Nuclear Microreactors At Military Bases",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/US-Army-To-Spend-22B-On-Nuclear-Microreactors-At-Military-Bases.html",
-      "source": "OilPrice",
-      "date": "Sun, 30 Aug 2026 18:00:00 -0500"
-    },
-    {
-      "title": "Anfield Energy starts blasting at historic Velvet-Wood uranium mine in Utah",
-      "link": "https://www.mining.com/anfield-energy-starts-blasting-at-historic-velvet-wood-uranium-mine-in-utah/",
+      "title": "Court ruling backs Perpetua’s $1.3B Stibnite build",
+      "link": "https://www.mining.com/court-ruling-backs-perpetuas-1-3b-stibnite-build/",
       "source": "mining.com",
-      "date": "Fri, 28 Aug 2026 22:49:46 +0000"
+      "date": "Mon, 31 Aug 2026 23:31:00 +0000"
     },
     {
-      "title": "Gold’s huge August",
-      "link": "https://www.mining.com/golds-huge-august/",
+      "title": "IperionX lands second US Army order for domestic titanium",
+      "link": "https://www.mining.com/iperionx-lands-second-us-army-order-for-domestic-titanium/",
       "source": "mining.com",
-      "date": "Fri, 28 Aug 2026 21:36:28 +0000"
+      "date": "Mon, 31 Aug 2026 23:09:53 +0000"
     },
     {
-      "title": "Governments become ‘deal participants’ as critical minerals race accelerates",
-      "link": "https://www.mining.com/governments-become-deal-participants-as-critical-minerals-race-accelerates/",
+      "title": "Gold price slips as Mideast tensions stoke Fed hike bets",
+      "link": "https://www.mining.com/gold-price-slips-as-mideast-tensions-stoke-fed-hike-bets/",
       "source": "mining.com",
-      "date": "Fri, 28 Aug 2026 20:39:05 +0000"
+      "date": "Mon, 31 Aug 2026 16:51:00 +0000"
     },
     {
-      "title": "Op-Ed: Ethiopia’s hidden SEDEX deposit — part of Africa’s next great basin?",
-      "link": "https://www.mining.com/op-ed-ethiopias-hidden-sedex-deposit-part-of-africas-next-great-basin/",
+      "title": "Talamore gets key road permit for Coffee gold project in Yukon Territory",
+      "link": "https://www.mining.com/talamore-gets-key-road-permit-for-coffee-gold-project/",
       "source": "mining.com",
-      "date": "Fri, 28 Aug 2026 20:16:00 +0000"
+      "date": "Mon, 31 Aug 2026 15:34:09 +0000"
     }
   ]
 }
