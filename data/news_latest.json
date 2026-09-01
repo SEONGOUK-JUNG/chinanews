@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-01T22:58:41+09:00",
+  "run_at_kst": "2026-09-02T08:24:56+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
-      "title": "Russia Doubles Dark Fleet to Ship LNG to Asia",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Doubles-Dark-Fleet-to-Ship-LNG-to-Asia.html",
+      "title": "Major U.S. Oil Port Selected for Nuclear Power Project",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Major-US-Oil-Port-Selected-for-Nuclear-Power-Project.html",
       "source": "OilPrice",
-      "date": "Tue, 01 Sep 2026 08:30:00 -0500"
+      "date": "Tue, 01 Sep 2026 18:00:00 -0500"
     },
     {
-      "title": "Solar Overtakes Coal as China's Largest Power Source",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Solar-Overtakes-Coal-as-Chinas-Largest-Power-Source.html",
-      "source": "OilPrice",
-      "date": "Tue, 01 Sep 2026 07:30:00 -0500"
-    },
-    {
-      "title": "Two Supertankers Hit by Unknown Projectiles in Strait of Hormuz",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Two-Supertankers-Hit-by-Unknown-Projectiles-in-Strait-of-Hormuz.html",
-      "source": "OilPrice",
-      "date": "Tue, 01 Sep 2026 06:35:16 -0500"
-    },
-    {
-      "title": "Larvotto joins antimony ranks as Hillgrove springs back to life",
-      "link": "https://www.mining.com/larvotto-joins-antimony-ranks-as-hillgrove-springs-back-to-life/",
+      "title": "Greenland Resources gets $120M LOI from Nordic Investment Bank for Malmbjerg project",
+      "link": "https://www.mining.com/greenland-resources-gets-120m-loi-from-nordic-investment-bank-for-malmbjerg-project/",
       "source": "mining.com",
-      "date": "Tue, 01 Sep 2026 10:57:00 +0000"
+      "date": "Tue, 01 Sep 2026 21:55:00 +0000"
     },
     {
-      "title": "Op-Ed: Venezuela mining revival threatens isolated indigenous peoples",
-      "link": "https://www.mining.com/op-ed-venezuela-mining-revival-threatens-isolated-indigenous-peoples/",
-      "source": "mining.com",
-      "date": "Tue, 01 Sep 2026 10:45:00 +0000"
-    },
-    {
-      "title": "Ukrainian Drone Barrage Sets Key Russian Oil Port Ablaze",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukrainian-Drone-Barrage-Sets-Key-Russian-Oil-Port-Ablaze.html",
+      "title": "EU Struggles to Curb Energy Transition Dependence on China",
+      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/EU-Struggles-to-Curb-Energy-Transition-Dependence-on-China.html",
       "source": "OilPrice",
-      "date": "Tue, 01 Sep 2026 05:45:00 -0500"
+      "date": "Tue, 01 Sep 2026 16:00:00 -0500"
     },
     {
-      "title": "Price, Not Politics, Is Driving Most of India’s Oil Buying",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Price-Not-Politics-Is-Driving-Most-of-Indias-Oil-Buying.html",
+      "title": "Solar Power Is Booming in Emerging Markets",
+      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Solar-Power-Is-Booming-in-Emerging-Markets.html",
       "source": "OilPrice",
-      "date": "Tue, 01 Sep 2026 04:30:00 -0500"
+      "date": "Tue, 01 Sep 2026 16:00:00 -0500"
     },
     {
-      "title": "Rio’s Barton joins Carney’s $1T investment drive",
-      "link": "https://www.mining.com/rios-barton-joins-carneys-1t-investment-drive/",
-      "source": "mining.com",
-      "date": "Tue, 01 Sep 2026 08:55:00 +0000"
-    },
-    {
-      "title": "Europe’s Wind Power Buildout Jumps 30% in First Half",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Wind-Power-Buildout-Jumps-30-in-First-Half.html",
+      "title": "U.S. Crude Inventories Drop amid Continued SPR Draws",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Inventories-Drop-amid-Continued-SPR-Draws.html",
       "source": "OilPrice",
-      "date": "Tue, 01 Sep 2026 03:15:00 -0500"
+      "date": "Tue, 01 Sep 2026 15:56:27 -0500"
     },
     {
-      "title": "U.S. Oil Deal Pushes China and Russia Out of Venezuelan Fields",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Oil-Deal-Pushes-China-and-Russia-Out-of-Venezuelan-Fields.html",
+      "title": "U.S. Shale Producers Lose Bid to Kill Oil Price-Fixing Case",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Shale-Producers-Lose-Bid-to-Kill-Oil-Price-Fixing-Case.html",
       "source": "OilPrice",
-      "date": "Tue, 01 Sep 2026 01:45:00 -0500"
+      "date": "Tue, 01 Sep 2026 15:30:00 -0500"
     },
     {
-      "title": "Oil Prices Climb as Trump Threatens New Strikes on Iran",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-Trump-Threatens-New-Strikes-on-Iran.html",
+      "title": "U.S. Lithium Miners Finally Have a Shot at Cashing In",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Lithium-Miners-Finally-Have-a-Shot-at-Cashing-In.html",
       "source": "OilPrice",
-      "date": "Tue, 01 Sep 2026 00:30:00 -0500"
+      "date": "Tue, 01 Sep 2026 15:00:00 -0500"
     },
     {
-      "title": "Court ruling backs Perpetua’s $1.3B Stibnite build",
-      "link": "https://www.mining.com/court-ruling-backs-perpetuas-1-3b-stibnite-build/",
-      "source": "mining.com",
-      "date": "Mon, 31 Aug 2026 23:31:00 +0000"
+      "title": "Bessent Says Strait of Hormuz Obsolete Within Two Years",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Bessent-Says-Strait-of-Hormuz-Obsolete-Within-Two-Years.html",
+      "source": "OilPrice",
+      "date": "Tue, 01 Sep 2026 14:30:00 -0500"
     },
     {
-      "title": "IperionX lands second US Army order for domestic titanium",
-      "link": "https://www.mining.com/iperionx-lands-second-us-army-order-for-domestic-titanium/",
+      "title": "Collective extends Colombia’s Apollo on 15-g/t gold hit",
+      "link": "https://www.mining.com/collective-extends-colombias-apollo-on-15-g-t-gold-hit/",
       "source": "mining.com",
-      "date": "Mon, 31 Aug 2026 23:09:53 +0000"
+      "date": "Tue, 01 Sep 2026 19:09:43 +0000"
     },
     {
-      "title": "Gold price slips as Mideast tensions stoke Fed hike bets",
-      "link": "https://www.mining.com/gold-price-slips-as-mideast-tensions-stoke-fed-hike-bets/",
+      "title": "Gary’s Two-Week Blackout Is a Warning for America",
+      "link": "https://oilprice.com/Energy/Energy-General/Garys-Two-Week-Blackout-Is-a-Warning-for-America.html",
+      "source": "OilPrice",
+      "date": "Tue, 01 Sep 2026 14:00:00 -0500"
+    },
+    {
+      "title": "Gold price erases 2026 gains as Fed hike bets climb to 70%, silver slides",
+      "link": "https://www.mining.com/gold-price-erases-2026-gains-as-fed-hike-bets-climb-to-70-silver-slides/",
       "source": "mining.com",
-      "date": "Mon, 31 Aug 2026 16:51:00 +0000"
+      "date": "Tue, 01 Sep 2026 17:25:50 +0000"
+    },
+    {
+      "title": "ACG Metals produces first copper concentrate at Turkish mine",
+      "link": "https://www.mining.com/acg-metals-produces-first-copper-concentrate-at-turkish-mine/",
+      "source": "mining.com",
+      "date": "Tue, 01 Sep 2026 16:08:55 +0000"
+    },
+    {
+      "title": "Copper price stalls short of record as Chile’s storm-hit output slumps to 2011 low",
+      "link": "https://www.mining.com/copper-price-stalls-short-of-record-as-chiles-storm-hit-output-slumps-to-2011-low/",
+      "source": "mining.com",
+      "date": "Tue, 01 Sep 2026 16:03:22 +0000"
+    },
+    {
+      "title": "Drone wars deepen West’s critical minerals squeeze",
+      "link": "https://www.mining.com/drone-wars-deepen-wests-critical-minerals-squeeze/",
+      "source": "mining.com",
+      "date": "Tue, 01 Sep 2026 15:47:27 +0000"
     }
   ]
 }

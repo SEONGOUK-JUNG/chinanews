@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-01T22:58:41+09:00",
+  "run_at_kst": "2026-09-02T08:24:56+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -18,15 +18,9 @@
       "date": "Tue, 01 Sep 2026 01:09:14 GMT"
     },
     {
-      "title": "베선트, G20서 中 정조준…“1.2조 달러 무역흑자 지속 불가능”",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxc25CMHJQbFkwVnhQLVlHYTRxVHA4X0pQWVlxaDktaFJRMmJleWVtTUR4LWthUl94ODlQdjdWcXF3TTBtcGxkY1lSajZNMy1pN3oyckotUDFxV3BfNkN0bzNrVFZhUzJURl9BcG90bmFhTk3SAXdBVV95cUxPLWRwOGxyM2hlSXIzbnowWEhSaHMxXzVwZ1VQMWtKOTJ3MUxVbnh6bnBFRk1Cbl9mSFhZYXZMOW1QTkhiUUFTMnhPNF85Q2g3Vy1ldjNkNlpaYnJFN1g0c2t1dUd3VFF4QUlBMFlYc1lHQk0yM09Ucw?oc=5",
-      "source": "스트레이트뉴스",
-      "date": "Mon, 31 Aug 2026 22:15:28 GMT"
-    },
-    {
       "title": "베선트 “이란 경제 수주~수개월 내 붕괴 가능…중국 도움 없이도 제재 가능”",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95cE02VGZqNzhweFJwNE1YT3pTSHp1NG1VTHVwNnRTLUNzTzhvdmFUU1ZGZHhDM1lnNDg4ejFfSkFSaE9KTENwOU5rTGttX1NsVFZjbnFYWXc2a3NQMFlGSE00TXJYSjIxOS0xVXRIRQ?oc=5",
-      "source": "hani.co.kr",
+      "source": "한겨레",
       "date": "Mon, 31 Aug 2026 22:11:00 GMT"
     },
     {
@@ -36,27 +30,27 @@
       "date": "Mon, 31 Aug 2026 21:01:00 GMT"
     },
     {
-      "title": "\"中경제중심 상하이 시장에 '1970년대생' 주중밍 내정\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rRHl1Yy01RkZSMUg5bVdsUjBNRkFkLW5uQjJZaHZQUHZRWWplRG9YOHJNWjRZM0ZtSEJtSUtNaXlBNWRPMmxQN1VlUUx0YnRiV043VV9qZzBvbDjSAWBBVV95cUxPTGY1MUJ4MjdEU0M4VWVma0JkSkYxZDR1cTd3RlFkM3JRRXBtaVJPNFZPVDBUM3ZweHlCQ1VQY0o1QnJvUEwxRXdKSHRXQU0zUDl4d3NjaGRYZkxlOXpTSEY?oc=5",
-      "source": "연합뉴스",
-      "date": "Sun, 30 Aug 2026 18:40:43 GMT"
+      "title": "베선트 \"G20, 막대한 무역흑자 중국과의 교역조건 재검토해야\"",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kVW9QU1Zoem4xbkNGejA3ckhIa29Bd2t2ZHVITTdKbDRrUERKSW9vV0lDSExYWW5BTDV6Vl9xdDdDbDdSU0ZzWGRmbzFORWRYa3Zsc25NQkFzZw?oc=5",
+      "source": "한국경제",
+      "date": "Mon, 31 Aug 2026 10:00:37 GMT"
     },
     {
-      "title": "[유상철의 중국 읽기] 얼음과 불…두 얼굴의 중국 경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qc2FpdHB0dXpSamJRWWkxY1E0YkRMQUlaQ2s2bFdtRmY1d2ZUOUkzSE14TTlmSHV6Z0hHTld4QW1mUU94SkNZSFZ3LWRWRllFMDJQcDRn?oc=5",
-      "source": "중앙일보",
-      "date": "Sun, 30 Aug 2026 15:02:00 GMT"
+      "title": "美, 대중 공동전선 본격화…G20에 ‘中제품 수입 줄이라’",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JSzNJemlPd3prb3NNTGtkanp2bnpkclhXT2ZfWExPbFZFSEFJWGo2dG43czZ0WXZQZkEwNXR5TjFDUW40eUFJUnlySlVCNTg?oc=5",
+      "source": "v.daum.net",
+      "date": "Mon, 31 Aug 2026 07:54:09 GMT"
     },
     {
       "title": "중국, 내수 부양보다 첨단기술 '장기 승부'...K자형 경제 고착?",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wSlZZeDdrM1RodTJJMTFCVGlpWWZhSEc5czVyVUw0cGI4RXliSE5FdUhYRERSQlpzb0xiUERYZmtOekFocHMwQ2dmeUpZdnNMdTFzNGFOajVfb1lOWkRuZUdWMUpCZUR4NlMwbVdHMNIBc0FVX3lxTE4wUEdlWVQ0QUtJb3YyRGpSWXVNMk5vdWlfa1FfelFlRExyRlRWd3lKZlh4Wjgwb240dGJlMjJIOGtTMVFpV1ZFcVZoNy02Vi03SDZfZkY1U1RKVVU2VG52U3lVa1BKNFZOdVVvVVhFWEtObFk?oc=5",
-      "source": "초이스경제",
+      "source": "choicenews.co.kr",
       "date": "Sat, 29 Aug 2026 23:49:07 GMT"
     },
     {
       "title": "위안화 강세·수출 호조세에도…중국 경제 속으로 곪고 있다 [주末머니]",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KR01QSmZ3c2hTaFF4MVBjcU54NDlKUnZnQTVUQjRua3hGT3J2eHVESkVCU2o0ZjF6NHpyR0tUMFZncHptLWNjWGtCYndscHV6QzBnRVNpRmE0SjFQSmhOeA?oc=5",
-      "source": "아시아경제",
+      "source": "asiae.co.kr",
       "date": "Sat, 29 Aug 2026 06:48:00 GMT"
     },
     {
@@ -66,16 +60,22 @@
       "date": "Fri, 28 Aug 2026 19:35:53 GMT"
     },
     {
-      "title": "中, 자동차판매 -21%·부동산 투자 -19%…중국경제 '빨간불'",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iNTRtZUhiM3RVU2ZWWmZwNHk1RVBZME9uMnplbV91c3BMSjFlNm5WQUFqYjJ6cFpxMDVLOGc1VWhTdDJfSk1OY3VfVzNKRmp2aWc3XzZ3ZXJYQQ?oc=5",
-      "source": "hankyung.com",
-      "date": "Mon, 17 Aug 2026 07:00:00 GMT"
+      "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Fri, 28 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "[열린세상] ‘기술 혁신’ 중국 경제의 역설",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVpiQTJsR21nVklIcG5XR1NxR2tBNG9iZ1JfVkVmaWNxUkprY3FteW1WNG1xeDZXNi1CellROVc0NFhPd0l6MnBUdldjWG03NnA2VkdUd1pOXzd1M2FxQU1vYkFYR0FqdUdLWkU2N1p3aEFRZ2oxRkJYTW5VaVpTcGhralgxbkk?oc=5",
-      "source": "서울신문",
-      "date": "Fri, 24 Jul 2026 07:00:00 GMT"
+      "title": "흔들리는 중국 경제 심리, 공산당 기관지까지 '방어' 나섰지만...",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KR1JzS2hLdmV2R2ZqWUFlb3hoTU5CUm10dTV3SG1nVF9GcWlQTTRHRkJzWHFuaDB3Q0lRRnZOakhrZFBOUXM4ektRM0JTYm5WNTF5djY5eV9kZGEt?oc=5",
+      "source": "뉴스핌",
+      "date": "Mon, 24 Aug 2026 23:40:00 GMT"
+    },
+    {
+      "title": "중국발 '과잉생산·수출' 임계점…경제 위기 막으려면",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Bc1BLYmpzY05fSGFSeEV2VEthY1hFMHh0SHlsQkpobGZZTzh3amlmV2laRFExR09CYXJWanQ0T2lMdzRCXzlyZ2ROcF9Fa2Y4REVNbzE1U1Z2cU5ZRjJ0RENGMG91WEgtRFgzbg?oc=5",
+      "source": "세상을 바꾸는 시민언론 민들레",
+      "date": "Wed, 19 Aug 2026 07:00:00 GMT"
     }
   ]
 }
