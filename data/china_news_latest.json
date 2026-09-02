@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-02T08:24:56+09:00",
+  "run_at_kst": "2026-09-02T10:15:10+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -8,20 +8,8 @@
     {
       "title": "'2026 중국 국제빅데이터산업박람회' 폐막...中 디지털 경제 고도화 잠재력 입증-Xinhua",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00UF91TWdmSFdnLXhsVnkxM185YnhBUzk5dDFZWC1OaGtkTzN1RVJ6NGlXRlhBTm85Q080MmdnSUtwTmR6WW5tM2U3RnhjaWRIV1hSbC1rbERRTFc5MnY4VF80ZWZOUVAyd01lQ0l6dW56ZFI4?oc=5",
-      "source": "신화망",
+      "source": "kr.news.cn",
       "date": "Tue, 01 Sep 2026 05:45:34 GMT"
-    },
-    {
-      "title": "美 베선트 재무, 中 1조 2000억 달러 무역흑자 겨냥 “과도한 불균형”",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMbnJra1hoRTlzd01qeFE2WENZREZvektUb2hRbXdPeEhJbUdGVTlSYTkzcDdXUTY3ZGl1Q2hBRUhEN3FEd3o2b2lpbXppMXNnTmdTUzN0Y1A0MUdhRkxLRdIBeEFVX3lxTE9uVXdnWGRnZXktZ244YVAtVkpWQkdZWC1POUQzTHRzcUJfeHpNM1Z6Y25sTTlEV2d6UXE3MzFyaEJCLTEtbFRDcTJVQk44SjlkRWEyWXBWX09iUERFUUJkeUVTNG85V3JzbFNDSkIwc0VKcEtuaDA2Sg?oc=5",
-      "source": "뉴시스",
-      "date": "Tue, 01 Sep 2026 01:09:14 GMT"
-    },
-    {
-      "title": "베선트 “이란 경제 수주~수개월 내 붕괴 가능…중국 도움 없이도 제재 가능”",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95cE02VGZqNzhweFJwNE1YT3pTSHp1NG1VTHVwNnRTLUNzTzhvdmFUU1ZGZHhDM1lnNDg4ejFfSkFSaE9KTENwOU5rTGttX1NsVFZjbnFYWXc2a3NQMFlGSE00TXJYSjIxOS0xVXRIRQ?oc=5",
-      "source": "한겨레",
-      "date": "Mon, 31 Aug 2026 22:11:00 GMT"
     },
     {
       "title": "[월드 프리즘] 중국 제조업 경기 2개월 연속 위축…내수 부진, 부동산 시장 침체가 중국 경제 '발목'",
@@ -42,15 +30,21 @@
       "date": "Mon, 31 Aug 2026 07:54:09 GMT"
     },
     {
+      "title": "[이철우 칼럼] 차이나 인플럭스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxOGlYdGdhRm5TRU9fa1hHRWJEaFQ4dzVydk80OGlDamkzcFpUMXV0U1RaVWZ2Y09sc1lPMTVGWXhIUmRCWXpxOGJ2QWJqVUF3VzIwaGVUZFRCYnBwWS1Gek1zSlJHYlFL?oc=5",
+      "source": "대경일보",
+      "date": "Mon, 31 Aug 2026 05:19:43 GMT"
+    },
+    {
       "title": "중국, 내수 부양보다 첨단기술 '장기 승부'...K자형 경제 고착?",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wSlZZeDdrM1RodTJJMTFCVGlpWWZhSEc5czVyVUw0cGI4RXliSE5FdUhYRERSQlpzb0xiUERYZmtOekFocHMwQ2dmeUpZdnNMdTFzNGFOajVfb1lOWkRuZUdWMUpCZUR4NlMwbVdHMNIBc0FVX3lxTE4wUEdlWVQ0QUtJb3YyRGpSWXVNMk5vdWlfa1FfelFlRExyRlRWd3lKZlh4Wjgwb240dGJlMjJIOGtTMVFpV1ZFcVZoNy02Vi03SDZfZkY1U1RKVVU2VG52U3lVa1BKNFZOdVVvVVhFWEtObFk?oc=5",
-      "source": "choicenews.co.kr",
+      "source": "초이스경제",
       "date": "Sat, 29 Aug 2026 23:49:07 GMT"
     },
     {
       "title": "위안화 강세·수출 호조세에도…중국 경제 속으로 곪고 있다 [주末머니]",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KR01QSmZ3c2hTaFF4MVBjcU54NDlKUnZnQTVUQjRua3hGT3J2eHVESkVCU2o0ZjF6NHpyR0tUMFZncHptLWNjWGtCYndscHV6QzBnRVNpRmE0SjFQSmhOeA?oc=5",
-      "source": "asiae.co.kr",
+      "source": "아시아경제",
       "date": "Sat, 29 Aug 2026 06:48:00 GMT"
     },
     {
@@ -76,6 +70,12 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Bc1BLYmpzY05fSGFSeEV2VEthY1hFMHh0SHlsQkpobGZZTzh3amlmV2laRFExR09CYXJWanQ0T2lMdzRCXzlyZ2ROcF9Fa2Y4REVNbzE1U1Z2cU5ZRjJ0RENGMG91WEgtRFgzbg?oc=5",
       "source": "세상을 바꾸는 시민언론 민들레",
       "date": "Wed, 19 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "[논현논단] 혁신이란 착시에 갇힌 중국 경제",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBla1hLM0NuYVI4ZDl5dlhOQ3RjV1hRWFFMSzE2dVdfNGw0dWlrNjhfN2dVT2VENTdsaDU5S0JLZXRsM1dJZ3daYXJ1ZkMtLUJfYXVhRw?oc=5",
+      "source": "이투데이",
+      "date": "Thu, 13 Aug 2026 07:00:00 GMT"
     }
   ]
 }
