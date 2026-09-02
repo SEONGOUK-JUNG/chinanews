@@ -1,6 +1,6 @@
 {
-  "updated_at_kst": "2026-08-01T08:18:23+09:00",
-  "as_of": "2026-08-01",
+  "updated_at_kst": "2026-09-03T02:01:32+09:00",
+  "as_of": "2026-09-03",
   "source": "Trading Economics",
   "source_url": "https://tradingeconomics.com/china/indicators",
   "note": "통화·금리·부동산 지표. 출처 Trading Economics(중국). 각 카드의 기준시점 표기 참조.",
@@ -11,20 +11,20 @@
       "value": 3.5,
       "previous": 3.5,
       "display": "3.50%",
-      "ref": "2026-07",
-      "hint": "14개월 동결·사상 최저",
-      "hint_en": "held 14 months, record low"
+      "ref": "2026-08",
+      "hint": "15개월 동결·사상 최저",
+      "hint_en": "held 15 months, record low"
     },
     {
       "label": "10년 국채금리",
       "label_en": "10Y Govt Bond",
-      "value": 1.71,
-      "previous": 1.78,
-      "display": "1.71%",
-      "ref": "현재(7월)",
-      "ref_en": "current (Jul)",
-      "hint": "7월 31일 종가·1개월래 최저",
-      "hint_en": "Jul 31 close, near one-month low"
+      "value": 1.69,
+      "previous": 1.71,
+      "display": "1.69%",
+      "ref": "현재(9월)",
+      "ref_en": "current (Sep)",
+      "hint": "9월 2일 기준·1년래 최저권",
+      "hint_en": "Sep 2, near one-year low"
     },
     {
       "label": "SHIBOR 3개월",
@@ -32,8 +32,8 @@
       "value": 1.43,
       "previous": 1.43,
       "display": "1.43%",
-      "ref": "현재(7월)",
-      "ref_en": "current (Jul)",
+      "ref": "현재(9월)",
+      "ref_en": "current (Sep)",
       "hint": "은행간 단기금리·보합",
       "hint_en": "interbank rate, unchanged"
     },
@@ -44,28 +44,28 @@
       "previous": 8.6,
       "display": "+8.0%",
       "ref": "2026-06",
-      "hint": "CNY 356.71조",
-      "hint_en": "CNY 356.71T"
+      "hint": "CNY 356.71조·7월치 미발표",
+      "hint_en": "CNY 356.71T, July not yet released"
     },
     {
       "label": "위안화 대출증가율 (YoY)",
       "label_en": "Yuan Loan Growth (YoY)",
-      "value": 5.2,
-      "previous": 5.5,
-      "display": "+5.2%",
-      "ref": "2026-06",
+      "value": 5.1,
+      "previous": 5.3,
+      "display": "+5.1%",
+      "ref": "2026-07",
       "hint": "대출잔액 증가율·사상 최저",
       "hint_en": "outstanding loans, record low"
     },
     {
       "label": "70개도시 신규주택가격 (YoY)",
       "label_en": "70-City New Home Prices (YoY)",
-      "value": -3.3,
-      "previous": -3.5,
-      "display": "-3.3%",
-      "ref": "2026-06",
-      "hint": "36개월 연속 하락",
-      "hint_en": "36 months of declines"
+      "value": -3.2,
+      "previous": -3.3,
+      "display": "-3.2%",
+      "ref": "2026-07",
+      "hint": "37개월 연속 하락",
+      "hint_en": "37 months of declines"
     }
   ]
 }
