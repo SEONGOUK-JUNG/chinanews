@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-02T10:15:10+09:00",
+  "run_at_kst": "2026-09-02T21:14:06+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,42 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Qatar and UAE Turn to Rare LNG Ship Transfers as Hormuz Crisis Drags On",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Qatar-and-UAE-Turn-to-Rare-LNG-Ship-Transfers-as-Hormuz-Crisis-Drags-On.html",
+      "source": "OilPrice",
+      "date": "Wed, 02 Sep 2026 06:00:00 -0500"
+    },
+    {
+      "title": "Diesel Cracks Hit Record Highs as Global Fuel Squeeze Deepens",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Diesel-Cracks-Hit-Record-Highs-as-Global-Fuel-Squeeze-Deepens.html",
+      "source": "OilPrice",
+      "date": "Wed, 02 Sep 2026 04:45:00 -0500"
+    },
+    {
+      "title": "Pakistan Rejects Costly LNG Cargo as Blackout Risk Deepens",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Rejects-Costly-LNG-Cargo-as-Blackout-Risk-Deepens.html",
+      "source": "OilPrice",
+      "date": "Wed, 02 Sep 2026 03:30:00 -0500"
+    },
+    {
+      "title": "Hormuz Shipping Slumps as U.S.-Iran Strikes Rattle Oil Markets",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Shipping-Slumps-as-US-Iran-Strikes-Rattle-Oil-Markets.html",
+      "source": "OilPrice",
+      "date": "Wed, 02 Sep 2026 02:15:00 -0500"
+    },
+    {
+      "title": "U.S. Energy Secretary Says Venezuela Could More Than Double Oil Production",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Energy-Secretary-Says-Venezuela-Could-More-Than-Double-Oil-Production.html",
+      "source": "OilPrice",
+      "date": "Wed, 02 Sep 2026 01:00:00 -0500"
+    },
+    {
+      "title": "Oil Prices Rally as U.S. Targets Iranian Tankers in New Escalation",
+      "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Rally-as-US-Targets-Iranian-Tankers-in-New-Escalation.html",
+      "source": "OilPrice",
+      "date": "Tue, 01 Sep 2026 22:53:42 -0500"
+    },
     {
       "title": "Saudi Arabia Plans To Free 1 Mb/d As it Invests in Nuclear Power",
       "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Saudi-Arabia-Plans-To-Free-1-Mbd-As-it-Invests-in-Nuclear-Power.html",
@@ -24,42 +60,6 @@
       "link": "https://www.mining.com/greenland-resources-gets-120m-loi-from-nordic-investment-bank-for-malmbjerg-project/",
       "source": "mining.com",
       "date": "Tue, 01 Sep 2026 21:55:00 +0000"
-    },
-    {
-      "title": "EU Struggles to Curb Energy Transition Dependence on China",
-      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/EU-Struggles-to-Curb-Energy-Transition-Dependence-on-China.html",
-      "source": "OilPrice",
-      "date": "Tue, 01 Sep 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Solar Power Is Booming in Emerging Markets",
-      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Solar-Power-Is-Booming-in-Emerging-Markets.html",
-      "source": "OilPrice",
-      "date": "Tue, 01 Sep 2026 16:00:00 -0500"
-    },
-    {
-      "title": "U.S. Crude Inventories Drop amid Continued SPR Draws",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Inventories-Drop-amid-Continued-SPR-Draws.html",
-      "source": "OilPrice",
-      "date": "Tue, 01 Sep 2026 15:56:27 -0500"
-    },
-    {
-      "title": "U.S. Shale Producers Lose Bid to Kill Oil Price-Fixing Case",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Shale-Producers-Lose-Bid-to-Kill-Oil-Price-Fixing-Case.html",
-      "source": "OilPrice",
-      "date": "Tue, 01 Sep 2026 15:30:00 -0500"
-    },
-    {
-      "title": "U.S. Lithium Miners Finally Have a Shot at Cashing In",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Lithium-Miners-Finally-Have-a-Shot-at-Cashing-In.html",
-      "source": "OilPrice",
-      "date": "Tue, 01 Sep 2026 15:00:00 -0500"
-    },
-    {
-      "title": "Bessent Says Strait of Hormuz Obsolete Within Two Years",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Bessent-Says-Strait-of-Hormuz-Obsolete-Within-Two-Years.html",
-      "source": "OilPrice",
-      "date": "Tue, 01 Sep 2026 14:30:00 -0500"
     },
     {
       "title": "Collective extends Colombia’s Apollo on 15-g/t gold hit",

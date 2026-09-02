@@ -2,8 +2,8 @@
   "id": "paraxylene",
   "name": "파라자일렌",
   "unit": "CNY/t",
-  "updated_at_kst": "2026-09-01T22:00:02+09:00",
-  "count": 94,
+  "updated_at_kst": "2026-09-02T21:14:26+09:00",
+  "count": 95,
   "candles": [
     {
       "time": "2025-01-01",
@@ -380,6 +380,10 @@
     {
       "time": "2026-09-01",
       "value": 8511.9
+    },
+    {
+      "time": "2026-09-02",
+      "value": 9012.6
     }
   ],
   "history_note": "2026-06 SunSirs 일별가(최근 6일) 시드. 이후 매일 누적.",
