@@ -1,45 +1,45 @@
 {
-  "run_at_kst": "2026-09-02T21:14:06+09:00",
+  "run_at_kst": "2026-09-03T07:46:30+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "메모리값 급등에 중국 스마트폰도 줄인상…화웨이·샤오미 최대 20만원↑",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uVEo1V01JMFU4R2Rtd01uRHhadFB2LXdQb1VxbkNOSUFuNEt0RHBCX1c4b3BsTnpkRXVpWjBBQTRfNm5ncm1uVF9kQW1GblNRcUxaWU5iLS1KXzVoQ1NkbDg2ZVBCbDNtQTVtclRoeEXSAXRBVV95cUxPRVpCV0NnSXN2Z2dKZTBMQW1ULTktY3E4dVZLODUtLXFJM1o0WHdYSmw5YzlyUmp5bzEyOUNnVFVybzVwekFHY1BVSjFFX0R4ZUdzT1hmU0FPOXVTRHdRZUZiN1lvVGNTbUxxS3FXVVJJSkkzMA?oc=5",
-      "source": "newsworker.co.kr",
-      "date": "Wed, 02 Sep 2026 07:08:45 GMT"
+      "title": "[경제 이슈] 중국 반도체 수출 대폭발? 알고보니…\"한국산 메모리 훈풍 타고 날았다\"",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xcGllNnBZbGZQSVAyVWtuTHdPNVgwcDNNcTBXQnd2RUFFb2Z1Rmt2VGt6NVkzaFBWTXZvUzZNY3BBYnRuZ0V6R2ZwZzByUTFjRUQyU3o0LVFveUZjWE1nNTFoWEdpREZRTEJKeQ?oc=5",
+      "source": "프리진경제",
+      "date": "Wed, 02 Sep 2026 07:43:51 GMT"
     },
     {
       "title": "[경제] 중국경제원탁회의 \"베이징, 혁신기업 전 과정 성장 지원체계 구축\"",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pZkZqZmZWeE00NHFYaXdkYUg0MGJJSHFMSEdUS1JqaTRIQnNTVW5Wc051c21ERHE3SUNlR3kwTi1ha0FQenZMLW1sX3pHSXJRVnF1ZGoxNVd3Yi1tdWdoMVBJMm9MWnFvNFYw?oc=5",
-      "source": "서울뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qYkNjUWVtMzRJWmtjdDFoN2tsUG10c1JCclpYZVZZX0pSWHhOM180SXBvWTRXbU5udEFoeHBBdXN6VVp6Q01LYk44NkFvQ3Nza3Y0dTVjWHFGdk1EUk1PNHR6QkFrUnYzOWRqTFJHQ3VBS2s?oc=5",
+      "source": "동방일보",
       "date": "Wed, 02 Sep 2026 06:36:25 GMT"
     },
     {
-      "title": "中 반도체 수출 두 배 급증…증가분 상당 부분 한국계가 견인",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3U05HMFhUX1RNeE1xU2dWZDdzNzJxQThIM1p3OENSSDBINnpCVkhPTnpFREdxbnEwLWNydWl2RmF5b2tNLXRTMjVSSUZPeWQ5cm9RMlJ6Z213a1lVTlpya3hxVlVHQmVPaEVWSUxuRQ?oc=5",
-      "source": "리드경제",
-      "date": "Wed, 02 Sep 2026 05:05:00 GMT"
-    },
-    {
-      "title": "“입사 축하받고 바로 잘렸습니다”…한달새 신입사원 100명 자른 회사",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xSzdqa2RZWkZrOHhsTzlLU0F4MUxEaTRCNmpoaXUwVXZJYXNrSGhNN25PLXVFakFYSGFqNDFQN25CZi1ldXZqd3RnVEpZc1k?oc=5",
-      "source": "v.daum.net",
-      "date": "Wed, 02 Sep 2026 02:39:00 GMT"
-    },
-    {
-      "title": "중국 정부빚 2경원 돌파…'경제 뇌관' 그림자부채는 절반 '뚝'",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpZk5zaEMydnQ5MWhPSFB5aExzTHdHNGJBbVdncWo4NFp5MGNMZFJEX3k1Nm5SUkFjQkltNk5tcVJBaTEtUUZsc3BDR2JmSnd1Y1BnTmxYTF9NMnUydEtiWjZ1bklFS0VldGNVcU95UUFpdGJCVk81Ng?oc=5",
-      "source": "네이트",
-      "date": "Wed, 02 Sep 2026 00:50:00 GMT"
+      "title": "중국 기업은 어떻게 세계 산업 흔드나…이필상 작가 ‘차이나 시그널’ 출간",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKU1NvYXdDZXRUVldyZnVTWGJSX2F6YTdxX2ZrMFpuQUxpOHBwcUJVNTF6X2ZtNW0zYTd1eXRvaGtIUy1YbTZFMUxmeUhmNnpHZWVTYjdWUlFkYWNXR0k1ZFNNUEM?oc=5",
+      "source": "서울경제TV",
+      "date": "Wed, 02 Sep 2026 06:03:29 GMT"
     },
     {
       "title": "중국 리창 총리 “미·중 경제 관계 본질은 상호 이익···일부 마찰은 정상”",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkbE8zSDBIalh5NmMzSU9OcHlBQUdaOTdhRm9hWmMteEtHcmprX0VWc0NOVTREdGs2ajUwLXFDVWoxQ1RMZlRDM0tuQUR5bXB0akktWlVXU3drQdIBX0FVX3lxTFBOdkVIaEtRVzBUaGxKcllYMGFCczhqRC1SUWpNNGpqS3BLQ012ZU80MTFDMmlPbE90MVBSRHRhcjlKdjZLMXh2TW92UDEzNzZERG9rVTkwY09VdUg1b2xn?oc=5",
       "source": "경향신문",
       "date": "Tue, 01 Sep 2026 13:38:00 GMT"
+    },
+    {
+      "title": "[월드 프리즘] 중국 제조업 경기 2개월 연속 위축…내수 부진, 부동산 시장 침체가 중국 경제 '발목'",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05N2k1UXZmZUJOUi1SX2JSY3RNRkJnWXo1Ql9ILTdoOFVuM2tYcWwwUGJld2tudXN4ZDM5T2RldHpKU2tERTNES25QQlFqU2lBTFRCYUFEU3BSY1R3Y3RfNG1xdDZTbFVWdGszT0FDSnc?oc=5",
+      "source": "위키리크스한국",
+      "date": "Mon, 31 Aug 2026 21:01:00 GMT"
+    },
+    {
+      "title": "베선트 \"G20, 막대한 무역흑자 중국과의 교역조건 재검토해야\"",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kVW9QU1Zoem4xbkNGejA3ckhIa29Bd2t2ZHVITTdKbDRrUERKSW9vV0lDSExYWW5BTDV6Vl9xdDdDbDdSU0ZzWGRmbzFORWRYa3Zsc25NQkFzZw?oc=5",
+      "source": "한국경제",
+      "date": "Mon, 31 Aug 2026 10:00:37 GMT"
     },
     {
       "title": "\"中경제중심 상하이 시장에 '1970년대생' 주중밍 내정\"",
@@ -54,6 +54,12 @@
       "date": "Sun, 30 Aug 2026 15:02:00 GMT"
     },
     {
+      "title": "중국, 내수 부양보다 첨단기술 '장기 승부'...K자형 경제 고착?",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wSlZZeDdrM1RodTJJMTFCVGlpWWZhSEc5czVyVUw0cGI4RXliSE5FdUhYRERSQlpzb0xiUERYZmtOekFocHMwQ2dmeUpZdnNMdTFzNGFOajVfb1lOWkRuZUdWMUpCZUR4NlMwbVdHMNIBc0FVX3lxTE4wUEdlWVQ0QUtJb3YyRGpSWXVNMk5vdWlfa1FfelFlRExyRlRWd3lKZlh4Wjgwb240dGJlMjJIOGtTMVFpV1ZFcVZoNy02Vi03SDZfZkY1U1RKVVU2VG52U3lVa1BKNFZOdVVvVVhFWEtObFk?oc=5",
+      "source": "초이스경제",
+      "date": "Sat, 29 Aug 2026 23:49:07 GMT"
+    },
+    {
       "title": "\"다음 글로벌 경제위기는 중국에서 시작될 것\" - 머니투데이",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43aFF3cEtoOTBMZzlLYWtiMFlHMmNwQ0pzdEpqMm8zZS1jNDJLUmdLSFJRS0VNSl9FeDNUZ1NYcTRTdGJUUHQ4RDZqYXVsX2dvMlR5S1BaWUlXc1Y2V3ZmaG1GUzNpeUdP0gFuQVVfeXFMT1V6X0g4TkV6Rk05ek9yZlZiVnYwTHNZTGY3M0RNT1RSVjVNVWd2Mi1rVWxJSlB2c0RfajFIdDFoUXJoUW9tcWVaU3dBaGRaWXM4aXo1VWgyaGJqTHA4VHJROUFvcW44Q092QUtHTEE?oc=5",
       "source": "머니투데이",
@@ -66,16 +72,10 @@
       "date": "Sat, 29 Aug 2026 06:48:00 GMT"
     },
     {
-      "title": "2026년 7월 중국경제 동향과 전망",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRTdxRDF2dzc1VHRhUTZ1SHI4NGFDQ1dJeWtheG1ycTlYeXBOUDZvZE1JUDJTbER0NmE1eWdod3pGalJUX3NpZFBrYlloNmotS2YxSHNaVjVnQTFoNHM1OG9DZXpEUkwzdEk4UzNGcWlPanpGY181aTlVdjJINVcyQW9vcw?oc=5",
-      "source": "KDI 경제교육·정보센터",
-      "date": "Fri, 28 Aug 2026 19:35:53 GMT"
-    },
-    {
-      "title": "中, 자동차판매 -21%·부동산 투자 -19%…중국경제 '빨간불'",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iNTRtZUhiM3RVU2ZWWmZwNHk1RVBZME9uMnplbV91c3BMSjFlNm5WQUFqYjJ6cFpxMDVLOGc1VWhTdDJfSk1OY3VfVzNKRmp2aWc3XzZ3ZXJYQQ?oc=5",
-      "source": "한국경제",
-      "date": "Mon, 17 Aug 2026 07:00:00 GMT"
+      "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Fri, 28 Aug 2026 07:00:00 GMT"
     }
   ]
 }
