@@ -336,7 +336,7 @@ def topbar(lang, alt_path):
     home = "/ko/" if lang == "ko" else "/"
     return (
         '<header class="top"><a class="logo" href="{home}">{logo}CHINANEWS</a>'
-        '<nav><a href="{home}">{h}</a><a href="{p}/terminal/">{term}</a><a href="{p}/commodities/">{az}</a><a href="{p}/daily/">{d}</a>'
+        '<nav><a href="{home}">{h}</a><a href="{p}/commodities/">{az}</a><a href="{p}/daily/">{d}</a>'
         '<a href="{p}/supply/" style="color:var(--orange)">{sup}</a>'
         '<a href="/press/abridge-sic-cvd-20260615.html">{pr}</a></nav>'
         '<a class="lang" href="{alt}" hreflang="{al}">{ol}</a></header>\n'
@@ -349,7 +349,7 @@ def footer(lang, n_items):
     p = "/ko" if lang == "ko" else ""
     home = "/ko/" if lang == "ko" else "/"
     return (
-        '<footer><nav><a href="{home}">{h}</a><a href="{p}/terminal/">{term}</a><a href="{p}/commodities/">{az}</a><a href="{p}/daily/">{d}</a><a href="{p}/supply/">{sup}</a>'
+        '<footer><nav><a href="{home}">{h}</a><a href="{p}/commodities/">{az}</a><a href="{p}/daily/">{d}</a><a href="{p}/supply/">{sup}</a>'
         '<a href="/press/abridge-sic-cvd-20260615.html">{pr}</a><a href="{alt}">{ol}</a></nav>'
         '<p>{about}</p><p class="disc">{disc}</p>'
         '<p>© BRIDGE GROUP · <a href="http://www.abridge.co.kr/" rel="noopener">ABridge</a> · <a href="https://www.ecobridge.biz/" rel="noopener">Ecobridge</a> · <a href="https://dealbridge.asia/" rel="noopener">DealBridge</a></p></footer>\n'
@@ -676,7 +676,7 @@ def render_commodity(lang, it, items_by_sector, ref_date, n_items):
             out.append('<a href="{}">{}</a>'.format(idx_href, esc(t["all_in_sector"].format(sector=sector))))
         out.append("</div>\n")
 
-    out.append('<p><a class="cta" href="{}">{}</a></p>\n'.format("/ko/terminal/" if lang == "ko" else "/terminal/", esc(t["see_terminal"])))
+    out.append('<p><a class="cta" href="{}">{}</a></p>\n'.format("/ko/" if lang == "ko" else "/", esc(t["see_terminal"])))
     out.append(footer(lang, n_items))
     return "".join(out)
 
@@ -826,7 +826,7 @@ def render_daily(lang, items, items_by_sector, cm, stocks, fx, macro, ref_date, 
             out.append('<tr><td>{}</td><td class="num">{}</td><td class="num">{}</td><td style="color:var(--muted)">{}</td></tr>'.format(esc(lbl), esc(i.get("display") or i.get("value")), esc(i.get("previous")), esc(i.get("ref"))))
         out.append("</tbody></table></div>\n")
 
-    out.append('<p><a class="cta" href="{}">{}</a></p>\n'.format("/ko/terminal/" if lang == "ko" else "/terminal/", esc(t["see_terminal"])))
+    out.append('<p><a class="cta" href="{}">{}</a></p>\n'.format("/ko/" if lang == "ko" else "/", esc(t["see_terminal"])))
     out.append(footer(lang, len(items)))
     return "".join(out)
 
@@ -855,7 +855,22 @@ def render_daily_index(lang, dates, n_items):
 # ----------------------------------------------------------------------------
 # Korean copy of the terminal (index.html -> ko/index.html)
 # ----------------------------------------------------------------------------
-KO_TITLE = "CHINANEWS — 중국 원자재·증시·환율 실시간 터미널"
+KO_TITLE = "CHINANEWS — 중국 원자재·증시·환율 실시간 터미널 | 희토류·반도체·6N 구리 공급"
+KO_BANNER = """<!-- supply-banner -->
+<div id="supply-banner" style="background:var(--bg-1);border-bottom:1px solid var(--line);padding:7px 14px;text-align:center;font-size:13px;line-height:1.5">
+  <span style="color:var(--orange);font-weight:700">중국 희토류 공급 · 중국 반도체 조달 · 고순도 구리 5N/6N</span>
+  <span style="color:var(--muted)"> — 생산자 직거래 · </span>
+  <a href="/ko/supply/rare-earths.html" style="color:var(--text);text-decoration:underline">희토류</a> ·
+  <a href="/ko/supply/semiconductors.html" style="color:var(--text);text-decoration:underline">반도체</a> ·
+  <a href="/ko/supply/high-purity-copper.html" style="color:var(--text);text-decoration:underline">5N/6N 구리</a>
+  <a href="/ko/supply/#rfq" style="display:inline-block;margin-left:10px;padding:2px 10px;border:1px solid var(--orange);border-radius:2px;color:var(--orange);font-weight:700;font-size:12px">견적 요청</a>
+  <button type="button" id="supply-more" data-more="더보기 ▾" data-less="접기 ▴" style="margin-left:6px;background:none;border:1px solid var(--line-2);border-radius:2px;color:var(--muted);font-size:12px;padding:2px 8px;cursor:pointer;font-family:inherit">더보기 ▾</button>
+  <div id="supply-more-list" hidden style="margin-top:5px;font-size:12px;color:var(--muted)">
+    <a href="/ko/supply/yttrium.html" style="color:var(--text)">이트륨</a> · <a href="/ko/supply/gallium.html" style="color:var(--text)">갈륨</a> · <a href="/ko/supply/terbium.html" style="color:var(--text)">테르븀</a> · <a href="/ko/supply/tungsten.html" style="color:var(--text)">텅스텐</a> · <a href="/ko/supply/germanium.html" style="color:var(--text)">게르마늄</a> · <a href="/ko/supply/hafnium.html" style="color:var(--text)">하프늄</a> · <a href="/ko/supply/semiconductor-materials.html" style="color:var(--text)">반도체 소재</a> · <a href="/ko/supply/" style="color:var(--orange)">전체 품목 →</a>
+  </div>
+</div>
+<script>(function(){var b=document.getElementById('supply-more'),l=document.getElementById('supply-more-list');if(!b||!l)return;b.addEventListener('click',function(){l.hidden=!l.hidden;b.textContent=l.hidden?b.getAttribute('data-more'):b.getAttribute('data-less');});})();</script>
+<!-- /supply-banner -->"""
 KO_DESC = ("중국·글로벌 원자재 현물가의 일일 변동을 한눈에 — 중국 증시(CSI300·항셍), 코스피, 위안·원 환율, 금리·부동산, "
            "기술적 차트, 실시간 뉴스, 수입원가 계산기. 매일 갱신되는 라이브 마켓 터미널. chinanews.kr")
 
@@ -865,11 +880,10 @@ def render_ko_home(src_html):
     s = s.replace('<html lang="en">', '<html lang="ko">', 1)
     s = re.sub(r"<title>.*?</title>", "<title>" + esc(KO_TITLE) + "</title>", s, count=1, flags=re.S)
     s = re.sub(r'<meta name="description" content="[^"]*">', '<meta name="description" content="' + esc(KO_DESC) + '">', s, count=1)
-    s = s.replace('<link rel="canonical" href="https://chinanews.kr/terminal/">', '<link rel="canonical" href="https://chinanews.kr/ko/terminal/">', 1)
-    s = s.replace('<meta property="og:url" content="https://chinanews.kr/terminal/">', '<meta property="og:url" content="https://chinanews.kr/ko/terminal/">', 1)
-    s = s.replace('<a class="tb-tab" href="/">Home</a>', '<a class="tb-tab" href="/ko/">홈</a>', 1)
-    s = s.replace('<span class="tb-tab active" data-target="top">Terminal</span>', '<span class="tb-tab active" data-target="top">터미널</span>', 1)
-    s = s.replace('<a href="/" style="color:var(--orange);margin-right:14px">Home</a>', '<a href="/ko/" style="color:var(--orange);margin-right:14px">홈</a>', 1)
+    s = s.replace('<link rel="canonical" href="https://chinanews.kr/">', '<link rel="canonical" href="https://chinanews.kr/ko/">', 1)
+    s = s.replace('<meta property="og:url" content="https://chinanews.kr/">', '<meta property="og:url" content="https://chinanews.kr/ko/">', 1)
+    # compact supply banner (top centre) in Korean
+    s = re.sub(r"<!-- supply-banner -->.*?<!-- /supply-banner -->", lambda _m: KO_BANNER, s, count=1, flags=re.S)
     s = re.sub(r'<meta property="og:title" content="[^"]*">', '<meta property="og:title" content="' + esc(KO_TITLE) + '">', s, count=1)
     s = re.sub(r'<meta property="og:description" content="[^"]*">', '<meta property="og:description" content="' + esc(KO_DESC) + '">', s, count=1)
     s = s.replace('<meta property="og:url" content="https://chinanews.kr/">', '<meta property="og:url" content="https://chinanews.kr/ko/">', 1)
@@ -933,7 +947,7 @@ def _web3forms_key(root):
     global WEB3FORMS_KEY
     if WEB3FORMS_KEY is None:
         try:
-            with open(os.path.join(root, "terminal", "index.html"), "r", encoding="utf-8") as f:
+            with open(os.path.join(root, "index.html"), "r", encoding="utf-8") as f:
                 m = re.search(r'name="access_key"\s+value="([0-9a-f-]{36})"', f.read())
             WEB3FORMS_KEY = m.group(1) if m else ""
         except Exception:
@@ -1087,120 +1101,6 @@ def render_supply_index(lang, pages, n_items, key, ref_date):
 
 
 # ----------------------------------------------------------------------------
-# home page = sales landing (content in tools/landing.py)
-# ----------------------------------------------------------------------------
-LANDING_CSS = """
-.hero{padding:34px 0 10px}
-.hero h1{font-size:34px;line-height:1.2;max-width:900px}
-.hero .sub{font-size:16px;color:var(--text);max-width:760px;margin:12px 0 18px;line-height:1.65}
-.hero .ctabar a.cta2{display:inline-block;padding:8px 14px;border:1px solid var(--line-2);border-radius:3px;font-weight:600;font-size:13px;color:var(--text)}
-.hcards{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:22px 0 8px}
-@media(max-width:900px){.hcards{grid-template-columns:1fr}.hero h1{font-size:26px}}
-.hcard{background:var(--panel);border:1px solid var(--line-2);border-top:3px solid var(--orange);border-radius:4px;padding:18px 18px 16px;display:flex;flex-direction:column}
-.hcard h2{margin:0 0 8px;font-size:19px;color:var(--bright);text-transform:none;letter-spacing:0;border:none;padding:0}
-.hcard p{margin:0 0 10px;font-size:13.5px;color:var(--text);line-height:1.6}
-.hcard ul{margin:0 0 12px;padding-left:18px;font-size:12.5px;color:var(--muted)}.hcard li{margin:3px 0}
-.hcard .lp{font-size:12px;color:var(--muted);border-top:1px solid var(--line);padding-top:8px;margin-top:auto}.hcard .lp b{color:var(--bright);font-family:"JetBrains Mono",Consolas,monospace;font-weight:600}
-.hcard .acts{display:flex;gap:10px;align-items:center;margin-top:10px}.hcard .acts a.cta{margin:0;padding:7px 12px;font-size:13px}
-.mcards{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:10px;margin-top:10px}
-.mcard{background:var(--panel);border:1px solid var(--line-2);border-radius:4px;padding:12px 14px}.mcard h3{margin:0 0 5px;font-size:14.5px}.mcard p{margin:0 0 6px;font-size:12px;color:var(--muted);line-height:1.5}.mcard a.more{font-size:12px;font-weight:700}
-.morebtn{display:inline-block;margin-top:12px;padding:8px 14px;border:1px solid var(--line-2);border-radius:3px;background:var(--bg-2);color:var(--text);cursor:pointer;font:inherit;font-size:13px}
-.morebtn:hover{border-color:var(--orange)}
-.why{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px}.why div{background:var(--panel);border:1px solid var(--line);padding:14px 16px}.why h3{margin:0 0 6px;font-size:14px;color:var(--orange)}.why p{margin:0;font-size:12.5px;color:var(--text);line-height:1.55}
-.how{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px}.how div{border-left:2px solid var(--orange);padding:4px 14px}.how h3{margin:0 0 4px;font-size:14px}.how p{margin:0;font-size:12.5px;color:var(--muted)}
-.idx{display:flex;gap:1px;background:var(--line);border:1px solid var(--line);overflow-x:auto}.idx div{background:var(--bg-2);padding:8px 14px;min-width:150px}.idx .n{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.8px}.idx .v{font-family:"JetBrains Mono",Consolas,monospace;font-weight:700;color:var(--bright)}.idx .c{font-family:"JetBrains Mono",Consolas,monospace;font-size:12px;margin-left:6px}
-"""
-
-
-def render_landing(lang, pages_by_slug, by_ko, stocks, fx, ref_date, n_items, key):
-    import landing as LD
-    import supply_content as SC
-    t = LD.L[lang]
-    path = "/ko/" if lang == "ko" else "/"
-    alt = "/" if lang == "ko" else "/ko/"
-    ld = {"@context": "https://schema.org", "@graph": [
-        {"@type": "WebSite", "@id": SITE + "/#website", "name": "CHINANEWS", "alternateName": "차이나뉴스", "url": SITE + "/", "inLanguage": ["en", "ko"], "publisher": {"@id": SITE + "/#org"}},
-        {"@type": "WebPage", "@id": SITE + path, "url": SITE + path, "name": t["title"], "description": t["desc"], "inLanguage": lang, "dateModified": ref_date, "isPartOf": {"@id": SITE + "/#website"}},
-        {"@type": "ItemList", "itemListElement": [{"@type": "ListItem", "position": i + 1, "name": LD.HERO[s][lang][0], "url": SITE + supply_href(lang, s)} for i, s in enumerate(LD.HERO_ORDER)]},
-        dict(ORG_LD, contactPoint={"@type": "ContactPoint", "contactType": "sales", "email": "koreagwangju@gmail.com", "telephone": "+82-1661-0400", "areaServed": "Worldwide", "availableLanguage": ["ko", "en", "zh"]},
-             address={"@type": "PostalAddress", "addressLocality": "Gwangju", "addressCountry": "KR"})]}
-    hd = head(lang, t["title"], t["desc"], path, alt, ld).replace("</style>", SUPPLY_CSS + LANDING_CSS + "</style>")
-    p = "/ko" if lang == "ko" else ""
-    nav = t["nav"]
-    top = ('<header class="top"><a class="logo" href="{home}">{logo}CHINANEWS</a><nav>'
-           '<a href="{p}/supply/rare-earths.html">{n0}</a><a href="{p}/supply/semiconductors.html">{n1}</a><a href="{p}/supply/high-purity-copper.html">{n2}</a>'
-           '<a href="{p}/supply/">{n3}</a><a href="{p}/terminal/">{n4}</a><a href="/press/abridge-sic-cvd-20260615.html">{n5}</a></nav>'
-           '<a class="lang" href="{alt}" hreflang="{al}">{ol}</a></header>\n').format(
-        home=path, logo=LOGO_SVG, p=p, n0=esc(nav[0]), n1=esc(nav[1]), n2=esc(nav[2]), n3=esc(nav[3]), n4=esc(nav[4]), n5=esc(nav[5]),
-        alt=alt, al="en" if lang == "ko" else "ko", ol=T[lang]["other_lang"])
-    out = [hd, "<body>\n", top, '<div class="wrap">\n']
-
-    # hero
-    out.append('<section class="hero"><h1>{}</h1><p class="sub">{}</p>'.format(esc(t["h1"]), esc(t["sub"])))
-    out.append('<div class="ctabar"><a class="cta" href="#rfq">{}</a><a class="cta2" href="#live">{}</a></div>'.format(esc(t["cta"]), esc(t["cta2"])))
-    out.append('<div class="hcards">')
-    for slug in LD.HERO_ORDER:
-        h = LD.HERO[slug]
-        title, blurb, bullets = h[lang]
-        out.append('<article class="hcard"><h2><a href="{}">{}</a></h2><p>{}</p><ul>{}</ul>'.format(
-            supply_href(lang, slug), esc(title), esc(blurb), "".join("<li>{}</li>".format(esc(b)) for b in bullets)))
-        lp = []
-        for k in h["live"]:
-            it = by_ko.get(k)
-            if it:
-                lp.append('<a href="{}">{}</a> <b>{}</b> <span class="{}">{}</span>'.format(it.href(lang), esc(it.name(lang)), fmt_num(it.main["last"]), pct_class(it.main["chg"]), fmt_pct(it.main["chg"])))
-        if lp:
-            out.append('<div class="lp">{} · CNY<br>{}</div>'.format(esc(T[lang]["asof"].format(date=ref_date)), " &nbsp;·&nbsp; ".join(lp[:3])))
-        out.append('<div class="acts"><a class="cta" href="{}#rfq">{}</a><a href="{}">{}</a></div></article>'.format(supply_href(lang, slug), esc(t["rfq"]), supply_href(lang, slug), esc(t["detail"])))
-    out.append("</div></section>\n")
-
-    # more products (collapsed)
-    out.append('<section><h2 class="{}">{}</h2>'.format("ko" if lang == "ko" else "", esc(t["more"])))
-    out.append('<div class="mcards" id="more-cards" hidden>')
-    for slug in LD.MORE_ORDER:
-        pg = pages_by_slug.get(slug)
-        if not pg:
-            continue
-        out.append('<div class="mcard"><h3><a href="{}">{}</a></h3><p>{}</p><a class="more" href="{}#rfq">{}</a></div>'.format(
-            supply_href(lang, slug), esc(pg[lang]["h1"]), esc(pg[lang]["desc"]), supply_href(lang, slug), esc(t["rfq"])))
-    out.append('</div><button type="button" class="morebtn" id="more-btn" data-more="{}" data-less="{}">{}</button></section>\n'.format(esc(t["more_btn"]), esc(t["less_btn"]), esc(t["more_btn"])))
-    out.append('<script>(function(){var b=document.getElementById("more-btn"),c=document.getElementById("more-cards");if(!b||!c)return;b.addEventListener("click",function(){c.hidden=!c.hidden;b.textContent=c.hidden?b.getAttribute("data-more"):b.getAttribute("data-less");});})();</script>\n')
-
-    # live strip
-    rows = _live_price_rows(lang, LD.STRIP, by_ko)
-    if rows:
-        out.append('<section id="live"><h2 class="{}">{}</h2>'.format("ko" if lang == "ko" else "", esc(t["live_h"])))
-        out.append('<div class="tblwrap"><table><thead><tr>{}</tr></thead><tbody>{}</tbody></table></div>'.format(
-            "".join('<th{}>{}</th>'.format(' class="num"' if i in (1, 2) else "", esc(h)) for i, h in enumerate(SUP[lang]["price_cols"])), "".join(rows)))
-        out.append('<div class="note">{} · {}</div></section>\n'.format(esc(t["live_note"]), esc(T[lang]["asof"].format(date=ref_date))))
-
-    # why / how
-    out.append('<section><h2 class="{}">{}</h2><div class="why">{}</div></section>\n'.format("ko" if lang == "ko" else "", esc(t["why_h"]),
-               "".join("<div><h3>{}</h3><p>{}</p></div>".format(esc(a), esc(b)) for a, b in t["why"])))
-    out.append('<section><h2 class="{}">{}</h2><div class="how">{}</div></section>\n'.format("ko" if lang == "ko" else "", esc(t["how_h"]),
-               "".join("<div><h3>{}</h3><p>{}</p></div>".format(esc(a), esc(b)) for a, b in t["how"])))
-
-    # rfq
-    out.append(rfq_form(lang, key, "[chinanews.kr] RFQ: home", ""))
-
-    # markets teaser
-    idx = [i for i in ((stocks or {}).get("indices") or []) if i.get("price") is not None]
-    cells = []
-    for i in idx[:9]:
-        cells.append('<div><div class="n">{}</div><span class="v">{}</span><span class="c {}">{}</span></div>'.format(esc(i.get("name")), fmt_num(i.get("price")), pct_class(i.get("change_pct")), fmt_pct(i.get("change_pct"))))
-    for grp in ("derived", "rates"):
-        for k, v in ((fx or {}).get(grp) or {}).items():
-            if isinstance(v, dict) and v.get("value") is not None and k in ("usd_cny", "cny_krw", "usd_krw"):
-                cells.append('<div><div class="n">{}</div><span class="v">{}</span><span class="c {}">{}</span></div>'.format(esc(v.get("name")), fmt_num(v.get("value"), 4 if float(v["value"]) < 100 else 2), pct_class(v.get("change_pct")), fmt_pct(v.get("change_pct"))))
-    if cells:
-        out.append('<section><h2 class="{}">{}</h2><div class="idx">{}</div><p style="margin-top:10px"><a class="cta" href="{}/terminal/">{}</a></p></section>\n'.format("ko" if lang == "ko" else "", esc(t["idx_h"]), "".join(cells), p, esc(t["idx_link"])))
-
-    out.append('<section><h2 class="{}">{}</h2><p>{}</p><ul class="comp">{}</ul></section>\n'.format("ko" if lang == "ko" else "", esc(SUP[lang]["about"]), esc(t["about"]), "".join("<li>{}</li>".format(esc(x)) for x in SC.COMPLIANCE[lang])))
-    out.append(footer(lang, n_items))
-    return "".join(out)
-
-
-# ----------------------------------------------------------------------------
 # sitemap
 # ----------------------------------------------------------------------------
 def render_sitemap(entries):
@@ -1311,27 +1211,20 @@ def main():
             sup_entries.append((en_p, ref_date, "weekly", "0.9", (en_p, ko_p)))
             sup_entries.append((ko_p, ref_date, "weekly", "0.9", (en_p, ko_p)))
         entries = sup_entries + entries
-        # home = sales landing (EN at /, KO at /ko/)
-        pages_by_slug = {p["slug"]: p for p in pages}
-        for lang in ("en", "ko"):
-            dst = os.path.join(root, "ko", "index.html") if lang == "ko" else os.path.join(root, "index.html")
-            if write_if_changed(dst, render_landing(lang, pages_by_slug, by_ko, stocks, fx, ref_date, n, key)):
-                written += 1
     except Exception as e:
         print("build_pages: supply/landing pages skipped:", e, file=sys.stderr)
 
     # Korean terminal copy (terminal/index.html -> ko/terminal/index.html)
     try:
-        with open(os.path.join(root, "terminal", "index.html"), "r", encoding="utf-8") as f:
+        with open(os.path.join(root, "index.html"), "r", encoding="utf-8") as f:
             src = f.read()
-        if write_if_changed(os.path.join(root, "ko", "terminal", "index.html"), render_ko_home(src)):
+        if write_if_changed(os.path.join(root, "ko", "index.html"), render_ko_home(src)):
             written += 1
     except Exception as e:
-        print("build_pages: ko/terminal skipped:", e, file=sys.stderr)
+        print("build_pages: ko/index.html skipped:", e, file=sys.stderr)
 
     # static pages
     static = [("/", today, "daily", "1.0", ("/", "/ko/")), ("/ko/", today, "daily", "1.0", ("/", "/ko/")),
-              ("/terminal/", today, "daily", "0.8", ("/terminal/", "/ko/terminal/")), ("/ko/terminal/", today, "daily", "0.8", ("/terminal/", "/ko/terminal/")),
               ("/press/abridge-sic-cvd-20260615.html", "2026-06-15", "monthly", "0.7", None),
               ("/newsroom-org-chart.html", "2026-06-18", "monthly", "0.3", None)]
     entries = static + entries
