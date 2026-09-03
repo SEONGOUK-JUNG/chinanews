@@ -308,7 +308,7 @@ def head(lang, title, desc, path, alt_path, ld=None, og_type="website"):
         '<link rel="alternate" hreflang="en" href="{site}{en}">\n'
         '<link rel="alternate" hreflang="ko" href="{site}{ko}">\n'
         '<link rel="alternate" hreflang="x-default" href="{site}{en}">\n'
-        '<link rel="icon" href="/icon.svg" type="image/svg+xml">\n'
+        '<link rel="icon" href="/icon.svg" type="image/svg+xml">\n<link rel="alternate" type="application/rss+xml" title="CHINANEWS Daily Brief" href="/feed.xml">\n'
         '<meta name="theme-color" content="#0d1117">\n'
         '<meta property="og:type" content="{ogt}">\n'
         '<meta property="og:site_name" content="CHINANEWS">\n'
@@ -379,8 +379,7 @@ def breadcrumb_ld(lang, items):
     return {"@type": "BreadcrumbList", "itemListElement": lst}
 
 
-ORG_LD = {"@type": "Organization", "@id": SITE + "/#org", "name": "BRIDGE GROUP", "url": SITE + "/",
-          "logo": SITE + "/og-image.png", "sameAs": ["http://www.abridge.co.kr/", "https://www.ecobridge.biz/"]}
+ORG_LD = {"@type": "Organization", "@id": "https://chinanews.kr/#org", "name": "BRIDGE GROUP", "alternateName": ["ABridge Co., Ltd.", "㈜에이브릿지", "Ecobridge", "㈜에코브릿지", "DealBridge"], "url": "https://chinanews.kr/", "logo": "https://chinanews.kr/og-image.png", "description": "Korean trading group (Gwangju) supplying rare earths, gallium, germanium, terbium, tungsten, hafnium, yttrium, 5N/6N high-purity copper, semiconductor materials and Chinese semiconductor components direct from licensed Chinese producers; operator of the chinanews.kr China markets terminal.", "foundingLocation": {"@type": "Place", "name": "Gwangju, South Korea"}, "address": {"@type": "PostalAddress", "streetAddress": "21, Bunam-gil 26beon-gil, Buk-gu", "addressLocality": "Gwangju", "addressCountry": "KR"}, "telephone": "+82-1661-0400", "email": "koreagwangju@gmail.com", "contactPoint": [{"@type": "ContactPoint", "contactType": "sales", "telephone": "+82-1661-0400", "email": "koreagwangju@gmail.com", "areaServed": "Worldwide", "availableLanguage": ["ko", "en", "zh"]}], "areaServed": ["KR", "CN", "US", "EU", "JP", "TW", "SG", "VN", "IN"], "knowsAbout": ["rare earth oxides", "neodymium", "dysprosium", "terbium", "yttrium oxide", "gallium", "germanium", "tungsten", "hafnium", "high-purity copper 6N", "silicon carbide", "Chinese semiconductors", "China commodity spot prices"], "sameAs": ["http://www.abridge.co.kr/", "https://www.ecobridge.biz/", "https://dealbridge.asia/"]}
 
 
 def h2(lang, text):
@@ -1168,6 +1167,81 @@ def render_supply_index(lang, pages, n_items, key, ref_date):
 
 
 # ----------------------------------------------------------------------------
+# about page (entity page for search + answer engines)
+# ----------------------------------------------------------------------------
+ABOUT = {
+    "en": {
+        "title": "About BRIDGE GROUP — ABridge · Ecobridge · DealBridge | CHINANEWS",
+        "desc": "BRIDGE GROUP is a Korean trading group in Gwangju supplying rare earths, gallium, germanium, terbium, tungsten, hafnium, yttrium, 5N/6N copper, semiconductor materials and Chinese semiconductors direct from licensed Chinese producers, and operating the chinanews.kr China markets terminal.",
+        "h1": "About BRIDGE GROUP",
+        "paras": [
+            "BRIDGE GROUP is the umbrella for three Korean trading companies based in Gwangju, South Korea: ABridge Co., Ltd. (strategic materials, semiconductor equipment and agricultural commodities), Ecobridge (petrochemicals, PE resins, PBAT/PLA biodegradable materials and industrial films) and DealBridge (semiconductor and critical-mineral brokerage). The group operates chinanews.kr, a bilingual China markets terminal.",
+            "ABridge holds a state-trading rice import quota under Korea's Korea Agro-Fisheries & Food Trade Corporation (aT) and, in June 2026, became the first Korean company to export SiC focus-ring CVD furnace systems directly to a Chinese semiconductor equipment manufacturer (Heilongjiang Zhilian Semiconductor).",
+            "Our supply business buys from refineries, fabs and authorised distributors in China and sells to manufacturers, research institutes and traders in Korea and abroad. Every enquiry is classified under Korea's strategic-items rules and screened against U.S., UN and EU sanctions lists before quotation; materials ship with producer certificates and samples are available for independent assay.",
+        ],
+        "facts_h": "Key facts",
+        "facts": [("Legal entities", "ABridge Co., Ltd. (㈜에이브릿지) · Ecobridge (㈜에코브릿지) · DealBridge"), ("Headquarters", "21, Bunam-gil 26beon-gil, Buk-gu, Gwangju, South Korea"), ("Telephone", "+82-1661-0400"), ("Sales enquiries", "koreagwangju@gmail.com · RFQ forms on every supply page"), ("Languages", "Korean, English, Chinese"), ("Websites", "chinanews.kr · abridge.co.kr · ecobridge.biz · dealbridge.asia")],
+        "lines_h": "What we supply",
+        "press_h": "Press",
+        "press": "ABridge secures 4-line SiC-CVD furnace system supply contract to China (15 June 2026)",
+    },
+    "ko": {
+        "title": "BRIDGE GROUP 소개 — 에이브릿지 · 에코브릿지 · 딜브릿지 | CHINANEWS",
+        "desc": "BRIDGE GROUP은 광주광역시의 무역그룹으로 허가받은 중국 생산자로부터 희토류·갈륨·게르마늄·테르븀·텅스텐·하프늄·이트륨·5N/6N 구리·반도체 소재·중국산 반도체를 직접 공급하고, 중국 시장 터미널 chinanews.kr를 운영합니다.",
+        "h1": "BRIDGE GROUP 소개",
+        "paras": [
+            "BRIDGE GROUP은 광주광역시에 본사를 둔 세 무역법인의 통합 브랜드입니다: ㈜에이브릿지(전략소재·반도체 장비·농산물), ㈜에코브릿지(석유화학·PE 수지·PBAT/PLA 생분해 소재·산업용 필름), 딜브릿지(반도체·핵심광물 중개). 그룹은 한·영 중국 시장 터미널 chinanews.kr를 운영합니다.",
+            "㈜에이브릿지는 한국농수산식품유통공사(aT) 쌀 국영무역 수입 자격을 보유하며, 2026년 6월 한국 기업 최초로 SiC 포커스링 CVD 장비 시스템을 중국 반도체 장비사(흑룡강성 지련반도체)에 직접 수출했습니다.",
+            "공급 사업은 중국의 정련소·팹·공인 대리점에서 매입해 국내외 제조사·연구기관·무역상에 판매합니다. 모든 문의는 견적 전에 전략물자 규정으로 판정하고 미국·UN·EU 제재 목록을 조회하며, 소재는 생산자 성적서와 함께 출하하고 제3자 분석용 샘플을 제공합니다.",
+        ],
+        "facts_h": "기본 정보",
+        "facts": [("법인", "㈜에이브릿지 · ㈜에코브릿지 · 딜브릿지"), ("본사", "광주광역시 북구 부남길26번길 21"), ("전화", "1661-0400"), ("견적 문의", "koreagwangju@gmail.com · 각 공급 페이지의 견적 요청 폼"), ("언어", "한국어, 영어, 중국어"), ("웹사이트", "chinanews.kr · abridge.co.kr · ecobridge.biz · dealbridge.asia")],
+        "lines_h": "취급 품목",
+        "press_h": "보도자료",
+        "press": "㈜에이브릿지, 中 지련반도체와 SiC-CVD 장비 1·2차 공급계약 체결 (2026년 6월 15일)",
+    },
+}
+
+
+def render_about(lang, pages, n_items):
+    t = ABOUT[lang]
+    path = "/ko/about.html" if lang == "ko" else "/about.html"
+    alt = "/about.html" if lang == "ko" else "/ko/about.html"
+    ld = {"@context": "https://schema.org", "@graph": [
+        {"@type": "AboutPage", "@id": SITE + path, "url": SITE + path, "name": t["title"], "description": t["desc"], "inLanguage": lang, "isPartOf": {"@id": SITE + "/#website"}, "mainEntity": {"@id": SITE + "/#org"}},
+        breadcrumb_ld(lang, [(t["h1"], None)]), ORG_LD]}
+    out = [head(lang, t["title"], t["desc"], path, alt, ld).replace("</style>", SUPPLY_CSS + "</style>"), "<body>\n", topbar(lang, alt), '<div class="wrap">\n', crumbs(lang, [(t["h1"], None)])]
+    out.append("<h1>{}</h1>\n".format(esc(t["h1"])))
+    for para in t["paras"]:
+        out.append('<p class="lead">{}</p>\n'.format(esc(para)))
+    out.append(h2(lang, t["facts_h"]))
+    out.append('<div class="tblwrap"><table><tbody>' + "".join("<tr><td style=\"color:var(--muted);width:30%\">{}</td><td>{}</td></tr>".format(esc(k), esc(v)) for k, v in t["facts"]) + "</tbody></table></div>\n")
+    out.append(h2(lang, t["lines_h"]))
+    out.append('<div class="peers">' + "".join('<a href="{}">{}</a>'.format(supply_href(lang, p["slug"]), esc(p[lang]["h1"])) for p in pages) + "</div>\n")
+    out.append(h2(lang, t["press_h"]))
+    out.append('<p><a href="/press/abridge-sic-cvd-20260615.html">{}</a></p>\n'.format(esc(t["press"])))
+    out.append(rfq_form(lang, _web3forms_key(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), "[chinanews.kr] RFQ: about page", ""))
+    out.append(footer(lang, n_items))
+    return "".join(out)
+
+
+def render_feed(root, dates, cm):
+    """RSS 2.0 of daily briefs (EN + KO items) for news/answer-engine crawlers."""
+    import email.utils
+    items = []
+    for d in dates[:30]:
+        for lang, pfx, title in (("en", "", "China Commodities Daily Brief — "), ("ko", "/ko", "중국 원자재 일일 시황 — ")):
+            url = SITE + pfx + "/daily/" + d + ".html"
+            pub = email.utils.format_datetime(dt.datetime.strptime(d, "%Y-%m-%d").replace(hour=21, tzinfo=KST))
+            items.append("<item><title>{t}{d}</title><link>{u}</link><guid isPermaLink=\"true\">{u}</guid><pubDate>{p}</pubDate><description>{desc}</description></item>".format(
+                t=esc(title), d=d, u=url, p=pub, desc=esc(T[lang]["daily_index_desc"])))
+    return ('<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>'
+            '<title>CHINANEWS — China Commodities Daily Brief</title><link>{s}/daily/</link>'
+            '<description>Daily China spot-market brief: advance/decline counts, top movers, sector breakdown, indices, FX. By BRIDGE GROUP.</description>'
+            '<language>en</language><atom:link href="{s}/feed.xml" rel="self" type="application/rss+xml"/>{items}</channel></rss>\n').format(s=SITE, items="".join(items))
+
+
+# ----------------------------------------------------------------------------
 # sitemap
 # ----------------------------------------------------------------------------
 def render_sitemap(entries):
@@ -1290,10 +1364,22 @@ def main():
     except Exception as e:
         print("build_pages: ko/index.html skipped:", e, file=sys.stderr)
 
+    # about pages + RSS feed
+    try:
+        for lang in ("en", "ko"):
+            if write_if_changed(os.path.join(root, "ko" if lang == "ko" else "", "about.html"), render_about(lang, pages, n)):
+                written += 1
+        entries.insert(0, ("/about.html", today, "monthly", "0.8", ("/about.html", "/ko/about.html")))
+        entries.insert(1, ("/ko/about.html", today, "monthly", "0.8", ("/about.html", "/ko/about.html")))
+        if write_if_changed(os.path.join(root, "feed.xml"), render_feed(root, dates, cm)):
+            written += 1
+    except Exception as e:
+        print("build_pages: about/feed skipped:", e, file=sys.stderr)
+
     # static pages
     static = [("/", today, "daily", "1.0", ("/", "/ko/")), ("/ko/", today, "daily", "1.0", ("/", "/ko/")),
               ("/press/abridge-sic-cvd-20260615.html", "2026-06-15", "monthly", "0.7", None),
-              ("/newsroom-org-chart.html", "2026-06-18", "monthly", "0.3", None)]
+              ]
     entries = static + entries
     if write_if_changed(os.path.join(root, "sitemap.xml"), render_sitemap(entries)):
         written += 1

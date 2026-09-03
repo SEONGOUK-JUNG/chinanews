@@ -25,10 +25,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://chinanews.kr/newsroom-org-chart.html</loc>
-    <lastmod>2026-06-18</lastmod>
+    <loc>https://chinanews.kr/about.html</loc>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chinanews.kr/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://chinanews.kr/ko/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chinanews.kr/about.html"/>
+  </url>
+  <url>
+    <loc>https://chinanews.kr/ko/about.html</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chinanews.kr/about.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://chinanews.kr/ko/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chinanews.kr/about.html"/>
   </url>
   <url>
     <loc>https://chinanews.kr/supply/</loc>
