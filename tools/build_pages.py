@@ -335,9 +335,10 @@ def topbar(lang, alt_path):
     return (
         '<header class="top"><a class="logo" href="{home}">{logo}CHINANEWS</a>'
         '<nav><a href="{home}">{h}</a><a href="{p}/commodities/">{az}</a><a href="{p}/daily/">{d}</a>'
+        '<a href="{p}/supply/" style="color:var(--orange)">{sup}</a>'
         '<a href="/press/abridge-sic-cvd-20260615.html">{pr}</a></nav>'
         '<a class="lang" href="{alt}" hreflang="{al}">{ol}</a></header>\n'
-    ).format(home=home, logo=LOGO_SVG, h=t["home"], p=p, az=t["az"], d=t["daily"], pr=t["press"],
+    ).format(home=home, logo=LOGO_SVG, h=t["home"], p=p, az=t["az"], d=t["daily"], pr=t["press"], sup=SUP[lang]["nav"],
              alt=alt_path, al="en" if lang == "ko" else "ko", ol=t["other_lang"])
 
 
@@ -346,12 +347,12 @@ def footer(lang, n_items):
     p = "/ko" if lang == "ko" else ""
     home = "/ko/" if lang == "ko" else "/"
     return (
-        '<footer><nav><a href="{home}">{h}</a><a href="{p}/commodities/">{az}</a><a href="{p}/daily/">{d}</a>'
+        '<footer><nav><a href="{home}">{h}</a><a href="{p}/commodities/">{az}</a><a href="{p}/daily/">{d}</a><a href="{p}/supply/">{sup}</a>'
         '<a href="/press/abridge-sic-cvd-20260615.html">{pr}</a><a href="{alt}">{ol}</a></nav>'
         '<p>{about}</p><p class="disc">{disc}</p>'
-        '<p>© BRIDGE GROUP · <a href="http://www.abridge.co.kr/" rel="noopener">ABridge</a> · <a href="https://www.ecobridge.biz/" rel="noopener">Ecobridge</a></p></footer>\n'
+        '<p>© BRIDGE GROUP · <a href="http://www.abridge.co.kr/" rel="noopener">ABridge</a> · <a href="https://www.ecobridge.biz/" rel="noopener">Ecobridge</a> · <a href="https://dealbridge.asia/" rel="noopener">DealBridge</a></p></footer>\n'
         '</div>\n</body>\n</html>\n'
-    ).format(home=home, h=t["home"], p=p, az=t["az"], d=t["daily"], pr=t["press"], alt=t["other_href"], ol=t["other_lang"],
+    ).format(home=home, h=t["home"], p=p, az=t["az"], d=t["daily"], pr=t["press"], sup=SUP[lang]["nav"], alt=t["other_href"], ol=t["other_lang"],
              about=esc(t["footer_about"].format(n=n_items)), disc=esc(t["disclaimer"]))
 
 
@@ -610,6 +611,21 @@ def render_commodity(lang, it, items_by_sector, ref_date, n_items):
     out.append('<div class="cell"><div class="k">{}</div><div class="v small"><a href="{}">{}</a></div></div>'.format(esc(t["sector"]), idx_href, esc(sector)))
     out.append("</div>\n")
 
+    try:
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+        import supply_content as SC
+        sslug = SC.COMMODITY_TO_SUPPLY.get(it.ko)
+    except Exception:
+        sslug = None
+    if sslug:
+        if lang == "ko":
+            msg = "{}을(를) 구매하시나요? 중국 생산자 직거래 견적을 받아보세요 — 성적서·샘플 제공, 수출허가 대행.".format(name)
+            cta = "견적 요청 →"
+        else:
+            msg = "Buying {}? Get a producer-backed quotation from China — COA, samples and export-licence handling included.".format(name)
+            cta = "Request a quote →"
+        out.append('<div class="rfqcta">{} <a class="cta" style="margin:0 0 0 10px;padding:5px 12px" href="{}#rfq">{}</a></div>\n'.format(esc(msg), supply_href(lang, sslug), esc(cta)))
+
     if len(it.quotes) > 1:
         out.append(h2(lang, t["quotes"]))
         out.append('<div class="tblwrap"><table><thead><tr><th>#</th><th>{}</th><th class="num">{}</th><th class="num">{}</th><th class="num">{}</th></tr></thead><tbody>'.format(esc(t["sector"]), esc(t["prev"]), esc(t["last"]), esc(t["chg"])))
@@ -863,13 +879,201 @@ def render_ko_home(src_html):
     s = s.replace('href="manifest.json"', 'href="/manifest.json"').replace('href="icon.svg"', 'href="/icon.svg"')
     s = s.replace("'<a href=\"'+it.link+'\"", "'<a href=\"'+((/^(https?:|\\/)/.test(it.link||''))?it.link:'/'+it.link)+'\"")
     # nav/footer links that point at EN pages -> KO pages
-    s = s.replace('href="/commodities/"', 'href="/ko/commodities/"').replace('href="/daily/"', 'href="/ko/daily/"')
+    s = s.replace('href="/commodities/"', 'href="/ko/commodities/"').replace('href="/daily/"', 'href="/ko/daily/"').replace('href="/supply/"', 'href="/ko/supply/"')
+    s = s.replace('>Supply / RFQ<', '>공급·견적<')
     s = s.replace('<a class="tb-tab" href="/ko/" hreflang="ko">한국어</a>', '<a class="tb-tab" href="/" hreflang="en">English</a>')
     s = s.replace('<a href="/ko/" hreflang="ko">한국어</a>', '<a href="/" hreflang="en">English</a>')
     s = s.replace('id="seo-footer" lang="en"', 'id="seo-footer" lang="ko"')
     s = re.sub(r'<p class="seo-about" data-lang="en">.*?</p>\s*', "", s, count=1, flags=re.S)
     s = s.replace('<p class="seo-about" data-lang="ko" hidden>', '<p class="seo-about" data-lang="ko">', 1)
     return s
+
+
+# ----------------------------------------------------------------------------
+# buyer-facing supply / RFQ pages (content in tools/supply_content.py)
+# ----------------------------------------------------------------------------
+SUP = {
+    "en": {"nav": "Supply / RFQ", "crumb": "Supply", "rfq": "Request a quote", "live": "Live China prices (terminal)",
+           "faq": "Frequently asked questions", "compliance": "Compliance & quality", "about": "About the supplier",
+           "related": "Other products we supply", "index_title": "Rare Earths, Gallium, Germanium, Tungsten, High-Purity Copper & Semiconductors from China — Supply & RFQ | CHINANEWS",
+           "index_desc": "BRIDGE GROUP sources strategic materials and semiconductors from licensed Chinese producers: rare earth oxides and metals, yttrium, terbium, gallium, germanium, tungsten, hafnium, 6N copper, SiC and semiconductor components. Request a quote.",
+           "index_h1": "Supply from China — Strategic Materials & Semiconductors",
+           "index_intro": "We are a Korean trading group with producer relationships across China's rare-earth, minor-metal and semiconductor supply chains. Pick a product line below for specifications, live China prices and an RFQ form — or send one enquiry covering several items.",
+           "f_company": "Company", "f_name": "Contact name", "f_email": "Email", "f_phone": "Phone / WhatsApp / WeChat", "f_country": "Country",
+           "f_product": "Product", "f_qty": "Quantity & frequency", "f_spec": "Specification / purity / form", "f_msg": "Message (application, target price, delivery terms)",
+           "f_send": "Send RFQ", "f_sending": "Sending…", "f_ok": "✓ RFQ received — we reply within one business day", "f_fail": "Failed — please email koreagwangju@gmail.com",
+           "f_note": "Replies go out from BRIDGE GROUP (Gwangju, Korea). No brokers' fees are charged to buyers; quotations are producer-backed.",
+           "price_cols": ["Item", "Last (CNY)", "Change", "History"], "see": "chart →"},
+    "ko": {"nav": "공급·견적", "crumb": "공급", "rfq": "견적 요청", "live": "중국 현물가 (터미널 연동)",
+           "faq": "자주 묻는 질문", "compliance": "컴플라이언스·품질", "about": "공급사 소개",
+           "related": "다른 취급 품목", "index_title": "중국 희토류·갈륨·게르마늄·텅스텐·고순도 구리·반도체 공급 — 견적 문의 | CHINANEWS",
+           "index_desc": "BRIDGE GROUP은 허가받은 중국 생산자로부터 전략소재와 반도체를 조달합니다: 희토류 산화물·금속, 이트륨, 테르븀, 갈륨, 게르마늄, 텅스텐, 하프늄, 6N 구리, SiC, 반도체 부품. 견적 문의.",
+           "index_h1": "중국 공급 — 전략소재·반도체",
+           "index_intro": "중국 희토류·희소금속·반도체 공급망의 생산자와 직접 거래하는 한국 무역그룹입니다. 아래 품목을 고르면 규격, 중국 현물가, 견적 요청 폼을 볼 수 있습니다. 여러 품목을 한 번에 문의하셔도 됩니다.",
+           "f_company": "회사명", "f_name": "담당자", "f_email": "이메일", "f_phone": "전화 / 카카오톡 / 위챗", "f_country": "국가",
+           "f_product": "품목", "f_qty": "수량·주기", "f_spec": "규격 / 순도 / 형태", "f_msg": "문의 내용 (용도, 목표가, 납품 조건)",
+           "f_send": "견적 요청 보내기", "f_sending": "전송 중…", "f_ok": "✓ 접수됐습니다 — 1영업일 내 회신드립니다", "f_fail": "전송 실패 — koreagwangju@gmail.com 으로 보내주세요",
+           "f_note": "회신은 BRIDGE GROUP(광주)에서 드립니다. 바이어에게 중개수수료를 청구하지 않으며, 견적은 생산자 확인을 거칩니다.",
+           "price_cols": ["품목", "당일가 (CNY)", "등락", "추이"], "see": "차트 →"},
+}
+WEB3FORMS_KEY = None
+
+
+def _web3forms_key(root):
+    global WEB3FORMS_KEY
+    if WEB3FORMS_KEY is None:
+        try:
+            with open(os.path.join(root, "index.html"), "r", encoding="utf-8") as f:
+                m = re.search(r'name="access_key"\s+value="([0-9a-f-]{36})"', f.read())
+            WEB3FORMS_KEY = m.group(1) if m else ""
+        except Exception:
+            WEB3FORMS_KEY = ""
+    return WEB3FORMS_KEY
+
+
+def supply_href(lang, slug=None):
+    return ("/ko" if lang == "ko" else "") + "/supply/" + ((slug + ".html") if slug else "")
+
+
+def rfq_form(lang, key, subject, product):
+    t = SUP[lang]
+    fid = "rfq"
+    return (
+        '<div id="rfq" class="rfqbox"><h2 class="{ko}">{h}</h2>'
+        '<form id="{fid}-form" autocomplete="on">'
+        '<input type="hidden" name="access_key" value="{key}"><input type="hidden" name="subject" value="{subj}">'
+        '<input type="hidden" name="from_name" value="chinanews.kr supply page"><input type="checkbox" name="botcheck" class="hidden" style="display:none" tabindex="-1" autocomplete="off">'
+        '<div class="fgrid">'
+        '<label>{c}<input type="text" name="company" required></label>'
+        '<label>{n}<input type="text" name="name" required></label>'
+        '<label>{e}<input type="email" name="email" required></label>'
+        '<label>{p}<input type="text" name="phone"></label>'
+        '<label>{co}<input type="text" name="country"></label>'
+        '<label>{pr}<input type="text" name="product" value="{prod}"></label>'
+        '<label>{q}<input type="text" name="quantity" placeholder="e.g. 500 kg / month"></label>'
+        '<label>{s}<input type="text" name="specification" placeholder="99.99% · oxide · D50 5 µm"></label>'
+        '<label class="full">{m}<textarea name="message" rows="4"></textarea></label>'
+        '</div><button type="submit" class="cta" id="{fid}-btn">{send}</button><p class="note">{note}</p></form></div>\n'
+        '<script>(function(){{var f=document.getElementById("{fid}-form"),b=document.getElementById("{fid}-btn");if(!f)return;'
+        'f.addEventListener("submit",async function(e){{e.preventDefault();b.textContent="{sending}";b.disabled=true;'
+        'var j=Object.fromEntries(new FormData(f).entries());try{{var r=await fetch("https://api.web3forms.com/submit",{{method:"POST",headers:{{"Content-Type":"application/json","Accept":"application/json"}},body:JSON.stringify(j)}});'
+        'var d=await r.json();if(d.success){{b.textContent="{ok}";b.style.background="#16a34a";b.style.color="#fff";b.style.borderColor="#16a34a";f.reset();}}'
+        'else{{b.textContent="{fail}";b.disabled=false;}}}}catch(x){{b.textContent="{fail}";b.disabled=false;}}}});}})();</script>\n'
+    ).format(ko="ko" if lang == "ko" else "", h=esc(t["rfq"]), fid=fid, key=esc(key), subj=esc(subject), c=esc(t["f_company"]), n=esc(t["f_name"]),
+             e=esc(t["f_email"]), p=esc(t["f_phone"]), co=esc(t["f_country"]), pr=esc(t["f_product"]), prod=esc(product), q=esc(t["f_qty"]),
+             s=esc(t["f_spec"]), m=esc(t["f_msg"]), send=esc(t["f_send"]), note=esc(t["f_note"]), sending=esc(t["f_sending"]), ok=esc(t["f_ok"]), fail=esc(t["f_fail"]))
+
+
+SUPPLY_CSS = """
+.kicker{font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--orange);font-weight:700;margin-bottom:6px}
+.rfqbox{background:var(--panel);border:1px solid var(--orange);border-radius:4px;padding:16px 18px 18px;margin-top:26px}
+.rfqbox h2{margin-top:0;border:none}
+.fgrid{display:grid;grid-template-columns:1fr 1fr;gap:10px 14px}.fgrid label{display:flex;flex-direction:column;font-size:12px;color:var(--muted);gap:4px}.fgrid .full{grid-column:1/-1}
+.fgrid input,.fgrid textarea{background:var(--bg-2);border:1px solid var(--line-2);color:var(--text);padding:8px 10px;font:inherit;font-size:13.5px;border-radius:3px}
+.fgrid input:focus,.fgrid textarea:focus{outline:none;border-color:var(--orange)}
+@media(max-width:640px){.fgrid{grid-template-columns:1fr}}
+button.cta{background:var(--orange);color:#000;border:1px solid var(--orange);cursor:pointer;font-family:inherit;font-size:14px;padding:10px 18px;margin-top:14px}
+.faq dt{font-weight:700;color:var(--bright);margin-top:12px}.faq dd{margin:4px 0 0;color:var(--text)}
+.comp li{margin:6px 0}
+.ctabar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin:14px 0 4px}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px;margin-top:10px}
+.card{background:var(--panel);border:1px solid var(--line-2);border-radius:4px;padding:14px 16px}.card h3{margin:0 0 6px;font-size:15px}.card p{margin:0;font-size:12.5px;color:var(--muted)}.card a.more{display:inline-block;margin-top:8px;font-size:12.5px;font-weight:700}
+.rfqcta{background:var(--bg-2);border:1px solid var(--orange);border-radius:4px;padding:12px 14px;margin:16px 0;font-size:13.5px}
+"""
+
+
+def _live_price_rows(lang, keys, by_ko):
+    t = SUP[lang]
+    rows = []
+    for k in keys:
+        it = by_ko.get(k)
+        if not it:
+            continue
+        q = it.main
+        rows.append('<tr><td><a href="{}">{}</a>{}</td><td class="num">{}</td><td class="num {}">{}</td><td><a href="{}">{}</a></td></tr>'.format(
+            it.href(lang), esc(it.name(lang)), (' <span style="color:var(--dim);font-size:11px">' + esc(it.unit) + "</span>") if it.unit else "",
+            fmt_num(q["last"]), pct_class(q["chg"]), fmt_pct(q["chg"]), it.href(lang), esc(t["see"])))
+    return rows
+
+
+def render_supply(lang, page, pages, by_ko, ref_date, n_items, key):
+    import supply_content as SC
+    t = SUP[lang]
+    c = page[lang]
+    slug = page["slug"]
+    path = supply_href(lang, slug)
+    alt = supply_href("ko" if lang == "en" else "en", slug)
+    faq_ld = {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in c["faq"]]}
+    ld = {"@context": "https://schema.org", "@graph": [
+        {"@type": "WebPage", "@id": SITE + path, "url": SITE + path, "name": c["title"], "description": c["desc"], "inLanguage": lang,
+         "dateModified": ref_date, "isPartOf": {"@id": SITE + "/#website"}, "publisher": {"@id": SITE + "/#org"}, "about": {"@type": "Product", "name": c["h1"]}},
+        breadcrumb_ld(lang, [(t["crumb"], supply_href(lang)), (c["h1"], None)]), faq_ld, ORG_LD]}
+    out = [head(lang, c["title"], c["desc"], path, alt, ld).replace("</style>", SUPPLY_CSS + "</style>"), "<body>\n", topbar(lang, alt), '<div class="wrap">\n',
+           crumbs(lang, [(t["crumb"], supply_href(lang)), (c["h1"], None)])]
+    out.append('<div class="kicker">{}</div><h1>{}</h1>\n'.format(esc(c["kicker"]), esc(c["h1"])))
+    for para in c["intro"]:
+        out.append('<p class="lead">{}</p>\n'.format(esc(para)))
+    out.append('<div class="ctabar"><a class="cta" href="#rfq">{}</a><span class="note">{}</span></div>\n'.format(esc(t["rfq"]), esc(SC.COMPANY[lang])))
+
+    # product table
+    th = c["table_head"]
+    out.append('<div class="tblwrap"><table><thead><tr>{}</tr></thead><tbody>'.format("".join("<th>{}</th>".format(esc(h)) for h in th)))
+    live_keys = []
+    for r in page["rows"]:
+        name = r[0] if lang == "en" else r[1]
+        forms = r[2] if lang == "en" else r[3]
+        uses = r[5] if lang == "en" else r[6]
+        out.append("<tr><td><b>{}</b></td><td>{}</td><td>{}</td><td>{}</td></tr>".format(esc(name), esc(forms), esc(r[4]), esc(uses)))
+        live_keys.extend(r[7])
+    out.append("</tbody></table></div>\n")
+
+    prices = _live_price_rows(lang, live_keys, by_ko)
+    if prices:
+        out.append(h2(lang, t["live"]))
+        out.append('<div class="tblwrap"><table><thead><tr>{}</tr></thead><tbody>{}</tbody></table></div>\n'.format(
+            "".join('<th{}>{}</th>'.format(' class="num"' if i in (1, 2) else "", esc(h)) for i, h in enumerate(t["price_cols"])), "".join(prices)))
+        out.append('<div class="note">{}</div>\n'.format(esc(T[lang]["asof"].format(date=ref_date))))
+
+    out.append(h2(lang, t["faq"]))
+    out.append('<dl class="faq">' + "".join("<dt>{}</dt><dd>{}</dd>".format(esc(q), esc(a)) for q, a in c["faq"]) + "</dl>\n")
+
+    out.append(h2(lang, t["compliance"]))
+    out.append('<ul class="comp">' + "".join("<li>{}</li>".format(esc(x)) for x in SC.COMPLIANCE[lang]) + "</ul>\n")
+    out.append(h2(lang, t["about"]))
+    out.append("<p>{}</p>\n".format(esc(SC.COMPANY[lang])))
+
+    out.append(rfq_form(lang, key, "[chinanews.kr] RFQ: " + page["en"]["h1"], c["h1"]))
+
+    out.append(h2(lang, t["related"]))
+    out.append('<div class="peers">' + "".join('<a href="{}">{}</a>'.format(supply_href(lang, p["slug"]), esc(p[lang]["h1"])) for p in pages if p["slug"] != slug) + "</div>\n")
+    out.append(footer(lang, n_items))
+    return "".join(out)
+
+
+def render_supply_index(lang, pages, n_items, key, ref_date):
+    import supply_content as SC
+    t = SUP[lang]
+    path = supply_href(lang)
+    alt = supply_href("ko" if lang == "en" else "en")
+    ld = {"@context": "https://schema.org", "@graph": [
+        {"@type": "CollectionPage", "@id": SITE + path, "url": SITE + path, "name": t["index_title"], "description": t["index_desc"], "inLanguage": lang, "dateModified": ref_date, "isPartOf": {"@id": SITE + "/#website"}},
+        {"@type": "ItemList", "itemListElement": [{"@type": "ListItem", "position": i + 1, "name": p[lang]["h1"], "url": SITE + supply_href(lang, p["slug"])} for i, p in enumerate(pages)]},
+        breadcrumb_ld(lang, [(t["crumb"], None)]), ORG_LD]}
+    out = [head(lang, t["index_title"], t["index_desc"], path, alt, ld).replace("</style>", SUPPLY_CSS + "</style>"), "<body>\n", topbar(lang, alt), '<div class="wrap">\n', crumbs(lang, [(t["crumb"], None)])]
+    out.append('<div class="kicker">{}</div><h1>{}</h1>\n'.format(esc(t["nav"]), esc(t["index_h1"])))
+    out.append('<p class="lead">{}</p>\n'.format(esc(t["index_intro"])))
+    out.append('<div class="cards">')
+    for p in pages:
+        out.append('<div class="card"><h3><a href="{}">{}</a></h3><p>{}</p><a class="more" href="{}">{} →</a></div>'.format(
+            supply_href(lang, p["slug"]), esc(p[lang]["h1"]), esc(p[lang]["desc"]), supply_href(lang, p["slug"]), esc(t["rfq"])))
+    out.append("</div>\n")
+    out.append(h2(lang, t["compliance"]))
+    out.append('<ul class="comp">' + "".join("<li>{}</li>".format(esc(x)) for x in SC.COMPLIANCE[lang]) + "</ul>\n")
+    out.append(h2(lang, t["about"]))
+    out.append("<p>{}</p>\n".format(esc(SC.COMPANY[lang])))
+    out.append(rfq_form(lang, key, "[chinanews.kr] RFQ: general", ""))
+    out.append(footer(lang, n_items))
+    return "".join(out)
 
 
 # ----------------------------------------------------------------------------
@@ -962,6 +1166,29 @@ def main():
         if write_if_changed(os.path.join(root, p.lstrip("/"), "daily", "index.html"), render_daily_index(lang, dates, n)):
             written += 1
         entries.append((p + "/daily/", dates[0] if dates else today, "daily", "0.6", ("/daily/", "/ko/daily/")))
+
+    # buyer-facing supply / RFQ pages
+    try:
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+        import supply_content as SC
+        order = ["rare-earths", "yttrium", "gallium", "terbium", "tungsten", "germanium", "hafnium", "high-purity-copper", "semiconductor-materials", "semiconductors"]
+        pages = sorted(SC.PAGES, key=lambda p: order.index(p["slug"]) if p["slug"] in order else 99)
+        by_ko = {it.ko: it for it in items}
+        key = _web3forms_key(root)
+        for lang in ("en", "ko"):
+            for p in pages:
+                if write_if_changed(os.path.join(root, supply_href(lang, p["slug"]).lstrip("/")), render_supply(lang, p, pages, by_ko, ref_date, n, key)):
+                    written += 1
+            if write_if_changed(os.path.join(root, supply_href(lang).lstrip("/"), "index.html"), render_supply_index(lang, pages, n, key, ref_date)):
+                written += 1
+        sup_entries = [("/supply/", today, "weekly", "0.9", ("/supply/", "/ko/supply/")), ("/ko/supply/", today, "weekly", "0.9", ("/supply/", "/ko/supply/"))]
+        for p in pages:
+            en_p, ko_p = supply_href("en", p["slug"]), supply_href("ko", p["slug"])
+            sup_entries.append((en_p, ref_date, "weekly", "0.9", (en_p, ko_p)))
+            sup_entries.append((ko_p, ref_date, "weekly", "0.9", (en_p, ko_p)))
+        entries = sup_entries + entries
+    except Exception as e:
+        print("build_pages: supply pages skipped:", e, file=sys.stderr)
 
     # Korean terminal copy
     try:
