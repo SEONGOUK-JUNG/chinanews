@@ -357,21 +357,89 @@ fetch('/data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json(
   <div class="idx-cell"><div class="idx-name">BTC</div><div id="idx-btc-val" class="idx-val no-data">—</div><div id="idx-btc-chg" class="idx-chg"><span class="api-needed">Loading</span></div></div>
 </div>
 
+
+
 <!-- supply-banner -->
-<div id="supply-banner" style="background:var(--bg-1);border-bottom:1px solid var(--line);padding:7px 14px;text-align:center;font-size:13px;line-height:1.5">
-  <span style="color:var(--orange);font-weight:700">중국 희토류 공급 · 중국 반도체 조달 · 고순도 구리 5N/6N</span>
-  <span style="color:var(--muted)"> — 생산자 직거래 · </span>
-  <a href="/ko/supply/rare-earths.html" style="color:var(--text);text-decoration:underline">희토류</a> ·
-  <a href="/ko/supply/semiconductors.html" style="color:var(--text);text-decoration:underline">반도체</a> ·
-  <a href="/ko/supply/high-purity-copper.html" style="color:var(--text);text-decoration:underline">5N/6N 구리</a>
-  <a href="/ko/supply/#rfq" style="display:inline-block;margin-left:10px;padding:2px 10px;border:1px solid var(--orange);border-radius:2px;color:var(--orange);font-weight:700;font-size:12px">견적 요청</a>
-  <button type="button" id="supply-more" data-more="더보기 ▾" data-less="접기 ▴" style="margin-left:6px;background:none;border:1px solid var(--line-2);border-radius:2px;color:var(--muted);font-size:12px;padding:2px 8px;cursor:pointer;font-family:inherit">더보기 ▾</button>
-  <div id="supply-more-list" hidden style="margin-top:5px;font-size:12px;color:var(--muted)">
-    <a href="/ko/supply/yttrium.html" style="color:var(--text)">이트륨</a> · <a href="/ko/supply/gallium.html" style="color:var(--text)">갈륨</a> · <a href="/ko/supply/terbium.html" style="color:var(--text)">테르븀</a> · <a href="/ko/supply/tungsten.html" style="color:var(--text)">텅스텐</a> · <a href="/ko/supply/germanium.html" style="color:var(--text)">게르마늄</a> · <a href="/ko/supply/hafnium.html" style="color:var(--text)">하프늄</a> · <a href="/ko/supply/semiconductor-materials.html" style="color:var(--text)">반도체 소재</a> · <a href="/ko/supply/" style="color:var(--orange)">전체 품목 →</a>
+<style>
+  .sup-wrap{background:var(--bg-1);border-bottom:1px solid var(--line);padding:10px 14px 12px}
+  .sup-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+  @media(max-width:900px){.sup-grid{grid-template-columns:1fr}}
+  .sup-card{background:var(--panel);border:1px solid var(--line-2);border-top:2px solid var(--orange);padding:11px 13px;display:flex;flex-direction:column;min-height:200px}
+  .sup-card .panel-title{margin-bottom:6px}
+  .sup-card .panel-title a{color:var(--orange)}
+  .sup-card p{font-size:12.5px;color:var(--text);line-height:1.55;margin:0 0 7px}
+  .sup-card ul{margin:0 0 8px;padding-left:16px;font-size:11.5px;color:var(--muted)}.sup-card li{margin:2px 0}
+  .sup-card .lp{font-size:11px;color:var(--muted);border-top:1px solid var(--line-grid);padding-top:6px;margin-top:auto;font-family:"JetBrains Mono",monospace}
+  .sup-card .lp b{color:var(--text-bright);font-weight:600}
+  .sup-card .acts{display:flex;gap:8px;align-items:center;margin-top:8px}
+  .sup-btn{display:inline-block;padding:4px 11px;border:1px solid var(--orange);border-radius:2px;color:var(--orange);font-weight:700;font-size:12px;background:rgba(232,192,120,.06)}
+  .sup-btn:hover{background:var(--orange);color:#000}
+  .sup-lnk{font-size:12px;color:var(--muted)}.sup-lnk:hover{color:var(--text-bright)}
+  .sup-more{margin-top:8px;text-align:center}
+  .sup-more button{background:var(--bg-2);border:1px solid var(--line-2);border-radius:2px;color:var(--text);font-size:12px;padding:5px 14px;cursor:pointer;font-family:inherit}
+  .sup-more button:hover{border-color:var(--orange);color:var(--orange)}
+  .sup-mini{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:8px;margin-top:8px}
+  .sup-mini a{display:block;background:var(--panel);border:1px solid var(--line-2);padding:8px 10px;font-size:12px;color:var(--text)}
+  .sup-mini a b{display:block;color:var(--orange);font-size:12.5px;margin-bottom:2px}
+  .sup-mini a span{color:var(--muted);font-size:11px}
+  .sup-mini a:hover{border-color:var(--orange)}
+  .sup-mini[hidden]{display:none}
+</style>
+<div class="sup-wrap" id="supply-banner">
+  <div class="sup-grid">
+    <div class="sup-card">
+      <div class="panel-title"><a href="/ko/supply/rare-earths.html">중국 희토류 공급</a> <span class="badge-live">SUPPLY</span></div>
+      <p>네오디뮴·프라세오디뮴·디스프로슘·테르븀·이트륨·란탄·세륨 등 란탄족 전 범위 — 내몽골·간저우 생산자의 산화물 3N~5N, 금속, 자석용 합금. 수출허가 대행 포함.</p>
+      <ul><li>17개 원소 · 산화물·금속·PrNd/DyFe 합금</li><li>자석·형광체·촉매·세라믹 등급</li><li>COA(ICP) · 샘플 100g부터</li></ul>
+      <div class="lp" data-items="산화네오디뮴=산화네오디뮴|산화디스프로슘=산화디스프로슘|산화프라세오디뮴=산화프라세오디뮴">현물가 불러오는 중…</div>
+      <div class="acts"><a class="sup-btn" href="/ko/supply/rare-earths.html#rfq">견적 요청</a><a class="sup-lnk" href="/ko/supply/rare-earths.html">규격·상세 →</a></div>
+    </div>
+    <div class="sup-card">
+      <div class="panel-title"><a href="/ko/supply/semiconductors.html">중국 반도체 조달</a> <span class="badge-live">SUPPLY</span></div>
+      <p>MCU, 전력소자(MOSFET·IGBT·SiC/GaN), 메모리, 아날로그/PMIC, 센서, LED를 중국 정식 생산자·공인 대리점에서 조달. 서구 품번 대체품 검색, 샘플 검증, 수출통제 심사.</p>
+      <ul><li>수요 기반 조달 — 단종·오픈마켓 재고 없음</li><li>기존 BOM 품번 대체품 검색 서비스</li><li>생산자 보증 · 고장분석 지원</li></ul>
+      <div class="lp" data-items="폴리실리콘=폴리실리콘|게르마늄=게르마늄|금속규소(공업규소)=금속규소">현물가 불러오는 중…</div>
+      <div class="acts"><a class="sup-btn" href="/ko/supply/semiconductors.html#rfq">견적 요청</a><a class="sup-lnk" href="/ko/supply/semiconductors.html">규격·상세 →</a></div>
+    </div>
+    <div class="sup-card">
+      <div class="panel-title"><a href="/ko/supply/high-purity-copper.html">고순도 구리 5N / 6N</a> <span class="badge-live">SUPPLY</span></div>
+      <p>스퍼터링 타깃·본딩와이어·초전도 안정화재·연구용 전해·존정련 구리 99.999%, 99.9999% — 잉곳·봉·과립 — GDMS 전원소 성적서 첨부. 무산소동 C10100, A급 전기동도 공급.</p>
+      <ul><li>6N은 10개 원소 ICP 합산이 아닌 GDMS(70개 원소 이상)로 검증</li><li>잉곳 1~5kg · 봉 ø10~50mm · 과립 2~6mm</li><li>일일 전기동 가격 + 프리미엄으로 견적</li></ul>
+      <div class="lp" data-items="구리=구리">현물가 불러오는 중…</div>
+      <div class="acts"><a class="sup-btn" href="/ko/supply/high-purity-copper.html#rfq">견적 요청</a><a class="sup-lnk" href="/ko/supply/high-purity-copper.html">규격·상세 →</a></div>
+    </div>
+  </div>
+  <div class="sup-more"><button type="button" id="sup-more-btn" data-more="더보기 — 취급 품목 7개 ▾" data-less="접기 ▴">더보기 — 취급 품목 7개 ▾</button></div>
+  <div class="sup-mini" id="sup-more-list" hidden>
+    <a href="/ko/supply/yttrium.html"><b>이트륨 금속 · 산화이트륨 5N</b><span>반도체 챔버 코팅, YSZ, YAG, Al–Y 합금</span></a>
+    <a href="/ko/supply/gallium.html"><b>갈륨 4N~7N · 산화갈륨</b><span>GaN/GaAs 에피, LED, 전력소자 — 수출허가 대행</span></a>
+    <a href="/ko/supply/terbium.html"><b>테르븀 산화물 · 금속</b><span>NdFeB 보자력(GBD), 형광체, 테르페놀</span></a>
+    <a href="/ko/supply/tungsten.html"><b>텅스텐 — APT·분말·탄화물</b><span>초경, 타깃, 가공재</span></a>
+    <a href="/ko/supply/germanium.html"><b>게르마늄 잉곳 · GeO₂ · GeCl₄</b><span>SiGe, 광섬유, 적외선 광학, III-V 태양전지</span></a>
+    <a href="/ko/supply/hafnium.html"><b>하프늄 스펀지 · 크리스탈바 · HfO₂</b><span>초합금, 원자력, high-k 절연막</span></a>
+    <a href="/ko/supply/semiconductor-materials.html"><b>반도체 소재</b><span>SiC 분말·CVD-SiC 부품, HF, 형석, 리튬 화학품</span></a>
+    <a href="/ko/supply/" style="border-color:var(--orange)"><b>전체 품목 →</b><span>공급 허브 · 견적 요청 폼</span></a>
   </div>
 </div>
-<script>(function(){var b=document.getElementById('supply-more'),l=document.getElementById('supply-more-list');if(!b||!l)return;b.addEventListener('click',function(){l.hidden=!l.hidden;b.textContent=l.hidden?b.getAttribute('data-more'):b.getAttribute('data-less');});})();</script>
+<script>(function(){
+  var b=document.getElementById('sup-more-btn'),l=document.getElementById('sup-more-list');
+  if(b&&l) b.addEventListener('click',function(){ l.hidden=!l.hidden; b.textContent=l.hidden?b.getAttribute('data-more'):b.getAttribute('data-less'); });
+  fetch('/data/commodities.json?t='+Date.now()).then(function(r){return r.json();}).then(function(d){
+    var m={}; (d.all_items||[]).forEach(function(x){ if(!(x.display_name in m)) m[x.display_name]=x; });
+    (d.featured||[]).forEach(function(x){ if(x.display_name&&!(x.display_name in m)) m[x.display_name]=x; });
+    document.querySelectorAll('.sup-card .lp[data-items]').forEach(function(el){
+      var en=(window.CN_LANG==='en'), parts=[];
+      el.getAttribute('data-items').split('|').forEach(function(pair){
+        var k=pair.split('=')[0], lbl=pair.split('=')[1]||k, it=m[k]; if(!it||it.price_today==null) return;
+        var p=Number(it.change_pct)||0, col=p>0?'var(--up)':(p<0?'var(--down)':'var(--muted)');
+        parts.push(lbl+' <b>'+Number(it.price_today).toLocaleString('en-US')+'</b> <span style="color:'+col+'">'+(p>0?'+':'')+p.toFixed(2)+'%</span>');
+      });
+      if(parts.length) el.innerHTML=(d.ref_date||'')+' · CNY &nbsp; '+parts.join(' &nbsp;·&nbsp; ');
+    });
+  }).catch(function(){});
+})();</script>
 <!-- /supply-banner -->
+
 <div class="main">
 
   <div class="sidebar-l">
