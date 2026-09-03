@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-04T00:13:36+09:00",
+  "run_at_kst": "2026-09-04T00:26:51+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "US Mint’s Trump gold coin available with no gold in sight",
+      "link": "https://www.mining.com/us-mints-trump-gold-coin-available-with-no-gold-in-sight/",
+      "source": "mining.com",
+      "date": "Thu, 03 Sep 2026 15:17:50 +0000"
+    },
     {
       "title": "U.S. Diesel Prices Surge Toward All-Time High",
       "link": "https://oilprice.com/Energy/Gas-Prices/US-Diesel-Prices-Surge-Toward-All-Time-High.html",
@@ -84,12 +90,6 @@
       "link": "https://www.mining.com/sw-us-mine-rush-collides-with-water-limits/",
       "source": "mining.com",
       "date": "Wed, 02 Sep 2026 20:30:00 +0000"
-    },
-    {
-      "title": "End of a dollar-centered world nears, gold to replace some bonds, fund manager says",
-      "link": "https://www.mining.com/end-of-a-dollar-centered-world-nears-gold-to-replace-some-bonds-fund-manager-says/",
-      "source": "mining.com",
-      "date": "Wed, 02 Sep 2026 20:23:21 +0000"
     }
   ]
 }

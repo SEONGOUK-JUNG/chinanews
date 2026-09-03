@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-04T00:13:36+09:00",
+  "run_at_kst": "2026-09-04T00:28:41+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -36,6 +36,12 @@
       "date": "Wed, 02 Sep 2026 11:28:06 GMT"
     },
     {
+      "title": "중국 기업은 어떻게 세계 산업 흔드나…이필상 작가 ‘차이나 시그널’ 출간",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKU1NvYXdDZXRUVldyZnVTWGJSX2F6YTdxX2ZrMFpuQUxpOHBwcUJVNTF6X2ZtNW0zYTd1eXRvaGtIUy1YbTZFMUxmeUhmNnpHZWVTYjdWUlFkYWNXR0k1ZFNNUEM?oc=5",
+      "source": "서울경제TV",
+      "date": "Wed, 02 Sep 2026 06:03:29 GMT"
+    },
+    {
       "title": "중국 리창 총리 “미·중 경제 관계 본질은 상호 이익···일부 마찰은 정상”",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkbE8zSDBIalh5NmMzSU9OcHlBQUdaOTdhRm9hWmMteEtHcmprX0VWc0NOVTREdGs2ajUwLXFDVWoxQ1RMZlRDM0tuQUR5bXB0akktWlVXU3drQdIBX0FVX3lxTFBOdkVIaEtRVzBUaGxKcllYMGFCczhqRC1SUWpNNGpqS3BLQ012ZU80MTFDMmlPbE90MVBSRHRhcjlKdjZLMXh2TW92UDEzNzZERG9rVTkwY09VdUg1b2xn?oc=5",
       "source": "경향신문",
@@ -70,12 +76,6 @@
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43aFF3cEtoOTBMZzlLYWtiMFlHMmNwQ0pzdEpqMm8zZS1jNDJLUmdLSFJRS0VNSl9FeDNUZ1NYcTRTdGJUUHQ4RDZqYXVsX2dvMlR5S1BaWUlXc1Y2V3ZmaG1GUzNpeUdP0gFuQVVfeXFMT1V6X0g4TkV6Rk05ek9yZlZiVnYwTHNZTGY3M0RNT1RSVjVNVWd2Mi1rVWxJSlB2c0RfajFIdDFoUXJoUW9tcWVaU3dBaGRaWXM4aXo1VWgyaGJqTHA4VHJROUFvcW44Q092QUtHTEE?oc=5",
       "source": "mt.co.kr",
       "date": "Sat, 29 Aug 2026 21:00:00 GMT"
-    },
-    {
-      "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52UVRRTTIyQW5udGJFTjhSbEhmTHc4Q2QyTHdTd1BWNzE5b0p0U0hWZk5LbmNjdUY5ZWh2MlBZaEczSnd3RVZGSlRfLXlrdU9HYTlfdmthLW01dTVn0gFiQVVfeXFMUDU0UmVDOFl4VUpZYzlneGtDWHJCX3luT1pfdFhKaGZENGxvWTRjRTZYNTltalJDYXVBUG9IV3I2Qy1IMGljUEdDV0k3d3JQbmVXV05QUzNZSWl5QkJPQk1jV0E?oc=5",
-      "source": "BBC",
-      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
     }
   ]
 }
