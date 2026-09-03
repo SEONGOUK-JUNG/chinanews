@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-03T07:00:11.097368+09:00",
+  "run_at_kst": "2026-09-03T09:30:12.132735+09:00",
   "sources": {
     "a_stocks": "AkShare (Eastmoney via 中国证监会)",
     "hk_us_kr": "Yahoo Finance (yfinance)"
@@ -609,7 +609,7 @@
       "ex": "NASDAQ",
       "sector": "Gaming",
       "type": "us_adr",
-      "price": 119.46,
+      "price": 119.47,
       "prev_close": 120.07,
       "change_pct": -0.5,
       "currency": "USD",
@@ -702,18 +702,18 @@
       "id": "kospi",
       "name": "KOSPI",
       "type": "index",
-      "price": 6562.72,
-      "prev_close": 6835.8,
-      "change_pct": -3.99,
+      "price": 6612.58,
+      "prev_close": 6574.81,
+      "change_pct": 0.57,
       "found": true
     },
     {
       "id": "kosdaq",
       "name": "KOSDAQ",
       "type": "index",
-      "price": 803.98,
-      "prev_close": 821.25,
-      "change_pct": -2.1,
+      "price": 802.23,
+      "prev_close": 808.22,
+      "change_pct": -0.74,
       "found": true
     },
     {

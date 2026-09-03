@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-03T07:46:30+09:00",
+  "run_at_kst": "2026-09-03T10:59:15+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,24 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Why Uranium Stocks Are Falling as U.S. Production Triples",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Why-Uranium-Stocks-Are-Falling-as-US-Production-Triples.html",
+      "source": "OilPrice",
+      "date": "Wed, 02 Sep 2026 19:00:00 -0500"
+    },
+    {
+      "title": "Greenland Mines closes acquisition of Sarfartoq rare earth magnet project",
+      "link": "https://www.mining.com/greenland-mines-closes-acquisition-of-sarfartoq-rare-earth-magnet-project/",
+      "source": "mining.com",
+      "date": "Wed, 02 Sep 2026 23:48:07 +0000"
+    },
+    {
+      "title": "U.S. SPR Depletion Threatens Further Oil Price Volatility",
+      "link": "https://oilprice.com/Energy/Crude-Oil/US-SPR-Depletion-Threatens-Further-Oil-Price-Volatility.html",
+      "source": "OilPrice",
+      "date": "Wed, 02 Sep 2026 18:00:00 -0500"
+    },
     {
       "title": "White Hydrogen Drilling Push Gains Momentum Across Three Continents",
       "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/White-Hydrogen-Drilling-Push-Gains-Momentum-Across-Three-Continents.html",
@@ -72,24 +90,6 @@
       "link": "https://www.mining.com/theres-no-shortage-of-copper-its-just-in-the-wrong-place/",
       "source": "mining.com",
       "date": "Wed, 02 Sep 2026 18:27:22 +0000"
-    },
-    {
-      "title": "Budget Airline Warns Jet Fuel Shock Could Wipe Out Rivals",
-      "link": "https://oilprice.com/Energy/Energy-General/Budget-Airline-Warns-Jet-Fuel-Shock-Could-Wipe-Out-Rivals.html",
-      "source": "OilPrice",
-      "date": "Wed, 02 Sep 2026 13:00:00 -0500"
-    },
-    {
-      "title": "OPEC+ Set to Hold Oil Output Steady as Iran War Disrupts Supply",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Set-to-Hold-Oil-Output-Steady-as-Iran-War-Disrupts-Supply.html",
-      "source": "OilPrice",
-      "date": "Wed, 02 Sep 2026 12:19:52 -0500"
-    },
-    {
-      "title": "Diablillos drilling reveals encouraging near-surface mineralization",
-      "link": "https://www.mining.com/diablillos-drilling-reveals-encouraging-near-surface-mineralization/",
-      "source": "mining.com",
-      "date": "Wed, 02 Sep 2026 17:14:01 +0000"
     }
   ]
 }

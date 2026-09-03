@@ -1,21 +1,33 @@
 {
-  "run_at_kst": "2026-09-03T07:46:30+09:00",
+  "run_at_kst": "2026-09-03T10:59:15+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "[경제 이슈] 중국 반도체 수출 대폭발? 알고보니…\"한국산 메모리 훈풍 타고 날았다\"",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xcGllNnBZbGZQSVAyVWtuTHdPNVgwcDNNcTBXQnd2RUFFb2Z1Rmt2VGt6NVkzaFBWTXZvUzZNY3BBYnRuZ0V6R2ZwZzByUTFjRUQyU3o0LVFveUZjWE1nNTFoWEdpREZRTEJKeQ?oc=5",
-      "source": "프리진경제",
-      "date": "Wed, 02 Sep 2026 07:43:51 GMT"
+      "title": "중국 경제 'K자형 양극화' 심화…IBK증권 \"신·구경제 성장·이익 격차 확대\"",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96MkJMZzFiS1Y0MjR1N3VlRC1Rc09uSGFhQ2tyREktOFZDakN0Z05ia0lWbGxMMUkzTXdlTDRCdDlYcUJGc0JfdmpQLXIwajNaQkNHaUt5SWRadWlLY2dxTC1hLXBrZkVqblRPRTNZODdKaWdh?oc=5",
+      "source": "파이낸셜포스트",
+      "date": "Thu, 03 Sep 2026 01:11:40 GMT"
     },
     {
-      "title": "[경제] 중국경제원탁회의 \"베이징, 혁신기업 전 과정 성장 지원체계 구축\"",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qYkNjUWVtMzRJWmtjdDFoN2tsUG10c1JCclpYZVZZX0pSWHhOM180SXBvWTRXbU5udEFoeHBBdXN6VVp6Q01LYk44NkFvQ3Nza3Y0dTVjWHFGdk1EUk1PNHR6QkFrUnYzOWRqTFJHQ3VBS2s?oc=5",
+      "title": "IBK증권 \"中경제 'K자형 성장' 확연…내수·수출간 경기차별화\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YQTItUGkzRklRbUxMdjZaMVQ3Y18xSjNtTk9VUENwblpqd3FmUS1iSEw3NHg4UHg2TlhranU1aUc3NjJfaWpqQXpFRFowak5KMFJRX2N2ak1fZHfSAWBBVV95cUxOZTFWSzRzbW5jZUxmZlgxNVVDeGw1NWtoRGZtbFYyUVFETENxUVp4WnlMQXhNbXBiZ2JwTHBmNDRkbTJqU2RMUS1OS2s5UGNGZXVKeWJ5X29wcW9Jb0t4UTI?oc=5",
+      "source": "연합뉴스",
+      "date": "Wed, 02 Sep 2026 23:42:10 GMT"
+    },
+    {
+      "title": "[경제+] 중국경제원탁회의 \"中, 혁신 역량 가장 빠르게 향상되는 국가 중 하나\"",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kazJzTlJZSFFVOUFwQXVGdTBrZUNFRzU0RDlrNU0yTmhYcW5MSW1KbGw5X2pWQzI3T1hHTlhsY1V0OW1BWC1ZWnJXLVRxbzF4MnpDUHVyWTYtNXNNVzItRnpQUk9GRExBemhxTE10RnVabWM?oc=5",
       "source": "동방일보",
-      "date": "Wed, 02 Sep 2026 06:36:25 GMT"
+      "date": "Wed, 02 Sep 2026 12:18:53 GMT"
+    },
+    {
+      "title": "중국경제원탁회의 \"베이징, 혁신기업 전 과정 성장 지원체계 구축\"-Xinhua",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93MzVkdmVVS3ZPeERISHBWaFdqSWRJbDJnc0tyUVlucmpNV2NVOWcwZHAzeEpYaVZMdFhzVVB0VkFHd0lERzRvcUZ4S1BNUEQ1cUpWVGxvRDlDRmRQRkdMQWNVSnNDTjM0eWFjU0ppZkVJT2NkLVJIVk5iZDI?oc=5",
+      "source": "新华网",
+      "date": "Wed, 02 Sep 2026 11:28:06 GMT"
     },
     {
       "title": "중국 기업은 어떻게 세계 산업 흔드나…이필상 작가 ‘차이나 시그널’ 출간",
@@ -30,10 +42,10 @@
       "date": "Tue, 01 Sep 2026 13:38:00 GMT"
     },
     {
-      "title": "[월드 프리즘] 중국 제조업 경기 2개월 연속 위축…내수 부진, 부동산 시장 침체가 중국 경제 '발목'",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05N2k1UXZmZUJOUi1SX2JSY3RNRkJnWXo1Ql9ILTdoOFVuM2tYcWwwUGJld2tudXN4ZDM5T2RldHpKU2tERTNES25QQlFqU2lBTFRCYUFEU3BSY1R3Y3RfNG1xdDZTbFVWdGszT0FDSnc?oc=5",
-      "source": "위키리크스한국",
-      "date": "Mon, 31 Aug 2026 21:01:00 GMT"
+      "title": "베선트 “이란 경제 수주~수개월 내 붕괴 가능…중국 도움 없이도 제재 가능”",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95cE02VGZqNzhweFJwNE1YT3pTSHp1NG1VTHVwNnRTLUNzTzhvdmFUU1ZGZHhDM1lnNDg4ejFfSkFSaE9KTENwOU5rTGttX1NsVFZjbnFYWXc2a3NQMFlGSE00TXJYSjIxOS0xVXRIRQ?oc=5",
+      "source": "한겨레",
+      "date": "Mon, 31 Aug 2026 22:11:00 GMT"
     },
     {
       "title": "베선트 \"G20, 막대한 무역흑자 중국과의 교역조건 재검토해야\"",
@@ -42,22 +54,10 @@
       "date": "Mon, 31 Aug 2026 10:00:37 GMT"
     },
     {
-      "title": "\"中경제중심 상하이 시장에 '1970년대생' 주중밍 내정\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rRHl1Yy01RkZSMUg5bVdsUjBNRkFkLW5uQjJZaHZQUHZRWWplRG9YOHJNWjRZM0ZtSEJtSUtNaXlBNWRPMmxQN1VlUUx0YnRiV043VV9qZzBvbDjSAWBBVV95cUxPTGY1MUJ4MjdEU0M4VWVma0JkSkYxZDR1cTd3RlFkM3JRRXBtaVJPNFZPVDBUM3ZweHlCQ1VQY0o1QnJvUEwxRXdKSHRXQU0zUDl4d3NjaGRYZkxlOXpTSEY?oc=5",
-      "source": "연합뉴스",
-      "date": "Sun, 30 Aug 2026 18:40:43 GMT"
-    },
-    {
       "title": "[유상철의 중국 읽기] 얼음과 불…두 얼굴의 중국 경제",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qc2FpdHB0dXpSamJRWWkxY1E0YkRMQUlaQ2s2bFdtRmY1d2ZUOUkzSE14TTlmSHV6Z0hHTld4QW1mUU94SkNZSFZ3LWRWRllFMDJQcDRn?oc=5",
       "source": "중앙일보",
       "date": "Sun, 30 Aug 2026 15:02:00 GMT"
-    },
-    {
-      "title": "중국, 내수 부양보다 첨단기술 '장기 승부'...K자형 경제 고착?",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wSlZZeDdrM1RodTJJMTFCVGlpWWZhSEc5czVyVUw0cGI4RXliSE5FdUhYRERSQlpzb0xiUERYZmtOekFocHMwQ2dmeUpZdnNMdTFzNGFOajVfb1lOWkRuZUdWMUpCZUR4NlMwbVdHMNIBc0FVX3lxTE4wUEdlWVQ0QUtJb3YyRGpSWXVNMk5vdWlfa1FfelFlRExyRlRWd3lKZlh4Wjgwb240dGJlMjJIOGtTMVFpV1ZFcVZoNy02Vi03SDZfZkY1U1RKVVU2VG52U3lVa1BKNFZOdVVvVVhFWEtObFk?oc=5",
-      "source": "초이스경제",
-      "date": "Sat, 29 Aug 2026 23:49:07 GMT"
     },
     {
       "title": "\"다음 글로벌 경제위기는 중국에서 시작될 것\" - 머니투데이",
@@ -68,14 +68,14 @@
     {
       "title": "위안화 강세·수출 호조세에도…중국 경제 속으로 곪고 있다 [주末머니]",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KR01QSmZ3c2hTaFF4MVBjcU54NDlKUnZnQTVUQjRua3hGT3J2eHVESkVCU2o0ZjF6NHpyR0tUMFZncHptLWNjWGtCYndscHV6QzBnRVNpRmE0SjFQSmhOeA?oc=5",
-      "source": "아시아경제",
+      "source": "asiae.co.kr",
       "date": "Sat, 29 Aug 2026 06:48:00 GMT"
     },
     {
-      "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Fri, 28 Aug 2026 07:00:00 GMT"
+      "title": "[열린세상] ‘기술 혁신’ 중국 경제의 역설",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVpiQTJsR21nVklIcG5XR1NxR2tBNG9iZ1JfVkVmaWNxUkprY3FteW1WNG1xeDZXNi1CellROVc0NFhPd0l6MnBUdldjWG03NnA2VkdUd1pOXzd1M2FxQU1vYkFYR0FqdUdLWkU2N1p3aEFRZ2oxRkJYTW5VaVpTcGhralgxbkk?oc=5",
+      "source": "서울신문",
+      "date": "Fri, 24 Jul 2026 07:00:00 GMT"
     }
   ]
 }
