@@ -316,6 +316,10 @@ def head(lang, title, desc, path, alt_path, ld=None, og_type="website"):
         '<meta property="og:description" content="{desc}">\n'
         '<meta property="og:url" content="{site}{path}">\n'
         '<meta property="og:image" content="{site}/og-image.png">\n'
+        '<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="CHINANEWS - China markets terminal and supply desk">
+'
         '<meta property="og:locale" content="{loc}">\n'
         '<meta name="twitter:card" content="summary_large_image">\n'
         '<meta name="twitter:title" content="{title}">\n'
