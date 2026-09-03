@@ -1800,9 +1800,14 @@ document.addEventListener('click', function(e){
   }
 });
 
-// 첫 로드 시 금 차트로 시작 (다른 데이터 로드 후)
+// 첫 로드: 공급 품목 우선 — 산화네오디뮴 차트에 이력이 쌓여 있으면 그것, 아니면 구리
 window.addEventListener('load', function(){
-  setTimeout(function(){ loadCommodityChart('gold', '금', true); }, 1500);
+  setTimeout(function(){
+    fetch('/data/commodity_charts/neodymium_oxide.json?t='+Date.now()).then(function(r){ return r.ok ? r.json() : null; }).then(function(d){
+      if(d && Array.isArray(d.candles) && d.candles.length >= 5) loadCommodityChart('neodymium_oxide', '산화네오디뮴', true);
+      else loadCommodityChart('copper', '구리', true);
+    }).catch(function(){ loadCommodityChart('copper', '구리', true); });
+  }, 1500);
 });
   // 5분마다
 

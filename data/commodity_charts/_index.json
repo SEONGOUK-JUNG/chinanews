@@ -307,7 +307,49 @@
       "unit": "CNY/t",
       "file": "urea.json",
       "count": 94
+    },
+    {
+      "id": "neodymium_oxide",
+      "name": "산화네오디뮴",
+      "unit": "CNY/t",
+      "file": "neodymium_oxide.json",
+      "count": 1
+    },
+    {
+      "id": "praseodymium_oxide",
+      "name": "산화프라세오디뮴",
+      "unit": "CNY/t",
+      "file": "praseodymium_oxide.json",
+      "count": 1
+    },
+    {
+      "id": "dysprosium_oxide",
+      "name": "산화디스프로슘",
+      "unit": "CNY/t",
+      "file": "dysprosium_oxide.json",
+      "count": 1
+    },
+    {
+      "id": "praseodymium_neodymium_alloy",
+      "name": "프라세오디뮴네오디뮴합금",
+      "unit": "CNY/t",
+      "file": "praseodymium_neodymium_alloy.json",
+      "count": 1
+    },
+    {
+      "id": "germanium",
+      "name": "게르마늄",
+      "unit": "CNY/kg",
+      "file": "germanium.json",
+      "count": 1
+    },
+    {
+      "id": "tungsten_concentrate",
+      "name": "텅스텐 정광",
+      "unit": "CNY/t",
+      "file": "tungsten_concentrate.json",
+      "count": 1
     }
   ],
-  "updated_at_kst": "2026-07-29T07:10:30+09:00"
+  "updated_at_kst": "2026-09-03T13:21:08+09:00"
 }
