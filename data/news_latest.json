@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-03T10:59:15+09:00",
+  "run_at_kst": "2026-09-04T00:13:36+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,10 +8,64 @@
   "count": 14,
   "items": [
     {
-      "title": "Why Uranium Stocks Are Falling as U.S. Production Triples",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Why-Uranium-Stocks-Are-Falling-as-US-Production-Triples.html",
+      "title": "U.S. Diesel Prices Surge Toward All-Time High",
+      "link": "https://oilprice.com/Energy/Gas-Prices/US-Diesel-Prices-Surge-Toward-All-Time-High.html",
       "source": "OilPrice",
-      "date": "Wed, 02 Sep 2026 19:00:00 -0500"
+      "date": "Thu, 03 Sep 2026 10:00:00 -0500"
+    },
+    {
+      "title": "Russia Says Oil Output Drop Is Temporary as Refineries Restart",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Says-Oil-Output-Drop-Is-Temporary-as-Refineries-Restart.html",
+      "source": "OilPrice",
+      "date": "Thu, 03 Sep 2026 09:30:00 -0500"
+    },
+    {
+      "title": "EU Vows Tougher Russia Measures After Leipzig Drone Attack",
+      "link": "https://oilprice.com/Geopolitics/Europe/EU-Vows-Tougher-Russia-Measures-After-Leipzig-Drone-Attack.html",
+      "source": "OilPrice",
+      "date": "Thu, 03 Sep 2026 09:00:00 -0500"
+    },
+    {
+      "title": "Hormuz Disruptions Could Drag Into Next Year, Japanese Tanker Giant Warns",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Disruptions-Could-Drag-Into-Next-Year-Japanese-Tanker-Giant-Warns.html",
+      "source": "OilPrice",
+      "date": "Thu, 03 Sep 2026 08:00:00 -0500"
+    },
+    {
+      "title": "Gem Diamonds rebounds as big stones lift prices, profit",
+      "link": "https://www.mining.com/gem-diamonds-rebounds-as-big-stones-lift-prices-profit/",
+      "source": "mining.com",
+      "date": "Thu, 03 Sep 2026 12:01:00 +0000"
+    },
+    {
+      "title": "Iraq Hikes Oil Exports via Hormuz in Boon for Asian Refiners",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Hikes-Oil-Exports-via-Hormuz-in-Boon-for-Asian-Refiners.html",
+      "source": "OilPrice",
+      "date": "Thu, 03 Sep 2026 07:00:00 -0500"
+    },
+    {
+      "title": "Global Refining Crunch Could Keep Fuel Prices High Into 2027",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Global-Refining-Crunch-Could-Keep-Fuel-Prices-High-Into-2027.html",
+      "source": "OilPrice",
+      "date": "Thu, 03 Sep 2026 06:00:00 -0500"
+    },
+    {
+      "title": "Albemarle taps BHP veteran Udd as next CEO",
+      "link": "https://www.mining.com/albemarle-taps-bhp-veteran-udd-as-next-ceo/",
+      "source": "mining.com",
+      "date": "Thu, 03 Sep 2026 10:55:00 +0000"
+    },
+    {
+      "title": "Europe’s Low Gas Stocks Set Stage for Winter LNG Battle",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Low-Gas-Stocks-Set-Stage-for-Winter-LNG-Battle.html",
+      "source": "OilPrice",
+      "date": "Thu, 03 Sep 2026 04:45:00 -0500"
+    },
+    {
+      "title": "Chinese Refiners Pay Record Premiums for Russian ESPO Crude",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinese-Refiners-Pay-Record-Premiums-for-Russian-ESPO-Crude.html",
+      "source": "OilPrice",
+      "date": "Thu, 03 Sep 2026 03:45:00 -0500"
     },
     {
       "title": "Greenland Mines closes acquisition of Sarfartoq rare earth magnet project",
@@ -20,28 +74,10 @@
       "date": "Wed, 02 Sep 2026 23:48:07 +0000"
     },
     {
-      "title": "U.S. SPR Depletion Threatens Further Oil Price Volatility",
-      "link": "https://oilprice.com/Energy/Crude-Oil/US-SPR-Depletion-Threatens-Further-Oil-Price-Volatility.html",
-      "source": "OilPrice",
-      "date": "Wed, 02 Sep 2026 18:00:00 -0500"
-    },
-    {
-      "title": "White Hydrogen Drilling Push Gains Momentum Across Three Continents",
-      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/White-Hydrogen-Drilling-Push-Gains-Momentum-Across-Three-Continents.html",
-      "source": "OilPrice",
-      "date": "Wed, 02 Sep 2026 17:00:00 -0500"
-    },
-    {
       "title": "Tungsten surge transforms Northcliff’s Sisson economics",
       "link": "https://www.mining.com/tungsten-surge-transforms-northcliffs-sisson-economics/",
       "source": "mining.com",
       "date": "Wed, 02 Sep 2026 21:18:00 +0000"
-    },
-    {
-      "title": "Superhot Geothermal Just Got A $180 Million Vote Of Confidence",
-      "link": "https://oilprice.com/Energy/Energy-General/Superhot-Geothermal-Just-Got-A-180-Million-Vote-Of-Confidence.html",
-      "source": "OilPrice",
-      "date": "Wed, 02 Sep 2026 16:00:00 -0500"
     },
     {
       "title": "SW US mine rush collides with water limits",
@@ -54,42 +90,6 @@
       "link": "https://www.mining.com/end-of-a-dollar-centered-world-nears-gold-to-replace-some-bonds-fund-manager-says/",
       "source": "mining.com",
       "date": "Wed, 02 Sep 2026 20:23:21 +0000"
-    },
-    {
-      "title": "US Forest Service signs off on South32 Hermosa’s mine plan in Arizona",
-      "link": "https://www.mining.com/us-forest-service-signs-off-on-south32-hermosas-mine-plan-in-arizona/",
-      "source": "mining.com",
-      "date": "Wed, 02 Sep 2026 20:02:58 +0000"
-    },
-    {
-      "title": "Eldorado eyes bigger McIlvenna Bay copper mill",
-      "link": "https://www.mining.com/eldorado-eyes-bigger-mcilvenna-bay-copper-mill/",
-      "source": "mining.com",
-      "date": "Wed, 02 Sep 2026 19:00:00 +0000"
-    },
-    {
-      "title": "U.S. Diesel Prices Close In on April War Peak",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Diesel-Prices-Close-In-on-April-War-Peak.html",
-      "source": "OilPrice",
-      "date": "Wed, 02 Sep 2026 14:00:00 -0500"
-    },
-    {
-      "title": "Strike to begin at Sibanye-Stillwater’s US operations",
-      "link": "https://www.mining.com/strike-to-begin-at-sibanye-stillwaters-us-operations/",
-      "source": "mining.com",
-      "date": "Wed, 02 Sep 2026 18:39:48 +0000"
-    },
-    {
-      "title": "Chevron Bets $7 Billion on Venezuela Oil Expansion",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-Bets-7-Billion-on-Venezuela-Oil-Expansion.html",
-      "source": "OilPrice",
-      "date": "Wed, 02 Sep 2026 13:31:00 -0500"
-    },
-    {
-      "title": "There’s no shortage of copper, it’s just in the wrong place",
-      "link": "https://www.mining.com/theres-no-shortage-of-copper-its-just-in-the-wrong-place/",
-      "source": "mining.com",
-      "date": "Wed, 02 Sep 2026 18:27:22 +0000"
     }
   ]
 }

@@ -1,15 +1,21 @@
 {
-  "run_at_kst": "2026-09-03T10:59:15+09:00",
+  "run_at_kst": "2026-09-04T00:13:36+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "중국 경제 'K자형 양극화' 심화…IBK증권 \"신·구경제 성장·이익 격차 확대\"",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96MkJMZzFiS1Y0MjR1N3VlRC1Rc09uSGFhQ2tyREktOFZDakN0Z05ia0lWbGxMMUkzTXdlTDRCdDlYcUJGc0JfdmpQLXIwajNaQkNHaUt5SWRadWlLY2dxTC1hLXBrZkVqblRPRTNZODdKaWdh?oc=5",
-      "source": "파이낸셜포스트",
-      "date": "Thu, 03 Sep 2026 01:11:40 GMT"
+      "title": "[위클리오늘] 한국 반도체 가져다 판 중국···기술 추격까지 '3~5년 골든타임' 확보",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pYWpETkFfTGtqTGVFNHBLcF9EVTYyWjFNeW5VZWdyUUFwT0JoTFRDRXRDYlF4YXRQdnRfUTNQc1pnQ2FKcWRXMktGd2VrdkVxMjNuUm5qelBvTjhlQ1FoaWpCdXVMZldxRFdId3Zn?oc=5",
+      "source": "위클리오늘",
+      "date": "Thu, 03 Sep 2026 07:09:44 GMT"
+    },
+    {
+      "title": "[숏폼뉴스] 2026년 9월 둘째주 9월7일~9월11일 주요 경제일정",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yNUpBVVZOTUtTNEtTWU55eDNpTUF1Z2gwWG15TkYxLWVOSUtPSUY2SGZNVDNOeDczRjk0MmltQ2gtQnVqX0pIMlJHU09oY2JvcGdaaXc1S1gzT2tUZTd5RFRNUjdZV3FpWkpwRHRqRQ?oc=5",
+      "source": "기호일보",
+      "date": "Thu, 03 Sep 2026 01:08:05 GMT"
     },
     {
       "title": "IBK증권 \"中경제 'K자형 성장' 확연…내수·수출간 경기차별화\"",
@@ -30,12 +36,6 @@
       "date": "Wed, 02 Sep 2026 11:28:06 GMT"
     },
     {
-      "title": "중국 기업은 어떻게 세계 산업 흔드나…이필상 작가 ‘차이나 시그널’ 출간",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKU1NvYXdDZXRUVldyZnVTWGJSX2F6YTdxX2ZrMFpuQUxpOHBwcUJVNTF6X2ZtNW0zYTd1eXRvaGtIUy1YbTZFMUxmeUhmNnpHZWVTYjdWUlFkYWNXR0k1ZFNNUEM?oc=5",
-      "source": "서울경제TV",
-      "date": "Wed, 02 Sep 2026 06:03:29 GMT"
-    },
-    {
       "title": "중국 리창 총리 “미·중 경제 관계 본질은 상호 이익···일부 마찰은 정상”",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkbE8zSDBIalh5NmMzSU9OcHlBQUdaOTdhRm9hWmMteEtHcmprX0VWc0NOVTREdGs2ajUwLXFDVWoxQ1RMZlRDM0tuQUR5bXB0akktWlVXU3drQdIBX0FVX3lxTFBOdkVIaEtRVzBUaGxKcllYMGFCczhqRC1SUWpNNGpqS3BLQ012ZU80MTFDMmlPbE90MVBSRHRhcjlKdjZLMXh2TW92UDEzNzZERG9rVTkwY09VdUg1b2xn?oc=5",
       "source": "경향신문",
@@ -46,6 +46,12 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95cE02VGZqNzhweFJwNE1YT3pTSHp1NG1VTHVwNnRTLUNzTzhvdmFUU1ZGZHhDM1lnNDg4ejFfSkFSaE9KTENwOU5rTGttX1NsVFZjbnFYWXc2a3NQMFlGSE00TXJYSjIxOS0xVXRIRQ?oc=5",
       "source": "한겨레",
       "date": "Mon, 31 Aug 2026 22:11:00 GMT"
+    },
+    {
+      "title": "[월드 프리즘] 중국 제조업 경기 2개월 연속 위축…내수 부진, 부동산 시장 침체가 중국 경제 '발목'",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05N2k1UXZmZUJOUi1SX2JSY3RNRkJnWXo1Ql9ILTdoOFVuM2tYcWwwUGJld2tudXN4ZDM5T2RldHpKU2tERTNES25QQlFqU2lBTFRCYUFEU3BSY1R3Y3RfNG1xdDZTbFVWdGszT0FDSnc?oc=5",
+      "source": "위키리크스한국",
+      "date": "Mon, 31 Aug 2026 21:01:00 GMT"
     },
     {
       "title": "베선트 \"G20, 막대한 무역흑자 중국과의 교역조건 재검토해야\"",
@@ -62,20 +68,14 @@
     {
       "title": "\"다음 글로벌 경제위기는 중국에서 시작될 것\" - 머니투데이",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43aFF3cEtoOTBMZzlLYWtiMFlHMmNwQ0pzdEpqMm8zZS1jNDJLUmdLSFJRS0VNSl9FeDNUZ1NYcTRTdGJUUHQ4RDZqYXVsX2dvMlR5S1BaWUlXc1Y2V3ZmaG1GUzNpeUdP0gFuQVVfeXFMT1V6X0g4TkV6Rk05ek9yZlZiVnYwTHNZTGY3M0RNT1RSVjVNVWd2Mi1rVWxJSlB2c0RfajFIdDFoUXJoUW9tcWVaU3dBaGRaWXM4aXo1VWgyaGJqTHA4VHJROUFvcW44Q092QUtHTEE?oc=5",
-      "source": "머니투데이",
+      "source": "mt.co.kr",
       "date": "Sat, 29 Aug 2026 21:00:00 GMT"
     },
     {
-      "title": "위안화 강세·수출 호조세에도…중국 경제 속으로 곪고 있다 [주末머니]",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KR01QSmZ3c2hTaFF4MVBjcU54NDlKUnZnQTVUQjRua3hGT3J2eHVESkVCU2o0ZjF6NHpyR0tUMFZncHptLWNjWGtCYndscHV6QzBnRVNpRmE0SjFQSmhOeA?oc=5",
-      "source": "asiae.co.kr",
-      "date": "Sat, 29 Aug 2026 06:48:00 GMT"
-    },
-    {
-      "title": "[열린세상] ‘기술 혁신’ 중국 경제의 역설",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVpiQTJsR21nVklIcG5XR1NxR2tBNG9iZ1JfVkVmaWNxUkprY3FteW1WNG1xeDZXNi1CellROVc0NFhPd0l6MnBUdldjWG03NnA2VkdUd1pOXzd1M2FxQU1vYkFYR0FqdUdLWkU2N1p3aEFRZ2oxRkJYTW5VaVpTcGhralgxbkk?oc=5",
-      "source": "서울신문",
-      "date": "Fri, 24 Jul 2026 07:00:00 GMT"
+      "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52UVRRTTIyQW5udGJFTjhSbEhmTHc4Q2QyTHdTd1BWNzE5b0p0U0hWZk5LbmNjdUY5ZWh2MlBZaEczSnd3RVZGSlRfLXlrdU9HYTlfdmthLW01dTVn0gFiQVVfeXFMUDU0UmVDOFl4VUpZYzlneGtDWHJCX3luT1pfdFhKaGZENGxvWTRjRTZYNTltalJDYXVBUG9IV3I2Qy1IMGljUEdDV0k3d3JQbmVXV05QUzNZSWl5QkJPQk1jV0E?oc=5",
+      "source": "BBC",
+      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
     }
   ]
 }
