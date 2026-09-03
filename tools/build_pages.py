@@ -298,8 +298,8 @@ BEACON = '''<script>
   var lang=location.pathname.indexOf('/ko/')===0?'ko':'en';
   var body=JSON.stringify({path:location.pathname,platform:plat,lang:lang,isNew:first,isNewToday:newToday,ref:document.referrer||''});
   var url='https://chinanews-ai.koreagwangju.workers.dev/hit';
-  if(navigator.sendBeacon){ navigator.sendBeacon(url, new Blob([body],{type:'application/json'})); }
-  else{ fetch(url,{method:'POST',headers:{'Content-Type':'application/json'},body:body,keepalive:true}).catch(function(){}); }
+  if(navigator.sendBeacon){ navigator.sendBeacon(url, new Blob([body],{type:'text/plain'})); }
+  else{ fetch(url,{method:'POST',headers:{'Content-Type':'text/plain'},body:body,keepalive:true}).catch(function(){}); }
 }catch(e){}})();
 </script>
 '''

@@ -50,7 +50,7 @@ function esc(s){ const d=document.createElement('div'); d.textContent=String(s);
 function card(l,v,u,hint){ return '<div class="card"><div class="lbl">'+esc(l)+'</div><div class="val">'+Number(v).toLocaleString()+(u?' <small>'+esc(u)+'</small>':'')+'</div>'+(hint?'<div class="hint">'+esc(hint)+'</div>':'')+'</div>'; }
 function row(label,v,max,cls){ return '<tr><td'+(cls?' class="'+cls+'"':'')+'>'+esc(label)+'</td><td><span class="bar" style="width:'+Math.round(v/Math.max(1,max)*120)+'px"></span> '+Number(v).toLocaleString()+'</td></tr>'; }
 function emptyRow(){ return '<tr><td class="zero" colspan="2">아직 데이터 없음</td></tr>'; }
-function top(obj,n){ return Object.entries(obj||{}).sort((a,b)=>b[1]-a[1]).slice(0,n); }
+function topN(obj,n){ return Object.entries(obj||{}).sort((a,b)=>b[1]-a[1]).slice(0,n); }
 function sumObj(days,k){ const o={}; days.forEach(d=>{ Object.entries(d[k]||{}).forEach(([a,b])=>{ o[a]=(o[a]||0)+b; }); }); return o; }
 
 fetch(API).then(r=>{ if(!r.ok) throw new Error(r.status===401?'접속 키가 올바르지 않습니다':'서버 오류 '+r.status); return r.json(); })
@@ -86,16 +86,16 @@ fetch(API).then(r=>{ if(!r.ok) throw new Error(r.status===401?'접속 키가 올
   const paths = sumObj(days,'path'), secs = sumObj(days,'section'), refs = sumObj(days,'ref'), langs = sumObj(days,'lang'), plats = sumObj(days,'platform');
   h += '<div class="cols"><div>';
   h += '<h2>많이 본 페이지 <span style="color:var(--dim);font-weight:400;font-size:11px;text-transform:none;letter-spacing:0">('+DAYS+'일)</span></h2><div class="wrap"><table>';
-  const pr = top(paths,25); h += pr.length ? pr.map(([k,v])=>row(k,v,pr[0][1],'path')).join('') : emptyRow(); h += '</table></div>';
+  const pr = topN(paths,25); h += pr.length ? pr.map(([k,v])=>row(k,v,pr[0][1],'path')).join('') : emptyRow(); h += '</table></div>';
   h += '<h2>섹션별</h2><div class="wrap"><table>';
-  const sr = top(secs,10); h += sr.length ? sr.map(([k,v])=>row(SECTION[k]||k,v,sr[0][1])).join('') : emptyRow(); h += '</table></div>';
+  const sr = topN(secs,10); h += sr.length ? sr.map(([k,v])=>row(SECTION[k]||k,v,sr[0][1])).join('') : emptyRow(); h += '</table></div>';
   h += '</div><div>';
   h += '<h2>유입 경로 <span style="color:var(--dim);font-weight:400;font-size:11px;text-transform:none;letter-spacing:0">(첫 페이지 기준)</span></h2><div class="wrap"><table>';
-  const rr = top(refs,15); h += rr.length ? rr.map(([k,v])=>row(k==='direct'?'직접 접속·북마크':k,v,rr[0][1])).join('') : emptyRow(); h += '</table></div>';
+  const rr = topN(refs,15); h += rr.length ? rr.map(([k,v])=>row(k==='direct'?'직접 접속·북마크':k,v,rr[0][1])).join('') : emptyRow(); h += '</table></div>';
   h += '<h2>국가</h2><div class="wrap"><table>';
-  const cr = top(sumObj(days,'country'),12); h += cr.length ? cr.map(([k,v])=>row(FLAG[k]||k,v,cr[0][1])).join('') : emptyRow(); h += '</table></div>';
+  const cr = topN(sumObj(days,'country'),12); h += cr.length ? cr.map(([k,v])=>row(FLAG[k]||k,v,cr[0][1])).join('') : emptyRow(); h += '</table></div>';
   h += '<h2>언어 · 기기</h2><div class="wrap"><table>';
-  const lr = top(langs,3), plr = top(plats,3);
+  const lr = topN(langs,3), plr = topN(plats,3);
   h += lr.map(([k,v])=>row(LANG[k]||k,v,lr[0][1])).join('') + plr.map(([k,v])=>row(PLAT[k]||k,v,plr[0][1])).join('') || emptyRow();
   h += '</table></div>';
   h += '</div></div>';
