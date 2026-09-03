@@ -289,6 +289,19 @@
   .tb-side{flex-shrink:0}
   .idx-strip{flex-wrap:nowrap}
   #cm-sparkgrid .up{color:var(--up)} #cm-sparkgrid .down{color:var(--down)}
+  /* mobile top bar: row 1 = logo · search · EN/KR, row 2 = scrollable tabs (nothing pushed off-screen) */
+  @media(max-width:640px){
+    .topbar{height:auto;flex-wrap:wrap;padding:5px 8px;gap:6px;overflow:visible}
+    .logo-mark{order:0}
+    .tb-search{order:1;flex:1 1 120px;min-width:0;max-width:none;height:28px}
+    .tb-search input{min-width:0}
+    .tb-side{order:2;gap:6px;flex-shrink:0}
+    .tb-side .item,.tb-side .item-dim,.conn-status{display:none}
+    .lang-toggle{margin-right:0}
+    .tb-tabs{order:3;flex:1 1 100%;margin-left:0;overflow-x:auto;overflow-y:hidden;border-top:1px solid var(--line);-webkit-overflow-scrolling:touch}
+    .tb-tabs::-webkit-scrollbar{height:0}
+    .tb-tab{height:32px;line-height:32px;padding:0 10px;font-size:12px;white-space:nowrap}
+  }
 </style>
 <!-- Cloudflare Web Analytics -->
 <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "60582f662b3c4e8a821e4dec6018e061"}'></script>
