@@ -881,6 +881,10 @@ def render_ko_home(src_html):
     # nav/footer links that point at EN pages -> KO pages
     s = s.replace('href="/commodities/"', 'href="/ko/commodities/"').replace('href="/daily/"', 'href="/ko/daily/"').replace('href="/supply/"', 'href="/ko/supply/"')
     s = s.replace('>Supply / RFQ<', '>공급·견적<')
+    s = s.replace('<a class="tb-tab" href="/ko/commodities/">A–Z</a>', '<a class="tb-tab" href="/ko/commodities/">원자재 목록</a>')
+    s = s.replace('<a class="tb-tab" href="/ko/daily/">Daily</a>', '<a class="tb-tab" href="/ko/daily/">일일 시황</a>')
+    s = s.replace('>Commodities A–Z</a>', '>원자재 전체 목록</a>').replace('>Daily Brief</a>', '>일일 시황</a>')
+    s = s.replace('<a href="/press/abridge-sic-cvd-20260615.html" style="color:var(--orange);margin-right:14px">Press</a>', '<a href="/press/abridge-sic-cvd-20260615.html" style="color:var(--orange);margin-right:14px">보도자료</a>')
     s = s.replace('<a class="tb-tab" href="/ko/" hreflang="ko">한국어</a>', '<a class="tb-tab" href="/" hreflang="en">English</a>')
     s = s.replace('<a href="/ko/" hreflang="ko">한국어</a>', '<a href="/" hreflang="en">English</a>')
     s = s.replace('id="seo-footer" lang="en"', 'id="seo-footer" lang="ko"')
