@@ -299,7 +299,10 @@
 <body>
 <script>
 window.USD_CNY = null;
-window.CN_LANG = (function(){ try{ return localStorage.getItem('chinanews_lang')||'en'; }catch(e){ return 'en'; } })();
+/* URL decides the language: / = EN, /ko/ = KO. The stored preference follows the page, and the EN/KR toggle navigates between the two URLs. */
+window.CN_LANG = (document.documentElement.lang==='ko')?'ko':'en';
+try{ localStorage.setItem('chinanews_lang', window.CN_LANG); }catch(e){}
+document.addEventListener('click', function(e){ var s=e.target.closest?e.target.closest('#lang-toggle span[data-lang]'):null; if(!s) return; var l=s.getAttribute('data-lang'); if(l===window.CN_LANG) return; e.preventDefault(); e.stopImmediatePropagation(); window.location.href=(l==='ko')?'/ko/':'/'; }, true);
 window.CM_I18N = {names:{}, sectors:{}, categories:{}};
 function cmName(ko){ var L=window.CN_LANG||'en'; if(L==='ko') return (ko&&String(ko).trim())?ko:'(미상)'; if(!ko||!String(ko).trim()) return '(unnamed)'; return window.CM_I18N.names[ko]||ko; }
 function cmSector(ko){ var L=window.CN_LANG||'en'; if(L==='ko') return ko||''; return (window.CM_I18N.sectors[ko]!==undefined)?window.CM_I18N.sectors[ko]:(ko||''); }
