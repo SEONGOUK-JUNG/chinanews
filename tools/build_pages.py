@@ -1193,7 +1193,7 @@ ABOUT = {
         "h1": "About BRIDGE GROUP",
         "paras": [
             "BRIDGE GROUP is the umbrella for three Korean trading companies based in Gwangju, South Korea: ABridge Co., Ltd. (strategic materials, semiconductor equipment and agricultural commodities), Ecobridge (petrochemicals, PE resins, PBAT/PLA biodegradable materials and industrial films) and DealBridge (semiconductor and critical-mineral brokerage). The group operates chinanews.kr, a bilingual China markets terminal.",
-            "ABridge holds a state-trading rice import quota under Korea's Korea Agro-Fisheries & Food Trade Corporation (aT) and, in June 2026, became the first Korean company to export SiC focus-ring CVD furnace systems directly to a Chinese semiconductor equipment manufacturer (Heilongjiang Zhilian Semiconductor).",
+            "ABridge holds a state-trading rice import quota under Korea's Korea Agro-Fisheries & Food Trade Corporation (aT) and, in June 2026, exported SiC focus-ring CVD furnace systems directly to a Chinese semiconductor equipment manufacturer (Heilongjiang Zhilian Semiconductor).",
             "Our supply business buys from refineries, fabs and authorised distributors in China and sells to manufacturers, research institutes and traders in Korea and abroad. Every enquiry is classified under Korea's strategic-items rules and screened against U.S., UN and EU sanctions lists before quotation; materials ship with producer certificates and samples are available for independent assay.",
         ],
         "facts_h": "Key facts",
@@ -1208,7 +1208,7 @@ ABOUT = {
         "h1": "BRIDGE GROUP 소개",
         "paras": [
             "BRIDGE GROUP은 광주광역시에 본사를 둔 세 무역법인의 통합 브랜드입니다: ㈜에이브릿지(전략소재·반도체 장비·농산물), ㈜에코브릿지(석유화학·PE 수지·PBAT/PLA 생분해 소재·산업용 필름), 딜브릿지(반도체·핵심광물 중개). 그룹은 한·영 중국 시장 터미널 chinanews.kr를 운영합니다.",
-            "㈜에이브릿지는 한국농수산식품유통공사(aT) 쌀 국영무역 수입 자격을 보유하며, 2026년 6월 한국 기업 최초로 SiC 포커스링 CVD 장비 시스템을 중국 반도체 장비사(흑룡강성 지련반도체)에 직접 수출했습니다.",
+            "㈜에이브릿지는 한국농수산식품유통공사(aT) 쌀 국영무역 수입 자격을 보유하며, 2026년 6월 SiC 포커스링 CVD 장비 시스템을 중국 반도체 장비사(흑룡강성 지련반도체)에 직접 수출했습니다.",
             "공급 사업은 중국의 정련소·팹·공인 대리점에서 매입해 국내외 제조사·연구기관·무역상에 판매합니다. 모든 문의는 견적 전에 전략물자 규정으로 판정하고 미국·UN·EU 제재 목록을 조회하며, 소재는 생산자 성적서와 함께 출하하고 제3자 분석용 샘플을 제공합니다.",
         ],
         "facts_h": "기본 정보",

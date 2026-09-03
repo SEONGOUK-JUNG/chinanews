@@ -11,8 +11,8 @@ Rule: no price-source attribution anywhere. Compliance wording is mandatory.
 """
 
 COMPANY = {
-    "en": "BRIDGE GROUP (ABridge Co., Ltd. · Ecobridge) — Gwangju, South Korea. Licensed trading company; state-trading rice quota holder under Korea's aT; Korea's first direct exporter of SiC focus-ring CVD furnace systems to China (June 2026).",
-    "ko": "BRIDGE GROUP(㈜에이브릿지 · ㈜에코브릿지) — 광주광역시. aT 쌀 국영무역 자격 보유 무역법인, 2026년 6월 한국 기업 최초로 SiC 포커스링 CVD 장비를 중국에 직접 수출.",
+    "en": "BRIDGE GROUP (ABridge Co., Ltd. · Ecobridge) — Gwangju, South Korea. Licensed trading company; state-trading rice quota holder under Korea's aT; direct exporter of SiC focus-ring CVD furnace systems to China (June 2026).",
+    "ko": "BRIDGE GROUP(㈜에이브릿지 · ㈜에코브릿지) — 광주광역시. aT 쌀 국영무역 자격 보유 무역법인, 2026년 6월 SiC 포커스링 CVD 장비를 중국에 직접 수출.",
 }
 
 COMPLIANCE = {
@@ -222,7 +222,7 @@ PAGES = [
             "kicker": "Supply · RFQ",
             "intro": [
                 "BRIDGE GROUP supplies process materials and consumables to semiconductor, solar and compound-semiconductor manufacturers: silicon carbide (SiC) powder and CVD-SiC parts, germanium, polysilicon and industrial silicon, hafnium and yttrium compounds, and electronic-grade fluorochemicals — sourced from Chinese producers and shipped with certificates.",
-                "In June 2026 ABridge became the first Korean company to export SiC focus-ring CVD furnace systems directly to a Chinese semiconductor equipment maker; the same network supplies the materials below.",
+                "In June 2026 ABridge exported SiC focus-ring CVD furnace systems directly to a Chinese semiconductor equipment maker; the same network supplies the materials below.",
             ],
             "table_head": ["Material", "Forms", "Grade", "Process use"],
             "faq": [
@@ -238,7 +238,7 @@ PAGES = [
             "kicker": "공급 · 견적",
             "intro": [
                 "BRIDGE GROUP은 반도체·태양광·화합물반도체 제조사에 공정 소재와 소모품을 공급합니다: 탄화규소(SiC) 분말과 CVD-SiC 부품, 게르마늄, 폴리실리콘과 공업용 규소, 하프늄·이트륨 화합물, 전자급 불소화학품을 중국 생산자로부터 조달해 성적서와 함께 출하합니다.",
-                "㈜에이브릿지는 2026년 6월 한국 기업 최초로 SiC 포커스링 CVD 장비를 중국 반도체 장비사에 직접 수출했으며, 같은 네트워크로 아래 소재를 공급합니다.",
+                "㈜에이브릿지는 2026년 6월 SiC 포커스링 CVD 장비를 중국 반도체 장비사에 직접 수출했으며, 같은 네트워크로 아래 소재를 공급합니다.",
             ],
             "table_head": ["소재", "형태", "등급", "공정 용도"],
             "faq": [
