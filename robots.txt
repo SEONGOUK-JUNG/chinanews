@@ -2,6 +2,7 @@ User-agent: *
 Allow: /
 Disallow: /newsroom-org-chart.html
 Disallow: /index-ko-legacy.html
+Disallow: /stats.html
 
 # AI / answer-engine crawlers are welcome (GEO)
 User-agent: GPTBot

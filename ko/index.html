@@ -309,6 +309,21 @@
 <!-- ===== Visitor analytics (GoatCounter) ===== -->
 <script data-goatcounter="https://chinanews-kr.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 <!-- End Visitor analytics -->
+<script>
+/* CHINANEWS visit counter — no personal data: date, page path, country code, device class, language only */
+(function(){try{
+  var KEY='chinanews_hit', today=new Date(Date.now()+9*3600e3).toISOString().slice(0,10);
+  var first=!localStorage.getItem('chinanews_seen'); if(first) localStorage.setItem('chinanews_seen','1');
+  var newToday=localStorage.getItem(KEY)!==today; if(newToday) localStorage.setItem(KEY,today);
+  var ua=navigator.userAgent, plat=/iPad|Tablet/i.test(ua)?'tablet':(/Mobi|Android|iPhone/i.test(ua)?'mobile':'desktop');
+  var lang=location.pathname.indexOf('/ko/')===0?'ko':'en';
+  var body=JSON.stringify({path:location.pathname,platform:plat,lang:lang,isNew:first,isNewToday:newToday,ref:document.referrer||''});
+  var url='https://chinanews-ai.koreagwangju.workers.dev/hit';
+  if(navigator.sendBeacon){ navigator.sendBeacon(url, new Blob([body],{type:'application/json'})); }
+  else{ fetch(url,{method:'POST',headers:{'Content-Type':'application/json'},body:body,keepalive:true}).catch(function(){}); }
+}catch(e){}})();
+</script>
+
 </head>
 <body>
 <script>

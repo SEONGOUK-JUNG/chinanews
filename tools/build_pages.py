@@ -288,6 +288,22 @@ footer nav a{margin-right:14px}
 .archive li{padding:6px 0;border-bottom:1px solid var(--line)}
 """
 
+BEACON = '''<script>
+/* CHINANEWS visit counter — no personal data: date, page path, country code, device class, language only */
+(function(){try{
+  var KEY='chinanews_hit', today=new Date(Date.now()+9*3600e3).toISOString().slice(0,10);
+  var first=!localStorage.getItem('chinanews_seen'); if(first) localStorage.setItem('chinanews_seen','1');
+  var newToday=localStorage.getItem(KEY)!==today; if(newToday) localStorage.setItem(KEY,today);
+  var ua=navigator.userAgent, plat=/iPad|Tablet/i.test(ua)?'tablet':(/Mobi|Android|iPhone/i.test(ua)?'mobile':'desktop');
+  var lang=location.pathname.indexOf('/ko/')===0?'ko':'en';
+  var body=JSON.stringify({path:location.pathname,platform:plat,lang:lang,isNew:first,isNewToday:newToday,ref:document.referrer||''});
+  var url='https://chinanews-ai.koreagwangju.workers.dev/hit';
+  if(navigator.sendBeacon){ navigator.sendBeacon(url, new Blob([body],{type:'application/json'})); }
+  else{ fetch(url,{method:'POST',headers:{'Content-Type':'application/json'},body:body,keepalive:true}).catch(function(){}); }
+}catch(e){}})();
+</script>
+'''
+
 LOGO_SVG = ('<svg width="18" height="18" viewBox="0 0 32 32" aria-hidden="true">'
             '<line x1="16" y1="3" x2="16" y2="29" stroke="#ff3b3b" stroke-width="2.4" stroke-linecap="round"/>'
             '<rect x="7" y="9" width="18" height="14" rx="2" fill="#E8C078"/></svg>')
@@ -328,7 +344,7 @@ def head(lang, title, desc, path, alt_path, ld=None, og_type="website"):
         '<script data-goatcounter="https://chinanews-kr.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>\n'
         '</head>\n'
     ).format(lang=lang, title=esc(title), desc=esc(desc), site=SITE, path=path, en=en_path, ko=ko_path,
-             ogt=og_type, loc="ko_KR" if lang == "ko" else "en_US", ld=ld_json, css=CSS)
+             ogt=og_type, loc="ko_KR" if lang == "ko" else "en_US", ld=ld_json, css=CSS).replace('</head>', BEACON + '</head>', 1)
 
 
 def topbar(lang, alt_path):
