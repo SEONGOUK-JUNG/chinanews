@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-07T10:10:03+09:00",
+  "run_at_kst": "2026-09-07T14:10:26+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Oil Prices Climb After U.S. Strikes Three Iranian Tankers and Iran Vows Revenge",
+      "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Climb-After-US-Strikes-Three-Iranian-Tankers-and-Iran-Vows-Revenge.html",
+      "source": "OilPrice",
+      "date": "Sun, 06 Sep 2026 22:40:00 -0500"
+    },
     {
       "title": "Russia Is Redrawing Its Energy Map Through the Arctic",
       "link": "https://oilprice.com/Energy/Energy-General/Russia-Is-Redrawing-Its-Energy-Map-Through-the-Arctic.html",
@@ -48,12 +54,6 @@
       "link": "https://oilprice.com/Energy/Crude-Oil/Iran-War-Forces-a-Rewrite-of-Global-Oil-Trade-Routes.html",
       "source": "OilPrice",
       "date": "Sat, 05 Sep 2026 18:00:00 -0500"
-    },
-    {
-      "title": "Japan, South Korea and the U.S. Forge a New Nuclear Alliance",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Japan-South-Korea-and-the-US-Forge-a-New-Nuclear-Alliance.html",
-      "source": "OilPrice",
-      "date": "Sat, 05 Sep 2026 16:00:00 -0500"
     },
     {
       "title": "Value of top 50 mining companies surges by $357 billion after monster August rally",

@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-09-07T10:10:03+09:00",
+  "run_at_kst": "2026-09-07T14:10:26+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "홍콩, 러시아 금 수입처로 부상…\"중러 경제관계 결과\"",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MV0tQNzVTeElHRlhsQW95cXhMenJ6S3pEX1lqQ0oxamktN2p4aFZfWVNGTi0tN2hfU3ZsNlhZTkdVTjQxYUVtYXRVWjZJUWxPbkpr?oc=5",
+      "source": "네이트",
+      "date": "Mon, 07 Sep 2026 01:20:00 GMT"
+    },
     {
       "title": "블룸버그 \"글로벌 AI 투자, 한국·일본 대신 중국으로\"",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XMWhybGg5WDVucXZXVE5kUzA5MXhtS3RGYUNjWThfWGlpMmFwbGROVHk0THlzVkNuUkQyN05yNW9JTjhqQUFBeGJDeWJ0emMxTlVtcTZtaTlJYW5DMHc?oc=5",
@@ -13,9 +19,9 @@
     },
     {
       "title": "中 AI·반도체 국산화 속도에 韓日 긴장…美 제재 부른 '서늘한 경고'",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TcXVsMkExbnpqWUZKTUtlVm10Q3VfblpjNTBqemh2cDZrTkd2RDQzOXRDbUczZ25pU1RNbG9fZFpya3ZYUUZBMC13bEM0WDFYOG5j?oc=5",
-      "source": "네이트",
-      "date": "Sun, 06 Sep 2026 22:01:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JTzUtRFJVZDFta1o1UXJuclhnZjRaYm1tZWNkQTRzdHFSMV9qNVV0WlhoQWxqcUk0T2RlR29BNU1yVHVQcEhWcDFQOEZzVG5Fa1pKZFFRNXRvanZwU2lhVdIBeEFVX3lxTE4xQzNWTGNfLW1rQmFBMXdNZXhCdzJvcTFZaHRrR1ZvQjBib2FzMDc1dnlmd1lhZXdRZlFiYjZOV1A0amhEYTBwRk9nd0dlVGJFX3k0TDVNSEdPMXNSTEpmbU5BR1lWYl9MN0dRUWxDMnpYbkdQNm1FMA?oc=5",
+      "source": "뉴시스",
+      "date": "Sun, 06 Sep 2026 22:00:00 GMT"
     },
     {
       "title": "중국의 성장엔진 교체에 주목해야 [조평규의 중국 본색]",
@@ -24,21 +30,9 @@
       "date": "Sun, 06 Sep 2026 21:30:09 GMT"
     },
     {
-      "title": "중국 경제수도 상하이시장에 ‘치링허우’ 주중밍 낙점…차세대 진입 가속화하나",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aR3g3bVRqN3RKbG82RVpwR0xFcVBFaUFxbzdPUTBWNXQwdFl1ZVUzeERCczdnTmdWWW9kNlY4WkUtSmV2ejFOVnlPbHY4am4tOE91RS1LcmlKZWJG?oc=5",
-      "source": "supple.kr",
-      "date": "Sun, 06 Sep 2026 10:37:07 GMT"
-    },
-    {
-      "title": "중국의 '2세대 부자'들이 기업 경영권을 물려받기를 거부하면서 민간 경제에 혼란이 야기되고 있다.",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOUFzZFVUaHJCcnhseFBHbTlwY3FFRGRZOG9sYmFRMlJvVHVHZm9xbXhHOFFqbVRVUGoyU2szbHUyX282WVF5QlVqZ1Y2N3AtVk05bTVCaEtyUXdMajM5TlBCMXI3aTExaGM0SEZnczRqSjVOUGFqRUNkalBfNzRsQnZybWtWMXd6V2JyeXY0Yzc2bmZPMjFHSmdZM0JpUS1LZDZjVHJjOFhIMW9GaE9adGhrYzZ5X3E0ZzloVm9IeEljZTQ0ekh2T3lB?oc=5",
-      "source": "Vietnam.vn",
-      "date": "Sun, 06 Sep 2026 06:59:34 GMT"
-    },
-    {
       "title": "중국경제원탁회의 \"中, 혁신 역량 가장 빠르게 향상되는 국가 중 하나\"-Xinhua",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wMktUeU1LZWhRUnJoSEt2UWhGOG9NWlBPWjdVRG1PV3dJRDg1d1ViTXU5YjdYMkk1SlY3cXdIdWJQQUR1Y3pjUVhWNzdLMjZkZy1PdEdCUFl5NlVKejNKT1hrVGdqeG95TEtnc20tTHhYRWRmWmc?oc=5",
-      "source": "kr.news.cn",
+      "source": "신화망",
       "date": "Sun, 06 Sep 2026 03:00:06 GMT"
     },
     {
@@ -48,15 +42,15 @@
       "date": "Fri, 04 Sep 2026 19:30:00 GMT"
     },
     {
-      "title": "낮아진 성장률에…中, AI 명분 앞세워 GDP·고용 통계 손본다 [차이나 워치]",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QY1VVVi0xMldicFhlQkxuTlJFWkY1NHRSV0J2XzBFQ1c5c09lYUZ3a0JyWVdRbHU3Z29TMzk5UDhEUW1UMUFhZUFJZGp2Tk9X?oc=5",
-      "source": "블루밍비트",
-      "date": "Fri, 04 Sep 2026 07:39:15 GMT"
+      "title": "'중국 경제 심장' 상하이 시장대행에 '치링허우' 주중밍",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iUzdjLTdLdUdwM2FxSHhOY2E3RXlXclJ2ZTZnNy1VTTdGOUJuVWtMNXpQVHRkci1UOWoxZ0tLdmpGLTZKNU85R0Z6dHY2WmFxVnNCZVNMS1FxZ1HSAWBBVV95cUxQMml6X19UbTM3MThMZkk1WjJZWGtOY0h6UXMzY1NHLTZYRVZQcTZfM25rYkNzQ0x5d0hlTUJUcjl0YXZWRExiMW1SUW51RVNYbW1rVnVxdlVDRk1rbW96MVI?oc=5",
+      "source": "연합뉴스",
+      "date": "Fri, 04 Sep 2026 12:01:44 GMT"
     },
     {
       "title": "밴스 “이란과 현재 ‘전쟁’으로 보지 않아…중국, 경제 압박에 협조할 의향”",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UbV9xTlZZSnE5c1R5V0I4MGcxUy1xekJ1aTVMQnFZLWEweUM4QWk1TXk1RDc0ODk3WGtXVFVQTHotRGN2MTJud3Q1MnhZN0VzNFcwb3ctZU1WWGxRd0hlZFpITlVKM0k?oc=5",
-      "source": "파이낸스투데이",
+      "source": "fntoday.co.kr",
       "date": "Fri, 04 Sep 2026 00:13:00 GMT"
     },
     {
@@ -66,16 +60,22 @@
       "date": "Wed, 02 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "중국 정부빚 2경원 돌파…'경제 뇌관' 그림자부채는 절반 '뚝' - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oak5LTUFNYWdHS2dfR3I1aGowTm1uWDlwejYzTXBTTXc1OFhoMlQxejhBMHhfYXZRWkplTDdHMWtTRnBnRENGS2o3TWxmRm1kSlc1TVlHZndxZVd3YUlJbjdRbS1nMGxy0gFuQVVfeXFMTlp3VFlkXzRYSURBeVhWTUJleFFBZ1YzSnFVODIwQXliUlc1VlFOZmV2TFdHWUF4VnhjYnRLbnBSYTAwRTkzRnZsNFRqcHUyNkFLaFM2T3l0TGlBX2FxeHBSVjR6eG1aR1lmVU1GNlE?oc=5",
-      "source": "머니투데이",
-      "date": "Wed, 02 Sep 2026 00:49:55 GMT"
+      "title": "[열린세상] ‘기술 혁신’ 중국 경제의 역설",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVpiQTJsR21nVklIcG5XR1NxR2tBNG9iZ1JfVkVmaWNxUkprY3FteW1WNG1xeDZXNi1CellROVc0NFhPd0l6MnBUdldjWG03NnA2VkdUd1pOXzd1M2FxQU1vYkFYR0FqdUdLWkU2N1p3aEFRZ2oxRkJYTW5VaVpTcGhralgxbkk?oc=5",
+      "source": "서울신문",
+      "date": "Fri, 24 Jul 2026 07:00:00 GMT"
     },
     {
-      "title": "흔들리는 중국 경제 심리, 공산당 기관지까지 '방어' 나섰지만...",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KR1JzS2hLdmV2R2ZqWUFlb3hoTU5CUm10dTV3SG1nVF9GcWlQTTRHRkJzWHFuaDB3Q0lRRnZOakhrZFBOUXM4ektRM0JTYm5WNTF5djY5eV9kZGEt?oc=5",
-      "source": "뉴스핌",
-      "date": "Tue, 25 Aug 2026 07:00:00 GMT"
+      "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52UVRRTTIyQW5udGJFTjhSbEhmTHc4Q2QyTHdTd1BWNzE5b0p0U0hWZk5LbmNjdUY5ZWh2MlBZaEczSnd3RVZGSlRfLXlrdU9HYTlfdmthLW01dTVn0gFiQVVfeXFMUDU0UmVDOFl4VUpZYzlneGtDWHJCX3luT1pfdFhKaGZENGxvWTRjRTZYNTltalJDYXVBUG9IV3I2Qy1IMGljUEdDV0k3d3JQbmVXV05QUzNZSWl5QkJPQk1jV0E?oc=5",
+      "source": "BBC",
+      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "경제는 ‘흔들’ 기술은 ‘질주’하는 중국의 딜레마, 실체는?",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZG1sWUFDY2l6bFoyeFBUdTdzUjgwU1o0clpaZm5hSk9QU0NvUE5uQWdaelg0OFhKNXI2dXk5VnNjSVE5R3lwMkpDMFFiRzc1LW9nYnVn?oc=5",
+      "source": "중앙일보",
+      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
     }
   ]
 }
