@@ -1113,7 +1113,7 @@ def render_supply(lang, page, pages, by_ko, ref_date, n_items, key):
     faq_ld = {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in c["faq"]]}
     ld = {"@context": "https://schema.org", "@graph": [
         {"@type": "WebPage", "@id": SITE + path, "url": SITE + path, "name": c["title"], "description": c["desc"], "inLanguage": lang,
-         "dateModified": ref_date, "isPartOf": {"@id": SITE + "/#website"}, "publisher": {"@id": SITE + "/#org"}, "about": {"@type": "Product", "name": c["h1"]}},
+         "dateModified": ref_date, "isPartOf": {"@id": SITE + "/#website"}, "publisher": {"@id": SITE + "/#org"}, "about": {"@type": "Thing", "name": c["h1"]}},
         breadcrumb_ld(lang, [(t["crumb"], supply_href(lang)), (c["h1"], None)]), faq_ld, ORG_LD]}
     out = [head(lang, c["title"], c["desc"], path, alt, ld).replace("</style>", SUPPLY_CSS + "</style>"), "<body>\n", topbar(lang, alt), '<div class="wrap">\n',
            crumbs(lang, [(t["crumb"], supply_href(lang)), (c["h1"], None)])]
