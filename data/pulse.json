@@ -1,0 +1,40 @@
+{
+  "updated_at_kst": "2026-06-12T07:01:03.420630+09:00",
+  "source": {
+    "watchlist": "data/stocks_latest.json",
+    "charts": "data/charts/*.json"
+  },
+  "config": {
+    "high_low_threshold_pct": 1.0,
+    "window_days": 252,
+    "breadth_universe": "a_stock + hk_stock + us_adr"
+  },
+  "china_market": {
+    "status": "PRE",
+    "label": "장 시작 전",
+    "color": "muted"
+  },
+  "breadth": {
+    "up": 11,
+    "down": 24,
+    "flat": 0,
+    "total": 35,
+    "label": "11 / 24"
+  },
+  "high_low_52w": {
+    "checked": 50,
+    "no_chart": 0,
+    "new_high_count": 1,
+    "new_low_count": 0,
+    "new_highs": [
+      {
+        "id": "000333",
+        "name": "Midea Group",
+        "close": 85.35,
+        "yr_high": 85.9,
+        "gap_pct": 0.64
+      }
+    ],
+    "new_lows": []
+  }
+}

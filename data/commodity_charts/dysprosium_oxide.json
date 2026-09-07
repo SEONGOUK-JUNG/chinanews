@@ -1,0 +1,22 @@
+{
+  "id": "dysprosium_oxide",
+  "name": "산화디스프로슘",
+  "unit": "CNY/t",
+  "updated_at_kst": "2026-09-07T01:29:22+09:00",
+  "count": 3,
+  "candles": [
+    {
+      "time": "2026-09-02",
+      "value": 1468076.5
+    },
+    {
+      "time": "2026-09-03",
+      "value": 1468076.5
+    },
+    {
+      "time": "2026-09-04",
+      "value": 1468076.5
+    }
+  ],
+  "adjustment_applied": true
+}

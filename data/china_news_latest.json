@@ -1,0 +1,81 @@
+{
+  "run_at_kst": "2026-09-07T10:10:03+09:00",
+  "schema_version": "1.0",
+  "query": "중국 경제",
+  "source": "Google News (한국어)",
+  "count": 12,
+  "items": [
+    {
+      "title": "블룸버그 \"글로벌 AI 투자, 한국·일본 대신 중국으로\"",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XMWhybGg5WDVucXZXVE5kUzA5MXhtS3RGYUNjWThfWGlpMmFwbGROVHk0THlzVkNuUkQyN05yNW9JTjhqQUFBeGJDeWJ0emMxTlVtcTZtaTlJYW5DMHc?oc=5",
+      "source": "더구루",
+      "date": "Sun, 06 Sep 2026 23:22:43 GMT"
+    },
+    {
+      "title": "中 AI·반도체 국산화 속도에 韓日 긴장…美 제재 부른 '서늘한 경고'",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TcXVsMkExbnpqWUZKTUtlVm10Q3VfblpjNTBqemh2cDZrTkd2RDQzOXRDbUczZ25pU1RNbG9fZFpya3ZYUUZBMC13bEM0WDFYOG5j?oc=5",
+      "source": "네이트",
+      "date": "Sun, 06 Sep 2026 22:01:00 GMT"
+    },
+    {
+      "title": "중국의 성장엔진 교체에 주목해야 [조평규의 중국 본색]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96NzdndTYtZGhSdmI0cHNseTRGeVZpTURHVTBoSm9NSkY0ZHpNR0JvRVJrekQxc3BWUjJIaXY1bklXNHdzeVdJVGdmOUMxSUdHaHQtUHp2TjlEUQ?oc=5",
+      "source": "한국경제",
+      "date": "Sun, 06 Sep 2026 21:30:09 GMT"
+    },
+    {
+      "title": "중국 경제수도 상하이시장에 ‘치링허우’ 주중밍 낙점…차세대 진입 가속화하나",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aR3g3bVRqN3RKbG82RVpwR0xFcVBFaUFxbzdPUTBWNXQwdFl1ZVUzeERCczdnTmdWWW9kNlY4WkUtSmV2ejFOVnlPbHY4am4tOE91RS1LcmlKZWJG?oc=5",
+      "source": "supple.kr",
+      "date": "Sun, 06 Sep 2026 10:37:07 GMT"
+    },
+    {
+      "title": "중국의 '2세대 부자'들이 기업 경영권을 물려받기를 거부하면서 민간 경제에 혼란이 야기되고 있다.",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOUFzZFVUaHJCcnhseFBHbTlwY3FFRGRZOG9sYmFRMlJvVHVHZm9xbXhHOFFqbVRVUGoyU2szbHUyX282WVF5QlVqZ1Y2N3AtVk05bTVCaEtyUXdMajM5TlBCMXI3aTExaGM0SEZnczRqSjVOUGFqRUNkalBfNzRsQnZybWtWMXd6V2JyeXY0Yzc2bmZPMjFHSmdZM0JpUS1LZDZjVHJjOFhIMW9GaE9adGhrYzZ5X3E0ZzloVm9IeEljZTQ0ekh2T3lB?oc=5",
+      "source": "Vietnam.vn",
+      "date": "Sun, 06 Sep 2026 06:59:34 GMT"
+    },
+    {
+      "title": "중국경제원탁회의 \"中, 혁신 역량 가장 빠르게 향상되는 국가 중 하나\"-Xinhua",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wMktUeU1LZWhRUnJoSEt2UWhGOG9NWlBPWjdVRG1PV3dJRDg1d1ViTXU5YjdYMkk1SlY3cXdIdWJQQUR1Y3pjUVhWNzdLMjZkZy1PdEdCUFl5NlVKejNKT1hrVGdqeG95TEtnc20tTHhYRWRmWmc?oc=5",
+      "source": "kr.news.cn",
+      "date": "Sun, 06 Sep 2026 03:00:06 GMT"
+    },
+    {
+      "title": "중국의 최대 적은 미국이 아니라 중국 소비자다 [4강의 시선]",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rZ2tWclhPTE1CMUVzOXVkOFhuODFuUDByR1dpRU9OX2NFNTZNdlNQZzR0cE5PaXZUaEpPUkFmUE0wdTF3QU0xTExBWWJ4eFdnTWg5WUdYb2J2alpfXzgyNmdLeDEtemh0N19uT0RB0gFzQVVfeXFMTnR2d0dneDVXZWpXWmJQUWw5cmpsa25Xclcwa1IwLWJQTm5aVFlOU0QwU09FTVRXeUhWTkRUZ2tQczJvekFIZndpTnQxTVJpbVFPV2c4VGc2SWNoaXJ3X1NBRGo2eU1wRFRyby1mYWRlbHotdw?oc=5",
+      "source": "한국일보",
+      "date": "Fri, 04 Sep 2026 19:30:00 GMT"
+    },
+    {
+      "title": "낮아진 성장률에…中, AI 명분 앞세워 GDP·고용 통계 손본다 [차이나 워치]",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QY1VVVi0xMldicFhlQkxuTlJFWkY1NHRSV0J2XzBFQ1c5c09lYUZ3a0JyWVdRbHU3Z29TMzk5UDhEUW1UMUFhZUFJZGp2Tk9X?oc=5",
+      "source": "블루밍비트",
+      "date": "Fri, 04 Sep 2026 07:39:15 GMT"
+    },
+    {
+      "title": "밴스 “이란과 현재 ‘전쟁’으로 보지 않아…중국, 경제 압박에 협조할 의향”",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UbV9xTlZZSnE5c1R5V0I4MGcxUy1xekJ1aTVMQnFZLWEweUM4QWk1TXk1RDc0ODk3WGtXVFVQTHotRGN2MTJud3Q1MnhZN0VzNFcwb3ctZU1WWGxRd0hlZFpITlVKM0k?oc=5",
+      "source": "파이낸스투데이",
+      "date": "Fri, 04 Sep 2026 00:13:00 GMT"
+    },
+    {
+      "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Wed, 02 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "중국 정부빚 2경원 돌파…'경제 뇌관' 그림자부채는 절반 '뚝' - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oak5LTUFNYWdHS2dfR3I1aGowTm1uWDlwejYzTXBTTXc1OFhoMlQxejhBMHhfYXZRWkplTDdHMWtTRnBnRENGS2o3TWxmRm1kSlc1TVlHZndxZVd3YUlJbjdRbS1nMGxy0gFuQVVfeXFMTlp3VFlkXzRYSURBeVhWTUJleFFBZ1YzSnFVODIwQXliUlc1VlFOZmV2TFdHWUF4VnhjYnRLbnBSYTAwRTkzRnZsNFRqcHUyNkFLaFM2T3l0TGlBX2FxeHBSVjR6eG1aR1lmVU1GNlE?oc=5",
+      "source": "머니투데이",
+      "date": "Wed, 02 Sep 2026 00:49:55 GMT"
+    },
+    {
+      "title": "흔들리는 중국 경제 심리, 공산당 기관지까지 '방어' 나섰지만...",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KR1JzS2hLdmV2R2ZqWUFlb3hoTU5CUm10dTV3SG1nVF9GcWlQTTRHRkJzWHFuaDB3Q0lRRnZOakhrZFBOUXM4ektRM0JTYm5WNTF5djY5eV9kZGEt?oc=5",
+      "source": "뉴스핌",
+      "date": "Tue, 25 Aug 2026 07:00:00 GMT"
+    }
+  ]
+}

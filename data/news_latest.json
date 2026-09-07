@@ -1,0 +1,95 @@
+{
+  "run_at_kst": "2026-09-07T10:10:03+09:00",
+  "schema_version": "1.0",
+  "sources": [
+    "mining.com",
+    "OilPrice"
+  ],
+  "count": 14,
+  "items": [
+    {
+      "title": "Russia Is Redrawing Its Energy Map Through the Arctic",
+      "link": "https://oilprice.com/Energy/Energy-General/Russia-Is-Redrawing-Its-Energy-Map-Through-the-Arctic.html",
+      "source": "OilPrice",
+      "date": "Sun, 06 Sep 2026 18:00:00 -0500"
+    },
+    {
+      "title": "Most Critical Minerals Aren’t Going to the Energy Transition",
+      "link": "https://oilprice.com/Energy/Energy-General/Most-Critical-Minerals-Arent-Going-to-the-Energy-Transition.html",
+      "source": "OilPrice",
+      "date": "Sun, 06 Sep 2026 17:00:00 -0500"
+    },
+    {
+      "title": "Oil Majors Seek Bigger Bargaining Power in Labor Disputes",
+      "link": "https://oilprice.com/Energy/Energy-General/Oil-Majors-Seek-Bigger-Bargaining-Power-in-Labor-Disputes.html",
+      "source": "OilPrice",
+      "date": "Sun, 06 Sep 2026 16:00:00 -0500"
+    },
+    {
+      "title": "High Fuel Prices Are Powering an Electric Motorcycle Boom",
+      "link": "https://oilprice.com/Energy/Energy-General/High-Fuel-Prices-Are-Powering-an-Electric-Motorcycle-Boom.html",
+      "source": "OilPrice",
+      "date": "Sun, 06 Sep 2026 14:00:00 -0500"
+    },
+    {
+      "title": "Colombia Moves to Reverse Fracking Ban, Eyes $4 Billion in New Oil Investment",
+      "link": "https://oilprice.com/Energy/Energy-General/Colombia-Moves-to-Reverse-Fracking-Ban-Eyes-4-Billion-in-New-Oil-Investment.html",
+      "source": "OilPrice",
+      "date": "Sun, 06 Sep 2026 12:00:00 -0500"
+    },
+    {
+      "title": "Oil-Rich Oman Bets Big on Renewable Energy",
+      "link": "https://oilprice.com/Energy/Energy-General/Oil-Rich-Oman-Bets-Big-on-Renewable-Energy.html",
+      "source": "OilPrice",
+      "date": "Sun, 06 Sep 2026 10:00:00 -0500"
+    },
+    {
+      "title": "Iran War Forces a Rewrite of Global Oil Trade Routes",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Iran-War-Forces-a-Rewrite-of-Global-Oil-Trade-Routes.html",
+      "source": "OilPrice",
+      "date": "Sat, 05 Sep 2026 18:00:00 -0500"
+    },
+    {
+      "title": "Japan, South Korea and the U.S. Forge a New Nuclear Alliance",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Japan-South-Korea-and-the-US-Forge-a-New-Nuclear-Alliance.html",
+      "source": "OilPrice",
+      "date": "Sat, 05 Sep 2026 16:00:00 -0500"
+    },
+    {
+      "title": "Value of top 50 mining companies surges by $357 billion after monster August rally",
+      "link": "https://www.mining.com/value-of-top-50-mining-companies-surge-by-357-billion-after-monster-august-rally/",
+      "source": "mining.com",
+      "date": "Fri, 04 Sep 2026 23:52:01 +0000"
+    },
+    {
+      "title": "The top 50 biggest mining companies in the world",
+      "link": "https://www.mining.com/top-50-biggest-mining-companies/",
+      "source": "mining.com",
+      "date": "Fri, 04 Sep 2026 23:42:16 +0000"
+    },
+    {
+      "title": "Silver’s unsung strength",
+      "link": "https://www.mining.com/silvers-unsung-strength/",
+      "source": "mining.com",
+      "date": "Fri, 04 Sep 2026 22:43:29 +0000"
+    },
+    {
+      "title": "Investors buoy gold price as central banks slow",
+      "link": "https://www.mining.com/investors-buoy-gold-price-as-central-banks-slow/",
+      "source": "mining.com",
+      "date": "Fri, 04 Sep 2026 20:14:00 +0000"
+    },
+    {
+      "title": "Baowu eyes stake in BHP’s massive Jimblebar iron ore mine",
+      "link": "https://www.mining.com/baowu-eyes-stake-in-bhps-massive-jimblebar-iron-ore-mine/",
+      "source": "mining.com",
+      "date": "Fri, 04 Sep 2026 16:05:00 +0000"
+    },
+    {
+      "title": "Pentagon rare earth push collides with China’s grip",
+      "link": "https://www.mining.com/pentagon-rare-earth-push-collides-with-chinas-grip/",
+      "source": "mining.com",
+      "date": "Fri, 04 Sep 2026 15:19:57 +0000"
+    }
+  ]
+}
