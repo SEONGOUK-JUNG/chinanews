@@ -1,27 +1,57 @@
 {
-  "run_at_kst": "2026-09-07T14:10:26+09:00",
+  "run_at_kst": "2026-09-08T07:20:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "홍콩, 러시아 금 수입처로 부상…\"중러 경제관계 결과\"",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MV0tQNzVTeElHRlhsQW95cXhMenJ6S3pEX1lqQ0oxamktN2p4aFZfWVNGTi0tN2hfU3ZsNlhZTkdVTjQxYUVtYXRVWjZJUWxPbkpr?oc=5",
-      "source": "네이트",
-      "date": "Mon, 07 Sep 2026 01:20:00 GMT"
+      "title": "‘탈달러’ 외치던 中, 美 국채 사들이는 까닭",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQczlncDFqblpTLXd4NTRxODBhd3RCWFgtNU5Pc3Z2d2JRUWVmU2ZBUW4waU8ySkh5WEVIeFoxMWRhXzhRSUVXMm1YUllNZkpjUzlSbkhqNWVmdmpIVmRDWjFvVmk3Vlp6cU9tMm9pc1R4VFJ3VTVEd3FSSHZqelcwNQ?oc=5",
+      "source": "edaily.co.kr",
+      "date": "Mon, 07 Sep 2026 09:10:40 GMT"
+    },
+    {
+      "title": "[경제+] IFA 참가 업체 약 50%가 중국 기업...中 가전, AI·현지화 전략으로 유럽 시장 공략",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4RVpaeks4N2tvWS1yYlBNZDlTeXBGSC1FcnZucFFwMnZiSFFkeUNNdHd5SEVGRjl6dWkyQm9oRS1SbkdKRk9PZktkWi1McmtpcXFLQkVhaWxrWHhTX0JXel9yLTJsbk0xc2dr?oc=5",
+      "source": "서울뉴스통신",
+      "date": "Mon, 07 Sep 2026 08:18:07 GMT"
+    },
+    {
+      "title": "'이란과 보란듯 교역' 중국 손 못대…\"미, 경제 압박 한계\"",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Yanppc1ZuSEU3QlNkd1FiT1ZZV0hCNzhraVFGVWM0UWZ3djdINU83WVV5WGloekxCbUxxVzJ3TkN6Z0g3LUlib2YxcUFEUzJadGVWT3NVSy05aTFWTE9uZWtUZ3dSUDJKcVVGYQ?oc=5",
+      "source": "세상을 바꾸는 시민언론 민들레",
+      "date": "Mon, 07 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "[경제] UBS, 약 4천억 규모 판다본드 발행...中 금융시장 공략 본격화",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NZ00ySF9DMm1KOXFIWGJDRkozVjMxbmpnUlB0YzAzNlZmWFFWSGR1YThReGVDdUI3ZEJWMFJXLXVrNDdSNGkzTFJlWmlBUk9UakdkRzNWeHg0OFY2eXdYdFo1ZV8tRDk3U2VMM3g4bGhObUk?oc=5",
+      "source": "동방일보",
+      "date": "Mon, 07 Sep 2026 06:25:27 GMT"
+    },
+    {
+      "title": "중국, 경기 침체 방어위해 국영 은행에 7.18조 투입",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjSlZlalRIcGVZWHlqUGdwTEFITWd0UzA4RFZEaFMyQTBpR3c1ay1MYXYySUwwR3dmLWtoemFpRzdsRlJyMTVRUG5IeWE5VllqN1VSelA0V29ZNkVBTDM0SldIaUV1bnNCbVBFZFY2SdIBc0FVX3lxTE1BTEJSYkNrZVhqdU5Ya0NCTUpkbWdjYWJzMjNpc1NKX0JoVjZhRUROZVUwZXRDaW04MXdfbDR3QVctQVBvLXU0MExkY0xPa2pkTjNCaWVXajNOZmNRQ0NvYzhNWEx0U1Qwa3VhdG9tcXR3NVU?oc=5",
+      "source": "뉴스웍스",
+      "date": "Mon, 07 Sep 2026 05:36:12 GMT"
+    },
+    {
+      "title": "중국, 배터리 증설 금지 조치…가격 회복 이어지나",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YRkZPRG5GdWplT2h4X2NOclV1N1dUd212d1h2azZfaklxNEFPZzhyZUxBVW8zY044WWxGS3Y2UEtzTkVSVURxNkRLMl9tbDFJUFBoMGlYWFJfZ9IBWEFVX3lxTE5XZTk3VFMxOFRCdV9meVItcWFabDhSMEJmWGtiODhOTWxGc2NNM0dJWWREdk5XNlBNYUc5MUl6V0x4d3Ntd0FEZU9oSjVCWU4wMl9YdzdCSWk?oc=5",
+      "source": "아주경제",
+      "date": "Mon, 07 Sep 2026 05:32:22 GMT"
+    },
+    {
+      "title": "경기 부양 몸부림 中, 주택 구입에도 파격 보조금",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JNG9GbFhHTUxodUJrLVpGYUhLTGJNekJ0WDRLTmc4cVEzbW1rVUJvTld4S2doOGRLOWZTNmh6cWRpTVFHQW1uTEdYN1lNMmFmVlZtT0dkci1HYlp4N1o1MEg4UGNBRHdRSlE0TDd3?oc=5",
+      "source": "아시아투데이",
+      "date": "Mon, 07 Sep 2026 05:11:11 GMT"
     },
     {
       "title": "블룸버그 \"글로벌 AI 투자, 한국·일본 대신 중국으로\"",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XMWhybGg5WDVucXZXVE5kUzA5MXhtS3RGYUNjWThfWGlpMmFwbGROVHk0THlzVkNuUkQyN05yNW9JTjhqQUFBeGJDeWJ0emMxTlVtcTZtaTlJYW5DMHc?oc=5",
       "source": "더구루",
       "date": "Sun, 06 Sep 2026 23:22:43 GMT"
-    },
-    {
-      "title": "中 AI·반도체 국산화 속도에 韓日 긴장…美 제재 부른 '서늘한 경고'",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JTzUtRFJVZDFta1o1UXJuclhnZjRaYm1tZWNkQTRzdHFSMV9qNVV0WlhoQWxqcUk0T2RlR29BNU1yVHVQcEhWcDFQOEZzVG5Fa1pKZFFRNXRvanZwU2lhVdIBeEFVX3lxTE4xQzNWTGNfLW1rQmFBMXdNZXhCdzJvcTFZaHRrR1ZvQjBib2FzMDc1dnlmd1lhZXdRZlFiYjZOV1A0amhEYTBwRk9nd0dlVGJFX3k0TDVNSEdPMXNSTEpmbU5BR1lWYl9MN0dRUWxDMnpYbkdQNm1FMA?oc=5",
-      "source": "뉴시스",
-      "date": "Sun, 06 Sep 2026 22:00:00 GMT"
     },
     {
       "title": "중국의 성장엔진 교체에 주목해야 [조평규의 중국 본색]",
@@ -36,46 +66,16 @@
       "date": "Sun, 06 Sep 2026 03:00:06 GMT"
     },
     {
-      "title": "중국의 최대 적은 미국이 아니라 중국 소비자다 [4강의 시선]",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rZ2tWclhPTE1CMUVzOXVkOFhuODFuUDByR1dpRU9OX2NFNTZNdlNQZzR0cE5PaXZUaEpPUkFmUE0wdTF3QU0xTExBWWJ4eFdnTWg5WUdYb2J2alpfXzgyNmdLeDEtemh0N19uT0RB0gFzQVVfeXFMTnR2d0dneDVXZWpXWmJQUWw5cmpsa25Xclcwa1IwLWJQTm5aVFlOU0QwU09FTVRXeUhWTkRUZ2tQczJvekFIZndpTnQxTVJpbVFPV2c4VGc2SWNoaXJ3X1NBRGo2eU1wRFRyby1mYWRlbHotdw?oc=5",
-      "source": "한국일보",
-      "date": "Fri, 04 Sep 2026 19:30:00 GMT"
-    },
-    {
       "title": "'중국 경제 심장' 상하이 시장대행에 '치링허우' 주중밍",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iUzdjLTdLdUdwM2FxSHhOY2E3RXlXclJ2ZTZnNy1VTTdGOUJuVWtMNXpQVHRkci1UOWoxZ0tLdmpGLTZKNU85R0Z6dHY2WmFxVnNCZVNMS1FxZ1HSAWBBVV95cUxQMml6X19UbTM3MThMZkk1WjJZWGtOY0h6UXMzY1NHLTZYRVZQcTZfM25rYkNzQ0x5d0hlTUJUcjl0YXZWRExiMW1SUW51RVNYbW1rVnVxdlVDRk1rbW96MVI?oc=5",
       "source": "연합뉴스",
       "date": "Fri, 04 Sep 2026 12:01:44 GMT"
     },
     {
-      "title": "밴스 “이란과 현재 ‘전쟁’으로 보지 않아…중국, 경제 압박에 협조할 의향”",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UbV9xTlZZSnE5c1R5V0I4MGcxUy1xekJ1aTVMQnFZLWEweUM4QWk1TXk1RDc0ODk3WGtXVFVQTHotRGN2MTJud3Q1MnhZN0VzNFcwb3ctZU1WWGxRd0hlZFpITlVKM0k?oc=5",
-      "source": "fntoday.co.kr",
-      "date": "Fri, 04 Sep 2026 00:13:00 GMT"
-    },
-    {
       "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
       "source": ":: 위즈경제 ::",
       "date": "Wed, 02 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "[열린세상] ‘기술 혁신’ 중국 경제의 역설",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVpiQTJsR21nVklIcG5XR1NxR2tBNG9iZ1JfVkVmaWNxUkprY3FteW1WNG1xeDZXNi1CellROVc0NFhPd0l6MnBUdldjWG03NnA2VkdUd1pOXzd1M2FxQU1vYkFYR0FqdUdLWkU2N1p3aEFRZ2oxRkJYTW5VaVpTcGhralgxbkk?oc=5",
-      "source": "서울신문",
-      "date": "Fri, 24 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52UVRRTTIyQW5udGJFTjhSbEhmTHc4Q2QyTHdTd1BWNzE5b0p0U0hWZk5LbmNjdUY5ZWh2MlBZaEczSnd3RVZGSlRfLXlrdU9HYTlfdmthLW01dTVn0gFiQVVfeXFMUDU0UmVDOFl4VUpZYzlneGtDWHJCX3luT1pfdFhKaGZENGxvWTRjRTZYNTltalJDYXVBUG9IV3I2Qy1IMGljUEdDV0k3d3JQbmVXV05QUzNZSWl5QkJPQk1jV0E?oc=5",
-      "source": "BBC",
-      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "경제는 ‘흔들’ 기술은 ‘질주’하는 중국의 딜레마, 실체는?",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZG1sWUFDY2l6bFoyeFBUdTdzUjgwU1o0clpaZm5hSk9QU0NvUE5uQWdaelg0OFhKNXI2dXk5VnNjSVE5R3lwMkpDMFFiRzc1LW9nYnVn?oc=5",
-      "source": "중앙일보",
-      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
     }
   ]
 }

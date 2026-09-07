@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-07T14:10:26+09:00",
+  "run_at_kst": "2026-09-08T07:20:04+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,52 +8,70 @@
   "count": 14,
   "items": [
     {
-      "title": "Oil Prices Climb After U.S. Strikes Three Iranian Tankers and Iran Vows Revenge",
-      "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Climb-After-US-Strikes-Three-Iranian-Tankers-and-Iran-Vows-Revenge.html",
+      "title": "Washington’s Venezuela Oil Deal Is About Much More Than Crude",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Washingtons-Venezuela-Oil-Deal-Is-About-Much-More-Than-Crude.html",
       "source": "OilPrice",
-      "date": "Sun, 06 Sep 2026 22:40:00 -0500"
+      "date": "Mon, 07 Sep 2026 17:00:00 -0500"
     },
     {
-      "title": "Russia Is Redrawing Its Energy Map Through the Arctic",
-      "link": "https://oilprice.com/Energy/Energy-General/Russia-Is-Redrawing-Its-Energy-Map-Through-the-Arctic.html",
+      "title": "Rosneft Ships First Crude From $157 Billion Vostok Oil Project",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Rosneft-Ships-First-Crude-From-157-Billion-Vostok-Oil-Project.html",
       "source": "OilPrice",
-      "date": "Sun, 06 Sep 2026 18:00:00 -0500"
+      "date": "Mon, 07 Sep 2026 16:00:00 -0500"
     },
     {
-      "title": "Most Critical Minerals Aren’t Going to the Energy Transition",
-      "link": "https://oilprice.com/Energy/Energy-General/Most-Critical-Minerals-Arent-Going-to-the-Energy-Transition.html",
+      "title": "GM, Ford Turn EV Battery Bust Into Energy Storage Bet",
+      "link": "https://oilprice.com/Energy/Energy-General/GM-Ford-Turn-EV-Battery-Bust-Into-Energy-Storage-Bet.html",
       "source": "OilPrice",
-      "date": "Sun, 06 Sep 2026 17:00:00 -0500"
+      "date": "Mon, 07 Sep 2026 15:00:00 -0500"
     },
     {
-      "title": "Oil Majors Seek Bigger Bargaining Power in Labor Disputes",
-      "link": "https://oilprice.com/Energy/Energy-General/Oil-Majors-Seek-Bigger-Bargaining-Power-in-Labor-Disputes.html",
-      "source": "OilPrice",
-      "date": "Sun, 06 Sep 2026 16:00:00 -0500"
+      "title": "Critical minerals security collides with decades-long mine timelines",
+      "link": "https://www.mining.com/critical-minerals-security-collides-with-decades-long-mine-timelines/",
+      "source": "mining.com",
+      "date": "Mon, 07 Sep 2026 19:19:55 +0000"
     },
     {
-      "title": "High Fuel Prices Are Powering an Electric Motorcycle Boom",
-      "link": "https://oilprice.com/Energy/Energy-General/High-Fuel-Prices-Are-Powering-an-Electric-Motorcycle-Boom.html",
+      "title": "Sudan Could Become the Red Sea’s Next Energy Security Flashpoint",
+      "link": "https://oilprice.com/Geopolitics/Africa/Sudan-Could-Become-the-Red-Seas-Next-Energy-Security-Flashpoint.html",
       "source": "OilPrice",
-      "date": "Sun, 06 Sep 2026 14:00:00 -0500"
+      "date": "Mon, 07 Sep 2026 14:00:00 -0500"
     },
     {
-      "title": "Colombia Moves to Reverse Fracking Ban, Eyes $4 Billion in New Oil Investment",
-      "link": "https://oilprice.com/Energy/Energy-General/Colombia-Moves-to-Reverse-Fracking-Ban-Eyes-4-Billion-in-New-Oil-Investment.html",
+      "title": "Modern Warfare Is Burning Through the Metals Needed for a High-Tech Future",
+      "link": "https://oilprice.com/Energy/Energy-General/Modern-Warfare-Is-Burning-Through-the-Metals-Needed-for-a-High-Tech-Future.html",
       "source": "OilPrice",
-      "date": "Sun, 06 Sep 2026 12:00:00 -0500"
+      "date": "Mon, 07 Sep 2026 13:00:00 -0500"
     },
     {
-      "title": "Oil-Rich Oman Bets Big on Renewable Energy",
-      "link": "https://oilprice.com/Energy/Energy-General/Oil-Rich-Oman-Bets-Big-on-Renewable-Energy.html",
+      "title": "Russia Vows to Keep Selling Oil to India Despite U.S. Tariff Threat",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Vows-to-Keep-Selling-Oil-to-India-Despite-US-Tariff-Threat.html",
       "source": "OilPrice",
-      "date": "Sun, 06 Sep 2026 10:00:00 -0500"
+      "date": "Mon, 07 Sep 2026 12:30:00 -0500"
     },
     {
-      "title": "Iran War Forces a Rewrite of Global Oil Trade Routes",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Iran-War-Forces-a-Rewrite-of-Global-Oil-Trade-Routes.html",
+      "title": "Copper's Longest Rally Since 1994 Collides With a Shrinking Supply Chain",
+      "link": "https://oilprice.com/Metals/Commodities/Coppers-Longest-Rally-Since-1994-Collides-With-a-Shrinking-Supply-Chain.html",
       "source": "OilPrice",
-      "date": "Sat, 05 Sep 2026 18:00:00 -0500"
+      "date": "Mon, 07 Sep 2026 12:00:00 -0500"
+    },
+    {
+      "title": "ACG Metals to acquire Keşkek gold project",
+      "link": "https://www.mining.com/acg-metals-to-acquire-keskek-gold-project/",
+      "source": "mining.com",
+      "date": "Mon, 07 Sep 2026 16:43:44 +0000"
+    },
+    {
+      "title": "China Halts New Battery Storage Plant Approvals",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Halts-New-Battery-Storage-Plant-Approvals.html",
+      "source": "OilPrice",
+      "date": "Mon, 07 Sep 2026 11:30:00 -0500"
+    },
+    {
+      "title": "Brazil targets bigger role in critical minerals rush",
+      "link": "https://www.mining.com/brazil-targets-bigger-role-in-critical-minerals-rush/",
+      "source": "mining.com",
+      "date": "Mon, 07 Sep 2026 11:00:00 +0000"
     },
     {
       "title": "Value of top 50 mining companies surges by $357 billion after monster August rally",
@@ -72,24 +90,6 @@
       "link": "https://www.mining.com/silvers-unsung-strength/",
       "source": "mining.com",
       "date": "Fri, 04 Sep 2026 22:43:29 +0000"
-    },
-    {
-      "title": "Investors buoy gold price as central banks slow",
-      "link": "https://www.mining.com/investors-buoy-gold-price-as-central-banks-slow/",
-      "source": "mining.com",
-      "date": "Fri, 04 Sep 2026 20:14:00 +0000"
-    },
-    {
-      "title": "Baowu eyes stake in BHP’s massive Jimblebar iron ore mine",
-      "link": "https://www.mining.com/baowu-eyes-stake-in-bhps-massive-jimblebar-iron-ore-mine/",
-      "source": "mining.com",
-      "date": "Fri, 04 Sep 2026 16:05:00 +0000"
-    },
-    {
-      "title": "Pentagon rare earth push collides with China’s grip",
-      "link": "https://www.mining.com/pentagon-rare-earth-push-collides-with-chinas-grip/",
-      "source": "mining.com",
-      "date": "Fri, 04 Sep 2026 15:19:57 +0000"
     }
   ]
 }
