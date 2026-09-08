@@ -1,14 +1,26 @@
 {
-  "run_at_kst": "2026-09-08T14:10:04+09:00",
+  "run_at_kst": "2026-09-08T20:03:02+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "한중 전문가 \"데이터·정보·무역 등 인천 대중국 협력 방안 제시\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uU2ZIcUNRc18xZkJQRG5Kbm5sTk50TVBKOXg2S2tpTjZKRC02STI3cTd1d2RMUjhNY3pRSTlja3c0aFRzenpuOFRuS3dGSHFaQ2pUaVQzUk8zTkx4dVpVV0ZPQkNLSWh3WmxkTG1Xa2E?oc=5",
+      "source": "인천투데이",
+      "date": "Tue, 08 Sep 2026 07:40:45 GMT"
+    },
+    {
+      "title": "인천상의, 중국 시안시 무역촉진위원회와 우호협력 MOU 체결",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DZm4zUWlfTy1yMU91NW5jcENFNTZSNlBTaTQwMV9GdjVIdXBfSTRYYmRBcGdTS2trb2RMWTlhM1BpdzZjMlZqYkE1czRLbjRwVzV4SUNEbVp1ZWtMbW1IQWF1TG9DVElYdTIyRA?oc=5",
+      "source": "incheonin.com",
+      "date": "Tue, 08 Sep 2026 06:34:18 GMT"
+    },
+    {
       "title": "위안화 강세에도 중국 수출 25% 급증",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5USkttUHBINkFlbDFiZWNJeHViSkYtX0FRZjNlQWFDa3NPa09YZVlUcldRdmpWWUdjcEJ1dm5CcmV4Vy1uYmhsWDRtdm5MRm9BNkc1ckdwQTc4d9IBWEFVX3lxTE1QUzhCcjJHSGlQZG9pNGswTm14TWRrd1QtTWtDekZMS1ZERy1nWlZUZlZ4dmdsenV0MnRidGo2SUZnNW9HY3FrUjAzazQxVmNjTDNyenRja2g?oc=5",
-      "source": "ajunews.com",
+      "source": "아주경제",
       "date": "Tue, 08 Sep 2026 05:00:00 GMT"
     },
     {
@@ -18,28 +30,16 @@
       "date": "Tue, 08 Sep 2026 04:54:01 GMT"
     },
     {
-      "title": "달러 흔들리자 금으로 향한 중국…외환보유액·금 보유 동반 증가",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjc0ZiVG1yXzI0RjNJbnlkXzdCVzFyNi1ZYmVVUXBkcUZudEdWQ19teVVUU0tCMG10X0hFc1J5Tlo5YWNhTDNtcWhucVR6NmFwS1k4?oc=5",
-      "source": "네이트",
-      "date": "Tue, 08 Sep 2026 01:16:00 GMT"
+      "title": "[경제+] 중국 투자 확대하는 독일 기업들...\"시장·공급망 매력적\"",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NdjZzNlh6NU1LVWROeXd0ZHVsbnItSGp4UGRkUno5RmY5R1YwcGxFbzBZbkVjdVVBLVV5M0pxQzlrTXd0bWtYemxlVDhuc2VRMXk5MXBPY3FHekxYYW9kQmMwdXdpNktZQ2VUbXI5ZHJrMk0?oc=5",
+      "source": "동방일보",
+      "date": "Tue, 08 Sep 2026 02:34:10 GMT"
     },
     {
       "title": "중국 신경제 동력, 12.5% 뛰었다",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DWmhMRTcyQkZ5Yks1NEZmekdrcnUzeTZsdUd1UnJQQUU0bzZVOURKc0N0WUR0R1g4YTBFdWFkLVZEWFY1WG4xVnZ2MVM1VzA?oc=5",
       "source": "뉴스N연합",
       "date": "Tue, 08 Sep 2026 01:13:59 GMT"
-    },
-    {
-      "title": "[르포] 중국 선전 하늘 누비는 배달 드론…‘저공경제’ 일상 속으로",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JMFhoaTJDNDkzdlJIMXM1eG00R0lQY215UzdCc0dOWEtocC1HWVgtSzFiT1pVYldOUWsycHN2N3dXZXNSZGdDMnpBbFZpNWpwSXd2M0hwdnFielhUUl8zdVVn?oc=5",
-      "source": "뉴시스",
-      "date": "Tue, 08 Sep 2026 01:07:07 GMT"
-    },
-    {
-      "title": "세계 금 시장 큰손 중국, 금 보유량 사상 최대치 경신(종합)",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUm9vUElyWW02Y3pQQzVaS081TDg0TGd6NHk1WEsxNEE4a0pYbDhfaWNKM05xcmdjbmRBRnpBcDJlbGsxTk5ickVTUTlxNTVtWEp6RTVJWXVzVVhQTFprSjZPeEplUkxYbTlYQkM3X2NVdzdPUlRrV3lWNTROLUNtRA?oc=5",
-      "source": "edaily.co.kr",
-      "date": "Tue, 08 Sep 2026 01:00:49 GMT"
     },
     {
       "title": "한약재 공급망 ‘탈중국’ 움직임…미얀마서 대량재배 추진",
