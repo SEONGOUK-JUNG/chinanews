@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-09T07:03:03+09:00",
+  "run_at_kst": "2026-09-09T07:20:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -30,28 +30,10 @@
       "date": "Mon, 07 Sep 2026 07:30:00 GMT"
     },
     {
-      "title": "'이란과 보란듯 교역' 중국 손 못대…\"미, 경제 압박 한계\"",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Yanppc1ZuSEU3QlNkd1FiT1ZZV0hCNzhraVFGVWM0UWZ3djdINU83WVV5WGloekxCbUxxVzJ3TkN6Z0g3LUlib2YxcUFEUzJadGVWT3NVSy05aTFWTE9uZWtUZ3dSUDJKcVVGYQ?oc=5",
-      "source": "세상을 바꾸는 시민언론 민들레",
-      "date": "Mon, 07 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "中, 60조원 규모 특별국채 발행…국유 금융사 자본확충 지원",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQUGhqdVM1YnNfNHVzQW5PVUJxckpzQ0hjVjFMWVZWWDItVG0zMjgxeVQ0OU9aeWFERlJzX2Z0TkQ0eTFxZGE5a055NHlXaGJCS2c?oc=5",
-      "source": "매일경제 마켓",
-      "date": "Mon, 07 Sep 2026 06:26:42 GMT"
-    },
-    {
       "title": "중국, 경기 침체 방어위해 국영 은행에 7.18조 투입",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjSlZlalRIcGVZWHlqUGdwTEFITWd0UzA4RFZEaFMyQTBpR3c1ay1MYXYySUwwR3dmLWtoemFpRzdsRlJyMTVRUG5IeWE5VllqN1VSelA0V29ZNkVBTDM0SldIaUV1bnNCbVBFZFY2SdIBc0FVX3lxTE1BTEJSYkNrZVhqdU5Ya0NCTUpkbWdjYWJzMjNpc1NKX0JoVjZhRUROZVUwZXRDaW04MXdfbDR3QVctQVBvLXU0MExkY0xPa2pkTjNCaWVXajNOZmNRQ0NvYzhNWEx0U1Qwa3VhdG9tcXR3NVU?oc=5",
       "source": "뉴스웍스",
       "date": "Mon, 07 Sep 2026 05:36:12 GMT"
-    },
-    {
-      "title": "블룸버그 \"글로벌 AI 투자, 한국·일본 대신 중국으로\"",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XMWhybGg5WDVucXZXVE5kUzA5MXhtS3RGYUNjWThfWGlpMmFwbGROVHk0THlzVkNuUkQyN05yNW9JTjhqQUFBeGJDeWJ0emMxTlVtcTZtaTlJYW5DMHc?oc=5",
-      "source": "더구루",
-      "date": "Sun, 06 Sep 2026 23:22:43 GMT"
     },
     {
       "title": "중국의 성장엔진 교체에 주목해야 [조평규의 중국 본색]",
@@ -76,6 +58,24 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
       "source": ":: 위즈경제 ::",
       "date": "Fri, 04 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "[열린세상] ‘기술 혁신’ 중국 경제의 역설",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVpiQTJsR21nVklIcG5XR1NxR2tBNG9iZ1JfVkVmaWNxUkprY3FteW1WNG1xeDZXNi1CellROVc0NFhPd0l6MnBUdldjWG03NnA2VkdUd1pOXzd1M2FxQU1vYkFYR0FqdUdLWkU2N1p3aEFRZ2oxRkJYTW5VaVpTcGhralgxbkk?oc=5",
+      "source": "서울신문",
+      "date": "Fri, 24 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52UVRRTTIyQW5udGJFTjhSbEhmTHc4Q2QyTHdTd1BWNzE5b0p0U0hWZk5LbmNjdUY5ZWh2MlBZaEczSnd3RVZGSlRfLXlrdU9HYTlfdmthLW01dTVn0gFiQVVfeXFMUDU0UmVDOFl4VUpZYzlneGtDWHJCX3luT1pfdFhKaGZENGxvWTRjRTZYNTltalJDYXVBUG9IV3I2Qy1IMGljUEdDV0k3d3JQbmVXV05QUzNZSWl5QkJPQk1jV0E?oc=5",
+      "source": "bbc.com",
+      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "경제는 ‘흔들’ 기술은 ‘질주’하는 중국의 딜레마, 실체는?",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZG1sWUFDY2l6bFoyeFBUdTdzUjgwU1o0clpaZm5hSk9QU0NvUE5uQWdaelg0OFhKNXI2dXk5VnNjSVE5R3lwMkpDMFFiRzc1LW9nYnVn?oc=5",
+      "source": "중앙일보",
+      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
     }
   ]
 }
