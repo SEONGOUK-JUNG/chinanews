@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-08T07:20:04+09:00",
+  "run_at_kst": "2026-09-08T10:10:04+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,18 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Germany’s Power Grid Could Be NATO’s Weakest Link",
+      "link": "https://oilprice.com/Energy/Energy-General/Germanys-Power-Grid-Could-Be-NATOs-Weakest-Link.html",
+      "source": "OilPrice",
+      "date": "Mon, 07 Sep 2026 19:00:00 -0500"
+    },
+    {
+      "title": "New York’s Nuclear Comeback Is Gathering Steam",
+      "link": "https://oilprice.com/Energy/Energy-General/New-Yorks-Nuclear-Comeback-Is-Gathering-Steam.html",
+      "source": "OilPrice",
+      "date": "Mon, 07 Sep 2026 18:00:00 -0500"
+    },
     {
       "title": "Washington’s Venezuela Oil Deal Is About Much More Than Crude",
       "link": "https://oilprice.com/Energy/Crude-Oil/Washingtons-Venezuela-Oil-Deal-Is-About-Much-More-Than-Crude.html",
@@ -50,22 +62,10 @@
       "date": "Mon, 07 Sep 2026 12:30:00 -0500"
     },
     {
-      "title": "Copper's Longest Rally Since 1994 Collides With a Shrinking Supply Chain",
-      "link": "https://oilprice.com/Metals/Commodities/Coppers-Longest-Rally-Since-1994-Collides-With-a-Shrinking-Supply-Chain.html",
-      "source": "OilPrice",
-      "date": "Mon, 07 Sep 2026 12:00:00 -0500"
-    },
-    {
       "title": "ACG Metals to acquire Keşkek gold project",
       "link": "https://www.mining.com/acg-metals-to-acquire-keskek-gold-project/",
       "source": "mining.com",
       "date": "Mon, 07 Sep 2026 16:43:44 +0000"
-    },
-    {
-      "title": "China Halts New Battery Storage Plant Approvals",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Halts-New-Battery-Storage-Plant-Approvals.html",
-      "source": "OilPrice",
-      "date": "Mon, 07 Sep 2026 11:30:00 -0500"
     },
     {
       "title": "Brazil targets bigger role in critical minerals rush",

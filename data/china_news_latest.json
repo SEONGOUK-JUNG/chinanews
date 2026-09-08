@@ -1,21 +1,21 @@
 {
-  "run_at_kst": "2026-09-08T07:20:04+09:00",
+  "run_at_kst": "2026-09-08T10:10:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "‘탈달러’ 외치던 中, 美 국채 사들이는 까닭",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQczlncDFqblpTLXd4NTRxODBhd3RCWFgtNU5Pc3Z2d2JRUWVmU2ZBUW4waU8ySkh5WEVIeFoxMWRhXzhRSUVXMm1YUllNZkpjUzlSbkhqNWVmdmpIVmRDWjFvVmk3Vlp6cU9tMm9pc1R4VFJ3VTVEd3FSSHZqelcwNQ?oc=5",
-      "source": "edaily.co.kr",
-      "date": "Mon, 07 Sep 2026 09:10:40 GMT"
+      "title": "세계 금 시장 큰손 중국, 금 보유량 사상 최대치 경신(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WTm0teXpGOFdHVW9oR0p2cmVTcmYtZ0lpT0lfelQ0WS1aVUZWa1NlU3hjbUM2OHprVEd6bVFzYzBDZWNaZ19kaTRwSWczX2ZRZ0Nz?oc=5",
+      "source": "네이트",
+      "date": "Tue, 08 Sep 2026 01:02:00 GMT"
     },
     {
-      "title": "[경제+] IFA 참가 업체 약 50%가 중국 기업...中 가전, AI·현지화 전략으로 유럽 시장 공략",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4RVpaeks4N2tvWS1yYlBNZDlTeXBGSC1FcnZucFFwMnZiSFFkeUNNdHd5SEVGRjl6dWkyQm9oRS1SbkdKRk9PZktkWi1McmtpcXFLQkVhaWxrWHhTX0JXel9yLTJsbk0xc2dr?oc=5",
-      "source": "서울뉴스통신",
-      "date": "Mon, 07 Sep 2026 08:18:07 GMT"
+      "title": "중국 신경제 동력, 12.5% 뛰었다",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1HSWdXeGZiX29YamdPTjFsbmpUdkpqVEwtdzVyS1NUN3BFUWVfX0cxOElLRjMxT0NNbjE2MEo2RUhRYmM?oc=5",
+      "source": "한국공공정책신문",
+      "date": "Tue, 08 Sep 2026 00:20:41 GMT"
     },
     {
       "title": "'이란과 보란듯 교역' 중국 손 못대…\"미, 경제 압박 한계\"",
@@ -32,7 +32,7 @@
     {
       "title": "중국, 경기 침체 방어위해 국영 은행에 7.18조 투입",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjSlZlalRIcGVZWHlqUGdwTEFITWd0UzA4RFZEaFMyQTBpR3c1ay1MYXYySUwwR3dmLWtoemFpRzdsRlJyMTVRUG5IeWE5VllqN1VSelA0V29ZNkVBTDM0SldIaUV1bnNCbVBFZFY2SdIBc0FVX3lxTE1BTEJSYkNrZVhqdU5Ya0NCTUpkbWdjYWJzMjNpc1NKX0JoVjZhRUROZVUwZXRDaW04MXdfbDR3QVctQVBvLXU0MExkY0xPa2pkTjNCaWVXajNOZmNRQ0NvYzhNWEx0U1Qwa3VhdG9tcXR3NVU?oc=5",
-      "source": "뉴스웍스",
+      "source": "newsworks.co.kr",
       "date": "Mon, 07 Sep 2026 05:36:12 GMT"
     },
     {
@@ -44,7 +44,7 @@
     {
       "title": "경기 부양 몸부림 中, 주택 구입에도 파격 보조금",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JNG9GbFhHTUxodUJrLVpGYUhLTGJNekJ0WDRLTmc4cVEzbW1rVUJvTld4S2doOGRLOWZTNmh6cWRpTVFHQW1uTEdYN1lNMmFmVlZtT0dkci1HYlp4N1o1MEg4UGNBRHdRSlE0TDd3?oc=5",
-      "source": "아시아투데이",
+      "source": "asiatoday.co.kr",
       "date": "Mon, 07 Sep 2026 05:11:11 GMT"
     },
     {
