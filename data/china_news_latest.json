@@ -1,21 +1,33 @@
 {
-  "run_at_kst": "2026-09-08T10:10:04+09:00",
+  "run_at_kst": "2026-09-08T10:51:40+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "세계 금 시장 큰손 중국, 금 보유량 사상 최대치 경신(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WTm0teXpGOFdHVW9oR0p2cmVTcmYtZ0lpT0lfelQ0WS1aVUZWa1NlU3hjbUM2OHprVEd6bVFzYzBDZWNaZ19kaTRwSWczX2ZRZ0Nz?oc=5",
-      "source": "네이트",
-      "date": "Tue, 08 Sep 2026 01:02:00 GMT"
+      "title": "베트남, 중국-아세안 엑스포에서 무역 및 투자 유치 활동 강화.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcmI0SWZhelZKOGhqdTlGcW9XUmFFZlV4c05yZTRQcW02UWN1V0pQTnpiZUt5MFc2aGxqXzNxakl3MHJReDRRME1aT3pFejVxRUlldktSUy1DV2ZNZUdGS0tHLThRYkt0RWlBX1Y0Ykw1Z1prSHk2WV9sUDdGVktKV1Q4ZHpZajgzeksyc0o0X1JoVlc5bUEzT0pPTUN6WDJ5U1JxWA?oc=5",
+      "source": "Vietnam.vn",
+      "date": "Tue, 08 Sep 2026 01:29:29 GMT"
     },
     {
       "title": "중국 신경제 동력, 12.5% 뛰었다",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1HSWdXeGZiX29YamdPTjFsbmpUdkpqVEwtdzVyS1NUN3BFUWVfX0cxOElLRjMxT0NNbjE2MEo2RUhRYmM?oc=5",
-      "source": "한국공공정책신문",
-      "date": "Tue, 08 Sep 2026 00:20:41 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DWmhMRTcyQkZ5Yks1NEZmekdrcnUzeTZsdUd1UnJQQUU0bzZVOURKc0N0WUR0R1g4YTBFdWFkLVZEWFY1WG4xVnZ2MVM1VzA?oc=5",
+      "source": "뉴스N연합",
+      "date": "Tue, 08 Sep 2026 01:13:59 GMT"
+    },
+    {
+      "title": "세계 금 시장 큰손 중국, 금 보유량 사상 최대치 경신(종합)",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUm9vUElyWW02Y3pQQzVaS081TDg0TGd6NHk1WEsxNEE4a0pYbDhfaWNKM05xcmdjbmRBRnpBcDJlbGsxTk5ickVTUTlxNTVtWEp6RTVJWXVzVVhQTFprSjZPeEplUkxYbTlYQkM3X2NVdzdPUlRrV3lWNTROLUNtRA?oc=5",
+      "source": "edaily.co.kr",
+      "date": "Tue, 08 Sep 2026 01:00:49 GMT"
+    },
+    {
+      "title": "한약재 공급망 ‘탈중국’ 움직임…미얀마서 대량재배 추진",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50dXBuSVVwZFJZU3ItQlgxbm5YWmRpa2ZjRjJGUk43MHFydFg2eFhURDJOZURpVnJPQkM1X3Z4R3RwX3IzYzUydExXLTVhNldIaDdwQ2NCYi1zRTVnTU5wcVRSNl8wTVpCOWfSAW5BVV95cUxQSEdDNnl6RS1LbzRicEdfWFZDQ2tZNGpQeFEtUlNkMVFJSG53dWp5MXdfdVZKQ2NyTUJmVzFXdFkzdUZWcHVNRDlxQl9yTDMzeXVtcGdvVEpVcXNHT21CRVo4U1lKMmU0WDRuZTNrQQ?oc=5",
+      "source": "주간조선",
+      "date": "Mon, 07 Sep 2026 07:30:00 GMT"
     },
     {
       "title": "'이란과 보란듯 교역' 중국 손 못대…\"미, 경제 압박 한계\"",
@@ -42,18 +54,6 @@
       "date": "Mon, 07 Sep 2026 05:32:22 GMT"
     },
     {
-      "title": "경기 부양 몸부림 中, 주택 구입에도 파격 보조금",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JNG9GbFhHTUxodUJrLVpGYUhLTGJNekJ0WDRLTmc4cVEzbW1rVUJvTld4S2doOGRLOWZTNmh6cWRpTVFHQW1uTEdYN1lNMmFmVlZtT0dkci1HYlp4N1o1MEg4UGNBRHdRSlE0TDd3?oc=5",
-      "source": "asiatoday.co.kr",
-      "date": "Mon, 07 Sep 2026 05:11:11 GMT"
-    },
-    {
-      "title": "블룸버그 \"글로벌 AI 투자, 한국·일본 대신 중국으로\"",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XMWhybGg5WDVucXZXVE5kUzA5MXhtS3RGYUNjWThfWGlpMmFwbGROVHk0THlzVkNuUkQyN05yNW9JTjhqQUFBeGJDeWJ0emMxTlVtcTZtaTlJYW5DMHc?oc=5",
-      "source": "더구루",
-      "date": "Sun, 06 Sep 2026 23:22:43 GMT"
-    },
-    {
       "title": "중국의 성장엔진 교체에 주목해야 [조평규의 중국 본색]",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96NzdndTYtZGhSdmI0cHNseTRGeVZpTURHVTBoSm9NSkY0ZHpNR0JvRVJrekQxc3BWUjJIaXY1bklXNHdzeVdJVGdmOUMxSUdHaHQtUHp2TjlEUQ?oc=5",
       "source": "한국경제",
@@ -62,7 +62,7 @@
     {
       "title": "중국경제원탁회의 \"中, 혁신 역량 가장 빠르게 향상되는 국가 중 하나\"-Xinhua",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wMktUeU1LZWhRUnJoSEt2UWhGOG9NWlBPWjdVRG1PV3dJRDg1d1ViTXU5YjdYMkk1SlY3cXdIdWJQQUR1Y3pjUVhWNzdLMjZkZy1PdEdCUFl5NlVKejNKT1hrVGdqeG95TEtnc20tTHhYRWRmWmc?oc=5",
-      "source": "신화망",
+      "source": "kr.news.cn",
       "date": "Sun, 06 Sep 2026 03:00:06 GMT"
     },
     {
