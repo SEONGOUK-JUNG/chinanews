@@ -1,27 +1,21 @@
 {
-  "run_at_kst": "2026-09-08T20:10:05+09:00",
+  "run_at_kst": "2026-09-09T07:03:03+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "[경제] 中 경제브리핑...중국 3.5세대 원전 기술 '화룽 1호' 2.0 버전 공개 外",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sRjQyWld6TmxZQUZlWmtfTkMwNjNnMExCdmdZSkNzQVZDOVNvVW5UZnBLMWpMWW1PWFFYMVhUb0hLczRjOUtldENoenFoYnFMN3I1VUZrVFdpTlJ0YXJPMzFsYlhXbWFnWTVr?oc=5",
+      "source": "서울뉴스통신",
+      "date": "Tue, 08 Sep 2026 08:31:37 GMT"
+    },
+    {
       "title": "한중 전문가 \"데이터·정보·무역 등 인천 대중국 협력 방안 제시\"",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uU2ZIcUNRc18xZkJQRG5Kbm5sTk50TVBKOXg2S2tpTjZKRC02STI3cTd1d2RMUjhNY3pRSTlja3c0aFRzenpuOFRuS3dGSHFaQ2pUaVQzUk8zTkx4dVpVV0ZPQkNLSWh3WmxkTG1Xa2E?oc=5",
       "source": "인천투데이",
       "date": "Tue, 08 Sep 2026 07:40:45 GMT"
-    },
-    {
-      "title": "인천상의, 중국 시안시 무역촉진위원회와 우호협력 MOU 체결",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DZm4zUWlfTy1yMU91NW5jcENFNTZSNlBTaTQwMV9GdjVIdXBfSTRYYmRBcGdTS2trb2RMWTlhM1BpdzZjMlZqYkE1czRLbjRwVzV4SUNEbVp1ZWtMbW1IQWF1TG9DVElYdTIyRA?oc=5",
-      "source": "incheonin.com",
-      "date": "Tue, 08 Sep 2026 06:34:18 GMT"
-    },
-    {
-      "title": "위안화 강세에도 중국 수출 25% 급증",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFOThSMXV6MDNtdWthV0RfT1JuM0kzU0pacThPNWVtRzZUcFN5SVBoWUMwUll1TWlMUlQyMUxYN0FwY0FZVDZ1d2x2eXdHWU9BcGRF?oc=5",
-      "source": "네이트",
-      "date": "Tue, 08 Sep 2026 05:01:00 GMT"
     },
     {
       "title": "제주도내 수출기업 9개사 중국 무역사절단 파견",
@@ -30,28 +24,34 @@
       "date": "Tue, 08 Sep 2026 04:54:01 GMT"
     },
     {
-      "title": "[경제+] 중국 투자 확대하는 독일 기업들...\"시장·공급망 매력적\"",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NdjZzNlh6NU1LVWROeXd0ZHVsbnItSGp4UGRkUno5RmY5R1YwcGxFbzBZbkVjdVVBLVV5M0pxQzlrTXd0bWtYemxlVDhuc2VRMXk5MXBPY3FHekxYYW9kQmMwdXdpNktZQ2VUbXI5ZHJrMk0?oc=5",
-      "source": "동방일보",
-      "date": "Tue, 08 Sep 2026 02:34:10 GMT"
-    },
-    {
-      "title": "중국 신경제 동력, 12.5% 뛰었다",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DWmhMRTcyQkZ5Yks1NEZmekdrcnUzeTZsdUd1UnJQQUU0bzZVOURKc0N0WUR0R1g4YTBFdWFkLVZEWFY1WG4xVnZ2MVM1VzA?oc=5",
-      "source": "뉴스N연합",
-      "date": "Tue, 08 Sep 2026 01:13:59 GMT"
-    },
-    {
       "title": "한약재 공급망 ‘탈중국’ 움직임…미얀마서 대량재배 추진",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50dXBuSVVwZFJZU3ItQlgxbm5YWmRpa2ZjRjJGUk43MHFydFg2eFhURDJOZURpVnJPQkM1X3Z4R3RwX3IzYzUydExXLTVhNldIaDdwQ2NCYi1zRTVnTU5wcVRSNl8wTVpCOWfSAW5BVV95cUxQSEdDNnl6RS1LbzRicEdfWFZDQ2tZNGpQeFEtUlNkMVFJSG53dWp5MXdfdVZKQ2NyTUJmVzFXdFkzdUZWcHVNRDlxQl9yTDMzeXVtcGdvVEpVcXNHT21CRVo4U1lKMmU0WDRuZTNrQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50dXBuSVVwZFJZU3ItQlgxbm5YWmRpa2ZjRjJGUk43MHFydFg2eFhURDJOZURpVnJPQkM1X3Z4R3RwX3IzYzUydExXLTVhNldIaDdwQ2NCYi1zRTVnTU5wcVRSNl8wTVpCOWc?oc=5",
       "source": "주간조선",
       "date": "Mon, 07 Sep 2026 07:30:00 GMT"
+    },
+    {
+      "title": "'이란과 보란듯 교역' 중국 손 못대…\"미, 경제 압박 한계\"",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Yanppc1ZuSEU3QlNkd1FiT1ZZV0hCNzhraVFGVWM0UWZ3djdINU83WVV5WGloekxCbUxxVzJ3TkN6Z0g3LUlib2YxcUFEUzJadGVWT3NVSy05aTFWTE9uZWtUZ3dSUDJKcVVGYQ?oc=5",
+      "source": "세상을 바꾸는 시민언론 민들레",
+      "date": "Mon, 07 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "中, 60조원 규모 특별국채 발행…국유 금융사 자본확충 지원",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQUGhqdVM1YnNfNHVzQW5PVUJxckpzQ0hjVjFMWVZWWDItVG0zMjgxeVQ0OU9aeWFERlJzX2Z0TkQ0eTFxZGE5a055NHlXaGJCS2c?oc=5",
+      "source": "매일경제 마켓",
+      "date": "Mon, 07 Sep 2026 06:26:42 GMT"
     },
     {
       "title": "중국, 경기 침체 방어위해 국영 은행에 7.18조 투입",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjSlZlalRIcGVZWHlqUGdwTEFITWd0UzA4RFZEaFMyQTBpR3c1ay1MYXYySUwwR3dmLWtoemFpRzdsRlJyMTVRUG5IeWE5VllqN1VSelA0V29ZNkVBTDM0SldIaUV1bnNCbVBFZFY2SdIBc0FVX3lxTE1BTEJSYkNrZVhqdU5Ya0NCTUpkbWdjYWJzMjNpc1NKX0JoVjZhRUROZVUwZXRDaW04MXdfbDR3QVctQVBvLXU0MExkY0xPa2pkTjNCaWVXajNOZmNRQ0NvYzhNWEx0U1Qwa3VhdG9tcXR3NVU?oc=5",
       "source": "뉴스웍스",
       "date": "Mon, 07 Sep 2026 05:36:12 GMT"
+    },
+    {
+      "title": "블룸버그 \"글로벌 AI 투자, 한국·일본 대신 중국으로\"",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XMWhybGg5WDVucXZXVE5kUzA5MXhtS3RGYUNjWThfWGlpMmFwbGROVHk0THlzVkNuUkQyN05yNW9JTjhqQUFBeGJDeWJ0emMxTlVtcTZtaTlJYW5DMHc?oc=5",
+      "source": "더구루",
+      "date": "Sun, 06 Sep 2026 23:22:43 GMT"
     },
     {
       "title": "중국의 성장엔진 교체에 주목해야 [조평규의 중국 본색]",
@@ -72,10 +72,10 @@
       "date": "Fri, 04 Sep 2026 12:01:44 GMT"
     },
     {
-      "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
+      "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
       "source": ":: 위즈경제 ::",
-      "date": "Wed, 02 Sep 2026 07:00:00 GMT"
+      "date": "Fri, 04 Sep 2026 07:00:00 GMT"
     }
   ]
 }

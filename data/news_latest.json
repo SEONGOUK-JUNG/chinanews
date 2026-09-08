@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-08T20:03:02+09:00",
+  "run_at_kst": "2026-09-09T07:03:03+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
-      "title": "Vitol CEO: Global Fuel Markets Are \"Tight and Inflexible\"",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Vitol-CEO-Global-Fuel-Markets-Are-Pretty-Tight-and-Inflexible.html",
+      "title": "Why The U.S. Is Racing To Lock Down Iraq’s Most Explosive Geopolitical Gas Prize",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Why-The-US-Is-Racing-To-Lock-Down-Iraqs-Most-Explosive-Geopolitical-Gas-Prize.html",
       "source": "OilPrice",
-      "date": "Tue, 08 Sep 2026 06:00:00 -0500"
+      "date": "Tue, 08 Sep 2026 17:00:00 -0500"
     },
     {
-      "title": "China’s Crude Buying Rebounds as Fuel Exports Jump 29%",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Buying-Rebounds-as-Fuel-Exports-Jump-29.html",
+      "title": "Copper Surges Above $14,500 as Supply Squeeze Deepens",
+      "link": "https://oilprice.com/Metals/Commodities/Copper-Surges-Above-14500-as-Supply-Squeeze-Deepens.html",
       "source": "OilPrice",
-      "date": "Tue, 08 Sep 2026 05:00:00 -0500"
+      "date": "Tue, 08 Sep 2026 16:00:00 -0500"
     },
     {
-      "title": "Oil Prices Near $100 After Fresh Attacks on Saudi Energy Sites",
-      "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Near-100-After-Fresh-Attacks-on-Saudi-Energy-Sites.html",
+      "title": "Labor Day Gasoline Just Hit a Record. Here’s What Comes Next",
+      "link": "https://oilprice.com/Energy/Energy-General/Labor-Day-Gasoline-Just-Hit-a-Record-Heres-What-Comes-Next.html",
       "source": "OilPrice",
-      "date": "Tue, 08 Sep 2026 03:40:00 -0500"
+      "date": "Tue, 08 Sep 2026 15:00:00 -0500"
     },
     {
-      "title": "Global Diesel Supply Crunch Is Set to Last Through Winter",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Global-Diesel-Supply-Crunch-Is-Set-to-Last-Through-Winter.html",
+      "title": "China Adds 650,000 Ounces of Gold in Biggest Monthly Buy Since 2023",
+      "link": "https://oilprice.com/Metals/Gold/China-Adds-650000-Ounces-of-Gold-in-Biggest-Monthly-Buy-Since-2023.html",
       "source": "OilPrice",
-      "date": "Tue, 08 Sep 2026 03:00:00 -0500"
+      "date": "Tue, 08 Sep 2026 14:00:00 -0500"
     },
     {
-      "title": "Germany Faces Winter Gas Shortage Risk as Storage Lags",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Germany-Faces-Winter-Gas-Shortage-Risk-as-Storage-Lags.html",
+      "title": "D.C. Gas Ban Gets Favorable Hearing in Federal Appeals Court",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/DC-Gas-Ban-Gets-Favorable-Hearing-in-Federal-Appeals-Court.html",
       "source": "OilPrice",
-      "date": "Tue, 08 Sep 2026 02:00:00 -0500"
+      "date": "Tue, 08 Sep 2026 14:00:00 -0500"
     },
     {
-      "title": "Oil Prices Climb Toward $100 as Middle East Peace Hopes Fade",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-Toward-100-as-Middle-East-Peace-Hopes-Fade.html",
-      "source": "OilPrice",
-      "date": "Tue, 08 Sep 2026 00:30:00 -0500"
-    },
-    {
-      "title": "Germany’s Power Grid Could Be NATO’s Weakest Link",
-      "link": "https://oilprice.com/Energy/Energy-General/Germanys-Power-Grid-Could-Be-NATOs-Weakest-Link.html",
-      "source": "OilPrice",
-      "date": "Mon, 07 Sep 2026 19:00:00 -0500"
-    },
-    {
-      "title": "New York’s Nuclear Comeback Is Gathering Steam",
-      "link": "https://oilprice.com/Energy/Energy-General/New-Yorks-Nuclear-Comeback-Is-Gathering-Steam.html",
-      "source": "OilPrice",
-      "date": "Mon, 07 Sep 2026 18:00:00 -0500"
-    },
-    {
-      "title": "Critical minerals security collides with decades-long mine timelines",
-      "link": "https://www.mining.com/critical-minerals-security-collides-with-decades-long-mine-timelines/",
+      "title": "Marimaca hits thick copper-silver zone at Pampa Medina in Chile",
+      "link": "https://www.mining.com/marimaca-hits-thick-copper-silver-zone-at-pampa-medina-in-chile/",
       "source": "mining.com",
-      "date": "Mon, 07 Sep 2026 19:19:55 +0000"
+      "date": "Tue, 08 Sep 2026 18:55:38 +0000"
     },
     {
-      "title": "ACG Metals to acquire Keşkek gold project",
-      "link": "https://www.mining.com/acg-metals-to-acquire-keskek-gold-project/",
-      "source": "mining.com",
-      "date": "Mon, 07 Sep 2026 16:43:44 +0000"
+      "title": "How the U.S. Is Targeting Iran's Oil Money",
+      "link": "https://oilprice.com/Geopolitics/Middle-East/How-the-US-Is-Targeting-Irans-Oil-Money.html",
+      "source": "OilPrice",
+      "date": "Tue, 08 Sep 2026 13:00:00 -0500"
     },
     {
-      "title": "Brazil targets bigger role in critical minerals rush",
-      "link": "https://www.mining.com/brazil-targets-bigger-role-in-critical-minerals-rush/",
-      "source": "mining.com",
-      "date": "Mon, 07 Sep 2026 11:00:00 +0000"
+      "title": "A Forgotten Soviet Waterway Could Give China a New Arctic Trade Route",
+      "link": "https://oilprice.com/Energy/Energy-General/A-Forgotten-Soviet-Waterway-Could-Give-China-a-New-Arctic-Trade-Route.html",
+      "source": "OilPrice",
+      "date": "Tue, 08 Sep 2026 13:00:00 -0500"
     },
     {
-      "title": "Value of top 50 mining companies surges by $357 billion after monster August rally",
-      "link": "https://www.mining.com/value-of-top-50-mining-companies-surge-by-357-billion-after-monster-august-rally/",
-      "source": "mining.com",
-      "date": "Fri, 04 Sep 2026 23:52:01 +0000"
+      "title": "Chevron to Double Venezuela Rig Count in $7 Billion Oil Push",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-to-Double-Venezuela-Rig-Count-in-7-Billion-Oil-Push.html",
+      "source": "OilPrice",
+      "date": "Tue, 08 Sep 2026 12:59:37 -0500"
     },
     {
-      "title": "The top 50 biggest mining companies in the world",
-      "link": "https://www.mining.com/top-50-biggest-mining-companies/",
+      "title": "Rio Tinto acquires Aurukun bauxite project from Glencore, Mitsubishi",
+      "link": "https://www.mining.com/rio-tinto-acquires-aurukun-bauxite-project-from-glencore-mitsubishi/",
       "source": "mining.com",
-      "date": "Fri, 04 Sep 2026 23:42:16 +0000"
+      "date": "Tue, 08 Sep 2026 17:33:33 +0000"
     },
     {
-      "title": "Silver’s unsung strength",
-      "link": "https://www.mining.com/silvers-unsung-strength/",
+      "title": "Op-Ed: The Lobito blind spot and Zambia’s manganese future",
+      "link": "https://www.mining.com/op-ed-the-lobito-blind-spot-and-zambias-manganese-future/",
       "source": "mining.com",
-      "date": "Fri, 04 Sep 2026 22:43:29 +0000"
+      "date": "Tue, 08 Sep 2026 14:29:53 +0000"
+    },
+    {
+      "title": "Ivanhoe’s giant Makoko copper find gets 30% bigger",
+      "link": "https://www.mining.com/ivanhoes-giant-makoko-copper-find-gets-30-bigger/",
+      "source": "mining.com",
+      "date": "Tue, 08 Sep 2026 13:15:00 +0000"
+    },
+    {
+      "title": "MMG faces EU antitrust warning over Anglo nickel deal",
+      "link": "https://www.mining.com/mmg-faces-eu-antitrust-warning-over-anglo-nickel-deal/",
+      "source": "mining.com",
+      "date": "Tue, 08 Sep 2026 12:03:00 +0000"
+    },
+    {
+      "title": "BHP, KGHM join forces in global hunt for copper",
+      "link": "https://www.mining.com/bhp-kghm-join-forces-in-global-hunt-for-copper/",
+      "source": "mining.com",
+      "date": "Tue, 08 Sep 2026 10:51:00 +0000"
     }
   ]
 }
