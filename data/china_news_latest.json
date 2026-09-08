@@ -1,21 +1,33 @@
 {
-  "run_at_kst": "2026-09-08T10:51:40+09:00",
+  "run_at_kst": "2026-09-08T14:03:10+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "베트남, 중국-아세안 엑스포에서 무역 및 투자 유치 활동 강화.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcmI0SWZhelZKOGhqdTlGcW9XUmFFZlV4c05yZTRQcW02UWN1V0pQTnpiZUt5MFc2aGxqXzNxakl3MHJReDRRME1aT3pFejVxRUlldktSUy1DV2ZNZUdGS0tHLThRYkt0RWlBX1Y0Ykw1Z1prSHk2WV9sUDdGVktKV1Q4ZHpZajgzeksyc0o0X1JoVlc5bUEzT0pPTUN6WDJ5U1JxWA?oc=5",
-      "source": "Vietnam.vn",
-      "date": "Tue, 08 Sep 2026 01:29:29 GMT"
+      "title": "위안화 강세에도 중국 수출 25% 급증",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5USkttUHBINkFlbDFiZWNJeHViSkYtX0FRZjNlQWFDa3NPa09YZVlUcldRdmpWWUdjcEJ1dm5CcmV4Vy1uYmhsWDRtdm5MRm9BNkc1ckdwQTc4d9IBWEFVX3lxTE1QUzhCcjJHSGlQZG9pNGswTm14TWRrd1QtTWtDekZMS1ZERy1nWlZUZlZ4dmdsenV0MnRidGo2SUZnNW9HY3FrUjAzazQxVmNjTDNyenRja2g?oc=5",
+      "source": "아주경제",
+      "date": "Tue, 08 Sep 2026 05:00:00 GMT"
+    },
+    {
+      "title": "달러 흔들리자 금으로 향한 중국…외환보유액·금 보유 동반 증가",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjc0ZiVG1yXzI0RjNJbnlkXzdCVzFyNi1ZYmVVUXBkcUZudEdWQ19teVVUU0tCMG10X0hFc1J5Tlo5YWNhTDNtcWhucVR6NmFwS1k4?oc=5",
+      "source": "네이트",
+      "date": "Tue, 08 Sep 2026 01:16:00 GMT"
     },
     {
       "title": "중국 신경제 동력, 12.5% 뛰었다",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DWmhMRTcyQkZ5Yks1NEZmekdrcnUzeTZsdUd1UnJQQUU0bzZVOURKc0N0WUR0R1g4YTBFdWFkLVZEWFY1WG4xVnZ2MVM1VzA?oc=5",
       "source": "뉴스N연합",
       "date": "Tue, 08 Sep 2026 01:13:59 GMT"
+    },
+    {
+      "title": "[르포] 중국 선전 하늘 누비는 배달 드론…‘저공경제’ 일상 속으로",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JMFhoaTJDNDkzdlJIMXM1eG00R0lQY215UzdCc0dOWEtocC1HWVgtSzFiT1pVYldOUWsycHN2N3dXZXNSZGdDMnpBbFZpNWpwSXd2M0hwdnFielhUUl8zdVVn?oc=5",
+      "source": "뉴시스",
+      "date": "Tue, 08 Sep 2026 01:07:07 GMT"
     },
     {
       "title": "세계 금 시장 큰손 중국, 금 보유량 사상 최대치 경신(종합)",
@@ -36,22 +48,10 @@
       "date": "Mon, 07 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "[경제] UBS, 약 4천억 규모 판다본드 발행...中 금융시장 공략 본격화",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NZ00ySF9DMm1KOXFIWGJDRkozVjMxbmpnUlB0YzAzNlZmWFFWSGR1YThReGVDdUI3ZEJWMFJXLXVrNDdSNGkzTFJlWmlBUk9UakdkRzNWeHg0OFY2eXdYdFo1ZV8tRDk3U2VMM3g4bGhObUk?oc=5",
-      "source": "동방일보",
-      "date": "Mon, 07 Sep 2026 06:25:27 GMT"
-    },
-    {
       "title": "중국, 경기 침체 방어위해 국영 은행에 7.18조 투입",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjSlZlalRIcGVZWHlqUGdwTEFITWd0UzA4RFZEaFMyQTBpR3c1ay1MYXYySUwwR3dmLWtoemFpRzdsRlJyMTVRUG5IeWE5VllqN1VSelA0V29ZNkVBTDM0SldIaUV1bnNCbVBFZFY2SdIBc0FVX3lxTE1BTEJSYkNrZVhqdU5Ya0NCTUpkbWdjYWJzMjNpc1NKX0JoVjZhRUROZVUwZXRDaW04MXdfbDR3QVctQVBvLXU0MExkY0xPa2pkTjNCaWVXajNOZmNRQ0NvYzhNWEx0U1Qwa3VhdG9tcXR3NVU?oc=5",
-      "source": "newsworks.co.kr",
+      "source": "뉴스웍스",
       "date": "Mon, 07 Sep 2026 05:36:12 GMT"
-    },
-    {
-      "title": "중국, 배터리 증설 금지 조치…가격 회복 이어지나",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YRkZPRG5GdWplT2h4X2NOclV1N1dUd212d1h2azZfaklxNEFPZzhyZUxBVW8zY044WWxGS3Y2UEtzTkVSVURxNkRLMl9tbDFJUFBoMGlYWFJfZ9IBWEFVX3lxTE5XZTk3VFMxOFRCdV9meVItcWFabDhSMEJmWGtiODhOTWxGc2NNM0dJWWREdk5XNlBNYUc5MUl6V0x4d3Ntd0FEZU9oSjVCWU4wMl9YdzdCSWk?oc=5",
-      "source": "아주경제",
-      "date": "Mon, 07 Sep 2026 05:32:22 GMT"
     },
     {
       "title": "중국의 성장엔진 교체에 주목해야 [조평규의 중국 본색]",
@@ -62,7 +62,7 @@
     {
       "title": "중국경제원탁회의 \"中, 혁신 역량 가장 빠르게 향상되는 국가 중 하나\"-Xinhua",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wMktUeU1LZWhRUnJoSEt2UWhGOG9NWlBPWjdVRG1PV3dJRDg1d1ViTXU5YjdYMkk1SlY3cXdIdWJQQUR1Y3pjUVhWNzdLMjZkZy1PdEdCUFl5NlVKejNKT1hrVGdqeG95TEtnc20tTHhYRWRmWmc?oc=5",
-      "source": "kr.news.cn",
+      "source": "신화망",
       "date": "Sun, 06 Sep 2026 03:00:06 GMT"
     },
     {
