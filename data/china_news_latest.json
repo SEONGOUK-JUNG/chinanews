@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-08T14:03:10+09:00",
+  "run_at_kst": "2026-09-08T14:10:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -8,8 +8,14 @@
     {
       "title": "위안화 강세에도 중국 수출 25% 급증",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5USkttUHBINkFlbDFiZWNJeHViSkYtX0FRZjNlQWFDa3NPa09YZVlUcldRdmpWWUdjcEJ1dm5CcmV4Vy1uYmhsWDRtdm5MRm9BNkc1ckdwQTc4d9IBWEFVX3lxTE1QUzhCcjJHSGlQZG9pNGswTm14TWRrd1QtTWtDekZMS1ZERy1nWlZUZlZ4dmdsenV0MnRidGo2SUZnNW9HY3FrUjAzazQxVmNjTDNyenRja2g?oc=5",
-      "source": "아주경제",
+      "source": "ajunews.com",
       "date": "Tue, 08 Sep 2026 05:00:00 GMT"
+    },
+    {
+      "title": "제주도내 수출기업 9개사 중국 무역사절단 파견",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45azMyQl9BVW9rNjUxNjJqY2pld2xiek8yeFBhTzFNOFl0OHdCdmtOTFZGdEVIbzJseGRrOG1pbThIcHhhbERyX3JGMU14YmpIdXZwdjdOM2ZGRVVZeDdMT2o3NTNJUE15RUJnYUFR?oc=5",
+      "source": "지금제주",
+      "date": "Tue, 08 Sep 2026 04:54:01 GMT"
     },
     {
       "title": "달러 흔들리자 금으로 향한 중국…외환보유액·금 보유 동반 증가",
@@ -40,12 +46,6 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50dXBuSVVwZFJZU3ItQlgxbm5YWmRpa2ZjRjJGUk43MHFydFg2eFhURDJOZURpVnJPQkM1X3Z4R3RwX3IzYzUydExXLTVhNldIaDdwQ2NCYi1zRTVnTU5wcVRSNl8wTVpCOWfSAW5BVV95cUxQSEdDNnl6RS1LbzRicEdfWFZDQ2tZNGpQeFEtUlNkMVFJSG53dWp5MXdfdVZKQ2NyTUJmVzFXdFkzdUZWcHVNRDlxQl9yTDMzeXVtcGdvVEpVcXNHT21CRVo4U1lKMmU0WDRuZTNrQQ?oc=5",
       "source": "주간조선",
       "date": "Mon, 07 Sep 2026 07:30:00 GMT"
-    },
-    {
-      "title": "'이란과 보란듯 교역' 중국 손 못대…\"미, 경제 압박 한계\"",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Yanppc1ZuSEU3QlNkd1FiT1ZZV0hCNzhraVFGVWM0UWZ3djdINU83WVV5WGloekxCbUxxVzJ3TkN6Z0g3LUlib2YxcUFEUzJadGVWT3NVSy05aTFWTE9uZWtUZ3dSUDJKcVVGYQ?oc=5",
-      "source": "세상을 바꾸는 시민언론 민들레",
-      "date": "Mon, 07 Sep 2026 07:00:00 GMT"
     },
     {
       "title": "중국, 경기 침체 방어위해 국영 은행에 7.18조 투입",
