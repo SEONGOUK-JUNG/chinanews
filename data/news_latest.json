@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-09T10:03:16+09:00",
+  "run_at_kst": "2026-09-09T14:03:39+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Oil Nears $100 as U.S. Destroys Five Iranian Tankers",
+      "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Nears-100-as-US-Destroys-Five-Iranian-Tankers.html",
+      "source": "OilPrice",
+      "date": "Tue, 08 Sep 2026 22:50:00 -0500"
+    },
     {
       "title": "Iran’s Oil Exports Collapse as Hormuz Standoff Drags On",
       "link": "https://oilprice.com/Energy/Crude-Oil/Irans-Oil-Exports-Collapse-as-Hormuz-Standoff-Drags-On.html",
@@ -54,12 +60,6 @@
       "link": "https://www.mining.com/marimaca-hits-thick-copper-silver-zone-at-pampa-medina-in-chile/",
       "source": "mining.com",
       "date": "Tue, 08 Sep 2026 18:55:38 +0000"
-    },
-    {
-      "title": "How the U.S. Is Targeting Iran's Oil Money",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/How-the-US-Is-Targeting-Irans-Oil-Money.html",
-      "source": "OilPrice",
-      "date": "Tue, 08 Sep 2026 13:00:00 -0500"
     },
     {
       "title": "Rio Tinto acquires Aurukun bauxite project from Glencore, Mitsubishi",
