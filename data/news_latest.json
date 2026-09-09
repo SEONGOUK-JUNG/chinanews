@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-09T07:03:03+09:00",
+  "run_at_kst": "2026-09-09T10:03:16+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,18 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Iran’s Oil Exports Collapse as Hormuz Standoff Drags On",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Irans-Oil-Exports-Collapse-as-Hormuz-Standoff-Drags-On.html",
+      "source": "OilPrice",
+      "date": "Tue, 08 Sep 2026 19:00:00 -0500"
+    },
+    {
+      "title": "Hedge Funds Pile Into Fuels as U.S. Supply Squeeze Deepens",
+      "link": "https://oilprice.com/Energy/Energy-General/Hedge-Funds-Pile-Into-Fuels-as-US-Supply-Squeeze-Deepens.html",
+      "source": "OilPrice",
+      "date": "Tue, 08 Sep 2026 18:00:00 -0500"
+    },
     {
       "title": "Why The U.S. Is Racing To Lock Down Iraq’s Most Explosive Geopolitical Gas Prize",
       "link": "https://oilprice.com/Energy/Natural-Gas/Why-The-US-Is-Racing-To-Lock-Down-Iraqs-Most-Explosive-Geopolitical-Gas-Prize.html",
@@ -48,18 +60,6 @@
       "link": "https://oilprice.com/Geopolitics/Middle-East/How-the-US-Is-Targeting-Irans-Oil-Money.html",
       "source": "OilPrice",
       "date": "Tue, 08 Sep 2026 13:00:00 -0500"
-    },
-    {
-      "title": "A Forgotten Soviet Waterway Could Give China a New Arctic Trade Route",
-      "link": "https://oilprice.com/Energy/Energy-General/A-Forgotten-Soviet-Waterway-Could-Give-China-a-New-Arctic-Trade-Route.html",
-      "source": "OilPrice",
-      "date": "Tue, 08 Sep 2026 13:00:00 -0500"
-    },
-    {
-      "title": "Chevron to Double Venezuela Rig Count in $7 Billion Oil Push",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-to-Double-Venezuela-Rig-Count-in-7-Billion-Oil-Push.html",
-      "source": "OilPrice",
-      "date": "Tue, 08 Sep 2026 12:59:37 -0500"
     },
     {
       "title": "Rio Tinto acquires Aurukun bauxite project from Glencore, Mitsubishi",
