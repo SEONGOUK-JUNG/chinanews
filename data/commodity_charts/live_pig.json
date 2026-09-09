@@ -2,8 +2,8 @@
   "id": "live_pig",
   "name": "생 돼지",
   "unit": "CNY/kg",
-  "updated_at_kst": "2026-09-08T20:03:11+09:00",
-  "count": 103,
+  "updated_at_kst": "2026-09-09T20:03:28+09:00",
+  "count": 104,
   "candles": [
     {
       "time": "2025-01-01",
@@ -416,6 +416,10 @@
     {
       "time": "2026-09-08",
       "value": 10.91
+    },
+    {
+      "time": "2026-09-09",
+      "value": 10.9
     }
   ],
   "history_note": "Pre-2026-05: monthly observations (month-start/end). From late May 2026: daily.",

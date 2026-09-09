@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-09T14:03:39+09:00",
+  "run_at_kst": "2026-09-09T20:03:18+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,7 +8,37 @@
   "count": 14,
   "items": [
     {
-      "title": "Oil Nears $100 as U.S. Destroys Five Iranian Tankers",
+      "title": "India’s Refineries Run at Up to 108% as Diesel Demand Surges",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Refineries-Run-at-Up-to-108-as-Diesel-Demand-Surges.html",
+      "source": "OilPrice",
+      "date": "Wed, 09 Sep 2026 05:30:00 -0500"
+    },
+    {
+      "title": "Iraq Pushes OPEC for a Huge Increase in Its Oil Quota",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Pushes-OPEC-for-a-Huge-Increase-in-Its-Oil-Quota.html",
+      "source": "OilPrice",
+      "date": "Wed, 09 Sep 2026 04:30:00 -0500"
+    },
+    {
+      "title": "Brent Breaks $100 for the First Time in Nearly Two Months",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Breaks-100-for-the-First-Time-in-Nearly-Two-Months.html",
+      "source": "OilPrice",
+      "date": "Wed, 09 Sep 2026 02:42:50 -0500"
+    },
+    {
+      "title": "Rising Oil Prices Threaten China’s Independent Refiners",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Rising-Oil-Prices-Threaten-Chinas-Independent-Refiners.html",
+      "source": "OilPrice",
+      "date": "Wed, 09 Sep 2026 02:05:00 -0500"
+    },
+    {
+      "title": "Pakistan’s Energy Crisis Set to Ease as Qatari LNG Breaks Through Hormuz",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistans-Energy-Crisis-Set-to-Ease-as-Qatari-LNG-Breaks-Through-Hormuz.html",
+      "source": "OilPrice",
+      "date": "Wed, 09 Sep 2026 00:55:00 -0500"
+    },
+    {
+      "title": "Oil Prices Hit $100 as U.S. Destroys Five Iranian Tankers",
       "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Nears-100-as-US-Destroys-Five-Iranian-Tankers.html",
       "source": "OilPrice",
       "date": "Tue, 08 Sep 2026 22:50:00 -0500"
@@ -24,36 +54,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/Hedge-Funds-Pile-Into-Fuels-as-US-Supply-Squeeze-Deepens.html",
       "source": "OilPrice",
       "date": "Tue, 08 Sep 2026 18:00:00 -0500"
-    },
-    {
-      "title": "Why The U.S. Is Racing To Lock Down Iraq’s Most Explosive Geopolitical Gas Prize",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Why-The-US-Is-Racing-To-Lock-Down-Iraqs-Most-Explosive-Geopolitical-Gas-Prize.html",
-      "source": "OilPrice",
-      "date": "Tue, 08 Sep 2026 17:00:00 -0500"
-    },
-    {
-      "title": "Copper Surges Above $14,500 as Supply Squeeze Deepens",
-      "link": "https://oilprice.com/Metals/Commodities/Copper-Surges-Above-14500-as-Supply-Squeeze-Deepens.html",
-      "source": "OilPrice",
-      "date": "Tue, 08 Sep 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Labor Day Gasoline Just Hit a Record. Here’s What Comes Next",
-      "link": "https://oilprice.com/Energy/Energy-General/Labor-Day-Gasoline-Just-Hit-a-Record-Heres-What-Comes-Next.html",
-      "source": "OilPrice",
-      "date": "Tue, 08 Sep 2026 15:00:00 -0500"
-    },
-    {
-      "title": "China Adds 650,000 Ounces of Gold in Biggest Monthly Buy Since 2023",
-      "link": "https://oilprice.com/Metals/Gold/China-Adds-650000-Ounces-of-Gold-in-Biggest-Monthly-Buy-Since-2023.html",
-      "source": "OilPrice",
-      "date": "Tue, 08 Sep 2026 14:00:00 -0500"
-    },
-    {
-      "title": "D.C. Gas Ban Gets Favorable Hearing in Federal Appeals Court",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/DC-Gas-Ban-Gets-Favorable-Hearing-in-Federal-Appeals-Court.html",
-      "source": "OilPrice",
-      "date": "Tue, 08 Sep 2026 14:00:00 -0500"
     },
     {
       "title": "Marimaca hits thick copper-silver zone at Pampa Medina in Chile",
