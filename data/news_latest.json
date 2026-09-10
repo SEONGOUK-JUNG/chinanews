@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-10T07:20:04+09:00",
+  "run_at_kst": "2026-09-10T10:10:08+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,18 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Oil Breaks $100—and This Rally Has Legs",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Breaks-100and-This-Rally-Has-Legs.html",
+      "source": "OilPrice",
+      "date": "Wed, 09 Sep 2026 19:00:00 -0500"
+    },
+    {
+      "title": "Canadian Oil Pushes Deeper Into U.S. Gulf Coast Market",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Canadian-Oil-Pushes-Deeper-Into-US-Gulf-Coast-Market.html",
+      "source": "OilPrice",
+      "date": "Wed, 09 Sep 2026 18:00:00 -0500"
+    },
     {
       "title": "The Commodity Bull Market Just Entered a Dangerous New Phase",
       "link": "https://oilprice.com/Energy/Energy-General/The-Commodity-Bull-Market-Just-Entered-a-Dangerous-New-Phase.html",
@@ -68,22 +80,10 @@
       "date": "Wed, 09 Sep 2026 18:12:36 +0000"
     },
     {
-      "title": "U.S. Moves to Isolate Iran’s Aviation Sector From the Global Economy",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Moves-to-Isolate-Irans-Aviation-Sector-From-the-Global-Economy.html",
-      "source": "OilPrice",
-      "date": "Wed, 09 Sep 2026 13:00:00 -0500"
-    },
-    {
       "title": "Copper price pauses below record as China’s imports slump, mine supply heads for first drop since 2017",
       "link": "https://www.mining.com/copper-price-pauses-below-record-as-chinas-imports-slump-mine-supply-heads-for-first-drop-since-2017/",
       "source": "mining.com",
       "date": "Wed, 09 Sep 2026 17:34:20 +0000"
-    },
-    {
-      "title": "Uganda Launches New Crude Grade as First Oil Exports Near",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Uganda-Launches-New-Crude-Grade-as-First-Oil-Exports-Near.html",
-      "source": "OilPrice",
-      "date": "Wed, 09 Sep 2026 12:00:00 -0500"
     },
     {
       "title": "Traceability is essential for the critical minerals supply chain, report",

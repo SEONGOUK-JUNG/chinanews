@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-09-10T07:20:04+09:00",
+  "run_at_kst": "2026-09-10T10:10:08+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "'中 어쩌다 이 지경까지'…SNS 조회수 폭발한 '0원 생존법'",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CaHJFS2gtVW14UXp2VDBqWkhXSUtMQ2I3dERfeEtKcmtvRTVqX0NTaXVzY2tLOU12R0g2VHBOcEJjRE0tVi1IRGNiUlZ2SE54aDBCelpSOHkxZw?oc=5",
+      "source": "한국경제",
+      "date": "Wed, 09 Sep 2026 23:00:01 GMT"
+    },
     {
       "title": "신동력지수 12.5% 상승…중국 산업의 엔진이 바뀐다",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1jMGJuWkdWNmFRZDU3WUhfVVBuenl6YzVpVG1rLWhSRDRXdXAyajFJQUxibXJFNFFocVc3WTctT2RqZTZtV3VsWEtR?oc=5",
@@ -20,7 +26,7 @@
     {
       "title": "[경제] 중국-브릭스 회원국 무역지수 10년 연속 상승",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CQTN6RFZqNUJ2cHJvZzBvVlFsczBfRXdLQnBoQ2traXF4T05Zcm0tTUJ3NFdtbXN5a2JmbWVIRm9oWjB1YzBVQ0FNbV9FRWJiWkZpV1lqWHdvb1pjWUd4SU81dEpNdUk2a2g4?oc=5",
-      "source": "snakorea.com",
+      "source": "서울뉴스통신",
       "date": "Wed, 09 Sep 2026 07:53:34 GMT"
     },
     {
@@ -36,15 +42,27 @@
       "date": "Tue, 08 Sep 2026 22:24:40 GMT"
     },
     {
+      "title": "한중 전문가 \"데이터·정보·무역 등 인천 대중국 협력 방안 제시\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uU2ZIcUNRc18xZkJQRG5Kbm5sTk50TVBKOXg2S2tpTjZKRC02STI3cTd1d2RMUjhNY3pRSTlja3c0aFRzenpuOFRuS3dGSHFaQ2pUaVQzUk8zTkx4dVpVV0ZPQkNLSWh3WmxkTG1Xa2E?oc=5",
+      "source": "인천투데이",
+      "date": "Tue, 08 Sep 2026 07:40:45 GMT"
+    },
+    {
+      "title": "中, 국유 금융사에 72조 수혈…'위험 대비, 실물경제 지원' - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsZHpldndNSXV1eHI2RjRkekNjbFlTOUJoM1hUMTZxNTVUdWgwMFVTRnVuU2VPcUQ2dXFLUlE5WEJRZEp4Z2o2WkxaU2VJVHRXemh3UjhBdUR5dTRJUFpkWjJvTXpTNnBR0gFuQVVfeXFMTzJXT2pRbmIyR0ZGcmNYd3BiaHk0dDhZRFB3NlVjT2U0enJHQzJQdHlJSXZtYnNYQWpkSDU5N1d1eHlMOVpOa0dXejRyLTVvMWNoU3NYcjR6cmxFSW9IWlJSMjRSMlJSSC1wUXpBQUE?oc=5",
+      "source": "머니투데이",
+      "date": "Mon, 07 Sep 2026 05:44:09 GMT"
+    },
+    {
       "title": "중국경제원탁회의 \"中, 혁신 역량 가장 빠르게 향상되는 국가 중 하나\"-Xinhua",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wMktUeU1LZWhRUnJoSEt2UWhGOG9NWlBPWjdVRG1PV3dJRDg1d1ViTXU5YjdYMkk1SlY3cXdIdWJQQUR1Y3pjUVhWNzdLMjZkZy1PdEdCUFl5NlVKejNKT1hrVGdqeG95TEtnc20tTHhYRWRmWmc?oc=5",
-      "source": "kr.news.cn",
+      "source": "신화망",
       "date": "Sun, 06 Sep 2026 03:00:06 GMT"
     },
     {
       "title": "'중국 경제 심장' 상하이 시장대행에 '치링허우' 주중밍",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iUzdjLTdLdUdwM2FxSHhOY2E3RXlXclJ2ZTZnNy1VTTdGOUJuVWtMNXpQVHRkci1UOWoxZ0tLdmpGLTZKNU85R0Z6dHY2WmFxVnNCZVNMS1FxZ1HSAWBBVV95cUxQMml6X19UbTM3MThMZkk1WjJZWGtOY0h6UXMzY1NHLTZYRVZQcTZfM25rYkNzQ0x5d0hlTUJUcjl0YXZWRExiMW1SUW51RVNYbW1rVnVxdlVDRk1rbW96MVI?oc=5",
-      "source": "yna.co.kr",
+      "source": "연합뉴스",
       "date": "Fri, 04 Sep 2026 12:01:44 GMT"
     },
     {
@@ -58,24 +76,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KR1JzS2hLdmV2R2ZqWUFlb3hoTU5CUm10dTV3SG1nVF9GcWlQTTRHRkJzWHFuaDB3Q0lRRnZOakhrZFBOUXM4ektRM0JTYm5WNTF5djY5eV9kZGEt?oc=5",
       "source": "뉴스핌",
       "date": "Tue, 25 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "中, 자동차판매 -21%·부동산 투자 -19%…중국경제 '빨간불'",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iNTRtZUhiM3RVU2ZWWmZwNHk1RVBZME9uMnplbV91c3BMSjFlNm5WQUFqYjJ6cFpxMDVLOGc1VWhTdDJfSk1OY3VfVzNKRmp2aWc3XzZ3ZXJYQQ?oc=5",
-      "source": "한국경제",
-      "date": "Mon, 17 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52UVRRTTIyQW5udGJFTjhSbEhmTHc4Q2QyTHdTd1BWNzE5b0p0U0hWZk5LbmNjdUY5ZWh2MlBZaEczSnd3RVZGSlRfLXlrdU9HYTlfdmthLW01dTVn0gFiQVVfeXFMUDU0UmVDOFl4VUpZYzlneGtDWHJCX3luT1pfdFhKaGZENGxvWTRjRTZYNTltalJDYXVBUG9IV3I2Qy1IMGljUEdDV0k3d3JQbmVXV05QUzNZSWl5QkJPQk1jV0E?oc=5",
-      "source": "BBC",
-      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "경제는 ‘흔들’ 기술은 ‘질주’하는 중국의 딜레마, 실체는?",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZG1sWUFDY2l6bFoyeFBUdTdzUjgwU1o0clpaZm5hSk9QU0NvUE5uQWdaelg0OFhKNXI2dXk5VnNjSVE5R3lwMkpDMFFiRzc1LW9nYnVn?oc=5",
-      "source": "중앙일보",
-      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
     }
   ]
 }
