@@ -1,10 +1,22 @@
 {
-  "run_at_kst": "2026-09-10T10:10:08+09:00",
+  "run_at_kst": "2026-09-10T14:10:12+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "中부총리, 美와 관세戰 캐나다 재계에 \"기회 공유 환영\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iSjBDNDctMzF1bjNVdHFIbEFrbDhWOWt5S1I0bUpOTFl4OE04U3ZMZXVkTDZYTmdsVHhPejY1c2pWd2NHRDBLNUtMVy00R19CWFhneEtKSWNPcUgzdW04M9IBeEFVX3lxTE80NGZWM1AzNUlGa0xxZUhId0hNXzg1YWQwY0hNTjJXLWk3bG4weldwbnhlLVQ5b1Jib1Q1amhzNmlnVHViTldsZDY0S3VycWR1UWRhMXNWeGZJaHFZQUJKaWxfdHJxVUJWVFYzWS1aNTdQVEw4RmtWOA?oc=5",
+      "source": "뉴시스",
+      "date": "Thu, 10 Sep 2026 04:10:30 GMT"
+    },
+    {
+      "title": "중국 석유 수요 8.9% 감소 전망…하루 60만 배럴 줄어든다",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rZjhtclpsTDMzWHl5U2JtSnoyU180SWFMQmhHZUd3eXR0cWhoaldWaDFhV1J3UFd1U2pGNFVnWmZBd3NCLVZ0NW94Y1pPNTFJRk5xek1fUGUtVVR2MTczeWlnRVhjQUlaSHBmVC1R?oc=5",
+      "source": "gukjenews.com",
+      "date": "Thu, 10 Sep 2026 03:27:41 GMT"
+    },
     {
       "title": "'中 어쩌다 이 지경까지'…SNS 조회수 폭발한 '0원 생존법'",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CaHJFS2gtVW14UXp2VDBqWkhXSUtMQ2I3dERfeEtKcmtvRTVqX0NTaXVzY2tLOU12R0g2VHBOcEJjRE0tVi1IRGNiUlZ2SE54aDBCelpSOHkxZw?oc=5",
@@ -13,27 +25,15 @@
     },
     {
       "title": "신동력지수 12.5% 상승…중국 산업의 엔진이 바뀐다",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1jMGJuWkdWNmFRZDU3WUhfVVBuenl6YzVpVG1rLWhSRDRXdXAyajFJQUxibXJFNFFocVc3WTctT2RqZTZtV3VsWEtR?oc=5",
-      "source": "얼리어답터뉴스",
-      "date": "Wed, 09 Sep 2026 14:50:12 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBLRXZmX1NoU1J0Q2hOU2pESmhjMlBlV1I5VDRJTlpTeTJ6bFEzTV9wWExBTkxwdmJUVGZwcW5GZlJvanhJd29fWnZn?oc=5",
+      "source": "뉴스N연합",
+      "date": "Wed, 09 Sep 2026 15:50:20 GMT"
     },
     {
       "title": "\"中 성장 잠재력 여전히 높아… 경제 협력 확대할 때\"",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lc080ZkJaTWVTMmliTWw5T0dhQ1JqTGZLd0h1a0h6X2pScDE5ZkJKblRQbi1XaHpGLUpmdHVkNFp4SzRXT1lDWEUyTkRiT1FMZldCdlVrelRUaEllb1h4dFp2WlFPbWlqZFE?oc=5",
-      "source": "경남매일",
+      "source": "gnmaeil.com",
       "date": "Wed, 09 Sep 2026 12:31:54 GMT"
-    },
-    {
-      "title": "[경제] 중국-브릭스 회원국 무역지수 10년 연속 상승",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CQTN6RFZqNUJ2cHJvZzBvVlFsczBfRXdLQnBoQ2traXF4T05Zcm0tTUJ3NFdtbXN5a2JmbWVIRm9oWjB1YzBVQ0FNbV9FRWJiWkZpV1lqWHdvb1pjWUd4SU81dEpNdUk2a2g4?oc=5",
-      "source": "서울뉴스통신",
-      "date": "Wed, 09 Sep 2026 07:53:34 GMT"
-    },
-    {
-      "title": "중국 기업 20여곳 새만금 찾아 태양광·이차전지· 정보통신기술 투자 타진",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mNnFTUjFhbmN6cFpOeGJKWHdrdDJ5akhYODV5ZHZZeV80RExELUp0eG4tS00yR2tMNVZORlFNN3pIVEM2R0FmcjNQeFgzazNUWW9tYl9uTi02VlRidWp0UnFnU01uVzU0OS16a0hDd3I?oc=5",
-      "source": "투데이 군산",
-      "date": "Wed, 09 Sep 2026 04:17:30 GMT"
     },
     {
       "title": "﻿[연상모 칼럼] 주룽지 중국 전 총리의 사망과 중국 경제",
@@ -48,21 +48,15 @@
       "date": "Tue, 08 Sep 2026 07:40:45 GMT"
     },
     {
-      "title": "中, 국유 금융사에 72조 수혈…'위험 대비, 실물경제 지원' - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsZHpldndNSXV1eHI2RjRkekNjbFlTOUJoM1hUMTZxNTVUdWgwMFVTRnVuU2VPcUQ2dXFLUlE5WEJRZEp4Z2o2WkxaU2VJVHRXemh3UjhBdUR5dTRJUFpkWjJvTXpTNnBR0gFuQVVfeXFMTzJXT2pRbmIyR0ZGcmNYd3BiaHk0dDhZRFB3NlVjT2U0enJHQzJQdHlJSXZtYnNYQWpkSDU5N1d1eHlMOVpOa0dXejRyLTVvMWNoU3NYcjR6cmxFSW9IWlJSMjRSMlJSSC1wUXpBQUE?oc=5",
-      "source": "머니투데이",
-      "date": "Mon, 07 Sep 2026 05:44:09 GMT"
-    },
-    {
       "title": "중국경제원탁회의 \"中, 혁신 역량 가장 빠르게 향상되는 국가 중 하나\"-Xinhua",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wMktUeU1LZWhRUnJoSEt2UWhGOG9NWlBPWjdVRG1PV3dJRDg1d1ViTXU5YjdYMkk1SlY3cXdIdWJQQUR1Y3pjUVhWNzdLMjZkZy1PdEdCUFl5NlVKejNKT1hrVGdqeG95TEtnc20tTHhYRWRmWmc?oc=5",
-      "source": "신화망",
+      "source": "kr.news.cn",
       "date": "Sun, 06 Sep 2026 03:00:06 GMT"
     },
     {
       "title": "'중국 경제 심장' 상하이 시장대행에 '치링허우' 주중밍",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iUzdjLTdLdUdwM2FxSHhOY2E3RXlXclJ2ZTZnNy1VTTdGOUJuVWtMNXpQVHRkci1UOWoxZ0tLdmpGLTZKNU85R0Z6dHY2WmFxVnNCZVNMS1FxZ1HSAWBBVV95cUxQMml6X19UbTM3MThMZkk1WjJZWGtOY0h6UXMzY1NHLTZYRVZQcTZfM25rYkNzQ0x5d0hlTUJUcjl0YXZWRExiMW1SUW51RVNYbW1rVnVxdlVDRk1rbW96MVI?oc=5",
-      "source": "연합뉴스",
+      "source": "yna.co.kr",
       "date": "Fri, 04 Sep 2026 12:01:44 GMT"
     },
     {
@@ -70,6 +64,12 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10S3Z6UmtmUDByeWU4c2w2UmNSLWJ6NHZfbUpRQXR6ckx0T0F2bjFaeW9DVlYzTTFIRmdJRUcyaWpGbUpfeGtWTUpQdUJPUklNTUxQV0cxVlNQWEk0RWx3VkJEQm5yVWtTMDlDd0VB?oc=5",
       "source": "yonhapmidas.com",
       "date": "Fri, 04 Sep 2026 07:57:31 GMT"
+    },
+    {
+      "title": "\"다음 글로벌 경제위기는 중국에서 시작될 것\" - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43aFF3cEtoOTBMZzlLYWtiMFlHMmNwQ0pzdEpqMm8zZS1jNDJLUmdLSFJRS0VNSl9FeDNUZ1NYcTRTdGJUUHQ4RDZqYXVsX2dvMlR5S1BaWUlXc1Y2V3ZmaG1GUzNpeUdP0gFuQVVfeXFMT1V6X0g4TkV6Rk05ek9yZlZiVnYwTHNZTGY3M0RNT1RSVjVNVWd2Mi1rVWxJSlB2c0RfajFIdDFoUXJoUW9tcWVaU3dBaGRaWXM4aXo1VWgyaGJqTHA4VHJROUFvcW44Q092QUtHTEE?oc=5",
+      "source": "머니투데이",
+      "date": "Sun, 30 Aug 2026 07:00:00 GMT"
     },
     {
       "title": "흔들리는 중국 경제 심리, 공산당 기관지까지 '방어' 나섰지만...",
