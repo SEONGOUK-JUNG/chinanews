@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-10T10:10:08+09:00",
+  "run_at_kst": "2026-09-10T20:10:07+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Oil Tanker Rates Hit Record Highs as Middle East Shipping Risks Soar",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Tanker-Rates-Hit-Record-Highs-as-Middle-East-Shipping-Risks-Soar.html",
+      "source": "OilPrice",
+      "date": "Thu, 10 Sep 2026 05:30:00 -0500"
+    },
+    {
+      "title": "India Calls for Bigger Biofuel Push as Oil Prices Soar",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Calls-for-Bigger-Biofuel-Push-as-Oil-Prices-Soar.html",
+      "source": "OilPrice",
+      "date": "Thu, 10 Sep 2026 04:30:00 -0500"
+    },
+    {
+      "title": "Global Clean Investment Falls 17% as China Pullback Takes Its Toll",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Global-Clean-Investment-Falls-17-as-China-Pullback-Takes-Its-Toll.html",
+      "source": "OilPrice",
+      "date": "Thu, 10 Sep 2026 03:15:00 -0500"
+    },
+    {
+      "title": "Australia Softens Gas Reservation Rule for LNG Exporters",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Australia-Softens-Gas-Reservation-Rule-for-LNG-Exporters.html",
+      "source": "OilPrice",
+      "date": "Thu, 10 Sep 2026 02:00:00 -0500"
+    },
+    {
+      "title": "Oil Holds Above $100 as U.S.-Iran Tanker War Escalates",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Holds-Above-100-as-US-Iran-Tanker-War-Escalates.html",
+      "source": "OilPrice",
+      "date": "Thu, 10 Sep 2026 00:35:00 -0500"
+    },
     {
       "title": "Oil Breaks $100—and This Rally Has Legs",
       "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Breaks-100and-This-Rally-Has-Legs.html",
@@ -26,24 +56,6 @@
       "date": "Wed, 09 Sep 2026 17:00:00 -0500"
     },
     {
-      "title": "U.S. Crude Stocks Edge Lower as Oil Tops $100",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Stocks-Edge-Lower-as-Oil-Tops-100.html",
-      "source": "OilPrice",
-      "date": "Wed, 09 Sep 2026 16:02:17 -0500"
-    },
-    {
-      "title": "Negative Power Prices Are Piling Up Across Europe",
-      "link": "https://oilprice.com/Energy/Energy-General/Negative-Power-Prices-Are-Piling-Up-Across-Europe.html",
-      "source": "OilPrice",
-      "date": "Wed, 09 Sep 2026 16:00:00 -0500"
-    },
-    {
-      "title": "U.S. Administration Eyes Venezuela’s Critical Minerals",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Administration-Eyes-Venezuelas-Critical-Minerals.html",
-      "source": "OilPrice",
-      "date": "Wed, 09 Sep 2026 15:00:00 -0500"
-    },
-    {
       "title": "Mining stocks claim record 60% of 2026 TSX30",
       "link": "https://www.mining.com/mining-stocks-claim-record-60-of-2026-tsx30/",
       "source": "mining.com",
@@ -54,18 +66,6 @@
       "link": "https://www.mining.com/precious-metals-still-have-something-to-prove-strategist/",
       "source": "mining.com",
       "date": "Wed, 09 Sep 2026 19:26:37 +0000"
-    },
-    {
-      "title": "Britain Can Save £500 by Scrapping Net Zero, If It Ignores Most of the Bill",
-      "link": "https://oilprice.com/Energy/Energy-General/Britain-Can-Save-500-by-Scrapping-Net-Zero-If-It-Ignores-Most-of-the-Bill.html",
-      "source": "OilPrice",
-      "date": "Wed, 09 Sep 2026 14:00:00 -0500"
-    },
-    {
-      "title": "Belarus Refineries Post Decade-High Profits Amid Russia's Fuel Crisis",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Belarus-Refineries-Post-Decade-High-Profits-Amid-Russias-Fuel-Crisis.html",
-      "source": "OilPrice",
-      "date": "Wed, 09 Sep 2026 13:30:00 -0500"
     },
     {
       "title": "Agnico takes 22% of Vizsla in $32M Alaska deal",

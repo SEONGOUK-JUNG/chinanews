@@ -1,10 +1,40 @@
 {
-  "run_at_kst": "2026-09-10T14:10:12+09:00",
+  "run_at_kst": "2026-09-10T20:10:07+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "대전상의-중국 시안 무역촉진위원회, '경제·무역 교류 확대' 맞손",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmLWVzemNFNFc3bE02UFFBakNXQ0hRMWsycWRrdTlDSXJwcGFMTjJYS2lwTW1zQ3FZa3hNSGdrbVdNQTRPaGpMZElMOEE4U3NuT3gxWURwYUJMRW5aYVM5eDRIOVFKRVFncVRtLTFIbVpKQQ?oc=5",
+      "source": "goodmorningcc.com",
+      "date": "Thu, 10 Sep 2026 09:00:46 GMT"
+    },
+    {
+      "title": "대전상의, 중국 시안시 무역촉진위원회와 경제·무역 교류 확대 협약",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zSG9jTXRqbjk3SW5QMm1XMGtmbng5dnMtQm40YXFiMXkxQ3dzOHNIZTFLdkRsX1hKRHlNUVRZSEtOanFlU3RTTF9uXzg0UlRPWjQ0UUx6R2xKY0ZJell5YmY0N0ZlZXdTQ2c?oc=5",
+      "source": "뉴스밴드",
+      "date": "Thu, 10 Sep 2026 08:49:03 GMT"
+    },
+    {
+      "title": "[안보칼럼] 북한의 對중국 경제 종속에 따른 구조적 취약성과 한반도 안보에 미치는 영향",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zcGRxOEtsWk1pZzRTQzVpdXB6Y2Q1NHh6eW96V2huRnc2dHl5UnhOUTJ1bVk3bzItNy1aSTkycGNLdE5CakJ4dTFzRnNhaF9WazZxSTdzc1R2UnE0bS1SUg?oc=5",
+      "source": "코나스넷",
+      "date": "Thu, 10 Sep 2026 08:07:16 GMT"
+    },
+    {
+      "title": "대전상의-중국 시안 무역촉진위, ‘경제·무역 교류 MOU’ 체결",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Jd0dTcmUwRVRpRVJuUTNqRXNETFJ4LUJndU9rZTFhRTB5VHh2VE82TEE2a2JqRzlVNjhjcDVlWklFY1NhVlUwa3FIMFlUMEtBQThPOFUza1BBVUJhNllSY2JJUXdOaDBlSEp5MXIwdElURFU?oc=5",
+      "source": "충남일보",
+      "date": "Thu, 10 Sep 2026 07:20:15 GMT"
+    },
+    {
+      "title": "中, '美와 갈등' 캐나다와 관계개선 속도…국방 이어 경협 확대",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKU0hNMV85M2VCandSWUNWald6dEhPMXdTUnNUdGtWQXRnQVZwY3Q0MFBRb2d0R1lsWkNWdVRMTkZiZE5VV2FOdE96aGZmTkp4cDJ3SVc0eG85aWhuQkg1QUdEWWZla2ZnckNfb2FnVjU5VWJM?oc=5",
+      "source": "연합뉴스 한민족센터",
+      "date": "Thu, 10 Sep 2026 06:41:37 GMT"
+    },
     {
       "title": "中부총리, 美와 관세戰 캐나다 재계에 \"기회 공유 환영\"",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iSjBDNDctMzF1bjNVdHFIbEFrbDhWOWt5S1I0bUpOTFl4OE04U3ZMZXVkTDZYTmdsVHhPejY1c2pWd2NHRDBLNUtMVy00R19CWFhneEtKSWNPcUgzdW04M9IBeEFVX3lxTE80NGZWM1AzNUlGa0xxZUhId0hNXzg1YWQwY0hNTjJXLWk3bG4weldwbnhlLVQ5b1Jib1Q1amhzNmlnVHViTldsZDY0S3VycWR1UWRhMXNWeGZJaHFZQUJKaWxfdHJxVUJWVFYzWS1aNTdQVEw4RmtWOA?oc=5",
@@ -12,10 +42,10 @@
       "date": "Thu, 10 Sep 2026 04:10:30 GMT"
     },
     {
-      "title": "중국 석유 수요 8.9% 감소 전망…하루 60만 배럴 줄어든다",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rZjhtclpsTDMzWHl5U2JtSnoyU180SWFMQmhHZUd3eXR0cWhoaldWaDFhV1J3UFd1U2pGNFVnWmZBd3NCLVZ0NW94Y1pPNTFJRk5xek1fUGUtVVR2MTczeWlnRVhjQUlaSHBmVC1R?oc=5",
-      "source": "gukjenews.com",
-      "date": "Thu, 10 Sep 2026 03:27:41 GMT"
+      "title": "[경제] '2026 중국국제서비스무역교역회(CIFTIS)' 현장...각종 서비스 분야 한자리에",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01dnlnbGJ5T0pfVTNVNFJHZVNCM3ZqbWpJR0FuTVY4TEZ1ajZFNGRhY2F1TVc1bnlScGQ4N1BTVVNla2dlZ0V0dDFNVVk1OTJLbFloRkhGSV9JeW4zQzA2Z3lEQWNMajQ1OHlZ?oc=5",
+      "source": "서울뉴스통신",
+      "date": "Thu, 10 Sep 2026 02:48:46 GMT"
     },
     {
       "title": "'中 어쩌다 이 지경까지'…SNS 조회수 폭발한 '0원 생존법'",
@@ -24,15 +54,9 @@
       "date": "Wed, 09 Sep 2026 23:00:01 GMT"
     },
     {
-      "title": "신동력지수 12.5% 상승…중국 산업의 엔진이 바뀐다",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBLRXZmX1NoU1J0Q2hOU2pESmhjMlBlV1I5VDRJTlpTeTJ6bFEzTV9wWExBTkxwdmJUVGZwcW5GZlJvanhJd29fWnZn?oc=5",
-      "source": "뉴스N연합",
-      "date": "Wed, 09 Sep 2026 15:50:20 GMT"
-    },
-    {
       "title": "\"中 성장 잠재력 여전히 높아… 경제 협력 확대할 때\"",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lc080ZkJaTWVTMmliTWw5T0dhQ1JqTGZLd0h1a0h6X2pScDE5ZkJKblRQbi1XaHpGLUpmdHVkNFp4SzRXT1lDWEUyTkRiT1FMZldCdlVrelRUaEllb1h4dFp2WlFPbWlqZFE?oc=5",
-      "source": "gnmaeil.com",
+      "source": "경남매일",
       "date": "Wed, 09 Sep 2026 12:31:54 GMT"
     },
     {
@@ -42,40 +66,16 @@
       "date": "Tue, 08 Sep 2026 22:24:40 GMT"
     },
     {
-      "title": "한중 전문가 \"데이터·정보·무역 등 인천 대중국 협력 방안 제시\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uU2ZIcUNRc18xZkJQRG5Kbm5sTk50TVBKOXg2S2tpTjZKRC02STI3cTd1d2RMUjhNY3pRSTlja3c0aFRzenpuOFRuS3dGSHFaQ2pUaVQzUk8zTkx4dVpVV0ZPQkNLSWh3WmxkTG1Xa2E?oc=5",
-      "source": "인천투데이",
-      "date": "Tue, 08 Sep 2026 07:40:45 GMT"
-    },
-    {
       "title": "중국경제원탁회의 \"中, 혁신 역량 가장 빠르게 향상되는 국가 중 하나\"-Xinhua",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wMktUeU1LZWhRUnJoSEt2UWhGOG9NWlBPWjdVRG1PV3dJRDg1d1ViTXU5YjdYMkk1SlY3cXdIdWJQQUR1Y3pjUVhWNzdLMjZkZy1PdEdCUFl5NlVKejNKT1hrVGdqeG95TEtnc20tTHhYRWRmWmc?oc=5",
-      "source": "kr.news.cn",
+      "source": "신화망",
       "date": "Sun, 06 Sep 2026 03:00:06 GMT"
-    },
-    {
-      "title": "'중국 경제 심장' 상하이 시장대행에 '치링허우' 주중밍",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iUzdjLTdLdUdwM2FxSHhOY2E3RXlXclJ2ZTZnNy1VTTdGOUJuVWtMNXpQVHRkci1UOWoxZ0tLdmpGLTZKNU85R0Z6dHY2WmFxVnNCZVNMS1FxZ1HSAWBBVV95cUxQMml6X19UbTM3MThMZkk1WjJZWGtOY0h6UXMzY1NHLTZYRVZQcTZfM25rYkNzQ0x5d0hlTUJUcjl0YXZWRExiMW1SUW51RVNYbW1rVnVxdlVDRk1rbW96MVI?oc=5",
-      "source": "yna.co.kr",
-      "date": "Fri, 04 Sep 2026 12:01:44 GMT"
-    },
-    {
-      "title": "중국 경제개혁 이끈 주룽지 전 총리 별세",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10S3Z6UmtmUDByeWU4c2w2UmNSLWJ6NHZfbUpRQXR6ckx0T0F2bjFaeW9DVlYzTTFIRmdJRUcyaWpGbUpfeGtWTUpQdUJPUklNTUxQV0cxVlNQWEk0RWx3VkJEQm5yVWtTMDlDd0VB?oc=5",
-      "source": "yonhapmidas.com",
-      "date": "Fri, 04 Sep 2026 07:57:31 GMT"
     },
     {
       "title": "\"다음 글로벌 경제위기는 중국에서 시작될 것\" - 머니투데이",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43aFF3cEtoOTBMZzlLYWtiMFlHMmNwQ0pzdEpqMm8zZS1jNDJLUmdLSFJRS0VNSl9FeDNUZ1NYcTRTdGJUUHQ4RDZqYXVsX2dvMlR5S1BaWUlXc1Y2V3ZmaG1GUzNpeUdP0gFuQVVfeXFMT1V6X0g4TkV6Rk05ek9yZlZiVnYwTHNZTGY3M0RNT1RSVjVNVWd2Mi1rVWxJSlB2c0RfajFIdDFoUXJoUW9tcWVaU3dBaGRaWXM4aXo1VWgyaGJqTHA4VHJROUFvcW44Q092QUtHTEE?oc=5",
       "source": "머니투데이",
       "date": "Sun, 30 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "흔들리는 중국 경제 심리, 공산당 기관지까지 '방어' 나섰지만...",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KR1JzS2hLdmV2R2ZqWUFlb3hoTU5CUm10dTV3SG1nVF9GcWlQTTRHRkJzWHFuaDB3Q0lRRnZOakhrZFBOUXM4ektRM0JTYm5WNTF5djY5eV9kZGEt?oc=5",
-      "source": "뉴스핌",
-      "date": "Tue, 25 Aug 2026 07:00:00 GMT"
     }
   ]
 }
