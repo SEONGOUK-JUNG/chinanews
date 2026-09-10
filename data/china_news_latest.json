@@ -1,14 +1,26 @@
 {
-  "run_at_kst": "2026-09-10T20:10:07+09:00",
+  "run_at_kst": "2026-09-11T07:20:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "중국 과잉생산에 몸살 앓는 세계경제… 제2 ‘플라자 합의’ 목소리",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpaTljb0QxSldubmV3WkkxZm1NMDM0eE1XdFp6bDFCYVh4MjBhU1ZlMlFYeEMzUmt5elRsWTMxRDBrUlpXOUVSOFFtNHRNV0NDYjI1a0lIVmozQTdQZEE0TjJ1djA?oc=5",
+      "source": "주간동아",
+      "date": "Thu, 10 Sep 2026 22:00:01 GMT"
+    },
+    {
+      "title": "中서 첫 AI안경 플래그십 매장 문 연다",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0bFJ3eG9nczFOQV9PcWM5WERvQkIzTEcycmlaMjBQdHp6OWc0S3dqZjJuV3hId2ljQzFqRS1ZTUF0d0hQNWtfT19OZmI0X0ktbFHSAVNBVV95cUxOYlVsb3YyNVhVNjdGUy1SM2Q2RnZRWEpkcmtXTjFSWVVCTV85STZtT3FXczYxM3dxWGNQblpsNkhDZUVrLVdhalE5QW9nZWFhSUd1Yw?oc=5",
+      "source": "서울경제",
+      "date": "Thu, 10 Sep 2026 21:00:00 GMT"
+    },
+    {
       "title": "대전상의-중국 시안 무역촉진위원회, '경제·무역 교류 확대' 맞손",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmLWVzemNFNFc3bE02UFFBakNXQ0hRMWsycWRrdTlDSXJwcGFMTjJYS2lwTW1zQ3FZa3hNSGdrbVdNQTRPaGpMZElMOEE4U3NuT3gxWURwYUJMRW5aYVM5eDRIOVFKRVFncVRtLTFIbVpKQQ?oc=5",
-      "source": "goodmorningcc.com",
+      "source": "굿모닝충청",
       "date": "Thu, 10 Sep 2026 09:00:46 GMT"
     },
     {
@@ -20,7 +32,7 @@
     {
       "title": "[안보칼럼] 북한의 對중국 경제 종속에 따른 구조적 취약성과 한반도 안보에 미치는 영향",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zcGRxOEtsWk1pZzRTQzVpdXB6Y2Q1NHh6eW96V2huRnc2dHl5UnhOUTJ1bVk3bzItNy1aSTkycGNLdE5CakJ4dTFzRnNhaF9WazZxSTdzc1R2UnE0bS1SUg?oc=5",
-      "source": "코나스넷",
+      "source": "konas.net",
       "date": "Thu, 10 Sep 2026 08:07:16 GMT"
     },
     {
@@ -36,24 +48,6 @@
       "date": "Thu, 10 Sep 2026 06:41:37 GMT"
     },
     {
-      "title": "中부총리, 美와 관세戰 캐나다 재계에 \"기회 공유 환영\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iSjBDNDctMzF1bjNVdHFIbEFrbDhWOWt5S1I0bUpOTFl4OE04U3ZMZXVkTDZYTmdsVHhPejY1c2pWd2NHRDBLNUtMVy00R19CWFhneEtKSWNPcUgzdW04M9IBeEFVX3lxTE80NGZWM1AzNUlGa0xxZUhId0hNXzg1YWQwY0hNTjJXLWk3bG4weldwbnhlLVQ5b1Jib1Q1amhzNmlnVHViTldsZDY0S3VycWR1UWRhMXNWeGZJaHFZQUJKaWxfdHJxVUJWVFYzWS1aNTdQVEw4RmtWOA?oc=5",
-      "source": "뉴시스",
-      "date": "Thu, 10 Sep 2026 04:10:30 GMT"
-    },
-    {
-      "title": "[경제] '2026 중국국제서비스무역교역회(CIFTIS)' 현장...각종 서비스 분야 한자리에",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01dnlnbGJ5T0pfVTNVNFJHZVNCM3ZqbWpJR0FuTVY4TEZ1ajZFNGRhY2F1TVc1bnlScGQ4N1BTVVNla2dlZ0V0dDFNVVk1OTJLbFloRkhGSV9JeW4zQzA2Z3lEQWNMajQ1OHlZ?oc=5",
-      "source": "서울뉴스통신",
-      "date": "Thu, 10 Sep 2026 02:48:46 GMT"
-    },
-    {
-      "title": "'中 어쩌다 이 지경까지'…SNS 조회수 폭발한 '0원 생존법'",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CaHJFS2gtVW14UXp2VDBqWkhXSUtMQ2I3dERfeEtKcmtvRTVqX0NTaXVzY2tLOU12R0g2VHBOcEJjRE0tVi1IRGNiUlZ2SE54aDBCelpSOHkxZw?oc=5",
-      "source": "한국경제",
-      "date": "Wed, 09 Sep 2026 23:00:01 GMT"
-    },
-    {
       "title": "\"中 성장 잠재력 여전히 높아… 경제 협력 확대할 때\"",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lc080ZkJaTWVTMmliTWw5T0dhQ1JqTGZLd0h1a0h6X2pScDE5ZkJKblRQbi1XaHpGLUpmdHVkNFp4SzRXT1lDWEUyTkRiT1FMZldCdlVrelRUaEllb1h4dFp2WlFPbWlqZFE?oc=5",
       "source": "경남매일",
@@ -64,6 +58,12 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GRENjNnZvTXNZbm9KeWpRaEI1U1BkUlB6c29lbHY4aGhDUXY2T1l1OTdobmNQdy1UMHhOd0hFdy1VUlJOcVNYeWl3UTF6Z2hIRVlUVDdyNU9rV3JqamJETHI4eV9NQ05kbXFv0gFvQVVfeXFMT3V3RkFpd3hlY1NTVTYzNWNZalhMNUVCVGNUQVd5MkJZTE83Ymp3T3BLRWdxRFlOQXBhUi1HSlB6VFIyYmpRN2lyNGFRRzY4SG1Sanl2QWxGUTNHMEhJd3lGUTBnWVhwR29mckNtYzZZ?oc=5",
       "source": "펜앤마이크",
       "date": "Tue, 08 Sep 2026 22:24:40 GMT"
+    },
+    {
+      "title": "중국의 성장엔진 교체에 주목해야 [조평규의 중국 본색]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96NzdndTYtZGhSdmI0cHNseTRGeVZpTURHVTBoSm9NSkY0ZHpNR0JvRVJrekQxc3BWUjJIaXY1bklXNHdzeVdJVGdmOUMxSUdHaHQtUHp2TjlEUQ?oc=5",
+      "source": "한국경제",
+      "date": "Sun, 06 Sep 2026 21:30:09 GMT"
     },
     {
       "title": "중국경제원탁회의 \"中, 혁신 역량 가장 빠르게 향상되는 국가 중 하나\"-Xinhua",
