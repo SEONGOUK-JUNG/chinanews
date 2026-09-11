@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-11T10:10:07+09:00",
+  "run_at_kst": "2026-09-12T07:20:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
-      "title": "AI Boom to Boost Southeast Asia’s LNG Demand",
-      "link": "https://oilprice.com/Energy/Natural-Gas/AI-Boom-to-Boost-Southeast-Asias-LNG-Demand.html",
-      "source": "OilPrice",
-      "date": "Thu, 10 Sep 2026 19:00:00 -0500"
-    },
-    {
-      "title": "Why The United States’ Belated Critical Minerals Gambit Won’t Stop China",
-      "link": "https://oilprice.com/Metals/Commodities/Why-The-United-States-Belated-Critical-Minerals-Gambit-Wont-Stop-China.html",
-      "source": "OilPrice",
-      "date": "Thu, 10 Sep 2026 18:00:00 -0500"
-    },
-    {
-      "title": "Higher Oil Prices Let Mexico Pull Back Billions in Pemex Support",
-      "link": "https://oilprice.com/Energy/Energy-General/Higher-Oil-Prices-Let-Mexico-Pull-Back-Billions-in-Pemex-Support.html",
-      "source": "OilPrice",
-      "date": "Thu, 10 Sep 2026 17:00:00 -0500"
-    },
-    {
-      "title": "OPEC Sees Oil Demand Growth Explode Sixfold in 2027",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Sees-Oil-Demand-Growth-Explode-Sixfold-in-2027.html",
-      "source": "OilPrice",
-      "date": "Thu, 10 Sep 2026 16:30:00 -0500"
-    },
-    {
-      "title": "How China Became the World's First Electrostate",
-      "link": "https://oilprice.com/Energy/Energy-General/How-China-Became-the-Worlds-First-Electrostate.html",
-      "source": "OilPrice",
-      "date": "Thu, 10 Sep 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Copper Stocks Sink as White House Tariff Uncertainty Spooks Traders",
-      "link": "https://oilprice.com/Metals/Commodities/Copper-Stocks-Sink-as-White-House-Tariff-Uncertainty-Spooks-Traders.html",
-      "source": "OilPrice",
-      "date": "Thu, 10 Sep 2026 15:00:00 -0500"
-    },
-    {
-      "title": "US Natural Gas Market Verging on Record Growth",
-      "link": "https://oilprice.com/Energy/Natural-Gas/US-Natural-Gas-Market-Verging-on-Record-Growth.html",
-      "source": "OilPrice",
-      "date": "Thu, 10 Sep 2026 14:00:00 -0500"
-    },
-    {
-      "title": "Mining stocks rally comes to abrupt halt as copper, silver prices plummet and gold slides",
-      "link": "https://www.mining.com/mining-stocks-rally-comes-to-abrupt-halt-as-copper-silver-prices-plummet-and-gold-slides/",
+      "title": "Site visit: Cyclic Materials opens commercial-scale rare earth recycling plant in Arizona",
+      "link": "https://www.mining.com/site-visit-cyclic-materials-opens-commercial-scale-rare-earth-recycling-plant-in-arizona/",
       "source": "mining.com",
-      "date": "Thu, 10 Sep 2026 18:36:38 +0000"
+      "date": "Fri, 11 Sep 2026 22:04:40 +0000"
     },
     {
-      "title": "EIA Raises 2027 U.S. Oil Output Forecast",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/EIA-Raises-2027-US-Oil-Output-Forecast.html",
+      "title": "Europe's \"Less\" Is Doing More Than Anyone Gives It Credit For",
+      "link": "https://oilprice.com/Energy/Energy-General/Europes-Less-Is-Doing-More-Than-Anyone-Gives-It-Credit-For.html",
       "source": "OilPrice",
-      "date": "Thu, 10 Sep 2026 13:30:00 -0500"
+      "date": "Fri, 11 Sep 2026 17:00:00 -0500"
     },
     {
-      "title": "Platinum, palladium price forecasts cut by BMI as car sales shrink and South African supply recovers",
-      "link": "https://www.mining.com/platinum-palladium-price-forecasts-cut-by-bmi-as-car-sales-shrink-and-south-african-supply-recovers/",
-      "source": "mining.com",
-      "date": "Thu, 10 Sep 2026 17:12:44 +0000"
+      "title": "White House Weighs Defense Production Act as U.S. Refineries Maxed Out",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/White-House-Weighs-Defense-Production-Act-as-US-Refineries-Maxed-Out.html",
+      "source": "OilPrice",
+      "date": "Fri, 11 Sep 2026 15:21:04 -0500"
     },
     {
-      "title": "Coal demand to rise 1.2% as Hormuz closure drives gas prices: IEA",
-      "link": "https://www.mining.com/coal-demand-to-rise-1-2-as-hormuz-closure-drives-gas-prices-iea/",
-      "source": "mining.com",
-      "date": "Thu, 10 Sep 2026 16:45:51 +0000"
+      "title": "Trump's Grid Battery Ban Leaves Developers Guessing",
+      "link": "https://oilprice.com/Energy/Energy-General/Trumps-Grid-Battery-Ban-Leaves-Developers-Guessing.html",
+      "source": "OilPrice",
+      "date": "Fri, 11 Sep 2026 15:00:00 -0500"
     },
     {
-      "title": "Osisko hits 4.7% copper beneath Gaspé workings",
-      "link": "https://www.mining.com/osisko-hits-4-7-copper-beneath-gaspe-workings/",
+      "title": "USA Rare Earth breaks ground at $1.2B rare earth magnet manufacturing facility in South Carolina",
+      "link": "https://www.mining.com/usa-rare-earth-breaks-ground-at-1-2b-rare-earth-magnet-manufacturing-facility-in-south-carolina/",
       "source": "mining.com",
-      "date": "Thu, 10 Sep 2026 15:54:39 +0000"
+      "date": "Fri, 11 Sep 2026 18:07:15 +0000"
     },
     {
-      "title": "Swiss gold ban squeezes Sudan’s war economy",
-      "link": "https://www.mining.com/swiss-gold-ban-squeezes-sudans-war-economy/",
-      "source": "mining.com",
-      "date": "Thu, 10 Sep 2026 14:52:00 +0000"
+      "title": "UK Interest Rates Could Rise Four Times Over the Next Year",
+      "link": "https://oilprice.com/Energy/Energy-General/UK-Interest-Rates-Could-Rise-Four-Times-Over-the-Next-Year.html",
+      "source": "OilPrice",
+      "date": "Fri, 11 Sep 2026 13:00:00 -0500"
     },
     {
-      "title": "Aya doubles Boumadine value to $3.5B",
-      "link": "https://www.mining.com/aya-doubles-boumadine-value-to-3-5b/",
+      "title": "U.S. Oil Rig Count Rises as Oil Tops $100",
+      "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Rig-Count-Rises-as-Oil-Tops-100.html",
+      "source": "OilPrice",
+      "date": "Fri, 11 Sep 2026 12:19:17 -0500"
+    },
+    {
+      "title": "Drone Strikes Hit Saudi Arabia’s Vital East-West Oil Pipeline",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Drone-Strikes-Hit-Saudi-Arabias-Vital-East-West-Oil-Pipeline.html",
+      "source": "OilPrice",
+      "date": "Fri, 11 Sep 2026 12:04:36 -0500"
+    },
+    {
+      "title": "Glencore, Mercuria compete for Venezuela aluminum smelter deal",
+      "link": "https://www.mining.com/glencore-mercuria-compete-for-venezuela-aluminum-smelter-deal/",
       "source": "mining.com",
-      "date": "Thu, 10 Sep 2026 14:15:12 +0000"
+      "date": "Fri, 11 Sep 2026 16:50:53 +0000"
+    },
+    {
+      "title": "Saudi Arabia’s Critical Oil Bypass Comes Under Threat",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Saudi-Arabias-Critical-Oil-Bypass-Comes-Under-Threat.html",
+      "source": "OilPrice",
+      "date": "Fri, 11 Sep 2026 11:05:00 -0500"
+    },
+    {
+      "title": "Supertanker Rates Hit $800,000 a Day as Gulf Tensions Escalate",
+      "link": "https://oilprice.com/Energy/Energy-General/Supertanker-Rates-Hit-800000-a-Day-as-Gulf-Tensions-Escalate.html",
+      "source": "OilPrice",
+      "date": "Fri, 11 Sep 2026 11:00:00 -0500"
+    },
+    {
+      "title": "Talon scraps plan to build North Dakota mill for Tamarack",
+      "link": "https://www.mining.com/talon-scraps-plan-to-build-north-dakota-mill-for-tamarack/",
+      "source": "mining.com",
+      "date": "Fri, 11 Sep 2026 15:12:18 +0000"
+    },
+    {
+      "title": "EU scrutiny of Anglo-MMG nickel deal tests China stance",
+      "link": "https://www.mining.com/eu-scrutiny-of-anglo-mmg-nickel-deal-tests-china-stance/",
+      "source": "mining.com",
+      "date": "Fri, 11 Sep 2026 15:07:00 +0000"
+    },
+    {
+      "title": "Gemfields emerald auction brings $29.6M reprieve",
+      "link": "https://www.mining.com/gemfields-emerald-auction-brings-29-6m-reprieve/",
+      "source": "mining.com",
+      "date": "Fri, 11 Sep 2026 10:51:00 +0000"
     }
   ]
 }

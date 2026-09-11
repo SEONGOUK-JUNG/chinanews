@@ -2,8 +2,8 @@
   "id": "copper",
   "name": "구리",
   "unit": "CNY/t",
-  "updated_at_kst": "2026-09-10T20:10:27+09:00",
-  "count": 105,
+  "updated_at_kst": "2026-09-12T07:20:20+09:00",
+  "count": 106,
   "candles": [
     {
       "time": "2025-01-01",
@@ -424,6 +424,10 @@
     {
       "time": "2026-09-10",
       "value": 112726.23
+    },
+    {
+      "time": "2026-09-11",
+      "value": 109609.7
     }
   ],
   "history_note": "Pre-2026-05: monthly observations (month-start/end). From late May 2026: daily.",

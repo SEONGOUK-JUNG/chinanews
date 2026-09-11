@@ -2,8 +2,8 @@
   "id": "egg",
   "name": "달걀",
   "unit": "CNY/kg",
-  "updated_at_kst": "2026-09-10T20:10:27+09:00",
-  "count": 105,
+  "updated_at_kst": "2026-09-12T07:20:20+09:00",
+  "count": 106,
   "candles": [
     {
       "time": "2025-01-01",
@@ -424,6 +424,10 @@
     {
       "time": "2026-09-10",
       "value": 10.62
+    },
+    {
+      "time": "2026-09-11",
+      "value": 10.64
     }
   ],
   "history_note": "Pre-2026-05: monthly observations (month-start/end). From late May 2026: daily.",
