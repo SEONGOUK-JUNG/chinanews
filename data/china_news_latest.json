@@ -1,10 +1,22 @@
 {
-  "run_at_kst": "2026-09-11T10:10:07+09:00",
+  "run_at_kst": "2026-09-11T14:10:08+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "중국, '제살깎기 가격전쟁' 원가 조사⋯배터리 증설도 제동",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wLWlKb1VOdDIyZjhuSWtyVkdVN0Y2Q1JEUXkyTlczVlBCT0lrNDF3R0pmZFYtTkhLT0xEWFZnVDBzTTFoY0FUcGVqUG9CdDhIZ2tPY2RRakhMQjZJdEE?oc=5",
+      "source": "포커스온경제",
+      "date": "Fri, 11 Sep 2026 04:21:41 GMT"
+    },
+    {
+      "title": "\"배터리 그만 만들어\"…중국, 89조 쏟아붓더니 '초강수' [차이나 워치]",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EN3c4a3JUTHByMjNzUlNXYVh3U1Bkd3lUNUtRZXQtWldQLTFTV2FJSHVPbWFyQlhGdTlmcFJJTS1mcVo2RmJreTlQQTR2LXZuMzBz?oc=5",
+      "source": "news.nate.com",
+      "date": "Fri, 11 Sep 2026 02:54:00 GMT"
+    },
     {
       "title": "중국 과잉생산에 몸살 앓는 세계경제… 제2 ‘플라자 합의’ 목소리",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrdVlrTS1tUDFMbjh5RnNDcnZfV1cxUmwzSFZMSDN5WVR5Y2laQXBSM09pZEhtOEZMaWFfeEFFMHR4TUx4Z1Y1N0ZhdnBDOXJDNHpSREhGV19mQmUzd29vYVJZMFJMUQ?oc=5",
@@ -30,22 +42,16 @@
       "date": "Thu, 10 Sep 2026 08:07:16 GMT"
     },
     {
-      "title": "대전상의-중국 시안 무역촉진위, ‘경제·무역 교류 MOU’ 체결",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Jd0dTcmUwRVRpRVJuUTNqRXNETFJ4LUJndU9rZTFhRTB5VHh2VE82TEE2a2JqRzlVNjhjcDVlWklFY1NhVlUwa3FIMFlUMEtBQThPOFUza1BBVUJhNllSY2JJUXdOaDBlSEp5MXIwdElURFU?oc=5",
-      "source": "충남일보",
-      "date": "Thu, 10 Sep 2026 07:20:15 GMT"
-    },
-    {
-      "title": "中, '美와 갈등' 캐나다와 관계개선 속도…국방 이어 경협 확대",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKU0hNMV85M2VCandSWUNWald6dEhPMXdTUnNUdGtWQXRnQVZwY3Q0MFBRb2d0R1lsWkNWdVRMTkZiZE5VV2FOdE96aGZmTkp4cDJ3SVc0eG85aWhuQkg1QUdEWWZla2ZnckNfb2FnVjU5VWJM?oc=5",
-      "source": "koreancenter.or.kr",
-      "date": "Thu, 10 Sep 2026 06:41:37 GMT"
-    },
-    {
       "title": "\"中 성장 잠재력 여전히 높아… 경제 협력 확대할 때\"",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lc080ZkJaTWVTMmliTWw5T0dhQ1JqTGZLd0h1a0h6X2pScDE5ZkJKblRQbi1XaHpGLUpmdHVkNFp4SzRXT1lDWEUyTkRiT1FMZldCdlVrelRUaEllb1h4dFp2WlFPbWlqZFE?oc=5",
       "source": "경남매일",
       "date": "Wed, 09 Sep 2026 12:31:54 GMT"
+    },
+    {
+      "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Wed, 09 Sep 2026 07:00:00 GMT"
     },
     {
       "title": "﻿[연상모 칼럼] 주룽지 중국 전 총리의 사망과 중국 경제",
@@ -66,16 +72,10 @@
       "date": "Sun, 30 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "中, 자동차판매 -21%·부동산 투자 -19%…중국경제 '빨간불'",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iNTRtZUhiM3RVU2ZWWmZwNHk1RVBZME9uMnplbV91c3BMSjFlNm5WQUFqYjJ6cFpxMDVLOGc1VWhTdDJfSk1OY3VfVzNKRmp2aWc3XzZ3ZXJYQQ?oc=5",
-      "source": "한국경제",
-      "date": "Mon, 17 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52UVRRTTIyQW5udGJFTjhSbEhmTHc4Q2QyTHdTd1BWNzE5b0p0U0hWZk5LbmNjdUY5ZWh2MlBZaEczSnd3RVZGSlRfLXlrdU9HYTlfdmthLW01dTVn0gFiQVVfeXFMUDU0UmVDOFl4VUpZYzlneGtDWHJCX3luT1pfdFhKaGZENGxvWTRjRTZYNTltalJDYXVBUG9IV3I2Qy1IMGljUEdDV0k3d3JQbmVXV05QUzNZSWl5QkJPQk1jV0E?oc=5",
-      "source": "BBC",
-      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
+      "title": "위안화 강세·수출 호조세에도…중국 경제 속으로 곪고 있다 [주末머니]",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KR01QSmZ3c2hTaFF4MVBjcU54NDlKUnZnQTVUQjRua3hGT3J2eHVESkVCU2o0ZjF6NHpyR0tUMFZncHptLWNjWGtCYndscHV6QzBnRVNpRmE0SjFQSmhOeA?oc=5",
+      "source": "아시아경제",
+      "date": "Sat, 29 Aug 2026 07:00:00 GMT"
     }
   ]
 }
