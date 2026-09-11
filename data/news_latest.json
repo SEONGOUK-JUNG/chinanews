@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-11T07:20:04+09:00",
+  "run_at_kst": "2026-09-11T10:10:07+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,18 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "AI Boom to Boost Southeast Asia’s LNG Demand",
+      "link": "https://oilprice.com/Energy/Natural-Gas/AI-Boom-to-Boost-Southeast-Asias-LNG-Demand.html",
+      "source": "OilPrice",
+      "date": "Thu, 10 Sep 2026 19:00:00 -0500"
+    },
+    {
+      "title": "Why The United States’ Belated Critical Minerals Gambit Won’t Stop China",
+      "link": "https://oilprice.com/Metals/Commodities/Why-The-United-States-Belated-Critical-Minerals-Gambit-Wont-Stop-China.html",
+      "source": "OilPrice",
+      "date": "Thu, 10 Sep 2026 18:00:00 -0500"
+    },
     {
       "title": "Higher Oil Prices Let Mexico Pull Back Billions in Pemex Support",
       "link": "https://oilprice.com/Energy/Energy-General/Higher-Oil-Prices-Let-Mexico-Pull-Back-Billions-in-Pemex-Support.html",
@@ -50,12 +62,6 @@
       "date": "Thu, 10 Sep 2026 13:30:00 -0500"
     },
     {
-      "title": "Russian Mobilization Rumors Ripple Across Central Asia",
-      "link": "https://oilprice.com/Geopolitics/Asia/Russian-Mobilization-Rumors-Ripple-Across-Central-Asia.html",
-      "source": "OilPrice",
-      "date": "Thu, 10 Sep 2026 13:00:00 -0500"
-    },
-    {
       "title": "Platinum, palladium price forecasts cut by BMI as car sales shrink and South African supply recovers",
       "link": "https://www.mining.com/platinum-palladium-price-forecasts-cut-by-bmi-as-car-sales-shrink-and-south-african-supply-recovers/",
       "source": "mining.com",
@@ -66,12 +72,6 @@
       "link": "https://www.mining.com/coal-demand-to-rise-1-2-as-hormuz-closure-drives-gas-prices-iea/",
       "source": "mining.com",
       "date": "Thu, 10 Sep 2026 16:45:51 +0000"
-    },
-    {
-      "title": "U.S. Crude Inventories Fall As Brent Prices Soar",
-      "link": "https://oilprice.com/Energy/Crude-Oil/US-Crude-Inventories-Fall-As-Brent-Prices-Soar.html",
-      "source": "OilPrice",
-      "date": "Thu, 10 Sep 2026 11:14:00 -0500"
     },
     {
       "title": "Osisko hits 4.7% copper beneath Gaspé workings",
