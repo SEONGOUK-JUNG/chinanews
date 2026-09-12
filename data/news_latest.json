@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-12T10:10:05+09:00",
+  "run_at_kst": "2026-09-13T07:20:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Stolen Electricity is Powering Illegal Crypto Farms Across the Globe",
+      "link": "https://oilprice.com/Energy/Energy-General/Stolen-Electricity-is-Powering-Illegal-Crypto-Farms-Across-the-Globe.html",
+      "source": "OilPrice",
+      "date": "Sat, 12 Sep 2026 16:00:00 -0500"
+    },
+    {
+      "title": "The Race to Solve Nuclear Energy’s Biggest Problem",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-Race-to-Solve-Nuclear-Energys-Biggest-Problem.html",
+      "source": "OilPrice",
+      "date": "Sat, 12 Sep 2026 14:00:00 -0500"
+    },
+    {
+      "title": "Iran’s Security Crackdown Runs Into Resistance From Within",
+      "link": "https://oilprice.com/Energy/Energy-General/Irans-Security-Crackdown-Runs-Into-Resistance-From-Within.html",
+      "source": "OilPrice",
+      "date": "Sat, 12 Sep 2026 12:00:00 -0500"
+    },
+    {
+      "title": "Why More Homes Are Switching From Gas to Heat Pumps",
+      "link": "https://oilprice.com/Energy/Energy-General/Why-More-Homes-Are-Switching-From-Gas-to-Heat-Pumps.html",
+      "source": "OilPrice",
+      "date": "Sat, 12 Sep 2026 10:00:00 -0500"
+    },
     {
       "title": "US Department of Energy grants $73M to advance domestic mining technology",
       "link": "https://www.mining.com/us-department-of-energy-grants-73m-to-advance-domestic-mining-technology/",
@@ -56,34 +80,10 @@
       "date": "Fri, 11 Sep 2026 13:00:00 -0500"
     },
     {
-      "title": "U.S. Oil Rig Count Rises as Oil Tops $100",
-      "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Rig-Count-Rises-as-Oil-Tops-100.html",
-      "source": "OilPrice",
-      "date": "Fri, 11 Sep 2026 12:19:17 -0500"
-    },
-    {
-      "title": "Drone Strikes Hit Saudi Arabia’s Vital East-West Oil Pipeline",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Drone-Strikes-Hit-Saudi-Arabias-Vital-East-West-Oil-Pipeline.html",
-      "source": "OilPrice",
-      "date": "Fri, 11 Sep 2026 12:04:36 -0500"
-    },
-    {
       "title": "Glencore, Mercuria compete for Venezuela aluminum smelter deal",
       "link": "https://www.mining.com/glencore-mercuria-compete-for-venezuela-aluminum-smelter-deal/",
       "source": "mining.com",
       "date": "Fri, 11 Sep 2026 16:50:53 +0000"
-    },
-    {
-      "title": "Saudi Arabia’s Critical Oil Bypass Comes Under Threat",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Saudi-Arabias-Critical-Oil-Bypass-Comes-Under-Threat.html",
-      "source": "OilPrice",
-      "date": "Fri, 11 Sep 2026 11:05:00 -0500"
-    },
-    {
-      "title": "Supertanker Rates Hit $800,000 a Day as Gulf Tensions Escalate",
-      "link": "https://oilprice.com/Energy/Energy-General/Supertanker-Rates-Hit-800000-a-Day-as-Gulf-Tensions-Escalate.html",
-      "source": "OilPrice",
-      "date": "Fri, 11 Sep 2026 11:00:00 -0500"
     },
     {
       "title": "Talon scraps plan to build North Dakota mill for Tamarack",
