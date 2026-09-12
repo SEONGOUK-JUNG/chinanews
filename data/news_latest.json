@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-12T07:20:05+09:00",
+  "run_at_kst": "2026-09-12T10:10:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,18 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "US Department of Energy grants $73M to advance domestic mining technology",
+      "link": "https://www.mining.com/us-department-of-energy-grants-73m-to-advance-domestic-mining-technology/",
+      "source": "mining.com",
+      "date": "Fri, 11 Sep 2026 23:46:11 +0000"
+    },
+    {
+      "title": "Mining leads Canadian Prime Minister’s C$1T investor pitchbook",
+      "link": "https://www.mining.com/mining-leads-canadian-prime-ministers-c1t-investor-pitchbook/",
+      "source": "mining.com",
+      "date": "Fri, 11 Sep 2026 23:25:00 +0000"
+    },
     {
       "title": "Site visit: Cyclic Materials opens commercial-scale rare earth recycling plant in Arizona",
       "link": "https://www.mining.com/site-visit-cyclic-materials-opens-commercial-scale-rare-earth-recycling-plant-in-arizona/",
@@ -32,7 +44,7 @@
       "date": "Fri, 11 Sep 2026 15:00:00 -0500"
     },
     {
-      "title": "USA Rare Earth breaks ground at $1.2B rare earth magnet manufacturing facility in South Carolina",
+      "title": "USA Rare Earth breaks ground at $1.2B magnet manufacturing facility in South Carolina",
       "link": "https://www.mining.com/usa-rare-earth-breaks-ground-at-1-2b-rare-earth-magnet-manufacturing-facility-in-south-carolina/",
       "source": "mining.com",
       "date": "Fri, 11 Sep 2026 18:07:15 +0000"
@@ -78,18 +90,6 @@
       "link": "https://www.mining.com/talon-scraps-plan-to-build-north-dakota-mill-for-tamarack/",
       "source": "mining.com",
       "date": "Fri, 11 Sep 2026 15:12:18 +0000"
-    },
-    {
-      "title": "EU scrutiny of Anglo-MMG nickel deal tests China stance",
-      "link": "https://www.mining.com/eu-scrutiny-of-anglo-mmg-nickel-deal-tests-china-stance/",
-      "source": "mining.com",
-      "date": "Fri, 11 Sep 2026 15:07:00 +0000"
-    },
-    {
-      "title": "Gemfields emerald auction brings $29.6M reprieve",
-      "link": "https://www.mining.com/gemfields-emerald-auction-brings-29-6m-reprieve/",
-      "source": "mining.com",
-      "date": "Fri, 11 Sep 2026 10:51:00 +0000"
     }
   ]
 }

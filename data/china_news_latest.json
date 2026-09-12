@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-12T07:20:05+09:00",
+  "run_at_kst": "2026-09-12T10:10:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -12,27 +12,27 @@
       "date": "Fri, 11 Sep 2026 20:30:00 GMT"
     },
     {
+      "title": "“유럽 경제 이미 중국에 먹혔다”… IFA에서 발견한 3대 시그널",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmdnFYT1l4RmtsMVpCVUNGamlwU0w4ZnBuZWZva2lmNm1VWHdBaEM2NDVHbnY3RUdVcDRpYml3cjhpclBtYTBOZXJ5cklGUnl2?oc=5",
+      "source": "The Miilk",
+      "date": "Fri, 11 Sep 2026 18:46:00 GMT"
+    },
+    {
       "title": "RI-중국 경제 협상 기구 역량 강화 협력",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9zNl8yeTJCSzlWcHgyXzhIS0ZoelJ6MUpKM092Vm1RSWtjTTI3U3VjNEVHTWctVlM0MnVCYVprVzBGd9IBQkFVX3lxTE9zNl8yeTJCSzlWcHgyXzhIS0ZoelJ6MUpKM092Vm1RSWtjTTI3U3VjNEVHTWctVlM0MnVCYVprVzBGdw?oc=5",
       "source": "VOI.ID",
       "date": "Fri, 11 Sep 2026 17:04:13 GMT"
     },
     {
-      "title": "\"배터리 그만 만들어\"…중국, 89조 쏟아붓더니 '초강수' [차이나 워치]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3ZnB5Y0k5WVhSN1lVUTR0V1BqNmVLM0NndkljcnJxbGI3OFByS0hfLWlsNDRmSnlpVldwWWI0V1VMU2hMX01xbXh6WTU5LXVxbWJQZW9TTDhudw?oc=5",
-      "source": "한국경제",
-      "date": "Fri, 11 Sep 2026 02:53:02 GMT"
-    },
-    {
       "title": "중국 과잉생산에 몸살 앓는 세계경제… 제2 ‘플라자 합의’ 목소리",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsRDZCRFczRm9VRUdxc0ZodExpSGhwQTh1SmthNW9yS3RrVWw4WmhESVdibHUteVhRLVEwRlNnSkJSUjQzNC1yczVZOGJxZGc?oc=5",
-      "source": "v.daum.net",
-      "date": "Thu, 10 Sep 2026 22:02:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrdVlrTS1tUDFMbjh5RnNDcnZfV1cxUmwzSFZMSDN5WVR5Y2laQXBSM09pZEhtOEZMaWFfeEFFMHR4TUx4Z1Y1N0ZhdnBDOXJDNHpSREhGV19mQmUzd29vYVJZMFJMUQ?oc=5",
+      "source": "주간동아",
+      "date": "Thu, 10 Sep 2026 22:00:01 GMT"
     },
     {
       "title": "[안보칼럼] 북한의 對중국 경제 종속에 따른 구조적 취약성과 한반도 안보에 미치는 영향",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zcGRxOEtsWk1pZzRTQzVpdXB6Y2Q1NHh6eW96V2huRnc2dHl5UnhOUTJ1bVk3bzItNy1aSTkycGNLdE5CakJ4dTFzRnNhaF9WazZxSTdzc1R2UnE0bS1SUg?oc=5",
-      "source": "코나스넷",
+      "source": "konas.net",
       "date": "Thu, 10 Sep 2026 08:07:16 GMT"
     },
     {
@@ -48,12 +48,6 @@
       "date": "Tue, 08 Sep 2026 22:24:40 GMT"
     },
     {
-      "title": "중국경제원탁회의 \"中, 혁신 역량 가장 빠르게 향상되는 국가 중 하나\"-Xinhua",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wMktUeU1LZWhRUnJoSEt2UWhGOG9NWlBPWjdVRG1PV3dJRDg1d1ViTXU5YjdYMkk1SlY3cXdIdWJQQUR1Y3pjUVhWNzdLMjZkZy1PdEdCUFl5NlVKejNKT1hrVGdqeG95TEtnc20tTHhYRWRmWmc?oc=5",
-      "source": "신화망",
-      "date": "Sun, 06 Sep 2026 03:00:06 GMT"
-    },
-    {
       "title": "\"다음 글로벌 경제위기는 중국에서 시작될 것\" - 머니투데이",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43aFF3cEtoOTBMZzlLYWtiMFlHMmNwQ0pzdEpqMm8zZS1jNDJLUmdLSFJRS0VNSl9FeDNUZ1NYcTRTdGJUUHQ4RDZqYXVsX2dvMlR5S1BaWUlXc1Y2V3ZmaG1GUzNpeUdP0gFuQVVfeXFMT1V6X0g4TkV6Rk05ek9yZlZiVnYwTHNZTGY3M0RNT1RSVjVNVWd2Mi1rVWxJSlB2c0RfajFIdDFoUXJoUW9tcWVaU3dBaGRaWXM4aXo1VWgyaGJqTHA4VHJROUFvcW44Q092QUtHTEE?oc=5",
       "source": "머니투데이",
@@ -64,6 +58,12 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KR01QSmZ3c2hTaFF4MVBjcU54NDlKUnZnQTVUQjRua3hGT3J2eHVESkVCU2o0ZjF6NHpyR0tUMFZncHptLWNjWGtCYndscHV6QzBnRVNpRmE0SjFQSmhOeA?oc=5",
       "source": "아시아경제",
       "date": "Sat, 29 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "中, 자동차판매 -21%·부동산 투자 -19%…중국경제 '빨간불'",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iNTRtZUhiM3RVU2ZWWmZwNHk1RVBZME9uMnplbV91c3BMSjFlNm5WQUFqYjJ6cFpxMDVLOGc1VWhTdDJfSk1OY3VfVzNKRmp2aWc3XzZ3ZXJYQQ?oc=5",
+      "source": "한국경제",
+      "date": "Mon, 17 Aug 2026 07:00:00 GMT"
     },
     {
       "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
