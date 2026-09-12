@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-12T10:10:05+09:00",
+  "run_at_kst": "2026-09-12T14:10:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -7,7 +7,7 @@
   "items": [
     {
       "title": "시진핑 방미에 중국 IT·항공우주·전기차 CEO 동행 추진",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKYXpPeVRGYmxaTzVhNnJ3d21fR2RWMTRkRzhBQ0Z0QmNBMHc3Y1YzMnM2NXE2NzA3NGNUT3lLcjdndWhuRXdwN3M3QmY3RmdIbVE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKYXpPeVRGYmxaTzVhNnJ3d21fR2RWMTRkRzhBQ0Z0QmNBMHc3Y1YzMnM2NXE2NzA3NGNUT3lLcjdndWhuRXdwN3M3QmY3RmdIbVHSAVNBVV95cUxQaEFtcnpCaU9nS1JHM3BqSndyMmVZT2NldEhfMXVrT3h2ZjA4bVNYeWd2QmJxWFlMeFljdEtsOVRBTEZYMVhVOElObURsWlc4WUZjNA?oc=5",
       "source": "서울경제",
       "date": "Fri, 11 Sep 2026 20:30:00 GMT"
     },
@@ -32,8 +32,14 @@
     {
       "title": "[안보칼럼] 북한의 對중국 경제 종속에 따른 구조적 취약성과 한반도 안보에 미치는 영향",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zcGRxOEtsWk1pZzRTQzVpdXB6Y2Q1NHh6eW96V2huRnc2dHl5UnhOUTJ1bVk3bzItNy1aSTkycGNLdE5CakJ4dTFzRnNhaF9WazZxSTdzc1R2UnE0bS1SUg?oc=5",
-      "source": "konas.net",
+      "source": "코나스넷",
       "date": "Thu, 10 Sep 2026 08:07:16 GMT"
+    },
+    {
+      "title": "\"中 성장 잠재력 여전히 높아… 경제 협력 확대할 때\"",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lc080ZkJaTWVTMmliTWw5T0dhQ1JqTGZLd0h1a0h6X2pScDE5ZkJKblRQbi1XaHpGLUpmdHVkNFp4SzRXT1lDWEUyTkRiT1FMZldCdlVrelRUaEllb1h4dFp2WlFPbWlqZFE?oc=5",
+      "source": "경남매일",
+      "date": "Wed, 09 Sep 2026 12:31:54 GMT"
     },
     {
       "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
@@ -46,6 +52,12 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GRENjNnZvTXNZbm9KeWpRaEI1U1BkUlB6c29lbHY4aGhDUXY2T1l1OTdobmNQdy1UMHhOd0hFdy1VUlJOcVNYeWl3UTF6Z2hIRVlUVDdyNU9rV3JqamJETHI4eV9NQ05kbXFv0gFvQVVfeXFMT3V3RkFpd3hlY1NTVTYzNWNZalhMNUVCVGNUQVd5MkJZTE83Ymp3T3BLRWdxRFlOQXBhUi1HSlB6VFIyYmpRN2lyNGFRRzY4SG1Sanl2QWxGUTNHMEhJd3lGUTBnWVhwR29mckNtYzZZ?oc=5",
       "source": "펜앤마이크",
       "date": "Tue, 08 Sep 2026 22:24:40 GMT"
+    },
+    {
+      "title": "중국경제원탁회의 \"中, 혁신 역량 가장 빠르게 향상되는 국가 중 하나\"-Xinhua",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wMktUeU1LZWhRUnJoSEt2UWhGOG9NWlBPWjdVRG1PV3dJRDg1d1ViTXU5YjdYMkk1SlY3cXdIdWJQQUR1Y3pjUVhWNzdLMjZkZy1PdEdCUFl5NlVKejNKT1hrVGdqeG95TEtnc20tTHhYRWRmWmc?oc=5",
+      "source": "신화망",
+      "date": "Sun, 06 Sep 2026 03:00:06 GMT"
     },
     {
       "title": "\"다음 글로벌 경제위기는 중국에서 시작될 것\" - 머니투데이",
@@ -64,18 +76,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iNTRtZUhiM3RVU2ZWWmZwNHk1RVBZME9uMnplbV91c3BMSjFlNm5WQUFqYjJ6cFpxMDVLOGc1VWhTdDJfSk1OY3VfVzNKRmp2aWc3XzZ3ZXJYQQ?oc=5",
       "source": "한국경제",
       "date": "Mon, 17 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52UVRRTTIyQW5udGJFTjhSbEhmTHc4Q2QyTHdTd1BWNzE5b0p0U0hWZk5LbmNjdUY5ZWh2MlBZaEczSnd3RVZGSlRfLXlrdU9HYTlfdmthLW01dTVn0gFiQVVfeXFMUDU0UmVDOFl4VUpZYzlneGtDWHJCX3luT1pfdFhKaGZENGxvWTRjRTZYNTltalJDYXVBUG9IV3I2Qy1IMGljUEdDV0k3d3JQbmVXV05QUzNZSWl5QkJPQk1jV0E?oc=5",
-      "source": "BBC",
-      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "경제는 ‘흔들’ 기술은 ‘질주’하는 중국의 딜레마, 실체는?",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZG1sWUFDY2l6bFoyeFBUdTdzUjgwU1o0clpaZm5hSk9QU0NvUE5uQWdaelg0OFhKNXI2dXk5VnNjSVE5R3lwMkpDMFFiRzc1LW9nYnVn?oc=5",
-      "source": "중앙일보",
-      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
     }
   ]
 }
