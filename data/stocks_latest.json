@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-12T07:00:12.886467+09:00",
+  "run_at_kst": "2026-09-14T07:00:17.054543+09:00",
   "sources": {
     "a_stocks": "AkShare (Eastmoney via 中国证监会)",
     "hk_us_kr": "Yahoo Finance (yfinance)"
@@ -657,7 +657,7 @@
       "id": "csi300",
       "name": "CSI 300",
       "type": "index",
-      "price": 4510.16,
+      "price": 4510.15,
       "prev_close": 4547.68,
       "change_pct": -0.83,
       "found": true

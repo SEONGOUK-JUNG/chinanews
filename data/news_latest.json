@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-13T10:10:05+09:00",
+  "run_at_kst": "2026-09-14T07:20:04+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Further Oil Price Spikes Could Rekindle Recession Fears",
+      "link": "https://oilprice.com/Energy/Oil-Prices/Further-Oil-Price-Spikes-Could-Rekindle-Recession-Fears.html",
+      "source": "OilPrice",
+      "date": "Sun, 13 Sep 2026 16:00:00 -0500"
+    },
+    {
+      "title": "U.S. Dams Could Unlock 15.2 Terawatt-Hours of Untapped Hydropower",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Dams-Could-Unlock-152-Terawatt-Hours-of-Untapped-Hydropower.html",
+      "source": "OilPrice",
+      "date": "Sun, 13 Sep 2026 14:00:00 -0500"
+    },
+    {
+      "title": "Trump’s Caucasus Trade Corridor Delayed Until 2027",
+      "link": "https://oilprice.com/Geopolitics/Asia/Trumps-Caucasus-Trade-Corridor-Delayed-Until-2027.html",
+      "source": "OilPrice",
+      "date": "Sun, 13 Sep 2026 12:00:00 -0500"
+    },
+    {
+      "title": "Investment in Canada’s mining sector to grow with global demand, BMO",
+      "link": "https://www.mining.com/investment-in-canadas-mining-sector-to-grow-with-global-demand-bmo/",
+      "source": "mining.com",
+      "date": "Sun, 13 Sep 2026 15:08:50 +0000"
+    },
+    {
+      "title": "UK Wind Power Hits Record High as Energy Security Risks Mount",
+      "link": "https://oilprice.com/Energy/Energy-General/UK-Wind-Power-Hits-Record-High-as-Energy-Security-Risks-Mount.html",
+      "source": "OilPrice",
+      "date": "Sun, 13 Sep 2026 10:00:00 -0500"
+    },
     {
       "title": "Oil Industry Braces for Years-Long Iran War",
       "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Industry-Braces-for-Years-Long-Iran-War.html",
@@ -32,12 +62,6 @@
       "date": "Sat, 12 Sep 2026 12:00:00 -0500"
     },
     {
-      "title": "Why More Homes Are Switching From Gas to Heat Pumps",
-      "link": "https://oilprice.com/Energy/Energy-General/Why-More-Homes-Are-Switching-From-Gas-to-Heat-Pumps.html",
-      "source": "OilPrice",
-      "date": "Sat, 12 Sep 2026 10:00:00 -0500"
-    },
-    {
       "title": "US Department of Energy grants $73M to advance domestic mining technology",
       "link": "https://www.mining.com/us-department-of-energy-grants-73m-to-advance-domestic-mining-technology/",
       "source": "mining.com",
@@ -56,24 +80,6 @@
       "date": "Fri, 11 Sep 2026 22:04:40 +0000"
     },
     {
-      "title": "Europe's \"Less\" Is Doing More Than Anyone Gives It Credit For",
-      "link": "https://oilprice.com/Energy/Energy-General/Europes-Less-Is-Doing-More-Than-Anyone-Gives-It-Credit-For.html",
-      "source": "OilPrice",
-      "date": "Fri, 11 Sep 2026 17:00:00 -0500"
-    },
-    {
-      "title": "White House Weighs Defense Production Act as U.S. Refineries Maxed Out",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/White-House-Weighs-Defense-Production-Act-as-US-Refineries-Maxed-Out.html",
-      "source": "OilPrice",
-      "date": "Fri, 11 Sep 2026 15:21:04 -0500"
-    },
-    {
-      "title": "Trump's Grid Battery Ban Leaves Developers Guessing",
-      "link": "https://oilprice.com/Energy/Energy-General/Trumps-Grid-Battery-Ban-Leaves-Developers-Guessing.html",
-      "source": "OilPrice",
-      "date": "Fri, 11 Sep 2026 15:00:00 -0500"
-    },
-    {
       "title": "USA Rare Earth breaks ground at $1.2B magnet manufacturing facility in South Carolina",
       "link": "https://www.mining.com/usa-rare-earth-breaks-ground-at-1-2b-rare-earth-magnet-manufacturing-facility-in-south-carolina/",
       "source": "mining.com",
@@ -84,12 +90,6 @@
       "link": "https://www.mining.com/glencore-mercuria-compete-for-venezuela-aluminum-smelter-deal/",
       "source": "mining.com",
       "date": "Fri, 11 Sep 2026 16:50:53 +0000"
-    },
-    {
-      "title": "Talon scraps plan to build North Dakota mill for Tamarack",
-      "link": "https://www.mining.com/talon-scraps-plan-to-build-north-dakota-mill-for-tamarack/",
-      "source": "mining.com",
-      "date": "Fri, 11 Sep 2026 15:12:18 +0000"
     }
   ]
 }
