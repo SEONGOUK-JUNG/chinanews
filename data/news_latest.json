@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-13T07:20:05+09:00",
+  "run_at_kst": "2026-09-13T10:10:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Oil Industry Braces for Years-Long Iran War",
+      "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Industry-Braces-for-Years-Long-Iran-War.html",
+      "source": "OilPrice",
+      "date": "Sat, 12 Sep 2026 18:00:00 -0500"
+    },
     {
       "title": "Stolen Electricity is Powering Illegal Crypto Farms Across the Globe",
       "link": "https://oilprice.com/Energy/Energy-General/Stolen-Electricity-is-Powering-Illegal-Crypto-Farms-Across-the-Globe.html",
@@ -72,12 +78,6 @@
       "link": "https://www.mining.com/usa-rare-earth-breaks-ground-at-1-2b-rare-earth-magnet-manufacturing-facility-in-south-carolina/",
       "source": "mining.com",
       "date": "Fri, 11 Sep 2026 18:07:15 +0000"
-    },
-    {
-      "title": "UK Interest Rates Could Rise Four Times Over the Next Year",
-      "link": "https://oilprice.com/Energy/Energy-General/UK-Interest-Rates-Could-Rise-Four-Times-Over-the-Next-Year.html",
-      "source": "OilPrice",
-      "date": "Fri, 11 Sep 2026 13:00:00 -0500"
     },
     {
       "title": "Glencore, Mercuria compete for Venezuela aluminum smelter deal",

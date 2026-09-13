@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-13T07:20:05+09:00",
+  "run_at_kst": "2026-09-13T10:10:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -36,6 +36,12 @@
       "date": "Thu, 10 Sep 2026 07:00:00 GMT"
     },
     {
+      "title": "\"中 성장 잠재력 여전히 높아… 경제 협력 확대할 때\"",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lc080ZkJaTWVTMmliTWw5T0dhQ1JqTGZLd0h1a0h6X2pScDE5ZkJKblRQbi1XaHpGLUpmdHVkNFp4SzRXT1lDWEUyTkRiT1FMZldCdlVrelRUaEllb1h4dFp2WlFPbWlqZFE?oc=5",
+      "source": "경남매일",
+      "date": "Wed, 09 Sep 2026 12:31:54 GMT"
+    },
+    {
       "title": "﻿[연상모 칼럼] 주룽지 중국 전 총리의 사망과 중국 경제",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GRENjNnZvTXNZbm9KeWpRaEI1U1BkUlB6c29lbHY4aGhDUXY2T1l1OTdobmNQdy1UMHhOd0hFdy1VUlJOcVNYeWl3UTF6Z2hIRVlUVDdyNU9rV3JqamJETHI4eV9NQ05kbXFv0gFvQVVfeXFMT3V3RkFpd3hlY1NTVTYzNWNZalhMNUVCVGNUQVd5MkJZTE83Ymp3T3BLRWdxRFlOQXBhUi1HSlB6VFIyYmpRN2lyNGFRRzY4SG1Sanl2QWxGUTNHMEhJd3lGUTBnWVhwR29mckNtYzZZ?oc=5",
       "source": "펜앤마이크",
@@ -52,12 +58,6 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iUzdjLTdLdUdwM2FxSHhOY2E3RXlXclJ2ZTZnNy1VTTdGOUJuVWtMNXpQVHRkci1UOWoxZ0tLdmpGLTZKNU85R0Z6dHY2WmFxVnNCZVNMS1FxZ1HSAWBBVV95cUxQMml6X19UbTM3MThMZkk1WjJZWGtOY0h6UXMzY1NHLTZYRVZQcTZfM25rYkNzQ0x5d0hlTUJUcjl0YXZWRExiMW1SUW51RVNYbW1rVnVxdlVDRk1rbW96MVI?oc=5",
       "source": "yna.co.kr",
       "date": "Fri, 04 Sep 2026 12:01:44 GMT"
-    },
-    {
-      "title": "중국 경제개혁 이끈 주룽지 전 총리 별세",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10S3Z6UmtmUDByeWU4c2w2UmNSLWJ6NHZfbUpRQXR6ckx0T0F2bjFaeW9DVlYzTTFIRmdJRUcyaWpGbUpfeGtWTUpQdUJPUklNTUxQV0cxVlNQWEk0RWx3VkJEQm5yVWtTMDlDd0VB?oc=5",
-      "source": "yonhapmidas.com",
-      "date": "Fri, 04 Sep 2026 07:57:31 GMT"
     },
     {
       "title": "[유상철의 중국 읽기] 얼음과 불…두 얼굴의 중국 경제",
