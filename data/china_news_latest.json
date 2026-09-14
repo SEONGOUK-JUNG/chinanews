@@ -1,10 +1,22 @@
 {
-  "run_at_kst": "2026-09-14T20:10:09+09:00",
+  "run_at_kst": "2026-09-15T07:20:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "“중국이 한국산 안 사도 되는 게 위험”…K소부장 경고음 [中반도체 공습]",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NWll2U3NZVGxvRWc2ejUwaVVVYjdUeXFzVW5kOFE3NndWb1RxNkFyTFY1ekZneUdoSXNQcHg1c2NsVVJEYjVyRUNmVEcwRVU?oc=5",
+      "source": "v.daum.net",
+      "date": "Mon, 14 Sep 2026 20:02:00 GMT"
+    },
+    {
+      "title": "선진국도 배우러 간다…‘가성비’ 껍질 벗은 중국의 무서운 반격 [中반도체 공습]",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hQTdZbl9vbWMtMmp5QmF3bDRXUnpjV2w2ZHo3Q1NBME9WZkNoLXlyNDRoc0RfT28zSU9FaHJmUGhxaGlBa0VJbXNYQUtZOUxpV3Z3aExR?oc=5",
+      "source": "중앙일보",
+      "date": "Mon, 14 Sep 2026 20:00:01 GMT"
+    },
     {
       "title": "“시진핑 4연임 의문 없다…큰 과제는 경제” 중국 전 정책참모 전망",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPdXU4dVUtLWtmeVJtd0owdDVUS1hNZVF4TVE5ZlE0Tmh0Y2ltZ2hPMHpzUzRGakM2WEhIRFp1TlRrMXROSjdTeC1NNjR3WkdwTkxKbnRmVmxJTTVMbDFnWDZlWWNfTUN2UXFDbw?oc=5",
@@ -12,28 +24,10 @@
       "date": "Mon, 14 Sep 2026 07:04:00 GMT"
     },
     {
-      "title": "KIC중국, 서울대와 맞손...중국 진출 적극 모색키로",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1LW5ISmNid2ZHMXV6NnpKOXZHVFZ3ZkZLejBtSmNQM1FIZzZsTkxtSzR4OW1kRTI4bGxEVFJWY2RlZ1NxUGRzcG5uYS0ydkY1YUJLT3BTaGkxQdIBWEFVX3lxTE92UU14WTltTm84WURoZmNmRGVpU2NUcUc2YTltcHQzclhyS1lVdUVsdlBkTjhhT0tpeERpWEZybXpUeTB6UTU3ZjVJZXdUbW43NmFTZi11SEY?oc=5",
-      "source": "아주경제",
-      "date": "Mon, 14 Sep 2026 05:19:28 GMT"
-    },
-    {
-      "title": "[경제+] 中 대형은행, 채권 투자 확대...수익원 다변화 공간 넓힌다-Xinhua",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01bVFNS3h1dXdUb0ZlRnhPWk5IMHNCREhPOVFoZTZPRUdhOW5ZdjN6MjFuV2J3T3FBd3BzLUE4X3EwTHBhcjBPNE5mS3Nlc1ZDREJsMWRmUVlWWlpCVFRxWHc3clllQzljaks0UTMwTGxvYmF2UXc?oc=5",
-      "source": "신화망",
-      "date": "Mon, 14 Sep 2026 02:05:15 GMT"
-    },
-    {
       "title": "AI 시대 준비, 중국 전력기업 출신 잇단 발탁",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wRUVmdWVIbDMzSE1PUEJNcnlzLTNYUjJHU19ScTFNLTBHek5ob01hMFZDU04xc1NQNmxNcDgtUk5RQ2xkZkVZTlJPejdkUkV5eDhzYXpYSlcxd9IBWEFVX3lxTE9NSG40Skx6Q1Q1WFA2M05kZGE3STNnV0M4MjQ2UF80VUlQUFZadE81UGh0Mk90UFYyVlJIbzlMdzFTR3dMSkNaWWFZbEVVamhXMldUcm5BNFo?oc=5",
       "source": "아주경제",
       "date": "Mon, 14 Sep 2026 01:50:31 GMT"
-    },
-    {
-      "title": "“미국 규제 없었으면 중국산 HBM 쏟아졌을 것”…중국연구원의 분석",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzX3hnMUdXVlQtWDJLaE1mMTZIZ1k0YjZMTmtDaGlfM3JmV19FWWJCLTZpTXNqU3dfVDhmRFJobkVQZEN5aERuODdqcEplMlU?oc=5",
-      "source": "v.daum.net",
-      "date": "Mon, 14 Sep 2026 01:48:11 GMT"
     },
     {
       "title": "“미국 규제 없었으면 중국산 HBM 쏟아졌을 것”…중국연구원의 분석",
@@ -70,6 +64,12 @@
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLQmpPZkhYd0lnR0l2aXU4OGNyUmtfZFdVRk5BU3VRSTduNi1GVGRTbzVpU2RzWGdyMFhOdWtCb1p5WVFKYnFlWXhBcW9LQzl6Rmw1NjdCYWV3NDYtUUhSSFZRWjdTUHNt0gFuQVVfeXFMTW1DTTl2a1dDVDIxZ0pKR2ZWa19FLUZJRF95U1A2MU9hYzlGbTVfVW9ZN2NIS3dWUlYzanlpR2FwcVlQaGtUS0tBNjhtSWhvSWpFMVN6Vm9YYUNsRFVqTVFGb3ZVUUZxWjNOck91UVE?oc=5",
       "source": "머니투데이",
       "date": "Sat, 12 Sep 2026 21:00:00 GMT"
+    },
+    {
+      "title": "미국은 왜 중국을 막지 못하나 [조평규의 중국 본색]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvaDZRU1JsVzM3S2YzMzU1dnBPbzJRdVVLUzJqMXRCVFdVX1ctXzlWRnhZSjdJUU9rR1VvbHUwMi15b1hacHY3b1FaZmtsZnp2NGlVZTVEVkJvQQ?oc=5",
+      "source": "hankyung.com",
+      "date": "Sat, 12 Sep 2026 06:31:00 GMT"
     },
     {
       "title": "중국 과잉생산에 몸살 앓는 세계경제… 제2 ‘플라자 합의’ 목소리",
