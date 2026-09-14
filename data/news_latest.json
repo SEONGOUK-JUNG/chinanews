@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-14T10:10:05+09:00",
+  "run_at_kst": "2026-09-14T14:10:06+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Oil Prices Surge as Middle East Attacks Continue and Diplomacy Stumbles",
+      "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Surge-as-Middle-East-Attacks-Continue-and-Diplomacy-Stumbles.html",
+      "source": "OilPrice",
+      "date": "Sun, 13 Sep 2026 21:39:17 -0500"
+    },
     {
       "title": "StanChart Warns Oil Is Now Built for Sharper, More Frequent Spikes",
       "link": "https://oilprice.com/Energy/Oil-Prices/StanChart-Warns-Oil-Is-Now-Built-for-Sharper-More-Frequent-Spikes.html",
@@ -54,12 +60,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/Stolen-Electricity-is-Powering-Illegal-Crypto-Farms-Across-the-Globe.html",
       "source": "OilPrice",
       "date": "Sat, 12 Sep 2026 16:00:00 -0500"
-    },
-    {
-      "title": "The Race to Solve Nuclear Energy’s Biggest Problem",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-Race-to-Solve-Nuclear-Energys-Biggest-Problem.html",
-      "source": "OilPrice",
-      "date": "Sat, 12 Sep 2026 14:00:00 -0500"
     },
     {
       "title": "US Department of Energy grants $73M to advance domestic mining technology",
