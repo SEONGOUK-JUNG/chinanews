@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-14T14:10:06+09:00",
+  "run_at_kst": "2026-09-14T20:10:09+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Asian Refiners Seek Answers After Saudi Pipeline Shutdown",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Asian-Refiners-Seek-Answers-After-Saudi-Pipeline-Shutdown.html",
+      "source": "OilPrice",
+      "date": "Mon, 14 Sep 2026 05:30:00 -0500"
+    },
+    {
+      "title": "Middle East Oil Routes Under Pressure as Hormuz Traffic Tumbles",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Middle-East-Oil-Routes-Under-Pressure-as-Hormuz-Traffic-Tumbles.html",
+      "source": "OilPrice",
+      "date": "Mon, 14 Sep 2026 04:15:00 -0500"
+    },
+    {
+      "title": "Soaring Oil Prices Put Fed on Track for September Rate Hike",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Soaring-Oil-Prices-Put-Fed-on-Track-for-September-Rate-Hike.html",
+      "source": "OilPrice",
+      "date": "Mon, 14 Sep 2026 03:00:00 -0500"
+    },
+    {
+      "title": "Oman Energy Minister Says Middle East Needs to Diversify LNG Export Routes",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oman-Energy-Minister-Says-Middle-East-Needs-to-Diversify-LNG-Export-Routes.html",
+      "source": "OilPrice",
+      "date": "Mon, 14 Sep 2026 02:00:00 -0500"
+    },
+    {
+      "title": "Brent Hits $108 as Saudi Pipeline Shutdown Deepens Supply Fears",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Hits-108-as-Saudi-Pipeline-Shutdown-Deepens-Supply-Fears.html",
+      "source": "OilPrice",
+      "date": "Mon, 14 Sep 2026 00:37:04 -0500"
+    },
     {
       "title": "Oil Prices Surge as Middle East Attacks Continue and Diplomacy Stumbles",
       "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Surge-as-Middle-East-Attacks-Continue-and-Diplomacy-Stumbles.html",
@@ -26,40 +56,10 @@
       "date": "Sun, 13 Sep 2026 16:00:00 -0500"
     },
     {
-      "title": "U.S. Dams Could Unlock 15.2 Terawatt-Hours of Untapped Hydropower",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Dams-Could-Unlock-152-Terawatt-Hours-of-Untapped-Hydropower.html",
-      "source": "OilPrice",
-      "date": "Sun, 13 Sep 2026 14:00:00 -0500"
-    },
-    {
-      "title": "Trump’s Caucasus Trade Corridor Delayed Until 2027",
-      "link": "https://oilprice.com/Geopolitics/Asia/Trumps-Caucasus-Trade-Corridor-Delayed-Until-2027.html",
-      "source": "OilPrice",
-      "date": "Sun, 13 Sep 2026 12:00:00 -0500"
-    },
-    {
       "title": "Investment in Canada’s mining sector to grow with global demand, BMO",
       "link": "https://www.mining.com/investment-in-canadas-mining-sector-to-grow-with-global-demand-bmo/",
       "source": "mining.com",
       "date": "Sun, 13 Sep 2026 15:08:50 +0000"
-    },
-    {
-      "title": "UK Wind Power Hits Record High as Energy Security Risks Mount",
-      "link": "https://oilprice.com/Energy/Energy-General/UK-Wind-Power-Hits-Record-High-as-Energy-Security-Risks-Mount.html",
-      "source": "OilPrice",
-      "date": "Sun, 13 Sep 2026 10:00:00 -0500"
-    },
-    {
-      "title": "Oil Industry Braces for Years-Long Iran War",
-      "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Industry-Braces-for-Years-Long-Iran-War.html",
-      "source": "OilPrice",
-      "date": "Sat, 12 Sep 2026 18:00:00 -0500"
-    },
-    {
-      "title": "Stolen Electricity is Powering Illegal Crypto Farms Across the Globe",
-      "link": "https://oilprice.com/Energy/Energy-General/Stolen-Electricity-is-Powering-Illegal-Crypto-Farms-Across-the-Globe.html",
-      "source": "OilPrice",
-      "date": "Sat, 12 Sep 2026 16:00:00 -0500"
     },
     {
       "title": "US Department of Energy grants $73M to advance domestic mining technology",

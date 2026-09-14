@@ -1,15 +1,21 @@
 {
-  "run_at_kst": "2026-09-14T14:10:06+09:00",
+  "run_at_kst": "2026-09-14T20:10:09+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "납품하고도 돈 못 받는 중국 기업들, 회수기간 두배",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84ajF6OGNzSWdWS2t4NjJtUXFlZFBKNFhLS1QyV05GbjBBaWY2TzZZQi05b2xvbnVmNWVncUFlRTJtT3BMbkxYaWdUc1JBeGc?oc=5",
-      "source": "v.daum.net",
-      "date": "Mon, 14 Sep 2026 02:11:00 GMT"
+      "title": "“시진핑 4연임 의문 없다…큰 과제는 경제” 중국 전 정책참모 전망",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPdXU4dVUtLWtmeVJtd0owdDVUS1hNZVF4TVE5ZlE0Tmh0Y2ltZ2hPMHpzUzRGakM2WEhIRFp1TlRrMXROSjdTeC1NNjR3WkdwTkxKbnRmVmxJTTVMbDFnWDZlWWNfTUN2UXFDbw?oc=5",
+      "source": "한겨레",
+      "date": "Mon, 14 Sep 2026 07:04:00 GMT"
+    },
+    {
+      "title": "KIC중국, 서울대와 맞손...중국 진출 적극 모색키로",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1LW5ISmNid2ZHMXV6NnpKOXZHVFZ3ZkZLejBtSmNQM1FIZzZsTkxtSzR4OW1kRTI4bGxEVFJWY2RlZ1NxUGRzcG5uYS0ydkY1YUJLT3BTaGkxQdIBWEFVX3lxTE92UU14WTltTm84WURoZmNmRGVpU2NUcUc2YTltcHQzclhyS1lVdUVsdlBkTjhhT0tpeERpWEZybXpUeTB6UTU3ZjVJZXdUbW43NmFTZi11SEY?oc=5",
+      "source": "아주경제",
+      "date": "Mon, 14 Sep 2026 05:19:28 GMT"
     },
     {
       "title": "[경제+] 中 대형은행, 채권 투자 확대...수익원 다변화 공간 넓힌다-Xinhua",
@@ -27,19 +33,13 @@
       "title": "“미국 규제 없었으면 중국산 HBM 쏟아졌을 것”…중국연구원의 분석",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzX3hnMUdXVlQtWDJLaE1mMTZIZ1k0YjZMTmtDaGlfM3JmV19FWWJCLTZpTXNqU3dfVDhmRFJobkVQZEN5aERuODdqcEplMlU?oc=5",
       "source": "v.daum.net",
-      "date": "Mon, 14 Sep 2026 01:48:00 GMT"
+      "date": "Mon, 14 Sep 2026 01:48:11 GMT"
     },
     {
-      "title": "인천상의, 중국 랴오닝성과 경제 협력 확대",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRczBlaERsQXdNbFR6blJKX0JrVnBDVzU3Nkd6eU54b2pkYkNZUmU4ZE9NYVEtTFEydTZvYjhLZml6ejM3ektQNklDY1RBYU1qR3F4ZGFzUWYwbS1Sb19hU2xUdTbSAWhBVV95cUxNcDhndWpNYXBObVR4XzgxQ2g3WXkyeU1SMFN3bkVyVFRmWlJ4dWR0TV9WeEI1UE02b3o3S0V5Q05NR1UtSTI4QXpYRDVCcFFhVE1HbVJUc0sxNE5FbmxTdTY2ckpnN3E4Qg?oc=5",
-      "source": "경인방송 뉴스",
-      "date": "Mon, 14 Sep 2026 01:46:22 GMT"
-    },
-    {
-      "title": "인천상의, 중국 랴오닝성 찾아 경제·산업 교류 확대 논의",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92ZEwtamIyTDJDZGdRdlJscV9MNHlrQy1fZDdTZ1VtTTR1Vm8yZFdJQVVBZWE0WEs2bkpVeDlpNUdzbFAya3ZrVVFQZVJmZFZpR1gwNjFXaWgxMVE0N21kXzgwaGNlZEFqN3lBWQ?oc=5",
-      "source": "incheonin.com",
-      "date": "Sun, 13 Sep 2026 22:52:07 GMT"
+      "title": "“미국 규제 없었으면 중국산 HBM 쏟아졌을 것”…중국연구원의 분석",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ySXNsZkJUcmhFUldmUVRxSW1QS3k1ZlgxTFZ4R1IydnpTY0ZUM1Y4aFVwZ2hYeUtmcUl5WVJwOGNab1AzdkFELUpUbEpUaG1aNDdlcQ?oc=5",
+      "source": "매일경제",
+      "date": "Mon, 14 Sep 2026 01:47:47 GMT"
     },
     {
       "title": "\"한국, 골든타임은 3~5년…중국 양극화 속 찾아온 마지막 기회 살려야\"",
@@ -60,10 +60,10 @@
       "date": "Sun, 13 Sep 2026 06:32:42 GMT"
     },
     {
-      "title": "인천상공회의소, 중국 랴오닝성 찾아 경제협력 확대 모색",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpUE01RW5HdE5OclN0ZlFaVlVhN0x6UE5fN09DbmRyWExBNEh4Zm9qd3FjXzZTRFd2OF9QUzh1cHg0c0E2UmRrQkw5Sm1PV1hfZFlETlIxTkFTUlNpN3dNcGNOanhUa1BsdTRTaHNXSQ?oc=5",
-      "source": "joongboo.com",
-      "date": "Sun, 13 Sep 2026 04:03:00 GMT"
+      "title": "주문량 무려 9000% 폭증…2만원 들고 '우르르' 대륙 2030의 성취감 얻는 법[중국.zip]",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DTGNJUTdyemdac1BuSVRmYmdELTB5MFZtbVVkX3VJV3JWWUtCR1RDMWZkck9jV250Sklvd2NRbHpvU2k5b2pFR09KZ3pJOWM?oc=5",
+      "source": "v.daum.net",
+      "date": "Sat, 12 Sep 2026 22:52:40 GMT"
     },
     {
       "title": "글로벌 무역불균형 지속 불가능…\"세계 경제에서 중국이 가장 취약\" - 머니투데이",
