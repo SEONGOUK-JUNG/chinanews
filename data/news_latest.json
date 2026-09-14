@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-14T07:20:04+09:00",
+  "run_at_kst": "2026-09-14T10:10:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "StanChart Warns Oil Is Now Built for Sharper, More Frequent Spikes",
+      "link": "https://oilprice.com/Energy/Oil-Prices/StanChart-Warns-Oil-Is-Now-Built-for-Sharper-More-Frequent-Spikes.html",
+      "source": "OilPrice",
+      "date": "Sun, 13 Sep 2026 18:00:00 -0500"
+    },
     {
       "title": "Further Oil Price Spikes Could Rekindle Recession Fears",
       "link": "https://oilprice.com/Energy/Oil-Prices/Further-Oil-Price-Spikes-Could-Rekindle-Recession-Fears.html",
@@ -54,12 +60,6 @@
       "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-Race-to-Solve-Nuclear-Energys-Biggest-Problem.html",
       "source": "OilPrice",
       "date": "Sat, 12 Sep 2026 14:00:00 -0500"
-    },
-    {
-      "title": "Iran’s Security Crackdown Runs Into Resistance From Within",
-      "link": "https://oilprice.com/Energy/Energy-General/Irans-Security-Crackdown-Runs-Into-Resistance-From-Within.html",
-      "source": "OilPrice",
-      "date": "Sat, 12 Sep 2026 12:00:00 -0500"
     },
     {
       "title": "US Department of Energy grants $73M to advance domestic mining technology",
