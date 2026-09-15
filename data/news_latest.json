@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-15T14:10:11+09:00",
+  "run_at_kst": "2026-09-15T20:10:07+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Indonesia Eyes Guyana and Suriname Oil Investments for Energy Security",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indonesia-Eyes-Guyana-and-Suriname-Oil-Investments-for-Energy-Security.html",
+      "source": "OilPrice",
+      "date": "Tue, 15 Sep 2026 05:30:00 -0500"
+    },
+    {
+      "title": "UK Oil and Gas Group Says Earlier Tax Shift Could Raise £14.9 Billion",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/UK-Oil-and-Gas-Group-Says-Earlier-Tax-Shift-Could-Raise-149-Billion.html",
+      "source": "OilPrice",
+      "date": "Tue, 15 Sep 2026 04:30:00 -0500"
+    },
+    {
+      "title": "LNG Demand in China and India Could Surge When Prices Normalize",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/LNG-Demand-in-China-and-India-Could-Surge-When-Prices-Normalize.html",
+      "source": "OilPrice",
+      "date": "Tue, 15 Sep 2026 03:30:00 -0500"
+    },
+    {
+      "title": "Saudi Oil Pipeline Repairs Could Take Weeks After Drone Attack",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Oil-Pipeline-Repairs-Could-Take-Weeks-After-Drone-Attack.html",
+      "source": "OilPrice",
+      "date": "Tue, 15 Sep 2026 02:15:00 -0500"
+    },
+    {
+      "title": "Oil Prices Rise on Saudi Pipeline Outage and Rising Red Sea Risks",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rise-on-Saudi-Pipeline-Outage-and-Rising-Red-Sea-Risks.html",
+      "source": "OilPrice",
+      "date": "Tue, 15 Sep 2026 01:10:00 -0500"
+    },
     {
       "title": "Wealthy Investors Flock To Oil & Gas Assets Amid Energy Crisis",
       "link": "https://oilprice.com/Energy/Energy-General/Wealthy-Investors-Flock-To-Oil-Gas-Assets-Amid-Energy-Crisis.html",
@@ -30,36 +60,6 @@
       "link": "https://oilprice.com/Energy/Crude-Oil/Global-Fuel-Squeeze-Triggers-US-Refiners-Stocks-Rally.html",
       "source": "OilPrice",
       "date": "Mon, 14 Sep 2026 17:00:00 -0500"
-    },
-    {
-      "title": "New MIT Process Could Solve Hydrogen's Biggest Supply Chain Problem",
-      "link": "https://oilprice.com/Energy/Energy-General/New-MIT-Process-Could-Solve-Hydrogens-Biggest-Supply-Chain-Problem.html",
-      "source": "OilPrice",
-      "date": "Mon, 14 Sep 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Can Utilities Cash In on AI Without Making Consumers Pay?",
-      "link": "https://oilprice.com/Energy/Energy-General/Can-Utilities-Cash-In-on-AI-Without-Making-Consumers-Pay.html",
-      "source": "OilPrice",
-      "date": "Mon, 14 Sep 2026 15:00:00 -0500"
-    },
-    {
-      "title": "Saudi Arabia Discovers 110 Million Tonnes of Uranium-Bearing Ore",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Discovers-110-Million-Tonnes-of-Uranium-Bearing-Ore.html",
-      "source": "OilPrice",
-      "date": "Mon, 14 Sep 2026 15:00:00 -0500"
-    },
-    {
-      "title": "The Next Oil Shock Is Never the Last",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Next-Oil-Shock-Is-Never-the-Last.html",
-      "source": "OilPrice",
-      "date": "Mon, 14 Sep 2026 14:00:00 -0500"
-    },
-    {
-      "title": "China’s Growing Iran Trade Is Moving Overland Through Central Asia",
-      "link": "https://oilprice.com/Energy/Energy-General/Chinas-Growing-Iran-Trade-Is-Moving-Overland-Through-Central-Asia.html",
-      "source": "OilPrice",
-      "date": "Mon, 14 Sep 2026 13:00:00 -0500"
     },
     {
       "title": "Pentagon backs $150M Blue Moon tungsten restart",

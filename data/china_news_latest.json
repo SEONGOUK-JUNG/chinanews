@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-09-15T14:10:11+09:00",
+  "run_at_kst": "2026-09-15T20:10:07+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "경북도-중국 선전 경제교류 본격화...중국 대표단 경북 방문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHWXg2SUF1VnJPbmRudGYwX3ZJRy1RZFNYcUt2TDhqaGN3QlZPd2htNjdoQ01PRWNRdVVLNjgyWHJxN25NN1ZQemRmejJxdFVuOWVCRURrYWx2UQ?oc=5",
+      "source": "경북매일",
+      "date": "Tue, 15 Sep 2026 06:45:00 GMT"
+    },
     {
       "title": "중국, 8월 산업생산 호조…소비·투자는 부진",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04OENJME43SUpHN1VkSnVrX2lYSTZvcDkwMi14V291bzNVWV9ELTZhZl91QzN0LWt1c0tsR1BwVFdQVTB5WmRBa2tQRjJSdmM?oc=5",
@@ -13,7 +19,7 @@
     },
     {
       "title": "中 소비·투자 여전히 부진…경제 '외강내약' 구조 고착화 우려 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TM28xSXZ1WExWNG45WEwwY0hQZXdPNmZOVHVJejFpZzJLWHE1RVVlZy1sUGlQZ3FMYUFEeDNDOHB6bkRNeEMyTDdBT2dsOTNlVXVzVU1ZZXZjQl91RmVGR09XV0Nmbmlu0gFuQVVfeXFMTTBhVVRpX2JPWDg0WFI4dEpXSzZQTGlxcE1EM0licFh2OUg5cFJSb2lVNFdsM05iYVg5d01mcW9Jby1ZdlNxVmtOVWJRYVQ2QmpuRG9EWVNHTEs2RTlRekZDSGstTVBTdzhVV2c1eUE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wYVVUaV9iT1g4NFhSOHRKV0s2UExpcXBNRDNJYnBYdjlIOXBSUm9pVTRXbDNOYmFYOXdNZnFvSW8tWXZTcVZrTlViUWFUNkJqbkRvRFlTR0xLNkU5UXpGQ0hrLU1QU3c4VVdnNXlB0gFuQVVfeXFMTTBhVVRpX2JPWDg0WFI4dEpXSzZQTGlxcE1EM0licFh2OUg5cFJSb2lVNFdsM05iYVg5d01mcW9Jby1ZdlNxVmtOVWJRYVQ2QmpuRG9EWVNHTEs2RTlRekZDSGstTVBTdzhVV2c1eUE?oc=5",
       "source": "머니투데이",
       "date": "Tue, 15 Sep 2026 04:42:06 GMT"
     },
@@ -30,16 +36,10 @@
       "date": "Tue, 15 Sep 2026 04:20:57 GMT"
     },
     {
-      "title": "소비 0.4%·투자 -7.2%…中, 제조업만 나홀로 질주 [차이나 워치]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBST2NaUVY0MEktaUhHaGRBSTd2ZHJvQloxN3ZfZGltMFBfalVTM3dFakVhM05wVFQwa0xXdW0wVTFpaDlfaGlIUllmVVRXMVVCRWlPTGg3UWdYQQ?oc=5",
-      "source": "한국경제",
-      "date": "Tue, 15 Sep 2026 03:53:21 GMT"
-    },
-    {
-      "title": "중국 8월 산업생산, 예상치 상회하며 강세",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WNnF0bmVLSXBnWmliTWQyVGh2US1sT2RDWkxDeklNNXJESlBmU0pXX2NqVUdyZ1NtY3JVWHdxSXA3RG9zVVIzSEVnWU50dzQ4b2tIWVhTVnJyZUUzdzdqSmVKRGxnRjVUNTIxNE1xNi1yNms?oc=5",
-      "source": "Investing.com 한국어",
-      "date": "Tue, 15 Sep 2026 02:19:00 GMT"
+      "title": "수출 고공행진 중국, 극심한 내수침체 이어져",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PRzdsN0ktdUs0RUx1eG1hcTFKSVRIRmtOUUtENjhCM3BROVB3R2ZqLTliMXBWbjktSWJ4VlJ0SWY5aWp1c0lOTmRjX29UYzUwT2huT2NrNzQ5d9IBWEFVX3lxTFA4Tzk0Q1lmOW9zaXZNZFdoSFZUdERJQmFFVXAyejRhRVBSdmJFcDJFTEZtN0Q3OUd4TmMtRWpYQUdRTWNhT1VhVWVJaXVSOVhwTUg4NnRORGU?oc=5",
+      "source": "아주경제",
+      "date": "Tue, 15 Sep 2026 04:20:51 GMT"
     },
     {
       "title": "선진국도 배우러 간다…‘가성비’ 껍질 벗은 중국의 무서운 반격 [中반도체 공습]",
