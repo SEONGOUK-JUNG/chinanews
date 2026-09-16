@@ -1,21 +1,27 @@
 {
-  "run_at_kst": "2026-09-15T20:10:07+09:00",
+  "run_at_kst": "2026-09-16T10:10:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "\"부동산 투자 20% 급감·소비 0.4% 급랭\"… 中 내수 침체 심화에 3분기 성장 '먹구름'",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbTRrZjBTeFczOGJFLV8xU3Jha1RYZ0tSUHZDVnlNY3pwcHRDN0lLYUZVa2RwV2RkbkEzYkNNaTVQem5BNl8xN184MGVha1VEOFlGdFYwSDU4dWh1QmdlWFktSUwxZEFIY0NQU3hxcUtxVXpPRVhBR2x1dUpweHJ5UUVkd055QW1v?oc=5",
+      "source": "글로벌이코노믹",
+      "date": "Tue, 15 Sep 2026 20:45:00 GMT"
+    },
+    {
+      "title": "중국, 생산만 늘고 내수는 꽁꽁...8월 경제 불균형 왜 커졌나?",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ROFZVVHJ5ZFNVd2M0RkVzeUpyU0ZUZ0ZaUUhKRDlsbmQwVjQyQkxQUFdqME1Xd1BudVFZZE1FanFnRVRZTkFwMW1B?oc=5",
+      "source": "coinreaders.com",
+      "date": "Tue, 15 Sep 2026 09:20:00 GMT"
+    },
+    {
       "title": "경북도-중국 선전 경제교류 본격화...중국 대표단 경북 방문",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHWXg2SUF1VnJPbmRudGYwX3ZJRy1RZFNYcUt2TDhqaGN3QlZPd2htNjdoQ01PRWNRdVVLNjgyWHJxN25NN1ZQemRmejJxdFVuOWVCRURrYWx2UQ?oc=5",
       "source": "경북매일",
       "date": "Tue, 15 Sep 2026 06:45:00 GMT"
-    },
-    {
-      "title": "중국, 8월 산업생산 호조…소비·투자는 부진",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04OENJME43SUpHN1VkSnVrX2lYSTZvcDkwMi14V291bzNVWV9ELTZhZl91QzN0LWt1c0tsR1BwVFdQVTB5WmRBa2tQRjJSdmM?oc=5",
-      "source": "v.daum.net",
-      "date": "Tue, 15 Sep 2026 04:55:13 GMT"
     },
     {
       "title": "中 소비·투자 여전히 부진…경제 '외강내약' 구조 고착화 우려 - 머니투데이",
@@ -34,12 +40,6 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Sa19JSGtUWDB3amdDTWd1bVJWRndLaldXQlAybHo5LTNOYWNYNTdpYlVUbWRZa21hdmI3RFVoX2lMdFpNbzBqR05QX3hDc28?oc=5",
       "source": "v.daum.net",
       "date": "Tue, 15 Sep 2026 04:20:57 GMT"
-    },
-    {
-      "title": "수출 고공행진 중국, 극심한 내수침체 이어져",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PRzdsN0ktdUs0RUx1eG1hcTFKSVRIRmtOUUtENjhCM3BROVB3R2ZqLTliMXBWbjktSWJ4VlJ0SWY5aWp1c0lOTmRjX29UYzUwT2huT2NrNzQ5d9IBWEFVX3lxTFA4Tzk0Q1lmOW9zaXZNZFdoSFZUdERJQmFFVXAyejRhRVBSdmJFcDJFTEZtN0Q3OUd4TmMtRWpYQUdRTWNhT1VhVWVJaXVSOVhwTUg4NnRORGU?oc=5",
-      "source": "아주경제",
-      "date": "Tue, 15 Sep 2026 04:20:51 GMT"
     },
     {
       "title": "선진국도 배우러 간다…‘가성비’ 껍질 벗은 중국의 무서운 반격 [中반도체 공습]",
@@ -66,15 +66,15 @@
       "date": "Sun, 13 Sep 2026 23:03:50 GMT"
     },
     {
-      "title": "미국·중국 디커플링 시대…韓, 베트남을 ‘우회로’로 삼다",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUc0QzVnJXNEJuQ3Q5UGktZEluRk56NTZwUjE4YUdra0hQMGYySWtrbVFHcXoxUEVrLUtYaHRBTklQY3ZLUnVDM1FjTlNtNWhPci1yTw?oc=5",
-      "source": "매일경제",
-      "date": "Sun, 13 Sep 2026 06:32:42 GMT"
+      "title": "“중국 자본에 제주도 질식 위기”…독일 신문 왜 경고했나 [잇슈#태그]",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wS1l3RHRJUE5hdG1wd2VHNkJyTGhZMWU3Y3htdFZ4dU10Mi0zNVNnUE9weDVhb1VBLXpfVmdNVy1YNUVrdFpBcFlKRWNyVURDeks1eW5XckVTa0k?oc=5",
+      "source": "KBS 뉴스",
+      "date": "Sun, 13 Sep 2026 05:49:00 GMT"
     },
     {
       "title": "주문량 무려 9000% 폭증…2만원 들고 '우르르' 대륙 2030의 성취감 얻는 법[중국.zip]",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nLXpDUldOVklPSDlocll0Z2ZQRFp3bjFPNkRvUUNzOGoyVFd0ekdJRE5WRHhNMWQtVDFzbTlOTWh2bTRqVGFERk1seG9IZnRUMmVB?oc=5",
-      "source": "네이트",
+      "source": "Nate News",
       "date": "Sat, 12 Sep 2026 22:50:00 GMT"
     }
   ]
