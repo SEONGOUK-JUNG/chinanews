@@ -1,12 +1,24 @@
 {
-  "run_at_kst": "2026-09-16T10:10:05+09:00",
+  "run_at_kst": "2026-09-16T14:10:06+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "\"부동산 투자 20% 급감·소비 0.4% 급랭\"… 中 내수 침체 심화에 3분기 성장 '먹구름'",
+      "title": "미국이 금리 올리면 환율, 중국 공장 멈추면 수출…한국 경제 누가 움직이나",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BQUxOV3ViX2lCczg4ZzJNMTdxLTlEdUF0RTJYMVlDanBjRHNKMTY0bHdYWjREVVIwdkhwc2dCeUhjSmhWdGN6X0UwZTNKUnQxdmFBRmVianpCVjBlU3RFQm9sZko?oc=5",
+      "source": "베타뉴스",
+      "date": "Wed, 16 Sep 2026 03:16:48 GMT"
+    },
+    {
+      "title": "전남광주특별시, 중국서 전략산업 투자유치 나서",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwalc1R3REYXJlQ2QyLXh5QWg4aU5pQkthaWlISU1qSzRKTnVkdXRkR2ljYlFoaV9ncGs0X2lLOU42dE1TaTJFSFJoT2VqLU8yMXdHeF9iX25LY1FwTVJaQmFaOHowaEJGbEdPcWhiSHdNZ9IBdkFVX3lxTE0xZ0licWduVll0a1JqWjBtRkdKa0pXQ0dCRFl6Qm9yS1FFZmZ4aW5LV1VBREd3NHhVRDBVX295WGpIanluZ0lxSlVkalpoYlJEZV90a1dhSkNUZjR4UWZHbUstUm5Vd180OF9KVmJyXzRxVC1ldWc?oc=5",
+      "source": "LG헬로비전",
+      "date": "Wed, 16 Sep 2026 01:17:45 GMT"
+    },
+    {
+      "title": "\"부동산 투자 20% 급감·소비 0.4% 급랭\"… 中, 내수 침체 심화에 3분기 성장 '먹구름'",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbTRrZjBTeFczOGJFLV8xU3Jha1RYZ0tSUHZDVnlNY3pwcHRDN0lLYUZVa2RwV2RkbkEzYkNNaTVQem5BNl8xN184MGVha1VEOFlGdFYwSDU4dWh1QmdlWFktSUwxZEFIY0NQU3hxcUtxVXpPRVhBR2x1dUpweHJ5UUVkd055QW1v?oc=5",
       "source": "글로벌이코노믹",
       "date": "Tue, 15 Sep 2026 20:45:00 GMT"
@@ -14,7 +26,7 @@
     {
       "title": "중국, 생산만 늘고 내수는 꽁꽁...8월 경제 불균형 왜 커졌나?",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ROFZVVHJ5ZFNVd2M0RkVzeUpyU0ZUZ0ZaUUhKRDlsbmQwVjQyQkxQUFdqME1Xd1BudVFZZE1FanFnRVRZTkFwMW1B?oc=5",
-      "source": "coinreaders.com",
+      "source": "코인리더스",
       "date": "Tue, 15 Sep 2026 09:20:00 GMT"
     },
     {
@@ -22,12 +34,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHWXg2SUF1VnJPbmRudGYwX3ZJRy1RZFNYcUt2TDhqaGN3QlZPd2htNjdoQ01PRWNRdVVLNjgyWHJxN25NN1ZQemRmejJxdFVuOWVCRURrYWx2UQ?oc=5",
       "source": "경북매일",
       "date": "Tue, 15 Sep 2026 06:45:00 GMT"
-    },
-    {
-      "title": "中 소비·투자 여전히 부진…경제 '외강내약' 구조 고착화 우려 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wYVVUaV9iT1g4NFhSOHRKV0s2UExpcXBNRDNJYnBYdjlIOXBSUm9pVTRXbDNOYmFYOXdNZnFvSW8tWXZTcVZrTlViUWFUNkJqbkRvRFlTR0xLNkU5UXpGQ0hrLU1QU3c4VVdnNXlB0gFuQVVfeXFMTTBhVVRpX2JPWDg0WFI4dEpXSzZQTGlxcE1EM0licFh2OUg5cFJSb2lVNFdsM05iYVg5d01mcW9Jby1ZdlNxVmtOVWJRYVQ2QmpuRG9EWVNHTEs2RTlRekZDSGstTVBTdzhVV2c1eUE?oc=5",
-      "source": "머니투데이",
-      "date": "Tue, 15 Sep 2026 04:42:06 GMT"
     },
     {
       "title": "중국 8월 소비 0.4% 증가…산업생산과 소비·투자 불균형 계속",
@@ -54,12 +60,6 @@
       "date": "Mon, 14 Sep 2026 07:04:00 GMT"
     },
     {
-      "title": "“미국 규제 없었으면 중국산 HBM 쏟아졌을 것”…중국연구원의 분석",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ySXNsZkJUcmhFUldmUVRxSW1QS3k1ZlgxTFZ4R1IydnpTY0ZUM1Y4aFVwZ2hYeUtmcUl5WVJwOGNab1AzdkFELUpUbEpUaG1aNDdlcQ?oc=5",
-      "source": "매일경제",
-      "date": "Mon, 14 Sep 2026 01:47:47 GMT"
-    },
-    {
       "title": "“뉴 차이나 급성장, 한국 골든타임 3~5년 사이 끝날 것” 경고",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WSWs2Z2d1aGxWTHhCUW9mcnFsbjdaY3pQbFUwcWdqVTR1cWl3cm9fZmZkN3lwWjJzbEMyX0tKeGJpWkJQNE5DZC1KUmxEbmM?oc=5",
       "source": "v.daum.net",
@@ -72,10 +72,10 @@
       "date": "Sun, 13 Sep 2026 05:49:00 GMT"
     },
     {
-      "title": "주문량 무려 9000% 폭증…2만원 들고 '우르르' 대륙 2030의 성취감 얻는 법[중국.zip]",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nLXpDUldOVklPSDlocll0Z2ZQRFp3bjFPNkRvUUNzOGoyVFd0ekdJRE5WRHhNMWQtVDFzbTlOTWh2bTRqVGFERk1seG9IZnRUMmVB?oc=5",
-      "source": "Nate News",
-      "date": "Sat, 12 Sep 2026 22:50:00 GMT"
+      "title": "미국은 왜 중국을 막지 못하나 [조평규의 중국 본색]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvaDZRU1JsVzM3S2YzMzU1dnBPbzJRdVVLUzJqMXRCVFdVX1ctXzlWRnhZSjdJUU9rR1VvbHUwMi15b1hacHY3b1FaZmtsZnp2NGlVZTVEVkJvQQ?oc=5",
+      "source": "한국경제",
+      "date": "Sat, 12 Sep 2026 06:31:00 GMT"
     }
   ]
 }
