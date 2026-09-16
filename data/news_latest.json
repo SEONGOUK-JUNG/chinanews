@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-16T10:10:05+09:00",
+  "run_at_kst": "2026-09-16T20:10:06+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Saudi Arabia Pivots to Spot Oil Sales After Key Pipeline Goes Offline",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Pivots-to-Spot-Oil-Sales-After-Key-Pipeline-Goes-Offline.html",
+      "source": "OilPrice",
+      "date": "Wed, 16 Sep 2026 05:30:00 -0500"
+    },
+    {
+      "title": "Japanese Refiners Rush for Oman Crude After Saudi Pipeline Shutdown",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japanese-Refiners-Rush-for-Oman-Crude-After-Saudi-Pipeline-Shutdown.html",
+      "source": "OilPrice",
+      "date": "Wed, 16 Sep 2026 04:30:00 -0500"
+    },
+    {
+      "title": "Japan’s Oil Import Bill Soars 59% as Trade Deficit Deepens",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Oil-Import-Bill-Soars-59-as-Trade-Deficit-Deepens.html",
+      "source": "OilPrice",
+      "date": "Wed, 16 Sep 2026 03:15:00 -0500"
+    },
+    {
+      "title": "Hormuz Shipping Traffic Remains Stuck in Single Digits",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Shipping-Traffic-Remains-Stuck-in-Single-Digits.html",
+      "source": "OilPrice",
+      "date": "Wed, 16 Sep 2026 02:00:00 -0500"
+    },
+    {
+      "title": "China Could Curb Fuel Exports as Diesel and Gasoline Stocks Sink",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Could-Curb-Fuel-Exports-as-Diesel-and-Gasoline-Stocks-Sink.html",
+      "source": "OilPrice",
+      "date": "Wed, 16 Sep 2026 00:45:00 -0500"
+    },
     {
       "title": "Triton Uranium eyes 46.5 million pound resource at Atlas project in Saskatchewan",
       "link": "https://www.mining.com/triton-uranium-eyes-46-5-million-pound-resource-at-atlas-project-in-saskatchewan/",
@@ -38,18 +68,6 @@
       "date": "Tue, 15 Sep 2026 21:44:00 +0000"
     },
     {
-      "title": "U.S. Oil Inventories Jump as Cushing Stocks Keep Falling",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Oil-Inventories-Jump-as-Cushing-Stocks-Keep-Falling.html",
-      "source": "OilPrice",
-      "date": "Tue, 15 Sep 2026 16:01:48 -0500"
-    },
-    {
-      "title": "Sam Altman Is Selling Utilities the Cure for a Cyberattack His Own AI Helped Cau",
-      "link": "https://oilprice.com/Energy/Energy-General/Sam-Altman-Is-Selling-Utilities-the-Cure-for-a-Cyberattack-His-Own-AI-Helped-Cau.html",
-      "source": "OilPrice",
-      "date": "Tue, 15 Sep 2026 16:00:00 -0500"
-    },
-    {
       "title": "Green Manganese demonstrates single process critical metals recovery from polymetallic nodules",
       "link": "https://www.mining.com/green-manganese-demonstrates-single-process-critical-metals-recovery-from-polymetallic-nodules/",
       "source": "mining.com",
@@ -62,34 +80,16 @@
       "date": "Tue, 15 Sep 2026 20:09:00 +0000"
     },
     {
-      "title": "Texas Pumped Over a Quarter of All U.S. Natural Gas in 2025",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Texas-Pumped-Over-a-Quarter-of-All-US-Natural-Gas-in-2025.html",
-      "source": "OilPrice",
-      "date": "Tue, 15 Sep 2026 15:00:00 -0500"
-    },
-    {
       "title": "Sandvik advances cyber security for intelligent mining equipment",
       "link": "https://www.mining.com/sandvik-advances-cyber-security-for-intelligent-mining-equipment/",
       "source": "mining.com",
       "date": "Tue, 15 Sep 2026 18:59:00 +0000"
     },
     {
-      "title": "ADNOC Scoops Up Iraqi Crude at $25 Per Barrel Discount",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Scoops-Up-Iraqi-Crude-at-25-Per-Barrel-Discount.html",
-      "source": "OilPrice",
-      "date": "Tue, 15 Sep 2026 13:30:00 -0500"
-    },
-    {
       "title": "Agnico Eagle has no plans to join Barrick’s IPO",
       "link": "https://www.mining.com/agnico-eagle-has-no-plans-to-join-barricks-ipo/",
       "source": "mining.com",
       "date": "Tue, 15 Sep 2026 18:26:02 +0000"
-    },
-    {
-      "title": "The New ‘Mecca Alliance’ Warns Iran Over Houthi Attacks on Saudi Arabia",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/The-New-Mecca-Alliance-Warns-Iran-Over-Houthi-Attacks-on-Saudi-Arabia.html",
-      "source": "OilPrice",
-      "date": "Tue, 15 Sep 2026 13:00:00 -0500"
     }
   ]
 }

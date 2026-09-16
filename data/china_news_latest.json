@@ -1,21 +1,27 @@
 {
-  "run_at_kst": "2026-09-16T14:10:06+09:00",
+  "run_at_kst": "2026-09-16T20:10:06+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "미국이 금리 올리면 환율, 중국 공장 멈추면 수출…한국 경제 누가 움직이나",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BQUxOV3ViX2lCczg4ZzJNMTdxLTlEdUF0RTJYMVlDanBjRHNKMTY0bHdYWjREVVIwdkhwc2dCeUhjSmhWdGN6X0UwZTNKUnQxdmFBRmVianpCVjBlU3RFQm9sZko?oc=5",
-      "source": "베타뉴스",
-      "date": "Wed, 16 Sep 2026 03:16:48 GMT"
+      "title": "전병서 \"한중 함께 마이크로그리드 개발해야\"",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HWHREZGJVTGRRbVRuampjZHVvdXhKeTJoV3htb0YydkYtWDd5dWxtejUwbE5mb3RKU0oyVl9lbkFRODFodVB1UWsxNVRpRkE?oc=5",
+      "source": "v.daum.net",
+      "date": "Wed, 16 Sep 2026 06:33:21 GMT"
     },
     {
-      "title": "전남광주특별시, 중국서 전략산업 투자유치 나서",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwalc1R3REYXJlQ2QyLXh5QWg4aU5pQkthaWlISU1qSzRKTnVkdXRkR2ljYlFoaV9ncGs0X2lLOU42dE1TaTJFSFJoT2VqLU8yMXdHeF9iX25LY1FwTVJaQmFaOHowaEJGbEdPcWhiSHdNZ9IBdkFVX3lxTE0xZ0licWduVll0a1JqWjBtRkdKa0pXQ0dCRFl6Qm9yS1FFZmZ4aW5LV1VBREd3NHhVRDBVX295WGpIanluZ0lxSlVkalpoYlJEZV90a1dhSkNUZjR4UWZHbUstUm5Vd180OF9KVmJyXzRxVC1ldWc?oc=5",
-      "source": "LG헬로비전",
-      "date": "Wed, 16 Sep 2026 01:17:45 GMT"
+      "title": "제조AI·관광·투자… 경남도, 중국과 ‘경제영토’ 넓힌다",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vT21pQmk3Q1dYMm9VR1BFYS11OFhyd2FBanRvYVRQVmFTSmxtcFBTUmxrWTE1QnpqTG01Yzd0aEhPMXN4b1F0LVBzRHpuY09uamJISHV4MTI3YjltamhxSU1YajFBSmV1V21TZ1Fn0gFzQVVfeXFMT2FXbDRETGp3YXplS3dMc01VUWtOZEU0VUZMalh1djFiOEY4YVZlQ255dlBIa0J0OGtrbDR6TldjcnV1X2dwYTIzSmstcHE5OFdYUEhsdVU4YUVjODkxVF9Vc1dKWTRKOTJ6ajZNdkUxeVo5aw?oc=5",
+      "source": "한국일보",
+      "date": "Wed, 16 Sep 2026 06:09:00 GMT"
+    },
+    {
+      "title": "[한국경제] 백서인 교수, 중국 반도체 굴기 관련 코멘트",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ac0hqeWpaNU5LYWJWMVZ3dURESGdneDlyUlJvTjVfNnpLNzNKaFFMaWktb0JGeFFIZ0JuR0czbzVUYWlKdkJnd1lqRmg0U0RlZV8tbVdvNW5MYllnTEFqWjJPYVBQdk1KcXow?oc=5",
+      "source": "뉴스H",
+      "date": "Wed, 16 Sep 2026 05:55:45 GMT"
     },
     {
       "title": "\"부동산 투자 20% 급감·소비 0.4% 급랭\"… 中, 내수 침체 심화에 3분기 성장 '먹구름'",
@@ -36,12 +42,6 @@
       "date": "Tue, 15 Sep 2026 06:45:00 GMT"
     },
     {
-      "title": "중국 8월 소비 0.4% 증가…산업생산과 소비·투자 불균형 계속",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3SWNfa3UydDVQRG9lVmpLbENLNTk5ZkdnYU9SdmxmOWRyNWI3QVZhY0ZCaVRBdjFRc05HblRGelhYSEpCOHZEeFYzS0NJdWl3dGhGQzA4YWgzUdIBX0FVX3lxTE1QMVdyUjdZWEpLWUtKSlJhVUFHbV94NTlOMlJfY2o0ZVFyajRXS1RDSVpFemRKcVJyb2V3SXJla25OMW9OaEFoeS1tQUlGT1ZKeVFpMkxqRFcxX3JFUS1N?oc=5",
-      "source": "경향신문",
-      "date": "Tue, 15 Sep 2026 04:42:00 GMT"
-    },
-    {
       "title": "수출 고공행진 중국, 극심한 내수침체 이어져",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Sa19JSGtUWDB3amdDTWd1bVJWRndLaldXQlAybHo5LTNOYWNYNTdpYlVUbWRZa21hdmI3RFVoX2lMdFpNbzBqR05QX3hDc28?oc=5",
       "source": "v.daum.net",
@@ -56,7 +56,7 @@
     {
       "title": "“시진핑 4연임 의문 없다…큰 과제는 경제” 중국 전 정책참모 전망",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPdXU4dVUtLWtmeVJtd0owdDVUS1hNZVF4TVE5ZlE0Tmh0Y2ltZ2hPMHpzUzRGakM2WEhIRFp1TlRrMXROSjdTeC1NNjR3WkdwTkxKbnRmVmxJTTVMbDFnWDZlWWNfTUN2UXFDbw?oc=5",
-      "source": "한겨레",
+      "source": "hani.co.kr",
       "date": "Mon, 14 Sep 2026 07:04:00 GMT"
     },
     {

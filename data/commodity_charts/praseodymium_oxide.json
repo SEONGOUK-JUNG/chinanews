@@ -2,8 +2,8 @@
   "id": "praseodymium_oxide",
   "name": "산화프라세오디뮴",
   "unit": "CNY/t",
-  "updated_at_kst": "2026-09-15T20:10:26+09:00",
-  "count": 10,
+  "updated_at_kst": "2026-09-16T20:10:21+09:00",
+  "count": 11,
   "candles": [
     {
       "time": "2026-09-02",
@@ -44,6 +44,10 @@
     {
       "time": "2026-09-15",
       "value": 764101.25
+    },
+    {
+      "time": "2026-09-16",
+      "value": 759090.75
     }
   ],
   "adjustment_applied": true
