@@ -396,7 +396,7 @@ def breadcrumb_ld(lang, items):
     return {"@type": "BreadcrumbList", "itemListElement": lst}
 
 
-ORG_LD = {"@type": "Organization", "@id": "https://chinanews.kr/#org", "name": "BRIDGE GROUP", "alternateName": ["브릿지그룹", "ABridge Co., Ltd.", "㈜에이브릿지", "Ecobridge", "㈜에코브릿지", "DealBridge"], "url": "https://chinanews.kr/", "logo": "https://chinanews.kr/og-image.png", "description": "Korean trading group (Gwangju) supplying rare earths, gallium, germanium, terbium, tungsten, hafnium, yttrium, 5N/6N high-purity copper, semiconductor materials and Chinese semiconductor components direct from licensed Chinese producers; operator of the chinanews.kr China markets terminal.", "foundingLocation": {"@type": "Place", "name": "Gwangju, South Korea"}, "address": {"@type": "PostalAddress", "streetAddress": "21, Bunam-gil 26beon-gil, Buk-gu", "addressLocality": "Gwangju", "addressCountry": "KR"}, "telephone": "+82-1661-0400", "email": "koreagwangju@gmail.com", "contactPoint": [{"@type": "ContactPoint", "contactType": "sales", "telephone": "+82-1661-0400", "email": "koreagwangju@gmail.com", "areaServed": "Worldwide", "availableLanguage": ["ko", "en", "zh"]}], "areaServed": ["KR", "CN", "US", "EU", "JP", "TW", "SG", "VN", "IN"], "knowsAbout": ["rare earth oxides", "neodymium", "dysprosium", "terbium", "yttrium oxide", "gallium", "germanium", "tungsten", "hafnium", "high-purity copper 6N", "silicon carbide", "Chinese semiconductors", "China commodity spot prices"], "sameAs": ["http://www.abridge.co.kr/", "https://www.ecobridge.biz/", "https://dealbridge.asia/", "https://www.linkedin.com/company/109672150/"], "founder": {"@type": "Person", "name": "Seong Ouk Jung", "alternateName": ["SEONG OUK JUNG", "정성욱"], "jobTitle": "Founder & Chairman, BRIDGE GROUP", "worksFor": {"@id": "https://chinanews.kr/#org"}, "sameAs": ["https://www.linkedin.com/in/seong-ouk-jung-33996a2ba"]}}
+ORG_LD = {"@type": "Organization", "@id": "https://chinanews.kr/#org", "name": "BRIDGE GROUP", "alternateName": ["브릿지그룹", "ABridge Co., Ltd.", "㈜에이브릿지", "Ecobridge", "㈜에코브릿지", "DealBridge"], "url": "https://chinanews.kr/", "logo": "https://chinanews.kr/og-image.png", "description": "Korean trading group supplying rare earths, gallium, germanium, terbium, tungsten, hafnium, yttrium, 5N/6N high-purity copper, semiconductor materials and Chinese semiconductor components direct from licensed Chinese producers; operator of the chinanews.kr China markets terminal.", "foundingLocation": {"@type": "Place", "name": "Gwangju, South Korea"}, "address": {"@type": "PostalAddress", "streetAddress": "21, Bunam-gil 26beon-gil, Buk-gu", "addressLocality": "Gwangju", "addressCountry": "KR"}, "telephone": "+82-1661-0400", "email": "koreagwangju@gmail.com", "contactPoint": [{"@type": "ContactPoint", "contactType": "sales", "telephone": "+82-1661-0400", "email": "koreagwangju@gmail.com", "areaServed": "Worldwide", "availableLanguage": ["ko", "en", "zh"]}], "areaServed": ["KR", "CN", "US", "EU", "JP", "TW", "SG", "VN", "IN"], "knowsAbout": ["rare earth oxides", "neodymium", "dysprosium", "terbium", "yttrium oxide", "gallium", "germanium", "tungsten", "hafnium", "high-purity copper 6N", "silicon carbide", "Chinese semiconductors", "China commodity spot prices"], "sameAs": ["http://www.abridge.co.kr/", "https://www.ecobridge.biz/", "https://dealbridge.asia/", "https://www.linkedin.com/company/109672150/"], "founder": {"@type": "Person", "name": "Seong Ouk Jung", "alternateName": ["SEONG OUK JUNG", "정성욱"], "jobTitle": "Founder & Chairman, BRIDGE GROUP", "worksFor": {"@id": "https://chinanews.kr/#org"}, "sameAs": ["https://www.linkedin.com/in/seong-ouk-jung-33996a2ba"]}}
 
 
 def h2(lang, text):
@@ -1081,7 +1081,7 @@ SUP = {
            "f_company": "Company", "f_name": "Contact name", "f_email": "Email", "f_phone": "Phone / WhatsApp / WeChat", "f_country": "Country",
            "f_product": "Product", "f_qty": "Quantity & frequency", "f_spec": "Specification / purity / form", "f_msg": "Message (application, target price, delivery terms)",
            "f_send": "Send RFQ", "f_sending": "Sending…", "f_ok": "✓ RFQ received — we reply within one business day", "f_fail": "Failed — please email koreagwangju@gmail.com",
-           "f_note": "Replies go out from BRIDGE GROUP (Gwangju, Korea). No brokers' fees are charged to buyers; quotations are producer-backed.",
+           "f_note": "Replies go out from BRIDGE GROUP. No brokers' fees are charged to buyers; quotations are producer-backed.",
            "price_cols": ["Item", "Last (CNY)", "Change", "History"], "see": "chart →"},
     "ko": {"nav": "공급·견적", "crumb": "공급", "rfq": "견적 요청", "live": "중국 현물가 (터미널 연동)",
            "faq": "자주 묻는 질문", "compliance": "컴플라이언스·품질", "about": "공급사 소개",
@@ -1092,7 +1092,7 @@ SUP = {
            "f_company": "회사명", "f_name": "담당자", "f_email": "이메일", "f_phone": "전화 / 카카오톡 / 위챗", "f_country": "국가",
            "f_product": "품목", "f_qty": "수량·주기", "f_spec": "규격 / 순도 / 형태", "f_msg": "문의 내용 (용도, 목표가, 납품 조건)",
            "f_send": "견적 요청 보내기", "f_sending": "전송 중…", "f_ok": "✓ 접수됐습니다 — 1영업일 내 회신드립니다", "f_fail": "전송 실패 — koreagwangju@gmail.com 으로 보내주세요",
-           "f_note": "회신은 BRIDGE GROUP(광주)에서 드립니다. 바이어에게 중개수수료를 청구하지 않으며, 견적은 생산자 확인을 거칩니다.",
+           "f_note": "회신은 BRIDGE GROUP에서 드립니다. 바이어에게 중개수수료를 청구하지 않으며, 견적은 생산자 확인을 거칩니다.",
            "price_cols": ["품목", "당일가 (CNY)", "등락", "추이"], "see": "차트 →"},
 }
 WEB3FORMS_KEY = None
@@ -1261,11 +1261,11 @@ def render_supply_index(lang, pages, n_items, key, ref_date):
 ABOUT = {
     "en": {
         "title": "About BRIDGE GROUP — ABridge · Ecobridge · DealBridge | CHINANEWS",
-        "desc": "BRIDGE GROUP is a Korean trading group in Gwangju supplying rare earths, gallium, germanium, terbium, tungsten, hafnium, yttrium, 5N/6N copper, semiconductor materials and Chinese semiconductors direct from licensed Chinese producers, and operating the chinanews.kr China markets terminal.",
+        "desc": "BRIDGE GROUP is a Korean trading group supplying rare earths, gallium, germanium, terbium, tungsten, hafnium, yttrium, 5N/6N copper, semiconductor materials and Chinese semiconductors direct from licensed Chinese producers, and operating the chinanews.kr China markets terminal.",
         "h1": "About BRIDGE GROUP",
         "paras": [
-            "BRIDGE GROUP is the umbrella for three Korean trading companies based in Gwangju, South Korea: ABridge Co., Ltd. (strategic materials, semiconductor equipment and agricultural commodities), Ecobridge (petrochemicals, PE resins, PBAT/PLA biodegradable materials and industrial films) and DealBridge (semiconductor and critical-mineral brokerage). The group operates chinanews.kr, a bilingual China markets terminal.",
-            "ABridge holds a state-trading rice import quota under Korea's Korea Agro-Fisheries & Food Trade Corporation (aT) and, in June 2026, exported SiC focus-ring CVD furnace systems directly to a Chinese semiconductor equipment manufacturer (Heilongjiang Zhilian Semiconductor).",
+            "BRIDGE GROUP is the umbrella for three Korean trading companies: ABridge Co., Ltd. (strategic materials, semiconductor equipment and agricultural commodities), Ecobridge (petrochemicals, PE resins, PBAT/PLA biodegradable materials and industrial films) and DealBridge (semiconductor and critical-mineral brokerage). The group operates chinanews.kr, a bilingual China markets terminal.",
+            "ABridge holds a state-trading rice import quota under Korea's Korea Agro-Fisheries & Food Trade Corporation (aT) and, in June 2026, signed supply contracts for SiC focus-ring CVD furnace systems with a Chinese semiconductor equipment manufacturer (Heilongjiang Zhilian Semiconductor).",
             "Our supply business buys from refineries, fabs and authorised distributors in China and sells to manufacturers, research institutes and traders in Korea and abroad. Every enquiry is classified under Korea's strategic-items rules and screened against U.S., UN and EU sanctions lists before quotation; materials ship with producer certificates and samples are available for independent assay.",
         ],
         "facts_h": "Key facts",
@@ -1276,11 +1276,11 @@ ABOUT = {
     },
     "ko": {
         "title": "BRIDGE GROUP 소개 — 에이브릿지 · 에코브릿지 · 딜브릿지 | CHINANEWS",
-        "desc": "BRIDGE GROUP은 광주광역시의 무역그룹으로 허가받은 중국 생산자로부터 희토류·갈륨·게르마늄·테르븀·텅스텐·하프늄·이트륨·5N/6N 구리·반도체 소재·중국산 반도체를 직접 공급하고, 중국 시장 터미널 chinanews.kr를 운영합니다.",
+        "desc": "BRIDGE GROUP은 무역그룹으로 허가받은 중국 생산자로부터 희토류·갈륨·게르마늄·테르븀·텅스텐·하프늄·이트륨·5N/6N 구리·반도체 소재·중국산 반도체를 직접 공급하고, 중국 시장 터미널 chinanews.kr를 운영합니다.",
         "h1": "BRIDGE GROUP 소개",
         "paras": [
-            "BRIDGE GROUP은 광주광역시에 본사를 둔 세 무역법인의 통합 브랜드입니다: ㈜에이브릿지(전략소재·반도체 장비·농산물), ㈜에코브릿지(석유화학·PE 수지·PBAT/PLA 생분해 소재·산업용 필름), 딜브릿지(반도체·핵심광물 중개). 그룹은 한·영 중국 시장 터미널 chinanews.kr를 운영합니다.",
-            "㈜에이브릿지는 한국농수산식품유통공사(aT) 쌀 국영무역 수입 자격을 보유하며, 2026년 6월 SiC 포커스링 CVD 장비 시스템을 중국 반도체 장비사(흑룡강성 지련반도체)에 직접 수출했습니다.",
+            "BRIDGE GROUP은 세 무역법인의 통합 브랜드입니다: ㈜에이브릿지(전략소재·반도체 장비·농산물), ㈜에코브릿지(석유화학·PE 수지·PBAT/PLA 생분해 소재·산업용 필름), 딜브릿지(반도체·핵심광물 중개). 그룹은 한·영 중국 시장 터미널 chinanews.kr를 운영합니다.",
+            "㈜에이브릿지는 한국농수산식품유통공사(aT) 쌀 국영무역 수입 자격을 보유하며, 2026년 6월 SiC 포커스링 CVD 장비 시스템 공급계약을 중국 반도체 장비사(흑룡강성 지련반도체)와 체결했습니다.",
             "공급 사업은 중국의 정련소·팹·공인 대리점에서 매입해 국내외 제조사·연구기관·무역상에 판매합니다. 모든 문의는 견적 전에 전략물자 규정으로 판정하고 미국·UN·EU 제재 목록을 조회하며, 소재는 생산자 성적서와 함께 출하하고 제3자 분석용 샘플을 제공합니다.",
         ],
         "facts_h": "기본 정보",
