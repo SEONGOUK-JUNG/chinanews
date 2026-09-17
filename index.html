@@ -302,6 +302,7 @@
     .tb-tabs::-webkit-scrollbar{height:0}
     .tb-tab{height:32px;line-height:32px;padding:0 10px;font-size:12px;white-space:nowrap}
   }
+.cur-usd .usd-col{display:none}
 </style>
 <!-- Cloudflare Web Analytics -->
 <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "60582f662b3c4e8a821e4dec6018e061"}'></script>
@@ -336,6 +337,7 @@ window.CM_I18N = {names:{}, sectors:{}, categories:{}};
 function cmName(ko){ var L=window.CN_LANG||'en'; if(L==='ko') return (ko&&String(ko).trim())?ko:'(미상)'; if(!ko||!String(ko).trim()) return '(unnamed)'; return window.CM_I18N.names[ko]||ko; }
 function cmSector(ko){ var L=window.CN_LANG||'en'; if(L==='ko') return ko||''; return (window.CM_I18N.sectors[ko]!==undefined)?window.CM_I18N.sectors[ko]:(ko||''); }
 function usdEst(price,unit,ko){ if(price==null) return '\u2014'; if((unit&&String(unit).indexOf('USD')===0)||ko==='\uc6d0\uc720') return '$'+Number(price).toLocaleString(undefined,{maximumFractionDigits:2}); if(window.USD_CNY==null) return '\u2014'; return '$'+(price/window.USD_CNY).toLocaleString(undefined,{maximumFractionDigits:2}); }
+document.addEventListener('DOMContentLoaded', function(){ if(window.applyCurrency) applyCurrency(); });
 fetch('/data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json();}).then(function(j){ window.CM_I18N=j; if(window.loadCommodities) window.loadCommodities(); if(window.__applyLang) window.__applyLang(); }).catch(function(e){ console.warn('i18n load failed', e); });
 </script>
 
@@ -672,11 +674,11 @@ fetch('/data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json(
     <div class="panel" style="background:var(--bg);padding:10px 12px">
       <div class="panel-head">
         <div class="panel-title">Featured Commodities <span class="badge-live">REAL</span><span class="ts" id="cm-updated" style="margin-left:6px">Loading…</span></div>
-        <span style="display:flex;gap:12px;align-items:center"><span class="panel-actions" id="cm-csv-btn" style="cursor:pointer;color:var(--muted);font-weight:600;font-size:11px" title="Download all commodities as CSV">⤓ CSV</span><span class="panel-actions" id="cm-all-btn" style="cursor:pointer;color:var(--orange);font-weight:600">All 438 →</span></span>
+        <span style="display:flex;gap:12px;align-items:center"><span id="cm-cur-btn" style="cursor:pointer;font-size:11px;font-weight:700;color:var(--muted);border:1px solid var(--line-2);border-radius:2px;padding:2px 7px" title="Switch currency">CNY</span><span class="panel-actions" id="cm-csv-btn" style="cursor:pointer;color:var(--muted);font-weight:600;font-size:11px" title="Download all commodities as CSV">⤓ CSV</span><span class="panel-actions" id="cm-all-btn" style="cursor:pointer;color:var(--orange);font-weight:600">All 438 →</span></span>
       </div>
       <table class="dt">
         <thead>
-          <tr><th>Item</th><th>Sector</th><th id="cm-th-prev">Prev</th><th id="cm-th-today">Last</th><th>Unit</th><th>Chg%</th><th>USD</th></tr>
+          <tr><th>Item</th><th>Sector</th><th id="cm-th-prev">Prev</th><th id="cm-th-today">Last</th><th>Unit</th><th>Chg%</th><th class="usd-col">USD</th></tr>
         </thead>
         <tbody id="cm-featured-body">
           <tr><td colspan="6" style="color:var(--muted);font-style:italic;text-align:center;padding:14px 0">Loading…</td></tr>
@@ -886,7 +888,7 @@ fetch('/data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json(
         <div style="overflow:auto;flex:1;padding:0 16px 16px 16px">
           <table class="dt" style="width:100%">
             <thead style="position:sticky;top:0;background:var(--bg);z-index:1">
-              <tr><th>Item</th><th>Sector</th><th id="cm-th-prev-modal">Prev</th><th id="cm-th-today-modal">Last</th><th>Unit</th><th>Chg%</th><th>USD</th></tr>
+              <tr><th>Item</th><th>Sector</th><th id="cm-th-prev-modal">Prev</th><th id="cm-th-today-modal">Last</th><th>Unit</th><th>Chg%</th><th class="usd-col">USD</th></tr>
             </thead>
             <tbody id="cm-modal-body">
               <tr><td colspan="7" style="color:var(--muted);text-align:center;padding:14px 0">Loading…</td></tr>
@@ -1561,32 +1563,61 @@ function fmtPct(v){
   return '<span class="' + cls + '">' + arrow + ' ' + sign + v.toFixed(2) + '%</span>';
 }
 var _cmUnits = {};
+window.CM_CUR = 'CNY';
+try{ var _sv = localStorage.getItem('cn.cur'); if(_sv === 'USD' || _sv === 'CNY') window.CM_CUR = _sv; }catch(e){}
+function cmUnitRaw(item){ return item.unit || _cmUnits[item.display_name || item.name || ''] || ''; }
+function cmIsUsdSrc(item){ return cmUnitRaw(item).indexOf('USD') === 0 || (item.display_name || item.name) === '원유'; }
+function cmConv(v, item){
+  if(v === null || v === undefined) return null;
+  if(window.CM_CUR !== 'USD' || cmIsUsdSrc(item)) return v;
+  if(window.USD_CNY == null) return null;
+  return v / window.USD_CNY;
+}
+function cmUnitLabel(item){
+  var u = cmUnitRaw(item);
+  if(!u) return '';
+  if(window.CM_CUR === 'USD' && u.indexOf('CNY') === 0) return 'USD' + u.slice(3);
+  return u;
+}
+function applyCurrency(){
+  document.body.classList.toggle('cur-usd', window.CM_CUR === 'USD');
+  var b = document.getElementById('cm-cur-btn');
+  if(b){ b.textContent = window.CM_CUR; b.style.color = (window.CM_CUR === 'USD') ? 'var(--orange)' : 'var(--muted)'; }
+}
+document.addEventListener('click', function(e){
+  if(e.target && e.target.id === 'cm-cur-btn'){
+    window.CM_CUR = (window.CM_CUR === 'USD') ? 'CNY' : 'USD';
+    try{ localStorage.setItem('cn.cur', window.CM_CUR); }catch(err){}
+    applyCurrency();
+    if(window.loadCommodities) window.loadCommodities();
+  }
+});
 function cmMeasure(item){
-  var u = item.unit || _cmUnits[item.display_name || item.name || ''] || '';
+  var u = cmUnitRaw(item);
   var i = u.indexOf('/');
   return i < 0 ? '' : u.slice(i + 1);
 }
 function usdCell(item){
-  var v = usdEst(item.price_today, item.unit || _cmUnits[item.display_name || item.name || ''], item.display_name);
+  var v = usdEst(item.price_today, cmUnitRaw(item), item.display_name);
   var m = cmMeasure(item);
   return (v === '—' || !m) ? v : (v + '<span style="font-size:10px;color:var(--muted)">/' + m + '</span>');
 }
 function cmUnit(item){
-  var u = item.unit || _cmUnits[item.display_name || item.name || ''] || '';
+  var u = cmUnitLabel(item);
   return u ? '<span style="font-size:10px;color:var(--muted)">' + u + '</span>' : '<span style="color:var(--line-2)">—</span>';
 }
 function rowCommodity(item, featured){
-  const pp = fmtPrice(item.price_prev);
-  const pt = fmtPrice(item.price_today);
+  const pp = fmtPrice(cmConv(item.price_prev, item));
+  const pt = fmtPrice(cmConv(item.price_today, item));
   const pc = fmtPct(item.change_pct);
   const sector = item.sector || item.category || '';
   if(featured){
     // chart_id는 commodity_charts/{id}.json과 매핑
     const cid = item.chart_id || _DISPLAY_TO_CHART_ID[item.display_name] || '';
     const clickable = cid ? ' style="cursor:pointer" data-cm-id="' + cid + '" title="Click to load chart"' : '';
-    return '<tr' + clickable + ' data-cm-ko="' + (item.display_name||'') + '" data-cm-unit="' + (item.unit||'CNY/t') + '"><td>' + cmName(item.display_name) + '</td><td>' + cmSector(item.sector||item.category||'') + '</td><td>' + pp + '</td><td>' + pt + '</td><td>' + cmUnit(item) + '</td><td>' + pc + '</td><td>' + usdCell(item) + '</td></tr>';
+    return '<tr' + clickable + ' data-cm-ko="' + (item.display_name||'') + '" data-cm-unit="' + (item.unit||'CNY/t') + '"><td>' + cmName(item.display_name) + '</td><td>' + cmSector(item.sector||item.category||'') + '</td><td>' + pp + '</td><td>' + pt + '</td><td>' + cmUnit(item) + '</td><td>' + pc + '</td><td class="usd-col">' + usdCell(item) + '</td></tr>';
   } else {
-    return '<tr style="cursor:pointer" data-cm-ko="' + (item.display_name||item.name||'') + '" data-cm-unit="' + (item.unit||'CNY/t') + '"><td>' + cmName(item.display_name||item.name) + '</td><td>' + cmSector(item.sector||'') + '</td><td>' + pp + '</td><td>' + pt + '</td><td>' + cmUnit(item) + '</td><td>' + pc + '</td><td>' + usdCell(item) + '</td></tr>';
+    return '<tr style="cursor:pointer" data-cm-ko="' + (item.display_name||item.name||'') + '" data-cm-unit="' + (item.unit||'CNY/t') + '"><td>' + cmName(item.display_name||item.name) + '</td><td>' + cmSector(item.sector||'') + '</td><td>' + pp + '</td><td>' + pt + '</td><td>' + cmUnit(item) + '</td><td>' + pc + '</td><td class="usd-col">' + usdCell(item) + '</td></tr>';
   }
 }
 // 16종 display_name → chart_id 매핑
