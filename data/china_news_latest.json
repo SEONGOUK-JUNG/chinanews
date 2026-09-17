@@ -1,21 +1,45 @@
 {
-  "run_at_kst": "2026-09-17T07:20:05+09:00",
+  "run_at_kst": "2026-09-17T14:10:16+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "글로벌 국채 수익률 상승세 속 중국만 예외···“중국 경제는 독자적 흐름”",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPZllJZENoSk1kd2l3b1doWFZqemdKX2lUZkFNODExRXdvMEhyZXZ4dk9HazdfancxUEhvR2FkdE1TVExJY2YzN2VpTHZMV2Y0NVd5czBoRUlndXZJamtYQUkwd2hJZEktSktnaEdsSm9JZnBHS0FBLVBpbTM2UG1vX0tLc2ZtM21OeDd0YWhmOUROczdvMGxsOVl5bzRjLUc0c2tDUDJ1NEhmT1dyMFdOSkk5N0R4NFg1Y3h3eHdOQjgzbUJ2bjF0VFlJdmRJaEhlZGNGSFpuSDd1bk92YnpTVDNyOXBVbkZUbFRmVWMwcTc4dG96V0lKbzRHM0FxSktudmlFS0Z3NVpEWENlVHpyVDBLTUFmX1EycmJmOUhTbGwycFJpRElrUWZVOHA3WVc5Ym1MaFp1MDJ3bnM?oc=5",
+      "source": "Benzinga",
+      "date": "Thu, 17 Sep 2026 04:30:00 GMT"
+    },
+    {
+      "title": "홍성군, 중국 후난성 경제무역 컨벤션 참가",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVdzFLMnJRdmNlTUxFS1VneHBBMC0wMkNKWHY5WGFBZlZYLVFMWWhwU2VmTWhBU3NLT2h2bXdzWkFpdjY1T3dheXFoeDQxcGlqZ3phd1p4NlZNU2s1VHdDaHpHQzBtMDV6SEhmbFNLNkgtQkU?oc=5",
+      "source": "충남일보",
+      "date": "Thu, 17 Sep 2026 02:32:56 GMT"
+    },
+    {
+      "title": "홍성군, 중국 후난성 경제무역 컨벤션 참가…지역기업 수출 지원",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnSVl5X1BodE01blhBMXdqV01qR1czQ0hid3VRZ1g4N0E3cEdrcG0yaHM3bzZEUTczS2UyWExlUm4tZDZsQnNYcEhDVjYydlVwTFlDa1dtUjc3Qk8yWEF2Y3JMVHhxekk5NjRZ?oc=5",
+      "source": "메가충청뉴스",
+      "date": "Thu, 17 Sep 2026 02:21:54 GMT"
+    },
+    {
+      "title": "\"시진핑, 방미 경제사절단에 왕촨푸 BYD 회장 포함 검토\"",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MQVNsRXBNdm1HYnVFNm0xOTlCWE5mUi0tZFN6TlY3UFZaZUQzSTNjZGFEcmdzb29OTTlGNm1pRnNaUTJIU2t1R21ZLXlWVGJTbkxDTFlrUWpLZGo4?oc=5",
+      "source": "뉴스핌",
+      "date": "Thu, 17 Sep 2026 01:51:00 GMT"
+    },
+    {
+      "title": "'AI 위협론', 미국과 중국의 입장은 어떻게 다른가",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91YnZ3a0xOc090V1lQQk94eDhrUXFldEJ3U25RWllaVlQ4SXJ3bGZ6ZTN1TVdldG9sbkNlaG1kUTg3SndCemc0WDNBN1htRmM?oc=5",
+      "source": "v.daum.net",
+      "date": "Wed, 16 Sep 2026 22:57:49 GMT"
+    },
+    {
       "title": "공산당도 열지 못한 14억의 지갑… 중국 경제 4대 착시의 종말",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNay0tVHJZc3ZCZ2hkM2Z5aTFiTWpyNzhmcnZ2TmNYa1dJUklyNENPU3duWGkxbmtsbW00MlUwMHk3UExwVHVyRDJRcGlXS3BXSWlvTGFMVzRmYlpWVjVhOVNEdU9zVjVTbnJXU1BvZVU3ODlSTkMtWEVucTRTNkdpdjlhZnBwVEh0?oc=5",
       "source": "조선일보",
       "date": "Wed, 16 Sep 2026 18:00:00 GMT"
-    },
-    {
-      "title": "박완수 경남도지사, “중국과 경제협력 확대, AI·관광 등 성장동력 확보”",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tdDdPU0E2M00xVm51cFA5X1BsNGt5WFJTd2JCUFJERUV5d0NTeFcxS3h5MzVyWmVlNDFqV19oZDc1X0s3UWJTdTVSUHZRSTB1UF95Z1hnbmZaUFZnbkhWTnN1Ul9fMFNhZmhGdnFyckvSAXRBVV95cUxQemphYWRKRWEyVU5mTnpaNzZ1MkM2TmJxelhqNUNRTWg2aHVWa3VjNkdUbVdkNWlEZExyN1BlZVZwMGpuWHB0MUFCTk9nMjU0alpJay1XOHN3aTAzYjgtOVBLWmJzTzhwWlE3QkNvQmtoQ0JtSQ?oc=5",
-      "source": "이뉴스투데이",
-      "date": "Wed, 16 Sep 2026 10:50:00 GMT"
     },
     {
       "title": "‘제조AI·관광·투자’ 경남도, 중국과 경제협력 넓힌다",
@@ -24,28 +48,10 @@
       "date": "Wed, 16 Sep 2026 08:54:19 GMT"
     },
     {
-      "title": "전병서 \"한중 함께 마이크로그리드 개발해야\"",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HWHREZGJVTGRRbVRuampjZHVvdXhKeTJoV3htb0YydkYtWDd5dWxtejUwbE5mb3RKU0oyVl9lbkFRODFodVB1UWsxNVRpRkE?oc=5",
-      "source": "v.daum.net",
-      "date": "Wed, 16 Sep 2026 06:33:21 GMT"
-    },
-    {
       "title": "제조AI·관광·투자… 경남도, 중국과 ‘경제영토’ 넓힌다",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vT21pQmk3Q1dYMm9VR1BFYS11OFhyd2FBanRvYVRQVmFTSmxtcFBTUmxrWTE1QnpqTG01Yzd0aEhPMXN4b1F0LVBzRHpuY09uamJISHV4MTI3YjltamhxSU1YajFBSmV1V21TZ1Fn0gFzQVVfeXFMT2FXbDRETGp3YXplS3dMc01VUWtOZEU0VUZMalh1djFiOEY4YVZlQ255dlBIa0J0OGtrbDR6TldjcnV1X2dwYTIzSmstcHE5OFdYUEhsdVU4YUVjODkxVF9Vc1dKWTRKOTJ6ajZNdkUxeVo5aw?oc=5",
       "source": "한국일보",
       "date": "Wed, 16 Sep 2026 06:09:00 GMT"
-    },
-    {
-      "title": "[한국경제] 백서인 교수, 중국 반도체 굴기 관련 코멘트",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ac0hqeWpaNU5LYWJWMVZ3dURESGdneDlyUlJvTjVfNnpLNzNKaFFMaWktb0JGeFFIZ0JuR0czbzVUYWlKdkJnd1lqRmg0U0RlZV8tbVdvNW5MYllnTEFqWjJPYVBQdk1KcXow?oc=5",
-      "source": "뉴스H",
-      "date": "Wed, 16 Sep 2026 05:55:45 GMT"
-    },
-    {
-      "title": "경북도-중국 선전 경제교류 본격화...중국 대표단 경북 방문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHWXg2SUF1VnJPbmRudGYwX3ZJRy1RZFNYcUt2TDhqaGN3QlZPd2htNjdoQ01PRWNRdVVLNjgyWHJxN25NN1ZQemRmejJxdFVuOWVCRURrYWx2UQ?oc=5",
-      "source": "경북매일",
-      "date": "Tue, 15 Sep 2026 06:45:00 GMT"
     },
     {
       "title": "수출 고공행진 중국, 극심한 내수침체 이어져",
@@ -62,14 +68,8 @@
     {
       "title": "“시진핑 4연임 의문 없다…큰 과제는 경제” 중국 전 정책참모 전망",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPdXU4dVUtLWtmeVJtd0owdDVUS1hNZVF4TVE5ZlE0Tmh0Y2ltZ2hPMHpzUzRGakM2WEhIRFp1TlRrMXROSjdTeC1NNjR3WkdwTkxKbnRmVmxJTTVMbDFnWDZlWWNfTUN2UXFDbw?oc=5",
-      "source": "hani.co.kr",
+      "source": "한겨레",
       "date": "Mon, 14 Sep 2026 07:04:00 GMT"
-    },
-    {
-      "title": "“뉴 차이나 급성장, 한국 골든타임 3~5년 사이 끝날 것” 경고",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WSWs2Z2d1aGxWTHhCUW9mcnFsbjdaY3pQbFUwcWdqVTR1cWl3cm9fZmZkN3lwWjJzbEMyX0tKeGJpWkJQNE5DZC1KUmxEbmM?oc=5",
-      "source": "v.daum.net",
-      "date": "Sun, 13 Sep 2026 23:03:50 GMT"
     },
     {
       "title": "미국은 왜 중국을 막지 못하나 [조평규의 중국 본색]",

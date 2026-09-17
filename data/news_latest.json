@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-17T07:20:05+09:00",
+  "run_at_kst": "2026-09-17T14:10:16+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,24 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "StanChart Sees Higher Oil Floor as Hormuz Crisis Spreads to Saudi Export Routes",
+      "link": "https://oilprice.com/Energy/Crude-Oil/StanChart-Sees-Higher-Oil-Floor-as-Hormuz-Crisis-Spreads-to-Saudi-Export-Routes.html",
+      "source": "OilPrice",
+      "date": "Wed, 16 Sep 2026 19:00:00 -0500"
+    },
+    {
+      "title": "Critical Metals says it has ‘cracked’ eudialyte hurdle, plans $2.2B a year refinery in Romania",
+      "link": "https://www.mining.com/critical-metals-says-it-has-cracked-eudialyte-hurdle-plans-2-2b-a-year-refinery-in-romania/",
+      "source": "mining.com",
+      "date": "Wed, 16 Sep 2026 23:58:24 +0000"
+    },
+    {
+      "title": "Tanker Rates Smash $1 Million a Day as Oil Shipping Crisis Deepens",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Tanker-Rates-Smash-1-Million-a-Day-as-Oil-Shipping-Crisis-Deepens.html",
+      "source": "OilPrice",
+      "date": "Wed, 16 Sep 2026 18:00:00 -0500"
+    },
     {
       "title": "Oil Above $100 Pushes U.S. Fuel Prices to New Records",
       "link": "https://oilprice.com/Energy/Energy-General/Oil-Above-100-Pushes-US-Fuel-Prices-to-New-Records.html",
@@ -56,18 +74,6 @@
       "date": "Wed, 16 Sep 2026 13:30:00 -0500"
     },
     {
-      "title": "Export Constraints Curb Kazakhstan’s Ability to Offset the Global Oil Shortage",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Export-Constraints-Curb-Kazakhstans-Ability-to-Offset-the-Global-Oil-Shortage.html",
-      "source": "OilPrice",
-      "date": "Wed, 16 Sep 2026 13:00:00 -0500"
-    },
-    {
-      "title": "Leaked EU Draft Would Scrap Hydrogen Mandates for EU-Wide Target",
-      "link": "https://oilprice.com/Energy/Energy-General/Leaked-EU-Draft-Would-Scrap-Hydrogen-Mandates-for-EU-Wide-Target.html",
-      "source": "OilPrice",
-      "date": "Wed, 16 Sep 2026 12:00:00 -0500"
-    },
-    {
       "title": "EU objects to MMG’s Anglo American nickel deal",
       "link": "https://www.mining.com/eu-objects-to-mmgs-anglo-american-nickel-deal/",
       "source": "mining.com",
@@ -84,12 +90,6 @@
       "link": "https://www.mining.com/new-found-gold-hits-commercial-output-at-hammerdown/",
       "source": "mining.com",
       "date": "Wed, 16 Sep 2026 15:47:05 +0000"
-    },
-    {
-      "title": "Government fuelled financial bubble, forecaster says",
-      "link": "https://www.mining.com/government-fuelled-financial-bubble-forecaster-dent-says/",
-      "source": "mining.com",
-      "date": "Wed, 16 Sep 2026 15:39:31 +0000"
     }
   ]
 }
