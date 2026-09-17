@@ -511,6 +511,9 @@ def build_items(cm, i18n, chart_map, charts_dir):
     for c in (load(os.path.join(charts_dir, "_index.json"), {}) or {}).get("items", []):
         if c.get("name") and c.get("unit"):
             unit_of.setdefault(c["name"], c["unit"])
+    for _n, _u in (((load(os.path.join(os.path.dirname(charts_dir), "units.json"), {}) or {}).get("items")) or {}).items():
+        if _u:
+            unit_of.setdefault(_n, _u)
     for c in (chart_map or {}).get("items", []):
         if c.get("name") and c.get("chart_id"):
             chart_of.setdefault(c["name"], c["chart_id"])
