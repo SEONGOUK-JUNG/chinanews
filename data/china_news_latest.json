@@ -1,15 +1,45 @@
 {
-  "run_at_kst": "2026-09-17T14:10:16+09:00",
+  "run_at_kst": "2026-09-17T20:10:10+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "'홍콩 반환' 29년 만에 결단…야욕 드러낸 중국의 '파격 계획'",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IbXpVZ2Fmalp2Y0tBVGhXeG44dHlpV1JuMFZxOEZVbHUzWkg3M1M3c293MklldmRpUXpuWmVGWkZOSWpEYTlHSkNjVmp1QlBpcG1HUF95ejdmQQ?oc=5",
+      "source": "한국경제",
+      "date": "Thu, 17 Sep 2026 09:38:24 GMT"
+    },
+    {
+      "title": "홍성군, 중국 후난성 경제무역 컨벤션 참가",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VZnJ5eVNCMGJRZzl6WWt2SGsxdl9nNVpiOGltYTBBX0JNWngyQV83ZmlhT3Ryc1J3WS1sOUlreURjZGU4YkI2cVVMMUlPSHdic2FPb0FoNHhGcVRVRloybXQ4dTJNQUN2aUY0ZEYtZG1pVlU?oc=5",
+      "source": "동방일보",
+      "date": "Thu, 17 Sep 2026 09:20:01 GMT"
+    },
+    {
+      "title": "무신사, 중국 남부 첫 진출…선전에 2개 매장 동시 오픈",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HTWJmZ1NmRmRNTmJhaXUzRmhDX3E3WTkxZDFxYm05ZkZMTjBHdU50dnhPNmUxTlFsZGJDQlV4LXc4U0lEM2Ewd3didjdzaVk?oc=5",
+      "source": "v.daum.net",
+      "date": "Thu, 17 Sep 2026 06:35:28 GMT"
+    },
+    {
+      "title": "상하이, 글로벌 금융도시 5위 탈환…서울 7위",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xU3RIX0tNQm1yZ2QxTFphVVB0MWpHM3ZvbzliRTNuS2VZWjdPMERKQ1lHTmhNeDlweExRZ0Y3UmJMeDBJWkFxT2lZMXdaRG9iSWfSAVNBVV95cUxQd0hKcUk2SVhkTFBjdVlGalRvblU4WHVYTlZNcjlCdUp6dUZLcHRoMGVQTGo0cV9tVmxmVW9LeVlBSUJyQUxXWVRhYmd6aUR3dUpsOA?oc=5",
+      "source": "서울경제",
+      "date": "Thu, 17 Sep 2026 06:34:55 GMT"
+    },
+    {
+      "title": "베트남·중국, 경제·무역 및 전략적 연결망 협력 가속화",
+      "link": "https://news.google.com/rss/articles/CBMinwZBVV95cUxOYWlqbG9yR0JTU0JIcE93VE9fUF8tdzd1WTNJcVJWZ0YxeVdkZTYzTGpoWXVxclJCY3lTbEdGRWV1a0QtLUtLZWlsX2N5RlZYUHh2U2dzWFJ5YzZCemhFUzJtSDRoaGtwNDNwWHBNZ251NGQ0Tjh2Zi1fYjM3OW14YXU0eDFtd0tmdHpObVEydlpuSlItRVozSzEwako4NGo3RG56VFM2cDBjMjVmNmk3RjlJUElzeGxVckdGRW83dnpJRGY1WDNRSzRaNDhQZ2dPMG85dlJFdGpJU2x3Ynpmb0o3b3EwbVdLdGRLdlpYRFF5WHpUOVkyYUp6c1JGNVlfV09MVUloV1pKNXhhbnhER0Y2dUpseHJWODFkc3NQTzB0S3hZR3IzQXdVelFNWkh2b1BBdk9MNXlPMnpiMkpLU1NmNWhmWmlJYmx6SS1EUUVNb2ZPSndOcW5Ja3lUd0ZocURVLWhPaFBSV1p4RmJpcFJpeGwxdl9VWlNZakRlNEZQUmxrNjNHQUw2QkpJRnFlYnZ6S1p4ZE5tN0Zsekl4bFRlc2swdWNyVG9FY2NwdEZVNnkzWTQ2NGlZb3dwMm1MSXFnRk1jcjhoUGRMM1o5LV9QSll4cVE3ZW9BbElrdWxOMjRjeVEzNzRtb3pORThhVC1WdHI1anQ2U1k0YVplNk81VXZ6WmpGdUtNdi05aWVsVWlidGZlR0RsdTdIRkEwbHAtUnF6LTA2SWJuOWluOXM0NGZOTnBSY0tuVjU0bFlWbDFGaEJraXBrb1hZXzFzQVo0dk9tYTZQQy1fMUluRzREbjEtZVFuLXNiYWdkU1RjQzNsZXJFZFBkck1jakhnSHFuZVhEWWV0VklaRTNQTWl4X3VjT0xseF9ld25mTndYOGJjTHBEa1V2V201RTJ6NE5NWkZTZHVXUmsxcVFHSUNKQ1pfa01NVFRqWGtZaGZwZE1aX0xuZ0k1dU85bEN1MmpfeWNqSVhLdnJQWXFfVWdpRnMzTlptc0Y3VUhfWUo3cldZYzBFc0tLeVIwMlJKWWFsUkRPRXU1bmpYRm5B?oc=5",
+      "source": "Thông tấn xã Việt Nam (TTXVN)",
+      "date": "Thu, 17 Sep 2026 05:31:30 GMT"
+    },
+    {
       "title": "글로벌 국채 수익률 상승세 속 중국만 예외···“중국 경제는 독자적 흐름”",
       "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPZllJZENoSk1kd2l3b1doWFZqemdKX2lUZkFNODExRXdvMEhyZXZ4dk9HazdfancxUEhvR2FkdE1TVExJY2YzN2VpTHZMV2Y0NVd5czBoRUlndXZJamtYQUkwd2hJZEktSktnaEdsSm9JZnBHS0FBLVBpbTM2UG1vX0tLc2ZtM21OeDd0YWhmOUROczdvMGxsOVl5bzRjLUc0c2tDUDJ1NEhmT1dyMFdOSkk5N0R4NFg1Y3h3eHdOQjgzbUJ2bjF0VFlJdmRJaEhlZGNGSFpuSDd1bk92YnpTVDNyOXBVbkZUbFRmVWMwcTc4dG96V0lKbzRHM0FxSktudmlFS0Z3NVpEWENlVHpyVDBLTUFmX1EycmJmOUhTbGwycFJpRElrUWZVOHA3WVc5Ym1MaFp1MDJ3bnM?oc=5",
       "source": "Benzinga",
-      "date": "Thu, 17 Sep 2026 04:30:00 GMT"
+      "date": "Thu, 17 Sep 2026 04:33:31 GMT"
     },
     {
       "title": "홍성군, 중국 후난성 경제무역 컨벤션 참가",
@@ -30,52 +60,22 @@
       "date": "Thu, 17 Sep 2026 01:51:00 GMT"
     },
     {
-      "title": "'AI 위협론', 미국과 중국의 입장은 어떻게 다른가",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91YnZ3a0xOc090V1lQQk94eDhrUXFldEJ3U25RWllaVlQ4SXJ3bGZ6ZTN1TVdldG9sbkNlaG1kUTg3SndCemc0WDNBN1htRmM?oc=5",
-      "source": "v.daum.net",
-      "date": "Wed, 16 Sep 2026 22:57:49 GMT"
-    },
-    {
       "title": "공산당도 열지 못한 14억의 지갑… 중국 경제 4대 착시의 종말",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNay0tVHJZc3ZCZ2hkM2Z5aTFiTWpyNzhmcnZ2TmNYa1dJUklyNENPU3duWGkxbmtsbW00MlUwMHk3UExwVHVyRDJRcGlXS3BXSWlvTGFMVzRmYlpWVjVhOVNEdU9zVjVTbnJXU1BvZVU3ODlSTkMtWEVucTRTNkdpdjlhZnBwVEh0?oc=5",
       "source": "조선일보",
       "date": "Wed, 16 Sep 2026 18:00:00 GMT"
     },
     {
-      "title": "‘제조AI·관광·투자’ 경남도, 중국과 경제협력 넓힌다",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWN0hPYmE5Z3RMUmhHVXJ3My1BN0lGNXFaUXo2bjN1R0tQdEVMSzd5QXZ6Qm40bE8tU0J5WWhqdkZFOFQxREUxbjFNV3dJR2hfOFFPaWVJYWVtSmNRSTk0QnRIdEVtVi1M?oc=5",
-      "source": "경남도민신문",
-      "date": "Wed, 16 Sep 2026 08:54:19 GMT"
+      "title": "중국 8월 소비 0.4% 증가…산업생산과 소비·투자 불균형 계속",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3SWNfa3UydDVQRG9lVmpLbENLNTk5ZkdnYU9SdmxmOWRyNWI3QVZhY0ZCaVRBdjFRc05HblRGelhYSEpCOHZEeFYzS0NJdWl3dGhGQzA4YWgzUdIBX0FVX3lxTE1QMVdyUjdZWEpLWUtKSlJhVUFHbV94NTlOMlJfY2o0ZVFyajRXS1RDSVpFemRKcVJyb2V3SXJla25OMW9OaEFoeS1tQUlGT1ZKeVFpMkxqRFcxX3JFUS1N?oc=5",
+      "source": "경향신문",
+      "date": "Tue, 15 Sep 2026 04:42:00 GMT"
     },
     {
-      "title": "제조AI·관광·투자… 경남도, 중국과 ‘경제영토’ 넓힌다",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vT21pQmk3Q1dYMm9VR1BFYS11OFhyd2FBanRvYVRQVmFTSmxtcFBTUmxrWTE1QnpqTG01Yzd0aEhPMXN4b1F0LVBzRHpuY09uamJISHV4MTI3YjltamhxSU1YajFBSmV1V21TZ1Fn0gFzQVVfeXFMT2FXbDRETGp3YXplS3dMc01VUWtOZEU0VUZMalh1djFiOEY4YVZlQ255dlBIa0J0OGtrbDR6TldjcnV1X2dwYTIzSmstcHE5OFdYUEhsdVU4YUVjODkxVF9Vc1dKWTRKOTJ6ajZNdkUxeVo5aw?oc=5",
-      "source": "한국일보",
-      "date": "Wed, 16 Sep 2026 06:09:00 GMT"
-    },
-    {
-      "title": "수출 고공행진 중국, 극심한 내수침체 이어져",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Sa19JSGtUWDB3amdDTWd1bVJWRndLaldXQlAybHo5LTNOYWNYNTdpYlVUbWRZa21hdmI3RFVoX2lMdFpNbzBqR05QX3hDc28?oc=5",
-      "source": "v.daum.net",
-      "date": "Tue, 15 Sep 2026 04:20:57 GMT"
-    },
-    {
-      "title": "선진국도 배우러 간다…‘가성비’ 껍질 벗은 중국의 무서운 반격 [中반도체 공습]",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hQTdZbl9vbWMtMmp5QmF3bDRXUnpjV2w2ZHo3Q1NBME9WZkNoLXlyNDRoc0RfT28zSU9FaHJmUGhxaGlBa0VJbXNYQUtZOUxpV3Z3aExR?oc=5",
-      "source": "중앙일보",
-      "date": "Mon, 14 Sep 2026 20:00:01 GMT"
-    },
-    {
-      "title": "“시진핑 4연임 의문 없다…큰 과제는 경제” 중국 전 정책참모 전망",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPdXU4dVUtLWtmeVJtd0owdDVUS1hNZVF4TVE5ZlE0Tmh0Y2ltZ2hPMHpzUzRGakM2WEhIRFp1TlRrMXROSjdTeC1NNjR3WkdwTkxKbnRmVmxJTTVMbDFnWDZlWWNfTUN2UXFDbw?oc=5",
-      "source": "한겨레",
-      "date": "Mon, 14 Sep 2026 07:04:00 GMT"
-    },
-    {
-      "title": "미국은 왜 중국을 막지 못하나 [조평규의 중국 본색]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvaDZRU1JsVzM3S2YzMzU1dnBPbzJRdVVLUzJqMXRCVFdVX1ctXzlWRnhZSjdJUU9rR1VvbHUwMi15b1hacHY3b1FaZmtsZnp2NGlVZTVEVkJvQQ?oc=5",
-      "source": "한국경제",
-      "date": "Sat, 12 Sep 2026 06:31:00 GMT"
+      "title": "\"다음 글로벌 경제위기는 중국에서 시작될 것\" - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43aFF3cEtoOTBMZzlLYWtiMFlHMmNwQ0pzdEpqMm8zZS1jNDJLUmdLSFJRS0VNSl9FeDNUZ1NYcTRTdGJUUHQ4RDZqYXVsX2dvMlR5S1BaWUlXc1Y2V3ZmaG1GUzNpeUdP0gFuQVVfeXFMT1V6X0g4TkV6Rk05ek9yZlZiVnYwTHNZTGY3M0RNT1RSVjVNVWd2Mi1rVWxJSlB2c0RfajFIdDFoUXJoUW9tcWVaU3dBaGRaWXM4aXo1VWgyaGJqTHA4VHJROUFvcW44Q092QUtHTEE?oc=5",
+      "source": "머니투데이",
+      "date": "Sun, 30 Aug 2026 07:00:00 GMT"
     }
   ]
 }

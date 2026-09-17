@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-17T14:10:16+09:00",
+  "run_at_kst": "2026-09-17T20:10:10+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Alberta Plans New Royalty Incentives to Spur Oil Production",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Alberta-Plans-New-Royalty-Incentives-to-Spur-Oil-Production.html",
+      "source": "OilPrice",
+      "date": "Thu, 17 Sep 2026 05:30:00 -0500"
+    },
+    {
+      "title": "Goldman Sachs Sees More Upside in Gasoline as Diesel Crunch Deepens",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Sees-More-Upside-in-Gasoline-as-Diesel-Crunch-Deepens.html",
+      "source": "OilPrice",
+      "date": "Thu, 17 Sep 2026 04:30:00 -0500"
+    },
+    {
+      "title": "India Pushes Back on U.S. Tariff Threat Over Russian Oil",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Pushes-Back-on-US-Tariff-Threat-Over-Russian-Oil.html",
+      "source": "OilPrice",
+      "date": "Thu, 17 Sep 2026 03:15:00 -0500"
+    },
+    {
+      "title": "Soaring LNG Prices Push Asian Demand Toward Second Annual Decline",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Soaring-LNG-Prices-Push-Asian-Demand-Toward-Second-Annual-Decline.html",
+      "source": "OilPrice",
+      "date": "Thu, 17 Sep 2026 01:40:00 -0500"
+    },
+    {
+      "title": "Oil Prices Slide as Saudi Arabia Reroutes Crude via Oman",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Slide-as-Saudi-Arabia-Reroutes-Crude-via-Oman.html",
+      "source": "OilPrice",
+      "date": "Thu, 17 Sep 2026 00:20:00 -0500"
+    },
     {
       "title": "StanChart Sees Higher Oil Floor as Hormuz Crisis Spreads to Saudi Export Routes",
       "link": "https://oilprice.com/Energy/Crude-Oil/StanChart-Sees-Higher-Oil-Floor-as-Hormuz-Crisis-Spreads-to-Saudi-Export-Routes.html",
@@ -38,40 +68,10 @@
       "date": "Wed, 16 Sep 2026 21:16:00 +0000"
     },
     {
-      "title": "Inside Putin’s $135 Billion Arctic Gamble That Could Save His Ukraine War",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Inside-Putins-135-Billion-Arctic-Gamble-That-Could-Save-His-Ukraine-War.html",
-      "source": "OilPrice",
-      "date": "Wed, 16 Sep 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Shale Oil Now Makes Up 72% of Argentina's Crude Output, Data Shows",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Shale-Oil-Now-Makes-Up-72-of-Argentinas-Crude-Output-Data-Shows.html",
-      "source": "OilPrice",
-      "date": "Wed, 16 Sep 2026 16:00:00 -0500"
-    },
-    {
-      "title": "AI Data Centers Are Driving Southeast Asia's LNG Demand Through the Roof",
-      "link": "https://oilprice.com/Energy/Natural-Gas/AI-Data-Centers-Are-Driving-Southeast-Asias-LNG-Demand-Through-the-Roof.html",
-      "source": "OilPrice",
-      "date": "Wed, 16 Sep 2026 15:00:00 -0500"
-    },
-    {
       "title": "Fed’s decisions driving investors to precious metals, says expert",
       "link": "https://www.mining.com/feds-decisions-driving-investors-to-precious-metals-expert/",
       "source": "mining.com",
       "date": "Wed, 16 Sep 2026 19:24:31 +0000"
-    },
-    {
-      "title": "Saudi Oil Crisis Is About to Hit Europe",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Saudi-Oil-Crisis-Is-About-to-Hit-Europe.html",
-      "source": "OilPrice",
-      "date": "Wed, 16 Sep 2026 13:32:00 -0500"
-    },
-    {
-      "title": "Continental Strikes Venezuela Oil Deal with PDVSA",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Continental-Strikes-Venezuela-Oil-Deal-with-PDVSA.html",
-      "source": "OilPrice",
-      "date": "Wed, 16 Sep 2026 13:30:00 -0500"
     },
     {
       "title": "EU objects to MMG’s Anglo American nickel deal",
