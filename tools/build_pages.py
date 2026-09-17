@@ -1060,7 +1060,7 @@ KO_BANNER = """
 <script>(function(){
   var b=document.getElementById('sup-more-btn'),l=document.getElementById('sup-more-list');
   if(b&&l) b.addEventListener('click',function(){ l.hidden=!l.hidden; b.textContent=l.hidden?b.getAttribute('data-more'):b.getAttribute('data-less'); });
-  fetch('/data/commodities.json?t='+Date.now()).then(function(r){return r.json();}).then(function(d){
+  (window.__cmReady || Promise.resolve()).then(function(){ return fetch('/data/commodities.json?t='+Date.now()); }).then(function(r){return r.json();}).then(window.cmDocToUsd || function(x){return x;}).then(function(d){
     var m={}; (d.all_items||[]).forEach(function(x){ if(!(x.display_name in m)) m[x.display_name]=x; });
     (d.featured||[]).forEach(function(x){ if(x.display_name&&!(x.display_name in m)) m[x.display_name]=x; });
     document.querySelectorAll('.sup-card .lp[data-items]').forEach(function(el){
@@ -1068,9 +1068,9 @@ KO_BANNER = """
       el.getAttribute('data-items').split('|').forEach(function(pair){
         var k=pair.split('=')[0], lbl=pair.split('=')[1]||k, it=m[k]; if(!it||it.price_today==null) return;
         var p=Number(it.change_pct)||0, col=p>0?'var(--up)':(p<0?'var(--down)':'var(--muted)');
-        parts.push(lbl+' <b>'+Number(it.price_today).toLocaleString('en-US')+'</b> <span style="color:'+col+'">'+(p>0?'+':'')+p.toFixed(2)+'%</span>');
+        parts.push(lbl+' <b>'+Number(it.price_today).toLocaleString('en-US',{maximumFractionDigits:2})+'</b> <span style="color:'+col+'">'+(p>0?'+':'')+p.toFixed(2)+'%</span>');
       });
-      if(parts.length) el.innerHTML=(d.ref_date||'')+' · CNY &nbsp; '+parts.join(' &nbsp;·&nbsp; ');
+      if(parts.length) el.innerHTML=(d.ref_date||'')+' · USD &nbsp; '+parts.join(' &nbsp;·&nbsp; ');
     });
   }).catch(function(){});
 })();</script>
