@@ -1009,18 +1009,11 @@ fetch('/data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json(
   <strong style="color:var(--orange);letter-spacing:1.5px;font-size:13px">Data Legend</strong>
   <div style="display:flex;gap:22px;margin-top:11px;flex-wrap:wrap;align-items:center">
     <span><span class="src-tag real">REAL</span> Measured data</span>
-    <span><span class="api-needed">API</span> Fills when API connected</span>
-    <span><span class="src-tag">PENDING</span> Next-phase integration</span>
-    <span class="no-data">— No data · no placeholder numbers</span>
+    <span><span class="api-needed">API</span> Not yet connected</span>
+    <span class="no-data">— No data</span>
   </div>
-  <div style="margin-top:12px;color:var(--muted);line-height:1.7">
-    <strong style="color:var(--text)">Transparency policy:</strong>
-    This terminal never fills empty fields with placeholder numbers.
-    <strong style="color:var(--orange)">"No data" / "API"</strong> are shown until the data is filled via a connected API.
-    Always re-verify with official sources (exchanges, authorities) before any decision.
-  <div style="margin-top:9px;line-height:1.7">
-    <strong style="color:var(--text)">Live measured data:</strong>
-    China daily spot commodities (100+) · FX (yfinance) · China equities & indices (yfinance + AkShare) · other feeds not yet connected
+  <div style="margin-top:11px;color:var(--muted);line-height:1.7">
+    Empty fields are never filled with placeholder numbers. Re-verify with official sources before any decision.
   </div>
 </div>
 
