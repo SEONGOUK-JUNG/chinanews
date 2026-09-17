@@ -1113,8 +1113,8 @@ def render_ko_home(src_html):
     s = s.replace('<a class="tb-tab" href="/ko/" hreflang="ko">한국어</a>', '<a class="tb-tab" href="/" hreflang="en">English</a>')
     s = s.replace('<a href="/ko/" hreflang="ko">한국어</a>', '<a href="/" hreflang="en">English</a>')
     s = s.replace('id="seo-footer" lang="en"', 'id="seo-footer" lang="ko"')
-    s = re.sub(r'<p class="seo-about" data-lang="en">.*?</p>\s*', "", s, count=1, flags=re.S)
-    s = s.replace('<p class="seo-about" data-lang="ko" hidden>', '<p class="seo-about" data-lang="ko">', 1)
+    s = re.sub(r'<p class="seo-about" data-lang="en"[^>]*>.*?</p>\s*', "", s, count=1, flags=re.S)
+    s = s.replace('<p class="seo-about" data-lang="ko" hidden ', '<p class="seo-about" data-lang="ko" ', 1)
     return s
 
 
