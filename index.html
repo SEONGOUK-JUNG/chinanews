@@ -2208,7 +2208,7 @@ window.addEventListener('load', function(){
       host.innerHTML=feat.map(function(it){ var cid=FC[it.display_name]||''; var p=it.change_pct;
         return '<div data-spark="'+cid+'" style="background:var(--bg);padding:8px 9px">'
           +'<div style="font-size:11px;color:var(--text);font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">'+nm(it.display_name)+'</div>'
-          +'<div style="display:flex;justify-content:space-between;align-items:center;margin-top:2px"><span class="mono" style="font-size:11px;color:var(--text-bright)">'+(it.price_today!=null?it.price_today.toLocaleString():'—')+'</span>'
+          +'<div style="display:flex;justify-content:space-between;align-items:center;margin-top:2px"><span class="mono" style="font-size:11px;color:var(--text-bright)">'+(it.price_today!=null?it.price_today.toLocaleString(undefined,{maximumFractionDigits:2}):'—')+'</span>'
           +'<span class="mono '+(p>0?'up':(p<0?'down':'flat'))+'" style="font-size:10px">'+(p>0?'+':'')+p.toFixed(2)+'%</span></div>'
           +'<div class="spark-host" style="margin-top:4px;height:32px"></div></div>'; }).join('');
       feat.forEach(function(it){ var cid=FC[it.display_name]; if(!cid) return;
