@@ -137,7 +137,7 @@ PAGES = [
             "h1": "Yttrium Metal & Yttrium Oxide (Y₂O₃) from China",
             "kicker": "Supply · RFQ",
             "intro": [
-                "Available now. Yttrium oxide Y₂O₃ 99.999% (5N) powder in three particle sizes — D50 1–2, 3–4 and 5–7 µm. Offered from 1,000 kg. HS code 2846.90-1000. Yttrium is under China's dual-use export controls: an export licence and an End-User Certificate are required. Count 45 Chinese business days from filing; we prepare the paperwork.",
+                "Available now. Yttrium oxide Y₂O₃ 99.999% (5N) powder in three particle sizes — D50 1–2, 3–4 and 5–7 µm. Offered from 1,000 kg. HS code 2846.90-1000. Yttrium is under China's dual-use export controls. The licence can only be filed after a supply contract is signed, and the file must include the End-User and End-Use Certificate, the End-User's Profile and a supply-chain sheet. We prepare the forms and translations; count 45 Chinese business days from filing.",
                 "Yttrium oxide is the workhorse material for plasma-resistant coatings inside semiconductor etch and deposition chambers, for yttria-stabilised zirconia (YSZ) ceramics, and for phosphors and YAG laser crystals. We supply 4N and 5N Y₂O₃ from Chinese producers.",
                 "For semiconductor coating customers we can supply spray-grade granulated Y₂O₃ (spherical, 10–50 µm) and Y₂O₃-based composite powders (YOF, Y-Al) to specification.",
             ],
@@ -145,7 +145,8 @@ PAGES = [
             "faq": [
                 ("What does 5N mean in practice?", "Y₂O₃/TREO ≥ 99.999% with total non-rare-earth impurities typically below 50 ppm. We agree the scope of the certificate when you enquire."),
                 ("Minimum order?", "The confirmed 5N grades (D50 1–2, 3–4, 5–7 µm) ship from 1,000 kg each. Certificates and sample terms are agreed at enquiry."),
-                ("Lead time and export licence?", "Yttrium falls under China's dual-use export controls. Shipment requires an export licence, and the application includes an End-User Certificate (EUC). The buyer only signs and stamps the end-user, end-use and no-re-export statements; we draft and translate the documents and run the application. Count 45 Chinese business days from filing, plus 2-3 weeks for shipping and customs after approval."),
+                ("Lead time and export licence?", "Yttrium falls under China's dual-use export controls. The licence application can only be filed once a supply contract with the Chinese producer is signed, because the contract number goes on the application. With the contract in place the buyer signs and stamps three documents — the End-User and End-Use Certificate, the End-User's Profile and a supply-chain (industrial chain) sheet. We supply the forms and the Korean, English and Chinese translations. Count 45 Chinese business days from filing, plus 2-3 weeks for shipping and customs after approval."),
+                ("What does the buyer have to prepare?", "Three documents, once the supply contract is signed: the End-User and End-Use Certificate (addressed to China’s MOFCOM, carrying the contract number, product name and end use, with the no-diversion, no-transfer and no-WMD undertakings), the End-User’s Profile (incorporation date, capital, total assets, headcount, business scope, main products, annual turnover, management) and a supply-chain sheet (which process the powder enters, what it becomes, the makers and countries at each tier, the volume used and the final sales country). We provide the forms and the Korean, English and Chinese translations; the buyer signs and stamps."),
                 ("How is it priced?", "Quoted per tonne. The number moves with the market and FX, so ask and we quote on the day."),
                 ("HS code and customs?", "Imported under HS 2846.90-1000. We handle the import declaration, duty and domestic delivery, so Korean buyers purchase on domestic terms."),
                 ("Can you match a customer spec sheet?", "Yes — send your particle-size (D10/D50/D90), loss-on-ignition and impurity limits with the RFQ and we will quote against it."),
@@ -157,7 +158,7 @@ PAGES = [
             "h1": "산화이트륨(Y₂O₃) 5N 중국 직수입 공급",
             "kicker": "공급 · 견적",
             "intro": [
-                "지금 공급 가능합니다. 산화이트륨 Y₂O₃ 99.999%(5N) 분말을 입도 세 가지(D50 1~2µm · 3~4µm · 5~7µm)로 공급합니다. HS 코드 2846.90-1000으로 최소 1,000kg부터 주문받습니다. 이트륨은 중국의 이중용도 품목 수출 통제 대상이라 수출 허가와 최종사용자확인서(EUC)가 필요합니다. 승인 접수일로부터 중국 영업일 기준 45일이 걸리며 서류는 저희가 준비합니다.",
+                "지금 공급 가능합니다. 산화이트륨 Y₂O₃ 99.999%(5N) 분말을 입도 세 가지(D50 1~2µm · 3~4µm · 5~7µm)로 공급합니다. HS 코드 2846.90-1000으로 최소 1,000kg부터 주문받습니다. 이트륨은 중국의 이중용도 품목 수출 통제 대상입니다. 허가 신청은 중국 공급자와 납품계약을 맺은 뒤에 할 수 있고, 최종사용자 및 최종용도 증명서와 회사 개요, 공급망 자료가 갖춰져야 접수됩니다. 양식과 번역은 저희가 준비하며, 접수일로부터 중국 영업일 기준 45일이 걸립니다.",
                 "산화이트륨(이트리아)은 반도체 식각·증착 챔버 내부의 내플라즈마 코팅, 이트리아 안정화 지르코니아(YSZ) 세라믹, 형광체와 YAG 레이저 결정의 핵심 소재입니다. 국내 구매 담당자가 중국 생산자와 직접 거래할 때 겪는 성적서 검증, 통관, 대금 조건을 저희가 대신 처리합니다.",
                 "반도체 코팅 고객에게는 용사용 조립 분말(구형, 10~50µm)과 Y₂O₃계 복합 분말(YOF, Y-Al)을 규격에 맞춰 공급할 수 있습니다.",
             ],
@@ -167,8 +168,8 @@ PAGES = [
                 ("최소 주문량은요?", "이번 공급 확정분(5N, D50 1~2 / 3~4 / 5~7µm)은 입도별로 1,000kg 단위입니다. 성적서와 샘플 조건은 문의 시 협의합니다."),
                 ("단가는 어떻게 되나요?", "희토류 시세와 환율에 따라 움직입니다. 문의 주시면 그날 기준으로 알려 드립니다."),
                 ("HS 코드와 통관은요?", "HS 2846.90-1000으로 수입합니다. 수입 신고와 관세 납부, 국내 운송까지 저희가 맡고 구매처는 국내 거래로 받으시면 됩니다."),
-                ("납기와 수출 허가는 어떻게 되나요?", "이트륨은 중국의 이중용도 품목 수출 통제 대상입니다. 수출 허가를 받아야 선적할 수 있고 그 과정에 최종사용자확인서(EUC)가 들어갑니다. 구매처에서는 최종 사용자와 실제 용도, 재수출하지 않겠다는 확인에 서명·직인만 주시면 됩니다. 서류 작성과 번역, 허가 접수와 진행 관리는 저희가 합니다. 승인 접수일로부터 중국 영업일 기준 45일이 걸리고, 승인 뒤 선적과 통관에 2~3주가 더 걸립니다."),
-                ("구매처가 준비할 서류가 있나요?", "최종사용자확인서(EUC)에 들어갈 최종 사용자 정보와 용도, 재수출 금지 확인에 서명·직인만 주시면 됩니다. 나머지 서류는 저희가 작성합니다."),
+                ("납기와 수출 허가는 어떻게 되나요?", "이트륨은 중국의 이중용도 품목 수출 통제 대상입니다. 허가 신청은 중국 공급자와 납품계약을 맺어 계약번호가 나온 뒤에야 할 수 있습니다. 계약이 되면 최종사용자 및 최종용도 증명서, 최종사용자 회사 개요, 공급망(산업사슬) 자료 세 가지에 서명·직인을 주셔야 접수됩니다. 양식과 번역은 저희가 준비합니다. 접수일로부터 중국 영업일 기준 45일, 승인 뒤 선적과 통관에 2~3주가 더 걸립니다."),
+                ("구매처가 준비할 서류가 있나요?", "세 가지입니다. ① 최종사용자 및 최종용도 증명서(중국 상무부 앞, 계약번호·품명·최종용도와 전용·제3자 이전 금지 보증) ② 최종사용자 회사 개요(설립일·자본금·총자산·직원 수·사업 범위·주요 제품·연간 매출액·경영진) ③ 공급망(산업사슬) 자료(어느 공정에 들어가 어떤 제품이 되는지, 단계별 제조사와 국가, 투입량, 최종 판매 국가). 양식과 한국어·영어·중국어 번역은 저희가 준비하고, 구매처는 서명과 직인만 주시면 됩니다."),
                 ("고객 규격서에 맞출 수 있나요?", "네. 입도(D10/D50/D90), 강열감량, 불순물 한도를 문의에 첨부해 주시면 그 기준으로 견적합니다."),
             ],
         },
