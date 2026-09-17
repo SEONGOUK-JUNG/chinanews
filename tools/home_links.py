@@ -73,8 +73,14 @@ def block(lang_prefix, sectors, picks):
         lead = "Pick a sector, or open a commodity for today's price and its chart."
         allname = "All {} commodities"
     total = sum(n for _, _, n in sectors)
+    news_ko = ('<p style="margin:-6px 0 12px"><a href="/press/yttrium-oxide-supply-20260917.html" '
+               'style="color:#E8C078;text-decoration:none">새 소식 · 산화이트륨 5N(Y₂O₃ 99.999%) 국내 공급 개시 →</a></p>')
+    news_en = ('<p style="margin:-6px 0 12px"><a href="/press/yttrium-oxide-supply-20260917.html" '
+               'style="color:#E8C078;text-decoration:none">New · Yttrium oxide 5N (Y₂O₃ 99.999%) now supplied to Korea →</a></p>')
     out = [MARK_A, CSS, '<section class="hcl">',
-           "<h2>{}</h2>".format(h2), "<p>{}</p>".format(lead), '<div class="row sect">']
+           "<h2>{}</h2>".format(h2), "<p>{}</p>".format(lead),
+           news_ko if lang_prefix else news_en,
+           '<div class="row sect">']
     for slug, name, n in sectors:
         out.append('<a href="{}/commodities/{}.html">{} <span style="opacity:.6">{}</span></a>'.format(
             lang_prefix, slug, name, n))

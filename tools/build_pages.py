@@ -1495,6 +1495,7 @@ def main():
     # static pages
     static = [("/", today, "daily", "1.0", ("/", "/ko/")), ("/ko/", today, "daily", "1.0", ("/", "/ko/")),
               ("/press/abridge-sic-cvd-20260615.html", "2026-06-15", "monthly", "0.7", None),
+              ("/press/yttrium-oxide-supply-20260917.html", "2026-09-17", "monthly", "0.8", None),
               ]
     entries = static + entries
     if write_if_changed(os.path.join(root, "sitemap.xml"), render_sitemap(entries)):
