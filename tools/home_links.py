@@ -25,6 +25,12 @@ CSS = (
     "color:var(--fg,#c9d1d9);text-decoration:none}"
     ".hcl .row a:hover{border-color:#58a6ff;color:#58a6ff}"
     ".hcl .row.sect a{background:rgba(88,166,255,.08);border-color:rgba(88,166,255,.35)}"
+    ".hcl-news{margin:-6px 0 12px;font-size:12.5px;line-height:1.9;color:var(--dim,#7d8794)}"
+    ".hcl-news a{color:#E8C078;text-decoration:none}"
+    ".hcl-news a:hover{text-decoration:underline}"
+    ".hcl-news .dot{opacity:.4;margin:0 2px}"
+    ".hcl-news a.ask{border:1px solid rgba(232,192,120,.5);border-radius:999px;padding:3px 10px;white-space:nowrap}"
+    ".hcl-news a.ask:hover{background:rgba(232,192,120,.12);text-decoration:none}"
     "</style>"
 )
 
@@ -73,10 +79,14 @@ def block(lang_prefix, sectors, picks):
         lead = "Pick a sector, or open a commodity for today's price and its chart."
         allname = "All {} commodities"
     total = sum(n for _, _, n in sectors)
-    news_ko = ('<p style="margin:-6px 0 12px"><a href="/press/yttrium-oxide-supply-20260917.html" '
-               'style="color:#E8C078;text-decoration:none">새 소식 · 산화이트륨 5N(Y₂O₃ 99.999%) 국내 공급 개시 →</a></p>')
-    news_en = ('<p style="margin:-6px 0 12px"><a href="/press/yttrium-oxide-supply-20260917.html" '
-               'style="color:#E8C078;text-decoration:none">New · Yttrium oxide 5N (Y₂O₃ 99.999%) now supplied to Korea →</a></p>')
+    news_ko = ('<p class="hcl-news">새 소식 · <a href="/ko/supply/yttrium.html">산화이트륨 5N(Y₂O₃ 99.999%) 국내 공급 개시</a>'
+               ' <span class="dot">·</span> <a href="/ko/supply/yttrium.html">입도 1~2 / 3~4 / 5~7µm 규격 보기</a>'
+               ' <span class="dot">·</span> <a class="ask" href="/ko/supply/yttrium.html#rfq">단가 문의하기 →</a>'
+               ' <span class="dot">·</span> <a href="/press/yttrium-oxide-supply-20260917.html">공급 개시 안내</a></p>')
+    news_en = ('<p class="hcl-news">New · <a href="/supply/yttrium.html">Yttrium oxide 5N (Y₂O₃ 99.999%) now supplied to Korea</a>'
+               ' <span class="dot">·</span> <a href="/supply/yttrium.html">D50 1–2 / 3–4 / 5–7 µm</a>'
+               ' <span class="dot">·</span> <a class="ask" href="/supply/yttrium.html#rfq">Ask for a price →</a>'
+               ' <span class="dot">·</span> <a href="/press/yttrium-oxide-supply-20260917.html">Announcement</a></p>')
     out = [MARK_A, CSS, '<section class="hcl">',
            "<h2>{}</h2>".format(h2), "<p>{}</p>".format(lead),
            news_ko if lang_prefix else news_en,
