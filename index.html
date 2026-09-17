@@ -675,7 +675,7 @@ fetch('/data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json(
       </div>
       <table class="dt">
         <thead>
-          <tr><th>Item</th><th>Sector</th><th id="cm-th-prev">Prev</th><th id="cm-th-today">Last</th><th>Chg%</th><th>USD</th><th>Unit</th></tr>
+          <tr><th>Item</th><th>Sector</th><th id="cm-th-prev">Prev</th><th id="cm-th-today">Last</th><th>Unit</th><th>Chg%</th><th>USD</th></tr>
         </thead>
         <tbody id="cm-featured-body">
           <tr><td colspan="6" style="color:var(--muted);font-style:italic;text-align:center;padding:14px 0">Loading…</td></tr>
@@ -885,10 +885,10 @@ fetch('/data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json(
         <div style="overflow:auto;flex:1;padding:0 16px 16px 16px">
           <table class="dt" style="width:100%">
             <thead style="position:sticky;top:0;background:var(--bg);z-index:1">
-              <tr><th>Item</th><th>Sector</th><th id="cm-th-prev-modal">Prev</th><th id="cm-th-today-modal">Last</th><th>Chg%</th><th>USD</th></tr>
+              <tr><th>Item</th><th>Sector</th><th id="cm-th-prev-modal">Prev</th><th id="cm-th-today-modal">Last</th><th>Unit</th><th>Chg%</th><th>USD</th></tr>
             </thead>
             <tbody id="cm-modal-body">
-              <tr><td colspan="5" style="color:var(--muted);text-align:center;padding:14px 0">Loading…</td></tr>
+              <tr><td colspan="7" style="color:var(--muted);text-align:center;padding:14px 0">Loading…</td></tr>
             </tbody>
           </table>
         </div>
@@ -1559,6 +1559,11 @@ function fmtPct(v){
   const sign = v > 0 ? '+' : '';
   return '<span class="' + cls + '">' + arrow + ' ' + sign + v.toFixed(2) + '%</span>';
 }
+var _cmUnits = {};
+function cmUnit(item){
+  var u = item.unit || _cmUnits[item.display_name || item.name || ''] || '';
+  return u ? '<span style="font-size:10px;color:var(--muted)">' + u + '</span>' : '<span style="color:var(--line-2)">—</span>';
+}
 function rowCommodity(item, featured){
   const pp = fmtPrice(item.price_prev);
   const pt = fmtPrice(item.price_today);
@@ -1568,9 +1573,9 @@ function rowCommodity(item, featured){
     // chart_id는 commodity_charts/{id}.json과 매핑
     const cid = item.chart_id || _DISPLAY_TO_CHART_ID[item.display_name] || '';
     const clickable = cid ? ' style="cursor:pointer" data-cm-id="' + cid + '" title="Click to load chart"' : '';
-    return '<tr' + clickable + ' data-cm-ko="' + (item.display_name||'') + '" data-cm-unit="' + (item.unit||'CNY/t') + '"><td>' + cmName(item.display_name) + '</td><td>' + cmSector(item.sector||item.category||'') + '</td><td>' + pp + '</td><td>' + pt + '</td><td>' + pc + '</td><td>' + usdEst(item.price_today,item.unit,item.display_name) + '</td><td style="font-size:10px;color:var(--muted)">' + (item.unit || 'CNY/t') + '</td></tr>';
+    return '<tr' + clickable + ' data-cm-ko="' + (item.display_name||'') + '" data-cm-unit="' + (item.unit||'CNY/t') + '"><td>' + cmName(item.display_name) + '</td><td>' + cmSector(item.sector||item.category||'') + '</td><td>' + pp + '</td><td>' + pt + '</td><td>' + cmUnit(item) + '</td><td>' + pc + '</td><td>' + usdEst(item.price_today,item.unit,item.display_name) + '</td></tr>';
   } else {
-    return '<tr style="cursor:pointer" data-cm-ko="' + (item.display_name||item.name||'') + '" data-cm-unit="' + (item.unit||'CNY/t') + '"><td>' + cmName(item.display_name||item.name) + '</td><td>' + cmSector(item.sector||'') + '</td><td>' + pp + '</td><td>' + pt + '</td><td>' + pc + '</td><td>' + usdEst(item.price_today,item.unit,item.display_name) + '</td></tr>';
+    return '<tr style="cursor:pointer" data-cm-ko="' + (item.display_name||item.name||'') + '" data-cm-unit="' + (item.unit||'CNY/t') + '"><td>' + cmName(item.display_name||item.name) + '</td><td>' + cmSector(item.sector||'') + '</td><td>' + pp + '</td><td>' + pt + '</td><td>' + cmUnit(item) + '</td><td>' + pc + '</td><td>' + usdEst(item.price_today,item.unit,item.display_name) + '</td></tr>';
   }
 }
 // 16종 display_name → chart_id 매핑
@@ -1584,7 +1589,7 @@ function renderCmModalBody(filterText){
   const body = document.getElementById('cm-modal-body');
   if(!body) return;
   if(!_cmAllItems.length){
-    body.innerHTML = '<tr><td colspan="5" style="color:var(--muted);text-align:center;padding:14px 0">Full list not collected yet.<br>Auto-updates daily at 07:00 KST.</td></tr>';
+    body.innerHTML = '<tr><td colspan="7" style="color:var(--muted);text-align:center;padding:14px 0">Full list not collected yet.<br>Auto-updates daily at 07:00 KST.</td></tr>';
     return;
   }
   const q = (filterText || '').trim().toLowerCase();
@@ -1599,12 +1604,16 @@ function renderCmModalBody(filterText){
     return _enName(a).toLowerCase().localeCompare(_enName(b).toLowerCase());
   });
   if(list.length === 0){
-    body.innerHTML = '<tr><td colspan="5" style="color:var(--muted);text-align:center;padding:14px 0">No results</td></tr>';
+    body.innerHTML = '<tr><td colspan="7" style="color:var(--muted);text-align:center;padding:14px 0">No results</td></tr>';
     return;
   }
   body.innerHTML = list.map(function(it){ return rowCommodity(it, false); }).join('');
 }
 async function loadCommodities(){
+  try {
+    const ru = await fetch('/data/units.json?t=' + Date.now());
+    if(ru.ok){ const du = await ru.json(); _cmUnits = (du && du.items) || {}; }
+  } catch(e) {}
   try {
     const r = await fetch('/data/commodities.json?t=' + Date.now());
     if(!r.ok) throw new Error('HTTP ' + r.status);

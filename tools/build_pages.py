@@ -498,6 +498,7 @@ def build_items(cm, i18n, chart_map, charts_dir):
     # aliases from featured (raw name -> display)
     alias = {}
     unit_of = {}
+    _units_seen = {}
     chart_of = {}
     for f in cm.get("featured", []):
         raw = f.get("source_name") or f.get("display_name")
@@ -507,6 +508,9 @@ def build_items(cm, i18n, chart_map, charts_dir):
         if disp:
             unit_of[disp] = f.get("unit", "")
             chart_of[disp] = f.get("chart_id")
+    for c in (load(os.path.join(charts_dir, "_index.json"), {}) or {}).get("items", []):
+        if c.get("name") and c.get("unit"):
+            unit_of.setdefault(c["name"], c["unit"])
     for c in (chart_map or {}).get("items", []):
         if c.get("name") and c.get("chart_id"):
             chart_of.setdefault(c["name"], c["chart_id"])
@@ -529,6 +533,8 @@ def build_items(cm, i18n, chart_map, charts_dir):
             it.sector_ko = (row.get("sector") or "").strip() or "기타"
             it.sector_en = sectors_map.get(it.sector_ko) or ("Other" if it.sector_ko == "기타" else it.sector_ko)
             it.unit = unit_of.get(ko, "")
+            if it.unit:
+                _units_seen[ko] = it.unit
             it.chart_id = chart_of.get(ko) or chart_of.get(raw)
             items[ko] = it
             order.append(ko)
@@ -549,13 +555,20 @@ def build_items(cm, i18n, chart_map, charts_dir):
             it.sector_ko = f.get("sector") or f.get("category") or "기타"
             it.sector_en = sectors_map.get(it.sector_ko) or (i18n or {}).get("categories", {}).get(it.sector_ko) or it.sector_ko
             it.unit = f.get("unit", "")
+            if it.unit:
+                _units_seen[disp] = it.unit
             it.chart_id = f.get("chart_id")
             it.quotes.append({"sector_ko": it.sector_ko, "prev": f.get("price_prev"), "last": f.get("price_today"), "chg": f.get("change_pct")})
             items[disp] = it
             order.append(disp)
 
-    # slugs — 한 번 정한 주소는 영원히 그대로 둔다(data/slug_map.json).
+    # 단위표 — 첫 화면 전체 목록이 읽어 쓴다. 아는 것만 적는다.
     data_dir = os.path.dirname(charts_dir)
+    write_if_changed(os.path.join(data_dir, "units.json"),
+                     json.dumps({"note": "품목 이름 → 가격 단위. 확인된 품목만 적습니다.", "items": _units_seen},
+                                ensure_ascii=False, indent=1, sort_keys=True) + chr(10))
+
+    # slugs — 한 번 정한 주소는 영원히 그대로 둔다(data/slug_map.json).
     slug_map_path = os.path.join(data_dir, "slug_map.json")
     slug_map = load(slug_map_path, {}) or {}
     taken = {}
