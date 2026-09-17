@@ -137,7 +137,7 @@ PAGES = [
             "h1": "Yttrium Metal & Yttrium Oxide (Y₂O₃) from China",
             "kicker": "Supply · RFQ",
             "intro": [
-                "Available now. Yttrium oxide Y₂O₃ 99.999% (5N) powder in three particle sizes — D50 1–2, 3–4 and 5–7 µm. Priced per tonne with our Chinese producer and offered from 1,000 kg. HS code 2846.90-1000, ICP-MS certificate with every lot.",
+                "Available now. Yttrium oxide Y₂O₃ 99.999% (5N) powder in three particle sizes — D50 1–2, 3–4 and 5–7 µm. Priced per tonne with our Chinese producer and offered from 1,000 kg. HS code 2846.90-1000, ICP-MS certificate with every lot. Yttrium requires Chinese government export approval. Count 45 Chinese business days from the date the application is filed; we prepare the paperwork.",
                 "Yttrium oxide is the workhorse material for plasma-resistant coatings inside semiconductor etch and deposition chambers, for yttria-stabilised zirconia (YSZ) ceramics, and for phosphors and YAG laser crystals. We supply 4N and 5N Y₂O₃ from Chinese producers with ICP impurity certificates.",
                 "For semiconductor coating customers we can supply spray-grade granulated Y₂O₃ (spherical, 10–50 µm) and Y₂O₃-based composite powders (YOF, Y-Al) to specification.",
             ],
@@ -151,12 +151,12 @@ PAGES = [
             ],
         },
         "ko": {
-            "title": "산화이트륨 5N(Y₂O₃ 99.999%) 중국 직수입 공급 — 재고 보유·단가 문의 | CHINANEWS",
-            "desc": "산화이트륨(이트리아) Y₂O₃ 99.999% 5N 분말을 D50 1~2 / 3~4 / 5~7µm 세 가지 입도로 중국에서 직수입 공급합니다. HS 2846.90-1000, 1톤 단위 단가 협의 완료. 반도체 챔버 코팅·YSZ·형광체·YAG용. ICP 성적서와 샘플 제공, 한국 내 통관·납품.",
+            "title": "산화이트륨 5N(Y₂O₃ 99.999%) 중국 직수입 공급 — 수출 승인 대행·단가 문의 | CHINANEWS",
+            "desc": "산화이트륨(이트리아) Y₂O₃ 99.999% 5N 분말을 D50 1~2 / 3~4 / 5~7µm 세 가지 입도로 중국에서 직수입 공급합니다. HS 2846.90-1000, 1톤 단위 단가 협의 완료. 반도체 챔버 코팅·YSZ·형광체·YAG용. 중국 수출 승인 대행, ICP 성적서와 샘플 제공, 한국 내 통관·납품.",
             "h1": "산화이트륨(Y₂O₃) 5N 중국 직수입 공급",
             "kicker": "공급 · 견적",
             "intro": [
-                "지금 공급 가능합니다. 산화이트륨 Y₂O₃ 99.999%(5N) 분말을 입도 세 가지(D50 1~2µm · 3~4µm · 5~7µm)로 공급합니다. 중국 생산자와 1톤 단위 단가 협의를 마쳤고, HS 코드 2846.90-1000으로 최소 1,000kg부터 주문받습니다. ICP-MS 성적서가 함께 나갑니다.",
+                "지금 공급 가능합니다. 산화이트륨 Y₂O₃ 99.999%(5N) 분말을 입도 세 가지(D50 1~2µm · 3~4µm · 5~7µm)로 공급합니다. 중국 생산자와 1톤 단위 단가 협의를 마쳤고, HS 코드 2846.90-1000으로 최소 1,000kg부터 주문받습니다. ICP-MS 성적서가 함께 나갑니다. 이트륨은 중국 정부의 수출 승인을 받아야 하는 품목입니다. 승인 접수일로부터 중국 영업일 기준 45일이 걸리며, 제출 서류는 저희가 준비합니다.",
                 "산화이트륨(이트리아)은 반도체 식각·증착 챔버 내부의 내플라즈마 코팅, 이트리아 안정화 지르코니아(YSZ) 세라믹, 형광체와 YAG 레이저 결정의 핵심 소재입니다. 국내 구매 담당자가 중국 생산자와 직접 거래할 때 겪는 성적서 검증, 통관, 대금 조건을 저희가 대신 처리합니다.",
                 "반도체 코팅 고객에게는 용사용 조립 분말(구형, 10~50µm)과 Y₂O₃계 복합 분말(YOF, Y-Al)을 규격에 맞춰 공급할 수 있습니다.",
             ],
@@ -166,7 +166,7 @@ PAGES = [
                 ("최소 주문량은요?", "이번 공급 확정분(5N, D50 1~2 / 3~4 / 5~7µm)은 입도별로 1,000kg 단위입니다. 그 밖의 규격은 5N 25kg, 4N 50kg부터이며 500g 샘플을 제공합니다."),
                 ("단가는 어떻게 되나요?", "톤당 단가를 중국 생산자와 협의해 두었습니다. 시세와 환율에 따라 움직이므로 문의 주시면 그날 기준으로 알려 드립니다."),
                 ("HS 코드와 통관은요?", "HS 2846.90-1000으로 수입합니다. 수입 신고와 관세 납부, 국내 운송까지 저희가 맡고 구매처는 국내 거래로 받으시면 됩니다."),
-                ("납기는 얼마나 걸리나요?", "재고분은 통관까지 약 2~3주, 주문 생산은 규격 확정 후 4~6주를 봅니다."),
+                ("납기는 얼마나 걸리나요?", "이트륨은 중국 정부의 수출 승인을 받아야 하는 품목입니다. 승인 접수일로부터 중국 영업일 기준 45일이 걸리며, 제출 서류는 저희가 준비합니다. 승인이 나오면 선적과 통관에 2~3주가 더 걸립니다."),
                 ("고객 규격서에 맞출 수 있나요?", "네. 입도(D10/D50/D90), 강열감량, 불순물 한도를 문의에 첨부해 주시면 그 기준으로 견적합니다."),
             ],
         },
