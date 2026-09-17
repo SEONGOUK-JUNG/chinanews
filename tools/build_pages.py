@@ -361,6 +361,9 @@ def topbar(lang, alt_path):
              alt=alt_path, al="en" if lang == "ko" else "ko", ol=t["other_lang"])
 
 
+FX_NOTE = {"ko": "", "en": ""}
+
+
 def footer(lang, n_items):
     t = T[lang]
     p = "/ko" if lang == "ko" else ""
@@ -368,11 +371,12 @@ def footer(lang, n_items):
     return (
         '<footer><nav><a href="{home}">{h}</a><a href="{p}/commodities/">{az}</a><a href="{p}/daily/">{d}</a><a href="{p}/supply/">{sup}</a>'
         '<a href="/press/abridge-sic-cvd-20260615.html">{pr}</a><a href="{alt}">{ol}</a></nav>'
-        '<p>{about}</p><p class="disc">{disc}</p>'
+        '<p>{about}</p>{fxn}<p class="disc">{disc}</p>'
         '<p>© BRIDGE GROUP · <a href="http://www.abridge.co.kr/" rel="noopener">ABridge</a> · <a href="https://www.ecobridge.biz/" rel="noopener">Ecobridge</a> · <a href="https://dealbridge.asia/" rel="noopener">DealBridge</a></p></footer>\n'
         '</div>\n</body>\n</html>\n'
     ).format(home=home, h=t["home"], term=t["terminal"], p=p, az=t["az"], d=t["daily"], pr=t["press"], sup=SUP[lang]["nav"], alt=t["other_href"], ol=t["other_lang"],
-             about=esc(t["footer_about"].format(n=n_items)), disc=esc(t["disclaimer"]))
+             about=esc(t["footer_about"].format(n=n_items)), disc=esc(t["disclaimer"]),
+             fxn=('<p class="disc">{}</p>'.format(esc(FX_NOTE[lang])) if FX_NOTE[lang] else ""))
 
 
 def crumbs(lang, items):
@@ -492,7 +496,21 @@ class Item(object):
         return ("/ko" if lang == "ko" else "") + "/commodity/" + self.slug + ".html"
 
 
-def build_items(cm, i18n, chart_map, charts_dir):
+def to_usd(it, usd_cny):
+    """위안으로 매겨진 값을 달러로 바꾼다. 애초에 달러인 품목(원유 등)은 그대로 둔다."""
+    if (it.unit or "").startswith("USD"):
+        return
+    for q in it.quotes:
+        for k in ("prev", "last"):
+            v = q.get(k)
+            if isinstance(v, (int, float)):
+                q[k] = v / usd_cny
+    it.candles = [dict(c, value=c["value"] / usd_cny) for c in it.candles
+                  if isinstance(c.get("value"), (int, float))]
+    it.unit = ("USD" + it.unit[3:]) if (it.unit or "").startswith("CNY") else it.unit
+
+
+def build_items(cm, i18n, chart_map, charts_dir, usd_cny=None):
     names_map = (i18n or {}).get("names", {})
     sectors_map = (i18n or {}).get("sectors", {})
     # aliases from featured (raw name -> display)
@@ -608,12 +626,23 @@ def build_items(cm, i18n, chart_map, charts_dir):
     if added:
         write_if_changed(slug_map_path, json.dumps(slug_map, ensure_ascii=False, indent=1, sort_keys=True) + chr(10))
         print("build_pages: 새 주소 {}개를 slug_map.json 에 적었습니다".format(added))
-        if it.chart_id:
-            c = load(os.path.join(charts_dir, it.chart_id + ".json"))
-            if c and isinstance(c.get("candles"), list):
-                it.candles = [x for x in c["candles"] if x.get("value") is not None]
-                if not it.unit and c.get("unit"):
-                    it.unit = c["unit"]
+
+    # 차트 이력
+    for ko in order:
+        it = items[ko]
+        if not it.chart_id:
+            continue
+        c = load(os.path.join(charts_dir, it.chart_id + ".json"))
+        if c and isinstance(c.get("candles"), list):
+            it.candles = [x for x in c["candles"] if x.get("value") is not None]
+            if not it.unit and c.get("unit"):
+                it.unit = c["unit"]
+
+    # 값은 모두 달러로 — 이 사이트를 보는 사람은 달러로 판단한다.
+    if usd_cny:
+        for ko in order:
+            to_usd(items[ko], usd_cny)
+
     return [items[k] for k in order]
 
 
@@ -1400,7 +1429,13 @@ def main():
     built_at = dt.datetime.now(KST).strftime("%Y-%m-%dT%H:%M:%S+09:00")
     today = dt.datetime.now(KST).strftime("%Y-%m-%d")
 
-    items = build_items(cm, i18n, chart_map, os.path.join(data, "commodity_charts"))
+    usd_cny = (((fx.get("derived") or {}).get("usd_cny") or {}).get("value"))
+    if not usd_cny:
+        print("build_pages: 환율을 못 읽어 위안 그대로 만듭니다")
+    else:
+        FX_NOTE["ko"] = "가격은 중국 내수 현물가를 달러로 환산한 값입니다. 환산 기준 USD/CNY {:.4f}.".format(usd_cny)
+        FX_NOTE["en"] = "Prices are China domestic spot quotations converted to US dollars at USD/CNY {:.4f}.".format(usd_cny)
+    items = build_items(cm, i18n, chart_map, os.path.join(data, "commodity_charts"), usd_cny)
     by_sector = {}
     for it in items:
         by_sector.setdefault(it.sector_ko, []).append(it)
