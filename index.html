@@ -1678,10 +1678,7 @@ async function loadCommodities(){
     const metaEl = document.getElementById('cm-modal-meta');
     if(metaEl){
       if(_cmAllItems.length > 0){
-        var _nu = _cmAllItems.filter(function(x){ return !(x.unit || _cmUnits[x.display_name||x.name||'']); }).length;
-        metaEl.textContent = (window.CN_LANG==='ko'
-          ? ('전체 ' + _cmAllItems.length + '종 · 기준 ' + (d.ref_date || '—') + (_nu ? ' · 단위 확인된 품목만 표시(미확인 ' + _nu + '종은 —)' : ''))
-          : ('All ' + _cmAllItems.length + ' items · Ref ' + (d.ref_date || '—') + (_nu ? ' · unit shown where confirmed (' + _nu + ' pending)' : '')));
+        metaEl.textContent = (window.CN_LANG==='ko' ? ('전체 ' + _cmAllItems.length + '종 · 기준 ' + (d.ref_date || '—')) : ('All ' + _cmAllItems.length + ' items · Ref ' + (d.ref_date || '—')));
       } else {
         metaEl.textContent = (d.all_items_note || (window.CN_LANG==='ko'?'전체 리스트 준비 중':'Full list coming soon'));
       }

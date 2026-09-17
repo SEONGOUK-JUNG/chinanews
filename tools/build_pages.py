@@ -564,8 +564,12 @@ def build_items(cm, i18n, chart_map, charts_dir):
 
     # 단위표 — 첫 화면 전체 목록이 읽어 쓴다. 아는 것만 적는다.
     data_dir = os.path.dirname(charts_dir)
-    write_if_changed(os.path.join(data_dir, "units.json"),
-                     json.dumps({"note": "품목 이름 → 가격 단위. 확인된 품목만 적습니다.", "items": _units_seen},
+    _units_path = os.path.join(data_dir, "units.json")
+    _units_all = dict(((load(_units_path, {}) or {}).get("items") or {}))
+    for _k, _v in _units_seen.items():
+        _units_all.setdefault(_k, _v)
+    write_if_changed(_units_path,
+                     json.dumps({"note": "품목 이름 → 가격 단위.", "items": _units_all},
                                 ensure_ascii=False, indent=1, sort_keys=True) + chr(10))
 
     # slugs — 한 번 정한 주소는 영원히 그대로 둔다(data/slug_map.json).
