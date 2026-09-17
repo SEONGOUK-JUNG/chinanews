@@ -43,6 +43,9 @@ PAGES = [
                 "We supply rare earth oxides, metals and master alloys sourced from producers in China's main rare-earth regions (Inner Mongolia, Jiangxi/Ganzhou, Sichuan), for magnet makers, phosphor and ceramic producers, catalyst formulators and research buyers in Korea and overseas.",
                 "Prices below are live China domestic spot quotations from our terminal, updated daily. Export pricing (FOB/CIF, USD) is quoted per enquiry and depends on purity, form, quantity and licence status.",
             ],
+            "notice": ('<b>Available now — yttrium oxide Y₂O₃ 99.999% (5N)</b>, powder, D50 1–2 / 3–4 / 5–7 µm. '
+                       'HS 2846.90-1000, from 1,000 kg per size. We prepare the Chinese dual-use export licence file. '
+                       '<a href="/supply/yttrium.html">Specifications</a> · <a href="/supply/yttrium.html#rfq">Ask for a price →</a>'),
             "table_head": ["Element", "Typical forms", "Purity", "Main uses"],
             "faq": [
                 ("What is the minimum order?", "Oxides and metals from 25 kg (drum) for most elements; magnet-grade PrNd alloy and Dy/Tb from 100 kg. Sample lots of 100 g–1 kg are available."),
@@ -60,6 +63,9 @@ PAGES = [
                 "내몽골·장시(간저우)·쓰촨 등 중국 주요 희토류 산지의 생산자로부터 희토류 산화물·금속·마스터합금을 조달해 국내외 자석·형광체·세라믹·촉매 제조사와 연구기관에 공급합니다.",
                 "아래 가격은 터미널의 중국 내수 현물가로 매일 갱신됩니다. 수출 가격(FOB/CIF, USD)은 순도·형태·수량·허가 상태에 따라 문의별로 견적합니다.",
             ],
+            "notice": ('<b>지금 공급 가능 · 산화이트륨 Y₂O₃ 99.999%(5N)</b> — 분말, 입도 D50 1~2 / 3~4 / 5~7µm 세 가지. '
+                       'HS 2846.90-1000, 입도별 1,000kg 단위. 중국 이중용도 수출 허가 서류는 저희가 준비합니다. '
+                       '<a href="/ko/supply/yttrium.html">규격 보기</a> · <a href="/ko/supply/yttrium.html#rfq">단가 문의하기 →</a>'),
             "table_head": ["원소", "취급 형태", "순도", "주요 용도"],
             "faq": [
                 ("최소 주문량은 얼마인가요?", "대부분의 산화물·금속은 25kg(드럼)부터, 자석용 PrNd 합금과 Dy·Tb는 100kg부터입니다. 100g~1kg 샘플을 제공합니다."),
@@ -74,7 +80,7 @@ PAGES = [
             ("Praseodymium (Pr)", "프라세오디뮴", "Pr₆O₁₁ oxide · Pr metal", "산화물 Pr₆O₁₁ · 금속", "99.5–99.99%", "Magnets, pigments, aircraft alloys", "자석, 안료, 항공 합금", ["산화프라세오디뮴"]),
             ("Dysprosium (Dy)", "디스프로슘", "Dy₂O₃ oxide · Dy metal · DyFe alloy", "산화물 Dy₂O₃ · 금속 · DyFe 합금", "99.5–99.99%", "High-temperature NdFeB magnets, nuclear control rods", "고온용 NdFeB 자석, 원자로 제어봉", ["산화디스프로슘", "금속디스프로슘", "디스프로슘철합금"]),
             ("Terbium (Tb)", "테르븀", "Tb₄O₇ oxide · Tb metal", "산화물 Tb₄O₇ · 금속", "99.9–99.99%", "Magnet coercivity additive, green phosphors, magnetostrictive alloys", "자석 보자력 첨가제, 녹색 형광체, 자기변형 합금", []),
-            ("Yttrium (Y)", "이트륨", "Y₂O₃ oxide 4N–5N · Y metal", "산화물 Y₂O₃ 4N~5N · 금속", "99.99–99.999%", "YSZ ceramics, phosphors, YAG lasers, semiconductor coatings (Y₂O₃ plasma-resistant)", "YSZ 세라믹, 형광체, YAG 레이저, 반도체 내플라즈마 코팅", []),
+            ("Yttrium (Y)", "이트륨", "Y₂O₃ 5N powder D50 1–2 / 3–4 / 5–7 µm (available now) · oxide 4N · Y metal", "산화이트륨 5N 분말 D50 1~2 / 3~4 / 5~7µm(공급 확정) · 산화물 4N · 금속", "99.99–99.999%", "YSZ ceramics, phosphors, YAG lasers, semiconductor coatings (Y₂O₃ plasma-resistant)", "YSZ 세라믹, 형광체, YAG 레이저, 반도체 내플라즈마 코팅", []),
             ("Lanthanum (La)", "란탄", "La₂O₃ oxide · La metal · La carbonate", "산화물 La₂O₃ · 금속 · 탄산란탄", "99–99.99%", "FCC catalysts, optical glass, NiMH batteries", "FCC 촉매, 광학유리, NiMH 전지", []),
             ("Cerium (Ce)", "세륨", "CeO₂ oxide · Ce carbonate · Ce metal", "산화물 CeO₂ · 탄산세륨 · 금속", "99–99.99%", "Glass polishing, auto catalysts, UV absorbers", "유리 연마, 자동차 촉매, UV 흡수제", []),
             ("Samarium (Sm)", "사마륨", "Sm₂O₃ oxide · Sm metal", "산화물 Sm₂O₃ · 금속", "99.5–99.99%", "SmCo magnets, neutron absorbers", "SmCo 자석, 중성자 흡수재", []),

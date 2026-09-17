@@ -1145,6 +1145,10 @@ def rfq_form(lang, key, subject, product):
 
 SUPPLY_CSS = """
 .kicker{font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--orange);font-weight:700;margin-bottom:6px}
+.pnotice{margin:14px 0 0;padding:12px 14px;border:1px solid #E8C078;border-left-width:3px;border-radius:4px;background:rgba(232,192,120,.07);font-size:13.5px;line-height:1.8}
+.pnotice b{color:#E8C078}
+.pnotice a{color:#E8C078;text-decoration:none;border-bottom:1px solid rgba(232,192,120,.4)}
+.pnotice a:hover{border-bottom-color:#E8C078}
 .rfqbox{background:var(--panel);border:1px solid var(--orange);border-radius:4px;padding:16px 18px 18px;margin-top:26px}
 .rfqbox h2{margin-top:0;border:none}
 .fgrid{display:grid;grid-template-columns:1fr 1fr;gap:10px 14px}.fgrid label{display:flex;flex-direction:column;font-size:12px;color:var(--muted);gap:4px}.fgrid .full{grid-column:1/-1}
@@ -1192,6 +1196,8 @@ def render_supply(lang, page, pages, by_ko, ref_date, n_items, key):
     out.append('<div class="kicker">{}</div><h1>{}</h1>\n'.format(esc(c["kicker"]), esc(c["h1"])))
     for para in c["intro"]:
         out.append('<p class="lead">{}</p>\n'.format(esc(para)))
+    if c.get("notice"):
+        out.append('<div class="pnotice">{}</div>\n'.format(c["notice"]))
     out.append('<div class="ctabar"><a class="cta" href="#rfq">{}</a><span class="note">{}</span></div>\n'.format(esc(t["rfq"]), esc(SC.COMPANY[lang])))
 
     # product table
