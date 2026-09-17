@@ -1,10 +1,28 @@
 {
-  "run_at_kst": "2026-09-17T20:10:10+09:00",
+  "run_at_kst": "2026-09-18T07:20:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "EU 통상수장, 내달 베이징행…중국과 무역불균형 담판",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PUENSXzduWVlJYVUyeVN3RXhTMmJPYW1vbHEtMVdmSk9RUmk3bUN2Z0RNSGpjLTZKbjBCYzN6Vkp0eF8zVVl6cHRncjJ5ekN5MEhoVlZmdzZONWvSAWBBVV95cUxOUEJ0WFNHa1BkbDJSOHVaYm1Xd1RsQWdPRXp1TmNxT3NXb19zazZDb21MZFEta3dMSl9WNmI0bVM5Sk1fbk40NURqa3U0bkhVS2pmRWlwemtsX1picmM4S0Q?oc=5",
+      "source": "연합뉴스",
+      "date": "Thu, 17 Sep 2026 18:13:54 GMT"
+    },
+    {
+      "title": "[현장 인터뷰] 연길에서...중국 25년 이민재 회장이 말하는 ‘한인 경제공동체’",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iVnhTMXpsUG1TYlBuMkdOTnE3Y1cyQWtVcndjeDVHcVZkRnJuZXRfVnAxQXFWWHdhbHRERUN5eEo5aXk0X0ZyMFNmS1FkM2NnanBGZVJUcnh6MUNnRmg2clI1YkFjZmQ0OUp4WA?oc=5",
+      "source": "재외동포신문",
+      "date": "Thu, 17 Sep 2026 11:16:39 GMT"
+    },
+    {
+      "title": "중국 상무부, 중미 경제무역팀, 관세 인하 등 의제 관련 긴밀한 소통 유지",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qZ25PQVZ5aGo0ekVON19tYTlnZl9nY2F3S01JakpwNXZxTFdSRVB3RjhDaUtOdXQyRHlTZUNJRVAzUldKLTl2ajdUWTdrNUQ5WkdYOTMydldYVkp5UFJIYmdCSQ?oc=5",
+      "source": "国际在线",
+      "date": "Thu, 17 Sep 2026 09:56:44 GMT"
+    },
     {
       "title": "'홍콩 반환' 29년 만에 결단…야욕 드러낸 중국의 '파격 계획'",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IbXpVZ2Fmalp2Y0tBVGhXeG44dHlpV1JuMFZxOEZVbHUzWkg3M1M3c293MklldmRpUXpuWmVGWkZOSWpEYTlHSkNjVmp1QlBpcG1HUF95ejdmQQ?oc=5",
@@ -12,16 +30,10 @@
       "date": "Thu, 17 Sep 2026 09:38:24 GMT"
     },
     {
-      "title": "홍성군, 중국 후난성 경제무역 컨벤션 참가",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VZnJ5eVNCMGJRZzl6WWt2SGsxdl9nNVpiOGltYTBBX0JNWngyQV83ZmlhT3Ryc1J3WS1sOUlreURjZGU4YkI2cVVMMUlPSHdic2FPb0FoNHhGcVRVRloybXQ4dTJNQUN2aUY0ZEYtZG1pVlU?oc=5",
-      "source": "동방일보",
-      "date": "Thu, 17 Sep 2026 09:20:01 GMT"
-    },
-    {
-      "title": "무신사, 중국 남부 첫 진출…선전에 2개 매장 동시 오픈",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HTWJmZ1NmRmRNTmJhaXUzRmhDX3E3WTkxZDFxYm05ZkZMTjBHdU50dnhPNmUxTlFsZGJDQlV4LXc4U0lEM2Ewd3didjdzaVk?oc=5",
-      "source": "v.daum.net",
-      "date": "Thu, 17 Sep 2026 06:35:28 GMT"
+      "title": "[중국칭다오통신] 中 칭다오서 ‘2026 해양협력발전포럼’ 개막...해양경제 발전 논의",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkR0EwRV9ScHJobEtFV185Nl9ZMTJWV2drNzNPbW5OMDdHTV9ROS1kdmdhVGpUT3JTOGZ4bVphQWtiNVlmODhUS0dObUJUUHluNmt3WDJB?oc=5",
+      "source": "중앙일보",
+      "date": "Thu, 17 Sep 2026 07:04:29 GMT"
     },
     {
       "title": "상하이, 글로벌 금융도시 5위 탈환…서울 7위",
@@ -36,28 +48,10 @@
       "date": "Thu, 17 Sep 2026 05:31:30 GMT"
     },
     {
-      "title": "글로벌 국채 수익률 상승세 속 중국만 예외···“중국 경제는 독자적 흐름”",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPZllJZENoSk1kd2l3b1doWFZqemdKX2lUZkFNODExRXdvMEhyZXZ4dk9HazdfancxUEhvR2FkdE1TVExJY2YzN2VpTHZMV2Y0NVd5czBoRUlndXZJamtYQUkwd2hJZEktSktnaEdsSm9JZnBHS0FBLVBpbTM2UG1vX0tLc2ZtM21OeDd0YWhmOUROczdvMGxsOVl5bzRjLUc0c2tDUDJ1NEhmT1dyMFdOSkk5N0R4NFg1Y3h3eHdOQjgzbUJ2bjF0VFlJdmRJaEhlZGNGSFpuSDd1bk92YnpTVDNyOXBVbkZUbFRmVWMwcTc4dG96V0lKbzRHM0FxSktudmlFS0Z3NVpEWENlVHpyVDBLTUFmX1EycmJmOUhTbGwycFJpRElrUWZVOHA3WVc5Ym1MaFp1MDJ3bnM?oc=5",
-      "source": "Benzinga",
-      "date": "Thu, 17 Sep 2026 04:33:31 GMT"
-    },
-    {
-      "title": "홍성군, 중국 후난성 경제무역 컨벤션 참가",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVdzFLMnJRdmNlTUxFS1VneHBBMC0wMkNKWHY5WGFBZlZYLVFMWWhwU2VmTWhBU3NLT2h2bXdzWkFpdjY1T3dheXFoeDQxcGlqZ3phd1p4NlZNU2s1VHdDaHpHQzBtMDV6SEhmbFNLNkgtQkU?oc=5",
-      "source": "충남일보",
-      "date": "Thu, 17 Sep 2026 02:32:56 GMT"
-    },
-    {
-      "title": "홍성군, 중국 후난성 경제무역 컨벤션 참가…지역기업 수출 지원",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnSVl5X1BodE01blhBMXdqV01qR1czQ0hid3VRZ1g4N0E3cEdrcG0yaHM3bzZEUTczS2UyWExlUm4tZDZsQnNYcEhDVjYydlVwTFlDa1dtUjc3Qk8yWEF2Y3JMVHhxekk5NjRZ?oc=5",
-      "source": "메가충청뉴스",
-      "date": "Thu, 17 Sep 2026 02:21:54 GMT"
-    },
-    {
-      "title": "\"시진핑, 방미 경제사절단에 왕촨푸 BYD 회장 포함 검토\"",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MQVNsRXBNdm1HYnVFNm0xOTlCWE5mUi0tZFN6TlY3UFZaZUQzSTNjZGFEcmdzb29OTTlGNm1pRnNaUTJIU2t1R21ZLXlWVGJTbkxDTFlrUWpLZGo4?oc=5",
-      "source": "뉴스핌",
-      "date": "Thu, 17 Sep 2026 01:51:00 GMT"
+      "title": "홍콩, 中 정부 경제 계획에 맞춘 '중기 경제·사회 발전 목표 5개년 계획' 수립...1997년 반환 후 처음",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56c2piQkQ2TDctekJ3YWZ6TTh5dEduZnREOWd0TkF6bWVxdjd0WE9zQkVvZFBOZnNNTWtuTWwyTjdkUF80aXlhY2dzYXVlZTU1dThMRUZmTU1XaVRpRkc1akdNelZaQTg5Y0g00gFvQVVfeXFMTWNIWUFYdGVoWEl1LUhHTEtwNl9UdnhFM2t1aUxUNG1jRURtNkRtcTVuQmVhTDlidXZMQ1NsVmxSX1pIT1RrQ2xObXRKZ1d1NkZNLUlpMzVERmVIN1hRR0RkdllaOXFBUVpndUQtbXVR?oc=5",
+      "source": "pennmike.com",
+      "date": "Thu, 17 Sep 2026 03:44:17 GMT"
     },
     {
       "title": "공산당도 열지 못한 14억의 지갑… 중국 경제 4대 착시의 종말",
@@ -70,6 +64,12 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3SWNfa3UydDVQRG9lVmpLbENLNTk5ZkdnYU9SdmxmOWRyNWI3QVZhY0ZCaVRBdjFRc05HblRGelhYSEpCOHZEeFYzS0NJdWl3dGhGQzA4YWgzUdIBX0FVX3lxTE1QMVdyUjdZWEpLWUtKSlJhVUFHbV94NTlOMlJfY2o0ZVFyajRXS1RDSVpFemRKcVJyb2V3SXJla25OMW9OaEFoeS1tQUlGT1ZKeVFpMkxqRFcxX3JFUS1N?oc=5",
       "source": "경향신문",
       "date": "Tue, 15 Sep 2026 04:42:00 GMT"
+    },
+    {
+      "title": "수출 고공행진 중국, 극심한 내수침체 이어져",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PRzdsN0ktdUs0RUx1eG1hcTFKSVRIRmtOUUtENjhCM3BROVB3R2ZqLTliMXBWbjktSWJ4VlJ0SWY5aWp1c0lOTmRjX29UYzUwT2huT2NrNzQ5d9IBWEFVX3lxTFA4Tzk0Q1lmOW9zaXZNZFdoSFZUdERJQmFFVXAyejRhRVBSdmJFcDJFTEZtN0Q3OUd4TmMtRWpYQUdRTWNhT1VhVWVJaXVSOVhwTUg4NnRORGU?oc=5",
+      "source": "아주경제",
+      "date": "Tue, 15 Sep 2026 04:20:51 GMT"
     },
     {
       "title": "\"다음 글로벌 경제위기는 중국에서 시작될 것\" - 머니투데이",
