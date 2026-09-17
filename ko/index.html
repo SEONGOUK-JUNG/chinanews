@@ -329,6 +329,28 @@
 <body>
 <script>
 window.USD_CNY = null;
+window._cmUnits = {};
+window.__fxReady = fetch('/data/fx_latest.json?t=' + Date.now()).then(function(r){ return r.ok ? r.json() : null; })
+  .then(function(j){ var v = j && j.derived && j.derived.usd_cny && j.derived.usd_cny.value; if(v) window.USD_CNY = v; })
+  .catch(function(){});
+window.__unitsReady = fetch('/data/units.json?t=' + Date.now()).then(function(r){ return r.ok ? r.json() : null; })
+  .then(function(j){ if(j && j.items) window._cmUnits = j.items; })
+  .catch(function(){});
+window.__cmReady = Promise.all([window.__fxReady, window.__unitsReady]);
+function cmUnitOf(it){ return it.unit || window._cmUnits[it.display_name || it.name || ''] || ''; }
+function cmToUsd(it){
+  // 이미 바꾼 품목은 건드리지 않는다. 애초에 달러로 매겨진 품목도 그대로 둔다.
+  if(!it || it.__usd) return it;
+  var u = cmUnitOf(it);
+  if(u.indexOf('USD') === 0 || (it.display_name || it.name) === '원유'){ it.unit = u; it.__usd = 1; return it; }
+  if(window.USD_CNY == null) return it;
+  if(typeof it.price_prev === 'number') it.price_prev = it.price_prev / window.USD_CNY;
+  if(typeof it.price_today === 'number') it.price_today = it.price_today / window.USD_CNY;
+  it.unit = (u.indexOf('CNY') === 0) ? ('USD' + u.slice(3)) : u;
+  it.__usd = 1;
+  return it;
+}
+function cmDocToUsd(d){ if(d){ (d.featured || []).forEach(cmToUsd); (d.all_items || []).forEach(cmToUsd); } return d; }
 /* URL decides the language: / = EN, /ko/ = KO. The stored preference follows the page, and the EN/KR toggle navigates between the two URLs. */
 window.CN_LANG = (document.documentElement.lang==='ko')?'ko':'en';
 try{ localStorage.setItem('chinanews_lang', window.CN_LANG); }catch(e){}
@@ -680,7 +702,7 @@ fetch('/data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json(
       </div>
       <table class="dt">
         <thead>
-          <tr><th>Item</th><th>Sector</th><th id="cm-th-prev">Prev</th><th id="cm-th-today">Last</th><th>Unit</th><th>Chg%</th><th class="usd-col">USD</th></tr>
+          <tr><th>Item</th><th>Sector</th><th id="cm-th-prev">Prev</th><th id="cm-th-today">Last</th><th>Unit</th><th>Chg%</th></tr>
         </thead>
         <tbody id="cm-featured-body">
           <tr><td colspan="6" style="color:var(--muted);font-style:italic;text-align:center;padding:14px 0">Loading…</td></tr>
@@ -723,17 +745,17 @@ fetch('/data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json(
         var m={}; (DATA.all_items||[]).forEach(function(x){ if(!(x.display_name in m)) m[x.display_name]=x; });
         function row(disp,it){ if(!it) return '';
           var p=Number(it.change_pct)||0, col=p>0?'var(--up)':(p<0?'var(--down)':'var(--muted)'), sg=p>0?'+':'';
-          return '<tr><td style="font-size:11px">'+disp+'</td><td style="text-align:right;font-family:\'JetBrains Mono\',monospace;font-size:11px">'+Number(it.price_today).toLocaleString('en-US')+'</td><td style="text-align:right;font-size:11px;color:'+col+'">'+sg+p.toFixed(2)+'%</td></tr>'; }
+          return '<tr><td style="font-size:11px">'+disp+'</td><td style="text-align:right;font-family:\'JetBrains Mono\',monospace;font-size:11px">'+Number(it.price_today).toLocaleString('en-US',{maximumFractionDigits:2})+(it.unit?(' <span style="color:var(--muted);font-size:9px">'+it.unit.replace('USD/','/')+'</span>'):'')+'</td><td style="text-align:right;font-size:11px;color:'+col+'">'+sg+p.toFixed(2)+'%</td></tr>'; }
         function fill(id,list){ var b=document.getElementById(id); if(!b)return; var idx=en?2:1; b.innerHTML=list.map(function(x){return row(x[idx],m[x[0]]);}).join('')||'<tr><td>—</td></tr>'; }
         fill('strat-pe',PE); fill('strat-re',RE);
         var T=document.getElementById('strat-title'); if(T) T.textContent=en?'Strategic Materials':'전략 원자재';
         var ph=document.getElementById('strat-pe-h'); if(ph) ph.textContent=en?'Petrochem·PE Chain (Ecobridge)':'석유화학·PE 체인 (에코브릿지)';
         var rh=document.getElementById('strat-re-h'); if(rh) rh.textContent=en?'Rare Earths (Abridge)':'희토류·전략소재 (에이브릿지)';
-        var ft=document.getElementById('strat-foot'); if(ft) ft.textContent=en?'CNY · red=up · green=down (CN convention)':'CNY 기준 · 색상: 적색=상승 · 녹색=하락 (중국 관례)';
+        var ft=document.getElementById('strat-foot'); if(ft) ft.textContent=en?'USD · red=up · green=down (CN convention)':'USD 기준 · 색상: 적색=상승 · 녹색=하락 (중국 관례)';
         var rf=document.getElementById('strat-ref'); if(rf) rf.textContent=DATA.ref_date||'';
       }
       window.__renderStrat=render;
-      fetch('/data/commodities.json?t='+Date.now()).then(function(r){return r.json();}).then(function(d){ DATA=d; render(); setTimeout(render,800); }).catch(function(){ var b=document.getElementById('strat-pe'); if(b) b.innerHTML='<tr><td style="color:var(--muted)">—</td></tr>'; });
+      (window.__cmReady || Promise.resolve()).then(function(){ return fetch('/data/commodities.json?t='+Date.now()); }).then(function(r){return r.json();}).then(cmDocToUsd).then(function(d){ DATA=d; render(); setTimeout(render,800); }).catch(function(){ var b=document.getElementById('strat-pe'); if(b) b.innerHTML='<tr><td style="color:var(--muted)">—</td></tr>'; });
       document.addEventListener('click', function(e){ var sp=e.target.closest?e.target.closest('#lang-toggle span[data-lang]'):null; if(sp) setTimeout(render,30); });
     })();
     </script>
@@ -890,7 +912,7 @@ fetch('/data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json(
         <div style="overflow:auto;flex:1;padding:0 16px 16px 16px">
           <table class="dt" style="width:100%">
             <thead style="position:sticky;top:0;background:var(--bg);z-index:1">
-              <tr><th>Item</th><th>Sector</th><th id="cm-th-prev-modal">Prev</th><th id="cm-th-today-modal">Last</th><th>Unit</th><th>Chg%</th><th class="usd-col">USD</th></tr>
+              <tr><th>Item</th><th>Sector</th><th id="cm-th-prev-modal">Prev</th><th id="cm-th-today-modal">Last</th><th>Unit</th><th>Chg%</th></tr>
             </thead>
             <tbody id="cm-modal-body">
               <tr><td colspan="7" style="color:var(--muted);text-align:center;padding:14px 0">Loading…</td></tr>
@@ -1602,17 +1624,17 @@ function cmUnit(item){
   return u ? '<span style="font-size:10px;color:var(--muted)">' + u + '</span>' : '<span style="color:var(--line-2)">—</span>';
 }
 function rowCommodity(item, featured){
-  const pp = fmtPrice(cmConv(item.price_prev, item));
-  const pt = fmtPrice(cmConv(item.price_today, item));
+  const pp = fmtPrice(item.price_prev);
+  const pt = fmtPrice(item.price_today);
   const pc = fmtPct(item.change_pct);
   const sector = item.sector || item.category || '';
   if(featured){
     // chart_id는 commodity_charts/{id}.json과 매핑
     const cid = item.chart_id || _DISPLAY_TO_CHART_ID[item.display_name] || '';
     const clickable = cid ? ' style="cursor:pointer" data-cm-id="' + cid + '" title="Click to load chart"' : '';
-    return '<tr' + clickable + ' data-cm-ko="' + (item.display_name||'') + '" data-cm-unit="' + (item.unit||'CNY/t') + '"><td>' + cmName(item.display_name) + '</td><td>' + cmSector(item.sector||item.category||'') + '</td><td>' + pp + '</td><td>' + pt + '</td><td>' + cmUnit(item) + '</td><td>' + pc + '</td><td class="usd-col">' + usdCell(item) + '</td></tr>';
+    return '<tr' + clickable + ' data-cm-ko="' + (item.display_name||'') + '" data-cm-unit="' + (item.unit||'CNY/t') + '"><td>' + cmName(item.display_name) + '</td><td>' + cmSector(item.sector||item.category||'') + '</td><td>' + pp + '</td><td>' + pt + '</td><td>' + cmUnit(item) + '</td><td>' + pc + '</td></tr>';
   } else {
-    return '<tr style="cursor:pointer" data-cm-ko="' + (item.display_name||item.name||'') + '" data-cm-unit="' + (item.unit||'CNY/t') + '"><td>' + cmName(item.display_name||item.name) + '</td><td>' + cmSector(item.sector||'') + '</td><td>' + pp + '</td><td>' + pt + '</td><td>' + cmUnit(item) + '</td><td>' + pc + '</td><td class="usd-col">' + usdCell(item) + '</td></tr>';
+    return '<tr style="cursor:pointer" data-cm-ko="' + (item.display_name||item.name||'') + '" data-cm-unit="' + (item.unit||'CNY/t') + '"><td>' + cmName(item.display_name||item.name) + '</td><td>' + cmSector(item.sector||'') + '</td><td>' + pp + '</td><td>' + pt + '</td><td>' + cmUnit(item) + '</td><td>' + pc + '</td></tr>';
   }
 }
 // 16종 display_name → chart_id 매핑
@@ -1654,7 +1676,7 @@ async function loadCommodities(){
   try {
     const r = await fetch('/data/commodities.json?t=' + Date.now());
     if(!r.ok) throw new Error('HTTP ' + r.status);
-    const d = await r.json();
+    const d = cmDocToUsd(await r.json());
     if(d.pulse){
       const refEl = document.getElementById('cm-pulse-ref');
       if(refEl) refEl.textContent = d.ref_date ? (window.CN_LANG==='ko'?'기준일 ':'Ref date ') + d.ref_date : '';
@@ -1819,7 +1841,10 @@ async function loadCommodityChart(commodityId, displayName, noScroll){
       return;
     }
     _cmCurrentId = commodityId;
-    _cmAllValues = d.candles.map(function(c){ return { time: c.time, value: c.value }; });
+    var _fx = window.USD_CNY, _cu = d.unit || '';
+    var _conv = (_fx && _cu.indexOf('CNY') === 0);
+    if(_conv) d.unit = 'USD' + _cu.slice(3);
+    _cmAllValues = d.candles.map(function(c){ return { time: c.time, value: _conv ? (c.value / _fx) : c.value }; });
     if(window.renderCmIndicators) window.renderCmIndicators(_cmAllValues, d.unit);
     // 헤더 갱신
     const titleEl = document.getElementById('cm-chart-title');
@@ -1873,14 +1898,9 @@ document.addEventListener('click', function(e){
   }
 });
 
-// 첫 로드: 공급 품목 우선 — 산화네오디뮴 차트에 이력이 쌓여 있으면 그것, 아니면 구리
+// 첫 화면은 금으로 연다.
 window.addEventListener('load', function(){
-  setTimeout(function(){
-    fetch('/data/commodity_charts/neodymium_oxide.json?t='+Date.now()).then(function(r){ return r.ok ? r.json() : null; }).then(function(d){
-      if(d && Array.isArray(d.candles) && d.candles.length >= 5) loadCommodityChart('neodymium_oxide', '산화네오디뮴', true);
-      else loadCommodityChart('copper', '구리', true);
-    }).catch(function(){ loadCommodityChart('copper', '구리', true); });
-  }, 1500);
+  setTimeout(function(){ loadCommodityChart('gold', '금', true); }, 1500);
 });
   // 5분마다
 
@@ -2178,14 +2198,14 @@ window.addEventListener('load', function(){
     var pts=vals.map(function(v,i){ var x=(i/(Math.max(vals.length-1,1)))*w; var y=h-((v-mn)/rg)*(h-4)-2; return x.toFixed(1)+','+y.toFixed(1); });
     var up=vals[vals.length-1]>=vals[0]; var col=up?'#ff3b3b':'#1aff66';
     return '<svg width="100%" height="'+h+'" viewBox="0 0 '+w+' '+h+'" preserveAspectRatio="none"><polyline fill="none" stroke="'+col+'" stroke-width="1.5" points="'+pts.join(' ')+'"/></svg>'; }
-  function renderInd(){ fetch('/data/commodities.json?t='+Date.now()).then(function(r){return r.json();}).then(function(d){
+  function renderInd(){ fetch('/data/commodities.json?t='+Date.now()).then(function(r){return r.json();}).then(cmDocToUsd).then(function(d){
       var map={}; (d.all_items||[]).forEach(function(it){ if(map[it.display_name]===undefined) map[it.display_name]=it; });
       var host=document.getElementById('ind-heatmap'); if(!host) return;
       var cells=IND.map(function(ko){ var it=map[ko]; if(!it) return ''; var p=it.change_pct;
         return '<div class="hm-cell" data-cm-ko="'+ko+'" data-cm-unit="'+(it.unit||'CNY/t')+'" data-cm-price="'+(it.price_today!=null?it.price_today:'')+'" style="background:'+hmColor(p)+'"><div class="hm-name">'+nm(ko)+'</div><div class="hm-val '+(p>0?'up':(p<0?'down':'flat'))+'">'+(p==null?'—':(p>0?'+':'')+p.toFixed(2)+'%')+'</div></div>'; }).filter(Boolean).join('');
       if(cells) host.innerHTML=cells;
     }).catch(function(e){ console.warn('ind heatmap', e); }); }
-  function renderSpark(){ fetch('/data/commodities.json?t='+Date.now()).then(function(r){return r.json();}).then(function(d){
+  function renderSpark(){ fetch('/data/commodities.json?t='+Date.now()).then(function(r){return r.json();}).then(cmDocToUsd).then(function(d){
       var feat=d.featured||[]; var host=document.getElementById('cm-sparkgrid'); if(!host) return;
       host.innerHTML=feat.map(function(it){ var cid=FC[it.display_name]||''; var p=it.change_pct;
         return '<div data-spark="'+cid+'" style="background:var(--bg);padding:8px 9px">'
