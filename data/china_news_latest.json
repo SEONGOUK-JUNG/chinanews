@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-18T09:41:28+09:00",
+  "run_at_kst": "2026-09-18T10:02:57+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -20,7 +20,7 @@
     {
       "title": "[현장 인터뷰] 연길에서...중국 25년 이민재 회장이 말하는 ‘한인 경제공동체’",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iVnhTMXpsUG1TYlBuMkdOTnE3Y1cyQWtVcndjeDVHcVZkRnJuZXRfVnAxQXFWWHdhbHRERUN5eEo5aXk0X0ZyMFNmS1FkM2NnanBGZVJUcnh6MUNnRmg2clI1YkFjZmQ0OUp4WA?oc=5",
-      "source": "dongponews.net",
+      "source": "재외동포신문",
       "date": "Thu, 17 Sep 2026 11:16:39 GMT"
     },
     {
@@ -34,12 +34,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IbXpVZ2Fmalp2Y0tBVGhXeG44dHlpV1JuMFZxOEZVbHUzWkg3M1M3c293MklldmRpUXpuWmVGWkZOSWpEYTlHSkNjVmp1QlBpcG1HUF95ejdmQQ?oc=5",
       "source": "한국경제",
       "date": "Thu, 17 Sep 2026 09:38:24 GMT"
-    },
-    {
-      "title": "베트남·중국, 경제·무역 및 전략적 연결망 협력 가속화",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQURTaldnV0tVNlFRREo0M3NMT19pdlpzbzhzc1ZkOXIwM3VLbXFULXhyZy11eFBQZERZR0UzckdxbUFFZWlDQ0R6SnpOdWg5Q2k3NmRJUDhWTXNfbDNLZEVKamdldHhXT3JVckp6SEYwamp0eW9vSEhxRWxwb1ZweEM3ZFdyU1V1dnJYZTV2ajRxNmI1TWlCRV9TOUI2RFhfdll0a0dxNjJCclJoWUtCTkJEVXAtaEZwMzdEZENSRXpkZzJVRmc?oc=5",
-      "source": "VOV World",
-      "date": "Thu, 17 Sep 2026 07:57:36 GMT"
     },
     {
       "title": "[중국칭다오통신] 中 칭다오서 ‘2026 해양협력발전포럼’ 개막...해양경제 발전 논의",
@@ -56,7 +50,7 @@
     {
       "title": "공산당도 열지 못한 14억의 지갑… 중국 경제 4대 착시의 종말",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNay0tVHJZc3ZCZ2hkM2Z5aTFiTWpyNzhmcnZ2TmNYa1dJUklyNENPU3duWGkxbmtsbW00MlUwMHk3UExwVHVyRDJRcGlXS3BXSWlvTGFMVzRmYlpWVjVhOVNEdU9zVjVTbnJXU1BvZVU3ODlSTkMtWEVucTRTNkdpdjlhZnBwVEh0?oc=5",
-      "source": "조선일보",
+      "source": "chosun.com",
       "date": "Wed, 16 Sep 2026 18:00:00 GMT"
     },
     {
@@ -70,6 +64,12 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PRzdsN0ktdUs0RUx1eG1hcTFKSVRIRmtOUUtENjhCM3BROVB3R2ZqLTliMXBWbjktSWJ4VlJ0SWY5aWp1c0lOTmRjX29UYzUwT2huT2NrNzQ5d9IBWEFVX3lxTFA4Tzk0Q1lmOW9zaXZNZFdoSFZUdERJQmFFVXAyejRhRVBSdmJFcDJFTEZtN0Q3OUd4TmMtRWpYQUdRTWNhT1VhVWVJaXVSOVhwTUg4NnRORGU?oc=5",
       "source": "아주경제",
       "date": "Tue, 15 Sep 2026 04:20:51 GMT"
+    },
+    {
+      "title": "“시진핑 4연임 의문 없다…큰 과제는 경제” 중국 전 정책참모 전망",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPdXU4dVUtLWtmeVJtd0owdDVUS1hNZVF4TVE5ZlE0Tmh0Y2ltZ2hPMHpzUzRGakM2WEhIRFp1TlRrMXROSjdTeC1NNjR3WkdwTkxKbnRmVmxJTTVMbDFnWDZlWWNfTUN2UXFDbw?oc=5",
+      "source": "한겨레",
+      "date": "Mon, 14 Sep 2026 07:04:00 GMT"
     },
     {
       "title": "\"다음 글로벌 경제위기는 중국에서 시작될 것\" - 머니투데이",
