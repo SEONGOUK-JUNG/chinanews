@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-09-19T07:02:43+09:00",
+  "run_at_kst": "2026-09-19T07:20:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "\"함께 운동하고 여행하는 내 가족\"…젊은층 사로잡은 '털북숭이' 매력[중국.zip]",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KcE5aZzNjSFRwWjJ6RjFGNjZ4QmhYWmd3emZSdDAycUh1Q0RQVDVyR18zMV8zdDhYX21rV1ZSTzJiSUdvYmVqRWNiM3dzOE0?oc=5",
+      "source": "v.daum.net",
+      "date": "Fri, 18 Sep 2026 22:07:28 GMT"
+    },
     {
       "title": "중국, 전자상거래에서도 ‘AI 토큰’ 활발히 유통",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDelRaUTNLRDlKeVlFNl9CTUZaUS04NFk3T2RvTjVmcHhDTzREbEM0RmdXT3pSTEF0TmdaWXlMZFZ3T1lEWlFqVGZOUnpJbld2RUVUYmdWRkNjS1h5UlVVbDJ6ZndqdXYyVHdHYW1FVQ?oc=5",
@@ -22,12 +28,6 @@
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByM1M2bldlbTRNWmFRNlVEeGpXNkJXdzhXRlV1NklreW9lSkJVQ0RwdWVHQW9FclQ1bm5IZTRDdDFkbkN6dUtZM3pSVUxfSWltbURJbVN3bDZLbURFaExpV3Fpc3NtMXpY?oc=5",
       "source": "경남뉴스",
       "date": "Fri, 18 Sep 2026 07:51:17 GMT"
-    },
-    {
-      "title": "[포토] 한·중 미래 경제 협력 포럼에서 축사하는 다이빙 주한중국대사",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kX2tDVmxPanBUbG90UjBrVUU5aGN0dFVZVlVPSFZhdVVaNXJLakhkaldfNXRaNFFFWFZiOWVyNnJ1aWxYcE5EWW1saUhCbGlYMzJOQ1NveUVsZ9IBWEFVX3lxTE9oME9IOWpPVHh2R0pIME16R1NVVHJXN19fUEJoRkwtek1KNUc3XzAwVjMtVExOSnFFMFJzN29UTWpWeUdhUy1USWtfMVRXd3ZjcUNoYkhrWlE?oc=5",
-      "source": "아주경제",
-      "date": "Fri, 18 Sep 2026 07:47:57 GMT"
     },
     {
       "title": "[심층분석] EU-中 통상 갈등의 구조적 뿌리, 희토류·무역 불균형 속 지정학적 충돌",
