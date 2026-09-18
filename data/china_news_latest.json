@@ -1,10 +1,22 @@
 {
-  "run_at_kst": "2026-09-18T20:03:13+09:00",
+  "run_at_kst": "2026-09-19T07:02:43+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "중국, 전자상거래에서도 ‘AI 토큰’ 활발히 유통",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDelRaUTNLRDlKeVlFNl9CTUZaUS04NFk3T2RvTjVmcHhDTzREbEM0RmdXT3pSTEF0TmdaWXlMZFZ3T1lEWlFqVGZOUnpJbld2RUVUYmdWRkNjS1h5UlVVbDJ6ZndqdXYyVHdHYW1FVQ?oc=5",
+      "source": "애플경제",
+      "date": "Fri, 18 Sep 2026 14:56:20 GMT"
+    },
+    {
+      "title": "미국서 답 못 얻은 사우디, 중국으로…베이징도 이란에 ‘홍해 확전’ 경고",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DSm1HOXdrNEtfaDJmSDlUT25EVmRIMHExS05xc2FSNXd4VTVTWFg1OU4xYi00QWFuZmExdVdxbjhTbHoyZTZBbUtUd2dyaGp2Ml9CT2ZuNFM0ZFU?oc=5",
+      "source": "인터내셔널포커스",
+      "date": "Fri, 18 Sep 2026 12:07:22 GMT"
+    },
     {
       "title": "경남도, 중국 진출 DMG그룹 국내복귀 투자 유치",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByM1M2bldlbTRNWmFRNlVEeGpXNkJXdzhXRlV1NklreW9lSkJVQ0RwdWVHQW9FclQ1bm5IZTRDdDFkbkN6dUtZM3pSVUxfSWltbURJbVN3bDZLbURFaExpV3Fpc3NtMXpY?oc=5",
@@ -18,28 +30,10 @@
       "date": "Fri, 18 Sep 2026 07:47:57 GMT"
     },
     {
-      "title": "[中 증시 마감] 종전 기대감에 반등...반도체 후공정 급등",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYcC1GNFZaYjFWRS1CQ0tlX1ctZ1pBTHhfTk5nZ3BtclIzdXpXaEU1b0hDREVDS1VXSzJnRnB0cHNBVTltVXVRQmlhNEFjUlk?oc=5",
-      "source": "v.daum.net",
-      "date": "Fri, 18 Sep 2026 07:06:06 GMT"
-    },
-    {
-      "title": "경남도, 중국진출 DMG 그룹 국내 복귀 이끌어내",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxTFg0X0I5amlhMUhjQmFnZUdTMzRwVFhLdlpFYlFVcEhiNnJNc3VZeWlvbWJWTmhra1FWajhCRFBlbjhWRTBmbmNkcldlcWQwaVhxeDJn?oc=5",
-      "source": "헤럴드경제",
-      "date": "Fri, 18 Sep 2026 05:21:17 GMT"
-    },
-    {
-      "title": "중국 ‘첨단 제조업 더 크게’…부동산 대신 AI·첨단산업에 힘 싣는다",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4ckZmeWVSRVdOSVRGeVEzYmpRM3VyeTltbnNXdlJ3VVdQbi0tSnRFWWN0NnZTX1ptWVRIcVhOUldqcVV6Q2pmOVBZNm5TV3BzanVmMGNB?oc=5",
-      "source": "인터내셔널포커스",
-      "date": "Fri, 18 Sep 2026 02:26:08 GMT"
-    },
-    {
-      "title": "홍성군, 중국 후난성 경제무역 컨벤션 참가",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zSjQxM09tOFVMZldod01rYXRyN3BfQkMzalFZdHJWU3BaZVBjQUx2SDJ0Vi0tS3VWTk5Ha2RueGdDRWY0Ukpxa1gxeERSOEVLYVpJdkVUZk1OQlVuVGhmMmZDUWFwNjFhaVE?oc=5",
-      "source": "뉴스밴드",
-      "date": "Fri, 18 Sep 2026 01:06:58 GMT"
+      "title": "[심층분석] EU-中 통상 갈등의 구조적 뿌리, 희토류·무역 불균형 속 지정학적 충돌",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OV2E5MjdxZ29OVTJ3YWl0YVNvYVprWDBscTBZZUVNWjJkMHlCWml5aVNXQUUzUmF5SzNQc2pmNktOWVVtd1Q3VDRjSHozVW9mMlk0WklfUWVIQUU?oc=5",
+      "source": "데일리연합",
+      "date": "Fri, 18 Sep 2026 04:30:06 GMT"
     },
     {
       "title": "'홍콩 반환' 29년 만에 결단…야욕 드러낸 중국의 '파격 계획'",
@@ -72,10 +66,16 @@
       "date": "Tue, 15 Sep 2026 04:42:06 GMT"
     },
     {
-      "title": "중국 8월 소비 0.4% 증가…산업생산과 소비·투자 불균형 계속",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3SWNfa3UydDVQRG9lVmpLbENLNTk5ZkdnYU9SdmxmOWRyNWI3QVZhY0ZCaVRBdjFRc05HblRGelhYSEpCOHZEeFYzS0NJdWl3dGhGQzA4YWgzUdIBX0FVX3lxTE1QMVdyUjdZWEpLWUtKSlJhVUFHbV94NTlOMlJfY2o0ZVFyajRXS1RDSVpFemRKcVJyb2V3SXJla25OMW9OaEFoeS1tQUlGT1ZKeVFpMkxqRFcxX3JFUS1N?oc=5",
-      "source": "경향신문",
-      "date": "Tue, 15 Sep 2026 04:42:00 GMT"
+      "title": "“시진핑 4연임 의문 없다…큰 과제는 경제” 중국 전 정책참모 전망",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPdXU4dVUtLWtmeVJtd0owdDVUS1hNZVF4TVE5ZlE0Tmh0Y2ltZ2hPMHpzUzRGakM2WEhIRFp1TlRrMXROSjdTeC1NNjR3WkdwTkxKbnRmVmxJTTVMbDFnWDZlWWNfTUN2UXFDbw?oc=5",
+      "source": "한겨레",
+      "date": "Mon, 14 Sep 2026 07:04:00 GMT"
+    },
+    {
+      "title": "위안화 강세·수출 호조세에도…중국 경제 속으로 곪고 있다 [주末머니]",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KR01QSmZ3c2hTaFF4MVBjcU54NDlKUnZnQTVUQjRua3hGT3J2eHVESkVCU2o0ZjF6NHpyR0tUMFZncHptLWNjWGtCYndscHV6QzBnRVNpRmE0SjFQSmhOeA?oc=5",
+      "source": "아시아경제",
+      "date": "Sat, 29 Aug 2026 07:00:00 GMT"
     }
   ]
 }
