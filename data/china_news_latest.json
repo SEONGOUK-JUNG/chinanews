@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-09-18T07:20:05+09:00",
+  "run_at_kst": "2026-09-18T09:41:28+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "중국-아세안 엑스포: 경제 연계 증진",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcVRtU1hhb3M5NkU5WG03TXloNV9acGROSjVEOGJGVC1HVzAzbGlOOGtLNEtpX3lqekh3WlA2Y0ZabmVhVlRCU3I5Y0d4bTQ2bDUtc1ZyYmp1dWtoT01UVEF0cGM3aXpYY21MWFI0bmFRQkFqNnprRDFFQTJ0ZUluQkt3?oc=5",
+      "source": "Vietnam.vn",
+      "date": "Fri, 18 Sep 2026 00:20:49 GMT"
+    },
     {
       "title": "EU 통상수장, 내달 베이징행…중국과 무역불균형 담판",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PUENSXzduWVlJYVUyeVN3RXhTMmJPYW1vbHEtMVdmSk9RUmk3bUN2Z0RNSGpjLTZKbjBCYzN6Vkp0eF8zVVl6cHRncjJ5ekN5MEhoVlZmdzZONWvSAWBBVV95cUxOUEJ0WFNHa1BkbDJSOHVaYm1Xd1RsQWdPRXp1TmNxT3NXb19zazZDb21MZFEta3dMSl9WNmI0bVM5Sk1fbk40NURqa3U0bkhVS2pmRWlwemtsX1picmM4S0Q?oc=5",
@@ -14,7 +20,7 @@
     {
       "title": "[현장 인터뷰] 연길에서...중국 25년 이민재 회장이 말하는 ‘한인 경제공동체’",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iVnhTMXpsUG1TYlBuMkdOTnE3Y1cyQWtVcndjeDVHcVZkRnJuZXRfVnAxQXFWWHdhbHRERUN5eEo5aXk0X0ZyMFNmS1FkM2NnanBGZVJUcnh6MUNnRmg2clI1YkFjZmQ0OUp4WA?oc=5",
-      "source": "재외동포신문",
+      "source": "dongponews.net",
       "date": "Thu, 17 Sep 2026 11:16:39 GMT"
     },
     {
@@ -30,28 +36,22 @@
       "date": "Thu, 17 Sep 2026 09:38:24 GMT"
     },
     {
+      "title": "베트남·중국, 경제·무역 및 전략적 연결망 협력 가속화",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQURTaldnV0tVNlFRREo0M3NMT19pdlpzbzhzc1ZkOXIwM3VLbXFULXhyZy11eFBQZERZR0UzckdxbUFFZWlDQ0R6SnpOdWg5Q2k3NmRJUDhWTXNfbDNLZEVKamdldHhXT3JVckp6SEYwamp0eW9vSEhxRWxwb1ZweEM3ZFdyU1V1dnJYZTV2ajRxNmI1TWlCRV9TOUI2RFhfdll0a0dxNjJCclJoWUtCTkJEVXAtaEZwMzdEZENSRXpkZzJVRmc?oc=5",
+      "source": "VOV World",
+      "date": "Thu, 17 Sep 2026 07:57:36 GMT"
+    },
+    {
       "title": "[중국칭다오통신] 中 칭다오서 ‘2026 해양협력발전포럼’ 개막...해양경제 발전 논의",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkR0EwRV9ScHJobEtFV185Nl9ZMTJWV2drNzNPbW5OMDdHTV9ROS1kdmdhVGpUT3JTOGZ4bVphQWtiNVlmODhUS0dObUJUUHluNmt3WDJB?oc=5",
       "source": "중앙일보",
       "date": "Thu, 17 Sep 2026 07:04:29 GMT"
     },
     {
-      "title": "상하이, 글로벌 금융도시 5위 탈환…서울 7위",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xU3RIX0tNQm1yZ2QxTFphVVB0MWpHM3ZvbzliRTNuS2VZWjdPMERKQ1lHTmhNeDlweExRZ0Y3UmJMeDBJWkFxT2lZMXdaRG9iSWfSAVNBVV95cUxQd0hKcUk2SVhkTFBjdVlGalRvblU4WHVYTlZNcjlCdUp6dUZLcHRoMGVQTGo0cV9tVmxmVW9LeVlBSUJyQUxXWVRhYmd6aUR3dUpsOA?oc=5",
-      "source": "서울경제",
-      "date": "Thu, 17 Sep 2026 06:34:55 GMT"
-    },
-    {
       "title": "베트남·중국, 경제·무역 및 전략적 연결망 협력 가속화",
       "link": "https://news.google.com/rss/articles/CBMinwZBVV95cUxOYWlqbG9yR0JTU0JIcE93VE9fUF8tdzd1WTNJcVJWZ0YxeVdkZTYzTGpoWXVxclJCY3lTbEdGRWV1a0QtLUtLZWlsX2N5RlZYUHh2U2dzWFJ5YzZCemhFUzJtSDRoaGtwNDNwWHBNZ251NGQ0Tjh2Zi1fYjM3OW14YXU0eDFtd0tmdHpObVEydlpuSlItRVozSzEwako4NGo3RG56VFM2cDBjMjVmNmk3RjlJUElzeGxVckdGRW83dnpJRGY1WDNRSzRaNDhQZ2dPMG85dlJFdGpJU2x3Ynpmb0o3b3EwbVdLdGRLdlpYRFF5WHpUOVkyYUp6c1JGNVlfV09MVUloV1pKNXhhbnhER0Y2dUpseHJWODFkc3NQTzB0S3hZR3IzQXdVelFNWkh2b1BBdk9MNXlPMnpiMkpLU1NmNWhmWmlJYmx6SS1EUUVNb2ZPSndOcW5Ja3lUd0ZocURVLWhPaFBSV1p4RmJpcFJpeGwxdl9VWlNZakRlNEZQUmxrNjNHQUw2QkpJRnFlYnZ6S1p4ZE5tN0Zsekl4bFRlc2swdWNyVG9FY2NwdEZVNnkzWTQ2NGlZb3dwMm1MSXFnRk1jcjhoUGRMM1o5LV9QSll4cVE3ZW9BbElrdWxOMjRjeVEzNzRtb3pORThhVC1WdHI1anQ2U1k0YVplNk81VXZ6WmpGdUtNdi05aWVsVWlidGZlR0RsdTdIRkEwbHAtUnF6LTA2SWJuOWluOXM0NGZOTnBSY0tuVjU0bFlWbDFGaEJraXBrb1hZXzFzQVo0dk9tYTZQQy1fMUluRzREbjEtZVFuLXNiYWdkU1RjQzNsZXJFZFBkck1jakhnSHFuZVhEWWV0VklaRTNQTWl4X3VjT0xseF9ld25mTndYOGJjTHBEa1V2V201RTJ6NE5NWkZTZHVXUmsxcVFHSUNKQ1pfa01NVFRqWGtZaGZwZE1aX0xuZ0k1dU85bEN1MmpfeWNqSVhLdnJQWXFfVWdpRnMzTlptc0Y3VUhfWUo3cldZYzBFc0tLeVIwMlJKWWFsUkRPRXU1bmpYRm5B?oc=5",
       "source": "Thông tấn xã Việt Nam (TTXVN)",
       "date": "Thu, 17 Sep 2026 05:31:30 GMT"
-    },
-    {
-      "title": "홍콩, 中 정부 경제 계획에 맞춘 '중기 경제·사회 발전 목표 5개년 계획' 수립...1997년 반환 후 처음",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56c2piQkQ2TDctekJ3YWZ6TTh5dEduZnREOWd0TkF6bWVxdjd0WE9zQkVvZFBOZnNNTWtuTWwyTjdkUF80aXlhY2dzYXVlZTU1dThMRUZmTU1XaVRpRkc1akdNelZaQTg5Y0g00gFvQVVfeXFMTWNIWUFYdGVoWEl1LUhHTEtwNl9UdnhFM2t1aUxUNG1jRURtNkRtcTVuQmVhTDlidXZMQ1NsVmxSX1pIT1RrQ2xObXRKZ1d1NkZNLUlpMzVERmVIN1hRR0RkdllaOXFBUVpndUQtbXVR?oc=5",
-      "source": "pennmike.com",
-      "date": "Thu, 17 Sep 2026 03:44:17 GMT"
     },
     {
       "title": "공산당도 열지 못한 14억의 지갑… 중국 경제 4대 착시의 종말",
