@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-18T14:02:51+09:00",
+  "run_at_kst": "2026-09-18T14:10:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -54,9 +54,15 @@
       "date": "Tue, 15 Sep 2026 07:00:00 GMT"
     },
     {
+      "title": "中 소비·투자 여전히 부진…경제 '외강내약' 구조 고착화 우려 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wYVVUaV9iT1g4NFhSOHRKV0s2UExpcXBNRDNJYnBYdjlIOXBSUm9pVTRXbDNOYmFYOXdNZnFvSW8tWXZTcVZrTlViUWFUNkJqbkRvRFlTR0xLNkU5UXpGQ0hrLU1QU3c4VVdnNXlB0gFuQVVfeXFMTTBhVVRpX2JPWDg0WFI4dEpXSzZQTGlxcE1EM0licFh2OUg5cFJSb2lVNFdsM05iYVg5d01mcW9Jby1ZdlNxVmtOVWJRYVQ2QmpuRG9EWVNHTEs2RTlRekZDSGstTVBTdzhVV2c1eUE?oc=5",
+      "source": "머니투데이",
+      "date": "Tue, 15 Sep 2026 04:42:06 GMT"
+    },
+    {
       "title": "중국 8월 소비 0.4% 증가…산업생산과 소비·투자 불균형 계속",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3SWNfa3UydDVQRG9lVmpLbENLNTk5ZkdnYU9SdmxmOWRyNWI3QVZhY0ZCaVRBdjFRc05HblRGelhYSEpCOHZEeFYzS0NJdWl3dGhGQzA4YWgzUdIBX0FVX3lxTE1QMVdyUjdZWEpLWUtKSlJhVUFHbV94NTlOMlJfY2o0ZVFyajRXS1RDSVpFemRKcVJyb2V3SXJla25OMW9OaEFoeS1tQUlGT1ZKeVFpMkxqRFcxX3JFUS1N?oc=5",
-      "source": "경향신문",
+      "source": "khan.co.kr",
       "date": "Tue, 15 Sep 2026 04:42:00 GMT"
     },
     {
@@ -68,14 +74,8 @@
     {
       "title": "“시진핑 4연임 의문 없다…큰 과제는 경제” 중국 전 정책참모 전망",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPdXU4dVUtLWtmeVJtd0owdDVUS1hNZVF4TVE5ZlE0Tmh0Y2ltZ2hPMHpzUzRGakM2WEhIRFp1TlRrMXROSjdTeC1NNjR3WkdwTkxKbnRmVmxJTTVMbDFnWDZlWWNfTUN2UXFDbw?oc=5",
-      "source": "한겨레",
+      "source": "hani.co.kr",
       "date": "Mon, 14 Sep 2026 07:04:00 GMT"
-    },
-    {
-      "title": "\"다음 글로벌 경제위기는 중국에서 시작될 것\" - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43aFF3cEtoOTBMZzlLYWtiMFlHMmNwQ0pzdEpqMm8zZS1jNDJLUmdLSFJRS0VNSl9FeDNUZ1NYcTRTdGJUUHQ4RDZqYXVsX2dvMlR5S1BaWUlXc1Y2V3ZmaG1GUzNpeUdP0gFuQVVfeXFMT1V6X0g4TkV6Rk05ek9yZlZiVnYwTHNZTGY3M0RNT1RSVjVNVWd2Mi1rVWxJSlB2c0RfajFIdDFoUXJoUW9tcWVaU3dBaGRaWXM4aXo1VWgyaGJqTHA4VHJROUFvcW44Q092QUtHTEE?oc=5",
-      "source": "머니투데이",
-      "date": "Sun, 30 Aug 2026 07:00:00 GMT"
     }
   ]
 }
