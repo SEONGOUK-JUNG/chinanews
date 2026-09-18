@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-18T09:41:28+09:00",
+  "run_at_kst": "2026-09-18T20:03:13+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "India’s Clean Energy Boom Halts Coal Power Growth",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Clean-Energy-Boom-Halts-Coal-Power-Growth.html",
+      "source": "OilPrice",
+      "date": "Fri, 18 Sep 2026 05:30:00 -0500"
+    },
+    {
+      "title": "Hormuz Tanker Traffic Slumps as Saudi Arabia Scrambles for New Oil Routes",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Traffic-Slumps-as-Saudi-Arabia-Scrambles-for-New-Oil-Routes.html",
+      "source": "OilPrice",
+      "date": "Fri, 18 Sep 2026 04:30:00 -0500"
+    },
+    {
+      "title": "China’s Fuel Exports Surge as Global Diesel Shortage Deepens",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Fuel-Exports-Surge-as-Global-Diesel-Shortage-Deepens.html",
+      "source": "OilPrice",
+      "date": "Fri, 18 Sep 2026 03:30:00 -0500"
+    },
+    {
+      "title": "China Pushes Coal Miners to Lift Supply as Prices Climb",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Pushes-Coal-Miners-to-Lift-Supply-as-Prices-Climb.html",
+      "source": "OilPrice",
+      "date": "Fri, 18 Sep 2026 02:15:00 -0500"
+    },
+    {
+      "title": "Oil Prices Head for Weekly Loss as Saudi Export Fears Ease",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-Weekly-Loss-as-Saudi-Export-Fears-Ease.html",
+      "source": "OilPrice",
+      "date": "Fri, 18 Sep 2026 00:30:00 -0500"
+    },
     {
       "title": "What Yemen Really Means to the U.S.-Iran War",
       "link": "https://oilprice.com/Geopolitics/Middle-East/What-Yemen-Really-Means-to-the-US-Iran-War.html",
@@ -36,36 +66,6 @@
       "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Turkey-Bets-108-Billion-on-Wind-and-Solar-While-Expanding-Oil-and-Gas.html",
       "source": "OilPrice",
       "date": "Thu, 17 Sep 2026 17:00:00 -0500"
-    },
-    {
-      "title": "Inside the DOE's $16 Million Bet on Critical Minerals Talent",
-      "link": "https://oilprice.com/Energy/Energy-General/Inside-the-DOEs-16-Million-Bet-on-Critical-Minerals-Talent.html",
-      "source": "OilPrice",
-      "date": "Thu, 17 Sep 2026 16:00:00 -0500"
-    },
-    {
-      "title": "U.S. and Houthis Open Talks as Saudi Oil Crisis Deepens",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/US-and-Houthis-Open-Talks-as-Saudi-Oil-Crisis-Deepens.html",
-      "source": "OilPrice",
-      "date": "Thu, 17 Sep 2026 15:00:00 -0500"
-    },
-    {
-      "title": "America Is Paying a Lot for Fuel, Not Running Out of Gasoline",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/America-Is-Paying-a-Lot-for-Fuel-Not-Running-Out-of-Gasoline.html",
-      "source": "OilPrice",
-      "date": "Thu, 17 Sep 2026 14:30:00 -0500"
-    },
-    {
-      "title": "Russian Fuel Exports Rebound in August But Still Down 50% From Last Year",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russian-Fuel-Exports-Rebound-in-August-But-Still-Down-50-From-Last-Year.html",
-      "source": "OilPrice",
-      "date": "Thu, 17 Sep 2026 14:15:00 -0500"
-    },
-    {
-      "title": "Taiwan Mulls Nuclear Revival to Cut Its LNG Exposure",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Taiwan-Mulls-Nuclear-Revival-to-Cut-Its-LNG-Exposure.html",
-      "source": "OilPrice",
-      "date": "Thu, 17 Sep 2026 14:00:00 -0500"
     },
     {
       "title": "West Africa key to gold growth, Fortuna CEO says",
