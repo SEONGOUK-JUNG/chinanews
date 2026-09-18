@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-18T10:02:57+09:00",
+  "run_at_kst": "2026-09-18T14:02:51+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -36,12 +36,6 @@
       "date": "Thu, 17 Sep 2026 09:38:24 GMT"
     },
     {
-      "title": "[중국칭다오통신] 中 칭다오서 ‘2026 해양협력발전포럼’ 개막...해양경제 발전 논의",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkR0EwRV9ScHJobEtFV185Nl9ZMTJWV2drNzNPbW5OMDdHTV9ROS1kdmdhVGpUT3JTOGZ4bVphQWtiNVlmODhUS0dObUJUUHluNmt3WDJB?oc=5",
-      "source": "중앙일보",
-      "date": "Thu, 17 Sep 2026 07:04:29 GMT"
-    },
-    {
       "title": "베트남·중국, 경제·무역 및 전략적 연결망 협력 가속화",
       "link": "https://news.google.com/rss/articles/CBMinwZBVV95cUxOYWlqbG9yR0JTU0JIcE93VE9fUF8tdzd1WTNJcVJWZ0YxeVdkZTYzTGpoWXVxclJCY3lTbEdGRWV1a0QtLUtLZWlsX2N5RlZYUHh2U2dzWFJ5YzZCemhFUzJtSDRoaGtwNDNwWHBNZ251NGQ0Tjh2Zi1fYjM3OW14YXU0eDFtd0tmdHpObVEydlpuSlItRVozSzEwako4NGo3RG56VFM2cDBjMjVmNmk3RjlJUElzeGxVckdGRW83dnpJRGY1WDNRSzRaNDhQZ2dPMG85dlJFdGpJU2x3Ynpmb0o3b3EwbVdLdGRLdlpYRFF5WHpUOVkyYUp6c1JGNVlfV09MVUloV1pKNXhhbnhER0Y2dUpseHJWODFkc3NQTzB0S3hZR3IzQXdVelFNWkh2b1BBdk9MNXlPMnpiMkpLU1NmNWhmWmlJYmx6SS1EUUVNb2ZPSndOcW5Ja3lUd0ZocURVLWhPaFBSV1p4RmJpcFJpeGwxdl9VWlNZakRlNEZQUmxrNjNHQUw2QkpJRnFlYnZ6S1p4ZE5tN0Zsekl4bFRlc2swdWNyVG9FY2NwdEZVNnkzWTQ2NGlZb3dwMm1MSXFnRk1jcjhoUGRMM1o5LV9QSll4cVE3ZW9BbElrdWxOMjRjeVEzNzRtb3pORThhVC1WdHI1anQ2U1k0YVplNk81VXZ6WmpGdUtNdi05aWVsVWlidGZlR0RsdTdIRkEwbHAtUnF6LTA2SWJuOWluOXM0NGZOTnBSY0tuVjU0bFlWbDFGaEJraXBrb1hZXzFzQVo0dk9tYTZQQy1fMUluRzREbjEtZVFuLXNiYWdkU1RjQzNsZXJFZFBkck1jakhnSHFuZVhEWWV0VklaRTNQTWl4X3VjT0xseF9ld25mTndYOGJjTHBEa1V2V201RTJ6NE5NWkZTZHVXUmsxcVFHSUNKQ1pfa01NVFRqWGtZaGZwZE1aX0xuZ0k1dU85bEN1MmpfeWNqSVhLdnJQWXFfVWdpRnMzTlptc0Y3VUhfWUo3cldZYzBFc0tLeVIwMlJKWWFsUkRPRXU1bmpYRm5B?oc=5",
       "source": "Thông tấn xã Việt Nam (TTXVN)",
@@ -50,8 +44,14 @@
     {
       "title": "공산당도 열지 못한 14억의 지갑… 중국 경제 4대 착시의 종말",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNay0tVHJZc3ZCZ2hkM2Z5aTFiTWpyNzhmcnZ2TmNYa1dJUklyNENPU3duWGkxbmtsbW00MlUwMHk3UExwVHVyRDJRcGlXS3BXSWlvTGFMVzRmYlpWVjVhOVNEdU9zVjVTbnJXU1BvZVU3ODlSTkMtWEVucTRTNkdpdjlhZnBwVEh0?oc=5",
-      "source": "chosun.com",
+      "source": "조선일보",
       "date": "Wed, 16 Sep 2026 18:00:00 GMT"
+    },
+    {
+      "title": "중국 Z세대가 사망한 지 50년이 지난 마오쩌둥에 열광하는 이유는?",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iYU9rcGpzcU1PNDQzcmZNOTE2OUhMUWhjbkdsanhVajFfX1NPXzdjWFJ3a2xxSDZrR0ptU0g1d0tYNTZhNWpsUFhkT3g2bGVwdVVFb3lEaXE2a1g3anfSAWNBVV95cUxOTnNFMUJOamxza293a0JvdW1BX2tjSDI2ZVJXRTU5ZFdnS1JvWVVPY0VnUXBvQ2lRVHdVQlZiRjU0RkxlRHRaWGk5eldnTnFwMTNtMG0tSG5HLUQ2OWNXM3JUOTg?oc=5",
+      "source": "BBC",
+      "date": "Tue, 15 Sep 2026 07:00:00 GMT"
     },
     {
       "title": "중국 8월 소비 0.4% 증가…산업생산과 소비·투자 불균형 계속",
