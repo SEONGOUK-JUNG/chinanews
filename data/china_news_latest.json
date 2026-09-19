@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-19T20:03:21+09:00",
+  "run_at_kst": "2026-09-19T20:10:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -7,7 +7,7 @@
   "items": [
     {
       "title": "중국 경제수장 허리펑, 19∼23일 방미…미중정상회담 앞서 무역협상",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EbzNuWmRUeVpUZ01PLW5wZmZfb19CSnFscEgzajNNemN0dlVnaDJ3bDloaWFWa3U2bmd4RVpjZkdDWFdETlE1SGZUOU4wWG8?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12UHVzVWx4SmN3OFlCLWtLYmtiRHFhNHVLekhKSUthSE9DYW9TTDJQVmpVSXBrSE9HVVM0MlpzdmY2MXdVeERsTi1IQQ?oc=5",
       "source": "v.daum.net",
       "date": "Sat, 19 Sep 2026 05:03:02 GMT"
     },
@@ -22,6 +22,12 @@
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJTFllTl9ySFVxbmU5ZXd0Um1weWhyd085ckxIdjlPX1FoVDB4RVVZYzFYNTlwRWVrOE4xeGtFTWdxLUVEcTI0OTZxX2h4cEg4QlBnMEJBVU83TTlnSmp3UjZpeDQ?oc=5",
       "source": "서울경제TV",
       "date": "Fri, 18 Sep 2026 23:00:04 GMT"
+    },
+    {
+      "title": "[숏폼뉴스] 2026년 9월 넷째주 9월21일~9월25일 주요 경제일정",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMSW1iZWpfbG1NazVvLTRMWGI1RTBycE9MeHFBRVdmYldpWkg4TUg4dTNnWUJMaXlKb0RPaDNpUVNHVGktX255TEw2Yk1iUTh3UXVrdnZ6Ti0wRTVvQjRPZTV3SXhPQ3RXcnNsTmppNA?oc=5",
+      "source": "kihoilbo.co.kr",
+      "date": "Fri, 18 Sep 2026 08:31:03 GMT"
     },
     {
       "title": "\"언제든 던질 수 있어\"…중국, 국채 폭탄으로 미국 위협 [지금이뉴스]",
@@ -64,12 +70,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNay0tVHJZc3ZCZ2hkM2Z5aTFiTWpyNzhmcnZ2TmNYa1dJUklyNENPU3duWGkxbmtsbW00MlUwMHk3UExwVHVyRDJRcGlXS3BXSWlvTGFMVzRmYlpWVjVhOVNEdU9zVjVTbnJXU1BvZVU3ODlSTkMtWEVucTRTNkdpdjlhZnBwVEh0?oc=5",
       "source": "조선일보",
       "date": "Wed, 16 Sep 2026 18:00:00 GMT"
-    },
-    {
-      "title": "“시진핑 4연임 의문 없다…큰 과제는 경제” 중국 전 정책참모 전망",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPdXU4dVUtLWtmeVJtd0owdDVUS1hNZVF4TVE5ZlE0Tmh0Y2ltZ2hPMHpzUzRGakM2WEhIRFp1TlRrMXROSjdTeC1NNjR3WkdwTkxKbnRmVmxJTTVMbDFnWDZlWWNfTUN2UXFDbw?oc=5",
-      "source": "한겨레",
-      "date": "Mon, 14 Sep 2026 07:04:00 GMT"
     },
     {
       "title": "\"다음 글로벌 경제위기는 중국에서 시작될 것\" - 머니투데이",
