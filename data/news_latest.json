@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-19T07:02:43+09:00",
+  "run_at_kst": "2026-09-19T10:10:06+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,24 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "US DOE looks to industry for critical minerals cleanup at legacy sites",
+      "link": "https://www.mining.com/us-doe-looks-to-industry-for-critical-minerals-and-materials-cleanup-at-legacy-sites/",
+      "source": "mining.com",
+      "date": "Fri, 18 Sep 2026 23:41:27 +0000"
+    },
+    {
+      "title": "Aura Minerals secures $200M loan for Americas growth",
+      "link": "https://www.mining.com/aura-minerals-secures-200m-loan-for-americas-growth/",
+      "source": "mining.com",
+      "date": "Fri, 18 Sep 2026 23:04:00 +0000"
+    },
+    {
+      "title": "Nigeria mining crackdown under fire after 37 die",
+      "link": "https://www.mining.com/nigeria-mining-crackdown-under-fire-after-37-die/",
+      "source": "mining.com",
+      "date": "Fri, 18 Sep 2026 22:47:00 +0000"
+    },
     {
       "title": "Copper mine supply risks first decline since 2017: Sprott",
       "link": "https://www.mining.com/copper-mine-supply-risks-first-decline-since-2017-sprott/",
@@ -72,24 +90,6 @@
       "link": "https://www.mining.com/us-backs-global-atomics-niger-uranium-mine-with-414m-loan/",
       "source": "mining.com",
       "date": "Fri, 18 Sep 2026 15:43:58 +0000"
-    },
-    {
-      "title": "Aya logs high-grade, shallow silver in Morocco",
-      "link": "https://www.mining.com/aya-logs-high-grade-shallow-silver-in-morocco/",
-      "source": "mining.com",
-      "date": "Fri, 18 Sep 2026 14:45:54 +0000"
-    },
-    {
-      "title": "China Rare Earth eyes indirect stake in MP Materials",
-      "link": "https://www.mining.com/china-rare-earth-eyes-indirect-stake-in-mp-materials/",
-      "source": "mining.com",
-      "date": "Fri, 18 Sep 2026 12:23:00 +0000"
-    },
-    {
-      "title": "Venezuela’s $4B gold stash closer to leaving London",
-      "link": "https://www.mining.com/venezuelas-4b-gold-stash-closer-to-leaving-london/",
-      "source": "mining.com",
-      "date": "Fri, 18 Sep 2026 10:47:00 +0000"
     }
   ]
 }

@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-09-19T07:20:04+09:00",
+  "run_at_kst": "2026-09-19T10:10:06+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "“경남 프리미엄 소비재, 상하이를 발판으로 중국 시장 공략”",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00cVB4ampuYV9OdDVZUktqeXQ2SWxROFFSc3dvSUpUeEJQdDJjRWQwdFI1VFBjMEtGbWRqaE9SclNOTFhIZ3AyX0s3alJ5LTFRcFF0MlFXTmN6S3FEckpvcWJxYTRzSTRQWTE3SGZ30gFzQVVfeXFMTmtocHlrUjNWVVc1aVNfTWZFTWpOa2pNaUx0dDhhSTRrUURnUEV0LXJ2ZEJsMXpfTjJGaWs2aGdVUzRCNDZ4OG1iTV8zaGFYQzhFYnRXb2lubDJNYUt0aFRGVk1VdjhWX2l4THhqbkh5UGxVSQ?oc=5",
+      "source": "한국일보",
+      "date": "Fri, 18 Sep 2026 23:01:00 GMT"
+    },
     {
       "title": "\"함께 운동하고 여행하는 내 가족\"…젊은층 사로잡은 '털북숭이' 매력[중국.zip]",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KcE5aZzNjSFRwWjJ6RjFGNjZ4QmhYWmd3emZSdDAycUh1Q0RQVDVyR18zMV8zdDhYX21rV1ZSTzJiSUdvYmVqRWNiM3dzOE0?oc=5",
@@ -18,22 +24,22 @@
       "date": "Fri, 18 Sep 2026 14:56:20 GMT"
     },
     {
-      "title": "미국서 답 못 얻은 사우디, 중국으로…베이징도 이란에 ‘홍해 확전’ 경고",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DSm1HOXdrNEtfaDJmSDlUT25EVmRIMHExS05xc2FSNXd4VTVTWFg1OU4xYi00QWFuZmExdVdxbjhTbHoyZTZBbUtUd2dyaGp2Ml9CT2ZuNFM0ZFU?oc=5",
-      "source": "인터내셔널포커스",
-      "date": "Fri, 18 Sep 2026 12:07:22 GMT"
-    },
-    {
-      "title": "경남도, 중국 진출 DMG그룹 국내복귀 투자 유치",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByM1M2bldlbTRNWmFRNlVEeGpXNkJXdzhXRlV1NklreW9lSkJVQ0RwdWVHQW9FclQ1bm5IZTRDdDFkbkN6dUtZM3pSVUxfSWltbURJbVN3bDZLbURFaExpV3Fpc3NtMXpY?oc=5",
-      "source": "경남뉴스",
-      "date": "Fri, 18 Sep 2026 07:51:17 GMT"
+      "title": "[장성원의 글로벌 렌즈] 미국의 오랜 동맹 사우디가 중국에 도움을 요청했다",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13ZWpuNDA2WGRoYnlSUFpRN3ZhOFVxRG5kMExBblZ6Z0VDd2ZUeHk3ZGF2RVVhOEVtc2lrMHNhM0hjQUVmRENMTEd5eUNwejYxcWRJWG9ENWpGQdIBWEFVX3lxTE5vSG1PSGxUMExoXzdkYlJJT2FYSEZGR00zcVZadTM1Q0Y2TUxPMXdWWkI3Y3E0VXJvMjFDWExoN1lvcmRyak1yc0ZodE5ESGxRREwyaFc5aTU?oc=5",
+      "source": "아주경제",
+      "date": "Fri, 18 Sep 2026 06:24:08 GMT"
     },
     {
       "title": "[심층분석] EU-中 통상 갈등의 구조적 뿌리, 희토류·무역 불균형 속 지정학적 충돌",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OV2E5MjdxZ29OVTJ3YWl0YVNvYVprWDBscTBZZUVNWjJkMHlCWml5aVNXQUUzUmF5SzNQc2pmNktOWVVtd1Q3VDRjSHozVW9mMlk0WklfUWVIQUU?oc=5",
       "source": "데일리연합",
       "date": "Fri, 18 Sep 2026 04:30:06 GMT"
+    },
+    {
+      "title": "\"언제든 던질 수 있어\"…중국, 국채 폭탄으로 미국 위협 [지금이뉴스]",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FRUtpWHgtdmpRc3Qwb0xNNzZqU0hUTEJ6UEJCcHJTandPbVBIVGJxMEpQdmk2aHVkR1pVMTdlRmJJMnl1SGp2RGg4MGlTVWhhOW9fV3NoNHQwX2ZTdk9EbmNuX0xKZWpDQ1dkRTh6RnUtMnhqRkE?oc=5",
+      "source": "YTN",
+      "date": "Fri, 18 Sep 2026 04:20:00 GMT"
     },
     {
       "title": "'홍콩 반환' 29년 만에 결단…야욕 드러낸 중국의 '파격 계획'",
@@ -50,7 +56,7 @@
     {
       "title": "베트남·중국, 경제·무역 및 전략적 연결망 협력 가속화",
       "link": "https://news.google.com/rss/articles/CBMinwZBVV95cUxOYWlqbG9yR0JTU0JIcE93VE9fUF8tdzd1WTNJcVJWZ0YxeVdkZTYzTGpoWXVxclJCY3lTbEdGRWV1a0QtLUtLZWlsX2N5RlZYUHh2U2dzWFJ5YzZCemhFUzJtSDRoaGtwNDNwWHBNZ251NGQ0Tjh2Zi1fYjM3OW14YXU0eDFtd0tmdHpObVEydlpuSlItRVozSzEwako4NGo3RG56VFM2cDBjMjVmNmk3RjlJUElzeGxVckdGRW83dnpJRGY1WDNRSzRaNDhQZ2dPMG85dlJFdGpJU2x3Ynpmb0o3b3EwbVdLdGRLdlpYRFF5WHpUOVkyYUp6c1JGNVlfV09MVUloV1pKNXhhbnhER0Y2dUpseHJWODFkc3NQTzB0S3hZR3IzQXdVelFNWkh2b1BBdk9MNXlPMnpiMkpLU1NmNWhmWmlJYmx6SS1EUUVNb2ZPSndOcW5Ja3lUd0ZocURVLWhPaFBSV1p4RmJpcFJpeGwxdl9VWlNZakRlNEZQUmxrNjNHQUw2QkpJRnFlYnZ6S1p4ZE5tN0Zsekl4bFRlc2swdWNyVG9FY2NwdEZVNnkzWTQ2NGlZb3dwMm1MSXFnRk1jcjhoUGRMM1o5LV9QSll4cVE3ZW9BbElrdWxOMjRjeVEzNzRtb3pORThhVC1WdHI1anQ2U1k0YVplNk81VXZ6WmpGdUtNdi05aWVsVWlidGZlR0RsdTdIRkEwbHAtUnF6LTA2SWJuOWluOXM0NGZOTnBSY0tuVjU0bFlWbDFGaEJraXBrb1hZXzFzQVo0dk9tYTZQQy1fMUluRzREbjEtZVFuLXNiYWdkU1RjQzNsZXJFZFBkck1jakhnSHFuZVhEWWV0VklaRTNQTWl4X3VjT0xseF9ld25mTndYOGJjTHBEa1V2V201RTJ6NE5NWkZTZHVXUmsxcVFHSUNKQ1pfa01NVFRqWGtZaGZwZE1aX0xuZ0k1dU85bEN1MmpfeWNqSVhLdnJQWXFfVWdpRnMzTlptc0Y3VUhfWUo3cldZYzBFc0tLeVIwMlJKWWFsUkRPRXU1bmpYRm5B?oc=5",
-      "source": "Thông tấn xã Việt Nam (TTXVN)",
+      "source": "vietnam.vnanet.vn",
       "date": "Thu, 17 Sep 2026 05:31:30 GMT"
     },
     {
@@ -64,12 +70,6 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wYVVUaV9iT1g4NFhSOHRKV0s2UExpcXBNRDNJYnBYdjlIOXBSUm9pVTRXbDNOYmFYOXdNZnFvSW8tWXZTcVZrTlViUWFUNkJqbkRvRFlTR0xLNkU5UXpGQ0hrLU1QU3c4VVdnNXlB0gFuQVVfeXFMTTBhVVRpX2JPWDg0WFI4dEpXSzZQTGlxcE1EM0licFh2OUg5cFJSb2lVNFdsM05iYVg5d01mcW9Jby1ZdlNxVmtOVWJRYVQ2QmpuRG9EWVNHTEs2RTlRekZDSGstTVBTdzhVV2c1eUE?oc=5",
       "source": "머니투데이",
       "date": "Tue, 15 Sep 2026 04:42:06 GMT"
-    },
-    {
-      "title": "“시진핑 4연임 의문 없다…큰 과제는 경제” 중국 전 정책참모 전망",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPdXU4dVUtLWtmeVJtd0owdDVUS1hNZVF4TVE5ZlE0Tmh0Y2ltZ2hPMHpzUzRGakM2WEhIRFp1TlRrMXROSjdTeC1NNjR3WkdwTkxKbnRmVmxJTTVMbDFnWDZlWWNfTUN2UXFDbw?oc=5",
-      "source": "한겨레",
-      "date": "Mon, 14 Sep 2026 07:04:00 GMT"
     },
     {
       "title": "위안화 강세·수출 호조세에도…중국 경제 속으로 곪고 있다 [주末머니]",
