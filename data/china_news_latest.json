@@ -1,50 +1,26 @@
 {
-  "run_at_kst": "2026-09-19T20:10:05+09:00",
+  "run_at_kst": "2026-09-20T07:03:23+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "중국 원유 수입 32% 급감…유가 상승 압력 낮춰",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pVVhYdVNBMHdVT2tvLTc2TnFwMjVMcU5wOU5HNUQwWU1PRjFKdVpldHdUQ3RJWHlHWVBvY2N3Ui15bjZldWZzSUhuQnpudi1qcjVZd1dWUQ?oc=5",
+      "source": "토큰포스트",
+      "date": "Sat, 19 Sep 2026 15:19:00 GMT"
+    },
+    {
       "title": "중국 경제수장 허리펑, 19∼23일 방미…미중정상회담 앞서 무역협상",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12UHVzVWx4SmN3OFlCLWtLYmtiRHFhNHVLekhKSUthSE9DYW9TTDJQVmpVSXBrSE9HVVM0MlpzdmY2MXdVeERsTi1IQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xYXhDSHZHT2dkNzVGdWhYU3JsLXg5UTFqNmRZelhTeXVPU212RWhlZk5rMC1rNG1oOWZpenhrX05Ddk9PdVBPVENENUFtSkpoZnM2dA?oc=5",
       "source": "v.daum.net",
       "date": "Sat, 19 Sep 2026 05:03:02 GMT"
     },
     {
-      "title": "[전병서 칼럼] 민심은 배(船), 리더는 읽는(讀) 자다",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KSm5USlFVY09halFGTnNWWDN3eGlnVE9ySHhxT3Q3aW1QRTZqNXJLLVNvZ1N3SWJnb0Utc2FFR1ExckNLM3RJRzRVeW0xcmRnWVZyanZZWlExUdIBWEFVX3lxTE5td2ZoNHNxdnFvWTVQWVB4S0NOdTZ0cEFSU29sc0xZNzhDZkJhUG5VeGtsZkZzM2YzUk5LWTBwVjlyMXRRdEs4X2dfSlVRdnIzTXRxYUtMU04?oc=5",
-      "source": "아주경제",
-      "date": "Sat, 19 Sep 2026 01:19:50 GMT"
-    },
-    {
-      "title": "美·EU는 중국 전기차 막는데…韓도 ‘생산세액공제’ 꺼내나",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJTFllTl9ySFVxbmU5ZXd0Um1weWhyd085ckxIdjlPX1FoVDB4RVVZYzFYNTlwRWVrOE4xeGtFTWdxLUVEcTI0OTZxX2h4cEg4QlBnMEJBVU83TTlnSmp3UjZpeDQ?oc=5",
-      "source": "서울경제TV",
-      "date": "Fri, 18 Sep 2026 23:00:04 GMT"
-    },
-    {
-      "title": "[숏폼뉴스] 2026년 9월 넷째주 9월21일~9월25일 주요 경제일정",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMSW1iZWpfbG1NazVvLTRMWGI1RTBycE9MeHFBRVdmYldpWkg4TUg4dTNnWUJMaXlKb0RPaDNpUVNHVGktX255TEw2Yk1iUTh3UXVrdnZ6Ti0wRTVvQjRPZTV3SXhPQ3RXcnNsTmppNA?oc=5",
-      "source": "kihoilbo.co.kr",
-      "date": "Fri, 18 Sep 2026 08:31:03 GMT"
-    },
-    {
-      "title": "\"언제든 던질 수 있어\"…중국, 국채 폭탄으로 미국 위협 [지금이뉴스]",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FRUtpWHgtdmpRc3Qwb0xNNzZqU0hUTEJ6UEJCcHJTandPbVBIVGJxMEpQdmk2aHVkR1pVMTdlRmJJMnl1SGp2RGg4MGlTVWhhOW9fV3NoNHQwX2ZTdk9EbmNuX0xKZWpDQ1dkRTh6RnUtMnhqRkE?oc=5",
-      "source": "YTN",
-      "date": "Fri, 18 Sep 2026 04:20:00 GMT"
-    },
-    {
-      "title": "[현장 인터뷰] 연길에서...중국 25년 이민재 회장이 말하는 ‘한인 경제공동체’",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iVnhTMXpsUG1TYlBuMkdOTnE3Y1cyQWtVcndjeDVHcVZkRnJuZXRfVnAxQXFWWHdhbHRERUN5eEo5aXk0X0ZyMFNmS1FkM2NnanBGZVJUcnh6MUNnRmg2clI1YkFjZmQ0OUp4WA?oc=5",
-      "source": "dongponews.net",
-      "date": "Thu, 17 Sep 2026 11:16:39 GMT"
-    },
-    {
       "title": "'홍콩 반환' 29년 만에 결단…야욕 드러낸 중국의 '파격 계획'",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IbXpVZ2Fmalp2Y0tBVGhXeG44dHlpV1JuMFZxOEZVbHUzWkg3M1M3c293MklldmRpUXpuWmVGWkZOSWpEYTlHSkNjVmp1QlBpcG1HUF95ejdmQQ?oc=5",
-      "source": "한국경제",
+      "source": "hankyung.com",
       "date": "Thu, 17 Sep 2026 09:38:24 GMT"
     },
     {
@@ -68,7 +44,7 @@
     {
       "title": "공산당도 열지 못한 14억의 지갑… 중국 경제 4대 착시의 종말",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNay0tVHJZc3ZCZ2hkM2Z5aTFiTWpyNzhmcnZ2TmNYa1dJUklyNENPU3duWGkxbmtsbW00MlUwMHk3UExwVHVyRDJRcGlXS3BXSWlvTGFMVzRmYlpWVjVhOVNEdU9zVjVTbnJXU1BvZVU3ODlSTkMtWEVucTRTNkdpdjlhZnBwVEh0?oc=5",
-      "source": "조선일보",
+      "source": "chosun.com",
       "date": "Wed, 16 Sep 2026 18:00:00 GMT"
     },
     {
@@ -76,6 +52,30 @@
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43aFF3cEtoOTBMZzlLYWtiMFlHMmNwQ0pzdEpqMm8zZS1jNDJLUmdLSFJRS0VNSl9FeDNUZ1NYcTRTdGJUUHQ4RDZqYXVsX2dvMlR5S1BaWUlXc1Y2V3ZmaG1GUzNpeUdP0gFuQVVfeXFMT1V6X0g4TkV6Rk05ek9yZlZiVnYwTHNZTGY3M0RNT1RSVjVNVWd2Mi1rVWxJSlB2c0RfajFIdDFoUXJoUW9tcWVaU3dBaGRaWXM4aXo1VWgyaGJqTHA4VHJROUFvcW44Q092QUtHTEE?oc=5",
       "source": "머니투데이",
       "date": "Sun, 30 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "위안화 강세·수출 호조세에도…중국 경제 속으로 곪고 있다 [주末머니]",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KR01QSmZ3c2hTaFF4MVBjcU54NDlKUnZnQTVUQjRua3hGT3J2eHVESkVCU2o0ZjF6NHpyR0tUMFZncHptLWNjWGtCYndscHV6QzBnRVNpRmE0SjFQSmhOeA?oc=5",
+      "source": "아시아경제",
+      "date": "Sat, 29 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "흔들리는 중국 경제 심리, 공산당 기관지까지 '방어' 나섰지만...",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KR1JzS2hLdmV2R2ZqWUFlb3hoTU5CUm10dTV3SG1nVF9GcWlQTTRHRkJzWHFuaDB3Q0lRRnZOakhrZFBOUXM4ektRM0JTYm5WNTF5djY5eV9kZGEt?oc=5",
+      "source": "newspim.com",
+      "date": "Tue, 25 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "中, 자동차판매 -21%·부동산 투자 -19%…중국경제 '빨간불'",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iNTRtZUhiM3RVU2ZWWmZwNHk1RVBZME9uMnplbV91c3BMSjFlNm5WQUFqYjJ6cFpxMDVLOGc1VWhTdDJfSk1OY3VfVzNKRmp2aWc3XzZ3ZXJYQQ?oc=5",
+      "source": "hankyung.com",
+      "date": "Mon, 17 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "[열린세상] ‘기술 혁신’ 중국 경제의 역설",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVpiQTJsR21nVklIcG5XR1NxR2tBNG9iZ1JfVkVmaWNxUkprY3FteW1WNG1xeDZXNi1CellROVc0NFhPd0l6MnBUdldjWG03NnA2VkdUd1pOXzd1M2FxQU1vYkFYR0FqdUdLWkU2N1p3aEFRZ2oxRkJYTW5VaVpTcGhralgxbkk?oc=5",
+      "source": "서울신문",
+      "date": "Fri, 24 Jul 2026 07:00:00 GMT"
     }
   ]
 }

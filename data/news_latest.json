@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-19T10:10:06+09:00",
+  "run_at_kst": "2026-09-20T07:03:23+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,24 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Britain Faces £150 Billion Grid Overhaul to Power Renewable Energy Boom",
+      "link": "https://oilprice.com/Energy/Energy-General/Britain-Faces-150-Billion-Grid-Overhaul-to-Power-Renewable-Energy-Boom.html",
+      "source": "OilPrice",
+      "date": "Sat, 19 Sep 2026 14:00:00 -0500"
+    },
+    {
+      "title": "IAEA Triples Nuclear Power Forecast as Small Reactors Finally Take Off",
+      "link": "https://oilprice.com/Energy/Energy-General/IAEA-Triples-Nuclear-Power-Forecast-as-Small-Reactors-Finally-Take-Off.html",
+      "source": "OilPrice",
+      "date": "Sat, 19 Sep 2026 12:00:00 -0500"
+    },
+    {
+      "title": "UN Warns World Must Prepare for Life Beyond 1.5°C",
+      "link": "https://oilprice.com/The-Environment/Global-Warming/UN-Warns-World-Must-Prepare-for-Life-Beyond-15C.html",
+      "source": "OilPrice",
+      "date": "Sat, 19 Sep 2026 10:00:00 -0500"
+    },
     {
       "title": "US DOE looks to industry for critical minerals cleanup at legacy sites",
       "link": "https://www.mining.com/us-doe-looks-to-industry-for-critical-minerals-and-materials-cleanup-at-legacy-sites/",
@@ -66,24 +84,6 @@
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Cuts-Europe-Off-From-October-Crude-as-Gulf-Exports-Surge.html",
       "source": "OilPrice",
       "date": "Fri, 18 Sep 2026 12:30:00 -0500"
-    },
-    {
-      "title": "U.S. Oil, Gas Rig Count Creeps Up With Strong Prices",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Oil-Gas-Rig-Count-Creeps-Up-With-Strong-Prices.html",
-      "source": "OilPrice",
-      "date": "Fri, 18 Sep 2026 12:18:56 -0500"
-    },
-    {
-      "title": "TotalEnergies and BlackRock Sign $1.8B Deal for African Oil and Gas Assets",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-and-BlackRock-Sign-18B-Deal-for-African-Oil-and-Gas-Assets.html",
-      "source": "OilPrice",
-      "date": "Fri, 18 Sep 2026 11:30:00 -0500"
-    },
-    {
-      "title": "Saudi Export Pivot Sends Brent Below $105",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Saudi-Export-Pivot-Sends-Brent-Below-105.html",
-      "source": "OilPrice",
-      "date": "Fri, 18 Sep 2026 11:15:00 -0500"
     },
     {
       "title": "US backs Global Atomic’s Niger uranium mine with $414M loan",
