@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-20T07:03:23+09:00",
+  "run_at_kst": "2026-09-20T07:20:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -20,7 +20,7 @@
     {
       "title": "'홍콩 반환' 29년 만에 결단…야욕 드러낸 중국의 '파격 계획'",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IbXpVZ2Fmalp2Y0tBVGhXeG44dHlpV1JuMFZxOEZVbHUzWkg3M1M3c293MklldmRpUXpuWmVGWkZOSWpEYTlHSkNjVmp1QlBpcG1HUF95ejdmQQ?oc=5",
-      "source": "hankyung.com",
+      "source": "한국경제",
       "date": "Thu, 17 Sep 2026 09:38:24 GMT"
     },
     {
@@ -50,7 +50,7 @@
     {
       "title": "\"다음 글로벌 경제위기는 중국에서 시작될 것\" - 머니투데이",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43aFF3cEtoOTBMZzlLYWtiMFlHMmNwQ0pzdEpqMm8zZS1jNDJLUmdLSFJRS0VNSl9FeDNUZ1NYcTRTdGJUUHQ4RDZqYXVsX2dvMlR5S1BaWUlXc1Y2V3ZmaG1GUzNpeUdP0gFuQVVfeXFMT1V6X0g4TkV6Rk05ek9yZlZiVnYwTHNZTGY3M0RNT1RSVjVNVWd2Mi1rVWxJSlB2c0RfajFIdDFoUXJoUW9tcWVaU3dBaGRaWXM4aXo1VWgyaGJqTHA4VHJROUFvcW44Q092QUtHTEE?oc=5",
-      "source": "머니투데이",
+      "source": "mt.co.kr",
       "date": "Sun, 30 Aug 2026 07:00:00 GMT"
     },
     {
@@ -62,13 +62,13 @@
     {
       "title": "흔들리는 중국 경제 심리, 공산당 기관지까지 '방어' 나섰지만...",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KR1JzS2hLdmV2R2ZqWUFlb3hoTU5CUm10dTV3SG1nVF9GcWlQTTRHRkJzWHFuaDB3Q0lRRnZOakhrZFBOUXM4ektRM0JTYm5WNTF5djY5eV9kZGEt?oc=5",
-      "source": "newspim.com",
+      "source": "뉴스핌",
       "date": "Tue, 25 Aug 2026 07:00:00 GMT"
     },
     {
       "title": "中, 자동차판매 -21%·부동산 투자 -19%…중국경제 '빨간불'",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iNTRtZUhiM3RVU2ZWWmZwNHk1RVBZME9uMnplbV91c3BMSjFlNm5WQUFqYjJ6cFpxMDVLOGc1VWhTdDJfSk1OY3VfVzNKRmp2aWc3XzZ3ZXJYQQ?oc=5",
-      "source": "hankyung.com",
+      "source": "한국경제",
       "date": "Mon, 17 Aug 2026 07:00:00 GMT"
     },
     {
