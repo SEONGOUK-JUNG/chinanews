@@ -1,10 +1,22 @@
 {
-  "run_at_kst": "2026-09-19T10:10:06+09:00",
+  "run_at_kst": "2026-09-19T14:04:23+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "중국 하이난성, 제12회 세계관광경제포럼 핵심 파트너로 참가",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42dXlOSjE0dlJmQVFQV2VGZTFwX2VobjhnandWWE5yNXlObkpmM2VGSHIwMWRfVnByTUl2WEtDMmhqQlFmcTdQajN4WFNOekpyRHBDVWVNOTJFZHFEN1l4cEZMc1dJMUZkSEZQOURR?oc=5",
+      "source": "gukjenews.com",
+      "date": "Sat, 19 Sep 2026 03:57:29 GMT"
+    },
+    {
+      "title": "다가오는 중국 국가주석의 미국 방문에서 어떤 경제 문제가 협상 테이블에 오를까요?",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRHNRU0VScXZXUDUtRUlEd0pXWDRHNTg1ZXRNZXQ2YldfSmxLLURqbTlrZzFyb0IwRHVqQlljV09hY0V2VXByVXhtUFplWlZXWlFyeHp5ZkItUjlMck4zaUpnaHFNNUZpNFc3am9BY3lkNWMxRGoxQ0JLTGdGQUViUGgxckg2aHdGNDVwZFNWcHBpRGhzNmlWOWF6a0xxb3lfSFdTbFBCU096dXI0UzNpV1NLY2U?oc=5",
+      "source": "Vietnam.vn",
+      "date": "Sat, 19 Sep 2026 02:08:17 GMT"
+    },
     {
       "title": "“경남 프리미엄 소비재, 상하이를 발판으로 중국 시장 공략”",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00cVB4ampuYV9OdDVZUktqeXQ2SWxROFFSc3dvSUpUeEJQdDJjRWQwdFI1VFBjMEtGbWRqaE9SclNOTFhIZ3AyX0s3alJ5LTFRcFF0MlFXTmN6S3FEckpvcWJxYTRzSTRQWTE3SGZ30gFzQVVfeXFMTmtocHlrUjNWVVc1aVNfTWZFTWpOa2pNaUx0dDhhSTRrUURnUEV0LXJ2ZEJsMXpfTjJGaWs2aGdVUzRCNDZ4OG1iTV8zaGFYQzhFYnRXb2lubDJNYUt0aFRGVk1VdjhWX2l4THhqbkh5UGxVSQ?oc=5",
@@ -12,28 +24,16 @@
       "date": "Fri, 18 Sep 2026 23:01:00 GMT"
     },
     {
-      "title": "\"함께 운동하고 여행하는 내 가족\"…젊은층 사로잡은 '털북숭이' 매력[중국.zip]",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KcE5aZzNjSFRwWjJ6RjFGNjZ4QmhYWmd3emZSdDAycUh1Q0RQVDVyR18zMV8zdDhYX21rV1ZSTzJiSUdvYmVqRWNiM3dzOE0?oc=5",
-      "source": "v.daum.net",
-      "date": "Fri, 18 Sep 2026 22:07:28 GMT"
+      "title": "美·EU는 중국 전기차 막는데…韓도 ‘생산세액공제’ 꺼내나",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJTFllTl9ySFVxbmU5ZXd0Um1weWhyd085ckxIdjlPX1FoVDB4RVVZYzFYNTlwRWVrOE4xeGtFTWdxLUVEcTI0OTZxX2h4cEg4QlBnMEJBVU83TTlnSmp3UjZpeDQ?oc=5",
+      "source": "서울경제TV",
+      "date": "Fri, 18 Sep 2026 23:00:04 GMT"
     },
     {
       "title": "중국, 전자상거래에서도 ‘AI 토큰’ 활발히 유통",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDelRaUTNLRDlKeVlFNl9CTUZaUS04NFk3T2RvTjVmcHhDTzREbEM0RmdXT3pSTEF0TmdaWXlMZFZ3T1lEWlFqVGZOUnpJbld2RUVUYmdWRkNjS1h5UlVVbDJ6ZndqdXYyVHdHYW1FVQ?oc=5",
       "source": "애플경제",
       "date": "Fri, 18 Sep 2026 14:56:20 GMT"
-    },
-    {
-      "title": "[장성원의 글로벌 렌즈] 미국의 오랜 동맹 사우디가 중국에 도움을 요청했다",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13ZWpuNDA2WGRoYnlSUFpRN3ZhOFVxRG5kMExBblZ6Z0VDd2ZUeHk3ZGF2RVVhOEVtc2lrMHNhM0hjQUVmRENMTEd5eUNwejYxcWRJWG9ENWpGQdIBWEFVX3lxTE5vSG1PSGxUMExoXzdkYlJJT2FYSEZGR00zcVZadTM1Q0Y2TUxPMXdWWkI3Y3E0VXJvMjFDWExoN1lvcmRyak1yc0ZodE5ESGxRREwyaFc5aTU?oc=5",
-      "source": "아주경제",
-      "date": "Fri, 18 Sep 2026 06:24:08 GMT"
-    },
-    {
-      "title": "[심층분석] EU-中 통상 갈등의 구조적 뿌리, 희토류·무역 불균형 속 지정학적 충돌",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OV2E5MjdxZ29OVTJ3YWl0YVNvYVprWDBscTBZZUVNWjJkMHlCWml5aVNXQUUzUmF5SzNQc2pmNktOWVVtd1Q3VDRjSHozVW9mMlk0WklfUWVIQUU?oc=5",
-      "source": "데일리연합",
-      "date": "Fri, 18 Sep 2026 04:30:06 GMT"
     },
     {
       "title": "\"언제든 던질 수 있어\"…중국, 국채 폭탄으로 미국 위협 [지금이뉴스]",
@@ -56,7 +56,7 @@
     {
       "title": "베트남·중국, 경제·무역 및 전략적 연결망 협력 가속화",
       "link": "https://news.google.com/rss/articles/CBMinwZBVV95cUxOYWlqbG9yR0JTU0JIcE93VE9fUF8tdzd1WTNJcVJWZ0YxeVdkZTYzTGpoWXVxclJCY3lTbEdGRWV1a0QtLUtLZWlsX2N5RlZYUHh2U2dzWFJ5YzZCemhFUzJtSDRoaGtwNDNwWHBNZ251NGQ0Tjh2Zi1fYjM3OW14YXU0eDFtd0tmdHpObVEydlpuSlItRVozSzEwako4NGo3RG56VFM2cDBjMjVmNmk3RjlJUElzeGxVckdGRW83dnpJRGY1WDNRSzRaNDhQZ2dPMG85dlJFdGpJU2x3Ynpmb0o3b3EwbVdLdGRLdlpYRFF5WHpUOVkyYUp6c1JGNVlfV09MVUloV1pKNXhhbnhER0Y2dUpseHJWODFkc3NQTzB0S3hZR3IzQXdVelFNWkh2b1BBdk9MNXlPMnpiMkpLU1NmNWhmWmlJYmx6SS1EUUVNb2ZPSndOcW5Ja3lUd0ZocURVLWhPaFBSV1p4RmJpcFJpeGwxdl9VWlNZakRlNEZQUmxrNjNHQUw2QkpJRnFlYnZ6S1p4ZE5tN0Zsekl4bFRlc2swdWNyVG9FY2NwdEZVNnkzWTQ2NGlZb3dwMm1MSXFnRk1jcjhoUGRMM1o5LV9QSll4cVE3ZW9BbElrdWxOMjRjeVEzNzRtb3pORThhVC1WdHI1anQ2U1k0YVplNk81VXZ6WmpGdUtNdi05aWVsVWlidGZlR0RsdTdIRkEwbHAtUnF6LTA2SWJuOWluOXM0NGZOTnBSY0tuVjU0bFlWbDFGaEJraXBrb1hZXzFzQVo0dk9tYTZQQy1fMUluRzREbjEtZVFuLXNiYWdkU1RjQzNsZXJFZFBkck1jakhnSHFuZVhEWWV0VklaRTNQTWl4X3VjT0xseF9ld25mTndYOGJjTHBEa1V2V201RTJ6NE5NWkZTZHVXUmsxcVFHSUNKQ1pfa01NVFRqWGtZaGZwZE1aX0xuZ0k1dU85bEN1MmpfeWNqSVhLdnJQWXFfVWdpRnMzTlptc0Y3VUhfWUo3cldZYzBFc0tLeVIwMlJKWWFsUkRPRXU1bmpYRm5B?oc=5",
-      "source": "vietnam.vnanet.vn",
+      "source": "Thông tấn xã Việt Nam (TTXVN)",
       "date": "Thu, 17 Sep 2026 05:31:30 GMT"
     },
     {
@@ -66,16 +66,16 @@
       "date": "Wed, 16 Sep 2026 18:00:00 GMT"
     },
     {
-      "title": "中 소비·투자 여전히 부진…경제 '외강내약' 구조 고착화 우려 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wYVVUaV9iT1g4NFhSOHRKV0s2UExpcXBNRDNJYnBYdjlIOXBSUm9pVTRXbDNOYmFYOXdNZnFvSW8tWXZTcVZrTlViUWFUNkJqbkRvRFlTR0xLNkU5UXpGQ0hrLU1QU3c4VVdnNXlB0gFuQVVfeXFMTTBhVVRpX2JPWDg0WFI4dEpXSzZQTGlxcE1EM0licFh2OUg5cFJSb2lVNFdsM05iYVg5d01mcW9Jby1ZdlNxVmtOVWJRYVQ2QmpuRG9EWVNHTEs2RTlRekZDSGstTVBTdzhVV2c1eUE?oc=5",
-      "source": "머니투데이",
-      "date": "Tue, 15 Sep 2026 04:42:06 GMT"
+      "title": "“시진핑 4연임 의문 없다…큰 과제는 경제” 중국 전 정책참모 전망",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPdXU4dVUtLWtmeVJtd0owdDVUS1hNZVF4TVE5ZlE0Tmh0Y2ltZ2hPMHpzUzRGakM2WEhIRFp1TlRrMXROSjdTeC1NNjR3WkdwTkxKbnRmVmxJTTVMbDFnWDZlWWNfTUN2UXFDbw?oc=5",
+      "source": "한겨레",
+      "date": "Mon, 14 Sep 2026 07:04:00 GMT"
     },
     {
-      "title": "위안화 강세·수출 호조세에도…중국 경제 속으로 곪고 있다 [주末머니]",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KR01QSmZ3c2hTaFF4MVBjcU54NDlKUnZnQTVUQjRua3hGT3J2eHVESkVCU2o0ZjF6NHpyR0tUMFZncHptLWNjWGtCYndscHV6QzBnRVNpRmE0SjFQSmhOeA?oc=5",
-      "source": "아시아경제",
-      "date": "Sat, 29 Aug 2026 07:00:00 GMT"
+      "title": "\"다음 글로벌 경제위기는 중국에서 시작될 것\" - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43aFF3cEtoOTBMZzlLYWtiMFlHMmNwQ0pzdEpqMm8zZS1jNDJLUmdLSFJRS0VNSl9FeDNUZ1NYcTRTdGJUUHQ4RDZqYXVsX2dvMlR5S1BaWUlXc1Y2V3ZmaG1GUzNpeUdP0gFuQVVfeXFMT1V6X0g4TkV6Rk05ek9yZlZiVnYwTHNZTGY3M0RNT1RSVjVNVWd2Mi1rVWxJSlB2c0RfajFIdDFoUXJoUW9tcWVaU3dBaGRaWXM4aXo1VWgyaGJqTHA4VHJROUFvcW44Q092QUtHTEE?oc=5",
+      "source": "머니투데이",
+      "date": "Sun, 30 Aug 2026 07:00:00 GMT"
     }
   ]
 }
