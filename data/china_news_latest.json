@@ -1,15 +1,21 @@
 {
-  "run_at_kst": "2026-09-20T14:02:59+09:00",
+  "run_at_kst": "2026-09-20T20:10:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "이번주 미중 정상회담…美에 챙겨갈 中 보따리는?",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qUm5mZE90VVpHWUl4WlNKR202cmdUb0poazdaVWU2cTd4aEhlTVpPcFhObDB5OG5DN0ZKaG1pX0c3Z3JDUUdWa2RGeGpITWc?oc=5",
+      "title": "[포럼] 中 로봇과 獨 95년 전 고속열차",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52QVBrbi1MOTQ5Zll5ZXBYRWRtN1NrNUlLdHJfTVJUWG5lZkM5TmFsbnMxeVZwb2FBaXhMcUtDckZlOGktYnA2X0hIYzBNX28?oc=5",
       "source": "v.daum.net",
-      "date": "Sun, 20 Sep 2026 04:57:32 GMT"
+      "date": "Sun, 20 Sep 2026 10:20:09 GMT"
+    },
+    {
+      "title": "위안화 가치 4년 만에 최고, 中 경제에는 악재",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FQnBYdWFxcTdtRmxzM3RJdXdpUkpmeC10ZVFpdFc3aWt5alM4bkpOd1R4OTlGR21NVEFzTnlVY1NzN1RQd2tnYXNOcTVhQmVFdk9qR2xBU0E1NzB0OGx0amRESldFTkJmSE9PU3Fn?oc=5",
+      "source": "아시아투데이",
+      "date": "Sun, 20 Sep 2026 05:10:22 GMT"
     },
     {
       "title": "【2026년 9월 20일 리더경제 뉴스】 국내외 핵심 10…인사 논란부터 미·중 경제회동까지",
@@ -30,27 +36,15 @@
       "date": "Sat, 19 Sep 2026 22:12:13 GMT"
     },
     {
-      "title": "AI가 키운 중국 공장, 내수는 제자리…‘공급 과잉’ 경고음",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YTEZMVk1FSjJ5QWZvdWFGM29FM3hISVNSSE5YdlYzTVBSdEExR243T1dWRnhzRmJtLVBwMkNuSV93bGlOUEZZYW02ZEw0blRpUHdDcDloSnowWHM?oc=5",
-      "source": "인터내셔널포커스",
-      "date": "Sat, 19 Sep 2026 11:33:23 GMT"
-    },
-    {
       "title": "중국 경제수장 허리펑, 19∼23일 방미…미중정상회담 앞서 무역협상",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQmo2dHkwWlpOYl90NVRVcTd6YVNWNkpZT1dOMnRldlczWmZHN0xWVmFrcEh0V0JONkU4QjFpcXk3eGNsU3hlWFNMYlNHekNZNjBkY2tKNVdycHYybXF2dWQtVjJlZVU5VVd0RF9ZZGRmRUJVNEl2WWJRbEJad0hRbE90TE4yVXRqMG5uMGFCd1BzRkU?oc=5",
       "source": "news.sbs.co.kr",
       "date": "Sat, 19 Sep 2026 05:01:02 GMT"
     },
     {
-      "title": "'홍콩 반환' 29년 만에 결단…야욕 드러낸 중국의 '파격 계획'",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IbXpVZ2Fmalp2Y0tBVGhXeG44dHlpV1JuMFZxOEZVbHUzWkg3M1M3c293MklldmRpUXpuWmVGWkZOSWpEYTlHSkNjVmp1QlBpcG1HUF95ejdmQQ?oc=5",
-      "source": "한국경제",
-      "date": "Thu, 17 Sep 2026 09:38:24 GMT"
-    },
-    {
       "title": "중국 Z세대가 사망한 지 50년이 지난 마오쩌둥에 열광하는 이유는?",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iYU9rcGpzcU1PNDQzcmZNOTE2OUhMUWhjbkdsanhVajFfX1NPXzdjWFJ3a2xxSDZrR0ptU0g1d0tYNTZhNWpsUFhkT3g2bGVwdVVFb3lEaXE2a1g3anfSAWNBVV95cUxOTnNFMUJOamxza293a0JvdW1BX2tjSDI2ZVJXRTU5ZFdnS1JvWVVPY0VnUXBvQ2lRVHdVQlZiRjU0RkxlRHRaWGk5eldnTnFwMTNtMG0tSG5HLUQ2OWNXM3JUOTg?oc=5",
-      "source": "bbc.com",
+      "source": "BBC",
       "date": "Thu, 17 Sep 2026 09:04:05 GMT"
     },
     {
@@ -62,7 +56,7 @@
     {
       "title": "공산당도 열지 못한 14억의 지갑… 중국 경제 4대 착시의 종말",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNay0tVHJZc3ZCZ2hkM2Z5aTFiTWpyNzhmcnZ2TmNYa1dJUklyNENPU3duWGkxbmtsbW00MlUwMHk3UExwVHVyRDJRcGlXS3BXSWlvTGFMVzRmYlpWVjVhOVNEdU9zVjVTbnJXU1BvZVU3ODlSTkMtWEVucTRTNkdpdjlhZnBwVEh0?oc=5",
-      "source": "조선일보",
+      "source": "chosun.com",
       "date": "Wed, 16 Sep 2026 18:00:00 GMT"
     },
     {
@@ -76,6 +70,12 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KR1JzS2hLdmV2R2ZqWUFlb3hoTU5CUm10dTV3SG1nVF9GcWlQTTRHRkJzWHFuaDB3Q0lRRnZOakhrZFBOUXM4ektRM0JTYm5WNTF5djY5eV9kZGEt?oc=5",
       "source": "뉴스핌",
       "date": "Tue, 25 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "中, 자동차판매 -21%·부동산 투자 -19%…중국경제 '빨간불'",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iNTRtZUhiM3RVU2ZWWmZwNHk1RVBZME9uMnplbV91c3BMSjFlNm5WQUFqYjJ6cFpxMDVLOGc1VWhTdDJfSk1OY3VfVzNKRmp2aWc3XzZ3ZXJYQQ?oc=5",
+      "source": "한국경제",
+      "date": "Mon, 17 Aug 2026 07:00:00 GMT"
     }
   ]
 }
