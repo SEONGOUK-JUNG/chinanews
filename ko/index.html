@@ -356,10 +356,11 @@ function cmDocToUsd(d){ if(d){ (d.featured || []).forEach(cmToUsd); (d.all_items
    토글로 언어를 직접 고른 사람은 그 선택을 기억해 다시 보내지 않는다. */
 try{
   var _pick = localStorage.getItem('cn.lang.pick');
-  var _isKo = /^ko/i.test(navigator.language || (navigator.languages||[])[0] || '');
+  var _tag = String(navigator.language || (navigator.languages||[])[0] || '').toLowerCase();
+  var _isKo = _tag.slice(0,2) === 'ko';
   if(!_pick && _isKo && document.documentElement.lang !== 'ko'
      && (location.pathname === '/' || location.pathname === '/index.html')
-     && !/[?&]lang=en/.test(location.search)){
+     && location.search.indexOf('lang=en') < 0){
     location.replace('/ko/' + location.search + location.hash);
   }
 }catch(e){}
