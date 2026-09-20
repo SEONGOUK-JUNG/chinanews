@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-20T10:03:32+09:00",
+  "run_at_kst": "2026-09-21T07:20:04+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Hormuz Crisis to Push Global Coal Demand to Record High",
+      "link": "https://oilprice.com/Energy/Coal/Hormuz-Crisis-to-Push-Global-Coal-Demand-to-Record-High.html",
+      "source": "OilPrice",
+      "date": "Sun, 20 Sep 2026 14:00:00 -0500"
+    },
+    {
+      "title": "Attacks on mining operations on the rise in Pakistan: report",
+      "link": "https://www.mining.com/attacks-on-mining-operations-on-the-rise-in-pakistan-report/",
+      "source": "mining.com",
+      "date": "Sun, 20 Sep 2026 18:57:53 +0000"
+    },
+    {
+      "title": "China Will Dominate Global Nuclear Energy Through 2035, Analyst Says",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/China-Will-Dominate-Global-Nuclear-Energy-Through-2035-Analyst-Says.html",
+      "source": "OilPrice",
+      "date": "Sun, 20 Sep 2026 12:00:00 -0500"
+    },
+    {
+      "title": "New York’s $75 Billion Climate Liability Law Faces an Uncertain Future",
+      "link": "https://oilprice.com/Energy/Energy-General/New-Yorks-75-Billion-Climate-Liability-Law-Faces-an-Uncertain-Future.html",
+      "source": "OilPrice",
+      "date": "Sun, 20 Sep 2026 10:00:00 -0500"
+    },
     {
       "title": "Energy Giants Are Betting Billions on a World of Longer Oil Routes",
       "link": "https://oilprice.com/Energy/Energy-General/Energy-Giants-Are-Betting-Billions-on-a-World-of-Longer-Oil-Routes.html",
@@ -62,34 +86,10 @@
       "date": "Fri, 18 Sep 2026 21:21:00 +0000"
     },
     {
-      "title": "Global Shipping Costs Explode as Hormuz Disruptions Hit Key Trade Routes",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Global-Shipping-Costs-Explode-as-Hormuz-Disruptions-Hit-Key-Trade-Routes.html",
-      "source": "OilPrice",
-      "date": "Fri, 18 Sep 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Space-Based Solar Power Could Reach the Grid by 2028",
-      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Space-Based-Solar-Power-Could-Reach-the-Grid-by-2028.html",
-      "source": "OilPrice",
-      "date": "Fri, 18 Sep 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Macron Calls for Another Emergency Oil Release as Europe Loses Supply",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Macron-Calls-for-Another-Emergency-Oil-Release-as-Europe-Loses-Supply.html",
-      "source": "OilPrice",
-      "date": "Fri, 18 Sep 2026 16:00:00 -0500"
-    },
-    {
       "title": "Gold is tariff-proof. Canada has $11 billion a year of it stuck in permitting",
       "link": "https://www.mining.com/gold-is-tariff-proof-canada-has-11-billion-a-year-of-it-stuck-in-permitting/",
       "source": "mining.com",
       "date": "Fri, 18 Sep 2026 19:42:40 +0000"
-    },
-    {
-      "title": "US backs Global Atomic’s Niger uranium mine with $414M loan",
-      "link": "https://www.mining.com/us-backs-global-atomics-niger-uranium-mine-with-414m-loan/",
-      "source": "mining.com",
-      "date": "Fri, 18 Sep 2026 15:43:58 +0000"
     }
   ]
 }
