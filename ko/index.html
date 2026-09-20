@@ -352,9 +352,20 @@ function cmToUsd(it){
 }
 function cmDocToUsd(d){ if(d){ (d.featured || []).forEach(cmToUsd); (d.all_items || []).forEach(cmToUsd); } return d; }
 /* URL decides the language: / = EN, /ko/ = KO. The stored preference follows the page, and the EN/KR toggle navigates between the two URLs. */
+/* 한국어 브라우저로 영문 첫 화면에 들어오면 한국어 화면으로 보낸다.
+   토글로 언어를 직접 고른 사람은 그 선택을 기억해 다시 보내지 않는다. */
+try{
+  var _pick = localStorage.getItem('cn.lang.pick');
+  var _isKo = /^ko/i.test(navigator.language || (navigator.languages||[])[0] || '');
+  if(!_pick && _isKo && document.documentElement.lang !== 'ko'
+     && (location.pathname === '/' || location.pathname === '/index.html')
+     && !/[?&]lang=en/.test(location.search)){
+    location.replace('/ko/' + location.search + location.hash);
+  }
+}catch(e){}
 window.CN_LANG = (document.documentElement.lang==='ko')?'ko':'en';
 try{ localStorage.setItem('chinanews_lang', window.CN_LANG); }catch(e){}
-document.addEventListener('click', function(e){ var s=e.target.closest?e.target.closest('#lang-toggle span[data-lang]'):null; if(!s) return; var l=s.getAttribute('data-lang'); if(l===window.CN_LANG) return; e.preventDefault(); e.stopImmediatePropagation(); window.location.href=(l==='ko')?'/ko/':'/'; }, true);
+document.addEventListener('click', function(e){ var s=e.target.closest?e.target.closest('#lang-toggle span[data-lang]'):null; if(!s) return; var l=s.getAttribute('data-lang'); if(l===window.CN_LANG) return; try{ localStorage.setItem('cn.lang.pick', l); }catch(err){} e.preventDefault(); e.stopImmediatePropagation(); window.location.href=(l==='ko')?'/ko/':'/'; }, true);
 window.CM_I18N = {names:{}, sectors:{}, categories:{}};
 function cmName(ko){ var L=window.CN_LANG||'en'; if(L==='ko') return (ko&&String(ko).trim())?ko:'(미상)'; if(!ko||!String(ko).trim()) return '(unnamed)'; return window.CM_I18N.names[ko]||ko; }
 function cmSector(ko){ var L=window.CN_LANG||'en'; if(L==='ko') return ko||''; return (window.CM_I18N.sectors[ko]!==undefined)?window.CM_I18N.sectors[ko]:(ko||''); }
