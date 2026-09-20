@@ -1,10 +1,28 @@
 {
-  "run_at_kst": "2026-09-20T10:03:32+09:00",
+  "run_at_kst": "2026-09-20T14:02:59+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "이번주 미중 정상회담…美에 챙겨갈 中 보따리는?",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qUm5mZE90VVpHWUl4WlNKR202cmdUb0poazdaVWU2cTd4aEhlTVpPcFhObDB5OG5DN0ZKaG1pX0c3Z3JDUUdWa2RGeGpITWc?oc=5",
+      "source": "v.daum.net",
+      "date": "Sun, 20 Sep 2026 04:57:32 GMT"
+    },
+    {
+      "title": "【2026년 9월 20일 리더경제 뉴스】 국내외 핵심 10…인사 논란부터 미·중 경제회동까지",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAyekU0RUFfeXQ1dXJVRElmS24wNkM5Z2NNaFZVNDlZMjI5YTdnd1pxTVVOMDllYTc4VUZNTlNlcUd3RE5jR2JyYUpR?oc=5",
+      "source": "얼리어답터뉴스",
+      "date": "Sun, 20 Sep 2026 04:12:16 GMT"
+    },
+    {
+      "title": "충주시, 중국 로봇 전문기업과 맞손…생산시설 확충 논의",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DZEtHTGpRazdBeUtsaTdZU21mb2RXeGFndDJkWTVDc1ZjenVKMWlET09yRmd0UFh3cElmVm1DMGhLVVZWMl9EdTFUMWJvaGJHZjVmUUs1X0hSdnfSAWBBVV95cUxOckFPbEdwSnBtX1ZqS2t4VXJQZHQ3TF9vTEtqSXFrV0VlcV9FRXdGbFM1LXMzYWItTkNHenlFbkI4VGRaWV9MMjE0UXpJX1NDdjhYUGhBc2ZJb1NOUDJwU20?oc=5",
+      "source": "연합뉴스",
+      "date": "Sun, 20 Sep 2026 03:43:28 GMT"
+    },
     {
       "title": "“한국 제품, 중국 청두에서 먼저 통할까?”",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TNmZib0dSbVZMVXBHdE9Xd1Awa3ppdTZkczZqcml1QjkxMmtUSGtpLXNhUUlhbnNmWS1PcEs3a1V0TjVFWFVFSEtNRGhKRzBZZkIxRkFvM2F5UUhLbHg3dnV3dTdWRi1vNzg4UQ?oc=5",
@@ -12,16 +30,16 @@
       "date": "Sat, 19 Sep 2026 22:12:13 GMT"
     },
     {
-      "title": "중국 원유 수입 32% 급감…유가 상승 압력 낮춰",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pVVhYdVNBMHdVT2tvLTc2TnFwMjVMcU5wOU5HNUQwWU1PRjFKdVpldHdUQ3RJWHlHWVBvY2N3Ui15bjZldWZzSUhuQnpudi1qcjVZd1dWUQ?oc=5",
-      "source": "토큰포스트",
-      "date": "Sat, 19 Sep 2026 15:19:00 GMT"
+      "title": "AI가 키운 중국 공장, 내수는 제자리…‘공급 과잉’ 경고음",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YTEZMVk1FSjJ5QWZvdWFGM29FM3hISVNSSE5YdlYzTVBSdEExR243T1dWRnhzRmJtLVBwMkNuSV93bGlOUEZZYW02ZEw0blRpUHdDcDloSnowWHM?oc=5",
+      "source": "인터내셔널포커스",
+      "date": "Sat, 19 Sep 2026 11:33:23 GMT"
     },
     {
       "title": "중국 경제수장 허리펑, 19∼23일 방미…미중정상회담 앞서 무역협상",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xYXhDSHZHT2dkNzVGdWhYU3JsLXg5UTFqNmRZelhTeXVPU212RWhlZk5rMC1rNG1oOWZpenhrX05Ddk9PdVBPVENENUFtSkpoZnM2dA?oc=5",
-      "source": "v.daum.net",
-      "date": "Sat, 19 Sep 2026 05:03:02 GMT"
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQmo2dHkwWlpOYl90NVRVcTd6YVNWNkpZT1dOMnRldlczWmZHN0xWVmFrcEh0V0JONkU4QjFpcXk3eGNsU3hlWFNMYlNHekNZNjBkY2tKNVdycHYybXF2dWQtVjJlZVU5VVd0RF9ZZGRmRUJVNEl2WWJRbEJad0hRbE90TE4yVXRqMG5uMGFCd1BzRkU?oc=5",
+      "source": "news.sbs.co.kr",
+      "date": "Sat, 19 Sep 2026 05:01:02 GMT"
     },
     {
       "title": "'홍콩 반환' 29년 만에 결단…야욕 드러낸 중국의 '파격 계획'",
@@ -32,7 +50,7 @@
     {
       "title": "중국 Z세대가 사망한 지 50년이 지난 마오쩌둥에 열광하는 이유는?",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iYU9rcGpzcU1PNDQzcmZNOTE2OUhMUWhjbkdsanhVajFfX1NPXzdjWFJ3a2xxSDZrR0ptU0g1d0tYNTZhNWpsUFhkT3g2bGVwdVVFb3lEaXE2a1g3anfSAWNBVV95cUxOTnNFMUJOamxza293a0JvdW1BX2tjSDI2ZVJXRTU5ZFdnS1JvWVVPY0VnUXBvQ2lRVHdVQlZiRjU0RkxlRHRaWGk5eldnTnFwMTNtMG0tSG5HLUQ2OWNXM3JUOTg?oc=5",
-      "source": "BBC",
+      "source": "bbc.com",
       "date": "Thu, 17 Sep 2026 09:04:05 GMT"
     },
     {
@@ -50,7 +68,7 @@
     {
       "title": "\"다음 글로벌 경제위기는 중국에서 시작될 것\" - 머니투데이",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43aFF3cEtoOTBMZzlLYWtiMFlHMmNwQ0pzdEpqMm8zZS1jNDJLUmdLSFJRS0VNSl9FeDNUZ1NYcTRTdGJUUHQ4RDZqYXVsX2dvMlR5S1BaWUlXc1Y2V3ZmaG1GUzNpeUdP0gFuQVVfeXFMT1V6X0g4TkV6Rk05ek9yZlZiVnYwTHNZTGY3M0RNT1RSVjVNVWd2Mi1rVWxJSlB2c0RfajFIdDFoUXJoUW9tcWVaU3dBaGRaWXM4aXo1VWgyaGJqTHA4VHJROUFvcW44Q092QUtHTEE?oc=5",
-      "source": "mt.co.kr",
+      "source": "머니투데이",
       "date": "Sun, 30 Aug 2026 07:00:00 GMT"
     },
     {
@@ -58,24 +76,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KR1JzS2hLdmV2R2ZqWUFlb3hoTU5CUm10dTV3SG1nVF9GcWlQTTRHRkJzWHFuaDB3Q0lRRnZOakhrZFBOUXM4ektRM0JTYm5WNTF5djY5eV9kZGEt?oc=5",
       "source": "뉴스핌",
       "date": "Tue, 25 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "[열린세상] ‘기술 혁신’ 중국 경제의 역설",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVpiQTJsR21nVklIcG5XR1NxR2tBNG9iZ1JfVkVmaWNxUkprY3FteW1WNG1xeDZXNi1CellROVc0NFhPd0l6MnBUdldjWG03NnA2VkdUd1pOXzd1M2FxQU1vYkFYR0FqdUdLWkU2N1p3aEFRZ2oxRkJYTW5VaVpTcGhralgxbkk?oc=5",
-      "source": "서울신문",
-      "date": "Fri, 24 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52UVRRTTIyQW5udGJFTjhSbEhmTHc4Q2QyTHdTd1BWNzE5b0p0U0hWZk5LbmNjdUY5ZWh2MlBZaEczSnd3RVZGSlRfLXlrdU9HYTlfdmthLW01dTVn0gFiQVVfeXFMUDU0UmVDOFl4VUpZYzlneGtDWHJCX3luT1pfdFhKaGZENGxvWTRjRTZYNTltalJDYXVBUG9IV3I2Qy1IMGljUEdDV0k3d3JQbmVXV05QUzNZSWl5QkJPQk1jV0E?oc=5",
-      "source": "BBC",
-      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "title": "경제는 ‘흔들’ 기술은 ‘질주’하는 중국의 딜레마, 실체는?",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZG1sWUFDY2l6bFoyeFBUdTdzUjgwU1o0clpaZm5hSk9QU0NvUE5uQWdaelg0OFhKNXI2dXk5VnNjSVE5R3lwMkpDMFFiRzc1LW9nYnVn?oc=5",
-      "source": "중앙일보",
-      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
     }
   ]
 }
