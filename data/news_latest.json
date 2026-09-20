@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-20T07:03:23+09:00",
+  "run_at_kst": "2026-09-20T10:03:32+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,18 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Energy Giants Are Betting Billions on a World of Longer Oil Routes",
+      "link": "https://oilprice.com/Energy/Energy-General/Energy-Giants-Are-Betting-Billions-on-a-World-of-Longer-Oil-Routes.html",
+      "source": "OilPrice",
+      "date": "Sat, 19 Sep 2026 18:00:00 -0500"
+    },
+    {
+      "title": "Europe Outbids Asia for LNG as Prices Surge 150%",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Europe-Outbids-Asia-for-LNG-as-Prices-Surge-150.html",
+      "source": "OilPrice",
+      "date": "Sat, 19 Sep 2026 18:00:00 -0500"
+    },
     {
       "title": "Britain Faces £150 Billion Grid Overhaul to Power Renewable Energy Boom",
       "link": "https://oilprice.com/Energy/Energy-General/Britain-Faces-150-Billion-Grid-Overhaul-to-Power-Renewable-Energy-Boom.html",
@@ -72,18 +84,6 @@
       "link": "https://www.mining.com/gold-is-tariff-proof-canada-has-11-billion-a-year-of-it-stuck-in-permitting/",
       "source": "mining.com",
       "date": "Fri, 18 Sep 2026 19:42:40 +0000"
-    },
-    {
-      "title": "Kazakhstan Turns to Russian Gas as Domestic Demand Surges",
-      "link": "https://oilprice.com/Energy/Energy-General/Kazakhstan-Turns-to-Russian-Gas-as-Domestic-Demand-Surges.html",
-      "source": "OilPrice",
-      "date": "Fri, 18 Sep 2026 13:00:00 -0500"
-    },
-    {
-      "title": "Saudi Arabia Cuts Europe Off From October Crude as Gulf Exports Surge",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Cuts-Europe-Off-From-October-Crude-as-Gulf-Exports-Surge.html",
-      "source": "OilPrice",
-      "date": "Fri, 18 Sep 2026 12:30:00 -0500"
     },
     {
       "title": "US backs Global Atomic’s Niger uranium mine with $414M loan",

@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-09-20T07:20:04+09:00",
+  "run_at_kst": "2026-09-20T10:03:32+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "“한국 제품, 중국 청두에서 먼저 통할까?”",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TNmZib0dSbVZMVXBHdE9Xd1Awa3ppdTZkczZqcml1QjkxMmtUSGtpLXNhUUlhbnNmWS1PcEs3a1V0TjVFWFVFSEtNRGhKRzBZZkIxRkFvM2F5UUhLbHg3dnV3dTdWRi1vNzg4UQ?oc=5",
+      "source": "재외동포신문",
+      "date": "Sat, 19 Sep 2026 22:12:13 GMT"
+    },
     {
       "title": "중국 원유 수입 32% 급감…유가 상승 압력 낮춰",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pVVhYdVNBMHdVT2tvLTc2TnFwMjVMcU5wOU5HNUQwWU1PRjFKdVpldHdUQ3RJWHlHWVBvY2N3Ui15bjZldWZzSUhuQnpudi1qcjVZd1dWUQ?oc=5",
@@ -36,15 +42,9 @@
       "date": "Thu, 17 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "베트남·중국, 경제·무역 및 전략적 연결망 협력 가속화",
-      "link": "https://news.google.com/rss/articles/CBMinwZBVV95cUxOYWlqbG9yR0JTU0JIcE93VE9fUF8tdzd1WTNJcVJWZ0YxeVdkZTYzTGpoWXVxclJCY3lTbEdGRWV1a0QtLUtLZWlsX2N5RlZYUHh2U2dzWFJ5YzZCemhFUzJtSDRoaGtwNDNwWHBNZ251NGQ0Tjh2Zi1fYjM3OW14YXU0eDFtd0tmdHpObVEydlpuSlItRVozSzEwako4NGo3RG56VFM2cDBjMjVmNmk3RjlJUElzeGxVckdGRW83dnpJRGY1WDNRSzRaNDhQZ2dPMG85dlJFdGpJU2x3Ynpmb0o3b3EwbVdLdGRLdlpYRFF5WHpUOVkyYUp6c1JGNVlfV09MVUloV1pKNXhhbnhER0Y2dUpseHJWODFkc3NQTzB0S3hZR3IzQXdVelFNWkh2b1BBdk9MNXlPMnpiMkpLU1NmNWhmWmlJYmx6SS1EUUVNb2ZPSndOcW5Ja3lUd0ZocURVLWhPaFBSV1p4RmJpcFJpeGwxdl9VWlNZakRlNEZQUmxrNjNHQUw2QkpJRnFlYnZ6S1p4ZE5tN0Zsekl4bFRlc2swdWNyVG9FY2NwdEZVNnkzWTQ2NGlZb3dwMm1MSXFnRk1jcjhoUGRMM1o5LV9QSll4cVE3ZW9BbElrdWxOMjRjeVEzNzRtb3pORThhVC1WdHI1anQ2U1k0YVplNk81VXZ6WmpGdUtNdi05aWVsVWlidGZlR0RsdTdIRkEwbHAtUnF6LTA2SWJuOWluOXM0NGZOTnBSY0tuVjU0bFlWbDFGaEJraXBrb1hZXzFzQVo0dk9tYTZQQy1fMUluRzREbjEtZVFuLXNiYWdkU1RjQzNsZXJFZFBkck1jakhnSHFuZVhEWWV0VklaRTNQTWl4X3VjT0xseF9ld25mTndYOGJjTHBEa1V2V201RTJ6NE5NWkZTZHVXUmsxcVFHSUNKQ1pfa01NVFRqWGtZaGZwZE1aX0xuZ0k1dU85bEN1MmpfeWNqSVhLdnJQWXFfVWdpRnMzTlptc0Y3VUhfWUo3cldZYzBFc0tLeVIwMlJKWWFsUkRPRXU1bmpYRm5B?oc=5",
-      "source": "Thông tấn xã Việt Nam (TTXVN)",
-      "date": "Thu, 17 Sep 2026 05:31:30 GMT"
-    },
-    {
       "title": "공산당도 열지 못한 14억의 지갑… 중국 경제 4대 착시의 종말",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNay0tVHJZc3ZCZ2hkM2Z5aTFiTWpyNzhmcnZ2TmNYa1dJUklyNENPU3duWGkxbmtsbW00MlUwMHk3UExwVHVyRDJRcGlXS3BXSWlvTGFMVzRmYlpWVjVhOVNEdU9zVjVTbnJXU1BvZVU3ODlSTkMtWEVucTRTNkdpdjlhZnBwVEh0?oc=5",
-      "source": "chosun.com",
+      "source": "조선일보",
       "date": "Wed, 16 Sep 2026 18:00:00 GMT"
     },
     {
@@ -54,28 +54,28 @@
       "date": "Sun, 30 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "위안화 강세·수출 호조세에도…중국 경제 속으로 곪고 있다 [주末머니]",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KR01QSmZ3c2hTaFF4MVBjcU54NDlKUnZnQTVUQjRua3hGT3J2eHVESkVCU2o0ZjF6NHpyR0tUMFZncHptLWNjWGtCYndscHV6QzBnRVNpRmE0SjFQSmhOeA?oc=5",
-      "source": "아시아경제",
-      "date": "Sat, 29 Aug 2026 07:00:00 GMT"
-    },
-    {
       "title": "흔들리는 중국 경제 심리, 공산당 기관지까지 '방어' 나섰지만...",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KR1JzS2hLdmV2R2ZqWUFlb3hoTU5CUm10dTV3SG1nVF9GcWlQTTRHRkJzWHFuaDB3Q0lRRnZOakhrZFBOUXM4ektRM0JTYm5WNTF5djY5eV9kZGEt?oc=5",
       "source": "뉴스핌",
       "date": "Tue, 25 Aug 2026 07:00:00 GMT"
     },
     {
-      "title": "中, 자동차판매 -21%·부동산 투자 -19%…중국경제 '빨간불'",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iNTRtZUhiM3RVU2ZWWmZwNHk1RVBZME9uMnplbV91c3BMSjFlNm5WQUFqYjJ6cFpxMDVLOGc1VWhTdDJfSk1OY3VfVzNKRmp2aWc3XzZ3ZXJYQQ?oc=5",
-      "source": "한국경제",
-      "date": "Mon, 17 Aug 2026 07:00:00 GMT"
-    },
-    {
       "title": "[열린세상] ‘기술 혁신’ 중국 경제의 역설",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVpiQTJsR21nVklIcG5XR1NxR2tBNG9iZ1JfVkVmaWNxUkprY3FteW1WNG1xeDZXNi1CellROVc0NFhPd0l6MnBUdldjWG03NnA2VkdUd1pOXzd1M2FxQU1vYkFYR0FqdUdLWkU2N1p3aEFRZ2oxRkJYTW5VaVpTcGhralgxbkk?oc=5",
       "source": "서울신문",
       "date": "Fri, 24 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52UVRRTTIyQW5udGJFTjhSbEhmTHc4Q2QyTHdTd1BWNzE5b0p0U0hWZk5LbmNjdUY5ZWh2MlBZaEczSnd3RVZGSlRfLXlrdU9HYTlfdmthLW01dTVn0gFiQVVfeXFMUDU0UmVDOFl4VUpZYzlneGtDWHJCX3luT1pfdFhKaGZENGxvWTRjRTZYNTltalJDYXVBUG9IV3I2Qy1IMGljUEdDV0k3d3JQbmVXV05QUzNZSWl5QkJPQk1jV0E?oc=5",
+      "source": "BBC",
+      "date": "Wed, 15 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "title": "경제는 ‘흔들’ 기술은 ‘질주’하는 중국의 딜레마, 실체는?",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZG1sWUFDY2l6bFoyeFBUdTdzUjgwU1o0clpaZm5hSk9QU0NvUE5uQWdaelg0OFhKNXI2dXk5VnNjSVE5R3lwMkpDMFFiRzc1LW9nYnVn?oc=5",
+      "source": "중앙일보",
+      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
     }
   ]
 }
