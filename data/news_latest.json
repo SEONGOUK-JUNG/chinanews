@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-21T10:10:05+09:00",
+  "run_at_kst": "2026-09-21T20:02:42+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "U.S. Diesel Hits Record $6.50 as Global Fuel Crunch Deepens",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Diesel-Hits-Record-650-as-Global-Fuel-Crunch-Deepens.html",
+      "source": "OilPrice",
+      "date": "Mon, 21 Sep 2026 05:30:00 -0500"
+    },
+    {
+      "title": "Pakistan Secures Second Qatari LNG Cargo Through Hormuz After Iran Deal",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Secures-Second-Qatari-LNG-Cargo-Through-Hormuz-After-Iran-Deal.html",
+      "source": "OilPrice",
+      "date": "Mon, 21 Sep 2026 04:30:00 -0500"
+    },
+    {
+      "title": "Europe’s Fuel Crisis Spreads From Diesel to Jet Fuel",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Fuel-Crisis-Spreads-From-Diesel-to-Jet-Fuel.html",
+      "source": "OilPrice",
+      "date": "Mon, 21 Sep 2026 03:15:00 -0500"
+    },
+    {
+      "title": "Strait of Hormuz Shipping Traffic Falls Further as Saudi Oil Flows Rise",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Strait-of-Hormuz-Shipping-Traffic-Falls-Further-as-Saudi-Oil-Flows-Rise.html",
+      "source": "OilPrice",
+      "date": "Mon, 21 Sep 2026 02:00:00 -0500"
+    },
+    {
+      "title": "Oil Prices Slide as Traders Bet on Iran Diplomacy",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Slide-as-Traders-Bet-on-Iran-Diplomacy.html",
+      "source": "OilPrice",
+      "date": "Mon, 21 Sep 2026 00:45:00 -0500"
+    },
     {
       "title": "Big Oil’s Production Keeps Soaring Despite Deep Spending Cuts",
       "link": "https://oilprice.com/Energy/Crude-Oil/Big-Oils-Production-Keeps-Soaring-Despite-Deep-Spending-Cuts.html",
@@ -30,36 +60,6 @@
       "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/China-Will-Dominate-Global-Nuclear-Energy-Through-2035-Analyst-Says.html",
       "source": "OilPrice",
       "date": "Sun, 20 Sep 2026 12:00:00 -0500"
-    },
-    {
-      "title": "New York’s $75 Billion Climate Liability Law Faces an Uncertain Future",
-      "link": "https://oilprice.com/Energy/Energy-General/New-Yorks-75-Billion-Climate-Liability-Law-Faces-an-Uncertain-Future.html",
-      "source": "OilPrice",
-      "date": "Sun, 20 Sep 2026 10:00:00 -0500"
-    },
-    {
-      "title": "Energy Giants Are Betting Billions on a World of Longer Oil Routes",
-      "link": "https://oilprice.com/Energy/Energy-General/Energy-Giants-Are-Betting-Billions-on-a-World-of-Longer-Oil-Routes.html",
-      "source": "OilPrice",
-      "date": "Sat, 19 Sep 2026 18:00:00 -0500"
-    },
-    {
-      "title": "Europe Outbids Asia for LNG as Prices Surge 150%",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Europe-Outbids-Asia-for-LNG-as-Prices-Surge-150.html",
-      "source": "OilPrice",
-      "date": "Sat, 19 Sep 2026 18:00:00 -0500"
-    },
-    {
-      "title": "Britain Faces £150 Billion Grid Overhaul to Power Renewable Energy Boom",
-      "link": "https://oilprice.com/Energy/Energy-General/Britain-Faces-150-Billion-Grid-Overhaul-to-Power-Renewable-Energy-Boom.html",
-      "source": "OilPrice",
-      "date": "Sat, 19 Sep 2026 14:00:00 -0500"
-    },
-    {
-      "title": "IAEA Triples Nuclear Power Forecast as Small Reactors Finally Take Off",
-      "link": "https://oilprice.com/Energy/Energy-General/IAEA-Triples-Nuclear-Power-Forecast-as-Small-Reactors-Finally-Take-Off.html",
-      "source": "OilPrice",
-      "date": "Sat, 19 Sep 2026 12:00:00 -0500"
     },
     {
       "title": "US DOE looks to industry for critical minerals cleanup at legacy sites",
