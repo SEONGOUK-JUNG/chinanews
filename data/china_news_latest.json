@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-22T07:08:16+09:00",
+  "run_at_kst": "2026-09-22T07:20:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -20,7 +20,7 @@
     {
       "title": "美 “’미중 AI 대화’ 공식화…중국 금융당국, 이란 제재 많이 관여“",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yb1FIQXdlUDdvd0VoV2g0U2p1cEltWENYcEROYWN2SDVER3JBdll5bHgwRGF4c2V4YXBqVzBMOThtLTJmRXVveDdmcFo2bkZ4TFdHNUtkY05FdGVGTFgyZnF6N2xUVzQ?oc=5",
-      "source": "연합뉴스TV",
+      "source": "yonhapnewstv.co.kr",
       "date": "Mon, 21 Sep 2026 16:00:00 GMT"
     },
     {
