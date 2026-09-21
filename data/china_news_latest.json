@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-21T20:02:42+09:00",
+  "run_at_kst": "2026-09-21T20:10:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -32,7 +32,7 @@
     {
       "title": "‘미·중 회담 조율’ 양국 경제수장, AI로 대화 물꼬",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1STVVWcXpSNllNUGdUTFdLeV9EOGFZQU1sbmxxQnpKa18yR3FIMUFrbUNadjZpNFJHTWFQeHZ6UXI4U0w4MHdMQjhuNVZMaUxK?oc=5",
-      "source": "munhwa.com",
+      "source": "문화일보",
       "date": "Mon, 21 Sep 2026 03:00:14 GMT"
     },
     {
