@@ -1,10 +1,28 @@
 {
-  "run_at_kst": "2026-09-21T20:10:05+09:00",
+  "run_at_kst": "2026-09-22T07:08:16+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "\"경제 강압 반대\"…미중정상회담 앞두고 중국 견제 목소리",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93dEV1MnRmdVRsRV9tVjZ3ODdKOVhCbDhYV3UzcGxqbkVZUmRVQ0wydVd1TjNkcndVbDkzVExYQVRvMFpBSEk5cTdJd3pLT2M?oc=5",
+      "source": "v.daum.net",
+      "date": "Mon, 21 Sep 2026 20:27:00 GMT"
+    },
+    {
+      "title": "스콧 베선트 \"중국 허리펑과 12시간 회담…경제·AI 논의\"",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwakRMMmFpUUpfR1NQU2x2S0tLUU9hemozQzVJQ2hVdFlkNmhfZVR4VnF0OThTZ3VUWHlXVUFMMk5kazBIaWxycG12cFJ5V3RL?oc=5",
+      "source": "블루밍비트",
+      "date": "Mon, 21 Sep 2026 16:53:58 GMT"
+    },
+    {
+      "title": "美 “’미중 AI 대화’ 공식화…중국 금융당국, 이란 제재 많이 관여“",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yb1FIQXdlUDdvd0VoV2g0U2p1cEltWENYcEROYWN2SDVER3JBdll5bHgwRGF4c2V4YXBqVzBMOThtLTJmRXVveDdmcFo2bkZ4TFdHNUtkY05FdGVGTFgyZnF6N2xUVzQ?oc=5",
+      "source": "연합뉴스TV",
+      "date": "Mon, 21 Sep 2026 16:00:00 GMT"
+    },
     {
       "title": "미국 車업계 \"중국차 美 공장 허용 말라\"",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NZ0lxaGRrT3pRMW0wNE1hZDJjRndlM2pZSldzbm1MYWhEOGRORFZpN05qam84Q1VSNi04R29pU2cwWmJTWjhFSUhTMjVpeUYzTElXNDhtMEpSdw?oc=5",
@@ -24,50 +42,26 @@
       "date": "Mon, 21 Sep 2026 08:05:23 GMT"
     },
     {
+      "title": "中 즈푸AI, 사용자 몰래 자료 외부전송 논란",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBreUpPNzlfSzhVRmtSRmZCeXdCR3pvWGZKem96cGstcTdYeHRPMUNqYVFVWUlRR0thaHBhdV9qVkhFVmZZRkRpLU5ablRMM194ZEHSAVNBVV95cUxQa3Q3eF9aazNfdlFocXp4ZzZ3aW1wRUlsWkJoUEZaQWZMRmhaMTV3Tjk0MXFEUEJkeVJHNDc3MC1HNXpRLWp0WnNHTkFzWERFZXI1UQ?oc=5",
+      "source": "서울경제",
+      "date": "Mon, 21 Sep 2026 07:35:11 GMT"
+    },
+    {
       "title": "中, 경기침체에도 AI '올인'…경제학자들 \"소비·고용부터 살려야\"",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BQ3JMdnJFQm9oNHlDeEJrd0JJTUJEU3NfSFVNMDQ0ejdmUjJpUlZhRHQzYUV4cktVdXo3anVFSFF4X2R2MmctanQxUWdlalVRSjRfeTd6VXlxbFBMWlpZetIBeEFVX3lxTFA5TDd5SjVvMngtNnZla0xjc191SDdFVlNUdl9QSGRlckZzUlRjY2wwdGJ3MDhrT2pfSnhWV2xfejZRMFpISzg1elNfQk5PdW9pRDFkSjc0ajgya3JwU25qUHpwTnMtVHE3NzU1cWE2YVg2RnpNdWZ2Nw?oc=5",
-      "source": "newsis.com",
+      "source": "뉴시스",
       "date": "Mon, 21 Sep 2026 06:04:47 GMT"
     },
     {
-      "title": "‘미·중 회담 조율’ 양국 경제수장, AI로 대화 물꼬",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1STVVWcXpSNllNUGdUTFdLeV9EOGFZQU1sbmxxQnpKa18yR3FIMUFrbUNadjZpNFJHTWFQeHZ6UXI4U0w4MHdMQjhuNVZMaUxK?oc=5",
-      "source": "문화일보",
-      "date": "Mon, 21 Sep 2026 03:00:14 GMT"
+      "title": "인민은행: AI, 중국 경제 불균형 심화시킬 수 있어, 이것이 원인",
+      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQbEJrM0RwMTNXbFRGd2lOU0lNZ0JORVZBOWRLcEs3cm1YWXA2V281QVpRZzdBT2dFY2J0OXNwc0t5V2hXeWtRc0t3SXNBeEFzb1hBOWpzbnBLbHVNbU9oblp5REhKRUlIeXNfWGlmUWRBbWh2dGV1UjNldG8yVnFtQTQ1ZlJiNTkzQ1BKZlJBaVJ2aU1ydVlqN0dYUWFJMklxRGdKS0kwRkhhZEpDQ25NNHJjY1NNTHBwQXZnSFZIU2ZDQ2sxTTMtVlctM3JNbWUtNTBrbVVEMzBfYlNCT3IyRFpyaU1XZlE3d1dEa1FuV0tGTUIydmR1TWtqZGpRblp1ZmM2a2x5djljcHpCbThmNmtvOXB6Y3FPMjF3WG03eENyMG5tQ3NrRGc0MDlyLURMUmw1aTRXOVEzYlhFM2pMTEVMUEhfMGtGT2dkLU95UF9nckg2Tk43QjlZY2RMcl9DUmFqdE9nYnotWUt3SktqVUI1VFpRcUhXSkE?oc=5",
+      "source": "IDNFinancials",
+      "date": "Mon, 21 Sep 2026 03:20:00 GMT"
     },
     {
-      "title": "[홍성소식] 후난성 거대시장 노크…지역 특산품·기업 중국 진출 확대 외",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XZ2pqdFFWQldzRzk0VHdCUkZVRHJZZUZCNERBdWE2d1ZUaTFoNXhTTjZEWHpPTTYxakpDbkpueE52VDFEREVJX1pCV2tDSjJxUlpGNVBlMXNTM3NQNG9hZ1dMTWxLZWx2djFqSDh0UdIBc0FVX3lxTE9PMU4yZjdKYjlrb0o0Y2NKT1lGWFZFWVZqNWwwYlhEeDBhYzBaaVFKVGtsQkl5OFQxMVpNYVFtNUtiVmtDWHYxdWlPd0VMdEltQjZPQWNFVGx2SnFhSUFsQTcwc0VmTGRKTmxVQ0I3bUp1Nmc?oc=5",
-      "source": "데일리한국",
-      "date": "Mon, 21 Sep 2026 01:56:51 GMT"
-    },
-    {
-      "title": "홍성군, 중국 뤄디시와 MOU로 경제·산업 협력 확대",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOX2hEb2lsb1pSS0h2cmg3bGdRZmdGMU8wenRUR1VHUlFDR2l1ZHZjV0EtaS1aN0xkemJQbWg3NjllN3lOcVRYMWRuTTJzaEEzYUhTLVJxWFpGQQ?oc=5",
-      "source": "브릿지경제",
-      "date": "Mon, 21 Sep 2026 00:09:00 GMT"
-    },
-    {
-      "title": "중국 AI 정책, 6개월 후에 현실화 된다",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43MzdCS05ZN045Q3ExUmJpTTM3UVJLMGJod0pQQ3JpNkNmRXlKdzVUbHRoWXhub2pZV1J0bldKX1I3d2FiV2tYVjJxUE9RZDA?oc=5",
-      "source": "v.daum.net",
-      "date": "Sun, 20 Sep 2026 23:47:49 GMT"
-    },
-    {
-      "title": "중국 진출 경남기업 애로 청취… 지원책 모색",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lU3FDSU5WZTJSZllNWE42UTAwb20zTmlfdjdZR1Ftbm1yeW9jYWRacDBSUUpLd0xQQ1hZLVFlcExHellMYkNPbFZDeWo0N3ZmNkZUSjNEMlFUYjdtdzBYWlRpOUpMakE?oc=5",
-      "source": "팍스경제TV",
-      "date": "Sun, 20 Sep 2026 22:38:14 GMT"
-    },
-    {
-      "title": "공장 커지는데 지갑 닫힌 중국, 세계 무역 갈등 불씨 되나",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNU56cDZkNnRINURPbk0zRjQ4YTBTQXQtRDBVQ2pJdWFCTHhoZ2Z4UkpBdy1tNlYxQVdPVWt4czRvUWNVenFCLWVvcDYwNER3TkxQWFRmSVpNTWF6ZkxiVmV0TC1taDJmNGxTR1U4TTloZEVpejRGRVltOUtGUlJQSFhkc2d2SmZG?oc=5",
-      "source": "글로벌이코노믹",
-      "date": "Sun, 20 Sep 2026 19:05:00 GMT"
-    },
-    {
-      "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
+      "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
       "source": ":: 위즈경제 ::",
       "date": "Thu, 17 Sep 2026 07:00:00 GMT"
     },
@@ -76,6 +70,12 @@
       "link": "https://news.google.com/rss/articles/CBMinwZBVV95cUxOYWlqbG9yR0JTU0JIcE93VE9fUF8tdzd1WTNJcVJWZ0YxeVdkZTYzTGpoWXVxclJCY3lTbEdGRWV1a0QtLUtLZWlsX2N5RlZYUHh2U2dzWFJ5YzZCemhFUzJtSDRoaGtwNDNwWHBNZ251NGQ0Tjh2Zi1fYjM3OW14YXU0eDFtd0tmdHpObVEydlpuSlItRVozSzEwako4NGo3RG56VFM2cDBjMjVmNmk3RjlJUElzeGxVckdGRW83dnpJRGY1WDNRSzRaNDhQZ2dPMG85dlJFdGpJU2x3Ynpmb0o3b3EwbVdLdGRLdlpYRFF5WHpUOVkyYUp6c1JGNVlfV09MVUloV1pKNXhhbnhER0Y2dUpseHJWODFkc3NQTzB0S3hZR3IzQXdVelFNWkh2b1BBdk9MNXlPMnpiMkpLU1NmNWhmWmlJYmx6SS1EUUVNb2ZPSndOcW5Ja3lUd0ZocURVLWhPaFBSV1p4RmJpcFJpeGwxdl9VWlNZakRlNEZQUmxrNjNHQUw2QkpJRnFlYnZ6S1p4ZE5tN0Zsekl4bFRlc2swdWNyVG9FY2NwdEZVNnkzWTQ2NGlZb3dwMm1MSXFnRk1jcjhoUGRMM1o5LV9QSll4cVE3ZW9BbElrdWxOMjRjeVEzNzRtb3pORThhVC1WdHI1anQ2U1k0YVplNk81VXZ6WmpGdUtNdi05aWVsVWlidGZlR0RsdTdIRkEwbHAtUnF6LTA2SWJuOWluOXM0NGZOTnBSY0tuVjU0bFlWbDFGaEJraXBrb1hZXzFzQVo0dk9tYTZQQy1fMUluRzREbjEtZVFuLXNiYWdkU1RjQzNsZXJFZFBkck1jakhnSHFuZVhEWWV0VklaRTNQTWl4X3VjT0xseF9ld25mTndYOGJjTHBEa1V2V201RTJ6NE5NWkZTZHVXUmsxcVFHSUNKQ1pfa01NVFRqWGtZaGZwZE1aX0xuZ0k1dU85bEN1MmpfeWNqSVhLdnJQWXFfVWdpRnMzTlptc0Y3VUhfWUo3cldZYzBFc0tLeVIwMlJKWWFsUkRPRXU1bmpYRm5B?oc=5",
       "source": "Thông tấn xã Việt Nam (TTXVN)",
       "date": "Thu, 17 Sep 2026 05:31:30 GMT"
+    },
+    {
+      "title": "공산당도 열지 못한 14억의 지갑… 중국 경제 4대 착시의 종말",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNay0tVHJZc3ZCZ2hkM2Z5aTFiTWpyNzhmcnZ2TmNYa1dJUklyNENPU3duWGkxbmtsbW00MlUwMHk3UExwVHVyRDJRcGlXS3BXSWlvTGFMVzRmYlpWVjVhOVNEdU9zVjVTbnJXU1BvZVU3ODlSTkMtWEVucTRTNkdpdjlhZnBwVEh0?oc=5",
+      "source": "조선일보",
+      "date": "Wed, 16 Sep 2026 18:00:00 GMT"
     }
   ]
 }
