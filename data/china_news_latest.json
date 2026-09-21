@@ -1,10 +1,46 @@
 {
-  "run_at_kst": "2026-09-21T07:20:04+09:00",
+  "run_at_kst": "2026-09-21T10:10:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "中 은행 부실대출 늘자 '채무자 주소 찾기' 시장 뜬다 [차이나 워치]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zTklycDRuUXRPZk9FVU9paDJJc0VlUkVtU2pQWDVvbWZmc1FqN3NRcThDeG5UVFNfZ0lLaFdiSHVHcXVkd2pSOUVqczZ0bFlnOTNlSnlRM3VoUQ?oc=5",
+      "source": "hankyung.com",
+      "date": "Mon, 21 Sep 2026 00:40:03 GMT"
+    },
+    {
+      "title": "중국을 맹렬히 비난했던 트럼프, 시진핑을 극진히 환영",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xXzg4ZDk5QUhTclVsM252Ujl5S3BXQWJtVEJPT1RhMlZPMWpGbWNtTjd5UVpkb2pVTmhRb3ZObmtmal9ISEp3VW5wb3N2NHhXWE1jNzZDRUNocWdMcFJNbEE2MkNramNfbVZPZEVB?oc=5",
+      "source": "뉴스타운",
+      "date": "Mon, 21 Sep 2026 00:31:00 GMT"
+    },
+    {
+      "title": "트럼프·시진핑 만남 앞두고, 4일간 마라톤 무역협상 돌입",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ySTE4TkJkY19DN0czZGtSTENQZXdCVUNmdzZjbWs2Wl9NUDd6WllqSEVjTVhOQkJFdzBWRVZGUENnQTNib29jNmVwVnVMVENTZDZrVm5XR2czd9IBWEFVX3lxTE9Jdm1FcnBzeEhFU2dEN0ZHZzlKRDkycW9JbFo0cWYwQWZSS3FxdXBXUW04ZHZCNGNabWxyVVNHRFVhTDNQOThlUzdrYnBmS0tSQi04ejgwZHY?oc=5",
+      "source": "아주경제",
+      "date": "Mon, 21 Sep 2026 00:17:09 GMT"
+    },
+    {
+      "title": "홍성군, 중국 뤄디시와 MOU로 경제·산업 협력 확대",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOX2hEb2lsb1pSS0h2cmg3bGdRZmdGMU8wenRUR1VHUlFDR2l1ZHZjV0EtaS1aN0xkemJQbWg3NjllN3lOcVRYMWRuTTJzaEEzYUhTLVJxWFpGQQ?oc=5",
+      "source": "브릿지경제",
+      "date": "Mon, 21 Sep 2026 00:09:00 GMT"
+    },
+    {
+      "title": "중국 AI 정책, 6개월 후에 현실화 된다",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43MzdCS05ZN045Q3ExUmJpTTM3UVJLMGJod0pQQ3JpNkNmRXlKdzVUbHRoWXhub2pZV1J0bldKX1I3d2FiV2tYVjJxUE9RZDA?oc=5",
+      "source": "v.daum.net",
+      "date": "Sun, 20 Sep 2026 23:47:49 GMT"
+    },
+    {
+      "title": "중국 진출 경남기업 애로 청취… 지원책 모색",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lU3FDSU5WZTJSZllNWE42UTAwb20zTmlfdjdZR1Ftbm1yeW9jYWRacDBSUUpLd0xQQ1hZLVFlcExHellMYkNPbFZDeWo0N3ZmNkZUSjNEMlFUYjdtdzBYWlRpOUpMakE?oc=5",
+      "source": "팍스경제TV",
+      "date": "Sun, 20 Sep 2026 22:38:14 GMT"
+    },
     {
       "title": "중국 항저우 방문...\"다자주의의 현장에서 한중 협력 길을 묻다!\"",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBsenhHQzA1TktEMDFmWHNvUi03Yjk3LXRHakhheHl1MnpFUEZ6eFVxS2dTeTNxRzFsbUNFWDFZMWFaUm5mMkFZ?oc=5",
@@ -12,21 +48,9 @@
       "date": "Sun, 20 Sep 2026 20:19:00 GMT"
     },
     {
-      "title": "위성곤, 중국대사에 경제·관광·에너지 분야 협력 요청",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54M2lmTHNrQkRBbFZNdURKUnVXYXN0dU9QQXZubVhabUJ6UUNCTkUtZjl3QTRYWmFKdEpLMW9WQU1HY3VPU01yVzlzb09QSjBLM0lwQmtpSVhSN2J2OUhxdFU2QUJ3MTJ5OGVmMQ?oc=5",
-      "source": "삼다일보",
-      "date": "Sun, 20 Sep 2026 09:10:00 GMT"
-    },
-    {
-      "title": "시진핑 방미 직전 미·중 경제회담, 정상회담 앞두고 조율할 안건은",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NeGxtMXlpSlVnYk5YRnRzb1RYYTNSLUU3bmtPb2E0MTlJcURjQTNhSG1Qb3dPa0tsbmx2WDVicmxXUEZxbExfYzZFRmtCNTZCMllULXNxZnBEOHJCNnhsQll5RlBieGVRYWI0TVhxRkJpajg?oc=5",
-      "source": "마켓인",
-      "date": "Sun, 20 Sep 2026 07:49:41 GMT"
-    },
-    {
       "title": "위안화 가치 4년 만에 최고, 中 경제에는 악재",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FQnBYdWFxcTdtRmxzM3RJdXdpUkpmeC10ZVFpdFc3aWt5alM4bkpOd1R4OTlGR21NVEFzTnlVY1NzN1RQd2tnYXNOcTVhQmVFdk9qR2xBU0E1NzB0OGx0amRESldFTkJmSE9PU3Fn?oc=5",
-      "source": "아시아투데이",
+      "source": "asiatoday.co.kr",
       "date": "Sun, 20 Sep 2026 05:10:22 GMT"
     },
     {
@@ -34,30 +58,6 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DZEtHTGpRazdBeUtsaTdZU21mb2RXeGFndDJkWTVDc1ZjenVKMWlET09yRmd0UFh3cElmVm1DMGhLVVZWMl9EdTFUMWJvaGJHZjVmUUs1X0hSdnfSAWBBVV95cUxOckFPbEdwSnBtX1ZqS2t4VXJQZHQ3TF9vTEtqSXFrV0VlcV9FRXdGbFM1LXMzYWItTkNHenlFbkI4VGRaWV9MMjE0UXpJX1NDdjhYUGhBc2ZJb1NOUDJwU20?oc=5",
       "source": "연합뉴스",
       "date": "Sun, 20 Sep 2026 03:43:28 GMT"
-    },
-    {
-      "title": "“한국 제품, 중국 청두에서 먼저 통할까?”",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TNmZib0dSbVZMVXBHdE9Xd1Awa3ppdTZkczZqcml1QjkxMmtUSGtpLXNhUUlhbnNmWS1PcEs3a1V0TjVFWFVFSEtNRGhKRzBZZkIxRkFvM2F5UUhLbHg3dnV3dTdWRi1vNzg4UQ?oc=5",
-      "source": "재외동포신문",
-      "date": "Sat, 19 Sep 2026 22:12:13 GMT"
-    },
-    {
-      "title": "중국 경제수장 허리펑, 19∼23일 방미…미중정상회담 앞서 무역협상",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12UHVzVWx4SmN3OFlCLWtLYmtiRHFhNHVLekhKSUthSE9DYW9TTDJQVmpVSXBrSE9HVVM0MlpzdmY2MXdVeERsTi1IQQ?oc=5",
-      "source": "v.daum.net",
-      "date": "Sat, 19 Sep 2026 05:03:02 GMT"
-    },
-    {
-      "title": "'홍콩 반환' 29년 만에 결단…야욕 드러낸 중국의 '파격 계획'",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IbXpVZ2Fmalp2Y0tBVGhXeG44dHlpV1JuMFZxOEZVbHUzWkg3M1M3c293MklldmRpUXpuWmVGWkZOSWpEYTlHSkNjVmp1QlBpcG1HUF95ejdmQQ?oc=5",
-      "source": "hankyung.com",
-      "date": "Thu, 17 Sep 2026 09:38:24 GMT"
-    },
-    {
-      "title": "중국 Z세대가 사망한 지 50년이 지난 마오쩌둥에 열광하는 이유는?",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iYU9rcGpzcU1PNDQzcmZNOTE2OUhMUWhjbkdsanhVajFfX1NPXzdjWFJ3a2xxSDZrR0ptU0g1d0tYNTZhNWpsUFhkT3g2bGVwdVVFb3lEaXE2a1g3anfSAWNBVV95cUxOTnNFMUJOamxza293a0JvdW1BX2tjSDI2ZVJXRTU5ZFdnS1JvWVVPY0VnUXBvQ2lRVHdVQlZiRjU0RkxlRHRaWGk5eldnTnFwMTNtMG0tSG5HLUQ2OWNXM3JUOTg?oc=5",
-      "source": "BBC",
-      "date": "Thu, 17 Sep 2026 09:04:05 GMT"
     },
     {
       "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",

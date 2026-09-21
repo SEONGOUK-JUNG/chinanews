@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-21T07:20:04+09:00",
+  "run_at_kst": "2026-09-21T10:10:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Big Oil’s Production Keeps Soaring Despite Deep Spending Cuts",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Big-Oils-Production-Keeps-Soaring-Despite-Deep-Spending-Cuts.html",
+      "source": "OilPrice",
+      "date": "Sun, 20 Sep 2026 18:00:00 -0500"
+    },
     {
       "title": "Hormuz Crisis to Push Global Coal Demand to Record High",
       "link": "https://oilprice.com/Energy/Coal/Hormuz-Crisis-to-Push-Global-Coal-Demand-to-Record-High.html",
@@ -54,12 +60,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/IAEA-Triples-Nuclear-Power-Forecast-as-Small-Reactors-Finally-Take-Off.html",
       "source": "OilPrice",
       "date": "Sat, 19 Sep 2026 12:00:00 -0500"
-    },
-    {
-      "title": "UN Warns World Must Prepare for Life Beyond 1.5°C",
-      "link": "https://oilprice.com/The-Environment/Global-Warming/UN-Warns-World-Must-Prepare-for-Life-Beyond-15C.html",
-      "source": "OilPrice",
-      "date": "Sat, 19 Sep 2026 10:00:00 -0500"
     },
     {
       "title": "US DOE looks to industry for critical minerals cleanup at legacy sites",
