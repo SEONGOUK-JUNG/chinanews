@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-09-22T20:08:29+09:00",
+  "run_at_kst": "2026-09-23T07:08:34+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "트럼프, 중국 겨냥 “에너지·희토류 등 핵심 자원 통제해야”[1일1트]",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmdkl2UGlrcWh3bkFoa1dsbm93MGR6UTRPMDVjaG1zSlNta29rdzF3VzVhVGtTQW5oSllNQjUtc19EWGVDd1loRmtId1lESnM?oc=5",
+      "source": "v.daum.net",
+      "date": "Tue, 22 Sep 2026 21:19:38 GMT"
+    },
     {
       "title": "″첨단 산업에 올인한 정책...소비·복지 소홀히 해 중국의 집권 기반 흔든다″ [이석우의 차이나24]",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sbHY0VUZyaVRXcDBXbUs2RzAyTkJZRmNkbFM3cXZEakRpNURtSnRsSVJMcW1wSkkydU1iLTR6SUNudmg2R0doZ0ZvblNZcW8?oc=5",
@@ -12,22 +18,10 @@
       "date": "Tue, 22 Sep 2026 05:50:09 GMT"
     },
     {
-      "title": "中대사, 신압록강대교 개통 관측 속 접경지 지린성 옌볜 방문",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zaEpxZ05vNDN6RkZ0Q3VaMHJHVk00NHIzN1V4dGFoUUxJM01oblliZ1ZKTEYzVUxrbnJWc1d1a0llRkpqN0FQSlpLM1NuWkNvRmNZcmg4TU9UTjVZQ1VwOHJZYjloRjNrc3VqOC1oZlJyb2hJ0gF0QVVfeXFMT1RIclVnQzU4RnF3RE5LLXg1RnNLY1QtWTJWaU5qbklUWENXV0JsWEIyVXZTYmpleGtYaEw4d29nVHpoeU9ReDZkTzRqbEFkcUdEWm53bUJmRi1qWTNSNEdvcWY0cU5FMjhZLWR3d201bjB2QV8?oc=5",
-      "source": "MBC 뉴스",
-      "date": "Tue, 22 Sep 2026 04:41:08 GMT"
-    },
-    {
-      "title": "시진핑 방미 D-1…워싱턴 담판 앞두고 뉴욕서 먼저 움직인 미중",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OYVRjM0xLZ2s2ckdIMTZyMjFmcDVadmRzc1ozaTBjUlprU0NsQXhRcnBMc2J0V29xb1c5dFNKZi1DNWlpb19INy1BRV9rM3ZPNDhwSmpn?oc=5",
-      "source": "인터내셔널포커스",
-      "date": "Tue, 22 Sep 2026 04:10:45 GMT"
-    },
-    {
-      "title": "인천, 가을 황금연휴 중국 관광객 지역축제로 이끈다",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jR25pbWNSdlN0emlHc0JMWHpHdGRaNTlzazlkSXptMkh2M1FwOWotQjU3a09rRzNOaDd4RmNQQW1pLXN1Szd2VlU3NHFvZG8yWktSREJhSm44a0FqSkRMYXFKc3duVDM4QVVwMEZocw?oc=5",
-      "source": "인천뉴스",
-      "date": "Tue, 22 Sep 2026 03:09:20 GMT"
+      "title": "″첨단 산업에 올인한 정책...소비·복지 소홀히 해 중국의 집권 기반 흔든다″ [이석우의 차이나24]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVZnN3NFNiY19OOVNqYXBIVTNZTFQ4a3l4d05GU2h2TUFacnU0VjZPcFZUbjJPc1VhYzA2bXpMOEhucnNnMzN3YVJIY3djMGZVaGdZamxIVXRsQQ?oc=5",
+      "source": "파이낸셜뉴스",
+      "date": "Tue, 22 Sep 2026 05:48:19 GMT"
     },
     {
       "title": "\"소비·복지 외면 중국 경제, 공산당 집권 기반 잠식\"-WP",
@@ -42,27 +36,21 @@
       "date": "Tue, 22 Sep 2026 00:37:35 GMT"
     },
     {
-      "title": "미중 외교전쟁 속 한미일, 중국 경제 압박과 북한 대화 촉구로 반전 노린다",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IS3pELXVVYjRoY0t2eHNvNGtNbV9lX1kzMjJxN01mcjZKVUhMMlJ4clZhcTdjSzJaUmpNTzJJOTZPY0xLMVdEWmdGQ0dWT2pKSzE3cXFRODA5eENFZjFqSDk0dkdNVjJB?oc=5",
-      "source": "공감신문",
-      "date": "Mon, 21 Sep 2026 22:34:51 GMT"
-    },
-    {
-      "title": "미국 車업계 \"중국차 美 공장 허용 말라\"",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NZ0lxaGRrT3pRMW0wNE1hZDJjRndlM2pZSldzbm1MYWhEOGRORFZpN05qam84Q1VSNi04R29pU2cwWmJTWjhFSUhTMjVpeUYzTElXNDhtMEpSdw?oc=5",
+      "title": "\"중국 의존도 줄여라\"…日, 대체소재 국가 프로젝트 착수",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56OU9ZS2FORnQ2dGpSUEN2cUZyaFI3eXlsTWtrVzIwVTZtR0thRUtZMjAyaWNwdHBIWTFiUzl1blZiRDhfemkzWkV6SDBpUnJsZng4TzB5c0NWdw?oc=5",
       "source": "한국경제",
-      "date": "Mon, 21 Sep 2026 09:08:34 GMT"
+      "date": "Mon, 21 Sep 2026 23:18:05 GMT"
     },
     {
-      "title": "중국자본시장연구회 韓, 미·중 대립에서 반도체 경쟁력 유지해야 생존",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1temw0TkFvdXFCTTlabGFJQmxLOVh4azc0TjNHbFRTZTVEdWhhbWJVMWhUUkNzMGpwcm9RRVJhaDNmc2tsTGd1VURLM0xQb3JRcE9YcW1GQ1lLQdIBWEFVX3lxTE1UZ1JfYTZvOEpQazFuX2N3NVdRWkRqRFdPVnprVDlSTVdGV2NSSHJLbEFvcUV6WU9tcV9mcmpPVUpvZ044eEVJV0pkNm80Vnl0VDRPOGtMenk?oc=5",
+      "title": "한미일, 미중 정상회담 앞두고 중국 겨냥 경제안보 공조",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42M2lwZjZSdW9VRlpNbTh6SENSUnpwbG5fR1ZpNWc3VlBodmlLc1ZvOVFKalMtbkE5ZmtFekFaVEFsUUJYZk5McFVpekd1WHZsRG1PS1RlZVVOQdIBWEFVX3lxTE5wSV9DYXBKUG9WNXd1RVdhb0xHV2NwaWJiQXA5aFE2MzViTXU3WFVBSEVPak1scmIxY3dsbElsWE9fdWlxckw3U1hhM0RBV0w1VFhOWFE0ZHo?oc=5",
       "source": "아주경제",
-      "date": "Mon, 21 Sep 2026 08:05:23 GMT"
+      "date": "Mon, 21 Sep 2026 21:33:01 GMT"
     },
     {
       "title": "중국서 인기 ‘즉답사’란?…몇천원 내면 고민 듣고 즉각 답변해줘",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XMldXU0dTOHZfRGQ4TndwVEZiQXhHYjAwQ3dMQk5jbFdXVGRxeGYxWTBUc1VwNVJ6SjBiZDQ3bEdBVmZoeG9PdFRlNzZmc2pPQjF1cXVjWld0QTFmbmExWEx4c3VUcmNhb2xxeQ?oc=5",
-      "source": "hani.co.kr",
+      "source": "한겨레",
       "date": "Mon, 21 Sep 2026 07:13:00 GMT"
     },
     {
@@ -76,6 +64,18 @@
       "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQbEJrM0RwMTNXbFRGd2lOU0lNZ0JORVZBOWRLcEs3cm1YWXA2V281QVpRZzdBT2dFY2J0OXNwc0t5V2hXeWtRc0t3SXNBeEFzb1hBOWpzbnBLbHVNbU9oblp5REhKRUlIeXNfWGlmUWRBbWh2dGV1UjNldG8yVnFtQTQ1ZlJiNTkzQ1BKZlJBaVJ2aU1ydVlqN0dYUWFJMklxRGdKS0kwRkhhZEpDQ25NNHJjY1NNTHBwQXZnSFZIU2ZDQ2sxTTMtVlctM3JNbWUtNTBrbVVEMzBfYlNCT3IyRFpyaU1XZlE3d1dEa1FuV0tGTUIydmR1TWtqZGpRblp1ZmM2a2x5djljcHpCbThmNmtvOXB6Y3FPMjF3WG03eENyMG5tQ3NrRGc0MDlyLURMUmw1aTRXOVEzYlhFM2pMTEVMUEhfMGtGT2dkLU95UF9nckg2Tk43QjlZY2RMcl9DUmFqdE9nYnotWUt3SktqVUI1VFpRcUhXSkE?oc=5",
       "source": "IDNFinancials",
       "date": "Mon, 21 Sep 2026 03:20:00 GMT"
+    },
+    {
+      "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Thu, 17 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "中, 자동차판매 -21%·부동산 투자 -19%…중국경제 '빨간불'",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iNTRtZUhiM3RVU2ZWWmZwNHk1RVBZME9uMnplbV91c3BMSjFlNm5WQUFqYjJ6cFpxMDVLOGc1VWhTdDJfSk1OY3VfVzNKRmp2aWc3XzZ3ZXJYQQ?oc=5",
+      "source": "한국경제",
+      "date": "Mon, 17 Aug 2026 07:00:00 GMT"
     }
   ]
 }
