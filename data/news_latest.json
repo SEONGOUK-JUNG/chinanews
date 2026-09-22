@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-22T10:10:05+09:00",
+  "run_at_kst": "2026-09-22T20:08:29+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Saudi Oil Lifeline May Reopen as Aramco Eyes Yanbu Restart",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Oil-Lifeline-May-Reopen-as-Aramco-Eyes-Yanbu-Restart.html",
+      "source": "OilPrice",
+      "date": "Tue, 22 Sep 2026 05:30:00 -0500"
+    },
+    {
+      "title": "India’s Oil Import Bill Jumps 48% as Crude Prices Soar",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Oil-Import-Bill-Jumps-48-as-Crude-Prices-Soar.html",
+      "source": "OilPrice",
+      "date": "Tue, 22 Sep 2026 04:15:00 -0500"
+    },
+    {
+      "title": "Soaring Oil and Gas Prices Push Europe’s Inflation Fight Into 2027",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Soaring-Oil-and-Gas-Prices-Push-Europes-Inflation-Fight-Into-2027.html",
+      "source": "OilPrice",
+      "date": "Tue, 22 Sep 2026 03:00:00 -0500"
+    },
+    {
+      "title": "U.S. Threatens to Ground Iranian Airlines Worldwide",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Threatens-to-Ground-Iranian-Airlines-Worldwide.html",
+      "source": "OilPrice",
+      "date": "Tue, 22 Sep 2026 01:45:00 -0500"
+    },
+    {
+      "title": "Oil Prices Reverse Course as Traders Watch US-Iran Diplomacy",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Reverse-Course-as-Traders-Watch-US-Iran-Diplomacy.html",
+      "source": "OilPrice",
+      "date": "Tue, 22 Sep 2026 00:30:00 -0500"
+    },
     {
       "title": "Qatar’s LNG Loss Revives Projects From Argentina to Timor-Leste",
       "link": "https://oilprice.com/Energy/Natural-Gas/Qatars-LNG-Loss-Revives-Projects-From-Argentina-to-Timor-Leste.html",
@@ -38,40 +68,10 @@
       "date": "Mon, 21 Sep 2026 17:00:00 -0500"
     },
     {
-      "title": "The Energy Transition Has a Speed Advantage That Cost Models Miss",
-      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/The-Energy-Transition-Has-a-Speed-Advantage-That-Cost-Models-Miss.html",
-      "source": "OilPrice",
-      "date": "Mon, 21 Sep 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Where Is OPEC+? Riyadh and Moscow’s Silence Is Becoming Deafening",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Where-Is-OPEC-Riyadh-and-Moscows-Silence-Is-Becoming-Deafening.html",
-      "source": "OilPrice",
-      "date": "Mon, 21 Sep 2026 15:00:00 -0500"
-    },
-    {
-      "title": "War Is Now A Core Risk Category For Data Centre Operators",
-      "link": "https://oilprice.com/Geopolitics/International/War-Is-Now-A-Core-Risk-Category-For-Data-Centre-Operators.html",
-      "source": "OilPrice",
-      "date": "Mon, 21 Sep 2026 14:00:00 -0500"
-    },
-    {
       "title": "Copper prices bounce as US runs out of warehouse space",
       "link": "https://www.mining.com/copper-prices-bounce-as-us-runs-out-of-warehouse-space/",
       "source": "mining.com",
       "date": "Mon, 21 Sep 2026 18:03:58 +0000"
-    },
-    {
-      "title": "Trade Tensions Tear at Russia’s Eurasian Economic Union",
-      "link": "https://oilprice.com/Geopolitics/Asia/Trade-Tensions-Tear-at-Russias-Eurasian-Economic-Union.html",
-      "source": "OilPrice",
-      "date": "Mon, 21 Sep 2026 13:00:00 -0500"
-    },
-    {
-      "title": "Prague Caps Fuel Prices, Taxes Orlen's ‘Windfall’ Refining Margins",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Prague-Caps-Fuel-Prices-Taxes-Orlens-Windfall-Refining-Margins.html",
-      "source": "OilPrice",
-      "date": "Mon, 21 Sep 2026 12:30:00 -0500"
     },
     {
       "title": "Greenland Mines says US pact could strengthen mineral supply",

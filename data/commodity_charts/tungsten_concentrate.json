@@ -2,8 +2,8 @@
   "id": "tungsten_concentrate",
   "name": "텅스텐 정광",
   "unit": "CNY/t",
-  "updated_at_kst": "2026-09-21T20:03:16+09:00",
-  "count": 14,
+  "updated_at_kst": "2026-09-22T20:09:10+09:00",
+  "count": 15,
   "candles": [
     {
       "time": "2026-09-02",
@@ -59,6 +59,10 @@
     },
     {
       "time": "2026-09-21",
+      "value": 404514.36
+    },
+    {
+      "time": "2026-09-22",
       "value": 404514.36
     }
   ],

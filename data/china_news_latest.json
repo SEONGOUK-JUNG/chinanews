@@ -1,10 +1,22 @@
 {
-  "run_at_kst": "2026-09-22T14:08:20+09:00",
+  "run_at_kst": "2026-09-22T20:08:29+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "″첨단 산업에 올인한 정책...소비·복지 소홀히 해 중국의 집권 기반 흔든다″ [이석우의 차이나24]",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sbHY0VUZyaVRXcDBXbUs2RzAyTkJZRmNkbFM3cXZEakRpNURtSnRsSVJMcW1wSkkydU1iLTR6SUNudmg2R0doZ0ZvblNZcW8?oc=5",
+      "source": "v.daum.net",
+      "date": "Tue, 22 Sep 2026 05:50:09 GMT"
+    },
+    {
+      "title": "中대사, 신압록강대교 개통 관측 속 접경지 지린성 옌볜 방문",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zaEpxZ05vNDN6RkZ0Q3VaMHJHVk00NHIzN1V4dGFoUUxJM01oblliZ1ZKTEYzVUxrbnJWc1d1a0llRkpqN0FQSlpLM1NuWkNvRmNZcmg4TU9UTjVZQ1VwOHJZYjloRjNrc3VqOC1oZlJyb2hJ0gF0QVVfeXFMT1RIclVnQzU4RnF3RE5LLXg1RnNLY1QtWTJWaU5qbklUWENXV0JsWEIyVXZTYmpleGtYaEw4d29nVHpoeU9ReDZkTzRqbEFkcUdEWm53bUJmRi1qWTNSNEdvcWY0cU5FMjhZLWR3d201bjB2QV8?oc=5",
+      "source": "MBC 뉴스",
+      "date": "Tue, 22 Sep 2026 04:41:08 GMT"
+    },
     {
       "title": "시진핑 방미 D-1…워싱턴 담판 앞두고 뉴욕서 먼저 움직인 미중",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OYVRjM0xLZ2s2ckdIMTZyMjFmcDVadmRzc1ozaTBjUlprU0NsQXhRcnBMc2J0V29xb1c5dFNKZi1DNWlpb19INy1BRV9rM3ZPNDhwSmpn?oc=5",
@@ -18,28 +30,16 @@
       "date": "Tue, 22 Sep 2026 03:09:20 GMT"
     },
     {
-      "title": "중국·아세안 시장 공략 본격화…220만 달러 수출상담 성과",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nZXBteW5laTV5ci1IZXU1S1NwQmhiUnlkOGFlOXhjWkg1M0drdUZhMGVFY083cDE0dWMteXRzVDNmM1A5MWdtekFNa2MwT0pGVUViX28wMjJycDBoUVJzc21uSVlhOGRuOVhCcDJB?oc=5",
-      "source": "뉴스홈(newshome)",
-      "date": "Tue, 22 Sep 2026 02:16:21 GMT"
-    },
-    {
       "title": "\"소비·복지 외면 중국 경제, 공산당 집권 기반 잠식\"-WP",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xb0Q0bXBCVUdDSHBBaVlleVNvV2UwTFhIa1FKVDVRYkk1SnR0dkdJNUE1REhnaWcxWnlIR1hsSjJJWnJ0Y1lxUjFiekRWMjBrOXNablIwUV9jUkdQcDN6M3QwdTgwSXptcWJZWGhFUG1iTlNBZjI0X9IBeEFVX3lxTE0xb0Q0bXBCVUdDSHBBaVlleVNvV2UwTFhIa1FKVDVRYkk1SnR0dkdJNUE1REhnaWcxWnlIR1hsSjJJWnJ0Y1lxUjFiekRWMjBrOXNablIwUV9jUkdQcDN6M3QwdTgwSXptcWJZWGhFUG1iTlNBZjI0Xw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oSHhqOVNGYXM5ZEFEZTdlOHpscy1mSXloTVpYVzRwTFdteUhXc3kxZ0tybm9venJOMldDLTFnUDM3ekRZT0hmYnZNVUF4dzNUUGFJRTNBWXNkeTg2c3BnQdIBeEFVX3lxTE0xb0Q0bXBCVUdDSHBBaVlleVNvV2UwTFhIa1FKVDVRYkk1SnR0dkdJNUE1REhnaWcxWnlIR1hsSjJJWnJ0Y1lxUjFiekRWMjBrOXNablIwUV9jUkdQcDN6M3QwdTgwSXptcWJZWGhFUG1iTlNBZjI0Xw?oc=5",
       "source": "뉴시스",
       "date": "Tue, 22 Sep 2026 01:20:50 GMT"
     },
     {
       "title": "중국 대기업 ‘헝다’ … 3000억 달러 빚에 무너진 부동산 공룡",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hbU9JaFFmMVgwdWdhY1NWNE9tMmprb1AwaFJUUktNckJQcU1Ibjl3ZW81N0FWYVNKMnY0S1dvOW40RkM3dlNwZUxHM2dlWnB3R3VpTUZiWUtrT1lRY3lJRWZEWjk?oc=5",
-      "source": "yonginilbo.com",
+      "source": "용인신문",
       "date": "Tue, 22 Sep 2026 00:37:35 GMT"
-    },
-    {
-      "title": "\"중국 의존도 줄여라\"…日, 대체소재 국가 프로젝트 착수",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56OU9ZS2FORnQ2dGpSUEN2cUZyaFI3eXlsTWtrVzIwVTZtR0thRUtZMjAyaWNwdHBIWTFiUzl1blZiRDhfemkzWkV6SDBpUnJsZng4TzB5c0NWdw?oc=5",
-      "source": "한국경제",
-      "date": "Mon, 21 Sep 2026 23:18:05 GMT"
     },
     {
       "title": "미중 외교전쟁 속 한미일, 중국 경제 압박과 북한 대화 촉구로 반전 노린다",
@@ -48,28 +48,28 @@
       "date": "Mon, 21 Sep 2026 22:34:51 GMT"
     },
     {
-      "title": "[오늘의 경제뉴스] 호르무즈 봉쇄에 유조선 발주 특수...중국이 수주 89% 휩쓸어",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1Rmxac2RTNGlScURtRE8xSzB0NGJsWVZTeXhfaWQxV28wRDBkSU5UWjVqRGxxelFHMkY5TllHVENpRkhnLU5fXzgtZDJNOG5QYnN5ZkxCbVY4d3Jtd3gxQlRiYnZhN01WNmc?oc=5",
-      "source": "뉴스버스",
-      "date": "Mon, 21 Sep 2026 22:04:43 GMT"
+      "title": "미국 車업계 \"중국차 美 공장 허용 말라\"",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NZ0lxaGRrT3pRMW0wNE1hZDJjRndlM2pZSldzbm1MYWhEOGRORFZpN05qam84Q1VSNi04R29pU2cwWmJTWjhFSUhTMjVpeUYzTElXNDhtMEpSdw?oc=5",
+      "source": "한국경제",
+      "date": "Mon, 21 Sep 2026 09:08:34 GMT"
     },
     {
-      "title": "\"경제 강압 반대\"…미중정상회담 앞두고 중국 견제 목소리",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93dEV1MnRmdVRsRV9tVjZ3ODdKOVhCbDhYV3UzcGxqbkVZUmRVQ0wydVd1TjNkcndVbDkzVExYQVRvMFpBSEk5cTdJd3pLT2M?oc=5",
-      "source": "v.daum.net",
-      "date": "Mon, 21 Sep 2026 20:27:00 GMT"
+      "title": "중국자본시장연구회 韓, 미·중 대립에서 반도체 경쟁력 유지해야 생존",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1temw0TkFvdXFCTTlabGFJQmxLOVh4azc0TjNHbFRTZTVEdWhhbWJVMWhUUkNzMGpwcm9RRVJhaDNmc2tsTGd1VURLM0xQb3JRcE9YcW1GQ1lLQdIBWEFVX3lxTE1UZ1JfYTZvOEpQazFuX2N3NVdRWkRqRFdPVnprVDlSTVdGV2NSSHJLbEFvcUV6WU9tcV9mcmpPVUpvZ044eEVJV0pkNm80Vnl0VDRPOGtMenk?oc=5",
+      "source": "아주경제",
+      "date": "Mon, 21 Sep 2026 08:05:23 GMT"
     },
     {
-      "title": "스콧 베선트 \"중국 허리펑과 12시간 회담…경제·AI 논의\"",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwakRMMmFpUUpfR1NQU2x2S0tLUU9hemozQzVJQ2hVdFlkNmhfZVR4VnF0OThTZ3VUWHlXVUFMMk5kazBIaWxycG12cFJ5V3RL?oc=5",
-      "source": "블루밍비트",
-      "date": "Mon, 21 Sep 2026 16:53:58 GMT"
+      "title": "중국서 인기 ‘즉답사’란?…몇천원 내면 고민 듣고 즉각 답변해줘",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XMldXU0dTOHZfRGQ4TndwVEZiQXhHYjAwQ3dMQk5jbFdXVGRxeGYxWTBUc1VwNVJ6SjBiZDQ3bEdBVmZoeG9PdFRlNzZmc2pPQjF1cXVjWld0QTFmbmExWEx4c3VUcmNhb2xxeQ?oc=5",
+      "source": "hani.co.kr",
+      "date": "Mon, 21 Sep 2026 07:13:00 GMT"
     },
     {
-      "title": "경남도, 중국서 경제 성장판 넓혔다",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JMlZERkZEX29xX3FmT3FPcDZMMnRBellNenJhX2VjWEtjNFdwYUdqTmRwb0lZd0QtRW5ZOWVSZWw2QUhvNklCSS1MNHVYLTJsbDJURC1Ja29PeUJUSHlzWl9La25vcVFE?oc=5",
-      "source": "gndomin.com",
-      "date": "Mon, 21 Sep 2026 08:53:50 GMT"
+      "title": "미국·유럽은 중국의 무역 흑자가 거슬린다 : 위안화 평가절상 주장하지만 중국은 수출 마진 줄일 생각 없다",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9aelNUbHJCalpib3poWHVmZUpPR0hWSzItSjY4dHc3YkJJZnN3UEFwQ1pXRzQ5ck9lNnhsVDRMSW96MVB0QnY4QlhwMUxmNXc0aC0zZzhMMA?oc=5",
+      "source": "허프포스트코리아",
+      "date": "Mon, 21 Sep 2026 05:33:05 GMT"
     },
     {
       "title": "인민은행: AI, 중국 경제 불균형 심화시킬 수 있어, 이것이 원인",
