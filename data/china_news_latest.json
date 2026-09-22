@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-23T07:08:34+09:00",
+  "run_at_kst": "2026-09-23T07:20:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -10,6 +10,12 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmdkl2UGlrcWh3bkFoa1dsbm93MGR6UTRPMDVjaG1zSlNta29rdzF3VzVhVGtTQW5oSllNQjUtc19EWGVDd1loRmtId1lESnM?oc=5",
       "source": "v.daum.net",
       "date": "Tue, 22 Sep 2026 21:19:38 GMT"
+    },
+    {
+      "title": "“중국발 과잉생산 더는 감당 힘들다” 빗장 건 미·EU…고래 싸움에 한국 등만 터진다",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzT2hZamVUV0QtQUNyckVfOE9FQ1k2aFhUVjdObmoxTHV6N2VRTlVKYk9UeEpnREl4X25SY0pMbkl5X1NzZWM3dnFibjhtUXZSZEJPdi1JQ3J3aVdiWlE?oc=5",
+      "source": "주간경향",
+      "date": "Tue, 22 Sep 2026 20:27:00 GMT"
     },
     {
       "title": "″첨단 산업에 올인한 정책...소비·복지 소홀히 해 중국의 집권 기반 흔든다″ [이석우의 차이나24]",
@@ -70,12 +76,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
       "source": ":: 위즈경제 ::",
       "date": "Thu, 17 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "中, 자동차판매 -21%·부동산 투자 -19%…중국경제 '빨간불'",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iNTRtZUhiM3RVU2ZWWmZwNHk1RVBZME9uMnplbV91c3BMSjFlNm5WQUFqYjJ6cFpxMDVLOGc1VWhTdDJfSk1OY3VfVzNKRmp2aWc3XzZ3ZXJYQQ?oc=5",
-      "source": "한국경제",
-      "date": "Mon, 17 Aug 2026 07:00:00 GMT"
     }
   ]
 }
