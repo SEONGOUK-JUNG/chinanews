@@ -1,14 +1,38 @@
 {
-  "run_at_kst": "2026-09-22T10:10:05+09:00",
+  "run_at_kst": "2026-09-22T14:08:20+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "시진핑 방미 D-1…워싱턴 담판 앞두고 뉴욕서 먼저 움직인 미중",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OYVRjM0xLZ2s2ckdIMTZyMjFmcDVadmRzc1ozaTBjUlprU0NsQXhRcnBMc2J0V29xb1c5dFNKZi1DNWlpb19INy1BRV9rM3ZPNDhwSmpn?oc=5",
+      "source": "인터내셔널포커스",
+      "date": "Tue, 22 Sep 2026 04:10:45 GMT"
+    },
+    {
+      "title": "인천, 가을 황금연휴 중국 관광객 지역축제로 이끈다",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jR25pbWNSdlN0emlHc0JMWHpHdGRaNTlzazlkSXptMkh2M1FwOWotQjU3a09rRzNOaDd4RmNQQW1pLXN1Szd2VlU3NHFvZG8yWktSREJhSm44a0FqSkRMYXFKc3duVDM4QVVwMEZocw?oc=5",
+      "source": "인천뉴스",
+      "date": "Tue, 22 Sep 2026 03:09:20 GMT"
+    },
+    {
+      "title": "중국·아세안 시장 공략 본격화…220만 달러 수출상담 성과",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nZXBteW5laTV5ci1IZXU1S1NwQmhiUnlkOGFlOXhjWkg1M0drdUZhMGVFY083cDE0dWMteXRzVDNmM1A5MWdtekFNa2MwT0pGVUViX28wMjJycDBoUVJzc21uSVlhOGRuOVhCcDJB?oc=5",
+      "source": "뉴스홈(newshome)",
+      "date": "Tue, 22 Sep 2026 02:16:21 GMT"
+    },
+    {
+      "title": "\"소비·복지 외면 중국 경제, 공산당 집권 기반 잠식\"-WP",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xb0Q0bXBCVUdDSHBBaVlleVNvV2UwTFhIa1FKVDVRYkk1SnR0dkdJNUE1REhnaWcxWnlIR1hsSjJJWnJ0Y1lxUjFiekRWMjBrOXNablIwUV9jUkdQcDN6M3QwdTgwSXptcWJZWGhFUG1iTlNBZjI0X9IBeEFVX3lxTE0xb0Q0bXBCVUdDSHBBaVlleVNvV2UwTFhIa1FKVDVRYkk1SnR0dkdJNUE1REhnaWcxWnlIR1hsSjJJWnJ0Y1lxUjFiekRWMjBrOXNablIwUV9jUkdQcDN6M3QwdTgwSXptcWJZWGhFUG1iTlNBZjI0Xw?oc=5",
+      "source": "뉴시스",
+      "date": "Tue, 22 Sep 2026 01:20:50 GMT"
+    },
+    {
       "title": "중국 대기업 ‘헝다’ … 3000억 달러 빚에 무너진 부동산 공룡",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hbU9JaFFmMVgwdWdhY1NWNE9tMmprb1AwaFJUUktNckJQcU1Ibjl3ZW81N0FWYVNKMnY0S1dvOW40RkM3dlNwZUxHM2dlWnB3R3VpTUZiWUtrT1lRY3lJRWZEWjk?oc=5",
-      "source": "용인신문",
+      "source": "yonginilbo.com",
       "date": "Tue, 22 Sep 2026 00:37:35 GMT"
     },
     {
@@ -42,40 +66,16 @@
       "date": "Mon, 21 Sep 2026 16:53:58 GMT"
     },
     {
-      "title": "美 “’미중 AI 대화’ 공식화…중국 금융당국, 이란 제재 많이 관여“",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yb1FIQXdlUDdvd0VoV2g0U2p1cEltWENYcEROYWN2SDVER3JBdll5bHgwRGF4c2V4YXBqVzBMOThtLTJmRXVveDdmcFo2bkZ4TFdHNUtkY05FdGVGTFgyZnF6N2xUVzQ?oc=5",
-      "source": "연합뉴스TV",
-      "date": "Mon, 21 Sep 2026 16:00:00 GMT"
-    },
-    {
       "title": "경남도, 중국서 경제 성장판 넓혔다",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JMlZERkZEX29xX3FmT3FPcDZMMnRBellNenJhX2VjWEtjNFdwYUdqTmRwb0lZd0QtRW5ZOWVSZWw2QUhvNklCSS1MNHVYLTJsbDJURC1Ja29PeUJUSHlzWl9La25vcVFE?oc=5",
-      "source": "경남도민신문",
+      "source": "gndomin.com",
       "date": "Mon, 21 Sep 2026 08:53:50 GMT"
-    },
-    {
-      "title": "중국자본시장연구회 韓, 미·중 대립에서 반도체 경쟁력 유지해야 생존",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1temw0TkFvdXFCTTlabGFJQmxLOVh4azc0TjNHbFRTZTVEdWhhbWJVMWhUUkNzMGpwcm9RRVJhaDNmc2tsTGd1VURLM0xQb3JRcE9YcW1GQ1lLQdIBWEFVX3lxTE1UZ1JfYTZvOEpQazFuX2N3NVdRWkRqRFdPVnprVDlSTVdGV2NSSHJLbEFvcUV6WU9tcV9mcmpPVUpvZ044eEVJV0pkNm80Vnl0VDRPOGtMenk?oc=5",
-      "source": "아주경제",
-      "date": "Mon, 21 Sep 2026 08:05:23 GMT"
     },
     {
       "title": "인민은행: AI, 중국 경제 불균형 심화시킬 수 있어, 이것이 원인",
       "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQbEJrM0RwMTNXbFRGd2lOU0lNZ0JORVZBOWRLcEs3cm1YWXA2V281QVpRZzdBT2dFY2J0OXNwc0t5V2hXeWtRc0t3SXNBeEFzb1hBOWpzbnBLbHVNbU9oblp5REhKRUlIeXNfWGlmUWRBbWh2dGV1UjNldG8yVnFtQTQ1ZlJiNTkzQ1BKZlJBaVJ2aU1ydVlqN0dYUWFJMklxRGdKS0kwRkhhZEpDQ25NNHJjY1NNTHBwQXZnSFZIU2ZDQ2sxTTMtVlctM3JNbWUtNTBrbVVEMzBfYlNCT3IyRFpyaU1XZlE3d1dEa1FuV0tGTUIydmR1TWtqZGpRblp1ZmM2a2x5djljcHpCbThmNmtvOXB6Y3FPMjF3WG03eENyMG5tQ3NrRGc0MDlyLURMUmw1aTRXOVEzYlhFM2pMTEVMUEhfMGtGT2dkLU95UF9nckg2Tk43QjlZY2RMcl9DUmFqdE9nYnotWUt3SktqVUI1VFpRcUhXSkE?oc=5",
       "source": "IDNFinancials",
       "date": "Mon, 21 Sep 2026 03:20:00 GMT"
-    },
-    {
-      "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Thu, 17 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "공산당도 열지 못한 14억의 지갑… 중국 경제 4대 착시의 종말",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNay0tVHJZc3ZCZ2hkM2Z5aTFiTWpyNzhmcnZ2TmNYa1dJUklyNENPU3duWGkxbmtsbW00MlUwMHk3UExwVHVyRDJRcGlXS3BXSWlvTGFMVzRmYlpWVjVhOVNEdU9zVjVTbnJXU1BvZVU3ODlSTkMtWEVucTRTNkdpdjlhZnBwVEh0?oc=5",
-      "source": "조선일보",
-      "date": "Wed, 16 Sep 2026 18:00:00 GMT"
     }
   ]
 }
