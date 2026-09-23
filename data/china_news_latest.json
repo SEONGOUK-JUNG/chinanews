@@ -1,33 +1,39 @@
 {
-  "run_at_kst": "2026-09-23T10:11:16+09:00",
+  "run_at_kst": "2026-09-23T14:10:24+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "시진핑 방미 앞두고 8일 연속 절상, 위안화 4년만에 최고치",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ROTJ1anBVRFZOc2xoZ1U0Y28xajhZSHhCRmo2MnpLaW51cnU0TUtway1RVTgyU3A5SWtId3JYWVNKbjc4T2UycUdVSFIyaVk?oc=5",
+      "title": "中상무부장 \"중국, EU 경제·무역 문제 해결의 동반자\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBETm5UcXhTa29iTHBoMVpUZVVSYW9id0VBX3p6bHBnS05HN1dzS2hwTnpuUVNvSFRLVVdjU0Y5cEZwWEd0eUJkWjNfVUVpSWJ1NVZTYzc3NzFTUkVvUTg5WtIBeEFVX3lxTFBQV1V0cDd5NXpLaDg3THN2SWRhcHp1aHp6Y3VnamxjS2t5bEF3cXBhaGZFT005VWMxZ0c0VDcxYzV3Y0V4WmZBV29LOFlCOVZseC00SjVtNkV1MXY4MDc4MUFMVE9jbWR3YUxLUjZRdHJBZW5QQ3BqMQ?oc=5",
+      "source": "뉴시스",
+      "date": "Wed, 23 Sep 2026 02:32:36 GMT"
+    },
+    {
+      "title": "美 러시아 원유 제재에 인도 움찔, 중국은 콧방귀",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TRTE5TG92aGVfelpySklBZXhUODVHMFYtdW5iTThsUVpZTDAxeFpubGM1UXlPQV9Ebm1oTUY3MXRvdzFsM2NmOTVTZElGY1E?oc=5",
       "source": "v.daum.net",
-      "date": "Wed, 23 Sep 2026 00:18:00 GMT"
+      "date": "Wed, 23 Sep 2026 01:57:46 GMT"
     },
     {
-      "title": "충남도내 중소기업 6개사, 중국 난닝서 220만 달러 수출 판로 열었다",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xVVZja3lVTmc0VTZxR2lqck8wMzdXYnJsV3BHbG5NaDlmeV8xLUkyR2FXMlBtY3J4akM2LVBxbTk2VWhPX3FQX2kzMDZXMlZZVlNWVWhsQXdtSzFaZWo4Y3h5SUxmU1BCckE?oc=5",
-      "source": "도민연합뉴스",
-      "date": "Tue, 22 Sep 2026 23:58:45 GMT"
+      "title": "중국 화장품 해외 수출 23.1%↑… 한국에서 93.4% ↑",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xQ3B3ek1OVTV0dEE3VVIzam1hWHlZM0FrYjdxMzQ1SUt0aXFwVFlOZHJ5RmkyQ0IzMy1QdmFmYUozQ3EzblB2RjdCZGd2Tkp5M3YyNVRMSEFSaXZIUkZTZGtuWTFRS2RvTkE?oc=5",
+      "source": "뷰티경제",
+      "date": "Wed, 23 Sep 2026 01:55:00 GMT"
     },
     {
-      "title": "트럼프, 중국 겨냥 “에너지·희토류 등 핵심 자원 통제해야”[1일1트]",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmdkl2UGlrcWh3bkFoa1dsbm93MGR6UTRPMDVjaG1zSlNta29rdzF3VzVhVGtTQW5oSllNQjUtc19EWGVDd1loRmtId1lESnM?oc=5",
+      "title": "[조용성의 현실중국] 화웨이, EUV 없이 3나노칩 구현…로직폴딩 발열 문제도 넘었다",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yQU9mSkhrWS1GMzZCbTVudTB4YXNnU0lkeElQbUg2dk5pZGN4T1NrNVRkRHdFd0pCbFpCbG1uRzlWWXhEMUFIbklMUndvOWM?oc=5",
       "source": "v.daum.net",
-      "date": "Tue, 22 Sep 2026 21:19:38 GMT"
+      "date": "Wed, 23 Sep 2026 01:29:00 GMT"
     },
     {
-      "title": "″첨단 산업에 올인한 정책...소비·복지 소홀히 해 중국의 집권 기반 흔든다″ [이석우의 차이나24]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVZnN3NFNiY19OOVNqYXBIVTNZTFQ4a3l4d05GU2h2TUFacnU0VjZPcFZUbjJPc1VhYzA2bXpMOEhucnNnMzN3YVJIY3djMGZVaGdZamxIVXRsQQ?oc=5",
-      "source": "fnnews.com",
-      "date": "Tue, 22 Sep 2026 05:48:19 GMT"
+      "title": "“중국발 과잉생산 더는 감당 힘들다” 빗장 건 미·EU…고래 싸움에 한국 등만 터진다",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzT2hZamVUV0QtQUNyckVfOE9FQ1k2aFhUVjdObmoxTHV6N2VRTlVKYk9UeEpnREl4X25SY0pMbkl5X1NzZWM3dnFibjhtUXZSZEJPdi1JQ3J3aVdiWlE?oc=5",
+      "source": "주간경향",
+      "date": "Tue, 22 Sep 2026 20:27:00 GMT"
     },
     {
       "title": "\"소비·복지 외면 중국 경제, 공산당 집권 기반 잠식\"-WP",
@@ -48,28 +54,22 @@
       "date": "Mon, 21 Sep 2026 08:53:50 GMT"
     },
     {
-      "title": "중국자본시장연구회 韓, 미·중 대립에서 반도체 경쟁력 유지해야 생존",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1temw0TkFvdXFCTTlabGFJQmxLOVh4azc0TjNHbFRTZTVEdWhhbWJVMWhUUkNzMGpwcm9RRVJhaDNmc2tsTGd1VURLM0xQb3JRcE9YcW1GQ1lLQdIBWEFVX3lxTE1UZ1JfYTZvOEpQazFuX2N3NVdRWkRqRFdPVnprVDlSTVdGV2NSSHJLbEFvcUV6WU9tcV9mcmpPVUpvZ044eEVJV0pkNm80Vnl0VDRPOGtMenk?oc=5",
-      "source": "ajunews.com",
-      "date": "Mon, 21 Sep 2026 08:05:23 GMT"
+      "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Mon, 21 Sep 2026 07:00:00 GMT"
     },
     {
       "title": "인민은행: AI, 중국 경제 불균형 심화시킬 수 있어, 이것이 원인",
       "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQbEJrM0RwMTNXbFRGd2lOU0lNZ0JORVZBOWRLcEs3cm1YWXA2V281QVpRZzdBT2dFY2J0OXNwc0t5V2hXeWtRc0t3SXNBeEFzb1hBOWpzbnBLbHVNbU9oblp5REhKRUlIeXNfWGlmUWRBbWh2dGV1UjNldG8yVnFtQTQ1ZlJiNTkzQ1BKZlJBaVJ2aU1ydVlqN0dYUWFJMklxRGdKS0kwRkhhZEpDQ25NNHJjY1NNTHBwQXZnSFZIU2ZDQ2sxTTMtVlctM3JNbWUtNTBrbVVEMzBfYlNCT3IyRFpyaU1XZlE3d1dEa1FuV0tGTUIydmR1TWtqZGpRblp1ZmM2a2x5djljcHpCbThmNmtvOXB6Y3FPMjF3WG03eENyMG5tQ3NrRGc0MDlyLURMUmw1aTRXOVEzYlhFM2pMTEVMUEhfMGtGT2dkLU95UF9nckg2Tk43QjlZY2RMcl9DUmFqdE9nYnotWUt3SktqVUI1VFpRcUhXSkE?oc=5",
-      "source": "idnfinancials.com",
+      "source": "IDNFinancials",
       "date": "Mon, 21 Sep 2026 03:20:00 GMT"
     },
     {
-      "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
+      "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
       "source": ":: 위즈경제 ::",
       "date": "Thu, 17 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "베트남·중국, 경제·무역 및 전략적 연결망 협력 가속화",
-      "link": "https://news.google.com/rss/articles/CBMinwZBVV95cUxOYWlqbG9yR0JTU0JIcE93VE9fUF8tdzd1WTNJcVJWZ0YxeVdkZTYzTGpoWXVxclJCY3lTbEdGRWV1a0QtLUtLZWlsX2N5RlZYUHh2U2dzWFJ5YzZCemhFUzJtSDRoaGtwNDNwWHBNZ251NGQ0Tjh2Zi1fYjM3OW14YXU0eDFtd0tmdHpObVEydlpuSlItRVozSzEwako4NGo3RG56VFM2cDBjMjVmNmk3RjlJUElzeGxVckdGRW83dnpJRGY1WDNRSzRaNDhQZ2dPMG85dlJFdGpJU2x3Ynpmb0o3b3EwbVdLdGRLdlpYRFF5WHpUOVkyYUp6c1JGNVlfV09MVUloV1pKNXhhbnhER0Y2dUpseHJWODFkc3NQTzB0S3hZR3IzQXdVelFNWkh2b1BBdk9MNXlPMnpiMkpLU1NmNWhmWmlJYmx6SS1EUUVNb2ZPSndOcW5Ja3lUd0ZocURVLWhPaFBSV1p4RmJpcFJpeGwxdl9VWlNZakRlNEZQUmxrNjNHQUw2QkpJRnFlYnZ6S1p4ZE5tN0Zsekl4bFRlc2swdWNyVG9FY2NwdEZVNnkzWTQ2NGlZb3dwMm1MSXFnRk1jcjhoUGRMM1o5LV9QSll4cVE3ZW9BbElrdWxOMjRjeVEzNzRtb3pORThhVC1WdHI1anQ2U1k0YVplNk81VXZ6WmpGdUtNdi05aWVsVWlidGZlR0RsdTdIRkEwbHAtUnF6LTA2SWJuOWluOXM0NGZOTnBSY0tuVjU0bFlWbDFGaEJraXBrb1hZXzFzQVo0dk9tYTZQQy1fMUluRzREbjEtZVFuLXNiYWdkU1RjQzNsZXJFZFBkck1jakhnSHFuZVhEWWV0VklaRTNQTWl4X3VjT0xseF9ld25mTndYOGJjTHBEa1V2V201RTJ6NE5NWkZTZHVXUmsxcVFHSUNKQ1pfa01NVFRqWGtZaGZwZE1aX0xuZ0k1dU85bEN1MmpfeWNqSVhLdnJQWXFfVWdpRnMzTlptc0Y3VUhfWUo3cldZYzBFc0tLeVIwMlJKWWFsUkRPRXU1bmpYRm5B?oc=5",
-      "source": "Thông tấn xã Việt Nam (TTXVN)",
-      "date": "Thu, 17 Sep 2026 05:31:30 GMT"
     },
     {
       "title": "공산당도 열지 못한 14억의 지갑… 중국 경제 4대 착시의 종말",
