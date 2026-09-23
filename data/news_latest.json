@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-23T10:11:16+09:00",
+  "run_at_kst": "2026-09-23T20:10:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,42 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Asia's Crude Imports Hit Highest Level Since the Iran War Began",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Asias-Crude-Imports-Hit-Highest-Level-Since-the-Iran-War-Began.html",
+      "source": "OilPrice",
+      "date": "Wed, 23 Sep 2026 06:00:00 -0500"
+    },
+    {
+      "title": "Oil Set for Longest Losing Streak Since August 2025",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Set-for-Longest-Losing-Streak-Since-August-2025.html",
+      "source": "OilPrice",
+      "date": "Wed, 23 Sep 2026 05:00:00 -0500"
+    },
+    {
+      "title": "$100 Brent Keeping China's Oil Buying in Check, Goldman Says",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/100-Brent-Keeping-Chinas-Oil-Buying-in-Check-Goldman-Says.html",
+      "source": "OilPrice",
+      "date": "Wed, 23 Sep 2026 04:00:00 -0500"
+    },
+    {
+      "title": "Michigan Judge Tosses State's Antitrust Suit Against Big Oil",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Michigan-Judge-Tosses-States-Antitrust-Suit-Against-Big-Oil.html",
+      "source": "OilPrice",
+      "date": "Wed, 23 Sep 2026 03:00:00 -0500"
+    },
+    {
+      "title": "South Korea Aims to Cut Middle East Crude Reliance to 50% by 2035",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/South-Korea-Aims-to-Cut-Middle-East-Crude-Reliance-to-50-by-2035.html",
+      "source": "OilPrice",
+      "date": "Wed, 23 Sep 2026 01:29:00 -0500"
+    },
+    {
+      "title": "Trump Backs Diesel Export Ban as Prices Hit Record Highs",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Backs-Diesel-Export-Ban-as-Prices-Hit-Record-Highs.html",
+      "source": "OilPrice",
+      "date": "Wed, 23 Sep 2026 00:35:19 -0500"
+    },
     {
       "title": "Washington Needs This LNG Deal More Than Beijing Does",
       "link": "https://oilprice.com/Energy/Natural-Gas/Washington-Needs-This-LNG-Deal-More-Than-Beijing-Does.html",
@@ -18,24 +54,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/Trump-Proposes-5-Billion-Fund-to-Rebuild-Gulf-Energy-Infrastructure.html",
       "source": "OilPrice",
       "date": "Tue, 22 Sep 2026 18:00:00 -0500"
-    },
-    {
-      "title": "Is China’s Secret Power Advantage About To Trigger An 89% Crash In U.S. AI Stock",
-      "link": "https://oilprice.com/Energy/Energy-General/Is-Chinas-Secret-Power-Advantage-About-To-Trigger-An-89-Crash-In-US-AI-Stock.html",
-      "source": "OilPrice",
-      "date": "Tue, 22 Sep 2026 17:00:00 -0500"
-    },
-    {
-      "title": "US Gasoline, Distillate Inventories Continue to Fall as Crude Stocks Hold",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Gasoline-Distillate-Inventories-Continue-to-Fall-as-Crude-Stocks-Hold.html",
-      "source": "OilPrice",
-      "date": "Tue, 22 Sep 2026 16:08:45 -0500"
-    },
-    {
-      "title": "Global Energy Demand Set to Jump 60% by 2060 as Developing Nations Power Up",
-      "link": "https://oilprice.com/Energy/Energy-General/Global-Energy-Demand-Set-to-Jump-60-by-2060-as-Developing-Nations-Power-Up.html",
-      "source": "OilPrice",
-      "date": "Tue, 22 Sep 2026 16:00:00 -0500"
     },
     {
       "title": "Nth Cycle signs 10-year, $1 billion offtake deal with Glencore",
@@ -50,22 +68,10 @@
       "date": "Tue, 22 Sep 2026 20:04:45 +0000"
     },
     {
-      "title": "Norway’s Liquids Output Rebounds by Nearly 100,000 Bpd—but Still Trails 2025",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Norways-Liquids-Output-Rebounds-by-Nearly-100000-Bpdbut-Still-Trails-2025.html",
-      "source": "OilPrice",
-      "date": "Tue, 22 Sep 2026 15:00:00 -0500"
-    },
-    {
       "title": "Mining companies built ‘mini armies’ in risky regions: expert",
       "link": "https://www.mining.com/mining-companies-built-mini-armies-in-risky-regions-expert/",
       "source": "mining.com",
       "date": "Tue, 22 Sep 2026 19:00:17 +0000"
-    },
-    {
-      "title": "The U.S. Has More Leverage in Iraq Than It Thinks",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/The-US-Has-More-Leverage-in-Iraq-Than-It-Thinks.html",
-      "source": "OilPrice",
-      "date": "Tue, 22 Sep 2026 14:00:00 -0500"
     },
     {
       "title": "Blue Moon reports 7 metre tungsten interval, gains access to public land",
@@ -84,12 +90,6 @@
       "link": "https://www.mining.com/copper-price-closes-in-on-new-record-as-shanghai-london-warehouses-empty-out/",
       "source": "mining.com",
       "date": "Tue, 22 Sep 2026 18:21:09 +0000"
-    },
-    {
-      "title": "Nuclear Safety Brings America Into Russia's Uzbek Energy Project",
-      "link": "https://oilprice.com/Energy/Energy-General/Nuclear-Safety-Brings-America-Into-Russias-Uzbek-Energy-Project.html",
-      "source": "OilPrice",
-      "date": "Tue, 22 Sep 2026 13:00:00 -0500"
     }
   ]
 }
