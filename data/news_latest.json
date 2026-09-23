@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-23T07:08:34+09:00",
+  "run_at_kst": "2026-09-23T10:11:16+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,18 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Washington Needs This LNG Deal More Than Beijing Does",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Washington-Needs-This-LNG-Deal-More-Than-Beijing-Does.html",
+      "source": "OilPrice",
+      "date": "Tue, 22 Sep 2026 19:00:00 -0500"
+    },
+    {
+      "title": "Trump Proposes $5 Billion Fund to Rebuild Gulf Energy Infrastructure",
+      "link": "https://oilprice.com/Energy/Energy-General/Trump-Proposes-5-Billion-Fund-to-Rebuild-Gulf-Energy-Infrastructure.html",
+      "source": "OilPrice",
+      "date": "Tue, 22 Sep 2026 18:00:00 -0500"
+    },
     {
       "title": "Is China’s Secret Power Advantage About To Trigger An 89% Crash In U.S. AI Stock",
       "link": "https://oilprice.com/Energy/Energy-General/Is-Chinas-Secret-Power-Advantage-About-To-Trigger-An-89-Crash-In-US-AI-Stock.html",
@@ -78,18 +90,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/Nuclear-Safety-Brings-America-Into-Russias-Uzbek-Energy-Project.html",
       "source": "OilPrice",
       "date": "Tue, 22 Sep 2026 13:00:00 -0500"
-    },
-    {
-      "title": "India’s Russian Oil Imports Slide as Refiners Hunt for Alternatives",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Russian-Oil-Imports-Slide-as-Refiners-Hunt-for-Alternatives.html",
-      "source": "OilPrice",
-      "date": "Tue, 22 Sep 2026 12:30:00 -0500"
-    },
-    {
-      "title": "Beijing Tightens Rare Earth Flow Ahead Of Washington Summit With Trump",
-      "link": "https://oilprice.com/Metals/Commodities/Beijing-Tightens-Rare-Earth-Flow-Ahead-Of-Washington-Summit-With-Trump.html",
-      "source": "OilPrice",
-      "date": "Tue, 22 Sep 2026 12:00:00 -0500"
     }
   ]
 }
