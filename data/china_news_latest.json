@@ -1,14 +1,44 @@
 {
-  "run_at_kst": "2026-09-23T20:10:05+09:00",
+  "run_at_kst": "2026-09-24T07:20:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "'2026 중국 국제디지털경제 박람회' 中 스자좡서 열려-Xinhua",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55YWpNLWxXR3FxVEJmV1lkZjFud3pmNnpjc3hpTWs4b3cxcm05bWt4QXRlTmxrWGxwb0lGM0t2UW9BNFFtTGhCR3h3MXpNZldYcGdkU2l0eC0yVUROT25IWjhyR2M4ZGttaXZ0ZE1ubmE3OUxfOGl5eGtOd1A?oc=5",
+      "source": "kr.xinhuanet.com",
+      "date": "Wed, 23 Sep 2026 20:45:54 GMT"
+    },
+    {
+      "title": "미중, 회담 직전 막판 협의…미국 재무장관 \"중국이 더 큰 합의 제안\"",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LdDZId2pzOGswbm90UzVfZktyUURNMUNxTlpJa0xvZjVYeXpqUDVyeUFKWW01WG5XdXVWbVY2MzlEVVQ4X0VwVjZsWlpzM1U?oc=5",
+      "source": "v.daum.net",
+      "date": "Wed, 23 Sep 2026 19:30:00 GMT"
+    },
+    {
+      "title": "미중, 정상회담 직전 막판 협의…미 재무 \"중국, 더 큰 합의 제안\"",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fQWlFdWdUQkk2Q3pNUGdBR21SVmxEZnllaENUTXoxeEpEQjlnUEhWR2R2Q2JUY21ycXl6MnF6enVsTEptQmYwcGhxY1FFZmZnT3JvUUNIeDJINGtIdFFHbFQ1MHI3LTA?oc=5",
+      "source": "연합뉴스TV",
+      "date": "Wed, 23 Sep 2026 19:08:00 GMT"
+    },
+    {
+      "title": "[김대호 인물] 허리펑(何立峰) 미-중 정상회담 \"시진핑의 경제책사\"",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVldYcENweV9VbnJVWVkwcnlTOExxRHZ0VTBpS3UwQUZJWGRRT05JTy1RX1BodjFwZGJNXzN6angtUm5ITjF6MlEzX2M0S1gyVHZwU0pmYnpzQWdVcWxIcHVVOXBQZVdGeVFST0xqQUExOFlQcU1UWjdmYk1SZDZXV0VJdHc0LUtv?oc=5",
+      "source": "글로벌이코노믹",
+      "date": "Wed, 23 Sep 2026 14:55:00 GMT"
+    },
+    {
+      "title": "중국 시진핑 출국 화면 미공개...기업 수행단 언급도 없어",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9raHRYOWJNY1FndGo5N2M4eVJKR1E5OGh0LTgxYlNxX09EbUtjUEEyXzd3MUhScDY1LTNoQmxOcnlVRzYxQzFmOTVLR1c1b1d1N2tLTkRNODZuZURwM0ViWks4b3RubmxjQmtxOEtMaw?oc=5",
+      "source": "YTN",
+      "date": "Wed, 23 Sep 2026 14:27:00 GMT"
+    },
+    {
       "title": "[사진] '2026 중국 국제디지털경제 박람회' 中 스자좡서 열려",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96UXpEV3ZPTUI2M3VBaTQtZm0zNkd1cTAzTHpvNkdOR3FUWktxNU5la25LUkJNaS05ZlZ1S2tpYnU1WHhTWFRWYzZvYTRsdzd6RWdmai01UXNZTngtVHVpSDVmZ0RaeVM5RkJR?oc=5",
-      "source": "서울뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12UEpwMkJmaFc5ZHZvS2ZIUk1jSW1jc01ZYWVIX1c4TnItRTk4Z0tjdW5ad1J5b3JxY05yQ3lBM0E3QUNCWWJFcHh1dkQyWlhrQU53SjAxQ0JZX1d1YVd6Y3lEc1J6VVRRdjFVd2p4QzBPZEk?oc=5",
+      "source": "dongbangilbo.co.kr",
       "date": "Wed, 23 Sep 2026 10:43:40 GMT"
     },
     {
@@ -16,36 +46,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVzVsVUlQNG10MVJwNHh6LVlaM2k4THQyWHFqejJ2WFFUdVV2dkVaYk1zUzM1UEhMMk1XTHBLeUtwYVVXdWJJZzhHZF9zc2V2UFRyREtwRGF0Y2tRQkVPSmdVdWVrdXViMld0NlRwaGpXaVR6WEtLLTdHaGZmdmhFS1llOUI5Zkpa?oc=5",
       "source": "Vietnam.vn",
       "date": "Wed, 23 Sep 2026 08:54:37 GMT"
-    },
-    {
-      "title": "中상무부장 \"중국, EU 경제·무역 문제 해결의 동반자\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBETm5UcXhTa29iTHBoMVpUZVVSYW9id0VBX3p6bHBnS05HN1dzS2hwTnpuUVNvSFRLVVdjU0Y5cEZwWEd0eUJkWjNfVUVpSWJ1NVZTYzc3NzFTUkVvUTg5WtIBeEFVX3lxTFBQV1V0cDd5NXpLaDg3THN2SWRhcHp1aHp6Y3VnamxjS2t5bEF3cXBhaGZFT005VWMxZ0c0VDcxYzV3Y0V4WmZBV29LOFlCOVZseC00SjVtNkV1MXY4MDc4MUFMVE9jbWR3YUxLUjZRdHJBZW5QQ3BqMQ?oc=5",
-      "source": "뉴시스",
-      "date": "Wed, 23 Sep 2026 02:32:36 GMT"
-    },
-    {
-      "title": "美 러시아 원유 제재에 인도 움찔, 중국은 콧방귀",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TRTE5TG92aGVfelpySklBZXhUODVHMFYtdW5iTThsUVpZTDAxeFpubGM1UXlPQV9Ebm1oTUY3MXRvdzFsM2NmOTVTZElGY1E?oc=5",
-      "source": "v.daum.net",
-      "date": "Wed, 23 Sep 2026 01:57:46 GMT"
-    },
-    {
-      "title": "중국 화장품 해외 수출 23.1%↑… 한국에서 93.4% ↑",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xQ3B3ek1OVTV0dEE3VVIzam1hWHlZM0FrYjdxMzQ1SUt0aXFwVFlOZHJ5RmkyQ0IzMy1QdmFmYUozQ3EzblB2RjdCZGd2Tkp5M3YyNVRMSEFSaXZIUkZTZGtuWTFRS2RvTkE?oc=5",
-      "source": "뷰티경제",
-      "date": "Wed, 23 Sep 2026 01:55:00 GMT"
-    },
-    {
-      "title": "[조용성의 현실중국] 화웨이, EUV 없이 3나노칩 구현…로직폴딩 발열 문제도 넘었다",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yQU9mSkhrWS1GMzZCbTVudTB4YXNnU0lkeElQbUg2dk5pZGN4T1NrNVRkRHdFd0pCbFpCbG1uRzlWWXhEMUFIbklMUndvOWM?oc=5",
-      "source": "v.daum.net",
-      "date": "Wed, 23 Sep 2026 01:29:43 GMT"
-    },
-    {
-      "title": "“중국발 과잉생산 더는 감당 힘들다” 빗장 건 미·EU…고래 싸움에 한국 등만 터진다",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzT2hZamVUV0QtQUNyckVfOE9FQ1k2aFhUVjdObmoxTHV6N2VRTlVKYk9UeEpnREl4X25SY0pMbkl5X1NzZWM3dnFibjhtUXZSZEJPdi1JQ3J3aVdiWlE?oc=5",
-      "source": "주간경향",
-      "date": "Tue, 22 Sep 2026 20:27:00 GMT"
     },
     {
       "title": "\"소비·복지 외면 중국 경제, 공산당 집권 기반 잠식\"-WP",
@@ -62,20 +62,20 @@
     {
       "title": "인민은행: AI, 중국 경제 불균형 심화시킬 수 있어, 이것이 원인",
       "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQbEJrM0RwMTNXbFRGd2lOU0lNZ0JORVZBOWRLcEs3cm1YWXA2V281QVpRZzdBT2dFY2J0OXNwc0t5V2hXeWtRc0t3SXNBeEFzb1hBOWpzbnBLbHVNbU9oblp5REhKRUlIeXNfWGlmUWRBbWh2dGV1UjNldG8yVnFtQTQ1ZlJiNTkzQ1BKZlJBaVJ2aU1ydVlqN0dYUWFJMklxRGdKS0kwRkhhZEpDQ25NNHJjY1NNTHBwQXZnSFZIU2ZDQ2sxTTMtVlctM3JNbWUtNTBrbVVEMzBfYlNCT3IyRFpyaU1XZlE3d1dEa1FuV0tGTUIydmR1TWtqZGpRblp1ZmM2a2x5djljcHpCbThmNmtvOXB6Y3FPMjF3WG03eENyMG5tQ3NrRGc0MDlyLURMUmw1aTRXOVEzYlhFM2pMTEVMUEhfMGtGT2dkLU95UF9nckg2Tk43QjlZY2RMcl9DUmFqdE9nYnotWUt3SktqVUI1VFpRcUhXSkE?oc=5",
-      "source": "idnfinancials.com",
+      "source": "IDNFinancials",
       "date": "Mon, 21 Sep 2026 03:20:00 GMT"
-    },
-    {
-      "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Thu, 17 Sep 2026 07:00:00 GMT"
     },
     {
       "title": "공산당도 열지 못한 14억의 지갑… 중국 경제 4대 착시의 종말",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNay0tVHJZc3ZCZ2hkM2Z5aTFiTWpyNzhmcnZ2TmNYa1dJUklyNENPU3duWGkxbmtsbW00MlUwMHk3UExwVHVyRDJRcGlXS3BXSWlvTGFMVzRmYlpWVjVhOVNEdU9zVjVTbnJXU1BvZVU3ODlSTkMtWEVucTRTNkdpdjlhZnBwVEh0?oc=5",
       "source": "조선일보",
       "date": "Wed, 16 Sep 2026 18:00:00 GMT"
+    },
+    {
+      "title": "\"다음 글로벌 경제위기는 중국에서 시작될 것\" - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43aFF3cEtoOTBMZzlLYWtiMFlHMmNwQ0pzdEpqMm8zZS1jNDJLUmdLSFJRS0VNSl9FeDNUZ1NYcTRTdGJUUHQ4RDZqYXVsX2dvMlR5S1BaWUlXc1Y2V3ZmaG1GUzNpeUdP0gFuQVVfeXFMT1V6X0g4TkV6Rk05ek9yZlZiVnYwTHNZTGY3M0RNT1RSVjVNVWd2Mi1rVWxJSlB2c0RfajFIdDFoUXJoUW9tcWVaU3dBaGRaWXM4aXo1VWgyaGJqTHA4VHJROUFvcW44Q092QUtHTEE?oc=5",
+      "source": "머니투데이",
+      "date": "Sun, 30 Aug 2026 07:00:00 GMT"
     }
   ]
 }
