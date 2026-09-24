@@ -1,15 +1,33 @@
 {
-  "run_at_kst": "2026-09-24T11:24:36+09:00",
+  "run_at_kst": "2026-09-24T14:08:40+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "머스크 \"중국 인프라가 미국보다 낫다…시진핑 뛰어난 지도자\"",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fNHZjOVNISW1pRy0xZ2NzMFY1d1V2a3J4cmRZZ2hESElIX3Y1U0FXQngweFVIaFBLYmdCVzcySGx2N1pFQ05IMl9lS2RhYjVzSHc4eWh1eHo4UQ?oc=5",
+      "source": "한국경제",
+      "date": "Thu, 24 Sep 2026 03:18:48 GMT"
+    },
+    {
+      "title": "[씨초의눈] ‘안전성(稳定性)’에 담긴 중국의 대미전략",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9CZ2VLdW96VmhlTmhtUklKMG15UlNKQmZRd2dsT2J2azUtOWhqNlJXek11VmlXbE1rZGhEM09jUWttY2s?oc=5",
+      "source": "대한청년일보",
+      "date": "Thu, 24 Sep 2026 02:32:50 GMT"
+    },
+    {
       "title": "시진핑 워싱턴 도착 성명 중국, 미국 모두 위대한 국가",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jdnlPTWpUOEdsRlVHSzBCNnpnbk9rRU1tWnZWblJUWTQyZXJfWnhSNG9NVUMwQ3dxQXFORFY3a1BESVVzY1NoQktGZHI5Z1hXTzhvc0hSelNHQdIBWEFVX3lxTE9yeC02a2g5Wlk3LUVZNjdNSmdNelE4a1QwQ2puVTFiZFlFU2lSNzFBdFNZbnY3RHg1N2puc1FUeGlud1M0LWhuLUNHSjBKNWtncWZNMGVYeXY?oc=5",
       "source": "아주경제",
       "date": "Thu, 24 Sep 2026 00:38:55 GMT"
+    },
+    {
+      "title": "시진핑, 11년 만에 미 국빈방문...'빅딜' 성사될까?",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55cUdBbUt6dzU5bnBUYzRyTmt4OGxJZEhrckVlVFMtYWVUejBGeWZBTzhCRFUtNERCSFVFcEtlTHhZLXV4alE0R2J0eVA1dGJYM1BLU0pvUndvSV94cmc?oc=5",
+      "source": "YTN",
+      "date": "Wed, 23 Sep 2026 23:00:00 GMT"
     },
     {
       "title": "'2026 중국 국제디지털경제 박람회' 中 스자좡서 열려-Xinhua",
@@ -24,34 +42,16 @@
       "date": "Wed, 23 Sep 2026 19:30:00 GMT"
     },
     {
-      "title": "미중, 정상회담 직전 막판 협의…미 재무 \"중국, 더 큰 합의 제안\"",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fQWlFdWdUQkk2Q3pNUGdBR21SVmxEZnllaENUTXoxeEpEQjlnUEhWR2R2Q2JUY21ycXl6MnF6enVsTEptQmYwcGhxY1FFZmZnT3JvUUNIeDJINGtIdFFHbFQ1MHI3LTA?oc=5",
-      "source": "연합뉴스TV",
-      "date": "Wed, 23 Sep 2026 19:08:00 GMT"
-    },
-    {
       "title": "[김대호 인물] 허리펑(何立峰) 미-중 정상회담 \"시진핑의 경제책사\"",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVldYcENweV9VbnJVWVkwcnlTOExxRHZ0VTBpS3UwQUZJWGRRT05JTy1RX1BodjFwZGJNXzN6angtUm5ITjF6MlEzX2M0S1gyVHZwU0pmYnpzQWdVcWxIcHVVOXBQZVdGeVFST0xqQUExOFlQcU1UWjdmYk1SZDZXV0VJdHc0LUtv?oc=5",
       "source": "글로벌이코노믹",
       "date": "Wed, 23 Sep 2026 14:55:00 GMT"
     },
     {
-      "title": "중국 시진핑 출국 화면 미공개...기업 수행단 언급도 없어",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9raHRYOWJNY1FndGo5N2M4eVJKR1E5OGh0LTgxYlNxX09EbUtjUEEyXzd3MUhScDY1LTNoQmxOcnlVRzYxQzFmOTVLR1c1b1d1N2tLTkRNODZuZURwM0ViWks4b3RubmxjQmtxOEtMaw?oc=5",
-      "source": "YTN",
-      "date": "Wed, 23 Sep 2026 14:27:00 GMT"
-    },
-    {
-      "title": "[사진] '2026 중국 국제디지털경제 박람회' 中 스자좡서 열려",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12UEpwMkJmaFc5ZHZvS2ZIUk1jSW1jc01ZYWVIX1c4TnItRTk4Z0tjdW5ad1J5b3JxY05yQ3lBM0E3QUNCWWJFcHh1dkQyWlhrQU53SjAxQ0JZX1d1YVd6Y3lEc1J6VVRRdjFVd2p4QzBPZEk?oc=5",
-      "source": "동방일보",
-      "date": "Wed, 23 Sep 2026 10:43:40 GMT"
-    },
-    {
-      "title": "중국發 과잉생산, 글로벌 자유무역 체제 종말 앞당긴다",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ac0VMV18wM1VPbzVnRUFoOXJsOTZkM2NPOTV5VzlveXZ3Y2VmOTFncWFLZlg4T0tGRTFrSVVjN2VKYTB6VDBOTC1rVzY5dzZ0MWJLS2NIanl1Zw?oc=5",
-      "source": "한국경제",
-      "date": "Tue, 22 Sep 2026 08:59:04 GMT"
+      "title": "2026년 8월 중국경제 동향과 전망",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUEU1cWdEelIxWlFSUHJaNUkzZFF5aEtxQ3NMbGVWaThvUDBDNlhkZlFkUUNrQVZtOUdhRVVrSXdrR180VmFBS29xWkFpUkhwYTBBSWpDVzNjQk1jVlNZX05rbFR2cWJXTFpjb0tmRXVmUW1TazdlYjhGNWhRd0d5Nw?oc=5",
+      "source": "KDI 경제교육·정보센터",
+      "date": "Wed, 23 Sep 2026 08:33:13 GMT"
     },
     {
       "title": "\"소비·복지 외면 중국 경제, 공산당 집권 기반 잠식\"-WP",

@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-24T10:10:05+09:00",
+  "run_at_kst": "2026-09-24T14:08:40+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Brent Holds Above $102 as Iran Talks Stall Over Hormuz Conditions",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Holds-Above-102-as-Iran-Talks-Stall-Over-Hormuz-Conditions.html",
+      "source": "OilPrice",
+      "date": "Thu, 24 Sep 2026 00:08:03 -0500"
+    },
     {
       "title": "Tungsten West, Elmet ink $1.8 billion offtake deal for Hemerdon mine",
       "link": "https://www.mining.com/tungsten-west-elmet-ink-1-8-billion-offtake-deal-for-hemerdon-mine/",
@@ -66,12 +72,6 @@
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Imperial-Oil-Becomes-First-Major-Alberta-Energy-Company-to-Oppose-Separatism.html",
       "source": "OilPrice",
       "date": "Wed, 23 Sep 2026 12:30:00 -0500"
-    },
-    {
-      "title": "U.S. Energy Secretary: Blunt Tool of Banning Diesel Exports Doesn't Work",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Energy-Secretary-Blunt-Tool-of-Banning-Diesel-Exports-Doesnt-Work.html",
-      "source": "OilPrice",
-      "date": "Wed, 23 Sep 2026 12:00:00 -0500"
     },
     {
       "title": "Glencore halts Cerrejón coal railway after attack",
