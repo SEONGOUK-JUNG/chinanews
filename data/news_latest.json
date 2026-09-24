@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-24T14:08:40+09:00",
+  "run_at_kst": "2026-09-24T20:08:44+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Just One Commodity Vessel Left the Strait of Hormuz on Wednesday",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Just-One-Commodity-Vessel-Left-the-Strait-of-Hormuz-on-Wednesday.html",
+      "source": "OilPrice",
+      "date": "Thu, 24 Sep 2026 06:00:00 -0500"
+    },
+    {
+      "title": "U.S. to Back Argentina’s First LNG Export Project With $6 Billion Loan",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-to-Back-Argentinas-First-LNG-Export-Project-With-6-Billion-Loan.html",
+      "source": "OilPrice",
+      "date": "Thu, 24 Sep 2026 05:00:00 -0500"
+    },
+    {
+      "title": "Morgan Stanley: Diesel Export Ban Would Push U.S. Gas Prices Higher",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Morgan-Stanley-Says-Diesel-Export-Ban-Would-Push-US-Gas-Prices-Higher.html",
+      "source": "OilPrice",
+      "date": "Thu, 24 Sep 2026 04:00:00 -0500"
+    },
+    {
+      "title": "Indian Refiners Lift LPG Output Nearly 20% as Hormuz Blockage Chokes Imports",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Refiners-Lift-LPG-Output-Nearly-20-as-Hormuz-Blockage-Chokes-Imports.html",
+      "source": "OilPrice",
+      "date": "Thu, 24 Sep 2026 03:00:00 -0500"
+    },
+    {
+      "title": "Southeast Asia Keeps Building Gas Plants Despite Hormuz LNG Shock",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Southeast-Asia-Keeps-Building-Gas-Plants-Despite-Hormuz-LNG-Shock.html",
+      "source": "OilPrice",
+      "date": "Thu, 24 Sep 2026 02:00:00 -0500"
+    },
     {
       "title": "Brent Holds Above $102 as Iran Talks Stall Over Hormuz Conditions",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Holds-Above-102-as-Iran-Talks-Stall-Over-Hormuz-Conditions.html",
@@ -38,40 +68,10 @@
       "date": "Wed, 23 Sep 2026 21:10:04 +0000"
     },
     {
-      "title": "China's Newest Power Plant Swaps Steam for Supercritical CO2",
-      "link": "https://oilprice.com/Energy/Energy-General/Chinas-Newest-Power-Plant-Swaps-Steam-for-Supercritical-CO2.html",
-      "source": "OilPrice",
-      "date": "Wed, 23 Sep 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Hormuz Workarounds Keep Gulf Oil Flowing—at a Steep Cost",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Hormuz-Workarounds-Keep-Gulf-Oil-Flowingat-a-Steep-Cost.html",
-      "source": "OilPrice",
-      "date": "Wed, 23 Sep 2026 15:00:00 -0500"
-    },
-    {
       "title": "BHP halts operations at Escondida following fatal accident",
       "link": "https://www.mining.com/fatal-accident-reported-at-bhps-escondida-mine/",
       "source": "mining.com",
       "date": "Wed, 23 Sep 2026 19:33:29 +0000"
-    },
-    {
-      "title": "Hormuz Supply Crisis to Change LNG Market Forever",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Hormuz-Supply-Crisis-to-Change-LNG-Market-Forever.html",
-      "source": "OilPrice",
-      "date": "Wed, 23 Sep 2026 14:00:00 -0500"
-    },
-    {
-      "title": "Uzbekistan Eyes Caspian and Black Sea Ports to Break Out of Central Asia",
-      "link": "https://oilprice.com/Geopolitics/International/Uzbekistan-Eyes-Caspian-and-Black-Sea-Ports-to-Break-Out-of-Central-Asia.html",
-      "source": "OilPrice",
-      "date": "Wed, 23 Sep 2026 13:00:00 -0500"
-    },
-    {
-      "title": "Imperial Oil Becomes First Major Alberta Energy Company to Oppose Separatism",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Imperial-Oil-Becomes-First-Major-Alberta-Energy-Company-to-Oppose-Separatism.html",
-      "source": "OilPrice",
-      "date": "Wed, 23 Sep 2026 12:30:00 -0500"
     },
     {
       "title": "Glencore halts Cerrejón coal railway after attack",
