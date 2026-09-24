@@ -1,14 +1,20 @@
 {
-  "run_at_kst": "2026-09-24T07:20:05+09:00",
+  "run_at_kst": "2026-09-24T10:10:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "시진핑 워싱턴 도착 성명 중국, 미국 모두 위대한 국가",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jdnlPTWpUOEdsRlVHSzBCNnpnbk9rRU1tWnZWblJUWTQyZXJfWnhSNG9NVUMwQ3dxQXFORFY3a1BESVVzY1NoQktGZHI5Z1hXTzhvc0hSelNHQdIBWEFVX3lxTE9yeC02a2g5Wlk3LUVZNjdNSmdNelE4a1QwQ2puVTFiZFlFU2lSNzFBdFNZbnY3RHg1N2puc1FUeGlud1M0LWhuLUNHSjBKNWtncWZNMGVYeXY?oc=5",
+      "source": "아주경제",
+      "date": "Thu, 24 Sep 2026 00:38:55 GMT"
+    },
+    {
       "title": "'2026 중국 국제디지털경제 박람회' 中 스자좡서 열려-Xinhua",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55YWpNLWxXR3FxVEJmV1lkZjFud3pmNnpjc3hpTWs4b3cxcm05bWt4QXRlTmxrWGxwb0lGM0t2UW9BNFFtTGhCR3h3MXpNZldYcGdkU2l0eC0yVUROT25IWjhyR2M4ZGttaXZ0ZE1ubmE3OUxfOGl5eGtOd1A?oc=5",
-      "source": "kr.xinhuanet.com",
+      "source": "신화망",
       "date": "Wed, 23 Sep 2026 20:45:54 GMT"
     },
     {
@@ -38,7 +44,7 @@
     {
       "title": "[사진] '2026 중국 국제디지털경제 박람회' 中 스자좡서 열려",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12UEpwMkJmaFc5ZHZvS2ZIUk1jSW1jc01ZYWVIX1c4TnItRTk4Z0tjdW5ad1J5b3JxY05yQ3lBM0E3QUNCWWJFcHh1dkQyWlhrQU53SjAxQ0JZX1d1YVd6Y3lEc1J6VVRRdjFVd2p4QzBPZEk?oc=5",
-      "source": "dongbangilbo.co.kr",
+      "source": "동방일보",
       "date": "Wed, 23 Sep 2026 10:43:40 GMT"
     },
     {
@@ -66,15 +72,9 @@
       "date": "Mon, 21 Sep 2026 03:20:00 GMT"
     },
     {
-      "title": "공산당도 열지 못한 14억의 지갑… 중국 경제 4대 착시의 종말",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNay0tVHJZc3ZCZ2hkM2Z5aTFiTWpyNzhmcnZ2TmNYa1dJUklyNENPU3duWGkxbmtsbW00MlUwMHk3UExwVHVyRDJRcGlXS3BXSWlvTGFMVzRmYlpWVjVhOVNEdU9zVjVTbnJXU1BvZVU3ODlSTkMtWEVucTRTNkdpdjlhZnBwVEh0?oc=5",
-      "source": "조선일보",
-      "date": "Wed, 16 Sep 2026 18:00:00 GMT"
-    },
-    {
       "title": "\"다음 글로벌 경제위기는 중국에서 시작될 것\" - 머니투데이",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43aFF3cEtoOTBMZzlLYWtiMFlHMmNwQ0pzdEpqMm8zZS1jNDJLUmdLSFJRS0VNSl9FeDNUZ1NYcTRTdGJUUHQ4RDZqYXVsX2dvMlR5S1BaWUlXc1Y2V3ZmaG1GUzNpeUdP0gFuQVVfeXFMT1V6X0g4TkV6Rk05ek9yZlZiVnYwTHNZTGY3M0RNT1RSVjVNVWd2Mi1rVWxJSlB2c0RfajFIdDFoUXJoUW9tcWVaU3dBaGRaWXM4aXo1VWgyaGJqTHA4VHJROUFvcW44Q092QUtHTEE?oc=5",
-      "source": "머니투데이",
+      "source": "mt.co.kr",
       "date": "Sun, 30 Aug 2026 07:00:00 GMT"
     }
   ]
