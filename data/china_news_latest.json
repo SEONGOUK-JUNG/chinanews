@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-09-25T07:08:45+09:00",
+  "run_at_kst": "2026-09-25T07:20:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "\"혼자서도 회사 차립니다\"…AI 열풍에 중국서 뜨는 '1인 기업'[세계는Z금]",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkdXZ2ZjI3Tms4LWNsTFkzT1M3cWtCRmdMTlg4NG9YXzFKRzZ6ZGJJMjdUWDZCMVo0dWl5S0F2blhBc0VaQkc3dGYxTzlRek0?oc=5",
+      "source": "v.daum.net",
+      "date": "Thu, 24 Sep 2026 22:07:27 GMT"
+    },
     {
       "title": "BYD·CATL 빠진 시진핑 방미 수행단…미·중 경제외교, 기업 계약보다 정부 협상에 무게",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53WllmV0lPN0d1enlEMTE2Tm9udjZoZVBPWE1TdGhIRG5qeHB1NThjQzRGbXJNZ2hjNGN6aEtBZV9WN0xETEVpSEpfRG03SHpWVGlaOFQ0LUlselM0bmtWd1lWWGJIa2tK?oc=5",
@@ -16,12 +22,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NNVZYbFNRRmZwNGc2R1FPbF9UMzdLZjA2REVFRnFlLTdOeVBVcm5UNUp1c1dMS3BiY3JVVkdKZkVpVU41NkNJRjlYcV9NR2J3cjRIMXVn?oc=5",
       "source": "헤럴드경제",
       "date": "Thu, 24 Sep 2026 14:45:10 GMT"
-    },
-    {
-      "title": "미국 재무장관 \"미중 무역 휴전 2개월 연장 합의\"…중국 \"AI 첫 논의\"",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lWEM5UmJ2NFRKUFZOTnZiUmM3NTRnVmJ5WFd2VWg0MEZ5REpNQkVNV1BEcjJrcmI2OWpvUjItVURqSmRyRVZEQ2pGRC13Um8?oc=5",
-      "source": "v.daum.net",
-      "date": "Thu, 24 Sep 2026 10:12:01 GMT"
     },
     {
       "title": "시진핑 방미에 경제관료 총출동…미중 정상회담 경제현안 전면에",
@@ -40,12 +40,6 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ILVMxbktEclo2R05sbWNZYWx5cTVka2M3OEpvU20zelB2U1VWYU1xWFBJOTFSLUtfcHVEVUpQMy1YR2psakNrMTQ0OG5aR3dFODNYeTZSNW9manh2T1ZhR9IBeEFVX3lxTE5SUWVKclNCNkloRWhiaHd2WFItOUpoQVJMaDl2QnVqeDNBRHB0M3RIcUVOcHliYV9XVURhX0ZtVFI5Z0p3d3VjbVFKRmNyMGtOOXlJRVZfY3FTQmtHVWpUbUhUcVN3LUJiT2ZxTHotakF1Y2dxVEpOZA?oc=5",
       "source": "뉴시스",
       "date": "Thu, 24 Sep 2026 08:10:12 GMT"
-    },
-    {
-      "title": "머스크 \"중국 인프라가 미국보다 낫다…시진핑 뛰어난 지도자\"",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fNHZjOVNISW1pRy0xZ2NzMFY1d1V2a3J4cmRZZ2hESElIX3Y1U0FXQngweFVIaFBLYmdCVzcySGx2N1pFQ05IMl9lS2RhYjVzSHc4eWh1eHo4UQ?oc=5",
-      "source": "한국경제",
-      "date": "Thu, 24 Sep 2026 03:18:48 GMT"
     },
     {
       "title": "[김대호 인물] 허리펑(何立峰) 미-중 정상회담 \"시진핑의 경제책사\"",
@@ -76,6 +70,12 @@
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43aFF3cEtoOTBMZzlLYWtiMFlHMmNwQ0pzdEpqMm8zZS1jNDJLUmdLSFJRS0VNSl9FeDNUZ1NYcTRTdGJUUHQ4RDZqYXVsX2dvMlR5S1BaWUlXc1Y2V3ZmaG1GUzNpeUdP0gFuQVVfeXFMT1V6X0g4TkV6Rk05ek9yZlZiVnYwTHNZTGY3M0RNT1RSVjVNVWd2Mi1rVWxJSlB2c0RfajFIdDFoUXJoUW9tcWVaU3dBaGRaWXM4aXo1VWgyaGJqTHA4VHJROUFvcW44Q092QUtHTEE?oc=5",
       "source": "머니투데이",
       "date": "Sun, 30 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "中, 자동차판매 -21%·부동산 투자 -19%…중국경제 '빨간불'",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iNTRtZUhiM3RVU2ZWWmZwNHk1RVBZME9uMnplbV91c3BMSjFlNm5WQUFqYjJ6cFpxMDVLOGc1VWhTdDJfSk1OY3VfVzNKRmp2aWc3XzZ3ZXJYQQ?oc=5",
+      "source": "한국경제",
+      "date": "Mon, 17 Aug 2026 07:00:00 GMT"
     }
   ]
 }
