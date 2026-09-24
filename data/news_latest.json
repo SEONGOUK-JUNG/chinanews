@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-24T20:08:44+09:00",
+  "run_at_kst": "2026-09-25T07:08:45+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
-      "title": "Just One Commodity Vessel Left the Strait of Hormuz on Wednesday",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Just-One-Commodity-Vessel-Left-the-Strait-of-Hormuz-on-Wednesday.html",
+      "title": "Why a U.S. Diesel Export Ban Won’t Lower Fuel Prices",
+      "link": "https://oilprice.com/Energy/Energy-General/Why-a-US-Diesel-Export-Ban-Wont-Lower-Fuel-Prices.html",
       "source": "OilPrice",
-      "date": "Thu, 24 Sep 2026 06:00:00 -0500"
+      "date": "Thu, 24 Sep 2026 17:00:00 -0500"
     },
     {
-      "title": "U.S. to Back Argentina’s First LNG Export Project With $6 Billion Loan",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-to-Back-Argentinas-First-LNG-Export-Project-With-6-Billion-Loan.html",
+      "title": "Can the World Hit 35% Electrification by 2035?",
+      "link": "https://oilprice.com/Energy/Energy-General/Can-the-World-Hit-35-Electrification-by-2035.html",
       "source": "OilPrice",
-      "date": "Thu, 24 Sep 2026 05:00:00 -0500"
+      "date": "Thu, 24 Sep 2026 16:00:00 -0500"
     },
     {
-      "title": "Morgan Stanley: Diesel Export Ban Would Push U.S. Gas Prices Higher",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Morgan-Stanley-Says-Diesel-Export-Ban-Would-Push-US-Gas-Prices-Higher.html",
+      "title": "Global Biofuels Output Could Surge 70% Amid Energy Crisis",
+      "link": "https://oilprice.com/Alternative-Energy/Biofuels/Global-Biofuels-Output-Could-Surge-70-Amid-Energy-Crisis.html",
       "source": "OilPrice",
-      "date": "Thu, 24 Sep 2026 04:00:00 -0500"
+      "date": "Thu, 24 Sep 2026 15:00:00 -0500"
     },
     {
-      "title": "Indian Refiners Lift LPG Output Nearly 20% as Hormuz Blockage Chokes Imports",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Refiners-Lift-LPG-Output-Nearly-20-as-Hormuz-Blockage-Chokes-Imports.html",
+      "title": "Italy Returns to Nuclear After 40-Year Hiatus",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Italy-Returns-to-Nuclear-After-40-Year-Hiatus.html",
       "source": "OilPrice",
-      "date": "Thu, 24 Sep 2026 03:00:00 -0500"
+      "date": "Thu, 24 Sep 2026 14:00:00 -0500"
     },
     {
-      "title": "Southeast Asia Keeps Building Gas Plants Despite Hormuz LNG Shock",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Southeast-Asia-Keeps-Building-Gas-Plants-Despite-Hormuz-LNG-Shock.html",
+      "title": "Saudi Oil Export Costs Surge as Red Sea Risks Mount",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Oil-Export-Costs-Surge-as-Red-Sea-Risks-Mount.html",
       "source": "OilPrice",
-      "date": "Thu, 24 Sep 2026 02:00:00 -0500"
+      "date": "Thu, 24 Sep 2026 13:30:00 -0500"
     },
     {
-      "title": "Brent Holds Above $102 as Iran Talks Stall Over Hormuz Conditions",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Holds-Above-102-as-Iran-Talks-Stall-Over-Hormuz-Conditions.html",
+      "title": "Why Are Diesel Prices So High?",
+      "link": "https://oilprice.com/Energy/Energy-General/Why-Are-Diesel-Prices-So-High.html",
       "source": "OilPrice",
-      "date": "Thu, 24 Sep 2026 00:08:03 -0500"
+      "date": "Thu, 24 Sep 2026 13:00:00 -0500"
     },
     {
-      "title": "Tungsten West, Elmet ink $1.8 billion offtake deal for Hemerdon mine",
-      "link": "https://www.mining.com/tungsten-west-elmet-ink-1-8-billion-offtake-deal-for-hemerdon-mine/",
+      "title": "Vitol Scoops Up 25 Million Barrels of Discounted Iraqi Crude",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Vitol-Scoops-Up-25-Million-Barrels-of-Discounted-Iraqi-Crude.html",
+      "source": "OilPrice",
+      "date": "Thu, 24 Sep 2026 12:30:00 -0500"
+    },
+    {
+      "title": "Iran Warns U.S. Strikes Could Push War Into Indian Ocean",
+      "link": "https://oilprice.com/Energy/Energy-General/Iran-Warns-US-Strikes-Could-Push-War-Into-Indian-Ocean.html",
+      "source": "OilPrice",
+      "date": "Thu, 24 Sep 2026 12:00:00 -0500"
+    },
+    {
+      "title": "Gold price slides as oil, Fed rate concerns lift dollar",
+      "link": "https://www.mining.com/gold-slides-as-oil-fed-rate-concerns-lift-dollar/",
       "source": "mining.com",
-      "date": "Wed, 23 Sep 2026 23:43:58 +0000"
+      "date": "Thu, 24 Sep 2026 15:08:38 +0000"
     },
     {
-      "title": "Canada’s Oil Patch On Track For Biggest M&A Wave In A Decade",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Canadas-Oil-Patch-On-Track-For-Biggest-MA-Wave-In-A-Decade.html",
-      "source": "OilPrice",
-      "date": "Wed, 23 Sep 2026 18:00:00 -0500"
-    },
-    {
-      "title": "White House Rules Out Diesel Export Ban as Prices Surge Above $6.50",
-      "link": "https://oilprice.com/Energy/Energy-General/White-House-Rules-Out-Diesel-Export-Ban-as-Prices-Surge-Above-650.html",
-      "source": "OilPrice",
-      "date": "Wed, 23 Sep 2026 17:00:00 -0500"
-    },
-    {
-      "title": "High TREO concentrations boost Rare Earths Americas’ Homer project",
-      "link": "https://www.mining.com/high-treo-concentrations-boost-rare-earths-americas-homer-project/",
+      "title": "OceanaGold’s 97-gram hit backs Waihi expansion",
+      "link": "https://www.mining.com/oceanagolds-97-gram-hit-backs-waihi-expansion/",
       "source": "mining.com",
-      "date": "Wed, 23 Sep 2026 21:10:04 +0000"
+      "date": "Thu, 24 Sep 2026 14:43:23 +0000"
     },
     {
-      "title": "BHP halts operations at Escondida following fatal accident",
-      "link": "https://www.mining.com/fatal-accident-reported-at-bhps-escondida-mine/",
+      "title": "Kinross Gold cuts output, boosts shareholder payout",
+      "link": "https://www.mining.com/kinross-gold-cuts-output-boosts-shareholder-payout/",
       "source": "mining.com",
-      "date": "Wed, 23 Sep 2026 19:33:29 +0000"
+      "date": "Thu, 24 Sep 2026 13:52:59 +0000"
     },
     {
-      "title": "Glencore halts Cerrejón coal railway after attack",
-      "link": "https://www.mining.com/glencore-halts-cerrejon-coal-railway-after-attack/",
+      "title": "Rainbow Rare Earths deal with Neo clears path for Phalaborwa study",
+      "link": "https://www.mining.com/rainbow-rare-earths-deal-with-neo-clears-path-for-phalaborwa-study/",
       "source": "mining.com",
-      "date": "Wed, 23 Sep 2026 16:22:42 +0000"
+      "date": "Thu, 24 Sep 2026 13:05:00 +0000"
     },
     {
-      "title": "Higher Santa Cruz capital costs weigh on Ivanhoe Electric",
-      "link": "https://www.mining.com/higher-santa-cruz-capital-costs-weigh-on-ivanhoe-electric/",
+      "title": "Rio Tinto to expand metals trading beyond own output",
+      "link": "https://www.mining.com/rio-tinto-to-expand-metals-trading-beyond-own-output/",
       "source": "mining.com",
-      "date": "Wed, 23 Sep 2026 16:04:29 +0000"
+      "date": "Thu, 24 Sep 2026 11:46:00 +0000"
     },
     {
-      "title": "NexGold hits 14g at Goldlund in Ontario",
-      "link": "https://www.mining.com/nexgold-hits-14g-at-goldlund-in-ontario/",
+      "title": "Glencore sets Oct. 14 date for Australian market debut",
+      "link": "https://www.mining.com/glencore-sets-oct-14-date-for-australian-market-debut/",
       "source": "mining.com",
-      "date": "Wed, 23 Sep 2026 15:45:42 +0000"
+      "date": "Thu, 24 Sep 2026 10:49:00 +0000"
     }
   ]
 }
