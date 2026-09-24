@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-24T10:10:05+09:00",
+  "run_at_kst": "2026-09-24T11:24:36+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -48,10 +48,10 @@
       "date": "Wed, 23 Sep 2026 10:43:40 GMT"
     },
     {
-      "title": "중국 고용 시장에 대한 압력이 증가하고 있습니다.",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVzVsVUlQNG10MVJwNHh6LVlaM2k4THQyWHFqejJ2WFFUdVV2dkVaYk1zUzM1UEhMMk1XTHBLeUtwYVVXdWJJZzhHZF9zc2V2UFRyREtwRGF0Y2tRQkVPSmdVdWVrdXViMld0NlRwaGpXaVR6WEtLLTdHaGZmdmhFS1llOUI5Zkpa?oc=5",
-      "source": "Vietnam.vn",
-      "date": "Wed, 23 Sep 2026 08:54:37 GMT"
+      "title": "중국發 과잉생산, 글로벌 자유무역 체제 종말 앞당긴다",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ac0VMV18wM1VPbzVnRUFoOXJsOTZkM2NPOTV5VzlveXZ3Y2VmOTFncWFLZlg4T0tGRTFrSVVjN2VKYTB6VDBOTC1rVzY5dzZ0MWJLS2NIanl1Zw?oc=5",
+      "source": "한국경제",
+      "date": "Tue, 22 Sep 2026 08:59:04 GMT"
     },
     {
       "title": "\"소비·복지 외면 중국 경제, 공산당 집권 기반 잠식\"-WP",
@@ -74,7 +74,7 @@
     {
       "title": "\"다음 글로벌 경제위기는 중국에서 시작될 것\" - 머니투데이",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43aFF3cEtoOTBMZzlLYWtiMFlHMmNwQ0pzdEpqMm8zZS1jNDJLUmdLSFJRS0VNSl9FeDNUZ1NYcTRTdGJUUHQ4RDZqYXVsX2dvMlR5S1BaWUlXc1Y2V3ZmaG1GUzNpeUdP0gFuQVVfeXFMT1V6X0g4TkV6Rk05ek9yZlZiVnYwTHNZTGY3M0RNT1RSVjVNVWd2Mi1rVWxJSlB2c0RfajFIdDFoUXJoUW9tcWVaU3dBaGRaWXM4aXo1VWgyaGJqTHA4VHJROUFvcW44Q092QUtHTEE?oc=5",
-      "source": "mt.co.kr",
+      "source": "머니투데이",
       "date": "Sun, 30 Aug 2026 07:00:00 GMT"
     }
   ]
