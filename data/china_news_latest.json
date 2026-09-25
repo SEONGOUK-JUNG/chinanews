@@ -1,15 +1,21 @@
 {
-  "run_at_kst": "2026-09-25T07:20:05+09:00",
+  "run_at_kst": "2026-09-25T10:10:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "\"혼자서도 회사 차립니다\"…AI 열풍에 중국서 뜨는 '1인 기업'[세계는Z금]",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkdXZ2ZjI3Tms4LWNsTFkzT1M3cWtCRmdMTlg4NG9YXzFKRzZ6ZGJJMjdUWDZCMVo0dWl5S0F2blhBc0VaQkc3dGYxTzlRek0?oc=5",
+      "title": "시진핑 “미중 새 무역합의 도달”…대만엔 “美 신중히 처리해야”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41NUF3SmhmUVQ2MlplZk45OFlETmY1T3p0bVdfOVZDMzh3Y1JFRFkzdWpiV0JzLTQwMlJjNjJqZmdjT0tuSF9DOXVWYllxUEpwSXNjQTJENC1kbHRLenc?oc=5",
+      "source": "에너지경제신문",
+      "date": "Fri, 25 Sep 2026 00:41:47 GMT"
+    },
+    {
+      "title": "\"혼자 잘 놀고 잘 먹는 게 최고\"…中 2642조원 움직이는 이들의 정체[중국.zip]",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sRW1oZlppWl9laXBQcjdxemRZMEFiM2hhamxJY05zZlpyMWNCMmJYbU1wQWpGTEZUZHFEVWVVdUpjbkVlRTktTHZPWnU2NTA?oc=5",
       "source": "v.daum.net",
-      "date": "Thu, 24 Sep 2026 22:07:27 GMT"
+      "date": "Thu, 24 Sep 2026 22:51:49 GMT"
     },
     {
       "title": "BYD·CATL 빠진 시진핑 방미 수행단…미·중 경제외교, 기업 계약보다 정부 협상에 무게",
@@ -60,22 +66,16 @@
       "date": "Tue, 22 Sep 2026 00:37:35 GMT"
     },
     {
-      "title": "인민은행: AI, 중국 경제 불균형 심화시킬 수 있어, 이것이 원인",
-      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQbEJrM0RwMTNXbFRGd2lOU0lNZ0JORVZBOWRLcEs3cm1YWXA2V281QVpRZzdBT2dFY2J0OXNwc0t5V2hXeWtRc0t3SXNBeEFzb1hBOWpzbnBLbHVNbU9oblp5REhKRUlIeXNfWGlmUWRBbWh2dGV1UjNldG8yVnFtQTQ1ZlJiNTkzQ1BKZlJBaVJ2aU1ydVlqN0dYUWFJMklxRGdKS0kwRkhhZEpDQ25NNHJjY1NNTHBwQXZnSFZIU2ZDQ2sxTTMtVlctM3JNbWUtNTBrbVVEMzBfYlNCT3IyRFpyaU1XZlE3d1dEa1FuV0tGTUIydmR1TWtqZGpRblp1ZmM2a2x5djljcHpCbThmNmtvOXB6Y3FPMjF3WG03eENyMG5tQ3NrRGc0MDlyLURMUmw1aTRXOVEzYlhFM2pMTEVMUEhfMGtGT2dkLU95UF9nckg2Tk43QjlZY2RMcl9DUmFqdE9nYnotWUt3SktqVUI1VFpRcUhXSkE?oc=5",
-      "source": "IDNFinancials",
-      "date": "Mon, 21 Sep 2026 03:20:00 GMT"
+      "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Mon, 21 Sep 2026 07:00:00 GMT"
     },
     {
       "title": "\"다음 글로벌 경제위기는 중국에서 시작될 것\" - 머니투데이",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43aFF3cEtoOTBMZzlLYWtiMFlHMmNwQ0pzdEpqMm8zZS1jNDJLUmdLSFJRS0VNSl9FeDNUZ1NYcTRTdGJUUHQ4RDZqYXVsX2dvMlR5S1BaWUlXc1Y2V3ZmaG1GUzNpeUdP0gFuQVVfeXFMT1V6X0g4TkV6Rk05ek9yZlZiVnYwTHNZTGY3M0RNT1RSVjVNVWd2Mi1rVWxJSlB2c0RfajFIdDFoUXJoUW9tcWVaU3dBaGRaWXM4aXo1VWgyaGJqTHA4VHJROUFvcW44Q092QUtHTEE?oc=5",
       "source": "머니투데이",
       "date": "Sun, 30 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "中, 자동차판매 -21%·부동산 투자 -19%…중국경제 '빨간불'",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iNTRtZUhiM3RVU2ZWWmZwNHk1RVBZME9uMnplbV91c3BMSjFlNm5WQUFqYjJ6cFpxMDVLOGc1VWhTdDJfSk1OY3VfVzNKRmp2aWc3XzZ3ZXJYQQ?oc=5",
-      "source": "한국경제",
-      "date": "Mon, 17 Aug 2026 07:00:00 GMT"
     }
   ]
 }

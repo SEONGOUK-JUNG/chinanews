@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-25T07:08:45+09:00",
+  "run_at_kst": "2026-09-25T10:10:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,18 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "5 Energy Stocks Positioned for a Prolonged Iran War",
+      "link": "https://oilprice.com/Energy/Crude-Oil/5-Energy-Stocks-Positioned-for-a-Prolonged-Iran-War.html",
+      "source": "OilPrice",
+      "date": "Thu, 24 Sep 2026 19:00:00 -0500"
+    },
+    {
+      "title": "Soaring Freight Costs Make Japan’s Crude Imports the World’s Most Expensive",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Soaring-Freight-Costs-Make-Japans-Crude-Imports-the-Worlds-Most-Expensive.html",
+      "source": "OilPrice",
+      "date": "Thu, 24 Sep 2026 18:00:00 -0500"
+    },
     {
       "title": "Why a U.S. Diesel Export Ban Won’t Lower Fuel Prices",
       "link": "https://oilprice.com/Energy/Energy-General/Why-a-US-Diesel-Export-Ban-Wont-Lower-Fuel-Prices.html",
@@ -42,18 +54,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/Why-Are-Diesel-Prices-So-High.html",
       "source": "OilPrice",
       "date": "Thu, 24 Sep 2026 13:00:00 -0500"
-    },
-    {
-      "title": "Vitol Scoops Up 25 Million Barrels of Discounted Iraqi Crude",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Vitol-Scoops-Up-25-Million-Barrels-of-Discounted-Iraqi-Crude.html",
-      "source": "OilPrice",
-      "date": "Thu, 24 Sep 2026 12:30:00 -0500"
-    },
-    {
-      "title": "Iran Warns U.S. Strikes Could Push War Into Indian Ocean",
-      "link": "https://oilprice.com/Energy/Energy-General/Iran-Warns-US-Strikes-Could-Push-War-Into-Indian-Ocean.html",
-      "source": "OilPrice",
-      "date": "Thu, 24 Sep 2026 12:00:00 -0500"
     },
     {
       "title": "Gold price slides as oil, Fed rate concerns lift dollar",
