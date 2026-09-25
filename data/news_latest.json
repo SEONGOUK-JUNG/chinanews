@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-25T14:08:52+09:00",
+  "run_at_kst": "2026-09-25T20:10:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Ukraine Drone Strike Knocks Out Russia's Novoshakhtinsk Refinery",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Drone-Strike-Knocks-Out-Russias-Novoshakhtinsk-Refinery.html",
+      "source": "OilPrice",
+      "date": "Fri, 25 Sep 2026 06:00:00 -0500"
+    },
+    {
+      "title": "Netherlands Pushes to Scrap EU Gas Storage Mandate After $1.14 Billion Bill",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Netherlands-Pushes-to-Scrap-EU-Gas-Storage-Mandate-After-114-Billion-Bill.html",
+      "source": "OilPrice",
+      "date": "Fri, 25 Sep 2026 05:00:00 -0500"
+    },
+    {
+      "title": "India Says It Will Keep Exporting Diesel",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Says-It-Will-Keep-Exporting-Diesel.html",
+      "source": "OilPrice",
+      "date": "Fri, 25 Sep 2026 03:30:00 -0500"
+    },
+    {
+      "title": "Hormuz Tanker Transits Crash to Single Digits as Crisis Deepens",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Transits-Crash-to-Single-Digits-as-Crisis-Deepens.html",
+      "source": "OilPrice",
+      "date": "Fri, 25 Sep 2026 02:30:00 -0500"
+    },
+    {
+      "title": "VLCC Rates Hit Record $1.27 Million a Day",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/VLCC-Rates-Hit-Record-127-Million-a-Day-as-Oman-Transfer-Capacity-Maxes-Out.html",
+      "source": "OilPrice",
+      "date": "Fri, 25 Sep 2026 01:17:00 -0500"
+    },
     {
       "title": "Brent Set for Weekly Gain as Houthi Attacks Rattle Saudi Oil Supply",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Set-for-Weekly-Gain-as-Houthi-Attacks-Rattle-Saudi-Oil-Supply.html",
@@ -24,36 +54,6 @@
       "link": "https://oilprice.com/Energy/Crude-Oil/Soaring-Freight-Costs-Make-Japans-Crude-Imports-the-Worlds-Most-Expensive.html",
       "source": "OilPrice",
       "date": "Thu, 24 Sep 2026 18:00:00 -0500"
-    },
-    {
-      "title": "Why a U.S. Diesel Export Ban Won’t Lower Fuel Prices",
-      "link": "https://oilprice.com/Energy/Energy-General/Why-a-US-Diesel-Export-Ban-Wont-Lower-Fuel-Prices.html",
-      "source": "OilPrice",
-      "date": "Thu, 24 Sep 2026 17:00:00 -0500"
-    },
-    {
-      "title": "Can the World Hit 35% Electrification by 2035?",
-      "link": "https://oilprice.com/Energy/Energy-General/Can-the-World-Hit-35-Electrification-by-2035.html",
-      "source": "OilPrice",
-      "date": "Thu, 24 Sep 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Global Biofuels Output Could Surge 70% Amid Energy Crisis",
-      "link": "https://oilprice.com/Alternative-Energy/Biofuels/Global-Biofuels-Output-Could-Surge-70-Amid-Energy-Crisis.html",
-      "source": "OilPrice",
-      "date": "Thu, 24 Sep 2026 15:00:00 -0500"
-    },
-    {
-      "title": "Italy Returns to Nuclear After 40-Year Hiatus",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Italy-Returns-to-Nuclear-After-40-Year-Hiatus.html",
-      "source": "OilPrice",
-      "date": "Thu, 24 Sep 2026 14:00:00 -0500"
-    },
-    {
-      "title": "Saudi Oil Export Costs Surge as Red Sea Risks Mount",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Oil-Export-Costs-Surge-as-Red-Sea-Risks-Mount.html",
-      "source": "OilPrice",
-      "date": "Thu, 24 Sep 2026 13:30:00 -0500"
     },
     {
       "title": "Gold price slides as oil, Fed rate concerns lift dollar",

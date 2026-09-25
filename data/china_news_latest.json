@@ -1,21 +1,27 @@
 {
-  "run_at_kst": "2026-09-25T14:08:52+09:00",
+  "run_at_kst": "2026-09-25T20:10:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "시진핑, 트럼프의 극진한 환대에도…원했던 것 모두 얻지는 못했다",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBX1hZUDZwUTkyMG9HUUVRNWM3Ti1nem12X3g3eVdmSDJSY0x6SzBudEk3bV9OWTZNb3BWX2c2OGh0bGdFX2d4MjhqU3ZrbXJWOTl6RkVPZXVNT3k5TlHSAWNBVV95cUxNODl6cWZiWl9uTngtVC1aSkdqUl9fbENyeGVqMXVxS2htSzlRMmdlYkk1U2pSRlJXcEo4LS1MWGVEcnZVeDRHejNkMlpRM0dUTnlIOXlnaTRrOXB2TkF4dElNbTQ?oc=5",
+      "source": "BBC",
+      "date": "Fri, 25 Sep 2026 09:15:55 GMT"
+    },
+    {
+      "title": "박종범의 ‘경제 네트워크 외교’, 선양의 불씨 선전으로 잇는다",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16Z2d6azFjaXhaNWpfYlZKbEM2aUx2WTNzZzJueE1Pdi1yc005eW05Mk40T2hDS1REQzBJb2ttdFZmZEZKVUtJSFdZNGZQR0gxb3NPZEpCRGZQcEhzdE56WHlvcW03N3BBNmY0?oc=5",
+      "source": "dongponews.net",
+      "date": "Fri, 25 Sep 2026 08:26:49 GMT"
+    },
+    {
       "title": "[조용성의 현실중국] 기업인들 시진핑 동반 끝내 무산",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92WUhMQkhLQjJsLTZvelVmZXdIVXEyVF8wNlJkZ0dmcmd2QVBzMnFNWnJwa1hFc3JCYUZsZ1dPYjJCaFFmOElJNHdhTzNLdEE?oc=5",
       "source": "v.daum.net",
       "date": "Fri, 25 Sep 2026 02:40:40 GMT"
-    },
-    {
-      "title": "'시진핑·트럼프, 대만 무기와 이란 제재 '빅딜' 성사됐나",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1QVZuMFlvQjRmbmVwZmdxd0oyd1RoVHBNeVUySHF5bGpjRnpGM3JFNzJsZERQTEJicHY0ZHVUcEUxSnFISlZzbFRwRUNnR2M?oc=5",
-      "source": "v.daum.net",
-      "date": "Fri, 25 Sep 2026 02:09:12 GMT"
     },
     {
       "title": "트럼프는 중국 봉쇄를 포기했나…시진핑과의 회담 뒤에 숨은 ‘새로운 포위전략’",
@@ -24,10 +30,10 @@
       "date": "Fri, 25 Sep 2026 01:45:41 GMT"
     },
     {
-      "title": "시진핑, 잠시 뒤 공식 환영행사...미중정상회담 전망은?",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JNkVCa0J3b3plQ2lQQTAtcWdmeDlJc2dSeUtoVkMzQTlLTDEyTWk4WjhEVUI4RTRodVNjaFVGc1hwS01jMWRBOC13SnJJSUY2RjNGNmtIMF9wWUVaZHc?oc=5",
-      "source": "YTN",
-      "date": "Thu, 24 Sep 2026 15:11:00 GMT"
+      "title": "레노버 CFO \"중국 경제, 침체는 없다\"",
+      "link": "https://news.google.com/rss/articles/CBMi8gRBVV95cUxOMTNCUDA0TDdLcVNXSjlsYmk2WlhERWZvaW5WODJjTlRvVy1FOWNHaFZPV2VjMFZQUFJmaFR5aEtrRzNOWWhtVnZVQ1U3bjJLTVhSd2RwNlFCek1ZY2ZXQm5QTU5aY25wTjRNZTlDWk1leDVIMy04NnI1NkdwcWd5RVM0andJaWNRdENrWGJ5dUUzcEdtN3E5WkQ4TWx1N3Y2OFlGTUdVUEdpczN6RFkwaU9PUDk4RFVOWmxjZTNCWlZPZENESThwSGJOVWRoekQtUkdLM3JjdlRQdXoyMkRuWlA3MmpPOFRlV3U1VVh4eWJtM28ybW1RV2FSNzJiUkJZR3A3aERWS0VkbUZKVFhNWjAyOXljcWl2bzkta25XVVdTVVFHTUc3UGJDZ0g3N2VGSFE4NHFZR0xpdnA5YmFwaXVXNlB3TDg4ZU9WUFN2NG00VDdaMllQemVDYW9pb2JWMkVDVlhhX3BqM0o2bVI5UjlQQjVQMVRQSVZ4OENxUE9aZ2ROR055Q0d5WHpRQmJFU184SGJyUHlxa2RWbk9OOFhwRmhvdGRPdl9la00yU194R1JwV2Jva0hKQnVIbUxKLUY5ZWREdW5XZmNPbEp1WS0tM2JaWVdVdUdMb0dXSXpOR0E0QUZGSUNmZm9mMlJDMmkxLUtkZGc5bVpTUDZDb19DZ0M2SG1XUjA0cmxBdFIxaHI0Smt2Yk9YcW02MjB2d0dwSk9jOXZPWjdyV3RXUVIwdlJ0YzdlUTg0b01WNS0wUlJVTVVDU3FCeHc2XzJDV3ZLY3NxWUN1Y1hIS1JrVE0yTDlLWjdwUFhBOURWVGpvdw?oc=5",
+      "source": "전자신문",
+      "date": "Thu, 24 Sep 2026 15:31:07 GMT"
     },
     {
       "title": "BYD·CATL 빠진 시진핑 방미 수행단…미·중 경제외교, 기업 계약보다 정부 협상에 무게",
@@ -56,14 +62,8 @@
     {
       "title": "2026년 8월 중국경제 동향과 전망",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUEU1cWdEelIxWlFSUHJaNUkzZFF5aEtxQ3NMbGVWaThvUDBDNlhkZlFkUUNrQVZtOUdhRVVrSXdrR180VmFBS29xWkFpUkhwYTBBSWpDVzNjQk1jVlNZX05rbFR2cWJXTFpjb0tmRXVmUW1TazdlYjhGNWhRd0d5Nw?oc=5",
-      "source": "eiec.kdi.re.kr",
+      "source": "KDI 경제교육·정보센터",
       "date": "Wed, 23 Sep 2026 08:33:13 GMT"
-    },
-    {
-      "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Mon, 21 Sep 2026 07:00:00 GMT"
     },
     {
       "title": "인민은행: AI, 중국 경제 불균형 심화시킬 수 있어, 이것이 원인",
