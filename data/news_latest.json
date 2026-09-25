@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-25T10:10:05+09:00",
+  "run_at_kst": "2026-09-25T14:08:52+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Brent Set for Weekly Gain as Houthi Attacks Rattle Saudi Oil Supply",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Set-for-Weekly-Gain-as-Houthi-Attacks-Rattle-Saudi-Oil-Supply.html",
+      "source": "OilPrice",
+      "date": "Fri, 25 Sep 2026 00:04:32 -0500"
+    },
     {
       "title": "5 Energy Stocks Positioned for a Prolonged Iran War",
       "link": "https://oilprice.com/Energy/Crude-Oil/5-Energy-Stocks-Positioned-for-a-Prolonged-Iran-War.html",
@@ -48,12 +54,6 @@
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Oil-Export-Costs-Surge-as-Red-Sea-Risks-Mount.html",
       "source": "OilPrice",
       "date": "Thu, 24 Sep 2026 13:30:00 -0500"
-    },
-    {
-      "title": "Why Are Diesel Prices So High?",
-      "link": "https://oilprice.com/Energy/Energy-General/Why-Are-Diesel-Prices-So-High.html",
-      "source": "OilPrice",
-      "date": "Thu, 24 Sep 2026 13:00:00 -0500"
     },
     {
       "title": "Gold price slides as oil, Fed rate concerns lift dollar",
