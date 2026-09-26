@@ -1,10 +1,34 @@
 {
-  "run_at_kst": "2026-09-26T15:33:50+09:00",
+  "run_at_kst": "2026-09-26T20:08:37+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "\"중국, 이란에 '美 경제제재 동참 안 해' 입장 전달\"",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNSDRIa3AyRlo2QmIzTFhyTFIxeGhfX055bFZ4cmxsYmxtUGdacEZ3Z2daRkZmb2d2YkxROXpBMVN5SWp3Q2VpNkFCZmh6T2M?oc=5",
+      "source": "v.daum.net",
+      "date": "Sat, 26 Sep 2026 10:39:28 GMT"
+    },
+    {
+      "title": "[속보] \"중국, 미국 대이란 경제제재 따르지 않겠다…이란에 입장 전달\"",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qeVQwUXNidE42LVd5dU9qT0ZILTgwZkM3ZjBPTFJ6V3I4RjQ4UVgzVGNxOU9SNTdJU2swRkozMkV4LWZjRWdhaksxOFprV3c?oc=5",
+      "source": "v.daum.net",
+      "date": "Sat, 26 Sep 2026 10:10:52 GMT"
+    },
+    {
+      "title": "[신간] \"중국의 동북, 우리의 북방\"…6년간 3만㎞ 누빈 현직 외교관의 기록",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZOF9OOVJucFMzeURUekkyamg0N1ZvV3dXX3l3Z25SWkZWWk9MeDRUb09kRzA0RktpdXdxX0g1LUNQRldKOUZZdWhacTR2dlU?oc=5",
+      "source": "v.daum.net",
+      "date": "Sat, 26 Sep 2026 07:57:15 GMT"
+    },
+    {
+      "title": "[신간] 중국의 동북, 우리의 북방…6년간 3만㎞ 누빈 현직 외교관의 기록",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zcnBWOVhINzNYUFZVWEVHTklTT0g3Y2tKTXFjd2stclhONmFGWlFOaFhmSF81S1AxMDRablVwTzZSVzdteGwycVZ3Q004d05yRk5FMnBnSUtmUdIBWEFVX3lxTFBGNWNxaW9tRThESkMtMjlsSDI1ZGlCUE1qblhWVDlXNkxSZE5aZ3ltcUlUOVl2NGdWNUNWeXU4ZVFUN1BCNS1PcDdCOVJ1RXNkdmJPR3NXV3c?oc=5",
+      "source": "아주경제",
+      "date": "Sat, 26 Sep 2026 07:20:09 GMT"
+    },
     {
       "title": "중국자본 침공에 질식하는 제주? 진실은 무엇일까?",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QaXVBaGVkUk05YVAwdTA1eVBzZWhsUFBWaVlKUzh4bnc1QW5raTNpM2VlQzIybmF0akVzdkdaS2xpTk4tT3p1TkJJQnFlQzNvamxjdElDOFU2S2FzTFl0cEl4SWRJV2lHdXVJ?oc=5",
@@ -18,40 +42,28 @@
       "date": "Sat, 26 Sep 2026 00:35:00 GMT"
     },
     {
-      "title": "트럼프 “시진핑과 11월 중국·12월 미국서 또 만날 것”[1일1트]",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rNzFOb2RnQktJLTRTa05uRHRZS0ZLdWlXLWNYOGRYLXVwQjZrQVdHNXdjZ3p6MHhEUzdxUm9wR0JpbTV6N3h0S2VfTTUxUUd0SWtZTUdB?oc=5",
-      "source": "헤럴드경제",
-      "date": "Fri, 25 Sep 2026 23:33:17 GMT"
-    },
-    {
       "title": "대만 노리는 중국, 4연임 앞둔 시진핑의 딜레마 [경제적본능]",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TM053ZzRJVWZGQWpqNWdTaEQ5Wlg4enlrd2VpN2xEUkdZdTBYa3lEMTVLWElqcVJ4R2NXMmt6VWhkZFloRXJ4aS1udUhJU3c?oc=5",
       "source": "v.daum.net",
       "date": "Fri, 25 Sep 2026 20:03:18 GMT"
     },
     {
-      "title": "[황제펭귄] 트럼프, 시진핑과 회담 뒤에 숨은 ‘새로운 중국 포위전략’",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UeG9McmE2bFhZdmFONHFzdE1fd0lQUDdVdTEtcjQ1SmFTNFpZTGRZRmhreGZtNWFnY3d1TUIyVk90QVd4dHBwVW1vVllRYWpMbmNzLTZmTXY0TG5EUlpB?oc=5",
-      "source": "저스트 이코노믹스",
-      "date": "Fri, 25 Sep 2026 19:40:00 GMT"
+      "title": "\"중국 가는 사람이 이렇게 많아?\" 항공 노선 확 늘었네…수혜주는[주末머니]",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wZ0FfRC1MWGp2Nzg1alJxMU1nbDFwSkMxc0NIbnRJNkVjSEdsdWhSNkFER2lNYktDSUU2RGJDYWo0WkxyQlFHYnl5TXRoc2c?oc=5",
+      "source": "v.daum.net",
+      "date": "Fri, 25 Sep 2026 08:06:50 GMT"
     },
     {
-      "title": "美中 휴전으로 시간 번 중국…\"내수 수습·대미 의존 낮출 기회\"",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMmpHZVFkNG9TSVFfa1I0NjZXeTNVaUx4TnhJWklGQVY3bG9MLTY3RGJfWTl6TDZXb0EtbWxUZXNEMDd6b0NJQkMzQllIdVNTX3VDbG10amJMaUlndDdZOU4xN1hHYkdQTldXTTNScnl1R3Q0LTMxSHhFVzlWbzBnNg?oc=5",
-      "source": "edaily.co.kr",
-      "date": "Fri, 25 Sep 2026 14:54:08 GMT"
+      "title": "\"왜 중국 대신 한국 선택해야 하나\"…정부가 꺼낸 '비장의 카드'",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84Y3YxMHJIMUZwUHBaZjRhR2VfaS1SbmEwV2puUmo5NjRGQm1KNFFsWHRDQURabXBJdUgxN1lfeXNIbnJJbzdXV0tSY0Y1NHNXeW16ZHNqS2pXQQ?oc=5",
+      "source": "한국경제",
+      "date": "Fri, 25 Sep 2026 07:08:29 GMT"
     },
     {
-      "title": "시진핑, 트럼프의 극진한 환대에도…원했던 것 모두 얻지는 못했다",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBX1hZUDZwUTkyMG9HUUVRNWM3Ti1nem12X3g3eVdmSDJSY0x6SzBudEk3bV9OWTZNb3BWX2c2OGh0bGdFX2d4MjhqU3ZrbXJWOTl6RkVPZXVNT3k5TlHSAWNBVV95cUxNODl6cWZiWl9uTngtVC1aSkdqUl9fbENyeGVqMXVxS2htSzlRMmdlYkk1U2pSRlJXcEo4LS1MWGVEcnZVeDRHejNkMlpRM0dUTnlIOXlnaTRrOXB2TkF4dElNbTQ?oc=5",
-      "source": "BBC",
-      "date": "Fri, 25 Sep 2026 09:15:55 GMT"
-    },
-    {
-      "title": "박종범의 ‘경제 네트워크 외교’, 선양의 불씨 선전으로 잇는다",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pN283dHVNdHRsUHFKaVIxSWNRZXYyRVVNdk83a0UyOC1YQkdiTUhkNXVJeU5hSFpVX1VDb2RHVmk0dmI4QnBQQmE3Z3dmN2V5RVRQblFhOERoeFhqTXJhSFRZd3pHUm5RUDlfbQ?oc=5",
-      "source": "재외동포신문",
-      "date": "Fri, 25 Sep 2026 08:26:49 GMT"
+      "title": "[조용성의 현실중국] 기업인들 시진핑 동반 끝내 무산",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92WUhMQkhLQjJsLTZvelVmZXdIVXEyVF8wNlJkZ0dmcmd2QVBzMnFNWnJwa1hFc3JCYUZsZ1dPYjJCaFFmOElJNHdhTzNLdEE?oc=5",
+      "source": "v.daum.net",
+      "date": "Fri, 25 Sep 2026 02:40:40 GMT"
     },
     {
       "title": "2026년 8월 중국경제 동향과 전망",
@@ -62,20 +74,8 @@
     {
       "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
-      "source": "wikyung.com",
+      "source": ":: 위즈경제 ::",
       "date": "Mon, 21 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "\"다음 글로벌 경제위기는 중국에서 시작될 것\" - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43aFF3cEtoOTBMZzlLYWtiMFlHMmNwQ0pzdEpqMm8zZS1jNDJLUmdLSFJRS0VNSl9FeDNUZ1NYcTRTdGJUUHQ4RDZqYXVsX2dvMlR5S1BaWUlXc1Y2V3ZmaG1GUzNpeUdP0gFuQVVfeXFMT1V6X0g4TkV6Rk05ek9yZlZiVnYwTHNZTGY3M0RNT1RSVjVNVWd2Mi1rVWxJSlB2c0RfajFIdDFoUXJoUW9tcWVaU3dBaGRaWXM4aXo1VWgyaGJqTHA4VHJROUFvcW44Q092QUtHTEE?oc=5",
-      "source": "머니투데이",
-      "date": "Sun, 30 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "中, 자동차판매 -21%·부동산 투자 -19%…중국경제 '빨간불'",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iNTRtZUhiM3RVU2ZWWmZwNHk1RVBZME9uMnplbV91c3BMSjFlNm5WQUFqYjJ6cFpxMDVLOGc1VWhTdDJfSk1OY3VfVzNKRmp2aWc3XzZ3ZXJYQQ?oc=5",
-      "source": "한국경제",
-      "date": "Mon, 17 Aug 2026 07:00:00 GMT"
     }
   ]
 }
