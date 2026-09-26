@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-09-27T07:08:41+09:00",
+  "run_at_kst": "2026-09-27T07:20:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "“‘핵심기술’을 중국에 팔아 넘겼다?”…5년간 산업기술 해외 유출 107건",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OUl9ZMEg1M3ZTa3Azemx5QXJxUUM2S3ZaMGNEWDA2NmN2WmZSWEMyak05dENtTFowaVJxblhxRi1xaXF1YVp0S0Zrb1dEYk0?oc=5",
+      "source": "v.daum.net",
+      "date": "Sat, 26 Sep 2026 22:09:00 GMT"
+    },
     {
       "title": "국경 하나 넘지 못한 715만 대 중국차, 베트남서 빈패스트 독주와 한일 정비망에 막히다",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdmNneVlRSFV5V0pUZk9MZWxXVWVwQ08zUXpxR1lQb2tENG56a1VnbnhkUUQ4SFhCVE1hejdVUU8zM1k1WkUtelV3V0kyMWtHREt0VnVLM3c3UWtkTlo4SDU2TE9YWVJzTHNxTUhqNk1LN0JBY2o4SEVNNFN2Zm16RjctMFZ4M0xV?oc=5",
@@ -64,12 +70,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
       "source": "wikyung.com",
       "date": "Wed, 23 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
-      "source": "wikyung.com",
-      "date": "Mon, 21 Sep 2026 07:00:00 GMT"
     },
     {
       "title": "\"다음 글로벌 경제위기는 중국에서 시작될 것\" - 머니투데이",
