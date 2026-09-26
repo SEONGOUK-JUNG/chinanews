@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-26T10:10:05+09:00",
+  "run_at_kst": "2026-09-27T07:08:41+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,24 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Brazil's Energy Mix Goes Green Even As Oil Production Climbs",
+      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Brazils-Energy-Mix-Goes-Green-Even-As-Oil-Production-Climbs.html",
+      "source": "OilPrice",
+      "date": "Sat, 26 Sep 2026 14:00:00 -0500"
+    },
+    {
+      "title": "Calls to Overhaul the UN Security Council Gain New Momentum",
+      "link": "https://oilprice.com/Geopolitics/International/Calls-to-Overhaul-the-UN-Security-Council-Gain-New-Momentum.html",
+      "source": "OilPrice",
+      "date": "Sat, 26 Sep 2026 12:00:00 -0500"
+    },
+    {
+      "title": "North Carolina Regulators Reject Duke Energy Gas Power Plant",
+      "link": "https://oilprice.com/Energy/Energy-General/North-Carolina-Regulators-Reject-Duke-Energy-Gas-Power-Plant.html",
+      "source": "OilPrice",
+      "date": "Sat, 26 Sep 2026 10:00:00 -0500"
+    },
     {
       "title": "Nigeria Joins IEA As Crude Output Hits Six-Year High",
       "link": "https://oilprice.com/Energy/Energy-General/Nigeria-Joins-IEA-As-Crude-Output-Hits-Six-Year-High.html",
@@ -68,28 +86,10 @@
       "date": "Fri, 25 Sep 2026 16:29:39 +0000"
     },
     {
-      "title": "Why WTI Is Suddenly Trading $12 Below Brent",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Why-WTI-Is-Suddenly-Trading-12-Below-Brent.html",
-      "source": "OilPrice",
-      "date": "Fri, 25 Sep 2026 11:15:00 -0500"
-    },
-    {
       "title": "Lundin Gold hits record 1035g in Ecuador",
       "link": "https://www.mining.com/lundin-gold-hits-record-1035g-in-ecuador/",
       "source": "mining.com",
       "date": "Fri, 25 Sep 2026 15:32:28 +0000"
-    },
-    {
-      "title": "EU Shrugs Off Gas Supply Fears Despite Low Storage Levels",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Shrugs-Off-Gas-Supply-Fears-Despite-Low-Storage-Levels.html",
-      "source": "OilPrice",
-      "date": "Fri, 25 Sep 2026 10:30:00 -0500"
-    },
-    {
-      "title": "Trump’s Diesel Export Threat Puts Britain on Edge",
-      "link": "https://oilprice.com/Energy/Energy-General/Trumps-Diesel-Export-Threat-Puts-Britain-on-Edge.html",
-      "source": "OilPrice",
-      "date": "Fri, 25 Sep 2026 10:00:00 -0500"
     }
   ]
 }
