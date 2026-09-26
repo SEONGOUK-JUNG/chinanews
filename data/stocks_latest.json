@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-26T09:30:09.412402+09:00",
+  "run_at_kst": "2026-09-26T13:00:09.685213+09:00",
   "sources": {
     "a_stocks": "AkShare (Eastmoney via 中国证监会)",
     "hk_us_kr": "Yahoo Finance (yfinance)"
@@ -597,7 +597,7 @@
       "ex": "NASDAQ",
       "sector": "Entertainment",
       "type": "us_adr",
-      "price": 14.89,
+      "price": 14.9,
       "prev_close": 14.8,
       "change_pct": 0.64,
       "currency": "USD",
