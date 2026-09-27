@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-27T10:10:04+09:00",
+  "run_at_kst": "2026-09-28T07:07:53+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "NGOs warn Donlin mine spill could devastate region",
+      "link": "https://www.mining.com/ngos-warn-donlin-mine-spill-could-devastate-region/",
+      "source": "mining.com",
+      "date": "Sun, 27 Sep 2026 19:43:31 +0000"
+    },
+    {
+      "title": "The Next Global Energy Crisis Won’t Come From Just One Direction",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Next-Global-Energy-Crisis-Wont-Come-From-Just-One-Direction.html",
+      "source": "OilPrice",
+      "date": "Sun, 27 Sep 2026 14:00:00 -0500"
+    },
+    {
+      "title": "People are turning to a trustless asset, Phair says",
+      "link": "https://www.mining.com/people-are-turning-to-a-trustless-asset-phair-says/",
+      "source": "mining.com",
+      "date": "Sun, 27 Sep 2026 17:32:11 +0000"
+    },
+    {
+      "title": "The AI Data Center Boom Faces a New Reality Check",
+      "link": "https://oilprice.com/Energy/Energy-General/The-AI-Data-Center-Boom-Faces-a-New-Reality-Check.html",
+      "source": "OilPrice",
+      "date": "Sun, 27 Sep 2026 12:00:00 -0500"
+    },
+    {
+      "title": "EPA Power Plant Rollback To Add 123 Million More Tons of CO2",
+      "link": "https://oilprice.com/Energy/Energy-General/EPA-Power-Plant-Rollback-To-Add-123-Million-More-Tons-of-CO2.html",
+      "source": "OilPrice",
+      "date": "Sun, 27 Sep 2026 10:00:00 -0500"
+    },
     {
       "title": "Global Gas Squeeze Could Last Through Next Summer",
       "link": "https://oilprice.com/Energy/Natural-Gas/Global-Gas-Squeeze-Could-Last-Through-Next-Summer.html",
@@ -56,40 +86,10 @@
       "date": "Fri, 25 Sep 2026 20:35:09 +0000"
     },
     {
-      "title": "Why Record Heat Failed to Lift U.S. Natural Gas Prices",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Why-Record-Heat-Failed-to-Lift-US-Natural-Gas-Prices.html",
-      "source": "OilPrice",
-      "date": "Fri, 25 Sep 2026 15:00:00 -0500"
-    },
-    {
-      "title": "Venezuela Oil Output Could Hit 1.8 Million Bpd By 2030, Rystad Says",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Venezuela-Oil-Output-Could-Hit-18-Million-Bpd-By-2030-Rystad-Says.html",
-      "source": "OilPrice",
-      "date": "Fri, 25 Sep 2026 13:00:00 -0500"
-    },
-    {
-      "title": "U.S. Oil, Gas Drilling Perks Up As Pressure Mounts",
-      "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Gas-Drilling-Perks-Up-As-Pressure-Mounts.html",
-      "source": "OilPrice",
-      "date": "Fri, 25 Sep 2026 12:15:00 -0500"
-    },
-    {
       "title": "AI boom fails to lift gold demand, WGC says",
       "link": "https://www.mining.com/ai-boom-fails-to-lift-gold-demand-wgc-says/",
       "source": "mining.com",
       "date": "Fri, 25 Sep 2026 16:59:07 +0000"
-    },
-    {
-      "title": "Metals are stock puppets, Bloomberg strategist says",
-      "link": "https://www.mining.com/metals-are-stock-puppets-bloomberg-strategist-says/",
-      "source": "mining.com",
-      "date": "Fri, 25 Sep 2026 16:29:39 +0000"
-    },
-    {
-      "title": "Lundin Gold hits record 1035g in Ecuador",
-      "link": "https://www.mining.com/lundin-gold-hits-record-1035g-in-ecuador/",
-      "source": "mining.com",
-      "date": "Fri, 25 Sep 2026 15:32:28 +0000"
     }
   ]
 }
