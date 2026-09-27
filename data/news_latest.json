@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-27T07:08:41+09:00",
+  "run_at_kst": "2026-09-27T10:10:04+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Global Gas Squeeze Could Last Through Next Summer",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Global-Gas-Squeeze-Could-Last-Through-Next-Summer.html",
+      "source": "OilPrice",
+      "date": "Sat, 26 Sep 2026 18:00:00 -0500"
+    },
     {
       "title": "Brazil's Energy Mix Goes Green Even As Oil Production Climbs",
       "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Brazils-Energy-Mix-Goes-Green-Even-As-Oil-Production-Climbs.html",
@@ -72,12 +78,6 @@
       "link": "https://www.mining.com/ai-boom-fails-to-lift-gold-demand-wgc-says/",
       "source": "mining.com",
       "date": "Fri, 25 Sep 2026 16:59:07 +0000"
-    },
-    {
-      "title": "BP Eyes Bigger U.S. Shale Footprint After Devon Deal Talks",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/BP-Eyes-Bigger-US-Shale-Footprint-After-Devon-Deal-Talks.html",
-      "source": "OilPrice",
-      "date": "Fri, 25 Sep 2026 11:30:00 -0500"
     },
     {
       "title": "Metals are stock puppets, Bloomberg strategist says",
