@@ -1,15 +1,21 @@
 {
-  "run_at_kst": "2026-09-27T14:10:04+09:00",
+  "run_at_kst": "2026-09-27T20:08:50+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "강원TP, 난징에 ‘강원도 상품전시관’ 구축…중국 판로 넓힌다",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FSUNaOXpzZGw3cm9zSjE0eW5QejB6QTFkVGZhbVNxdmFUTU9zMnZIWVpVc0NZYlBZeTdvS19yWHM3am1Eak10Z0JJbE9ZY0U3dkM0Qmx2ZmFmVHNkRDVNVHJqaENyWExM?oc=5",
-      "source": "강원도민일보",
-      "date": "Sun, 27 Sep 2026 02:00:21 GMT"
+      "title": "[중국증시] \"AI에 밀린 마오타이\" 中소비주 '잃어버린 10년' 맞이하나",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NbXRGLXdCa3pFTk9JdTdFdVNSTVg1REZoOHJ5RDQ5V2JncklRRy1lU1Z0ZTZFT3hTZVNxazM2TGd1NTg3aU13NjRoR0FCSTg?oc=5",
+      "source": "v.daum.net",
+      "date": "Sun, 27 Sep 2026 07:51:00 GMT"
+    },
+    {
+      "title": "[중국증시] AI에 밀린 마오타이 中소비주 잃어버린 10년 맞이하나",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBakd2SVFhZUhPZGFRS2FsWFlBLVFSWWptU250aDRGSTBkbWVHUHhWMUdvRHhIWXhZX2llM29ZODR5NnF1Zlg2eE80UGdrN2pkSjJnTmpTWnpKQdIBWEFVX3lxTE5hVm1HUFlfQzF2OFJjUHBFWWFRTmRSelA1eEFCdGQyNU0xSDNBZGhoVXZ6Y3RRZXFKQzlheElSSS1OamhERlRTcDExVmQ1ZjJTOXFscng5QnE?oc=5",
+      "source": "아주경제",
+      "date": "Sun, 27 Sep 2026 07:50:55 GMT"
     },
     {
       "title": "국경 하나 넘지 못한 715만 대 중국차, 베트남서 빈패스트 독주와 한일 정비망에 막히다",
@@ -25,15 +31,15 @@
     },
     {
       "title": "\"중국, 이란에 '美 경제제재 동참 안 해' 입장 전달\"",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MbVB6NjhlYkdLR3lJbHpkMzU2Uzk5dUpnODJxQy1FRF9UQXBNN3NPWkFRc1g5eGMwekpfZUhiRlB3Z0l0OVpBWnB2RQ?oc=5",
-      "source": "inews24.com",
-      "date": "Sat, 26 Sep 2026 10:37:45 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNSDRIa3AyRlo2QmIzTFhyTFIxeGhfX055bFZ4cmxsYmxtUGdacEZ3Z2daRkZmb2d2YkxROXpBMVN5SWp3Q2VpNkFCZmh6T2M?oc=5",
+      "source": "v.daum.net",
+      "date": "Sat, 26 Sep 2026 10:39:28 GMT"
     },
     {
-      "title": "＂중국, 미국 대이란 경제제재 따르지 않겠다…이란에 입장 전달＂",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ibjd6ZFYzRldCZXlGa1h6ZGo3WkhzTEUyNW9JT09xd0Ezc1pZQlJRR3U1OG1nOFpPTHg1b21OTHhjcC0wTlFiSEhoM2VFcUlMLUo2MmhfQ21vaktYdFhNYk83eUV1dlBab2FpZi15ckxZSWJpNFhF?oc=5",
-      "source": "한국경제TV",
-      "date": "Sat, 26 Sep 2026 10:31:54 GMT"
+      "title": "\"중국, 미국 대이란 경제제재 따르지 않겠다…이란에 입장 전달\"",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9VMW9KenJuR1J5b2MxMF84d21JczlxdTJpbElod29aUXRxRFRfS05YclZvWFJBZ2E0R0tWYWxwQ3hZZTF3TGc?oc=5",
+      "source": "v.daum.net",
+      "date": "Sat, 26 Sep 2026 10:10:52 GMT"
     },
     {
       "title": "중국자본 침공에 질식하는 제주? 진실은 무엇일까?",
@@ -42,22 +48,16 @@
       "date": "Sat, 26 Sep 2026 02:40:00 GMT"
     },
     {
-      "title": "박종범의 ‘경제 네트워크 외교’, 선양의 불씨 선전으로 잇는다",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pN283dHVNdHRsUHFKaVIxSWNRZXYyRVVNdk83a0UyOC1YQkdiTUhkNXVJeU5hSFpVX1VDb2RHVmk0dmI4QnBQQmE3Z3dmN2V5RVRQblFhOERoeFhqTXJhSFRZd3pHUm5RUDlfbQ?oc=5",
-      "source": "재외동포신문",
-      "date": "Fri, 25 Sep 2026 09:27:04 GMT"
+      "title": "대만 노리는 중국, 4연임 앞둔 시진핑의 딜레마 [경제적본능]",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TM053ZzRJVWZGQWpqNWdTaEQ5Wlg4enlrd2VpN2xEUkdZdTBYa3lEMTVLWElqcVJ4R2NXMmt6VWhkZFloRXJ4aS1udUhJU3c?oc=5",
+      "source": "v.daum.net",
+      "date": "Fri, 25 Sep 2026 20:03:18 GMT"
     },
     {
-      "title": "시진핑, 트럼프의 극진한 환대에도…원했던 것 모두 얻지는 못했다",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBX1hZUDZwUTkyMG9HUUVRNWM3Ti1nem12X3g3eVdmSDJSY0x6SzBudEk3bV9OWTZNb3BWX2c2OGh0bGdFX2d4MjhqU3ZrbXJWOTl6RkVPZXVNT3k5TlHSAWNBVV95cUxNODl6cWZiWl9uTngtVC1aSkdqUl9fbENyeGVqMXVxS2htSzlRMmdlYkk1U2pSRlJXcEo4LS1MWGVEcnZVeDRHejNkMlpRM0dUTnlIOXlnaTRrOXB2TkF4dElNbTQ?oc=5",
-      "source": "bbc.com",
-      "date": "Fri, 25 Sep 2026 09:15:55 GMT"
-    },
-    {
-      "title": "시진핑 \"GDP만 볼 수 없다\"…전 인민은행 고문 \"경제 너무 차갑다\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ILVMxbktEclo2R05sbWNZYWx5cTVka2M3OEpvU20zelB2U1VWYU1xWFBJOTFSLUtfcHVEVUpQMy1YR2psakNrMTQ0OG5aR3dFODNYeTZSNW9manh2T1ZhR9IBeEFVX3lxTE5SUWVKclNCNkloRWhiaHd2WFItOUpoQVJMaDl2QnVqeDNBRHB0M3RIcUVOcHliYV9XVURhX0ZtVFI5Z0p3d3VjbVFKRmNyMGtOOXlJRVZfY3FTQmtHVWpUbUhUcVN3LUJiT2ZxTHotakF1Y2dxVEpOZA?oc=5",
-      "source": "뉴시스",
-      "date": "Thu, 24 Sep 2026 08:10:12 GMT"
+      "title": "\"왜 중국 대신 한국 선택해야 하나\"…정부가 꺼낸 '비장의 카드'",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84Y3YxMHJIMUZwUHBaZjRhR2VfaS1SbmEwV2puUmo5NjRGQm1KNFFsWHRDQURabXBJdUgxN1lfeXNIbnJJbzdXV0tSY0Y1NHNXeW16ZHNqS2pXQQ?oc=5",
+      "source": "한국경제",
+      "date": "Fri, 25 Sep 2026 07:08:29 GMT"
     },
     {
       "title": "2026년 8월 중국경제 동향과 전망",
