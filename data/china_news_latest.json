@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-09-27T10:10:04+09:00",
+  "run_at_kst": "2026-09-27T14:08:46+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "강원TP, 난징에 ‘강원도 상품전시관’ 구축…중국 판로 넓힌다",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FSUNaOXpzZGw3cm9zSjE0eW5QejB6QTFkVGZhbVNxdmFUTU9zMnZIWVpVc0NZYlBZeTdvS19yWHM3am1Eak10Z0JJbE9ZY0U3dkM0Qmx2ZmFmVHNkRDVNVHJqaENyWExM?oc=5",
+      "source": "강원도민일보",
+      "date": "Sun, 27 Sep 2026 02:00:21 GMT"
+    },
     {
       "title": "국경 하나 넘지 못한 715만 대 중국차, 베트남서 빈패스트 독주와 한일 정비망에 막히다",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdmNneVlRSFV5V0pUZk9MZWxXVWVwQ08zUXpxR1lQb2tENG56a1VnbnhkUUQ4SFhCVE1hejdVUU8zM1k1WkUtelV3V0kyMWtHREt0VnVLM3c3UWtkTlo4SDU2TE9YWVJzTHNxTUhqNk1LN0JBY2o4SEVNNFN2Zm16RjctMFZ4M0xV?oc=5",
@@ -20,7 +26,7 @@
     {
       "title": "\"중국, 이란에 '美 경제제재 동참 안 해' 입장 전달\"",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MbVB6NjhlYkdLR3lJbHpkMzU2Uzk5dUpnODJxQy1FRF9UQXBNN3NPWkFRc1g5eGMwekpfZUhiRlB3Z0l0OVpBWnB2RQ?oc=5",
-      "source": "아이뉴스24",
+      "source": "inews24.com",
       "date": "Sat, 26 Sep 2026 10:37:45 GMT"
     },
     {
@@ -30,15 +36,9 @@
       "date": "Sat, 26 Sep 2026 10:31:54 GMT"
     },
     {
-      "title": "[신간] \"중국의 동북, 우리의 북방\"…6년간 3만㎞ 누빈 현직 외교관의 기록",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZOF9OOVJucFMzeURUekkyamg0N1ZvV3dXX3l3Z25SWkZWWk9MeDRUb09kRzA0RktpdXdxX0g1LUNQRldKOUZZdWhacTR2dlU?oc=5",
-      "source": "v.daum.net",
-      "date": "Sat, 26 Sep 2026 07:57:15 GMT"
-    },
-    {
       "title": "중국자본 침공에 질식하는 제주? 진실은 무엇일까?",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QaXVBaGVkUk05YVAwdTA1eVBzZWhsUFBWaVlKUzh4bnc1QW5raTNpM2VlQzIybmF0akVzdkdaS2xpTk4tT3p1TkJJQnFlQzNvamxjdElDOFU2S2FzTFl0cEl4SWRJV2lHdXVJ?oc=5",
-      "source": "jejusori.net",
+      "source": "제주의소리",
       "date": "Sat, 26 Sep 2026 02:40:00 GMT"
     },
     {
@@ -50,7 +50,7 @@
     {
       "title": "시진핑, 트럼프의 극진한 환대에도…원했던 것 모두 얻지는 못했다",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBX1hZUDZwUTkyMG9HUUVRNWM3Ti1nem12X3g3eVdmSDJSY0x6SzBudEk3bV9OWTZNb3BWX2c2OGh0bGdFX2d4MjhqU3ZrbXJWOTl6RkVPZXVNT3k5TlHSAWNBVV95cUxNODl6cWZiWl9uTngtVC1aSkdqUl9fbENyeGVqMXVxS2htSzlRMmdlYkk1U2pSRlJXcEo4LS1MWGVEcnZVeDRHejNkMlpRM0dUTnlIOXlnaTRrOXB2TkF4dElNbTQ?oc=5",
-      "source": "BBC",
+      "source": "bbc.com",
       "date": "Fri, 25 Sep 2026 09:15:55 GMT"
     },
     {
@@ -74,7 +74,7 @@
     {
       "title": "\"다음 글로벌 경제위기는 중국에서 시작될 것\" - 머니투데이",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43aFF3cEtoOTBMZzlLYWtiMFlHMmNwQ0pzdEpqMm8zZS1jNDJLUmdLSFJRS0VNSl9FeDNUZ1NYcTRTdGJUUHQ4RDZqYXVsX2dvMlR5S1BaWUlXc1Y2V3ZmaG1GUzNpeUdP0gFuQVVfeXFMT1V6X0g4TkV6Rk05ek9yZlZiVnYwTHNZTGY3M0RNT1RSVjVNVWd2Mi1rVWxJSlB2c0RfajFIdDFoUXJoUW9tcWVaU3dBaGRaWXM4aXo1VWgyaGJqTHA4VHJROUFvcW44Q092QUtHTEE?oc=5",
-      "source": "mt.co.kr",
+      "source": "머니투데이",
       "date": "Sun, 30 Aug 2026 07:00:00 GMT"
     }
   ]
