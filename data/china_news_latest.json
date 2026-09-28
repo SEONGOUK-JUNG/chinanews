@@ -1,39 +1,45 @@
 {
-  "run_at_kst": "2026-09-28T07:20:04+09:00",
+  "run_at_kst": "2026-09-28T10:10:07+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "[중국증시] \"AI에 밀린 마오타이\" 中소비주 '잃어버린 10년' 맞이하나",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NbXRGLXdCa3pFTk9JdTdFdVNSTVg1REZoOHJ5RDQ5V2JncklRRy1lU1Z0ZTZFT3hTZVNxazM2TGd1NTg3aU13NjRoR0FCSTg?oc=5",
+      "title": "30개 도시 3만㎞ 답사…현직 총영사가 다시 쓴 중국 동북",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MenZoa1R0ekFqd2dGd0dUQ1psVWZ2TUw3clNEMDNlQ3I2OGlldS0xWnFib09YZHpITjZWdFBmc1N4SFJWRUl3YjVLODhpRTA?oc=5",
       "source": "v.daum.net",
-      "date": "Sun, 27 Sep 2026 07:51:00 GMT"
+      "date": "Mon, 28 Sep 2026 00:42:41 GMT"
     },
     {
-      "title": "강원TP, 난징에 ‘강원도 상품전시관’ 구축…중국 판로 넓힌다",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5ZU1mYjhqbzg2RjdWMnMtTmJIQXo1SWtya0tMYzMzdTJzbG96bGRIckxxNmtBMnpJQ1MwWE54bDhwOGpnTDNfQ0FMOW1wZHFieE9pQmlKQ1E2NUl0bWticlpwanQ1VU0?oc=5",
-      "source": "강원도민일보",
-      "date": "Sun, 27 Sep 2026 02:00:21 GMT"
+      "title": "정상회담 종료후 중국 \"미국이 약속 이행할지 지켜볼 것\"",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wWXlFUlJVQWMxMi1KOWRzTVZpMkZXUXdNUFg0S3RrTi1SckI3OS04V0lNbmJ2algwcFRRNGtYdDlDWTk2OEtwMGNVQzFGMG8?oc=5",
+      "source": "v.daum.net",
+      "date": "Mon, 28 Sep 2026 00:27:52 GMT"
     },
     {
-      "title": "미국이 싫어도 중국은 못 믿겠다…중동이 마주한 'G2의 딜레마'",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00eHl1RnpOUk9zU0xFNzBwYlNCTzFWNkxHX0FJQ0owZndpWW4yY0hpUnJKazViX21FWHpIX2twSFQwbG9YS3JSQUFVSElObmdSYWxGUnUwaVoxQQ?oc=5",
+      "title": "리튬 대안 나트륨 배터리…서방보다 먼저 치고 나간 중국",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6ZlZXOWFmZW5FejJsMGprSWkwVEozLWdjajhTeEZFb1JRYXNBTTRpV2stbTZONkVWRmFqNWdyNWRqOWlHeldmdEJzT29QaWpRU2hiVjE5cTBmUQ?oc=5",
       "source": "한국경제",
-      "date": "Sat, 26 Sep 2026 23:00:10 GMT"
+      "date": "Sun, 27 Sep 2026 23:58:29 GMT"
+    },
+    {
+      "title": "[중국증시] AI에 밀린 마오타이 中소비주 잃어버린 10년 맞이하나",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBakd2SVFhZUhPZGFRS2FsWFlBLVFSWWptU250aDRGSTBkbWVHUHhWMUdvRHhIWXhZX2llM29ZODR5NnF1Zlg2eE80UGdrN2pkSjJnTmpTWnpKQdIBWEFVX3lxTE5hVm1HUFlfQzF2OFJjUHBFWWFRTmRSelA1eEFCdGQyNU0xSDNBZGhoVXZ6Y3RRZXFKQzlheElSSS1OamhERlRTcDExVmQ1ZjJTOXFscng5QnE?oc=5",
+      "source": "ajunews.com",
+      "date": "Sun, 27 Sep 2026 07:50:55 GMT"
+    },
+    {
+      "title": "시진핑 국빈 만찬에 ‘중국 기업인’ 빠진 이유는",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vZ1ZtRTVNNl81ajUxZjRrb0ZOTDh3RWw4M0hXb2MxZXVQcEhaVXVIZ3ZXYV92eG5vbmVGVlozRTR2aVpJMzZ3NWJBZ2s5WGRJWFE?oc=5",
+      "source": "매일경제",
+      "date": "Sun, 27 Sep 2026 05:11:37 GMT"
     },
     {
       "title": "국경 하나 넘지 못한 715만 대 중국차, 베트남서 빈패스트 독주와 한일 정비망에 막히다",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdmNneVlRSFV5V0pUZk9MZWxXVWVwQ08zUXpxR1lQb2tENG56a1VnbnhkUUQ4SFhCVE1hejdVUU8zM1k1WkUtelV3V0kyMWtHREt0VnVLM3c3UWtkTlo4SDU2TE9YWVJzTHNxTUhqNk1LN0JBY2o4SEVNNFN2Zm16RjctMFZ4M0xV?oc=5",
       "source": "글로벌이코노믹",
       "date": "Sat, 26 Sep 2026 18:45:00 GMT"
-    },
-    {
-      "title": "＂중국, 미국 대이란 경제제재 따르지 않겠다…이란에 입장 전달＂",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ibjd6ZFYzRldCZXlGa1h6ZGo3WkhzTEUyNW9JT09xd0Ezc1pZQlJRR3U1OG1nOFpPTHg1b21OTHhjcC0wTlFiSEhoM2VFcUlMLUo2MmhfQ21vaktYdFhNYk83eUV1dlBab2FpZi15ckxZSWJpNFhF?oc=5",
-      "source": "한국경제TV",
-      "date": "Sat, 26 Sep 2026 10:31:54 GMT"
     },
     {
       "title": "중국자본 침공에 질식하는 제주? 진실은 무엇일까?",
@@ -46,12 +52,6 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMmpHZVFkNG9TSVFfa1I0NjZXeTNVaUx4TnhJWklGQVY3bG9MLTY3RGJfWTl6TDZXb0EtbWxUZXNEMDd6b0NJQkMzQllIdVNTX3VDbG10amJMaUlndDdZOU4xN1hHYkdQTldXTTNScnl1R3Q0LTMxSHhFVzlWbzBnNg?oc=5",
       "source": "edaily.co.kr",
       "date": "Fri, 25 Sep 2026 14:54:08 GMT"
-    },
-    {
-      "title": "박종범의 ‘경제 네트워크 외교’, 선양의 불씨 선전으로 잇는다",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pN283dHVNdHRsUHFKaVIxSWNRZXYyRVVNdk83a0UyOC1YQkdiTUhkNXVJeU5hSFpVX1VDb2RHVmk0dmI4QnBQQmE3Z3dmN2V5RVRQblFhOERoeFhqTXJhSFRZd3pHUm5RUDlfbQ?oc=5",
-      "source": "재외동포신문",
-      "date": "Fri, 25 Sep 2026 09:27:04 GMT"
     },
     {
       "title": "2026년 8월 중국경제 동향과 전망",

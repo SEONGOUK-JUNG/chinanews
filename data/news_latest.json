@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-28T07:07:53+09:00",
+  "run_at_kst": "2026-09-28T10:10:07+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Venezuela’s Oil Comeback Could Cost More Than $100 Billion",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Comeback-Could-Cost-More-Than-100-Billion.html",
+      "source": "OilPrice",
+      "date": "Sun, 27 Sep 2026 18:00:00 -0500"
+    },
     {
       "title": "NGOs warn Donlin mine spill could devastate region",
       "link": "https://www.mining.com/ngos-warn-donlin-mine-spill-could-devastate-region/",
@@ -60,12 +66,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/North-Carolina-Regulators-Reject-Duke-Energy-Gas-Power-Plant.html",
       "source": "OilPrice",
       "date": "Sat, 26 Sep 2026 10:00:00 -0500"
-    },
-    {
-      "title": "Nigeria Joins IEA As Crude Output Hits Six-Year High",
-      "link": "https://oilprice.com/Energy/Energy-General/Nigeria-Joins-IEA-As-Crude-Output-Hits-Six-Year-High.html",
-      "source": "OilPrice",
-      "date": "Fri, 25 Sep 2026 17:00:00 -0500"
     },
     {
       "title": "North America is building rare earth plants faster than it is building rare earth engineers",
