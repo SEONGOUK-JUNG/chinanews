@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-29T07:08:06+09:00",
+  "run_at_kst": "2026-09-29T07:20:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -44,7 +44,7 @@
     {
       "title": "중국, 반미 행보 니카라과 금광 줍줍",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tVlJBV21aX3BjWWpzTlFBM052STZHVFdkOTlvamlHdFFFdnlBUVJ6TjdGZzdveTgzeWtlRDF2dG15UWNNbklHVzRtS2lIdTFBYngzaEVWLWxnQdIBWEFVX3lxTE43QkxCYUxsbzZCYmlLUVNkZUZMaDktRm9KQkFzNVotcFc1VmxpSzlmT1RzLVp6TUNlNnJKSmt5NEZhM21kaklxc0JCbHp5OVB3SVlWVDRmeEk?oc=5",
-      "source": "아주경제",
+      "source": "ajunews.com",
       "date": "Mon, 28 Sep 2026 01:18:44 GMT"
     },
     {
@@ -56,7 +56,7 @@
     {
       "title": "시진핑 국빈 만찬에 ‘중국 기업인’ 빠진 이유는",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vZ1ZtRTVNNl81ajUxZjRrb0ZOTDh3RWw4M0hXb2MxZXVQcEhaVXVIZ3ZXYV92eG5vbmVGVlozRTR2aVpJMzZ3NWJBZ2s5WGRJWFE?oc=5",
-      "source": "mk.co.kr",
+      "source": "매일경제",
       "date": "Sun, 27 Sep 2026 05:11:37 GMT"
     },
     {
