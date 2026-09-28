@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-28T10:10:07+09:00",
+  "run_at_kst": "2026-09-28T20:08:01+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "TotalEnergies Targets 3% Annual Oil and Gas Growth Through 2030",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-Targets-3-Annual-Oil-and-Gas-Growth-Through-2030.html",
+      "source": "OilPrice",
+      "date": "Mon, 28 Sep 2026 05:30:00 -0500"
+    },
+    {
+      "title": "Germany's Gas Storage Sits at 57%, but VNG Says Winter Supply Is Covered",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Germanys-Gas-Storage-Sits-at-57-but-VNG-Says-Winter-Supply-Is-Covered.html",
+      "source": "OilPrice",
+      "date": "Mon, 28 Sep 2026 04:00:00 -0500"
+    },
+    {
+      "title": "Goldman Warns Diesel Export Ban Would Send Gasoline Prices Higher",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Warns-Diesel-Export-Ban-Would-Send-Gasoline-Prices-Higher.html",
+      "source": "OilPrice",
+      "date": "Mon, 28 Sep 2026 03:00:00 -0500"
+    },
+    {
+      "title": "Middle East Oil Exports Rebound to 12.8 Million Bpd",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Middle-East-Oil-Exports-Rebound-to-128-Million-Bpd.html",
+      "source": "OilPrice",
+      "date": "Mon, 28 Sep 2026 02:00:00 -0500"
+    },
+    {
+      "title": "Oil Prices Jump 3% on Rekindled War Fears",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Moves-Higher-on-Rekindled-War-Fears.html",
+      "source": "OilPrice",
+      "date": "Mon, 28 Sep 2026 00:37:00 -0500"
+    },
     {
       "title": "Venezuela’s Oil Comeback Could Cost More Than $100 Billion",
       "link": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Comeback-Could-Cost-More-Than-100-Billion.html",
@@ -36,36 +66,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/The-AI-Data-Center-Boom-Faces-a-New-Reality-Check.html",
       "source": "OilPrice",
       "date": "Sun, 27 Sep 2026 12:00:00 -0500"
-    },
-    {
-      "title": "EPA Power Plant Rollback To Add 123 Million More Tons of CO2",
-      "link": "https://oilprice.com/Energy/Energy-General/EPA-Power-Plant-Rollback-To-Add-123-Million-More-Tons-of-CO2.html",
-      "source": "OilPrice",
-      "date": "Sun, 27 Sep 2026 10:00:00 -0500"
-    },
-    {
-      "title": "Global Gas Squeeze Could Last Through Next Summer",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Global-Gas-Squeeze-Could-Last-Through-Next-Summer.html",
-      "source": "OilPrice",
-      "date": "Sat, 26 Sep 2026 18:00:00 -0500"
-    },
-    {
-      "title": "Brazil's Energy Mix Goes Green Even As Oil Production Climbs",
-      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Brazils-Energy-Mix-Goes-Green-Even-As-Oil-Production-Climbs.html",
-      "source": "OilPrice",
-      "date": "Sat, 26 Sep 2026 14:00:00 -0500"
-    },
-    {
-      "title": "Calls to Overhaul the UN Security Council Gain New Momentum",
-      "link": "https://oilprice.com/Geopolitics/International/Calls-to-Overhaul-the-UN-Security-Council-Gain-New-Momentum.html",
-      "source": "OilPrice",
-      "date": "Sat, 26 Sep 2026 12:00:00 -0500"
-    },
-    {
-      "title": "North Carolina Regulators Reject Duke Energy Gas Power Plant",
-      "link": "https://oilprice.com/Energy/Energy-General/North-Carolina-Regulators-Reject-Duke-Energy-Gas-Power-Plant.html",
-      "source": "OilPrice",
-      "date": "Sat, 26 Sep 2026 10:00:00 -0500"
     },
     {
       "title": "North America is building rare earth plants faster than it is building rare earth engineers",

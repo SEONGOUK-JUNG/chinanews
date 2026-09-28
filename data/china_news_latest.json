@@ -1,44 +1,50 @@
 {
-  "run_at_kst": "2026-09-28T14:08:00+09:00",
+  "run_at_kst": "2026-09-28T20:08:01+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "하동 밤 20t 중국 수출 첫 선적",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TWHhYQXRFdi1DenFHV3lXWk5BYkZIWDNwZ1p3czVKR3B0aDRBcy03OTg4QW5RY2dZYjYzQ2hfXzZJc2NkM25rcGdWQ2FGUkRVSDhWM0xKMlJaMW5udEVhSXFVWWMzVFllLVM4WlJlSQ?oc=5",
-      "source": "하동뉴스",
-      "date": "Mon, 28 Sep 2026 02:26:30 GMT"
+      "title": "제주인디 화장품, 제주-칭다오 항로 타고 중국 첫 수출",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tV19ReWdFOG96TW9XcV9wZWhSREw3aWpvWjdKUllYUnJTM2lBLU1TeVBVS1FxZmw5RTlya1NwMjItWFZ2Wk15SzNOZmpMQzljbEstWnNaUGRKUndhdDZKajZhbFpTQQ?oc=5",
+      "source": "제민일보",
+      "date": "Mon, 28 Sep 2026 07:19:11 GMT"
     },
     {
-      "title": "미국과 중국, 부자를 다루는 두 가지 방식",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YYXJaSkt4MHYwYWx0VDRBTWE5XzdiN2FQaFRCVGllbUlJYzR0UUdWUk5MQkgxVDVzMjBwek16bHU4VF9lZ0MzQWZvUEVoVUJHYUMwVm5MOGtJQQ?oc=5",
-      "source": "참세상",
-      "date": "Mon, 28 Sep 2026 02:17:00 GMT"
+      "title": "중국 상호관세 인하품목 공개···미 농산물, 중국 완구 포함",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KbEg0UHRtMEdvaXBrR3pZT0ZDU1N1b2NQSDNPV0RueWQ4UWpJWGxhazItQ1l2Z1NDTzMtTEZYNmIwU3hsd2RNdTNDdnNRSFpnYWFxSWozX3RQUdIBX0FVX3lxTE1UeExyQkVoR1FBOUJGODhpS3prYVlWbzMySFpXWXNUSVZqM0dYV0hHV2JBNjcxeXVnd2ZzMVNmWDAteTVPaFFPU3phNUw4MkNPRG1LakJGVkc5bUU0UDBZ?oc=5",
+      "source": "경향신문",
+      "date": "Mon, 28 Sep 2026 06:56:00 GMT"
     },
     {
-      "title": "[경제] 미·중무역전국위원회 회장 \"美∙中 경제무역 관계, 없어서는 안 될 매우 중요한 관계\"",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xcGFCV2o1QzJWRExsMGJVWHVIRVRpNThHVXVVbG9uVVB4cm8xa3FYRkY0WWk3M0Mxa3NIR1JxV1RNZUN6WnYxOWE3QW11N0JRT2JNZTkwaHhtR2NzY0VkWWJIcG01aXZoTmRUQlU5X3I4NWc?oc=5",
-      "source": "동방일보",
-      "date": "Mon, 28 Sep 2026 02:09:18 GMT"
+      "title": "중·일 갈등 속…일본 전 외무상, 민간 경제사절단 이끌고 중국 방문",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcGp5ZE5CVmZiSVdWcm1LQjA1R2RVeFBBSmFNWElVQlY1TWp1YXh4Nll1dFlLY0NHYXNXYm5nNHYyLWQxQTcxaE9SLXBtbi1IMTJZLVFjdTlQTUk1NnZHd09vanNqV01YaXduM3g3d1A3TDlEN2FScDJvRk9SZEVvejN3?oc=5",
+      "source": "한겨레",
+      "date": "Mon, 28 Sep 2026 06:51:00 GMT"
     },
     {
-      "title": "중국 소비주 ‘잃어버린 10년’…소비 부진에 빛바랜 낙관론",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZnNwQXppTWpKd2VOTVlXR0tITVJCRzlHUkg3aHVyNi1qeV9ac3hNd1NnMkgyRFhIaHo1UGZHMi1va0FYZkE1Q3VMMzlZYUJZT2ZMbzNZYVhhN0hkSlYtbDdtTjVSZ1h5ejdzTHpEdXV6ZXNRWWNYMW84Q2JnWnhNYQ?oc=5",
-      "source": "edaily.co.kr",
-      "date": "Mon, 28 Sep 2026 01:28:52 GMT"
+      "title": "중·일 갈등 속…일본 전 외무상, 민간 경제사절단 이끌고 중국 방문",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5VnBCSGExcFE4djhhUWlObEpJMG9kWHNKcy04dllRMWlMODR1QW1qeW5TYUVVZ1IyeEdFdlhBOWlLMVBTYzhQQ0JZQ2JiTmM?oc=5",
+      "source": "v.daum.net",
+      "date": "Mon, 28 Sep 2026 06:46:31 GMT"
     },
     {
-      "title": "中, 8월 산업생산 소폭 반등...내수 부진에 부문간 차별화 지속\"",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tQTJUUFZaN3ppZmN4YVRQWU0wM3FaclFaZHUwYW5KdnNCZ3NESUdpaFVFVVVoYXRHN0JvZWlubzV1M2JBRV9rdXUxN0sxQnJjS2RSY21sM2dUY05Pb2liQTJJQ210Qk1KWURv?oc=5",
-      "source": "파이낸셜신문",
-      "date": "Mon, 28 Sep 2026 01:28:00 GMT"
+      "title": "중국 1~8월 공업이익, 15.7% 증가⋯내수 부진에 성장 둔화",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aZ3IyRVJRSE1ncEY2aERmcGlnQmdLLUZHb0JSdnM1UWVHODNzcm1yeFRSUHpraGlwODI3cm5IZk5yanlDaVA1YlBQS2tuODVjT2VqWVc3Wmw4bFZVT3FMOHFPTFV0U1dseXJoSkIyUDBaVHhF?oc=5",
+      "source": "이투데이",
+      "date": "Mon, 28 Sep 2026 06:24:00 GMT"
+    },
+    {
+      "title": "[화요초대석-전병서] \"AI시대 희토류의 나라\"가 칩 플루로 망하는 법",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhVHViclRVdUFxX2hjLTRmcHE3UVpWVGtHUl9DUkFUaEZOdzU5dnhVa25BRUxQV0VhUnZ6TnVKTnFXT01VMmtaT1Y2M0tNUnQ1aUNza3c4Q2pNaWgwYXFEVjhR?oc=5",
+      "source": "매일신문",
+      "date": "Mon, 28 Sep 2026 05:30:00 GMT"
     },
     {
       "title": "중국, 반미 행보 니카라과 금광 줍줍",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tVlJBV21aX3BjWWpzTlFBM052STZHVFdkOTlvamlHdFFFdnlBUVJ6TjdGZzdveTgzeWtlRDF2dG15UWNNbklHVzRtS2lIdTFBYngzaEVWLWxnQdIBWEFVX3lxTE43QkxCYUxsbzZCYmlLUVNkZUZMaDktRm9KQkFzNVotcFc1VmxpSzlmT1RzLVp6TUNlNnJKSmt5NEZhM21kaklxc0JCbHp5OVB3SVlWVDRmeEk?oc=5",
-      "source": "ajunews.com",
+      "source": "아주경제",
       "date": "Mon, 28 Sep 2026 01:18:44 GMT"
     },
     {
@@ -48,34 +54,28 @@
       "date": "Mon, 28 Sep 2026 00:27:52 GMT"
     },
     {
-      "title": "리튬 대안 나트륨 배터리…서방보다 먼저 치고 나간 중국",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6ZlZXOWFmZW5FejJsMGprSWkwVEozLWdjajhTeEZFb1JRYXNBTTRpV2stbTZONkVWRmFqNWdyNWRqOWlHeldmdEJzT29QaWpRU2hiVjE5cTBmUQ?oc=5",
+      "title": "시진핑 국빈 만찬에 ‘중국 기업인’ 빠진 이유는",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vZ1ZtRTVNNl81ajUxZjRrb0ZOTDh3RWw4M0hXb2MxZXVQcEhaVXVIZ3ZXYV92eG5vbmVGVlozRTR2aVpJMzZ3NWJBZ2s5WGRJWFE?oc=5",
+      "source": "매일경제",
+      "date": "Sun, 27 Sep 2026 05:11:37 GMT"
+    },
+    {
+      "title": "미국이 싫어도 중국은 못 믿겠다…중동이 마주한 'G2의 딜레마'",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00eHl1RnpOUk9zU0xFNzBwYlNCTzFWNkxHX0FJQ0owZndpWW4yY0hpUnJKazViX21FWHpIX2twSFQwbG9YS3JSQUFVSElObmdSYWxGUnUwaVoxQQ?oc=5",
       "source": "한국경제",
-      "date": "Sun, 27 Sep 2026 23:58:29 GMT"
+      "date": "Sat, 26 Sep 2026 23:00:10 GMT"
     },
     {
-      "title": "중국 상무부, 제8차 중·미 경제무역 협의 성과 소개",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEQ2NHZ0E4a3hZQ0tJcU05MXM5MHUxY3ZwQ2kzazZuR0F2VkRUSGJWRXBraGJzTG5Ta1liOXNqZFZHdnljNmVkcXN0YW5DVEhWNTRZdGloT2dEcDYzNXdBMXJiTQ?oc=5",
-      "source": "CGTN",
-      "date": "Sun, 27 Sep 2026 11:07:46 GMT"
+      "title": "[속보] \"중국, 미국 대이란 경제제재 따르지 않겠다…이란에 입장 전달\"",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qeVQwUXNidE42LVd5dU9qT0ZILTgwZkM3ZjBPTFJ6V3I4RjQ4UVgzVGNxOU9SNTdJU2swRkozMkV4LWZjRWdhaksxOFprV3c?oc=5",
+      "source": "v.daum.net",
+      "date": "Sat, 26 Sep 2026 10:10:52 GMT"
     },
     {
-      "title": "중국자본 침공에 질식하는 제주? 진실은 무엇일까?",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QaXVBaGVkUk05YVAwdTA1eVBzZWhsUFBWaVlKUzh4bnc1QW5raTNpM2VlQzIybmF0akVzdkdaS2xpTk4tT3p1TkJJQnFlQzNvamxjdElDOFU2S2FzTFl0cEl4SWRJV2lHdXVJ?oc=5",
-      "source": "제주의소리",
-      "date": "Sat, 26 Sep 2026 02:40:00 GMT"
-    },
-    {
-      "title": "2026년 8월 중국경제 동향과 전망",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUEU1cWdEelIxWlFSUHJaNUkzZFF5aEtxQ3NMbGVWaThvUDBDNlhkZlFkUUNrQVZtOUdhRVVrSXdrR180VmFBS29xWkFpUkhwYTBBSWpDVzNjQk1jVlNZX05rbFR2cWJXTFpjb0tmRXVmUW1TazdlYjhGNWhRd0d5Nw?oc=5",
-      "source": "KDI 경제교육·정보센터",
-      "date": "Wed, 23 Sep 2026 08:33:13 GMT"
-    },
-    {
-      "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Wed, 23 Sep 2026 07:00:00 GMT"
+      "title": "\"왜 중국 대신 한국 선택해야 하나\"…정부가 꺼낸 '비장의 카드'",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84Y3YxMHJIMUZwUHBaZjRhR2VfaS1SbmEwV2puUmo5NjRGQm1KNFFsWHRDQURabXBJdUgxN1lfeXNIbnJJbzdXV0tSY0Y1NHNXeW16ZHNqS2pXQQ?oc=5",
+      "source": "한국경제",
+      "date": "Fri, 25 Sep 2026 07:08:29 GMT"
     }
   ]
 }
