@@ -1,15 +1,45 @@
 {
-  "run_at_kst": "2026-09-28T10:10:07+09:00",
+  "run_at_kst": "2026-09-28T14:08:00+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "30개 도시 3만㎞ 답사…현직 총영사가 다시 쓴 중국 동북",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MenZoa1R0ekFqd2dGd0dUQ1psVWZ2TUw3clNEMDNlQ3I2OGlldS0xWnFib09YZHpITjZWdFBmc1N4SFJWRUl3YjVLODhpRTA?oc=5",
-      "source": "v.daum.net",
-      "date": "Mon, 28 Sep 2026 00:42:41 GMT"
+      "title": "하동 밤 20t 중국 수출 첫 선적",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TWHhYQXRFdi1DenFHV3lXWk5BYkZIWDNwZ1p3czVKR3B0aDRBcy03OTg4QW5RY2dZYjYzQ2hfXzZJc2NkM25rcGdWQ2FGUkRVSDhWM0xKMlJaMW5udEVhSXFVWWMzVFllLVM4WlJlSQ?oc=5",
+      "source": "하동뉴스",
+      "date": "Mon, 28 Sep 2026 02:26:30 GMT"
+    },
+    {
+      "title": "미국과 중국, 부자를 다루는 두 가지 방식",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YYXJaSkt4MHYwYWx0VDRBTWE5XzdiN2FQaFRCVGllbUlJYzR0UUdWUk5MQkgxVDVzMjBwek16bHU4VF9lZ0MzQWZvUEVoVUJHYUMwVm5MOGtJQQ?oc=5",
+      "source": "참세상",
+      "date": "Mon, 28 Sep 2026 02:17:00 GMT"
+    },
+    {
+      "title": "[경제] 미·중무역전국위원회 회장 \"美∙中 경제무역 관계, 없어서는 안 될 매우 중요한 관계\"",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xcGFCV2o1QzJWRExsMGJVWHVIRVRpNThHVXVVbG9uVVB4cm8xa3FYRkY0WWk3M0Mxa3NIR1JxV1RNZUN6WnYxOWE3QW11N0JRT2JNZTkwaHhtR2NzY0VkWWJIcG01aXZoTmRUQlU5X3I4NWc?oc=5",
+      "source": "동방일보",
+      "date": "Mon, 28 Sep 2026 02:09:18 GMT"
+    },
+    {
+      "title": "중국 소비주 ‘잃어버린 10년’…소비 부진에 빛바랜 낙관론",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZnNwQXppTWpKd2VOTVlXR0tITVJCRzlHUkg3aHVyNi1qeV9ac3hNd1NnMkgyRFhIaHo1UGZHMi1va0FYZkE1Q3VMMzlZYUJZT2ZMbzNZYVhhN0hkSlYtbDdtTjVSZ1h5ejdzTHpEdXV6ZXNRWWNYMW84Q2JnWnhNYQ?oc=5",
+      "source": "edaily.co.kr",
+      "date": "Mon, 28 Sep 2026 01:28:52 GMT"
+    },
+    {
+      "title": "中, 8월 산업생산 소폭 반등...내수 부진에 부문간 차별화 지속\"",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tQTJUUFZaN3ppZmN4YVRQWU0wM3FaclFaZHUwYW5KdnNCZ3NESUdpaFVFVVVoYXRHN0JvZWlubzV1M2JBRV9rdXUxN0sxQnJjS2RSY21sM2dUY05Pb2liQTJJQ210Qk1KWURv?oc=5",
+      "source": "파이낸셜신문",
+      "date": "Mon, 28 Sep 2026 01:28:00 GMT"
+    },
+    {
+      "title": "중국, 반미 행보 니카라과 금광 줍줍",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tVlJBV21aX3BjWWpzTlFBM052STZHVFdkOTlvamlHdFFFdnlBUVJ6TjdGZzdveTgzeWtlRDF2dG15UWNNbklHVzRtS2lIdTFBYngzaEVWLWxnQdIBWEFVX3lxTE43QkxCYUxsbzZCYmlLUVNkZUZMaDktRm9KQkFzNVotcFc1VmxpSzlmT1RzLVp6TUNlNnJKSmt5NEZhM21kaklxc0JCbHp5OVB3SVlWVDRmeEk?oc=5",
+      "source": "ajunews.com",
+      "date": "Mon, 28 Sep 2026 01:18:44 GMT"
     },
     {
       "title": "정상회담 종료후 중국 \"미국이 약속 이행할지 지켜볼 것\"",
@@ -24,34 +54,16 @@
       "date": "Sun, 27 Sep 2026 23:58:29 GMT"
     },
     {
-      "title": "[중국증시] AI에 밀린 마오타이 中소비주 잃어버린 10년 맞이하나",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBakd2SVFhZUhPZGFRS2FsWFlBLVFSWWptU250aDRGSTBkbWVHUHhWMUdvRHhIWXhZX2llM29ZODR5NnF1Zlg2eE80UGdrN2pkSjJnTmpTWnpKQdIBWEFVX3lxTE5hVm1HUFlfQzF2OFJjUHBFWWFRTmRSelA1eEFCdGQyNU0xSDNBZGhoVXZ6Y3RRZXFKQzlheElSSS1OamhERlRTcDExVmQ1ZjJTOXFscng5QnE?oc=5",
-      "source": "ajunews.com",
-      "date": "Sun, 27 Sep 2026 07:50:55 GMT"
-    },
-    {
-      "title": "시진핑 국빈 만찬에 ‘중국 기업인’ 빠진 이유는",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vZ1ZtRTVNNl81ajUxZjRrb0ZOTDh3RWw4M0hXb2MxZXVQcEhaVXVIZ3ZXYV92eG5vbmVGVlozRTR2aVpJMzZ3NWJBZ2s5WGRJWFE?oc=5",
-      "source": "매일경제",
-      "date": "Sun, 27 Sep 2026 05:11:37 GMT"
-    },
-    {
-      "title": "국경 하나 넘지 못한 715만 대 중국차, 베트남서 빈패스트 독주와 한일 정비망에 막히다",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdmNneVlRSFV5V0pUZk9MZWxXVWVwQ08zUXpxR1lQb2tENG56a1VnbnhkUUQ4SFhCVE1hejdVUU8zM1k1WkUtelV3V0kyMWtHREt0VnVLM3c3UWtkTlo4SDU2TE9YWVJzTHNxTUhqNk1LN0JBY2o4SEVNNFN2Zm16RjctMFZ4M0xV?oc=5",
-      "source": "글로벌이코노믹",
-      "date": "Sat, 26 Sep 2026 18:45:00 GMT"
+      "title": "중국 상무부, 제8차 중·미 경제무역 협의 성과 소개",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEQ2NHZ0E4a3hZQ0tJcU05MXM5MHUxY3ZwQ2kzazZuR0F2VkRUSGJWRXBraGJzTG5Ta1liOXNqZFZHdnljNmVkcXN0YW5DVEhWNTRZdGloT2dEcDYzNXdBMXJiTQ?oc=5",
+      "source": "CGTN",
+      "date": "Sun, 27 Sep 2026 11:07:46 GMT"
     },
     {
       "title": "중국자본 침공에 질식하는 제주? 진실은 무엇일까?",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QaXVBaGVkUk05YVAwdTA1eVBzZWhsUFBWaVlKUzh4bnc1QW5raTNpM2VlQzIybmF0akVzdkdaS2xpTk4tT3p1TkJJQnFlQzNvamxjdElDOFU2S2FzTFl0cEl4SWRJV2lHdXVJ?oc=5",
       "source": "제주의소리",
       "date": "Sat, 26 Sep 2026 02:40:00 GMT"
-    },
-    {
-      "title": "美中 휴전으로 시간 번 중국…\"내수 수습·대미 의존 낮출 기회\"",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMmpHZVFkNG9TSVFfa1I0NjZXeTNVaUx4TnhJWklGQVY3bG9MLTY3RGJfWTl6TDZXb0EtbWxUZXNEMDd6b0NJQkMzQllIdVNTX3VDbG10amJMaUlndDdZOU4xN1hHYkdQTldXTTNScnl1R3Q0LTMxSHhFVzlWbzBnNg?oc=5",
-      "source": "edaily.co.kr",
-      "date": "Fri, 25 Sep 2026 14:54:08 GMT"
     },
     {
       "title": "2026년 8월 중국경제 동향과 전망",
@@ -64,18 +76,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
       "source": ":: 위즈경제 ::",
       "date": "Wed, 23 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "\"소비·복지 외면 중국 경제, 공산당 집권 기반 잠식\"-WP",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oSHhqOVNGYXM5ZEFEZTdlOHpscy1mSXloTVpYVzRwTFdteUhXc3kxZ0tybm9venJOMldDLTFnUDM3ekRZT0hmYnZNVUF4dzNUUGFJRTNBWXNkeTg2c3BnQdIBeEFVX3lxTE0xb0Q0bXBCVUdDSHBBaVlleVNvV2UwTFhIa1FKVDVRYkk1SnR0dkdJNUE1REhnaWcxWnlIR1hsSjJJWnJ0Y1lxUjFiekRWMjBrOXNablIwUV9jUkdQcDN6M3QwdTgwSXptcWJZWGhFUG1iTlNBZjI0Xw?oc=5",
-      "source": "뉴시스",
-      "date": "Tue, 22 Sep 2026 01:20:50 GMT"
-    },
-    {
-      "title": "\"다음 글로벌 경제위기는 중국에서 시작될 것\" - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43aFF3cEtoOTBMZzlLYWtiMFlHMmNwQ0pzdEpqMm8zZS1jNDJLUmdLSFJRS0VNSl9FeDNUZ1NYcTRTdGJUUHQ4RDZqYXVsX2dvMlR5S1BaWUlXc1Y2V3ZmaG1GUzNpeUdP0gFuQVVfeXFMT1V6X0g4TkV6Rk05ek9yZlZiVnYwTHNZTGY3M0RNT1RSVjVNVWd2Mi1rVWxJSlB2c0RfajFIdDFoUXJoUW9tcWVaU3dBaGRaWXM4aXo1VWgyaGJqTHA4VHJROUFvcW44Q092QUtHTEE?oc=5",
-      "source": "머니투데이",
-      "date": "Sun, 30 Aug 2026 07:00:00 GMT"
     }
   ]
 }
