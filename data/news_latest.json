@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-29T20:08:17+09:00",
+  "run_at_kst": "2026-09-30T07:20:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
-      "title": "Saudi Arabia Restarts Red Sea Crude Oil Loadings",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Restarts-Red-Sea-Crude-Oil-Loadings.html",
+      "title": "US Government Presents Regulatory Gift to Gas Automakers",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Government-Presents-Regulatory-Gift-to-Gas-Automakers.html",
       "source": "OilPrice",
-      "date": "Tue, 29 Sep 2026 05:30:00 -0500"
+      "date": "Tue, 29 Sep 2026 17:00:00 -0500"
     },
     {
-      "title": "India Unlikely to Ditch Russian Oil Despite Trump's 100% Tariff Threat",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Unlikely-to-Ditch-Russian-Oil-Despite-Trumps-100-Tariff-Threat.html",
+      "title": "US Distillate Stocks Continue to Fall As Crude Inventories Build",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Distillate-Stocks-Continue-to-Fall-As-Crude-Inventories-Build.html",
       "source": "OilPrice",
-      "date": "Tue, 29 Sep 2026 04:30:00 -0500"
+      "date": "Tue, 29 Sep 2026 16:02:23 -0500"
     },
     {
-      "title": "Argentina Threatens UK with Court Action Over Falklands Oil Drilling",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Argentina-Threatens-UK-with-Court-Action-Over-Falklands-Oil-Drilling.html",
+      "title": "White House Weighs Red-Dyed Diesel Relief as Fuel Prices Soar",
+      "link": "https://oilprice.com/Energy/Energy-General/White-House-Weighs-Red-Dyed-Diesel-Relief-as-Fuel-Prices-Soar.html",
       "source": "OilPrice",
-      "date": "Tue, 29 Sep 2026 03:00:00 -0500"
+      "date": "Tue, 29 Sep 2026 16:00:00 -0500"
     },
     {
-      "title": "China's LNG Imports Set for Second Straight Monthly Drop",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-LNG-Imports-Set-for-Second-Straight-Monthly-Drop.html",
+      "title": "California and the EU Move to Rein In the Environmental Cost of AI",
+      "link": "https://oilprice.com/Energy/Energy-General/California-and-the-EU-Move-to-Rein-In-the-Environmental-Cost-of-AI.html",
       "source": "OilPrice",
-      "date": "Tue, 29 Sep 2026 02:00:00 -0500"
+      "date": "Tue, 29 Sep 2026 15:00:00 -0500"
     },
     {
-      "title": "Oil Extends Rally Despite Higher Hormuz Volume Reports",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Extends-Rally-Despite-Higher-Hormuz-Volume-Reports.html",
-      "source": "OilPrice",
-      "date": "Tue, 29 Sep 2026 00:19:50 -0500"
-    },
-    {
-      "title": "Hormuz Rerouting Doubles Cape Traffic Without Delivering a Windfall",
-      "link": "https://oilprice.com/Energy/Energy-General/Hormuz-Rerouting-Doubles-Cape-Traffic-Without-Delivering-a-Windfall.html",
-      "source": "OilPrice",
-      "date": "Mon, 28 Sep 2026 19:00:00 -0500"
-    },
-    {
-      "title": "Strategic Minerals gets $9.2M Department of War funding for UK tungsten project",
-      "link": "https://www.mining.com/strategic-minerals-gets-9-2m-department-of-war-funding-for-uk-tungsten-project/",
+      "title": "Trump’s Venezuela gold push hits refiner snag: NYT",
+      "link": "https://www.mining.com/trumps-venezuela-gold-push-hits-refiner-snag-nyt/",
       "source": "mining.com",
-      "date": "Mon, 28 Sep 2026 23:40:52 +0000"
+      "date": "Tue, 29 Sep 2026 19:47:24 +0000"
     },
     {
-      "title": "Why Blocking U.S. Diesel Exports Could Make Fuel More Expensive",
-      "link": "https://oilprice.com/Energy/Energy-General/Why-Blocking-US-Diesel-Exports-Could-Make-Fuel-More-Expensive.html",
+      "title": "Iran Threatens Middle East Energy Infrastructure as Hormuz Standoff Deepens",
+      "link": "https://oilprice.com/Energy/Energy-General/Iran-Threatens-Middle-East-Energy-Infrastructure-as-Hormuz-Standoff-Deepens.html",
       "source": "OilPrice",
-      "date": "Mon, 28 Sep 2026 18:00:00 -0500"
+      "date": "Tue, 29 Sep 2026 14:00:00 -0500"
     },
     {
-      "title": "Mining Forum: US needs Canada to break China’s minerals grip",
-      "link": "https://www.mining.com/mining-forum-us-needs-canada-to-break-chinas-minerals-grip/",
+      "title": "Mining Forum: Friedland wants to kill the SAG mill",
+      "link": "https://www.mining.com/mining-forum-friedland-wants-to-kill-the-sag-mill/",
       "source": "mining.com",
-      "date": "Mon, 28 Sep 2026 22:58:00 +0000"
+      "date": "Tue, 29 Sep 2026 18:47:00 +0000"
     },
     {
-      "title": "Standard Chartered: Record CTA Long Bets Are Capping Oil's Upside",
-      "link": "https://oilprice.com/Energy/Oil-Prices/Standard-Chartered-Record-CTA-Long-Bets-Are-Capping-Oils-Upside.html",
+      "title": "U.S. Taps Strategic Oil Reserve Again as Diesel Tops $6",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Taps-Strategic-Oil-Reserve-Again-as-Diesel-Tops-6.html",
       "source": "OilPrice",
-      "date": "Mon, 28 Sep 2026 17:00:00 -0500"
+      "date": "Tue, 29 Sep 2026 13:20:00 -0500"
     },
     {
-      "title": "B2Gold strikes new Goose gold zone",
-      "link": "https://www.mining.com/b2gold-strikes-new-goose-gold-zone/",
-      "source": "mining.com",
-      "date": "Mon, 28 Sep 2026 16:01:36 +0000"
+      "title": "Trump and Xi Buy Time, But Solve Almost Nothing",
+      "link": "https://oilprice.com/Energy/Energy-General/Trump-and-Xi-Buy-Time-But-Solve-Almost-Nothing.html",
+      "source": "OilPrice",
+      "date": "Tue, 29 Sep 2026 13:00:00 -0500"
     },
     {
-      "title": "Montage pours first gold at Koné ahead of schedule",
-      "link": "https://www.mining.com/montage-pours-first-gold-at-kone-ahead-of-schedule/",
+      "title": "Lake Resources gets environmental green light for Kachi lithium project in Argentina",
+      "link": "https://www.mining.com/lake-resources-gets-environmental-green-light-for-kachi-lithium-project-in-argentina/",
       "source": "mining.com",
-      "date": "Mon, 28 Sep 2026 15:55:54 +0000"
+      "date": "Tue, 29 Sep 2026 17:41:50 +0000"
     },
     {
-      "title": "Peninsula’s uranium resource grows as ramp-up lags",
-      "link": "https://www.mining.com/peninsulas-uranium-resource-grows-as-ramp-up-lags/",
-      "source": "mining.com",
-      "date": "Mon, 28 Sep 2026 15:23:11 +0000"
+      "title": "World's Tallest Dam Project Gets New Life With Fresh World Bank Funding",
+      "link": "https://oilprice.com/Alternative-Energy/Hydroelectric/Worlds-Tallest-Dam-Project-Gets-New-Life-With-Fresh-World-Bank-Funding.html",
+      "source": "OilPrice",
+      "date": "Tue, 29 Sep 2026 12:00:00 -0500"
     },
     {
-      "title": "US warms to building Brazil critical minerals chain",
-      "link": "https://www.mining.com/us-warms-to-building-brazil-critical-minerals-chain/",
+      "title": "Copper Intelligence, CoTec partner for DRC tailings processing",
+      "link": "https://www.mining.com/copper-intelligence-cotec-partner-for-drc-copper-tailing-processing/",
       "source": "mining.com",
-      "date": "Mon, 28 Sep 2026 13:19:56 +0000"
+      "date": "Tue, 29 Sep 2026 16:14:11 +0000"
+    },
+    {
+      "title": "Golden Cariboo outlines nearly 1M oz inferred in BC",
+      "link": "https://www.mining.com/golden-cariboo-outlines-nearly-1m-oz-inferred-in-bc/",
+      "source": "mining.com",
+      "date": "Tue, 29 Sep 2026 15:43:59 +0000"
+    },
+    {
+      "title": "Atlas’ Malacacheta emerges as South America’s largest graphite project",
+      "link": "https://www.mining.com/atlas-malacacheta-emerges-as-south-americas-largest-graphite-project/",
+      "source": "mining.com",
+      "date": "Tue, 29 Sep 2026 15:12:48 +0000"
     }
   ]
 }
