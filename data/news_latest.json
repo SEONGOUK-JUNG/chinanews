@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-29T10:10:04+09:00",
+  "run_at_kst": "2026-09-29T20:08:17+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Saudi Arabia Restarts Red Sea Crude Oil Loadings",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Restarts-Red-Sea-Crude-Oil-Loadings.html",
+      "source": "OilPrice",
+      "date": "Tue, 29 Sep 2026 05:30:00 -0500"
+    },
+    {
+      "title": "India Unlikely to Ditch Russian Oil Despite Trump's 100% Tariff Threat",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Unlikely-to-Ditch-Russian-Oil-Despite-Trumps-100-Tariff-Threat.html",
+      "source": "OilPrice",
+      "date": "Tue, 29 Sep 2026 04:30:00 -0500"
+    },
+    {
+      "title": "Argentina Threatens UK with Court Action Over Falklands Oil Drilling",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Argentina-Threatens-UK-with-Court-Action-Over-Falklands-Oil-Drilling.html",
+      "source": "OilPrice",
+      "date": "Tue, 29 Sep 2026 03:00:00 -0500"
+    },
+    {
+      "title": "China's LNG Imports Set for Second Straight Monthly Drop",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-LNG-Imports-Set-for-Second-Straight-Monthly-Drop.html",
+      "source": "OilPrice",
+      "date": "Tue, 29 Sep 2026 02:00:00 -0500"
+    },
+    {
+      "title": "Oil Extends Rally Despite Higher Hormuz Volume Reports",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Extends-Rally-Despite-Higher-Hormuz-Volume-Reports.html",
+      "source": "OilPrice",
+      "date": "Tue, 29 Sep 2026 00:19:50 -0500"
+    },
     {
       "title": "Hormuz Rerouting Doubles Cape Traffic Without Delivering a Windfall",
       "link": "https://oilprice.com/Energy/Energy-General/Hormuz-Rerouting-Doubles-Cape-Traffic-Without-Delivering-a-Windfall.html",
@@ -36,36 +66,6 @@
       "link": "https://oilprice.com/Energy/Oil-Prices/Standard-Chartered-Record-CTA-Long-Bets-Are-Capping-Oils-Upside.html",
       "source": "OilPrice",
       "date": "Mon, 28 Sep 2026 17:00:00 -0500"
-    },
-    {
-      "title": "How AI Could Upend the Secretive World of Fuel Trading",
-      "link": "https://oilprice.com/Energy/Energy-General/How-AI-Could-Upend-the-Secretive-World-of-Fuel-Trading.html",
-      "source": "OilPrice",
-      "date": "Mon, 28 Sep 2026 16:00:00 -0500"
-    },
-    {
-      "title": "The World Is Entering a New Era of Energy Security",
-      "link": "https://oilprice.com/Energy/Energy-General/The-World-Is-Entering-a-New-Era-of-Energy-Security.html",
-      "source": "OilPrice",
-      "date": "Mon, 28 Sep 2026 15:00:00 -0500"
-    },
-    {
-      "title": "Europe’s Gas Forecasts Are Not an Energy Strategy",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Europes-Gas-Forecasts-Are-Not-an-Energy-Strategy.html",
-      "source": "OilPrice",
-      "date": "Mon, 28 Sep 2026 14:00:00 -0500"
-    },
-    {
-      "title": "U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Strategic-Petroleum-Reserve-Falls-to-Lowest-Level-Since-1982.html",
-      "source": "OilPrice",
-      "date": "Mon, 28 Sep 2026 13:30:00 -0500"
-    },
-    {
-      "title": "Record Diesel Costs Add Fresh Pressure on UK Economy",
-      "link": "https://oilprice.com/Energy/Energy-General/Record-Diesel-Costs-Add-Fresh-Pressure-on-UK-Economy.html",
-      "source": "OilPrice",
-      "date": "Mon, 28 Sep 2026 13:00:00 -0500"
     },
     {
       "title": "B2Gold strikes new Goose gold zone",
