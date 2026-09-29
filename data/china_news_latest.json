@@ -1,10 +1,22 @@
 {
-  "run_at_kst": "2026-09-29T07:20:04+09:00",
+  "run_at_kst": "2026-09-29T10:10:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "'빈손 회담'에 中이 환호하는 이유는 [차이나 워치]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RMERVRHpybGtUZHVhNm8wQlY5WHg1LWFnbDVUeVFuaEVfa2lYTEZZZjlUbFlyN2FRVmZURTkzWlpPcDFFa1YxeUNaVTR0am5iTWM2UC1pZjhqQQ?oc=5",
+      "source": "한국경제",
+      "date": "Tue, 29 Sep 2026 01:04:01 GMT"
+    },
+    {
+      "title": "이창호 한중교류촉진위 위원장, 중국 주요 경제·외교 행사 잇따라 참석",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5qQmxDZWc5SXhSbWtoUW5VTTNpbHIzZ0N1emNFd0FlTURScW0wNWx3NXc0SzRtVTE0YU1STmdFeTFPdw?oc=5",
+      "source": "브레이크뉴스",
+      "date": "Mon, 28 Sep 2026 23:14:00 GMT"
+    },
     {
       "title": "중국 ‘AI 쇄국정책’ 결국 접었다…엔비디아 최신칩 1년만에 수입허용",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJYzNfWEJnYWJjb0kxc1VSckVBa3V5T0NYT3ctcEhsOF82OEVFM3ZmazlvUEhPemNybl85SElWUmVZQUNIOFd0em43NGNwOU0?oc=5",
@@ -22,12 +34,6 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nUnVheFMzZDdEUmxxSlpyOHBhMXZIZ3o4NG41ZEE2Smp4MXg3bW1KZEJsSU4xeU1Ib2E5MnVNNnpnWllsVzBPTHg5dDZieUxhV3RMVzY5VHQwVlXSAWBBVV95cUxQSk1Wd1dYMjVBY291Y3Y1d3Q5ZFEzcDQyVUI2ZHR4R3R4SnZiZmdmZjc1aTlWMnhqcm0wbXFCZXZLR1ZJSksyVUZ6bjdtbnhhOGVxbTdZb19YOXlPM1BCSmQ?oc=5",
       "source": "연합뉴스",
       "date": "Mon, 28 Sep 2026 13:46:51 GMT"
-    },
-    {
-      "title": "중국 주도 아시아 탄소시장 연결…국제 ETS 연합 ‘실행 단계’ 진입",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkc2lCM1VWWEtIQWdUbHZidS1UUU52Wlp1ODgxeU4wakd2QURnUV9SNFd6LU5uTloxWGFENlFISERCV2pKbW1kOXN1bHJkNUNoVTZLdTgwaTI3QTBrb1ZvZG9NV1p3djJ4b3RRSw?oc=5",
-      "source": "ESG경제",
-      "date": "Mon, 28 Sep 2026 09:05:59 GMT"
     },
     {
       "title": "중·일 갈등 속…일본 전 외무상, 민간 경제사절단 이끌고 중국 방문",
@@ -64,12 +70,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00eHl1RnpOUk9zU0xFNzBwYlNCTzFWNkxHX0FJQ0owZndpWW4yY0hpUnJKazViX21FWHpIX2twSFQwbG9YS3JSQUFVSElObmdSYWxGUnUwaVoxQQ?oc=5",
       "source": "한국경제",
       "date": "Sat, 26 Sep 2026 23:00:10 GMT"
-    },
-    {
-      "title": "\"중국, 이란에 '美 경제제재 동참 안 해' 입장 전달\"",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNSDRIa3AyRlo2QmIzTFhyTFIxeGhfX055bFZ4cmxsYmxtUGdacEZ3Z2daRkZmb2d2YkxROXpBMVN5SWp3Q2VpNkFCZmh6T2M?oc=5",
-      "source": "v.daum.net",
-      "date": "Sat, 26 Sep 2026 10:39:28 GMT"
     },
     {
       "title": "[속보] \"중국, 미국 대이란 경제제재 따르지 않겠다…이란에 입장 전달\"",

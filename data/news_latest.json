@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-29T07:08:06+09:00",
+  "run_at_kst": "2026-09-29T10:10:04+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Hormuz Rerouting Doubles Cape Traffic Without Delivering a Windfall",
+      "link": "https://oilprice.com/Energy/Energy-General/Hormuz-Rerouting-Doubles-Cape-Traffic-Without-Delivering-a-Windfall.html",
+      "source": "OilPrice",
+      "date": "Mon, 28 Sep 2026 19:00:00 -0500"
+    },
+    {
+      "title": "Strategic Minerals gets $9.2M Department of War funding for UK tungsten project",
+      "link": "https://www.mining.com/strategic-minerals-gets-9-2m-department-of-war-funding-for-uk-tungsten-project/",
+      "source": "mining.com",
+      "date": "Mon, 28 Sep 2026 23:40:52 +0000"
+    },
+    {
+      "title": "Why Blocking U.S. Diesel Exports Could Make Fuel More Expensive",
+      "link": "https://oilprice.com/Energy/Energy-General/Why-Blocking-US-Diesel-Exports-Could-Make-Fuel-More-Expensive.html",
+      "source": "OilPrice",
+      "date": "Mon, 28 Sep 2026 18:00:00 -0500"
+    },
+    {
+      "title": "Mining Forum: US needs Canada to break China’s minerals grip",
+      "link": "https://www.mining.com/mining-forum-us-needs-canada-to-break-chinas-minerals-grip/",
+      "source": "mining.com",
+      "date": "Mon, 28 Sep 2026 22:58:00 +0000"
+    },
     {
       "title": "Standard Chartered: Record CTA Long Bets Are Capping Oil's Upside",
       "link": "https://oilprice.com/Energy/Oil-Prices/Standard-Chartered-Record-CTA-Long-Bets-Are-Capping-Oils-Upside.html",
@@ -44,18 +68,6 @@
       "date": "Mon, 28 Sep 2026 13:00:00 -0500"
     },
     {
-      "title": "Russia Tightens Secrecy On Energy Exports",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Tightens-Secrecy-On-Energy-Exports.html",
-      "source": "OilPrice",
-      "date": "Mon, 28 Sep 2026 12:30:00 -0500"
-    },
-    {
-      "title": "Can Fracking Reverse Colombia’s Oil and Gas Decline?",
-      "link": "https://oilprice.com/Energy/Energy-General/Can-Fracking-Reverse-Colombias-Oil-and-Gas-Decline.html",
-      "source": "OilPrice",
-      "date": "Mon, 28 Sep 2026 12:00:00 -0500"
-    },
-    {
       "title": "B2Gold strikes new Goose gold zone",
       "link": "https://www.mining.com/b2gold-strikes-new-goose-gold-zone/",
       "source": "mining.com",
@@ -78,18 +90,6 @@
       "link": "https://www.mining.com/us-warms-to-building-brazil-critical-minerals-chain/",
       "source": "mining.com",
       "date": "Mon, 28 Sep 2026 13:19:56 +0000"
-    },
-    {
-      "title": "Northern Star rejects ‘opportunistic’ Gold Fields’ $27B takeover bid",
-      "link": "https://www.mining.com/northern-star-rejects-opportunistic-gold-fields-27b-takeover-bid/",
-      "source": "mining.com",
-      "date": "Mon, 28 Sep 2026 11:36:00 +0000"
-    },
-    {
-      "title": "Hudbay lifts Snow Lake gold output estimate by 60%",
-      "link": "https://www.mining.com/hudbay-lifts-snow-lake-gold-output-estimate-by-60/",
-      "source": "mining.com",
-      "date": "Mon, 28 Sep 2026 10:46:00 +0000"
     }
   ]
 }
