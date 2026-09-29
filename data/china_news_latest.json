@@ -1,27 +1,27 @@
 {
-  "run_at_kst": "2026-09-29T10:10:04+09:00",
+  "run_at_kst": "2026-09-29T14:10:32+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "'빈손 회담'에 中이 환호하는 이유는 [차이나 워치]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RMERVRHpybGtUZHVhNm8wQlY5WHg1LWFnbDVUeVFuaEVfa2lYTEZZZjlUbFlyN2FRVmZURTkzWlpPcDFFa1YxeUNaVTR0am5iTWM2UC1pZjhqQQ?oc=5",
-      "source": "한국경제",
-      "date": "Tue, 29 Sep 2026 01:04:01 GMT"
+      "title": "[헤럴드비즈] 중국 로봇굴기와 한국의 선택",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBQ3pVVzJfY1lZMzZGTm1MX1BXcS1DdFhTOFFYbjhUNkFFVzY4UTJDbTZlUXFFNnpXakkxWjIxbGw4Wm9jbmJISUFwTlZURWdoeURYSnBR?oc=5",
+      "source": "헤럴드경제",
+      "date": "Tue, 29 Sep 2026 02:04:29 GMT"
+    },
+    {
+      "title": "[CMG중국통신] 미중 관세 인하 합의, 무역·투자·AI 대화 채널도 신설",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84Q3dWM1Rhc0toaDdZZEE1WnNIbFQ5aGVFQmlZeHJ4ZkYtUW5ndW1reVcxYXQzQldzYV9uWUMwRllhelVGcGRnaURlSWxLZFU?oc=5",
+      "source": "v.daum.net",
+      "date": "Tue, 29 Sep 2026 00:03:14 GMT"
     },
     {
       "title": "이창호 한중교류촉진위 위원장, 중국 주요 경제·외교 행사 잇따라 참석",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5qQmxDZWc5SXhSbWtoUW5VTTNpbHIzZ0N1emNFd0FlTURScW0wNWx3NXc0SzRtVTE0YU1STmdFeTFPdw?oc=5",
-      "source": "브레이크뉴스",
+      "source": "breaknews.com",
       "date": "Mon, 28 Sep 2026 23:14:00 GMT"
-    },
-    {
-      "title": "중국 ‘AI 쇄국정책’ 결국 접었다…엔비디아 최신칩 1년만에 수입허용",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJYzNfWEJnYWJjb0kxc1VSckVBa3V5T0NYT3ctcEhsOF82OEVFM3ZmazlvUEhPemNybl85SElWUmVZQUNIOFd0em43NGNwOU0?oc=5",
-      "source": "v.daum.net",
-      "date": "Mon, 28 Sep 2026 22:00:00 GMT"
     },
     {
       "title": "국경절과 4분기 앞두고 中 내수 진작 강조",
@@ -42,15 +42,9 @@
       "date": "Mon, 28 Sep 2026 06:51:00 GMT"
     },
     {
-      "title": "중국 1~8월 공업이익, 15.7% 증가⋯내수 부진에 성장 둔화",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BVDZuTXVWN3M2T1pFd18yOEduRlpBejdtS0g1SlRUb2JvVVhyUks5QkVucXhLcEhtUVNGYmpLeUo4V1Vua2EtYnBYcTNOTXM?oc=5",
-      "source": "v.daum.net",
-      "date": "Mon, 28 Sep 2026 06:25:05 GMT"
-    },
-    {
       "title": "중국, 반미 행보 니카라과 금광 줍줍",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tVlJBV21aX3BjWWpzTlFBM052STZHVFdkOTlvamlHdFFFdnlBUVJ6TjdGZzdveTgzeWtlRDF2dG15UWNNbklHVzRtS2lIdTFBYngzaEVWLWxnQdIBWEFVX3lxTE43QkxCYUxsbzZCYmlLUVNkZUZMaDktRm9KQkFzNVotcFc1VmxpSzlmT1RzLVp6TUNlNnJKSmt5NEZhM21kaklxc0JCbHp5OVB3SVlWVDRmeEk?oc=5",
-      "source": "ajunews.com",
+      "source": "아주경제",
       "date": "Mon, 28 Sep 2026 01:18:44 GMT"
     },
     {
@@ -76,6 +70,12 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qeVQwUXNidE42LVd5dU9qT0ZILTgwZkM3ZjBPTFJ6V3I4RjQ4UVgzVGNxOU9SNTdJU2swRkozMkV4LWZjRWdhaksxOFprV3c?oc=5",
       "source": "v.daum.net",
       "date": "Sat, 26 Sep 2026 10:10:52 GMT"
+    },
+    {
+      "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Wed, 23 Sep 2026 07:00:00 GMT"
     }
   ]
 }
