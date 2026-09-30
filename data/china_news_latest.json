@@ -1,21 +1,39 @@
 {
-  "run_at_kst": "2026-09-30T20:21:29+09:00",
+  "run_at_kst": "2026-10-01T07:08:16+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "[중국증시-마감] 부양책 실망 속 혼조",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oeE92WEcwZ3dSMl9JWEs5RFpycC1hVlpRcGczZnlmV28waUc4MFl2anlfaVQybXVfWFJHNXZMTW5TSm9iSjZfeDlaYm5VNG81ckFMTUNKYmdVd2FsUHpuSDdodUJBTDBGckw1ck90cFo?oc=5",
-      "source": "연합인포맥스",
-      "date": "Wed, 30 Sep 2026 09:16:02 GMT"
+      "title": "미 하원 중국특위 위원장 “한국 대중 밀착, 미국에 상당한 위험”…국무장관에 서한, 대중 경계 촉구",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GeURhMXh6blJsd2VZcjZkYnRjRE94WGZzN2twdG5GM1E2WnBKTWtITGtiajRfVEdSRHZncHFwY0RNUlRnM1hoQnJYVHFGSWw0cURCWGNPTk5oN1BndldQZ2FBSWZSRDBNZWV1alJR?oc=5",
+      "source": "아시아투데이",
+      "date": "Wed, 30 Sep 2026 20:56:58 GMT"
     },
     {
-      "title": "[경제] 中 서비스업, 상반기 호조세 이어가...경제 성장 기여율 66.1%",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Na0pYanVpOXFQOU5mU1BEanp3X1JibEdBODltei00OG9RSFA1cEhDbzg4UkJSS2E2ODJzekF1dHpCZG9SUEZsYzFQYjZDZGdoZHZnRGVXWXRCcEJ3LWhMbjZ0UW1wQ2lqSXNBcFN4N3dRRmM?oc=5",
-      "source": "동방일보",
-      "date": "Wed, 30 Sep 2026 08:12:57 GMT"
+      "title": "시진핑 \"中경제, 압력속 전진…대만 독립세력 단호히 타격\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yaWhKSU1MUWduRm5pc0wwU01FUVMzajFweXdvUjhDajVGNFdSSzdubDkwZDlvUWFONGFieDhOR043ZmFJanoybUNjVzJpWlQyYkZaU3g4OC1JbFdCelhuX9IBeEFVX3lxTFB5cVg5bWM1Q3VPaUJRZlAzTmM0a2ozRHNBWEpFZmlRZERJOUFWR0J1OTBDVGdDRXFiY3BESEdZVnRmM2RXd2hwSjlpeTBSN1plR0czS0JlVVJJUXJZTmhzMTJ5Mi15STdXMkQyYTdpYnpUdlRRLUFTNg?oc=5",
+      "source": "뉴시스",
+      "date": "Wed, 30 Sep 2026 13:24:57 GMT"
+    },
+    {
+      "title": "시진핑 “중국 경제, 압력 견디며 전진…대만독립 세력 단호히 타격”",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ocHB4VFdINk5GN0RzMDEtRnlCdTB1Ql9rblFMa3BGNEFjOG90TE9WVmpxc1lkYlY4QmhQUG9qaFVHeE1qcUY3ODZ1WEZ0X00?oc=5",
+      "source": "v.daum.net",
+      "date": "Wed, 30 Sep 2026 12:55:00 GMT"
+    },
+    {
+      "title": "시진핑 “중국 경제, 압력 견디며 전진…대만독립 세력 단호히 타격”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNYTRqSXNBbkpuYVh0bUp4TVNidWNJbGx4bERlZkNzSGJMalF4blJxeWFhRUprZUp1Wm13ZzZGVGJpX0FYWVVRSERVc2hFSTg0RVhqUVRXOGl0YkE?oc=5",
+      "source": "KBS 뉴스",
+      "date": "Wed, 30 Sep 2026 12:54:00 GMT"
+    },
+    {
+      "title": "시진핑 \"中경제, 압력 견디며 전진…대만독립 세력 단호히 타격\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZQmtiTXk3VXNmQXo5aVJhUC1JRWQ4WHFXSkZwRTRHZ1NDMm92YWpaZlY4VUFoSk5Xdmd3VFg5aVFGbS14Q3V5dF9NeEdhbnFVMFE5NkVRZnZneWYyNnlGStIBYEFVX3lxTFBZQmtiTXk3VXNmQXo5aVJhUC1JRWQ4WHFXSkZwRTRHZ1NDMm92YWpaZlY4VUFoSk5Xdmd3VFg5aVFGbS14Q3V5dF9NeEdhbnFVMFE5NkVRZnZneWYyNnlGSg?oc=5",
+      "source": "연합뉴스",
+      "date": "Wed, 30 Sep 2026 12:11:27 GMT"
     },
     {
       "title": "중국, 9월 제조업 PMI 50.1...경기 확장 전환",
@@ -24,21 +42,9 @@
       "date": "Wed, 30 Sep 2026 08:04:00 GMT"
     },
     {
-      "title": "중국 체감 경기 개선됐는데…왜 고민 깊어질까, 문제는 부동산?",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNck44NGtBSmQ5M0NtTE1xM05iNl9OR1k4WEZiU19adHVvbG91UEpOYVpNZ1BwaXNLOWpnbXlXajF2cnJzaWZES1R1b0UySjNUU3dJQVIwdFNYbzVaM3lXYnlpa2w3bTFKUXV0bllJTjR4Ni02cFNidmNKTjkzdmt3dg?oc=5",
-      "source": "edaily.co.kr",
-      "date": "Wed, 30 Sep 2026 07:25:13 GMT"
-    },
-    {
       "title": "中학자 \"중국 2035년까지 연 4.6% 성장…수출 주도 지속 불가능\"",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nbjdiX0FnZThSUTlwOFh3S2hDem43MUdzZG8xYS05ZXhRQVZkRUI4RGljWUM5TnlIb0RYaDduUkdVdDYtR3Q4TGc2ZHlkYUF3M1E?oc=5",
       "source": "매일경제 마켓",
-      "date": "Wed, 30 Sep 2026 05:49:19 GMT"
-    },
-    {
-      "title": "中학자 \"중국 2035년까지 연 4.6% 성장…수출 주도 지속 불가능\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXTkRpSWw2YzE3RWpGa1BEbjBFN2o3U3B2bnBvd1FhVUJHY0V0Y1dENGNGeFRPejF6UVZiT3cyUkYwYlV2dnR6RG9ZQ1FIVEk2VENGbUtrbVc5Y03SAWBBVV95cUxOVHdTMXJOc0tIRzl0cWlpb1hIN0RGMjZXN0xFN1lwRGktLXNvVHI5R2gwZlQtSy1ReWpiNVY3T2lSTnJwXzY2MkxNTThSTVVIWC1WNHZJMXRYZ25GS0huRVQ?oc=5",
-      "source": "연합뉴스",
       "date": "Wed, 30 Sep 2026 05:49:19 GMT"
     },
     {
@@ -60,22 +66,16 @@
       "date": "Wed, 30 Sep 2026 02:10:29 GMT"
     },
     {
-      "title": "중국·독일, EU 무역갈등 속 화상회담",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RWjNqT3VYenBVQ3NvUXhlMXBoM2FnU25Md1ZCOHRpdEpsWkdhUDBWRmYwOG5UaVRiY3dDUWhzOUNKZTFQcmNCWEp3a1Q5SG03ZEtwdGZoNnBPS1c1dDJmeUdWSkkwWFUxcTFB?oc=5",
-      "source": "시사주간",
-      "date": "Tue, 29 Sep 2026 20:30:00 GMT"
-    },
-    {
       "title": "[한동균 칼럼] 탈중국 시대, 더 넓어지는 중국 공급망",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQN3N6YU4wRXB1aWFKV0g3d3Y3cE1JdTZaMkpaeV9PMVNhWXdDclV0dDNXeTEwME5iaEpBQThQdzFJM3F6dTZXMUpWNnFZX0NNcGIxcnpFOGlyd9IBWEFVX3lxTE9oaGNhd1JaN2Frd1lXbEZDU0xhVHB4QUFtVEp2bXl1a2ZOM0xTSm5WN25CdHVzZ1Y2VVdLYnlhNmRhQVAyc2dnbTB6T2VFOTRpSkVZV0tHaHE?oc=5",
       "source": "아주경제",
       "date": "Tue, 29 Sep 2026 08:25:05 GMT"
     },
     {
-      "title": "시진핑 국빈 만찬에 ‘중국 기업인’ 빠진 이유는",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vZ1ZtRTVNNl81ajUxZjRrb0ZOTDh3RWw4M0hXb2MxZXVQcEhaVXVIZ3ZXYV92eG5vbmVGVlozRTR2aVpJMzZ3NWJBZ2s5WGRJWFE?oc=5",
-      "source": "mk.co.kr",
-      "date": "Sun, 27 Sep 2026 05:11:37 GMT"
+      "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
+      "source": "wikyung.com",
+      "date": "Mon, 28 Sep 2026 07:00:00 GMT"
     }
   ]
 }
