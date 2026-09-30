@@ -1,27 +1,33 @@
 {
-  "run_at_kst": "2026-09-30T10:11:01+09:00",
+  "run_at_kst": "2026-09-30T14:10:07+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "정책은 덩샤오핑처럼…에너지 흑묘백묘 [기자수첩-정책경제]",
-      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPajlJalNscHlGb1hBNjdCUnJ3OTdvSjZmUG9JcWRBcE5rNnNSMEVjeVlIRmdMSXBZcjZReDhOSVFISkVhREI1WndHVmxRcUF6dGQ5VXM1TUU5UUYycC05WnlIZmpzXzBQRXF6ZmxRNDVKR2w0UmlVYVhsY3NnbF9YdEx5NUdiUHhFSzl2VkUxME50SWJzRS1kM3NyaE5Vb0YxamkyakwxTmRpOTRkaEtiTGlZMURzM1B4MkhWNkVhNlBqMFowWDVELW8yemUxZ3BOY0ltYkx1ak12N1RwOFItVUFWYjVDM1RWS3dnNFVybHdETGdRZ0RhYU1JSWhWTWstcDhCbzdiRmc2MUp0YnBXeUhPWUo2WTlJLVJZZWVpX1dubmxBRnhjU2ZoS29kQQ?oc=5",
-      "source": "데일리안",
-      "date": "Tue, 29 Sep 2026 23:53:00 GMT"
+      "title": "[경제] 중국인민은행, PSL 금리 0.25%포인트 인하...실물경제 지원 확대",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJNHhRaXYxaU82WUhrY0hSN19wc3o3MWM3QzcycE1uT1JyaGQzRmZtd2ZONnVDT252VU9RalllU3NnRk5WRDVVbElhTzJmM0hfelQ5MF9KQV8wYjI2Q1R4bTdiWGlFWC1IYl9j?oc=5",
+      "source": "서울뉴스통신",
+      "date": "Wed, 30 Sep 2026 04:49:15 GMT"
     },
     {
-      "title": "서울경제진흥원, 중국 청두에 '서울 상품 전시관' 개관",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ndmhUNWpXd25JcHBPX0lrY1VKZjJxX19sVEJYWXpVUUY5WWRNZ0xIOGY0RUZ5eFNfWUpfVHF2eEYxX3pMdFZPUnNkYU05VnhxeHdVbEpkZlZMRV8zUHNrQ1NSYWFXTkJKWjlyUzFTT1JqYjRPdUZVVmNNNnM?oc=5",
-      "source": "비욘드포스트",
-      "date": "Tue, 29 Sep 2026 23:48:27 GMT"
+      "title": "중국 제조업 PMI 두 달만에 간신히 확장국면",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44R2hKcURoZ1QxY082bUFaXzRaQXRqcU9rMmJ6SnJUbWlieXJGMVlkZUZiN0RJUVVnZFQ0YVpYekMwTHhyWEJQVnhHM1EyNnc?oc=5",
+      "source": "v.daum.net",
+      "date": "Wed, 30 Sep 2026 02:37:00 GMT"
     },
     {
-      "title": "서울경제진흥원, 중국 청두에 ‘서울 상품 전시관’ 개관, 中 내륙시장 공략 본격화",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zSWMxNGVwRDliZ05LXzNBRHAxWE8wZnVuMHMzanRXRmQ0aHBVcUZaUENiZGRvNnNzWlZzY2FDUjN6VnlWREU4Z3lYcEJ0amk5NjZ5NFlRZE40SXdDRzBaMGNLeTBndFV3VmJTemtyaDLSAXRBVV95cUxQeTQ0QmNvSTNIQkg4Y3R0ZmdJMVNtaHU5T0VFOHBlRzViYWNURFZ0ekZtQURUcE5pSFhCVnBmUU1oeVI4cTZIc2x3M19VZGNWTnpEY2RBM3RKVU5zUGlxc0lJdnJnNGZOUEtUS1FSSEl1WFNhcQ?oc=5",
-      "source": "이뉴스투데이",
-      "date": "Tue, 29 Sep 2026 23:35:00 GMT"
+      "title": "중국, 인프라 투자 확대 위해 정책금리 0.25%P 인하",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45NldCMm1uWGZKX3Z4NHhGSmd0VlAycTRvU0ZpVFJ4UUdDd1ZfWGpHSDFtQzQyMklONzgtV2kzRlFibWxnek91enlNWlpacTQ?oc=5",
+      "source": "v.daum.net",
+      "date": "Wed, 30 Sep 2026 02:30:00 GMT"
+    },
+    {
+      "title": "중국 새로운 주택 부양책에도 바닥 아직 멀었다",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVWEZacWE2dU42eHpMQlE1aUlyVmNkdEVVNEZGUFVxakhJd3BIWTFLMHllQ1p4QXNKam1GR1I0NXBta0FMcG1WWHJveE41R2NoZWxMVzBnT3BJUdIBWEFVX3lxTFByTXZLMmdaNFo4dTl4QUJqTzRhWEJvU3BxQVFvRkpFY3pMcE9YdzZHS2VSVGlkQ1VGOEpKX18teG53SjhUbHFBNnhtTERaNEg4QTBDODg1N3M?oc=5",
+      "source": "아주경제",
+      "date": "Wed, 30 Sep 2026 02:10:29 GMT"
     },
     {
       "title": "서울경제진흥원(SBA), 중국 청두 고신구서 서울 우수 상품 전시관 공식 개관",
@@ -31,21 +37,21 @@
     },
     {
       "title": "중국·독일, EU 무역갈등 속 화상회담",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CdUN1NzZNcG1PS3Y3XzFzQjZlc094TXB4dE1sUDd2WG91OC05T3E0dk54bE5VQVZZRDZRV3RtcklISUNHem1rci1tY0wxNEpSdERVRnBaRW4ycTNxTmpYcVhTQVVPdw?oc=5",
+      "source": "시사주간",
+      "date": "Tue, 29 Sep 2026 20:30:00 GMT"
+    },
+    {
+      "title": "중국·독일, EU 무역갈등 속 화상회담",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RWjNqT3VYenBVQ3NvUXhlMXBoM2FnU25Md1ZCOHRpdEpsWkdhUDBWRmYwOG5UaVRiY3dDUWhzOUNKZTFQcmNCWEp3a1Q5SG03ZEtwdGZoNnBPS1c1dDJmeUdWSkkwWFUxcTFB?oc=5",
       "source": "시사주간",
       "date": "Tue, 29 Sep 2026 20:30:00 GMT"
     },
     {
-      "title": "트럼프 \"이란전 곧 끝날 것\"…중국과 AI 경쟁 의지 재확인",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAta3dBdlEzdk9lMk5WWk1iWVZ1VzFYR3YtQ3VNZDVMSTcwVC1BUU5yaXZVY21BcFZfMGZSYTF6bE5xY2hzTUNCdFZvUzhjNlE?oc=5",
-      "source": "v.daum.net",
-      "date": "Tue, 29 Sep 2026 17:46:00 GMT"
-    },
-    {
-      "title": "슈나이더 일렉트릭, 미국 엘파소와 중국 베이징 공장 ‘세계경제포럼 등대공장’에 추가 선정",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PRkd1dDd1MHZYNUNER182aWtjUGR0c1d0VzgzWnBHbGJZV1dhX0d4OWlVMGwyZkxHWW1WT0dGeExPMnlPdE1fOUp2NEZEM2s3akNTVVJ3elB6NXZlNXZ0c0dtOF9DSkVZMFE?oc=5",
-      "source": "디지털경제뉴스",
-      "date": "Tue, 29 Sep 2026 11:20:35 GMT"
+      "title": "중국 9월 제조업 PMI 50.1%…다시 경기 확장 국면 진입",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hMnFEZWhEcGZKaVA2NnpJS3ZTckc5YlpNd1ZyRjlTdUFUcDhMaFpJYzQ1WHM2X1lOU3VCUFVVVmhsTndxV1NzVHFVbmVIa1FLU0JqdjNBb3dRWE81Z2NqZVVBMA?oc=5",
+      "source": "CGTN",
+      "date": "Tue, 29 Sep 2026 11:36:32 GMT"
     },
     {
       "title": "[한동균 칼럼] 탈중국 시대, 더 넓어지는 중국 공급망",
@@ -54,28 +60,22 @@
       "date": "Tue, 29 Sep 2026 08:25:05 GMT"
     },
     {
-      "title": "이창호 한중교류촉진위 위원장, 중국 주요 경제·외교 행사 잇따라 참석",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1sOVdCa1owM2E0LTZPMG1qejRMcHc3bF9Tbk8taFlYYXNHWHpBRGRlWG95MjY3dUEtNHM3NUdpaGhXczl0UUEw?oc=5",
-      "source": "브레이크뉴스",
-      "date": "Mon, 28 Sep 2026 23:14:00 GMT"
-    },
-    {
-      "title": "국경절과 4분기 앞두고 中 내수 진작 강조",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0clJpdDUwMUptRXRmMnBJQml6S3NhR180clVTbEVyQk1hcWxuOTJWZW51VTlZa24zeHNxSEdsY1BnY2N5MHRaNy1BS1dOY04yT2pVUzAzc3IwX3o4NUNrb3hqYl9QcG9ZOFdzX1dB?oc=5",
-      "source": "asiatoday.co.kr",
-      "date": "Mon, 28 Sep 2026 21:33:30 GMT"
-    },
-    {
-      "title": "中, 4분기 앞두고 '경기 부양' 강조…\"내수 촉진·대출 확대\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nUnVheFMzZDdEUmxxSlpyOHBhMXZIZ3o4NG41ZEE2Smp4MXg3bW1KZEJsSU4xeU1Ib2E5MnVNNnpnWllsVzBPTHg5dDZieUxhV3RMVzY5VHQwVlXSAWBBVV95cUxQSk1Wd1dYMjVBY291Y3Y1d3Q5ZFEzcDQyVUI2ZHR4R3R4SnZiZmdmZjc1aTlWMnhqcm0wbXFCZXZLR1ZJSksyVUZ6bjdtbnhhOGVxbTdZb19YOXlPM1BCSmQ?oc=5",
-      "source": "연합뉴스",
-      "date": "Mon, 28 Sep 2026 13:46:51 GMT"
-    },
-    {
       "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
       "source": ":: 위즈경제 ::",
       "date": "Mon, 28 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "시진핑 국빈 만찬에 ‘중국 기업인’ 빠진 이유는",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vZ1ZtRTVNNl81ajUxZjRrb0ZOTDh3RWw4M0hXb2MxZXVQcEhaVXVIZ3ZXYV92eG5vbmVGVlozRTR2aVpJMzZ3NWJBZ2s5WGRJWFE?oc=5",
+      "source": "mk.co.kr",
+      "date": "Sun, 27 Sep 2026 05:11:37 GMT"
+    },
+    {
+      "title": "미국이 싫어도 중국은 못 믿겠다…중동이 마주한 'G2의 딜레마'",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00eHl1RnpOUk9zU0xFNzBwYlNCTzFWNkxHX0FJQ0owZndpWW4yY0hpUnJKazViX21FWHpIX2twSFQwbG9YS3JSQUFVSElObmdSYWxGUnUwaVoxQQ?oc=5",
+      "source": "한국경제",
+      "date": "Sat, 26 Sep 2026 23:00:10 GMT"
     }
   ]
 }
