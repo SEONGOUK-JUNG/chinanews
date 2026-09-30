@@ -1,6 +1,6 @@
 {
-  "updated_at_kst": "2026-09-03T02:01:32+09:00",
-  "as_of": "2026-09-03",
+  "updated_at_kst": "2026-10-01T08:08:53+09:00",
+  "as_of": "2026-10-01",
   "source": "Trading Economics",
   "source_url": "https://tradingeconomics.com/china/indicators",
   "note": "통화·금리·부동산 지표. 출처 Trading Economics(중국). 각 카드의 기준시점 표기 참조.",
@@ -11,20 +11,20 @@
       "value": 3.5,
       "previous": 3.5,
       "display": "3.50%",
-      "ref": "2026-08",
-      "hint": "15개월 동결·사상 최저",
-      "hint_en": "held 15 months, record low"
+      "ref": "2026-09",
+      "hint": "16개월 동결·사상 최저",
+      "hint_en": "held 16 months, record low"
     },
     {
       "label": "10년 국채금리",
       "label_en": "10Y Govt Bond",
-      "value": 1.69,
-      "previous": 1.71,
-      "display": "1.69%",
+      "value": 1.7,
+      "previous": 1.68,
+      "display": "1.70%",
       "ref": "현재(9월)",
       "ref_en": "current (Sep)",
-      "hint": "9월 2일 기준·1년래 최저권",
-      "hint_en": "Sep 2, near one-year low"
+      "hint": "9월 30일 기준·1년래 최저권",
+      "hint_en": "Sep 30, near one-year low"
     },
     {
       "label": "SHIBOR 3개월",
@@ -40,32 +40,32 @@
     {
       "label": "통화량 M2 (YoY)",
       "label_en": "M2 Money Supply (YoY)",
-      "value": 8.0,
-      "previous": 8.6,
-      "display": "+8.0%",
-      "ref": "2026-06",
-      "hint": "CNY 356.71조·7월치 미발표",
-      "hint_en": "CNY 356.71T, July not yet released"
+      "value": 7.5,
+      "previous": 7.7,
+      "display": "+7.5%",
+      "ref": "2026-08",
+      "hint": "CNY 356.81조",
+      "hint_en": "CNY 356.81T"
     },
     {
       "label": "위안화 대출증가율 (YoY)",
       "label_en": "Yuan Loan Growth (YoY)",
-      "value": 5.1,
-      "previous": 5.3,
-      "display": "+5.1%",
-      "ref": "2026-07",
+      "value": 4.9,
+      "previous": 5.1,
+      "display": "+4.9%",
+      "ref": "2026-08",
       "hint": "대출잔액 증가율·사상 최저",
       "hint_en": "outstanding loans, record low"
     },
     {
       "label": "70개도시 신규주택가격 (YoY)",
       "label_en": "70-City New Home Prices (YoY)",
-      "value": -3.2,
-      "previous": -3.3,
-      "display": "-3.2%",
-      "ref": "2026-07",
-      "hint": "37개월 연속 하락",
-      "hint_en": "37 months of declines"
+      "value": -3.0,
+      "previous": -3.2,
+      "display": "-3.0%",
+      "ref": "2026-08",
+      "hint": "38개월 연속 하락·낙폭 축소",
+      "hint_en": "38 months of declines, easing"
     }
   ]
 }

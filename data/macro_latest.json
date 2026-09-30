@@ -1,6 +1,6 @@
 {
-  "updated_at_kst": "2026-09-03T02:01:32+09:00",
-  "as_of": "2026-09-03",
+  "updated_at_kst": "2026-10-01T08:08:53+09:00",
+  "as_of": "2026-10-01",
   "source": "Trading Economics",
   "source_url": "https://tradingeconomics.com/china/indicators",
   "note": "월 1회 갱신 거시지표. 출처 Trading Economics(중국).",
@@ -8,32 +8,32 @@
     {
       "label": "제조업 PMI",
       "label_en": "Manufacturing PMI",
-      "value": 51.5,
-      "previous": 50.9,
-      "display": "51.5",
-      "ref": "2026-08",
+      "value": 52.1,
+      "previous": 51.5,
+      "display": "52.1",
+      "ref": "2026-09",
       "hint": "50=확장/위축 분기",
       "hint_en": "above 50 = expansion"
     },
     {
       "label": "비제조업 PMI",
       "label_en": "Non-Mfg PMI",
-      "value": 49.0,
+      "value": 50.2,
       "previous": 49.0,
-      "display": "49.0",
-      "ref": "2026-08",
-      "hint": "50 하회·위축 지속",
-      "hint_en": "below 50, still contracting"
+      "display": "50.2",
+      "ref": "2026-09",
+      "hint": "50 상회·확장 전환",
+      "hint_en": "back above 50, expanding"
     },
     {
       "label": "차이신 서비스 PMI",
       "label_en": "Caixin Services PMI",
-      "value": 50.4,
-      "previous": 54.1,
-      "display": "50.4",
-      "ref": "2026-07",
-      "hint": "민간 서비스업·확장세 둔화",
-      "hint_en": "private services, growth slowed"
+      "value": 51.6,
+      "previous": 51.4,
+      "display": "51.6",
+      "ref": "2026-09",
+      "hint": "민간 서비스업·6월 이후 최고",
+      "hint_en": "private services, highest since June"
     },
     {
       "label": "GDP 성장률 (YoY)",
@@ -42,38 +42,38 @@
       "previous": 5.0,
       "display": "4.3%",
       "ref": "2026 Q2",
-      "hint": "전년동기比·2022년 4분기 이후 최저",
-      "hint_en": "year-on-year, weakest since Q4 2022"
+      "hint": "전년동기比·2022년 4분기 이후 최저·3분기치 미발표",
+      "hint_en": "year-on-year, weakest since Q4 2022; Q3 not yet released"
     },
     {
       "label": "소비자물가 CPI (YoY)",
       "label_en": "CPI (YoY)",
-      "value": 0.5,
-      "previous": 1.0,
-      "display": "0.5%",
-      "ref": "2026-07",
-      "hint": "인플레이션·둔화",
-      "hint_en": "inflation, easing"
+      "value": 0.8,
+      "previous": 0.5,
+      "display": "0.8%",
+      "ref": "2026-08",
+      "hint": "인플레이션·오름폭 확대",
+      "hint_en": "inflation, picking up"
     },
     {
       "label": "생산자물가 PPI (YoY)",
       "label_en": "PPI (YoY)",
-      "value": 3.5,
-      "previous": 4.1,
-      "display": "+3.5%",
-      "ref": "2026-07",
-      "hint": "오름폭 둔화",
-      "hint_en": "rise moderated"
+      "value": 3.8,
+      "previous": 3.5,
+      "display": "+3.8%",
+      "ref": "2026-08",
+      "hint": "유가 상승에 오름폭 확대",
+      "hint_en": "rise accelerated on oil prices"
     },
     {
       "label": "도시 실업률",
       "label_en": "Urban Unemployment",
-      "value": 5.2,
-      "previous": 5.0,
-      "display": "5.2%",
-      "ref": "2026-07",
-      "hint": "조사실업률·상승",
-      "hint_en": "surveyed rate, up"
+      "value": 5.3,
+      "previous": 5.2,
+      "display": "5.3%",
+      "ref": "2026-08",
+      "hint": "조사실업률·3월 이후 최고",
+      "hint_en": "surveyed rate, highest since March"
     },
     {
       "label": "기준금리 LPR (1년)",
@@ -81,9 +81,9 @@
       "value": 3.0,
       "previous": 3.0,
       "display": "3.00%",
-      "ref": "2026-08",
-      "hint": "대출우대금리·15개월 동결",
-      "hint_en": "loan prime rate, held 15 months"
+      "ref": "2026-09",
+      "hint": "대출우대금리·16개월 동결",
+      "hint_en": "loan prime rate, held 16 months"
     },
     {
       "label": "지급준비율 RRR",
@@ -98,39 +98,39 @@
     {
       "label": "무역수지",
       "label_en": "Trade Balance",
-      "value": 112.0,
-      "previous": 126.0,
-      "display": "+$112.0B",
-      "ref": "2026-07",
-      "hint": "월간 흑자",
-      "hint_en": "monthly surplus"
+      "value": 119.0,
+      "previous": 112.0,
+      "display": "+$119.0B",
+      "ref": "2026-08",
+      "hint": "월간 흑자·수출 25%↑",
+      "hint_en": "monthly surplus, exports +25%"
     },
     {
       "label": "소매판매 (MoM)",
       "label_en": "Retail Sales (MoM)",
-      "value": 0.06,
-      "previous": 0.35,
-      "display": "+0.06%",
-      "ref": "2026-07",
-      "hint": "전월比",
-      "hint_en": "month-on-month"
+      "value": -0.13,
+      "previous": 0.01,
+      "display": "-0.13%",
+      "ref": "2026-08",
+      "hint": "전월比·감소 전환",
+      "hint_en": "month-on-month, turned negative"
     },
     {
       "label": "USD/CNY",
       "label_en": "USD/CNY",
-      "value": 6.72,
-      "previous": 6.75,
-      "display": "6.72",
+      "value": 6.71,
+      "previous": 6.71,
+      "display": "6.71",
       "ref": "2026-09",
-      "hint": "위안 환율·위안 강세",
-      "hint_en": "yuan FX, yuan firmer"
+      "hint": "위안 환율·보합",
+      "hint_en": "yuan FX, flat"
     },
     {
       "label": "상하이종합지수",
       "label_en": "SSE Composite",
-      "value": 3941,
-      "previous": 3832,
-      "display": "3,941",
+      "value": 3842,
+      "previous": 3830,
+      "display": "3,842",
       "ref": "2026-09",
       "hint": "SSE Composite",
       "hint_en": "Shanghai index"
