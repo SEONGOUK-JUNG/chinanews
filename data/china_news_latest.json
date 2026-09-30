@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-30T20:09:21+09:00",
+  "run_at_kst": "2026-09-30T20:21:29+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -62,7 +62,7 @@
     {
       "title": "중국·독일, EU 무역갈등 속 화상회담",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RWjNqT3VYenBVQ3NvUXhlMXBoM2FnU25Md1ZCOHRpdEpsWkdhUDBWRmYwOG5UaVRiY3dDUWhzOUNKZTFQcmNCWEp3a1Q5SG03ZEtwdGZoNnBPS1c1dDJmeUdWSkkwWFUxcTFB?oc=5",
-      "source": "sisaweekly.com",
+      "source": "시사주간",
       "date": "Tue, 29 Sep 2026 20:30:00 GMT"
     },
     {
@@ -74,7 +74,7 @@
     {
       "title": "시진핑 국빈 만찬에 ‘중국 기업인’ 빠진 이유는",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vZ1ZtRTVNNl81ajUxZjRrb0ZOTDh3RWw4M0hXb2MxZXVQcEhaVXVIZ3ZXYV92eG5vbmVGVlozRTR2aVpJMzZ3NWJBZ2s5WGRJWFE?oc=5",
-      "source": "매일경제",
+      "source": "mk.co.kr",
       "date": "Sun, 27 Sep 2026 05:11:37 GMT"
     }
   ]
