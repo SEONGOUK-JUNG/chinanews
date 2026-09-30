@@ -1,14 +1,20 @@
 {
-  "run_at_kst": "2026-10-01T07:08:16+09:00",
+  "run_at_kst": "2026-10-01T07:20:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "中 시진핑 '경제 회복력 강해' 성장·혁신 매진 강조",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zOVAxRy1NTXF0RUNjUkZTdkZvT1hpaUhHUnpJa3Rwdk1hT2RiVWpwbkZtWFFmR0dEbnhhbFFvSEI0UUk2d3o4S3o0TzQ3aEZVZFkzbUlpQUZFV0M1?oc=5",
+      "source": "뉴스핌",
+      "date": "Wed, 30 Sep 2026 22:17:00 GMT"
+    },
+    {
       "title": "미 하원 중국특위 위원장 “한국 대중 밀착, 미국에 상당한 위험”…국무장관에 서한, 대중 경계 촉구",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GeURhMXh6blJsd2VZcjZkYnRjRE94WGZzN2twdG5GM1E2WnBKTWtITGtiajRfVEdSRHZncHFwY0RNUlRnM1hoQnJYVHFGSWw0cURCWGNPTk5oN1BndldQZ2FBSWZSRDBNZWV1alJR?oc=5",
-      "source": "아시아투데이",
+      "source": "asiatoday.co.kr",
       "date": "Wed, 30 Sep 2026 20:56:58 GMT"
     },
     {
@@ -70,12 +76,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQN3N6YU4wRXB1aWFKV0g3d3Y3cE1JdTZaMkpaeV9PMVNhWXdDclV0dDNXeTEwME5iaEpBQThQdzFJM3F6dTZXMUpWNnFZX0NNcGIxcnpFOGlyd9IBWEFVX3lxTE9oaGNhd1JaN2Frd1lXbEZDU0xhVHB4QUFtVEp2bXl1a2ZOM0xTSm5WN25CdHVzZ1Y2VVdLYnlhNmRhQVAyc2dnbTB6T2VFOTRpSkVZV0tHaHE?oc=5",
       "source": "아주경제",
       "date": "Tue, 29 Sep 2026 08:25:05 GMT"
-    },
-    {
-      "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
-      "source": "wikyung.com",
-      "date": "Mon, 28 Sep 2026 07:00:00 GMT"
     }
   ]
 }

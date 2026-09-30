@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-01T07:08:16+09:00",
+  "run_at_kst": "2026-10-01T07:20:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "US DOE awards $29.5M for 17 National Lab mining tech projects",
+      "link": "https://www.mining.com/us-doe-awards-29-5m-for-17-national-lab-mining-tech-projects/",
+      "source": "mining.com",
+      "date": "Wed, 30 Sep 2026 22:10:50 +0000"
+    },
     {
       "title": "Venezuela’s Oil Revival Accelerates as Foreign Companies Return",
       "link": "https://oilprice.com/Energy/Energy-General/Venezuelas-Oil-Revival-Accelerates-as-Foreign-Companies-Return.html",
@@ -84,12 +90,6 @@
       "link": "https://www.mining.com/arizona-gold-finds-high-grade-zones-at-main-project/",
       "source": "mining.com",
       "date": "Wed, 30 Sep 2026 15:25:49 +0000"
-    },
-    {
-      "title": "Miata drills 3.4 g gold at Sela Creek in Suriname",
-      "link": "https://www.mining.com/miata-drills-3-4-g-gold-at-sela-creek-in-suriname/",
-      "source": "mining.com",
-      "date": "Wed, 30 Sep 2026 15:19:23 +0000"
     }
   ]
 }
