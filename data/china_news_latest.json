@@ -1,21 +1,39 @@
 {
-  "run_at_kst": "2026-09-30T07:20:05+09:00",
+  "run_at_kst": "2026-09-30T10:11:01+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "크렘린궁 \"시진핑, APEC서 미중러 3자회담 추진할 듯\"",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0TlNYY2ZVMlhsWHp2Zk5WVlJ1X1k4am5OQ3ZSX1E1algySm9pRFRFeHFCNWRXVGg0WFVhYThWRjZmVVZCazNoczFJZ0ZqdGtRMHBCVHlVSE9GdW9xUURQeHM2bnR6ZXdxa2Y4MVc2NHJVMlVp0gF0QVVfeXFMTXVVV2lhYVhWS1ZuYXQ1LUlFZzQzaTVYMkhQdER5RHY3aWFDeS1EVlB2cE5sajAtMW9SU2NoYjh0eXhINkxDY0hTUks2bW5lZlpOUEZqMmhBTzlmcjlTTDNKdUxmNTdxT2NVM3dQY1VUWDBIbzg?oc=5",
-      "source": "MBC 뉴스",
-      "date": "Tue, 29 Sep 2026 19:10:15 GMT"
+      "title": "정책은 덩샤오핑처럼…에너지 흑묘백묘 [기자수첩-정책경제]",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPajlJalNscHlGb1hBNjdCUnJ3OTdvSjZmUG9JcWRBcE5rNnNSMEVjeVlIRmdMSXBZcjZReDhOSVFISkVhREI1WndHVmxRcUF6dGQ5VXM1TUU5UUYycC05WnlIZmpzXzBQRXF6ZmxRNDVKR2w0UmlVYVhsY3NnbF9YdEx5NUdiUHhFSzl2VkUxME50SWJzRS1kM3NyaE5Vb0YxamkyakwxTmRpOTRkaEtiTGlZMURzM1B4MkhWNkVhNlBqMFowWDVELW8yemUxZ3BOY0ltYkx1ak12N1RwOFItVUFWYjVDM1RWS3dnNFVybHdETGdRZ0RhYU1JSWhWTWstcDhCbzdiRmc2MUp0YnBXeUhPWUo2WTlJLVJZZWVpX1dubmxBRnhjU2ZoS29kQQ?oc=5",
+      "source": "데일리안",
+      "date": "Tue, 29 Sep 2026 23:53:00 GMT"
     },
     {
-      "title": "중국 증시 반등, 부동산 안정책에 시선",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE95c1dQbkJNaUtKWmVReHZzQkNiUHVQZGlmVEZlczJjTDdhSzEwTTAxMkkwMHBWMmt0SUh1MjY3TjhlTnBTT3ZIcFNn?oc=5",
-      "source": "뉴스N연합",
-      "date": "Tue, 29 Sep 2026 18:41:16 GMT"
+      "title": "서울경제진흥원, 중국 청두에 '서울 상품 전시관' 개관",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ndmhUNWpXd25JcHBPX0lrY1VKZjJxX19sVEJYWXpVUUY5WWRNZ0xIOGY0RUZ5eFNfWUpfVHF2eEYxX3pMdFZPUnNkYU05VnhxeHdVbEpkZlZMRV8zUHNrQ1NSYWFXTkJKWjlyUzFTT1JqYjRPdUZVVmNNNnM?oc=5",
+      "source": "비욘드포스트",
+      "date": "Tue, 29 Sep 2026 23:48:27 GMT"
+    },
+    {
+      "title": "서울경제진흥원, 중국 청두에 ‘서울 상품 전시관’ 개관, 中 내륙시장 공략 본격화",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zSWMxNGVwRDliZ05LXzNBRHAxWE8wZnVuMHMzanRXRmQ0aHBVcUZaUENiZGRvNnNzWlZzY2FDUjN6VnlWREU4Z3lYcEJ0amk5NjZ5NFlRZE40SXdDRzBaMGNLeTBndFV3VmJTemtyaDLSAXRBVV95cUxQeTQ0QmNvSTNIQkg4Y3R0ZmdJMVNtaHU5T0VFOHBlRzViYWNURFZ0ekZtQURUcE5pSFhCVnBmUU1oeVI4cTZIc2x3M19VZGNWTnpEY2RBM3RKVU5zUGlxc0lJdnJnNGZOUEtUS1FSSEl1WFNhcQ?oc=5",
+      "source": "이뉴스투데이",
+      "date": "Tue, 29 Sep 2026 23:35:00 GMT"
+    },
+    {
+      "title": "서울경제진흥원(SBA), 중국 청두 고신구서 서울 우수 상품 전시관 공식 개관",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xRk9sb3FjM05OYWxIM1Z2Yktzd2sycy1LaGFZdHZ6ZlE1RUlzbnE4T1JQTlNLNGstdmhsX0k3WFRPYVNqa3htUWJTV2RfQzlTbFh6SUg1ZjRzMXpFQzVicDVyaE9sN2VOdFJpU3UwVQ?oc=5",
+      "source": "서울시티",
+      "date": "Tue, 29 Sep 2026 22:16:09 GMT"
+    },
+    {
+      "title": "중국·독일, EU 무역갈등 속 화상회담",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RWjNqT3VYenBVQ3NvUXhlMXBoM2FnU25Md1ZCOHRpdEpsWkdhUDBWRmYwOG5UaVRiY3dDUWhzOUNKZTFQcmNCWEp3a1Q5SG03ZEtwdGZoNnBPS1c1dDJmeUdWSkkwWFUxcTFB?oc=5",
+      "source": "시사주간",
+      "date": "Tue, 29 Sep 2026 20:30:00 GMT"
     },
     {
       "title": "트럼프 \"이란전 곧 끝날 것\"…중국과 AI 경쟁 의지 재확인",
@@ -44,7 +62,7 @@
     {
       "title": "국경절과 4분기 앞두고 中 내수 진작 강조",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0clJpdDUwMUptRXRmMnBJQml6S3NhR180clVTbEVyQk1hcWxuOTJWZW51VTlZa24zeHNxSEdsY1BnY2N5MHRaNy1BS1dOY04yT2pVUzAzc3IwX3o4NUNrb3hqYl9QcG9ZOFdzX1dB?oc=5",
-      "source": "아시아투데이",
+      "source": "asiatoday.co.kr",
       "date": "Mon, 28 Sep 2026 21:33:30 GMT"
     },
     {
@@ -58,24 +76,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
       "source": ":: 위즈경제 ::",
       "date": "Mon, 28 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "중·일 갈등 속…일본 전 외무상, 민간 경제사절단 이끌고 중국 방문",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcGp5ZE5CVmZiSVdWcm1LQjA1R2RVeFBBSmFNWElVQlY1TWp1YXh4Nll1dFlLY0NHYXNXYm5nNHYyLWQxQTcxaE9SLXBtbi1IMTJZLVFjdTlQTUk1NnZHd09vanNqV01YaXduM3g3d1A3TDlEN2FScDJvRk9SZEVvejN3?oc=5",
-      "source": "hani.co.kr",
-      "date": "Mon, 28 Sep 2026 06:51:00 GMT"
-    },
-    {
-      "title": "\"다음 글로벌 경제위기는 중국에서 시작될 것\" - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43aFF3cEtoOTBMZzlLYWtiMFlHMmNwQ0pzdEpqMm8zZS1jNDJLUmdLSFJRS0VNSl9FeDNUZ1NYcTRTdGJUUHQ4RDZqYXVsX2dvMlR5S1BaWUlXc1Y2V3ZmaG1GUzNpeUdP0gFuQVVfeXFMT1V6X0g4TkV6Rk05ek9yZlZiVnYwTHNZTGY3M0RNT1RSVjVNVWd2Mi1rVWxJSlB2c0RfajFIdDFoUXJoUW9tcWVaU3dBaGRaWXM4aXo1VWgyaGJqTHA4VHJROUFvcW44Q092QUtHTEE?oc=5",
-      "source": "머니투데이",
-      "date": "Sun, 30 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "경제는 ‘흔들’ 기술은 ‘질주’하는 중국의 딜레마, 실체는?",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZG1sWUFDY2l6bFoyeFBUdTdzUjgwU1o0clpaZm5hSk9QU0NvUE5uQWdaelg0OFhKNXI2dXk5VnNjSVE5R3lwMkpDMFFiRzc1LW9nYnVn?oc=5",
-      "source": "중앙일보",
-      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
     }
   ]
 }

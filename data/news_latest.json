@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-30T07:20:05+09:00",
+  "run_at_kst": "2026-09-30T10:11:01+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Oil's New Normal Is Higher Prices",
+      "link": "https://oilprice.com/Energy/Energy-General/Oils-New-Normal-Is-Higher-Prices.html",
+      "source": "OilPrice",
+      "date": "Tue, 29 Sep 2026 19:00:00 -0500"
+    },
+    {
+      "title": "Atlas’ Malacacheta emerges as South America’s largest graphite project",
+      "link": "https://www.mining.com/atlas-malacacheta-emerges-as-south-americas-largest-graphite-project/",
+      "source": "mining.com",
+      "date": "Tue, 29 Sep 2026 23:59:00 +0000"
+    },
+    {
+      "title": "Texas startup raises $133M to build rare earth magnet-grade iron plant",
+      "link": "https://www.mining.com/texas-startup-raises-133m-to-build-rare-earth-magnet-grade-iron-plant/",
+      "source": "mining.com",
+      "date": "Tue, 29 Sep 2026 23:35:08 +0000"
+    },
+    {
+      "title": "Europe’s Gas Crisis Deepens as Hormuz LNG Crunch Drives Prices Higher",
+      "link": "https://oilprice.com/Energy/Energy-General/Europes-Gas-Crisis-Deepens-as-Hormuz-LNG-Crunch-Drives-Prices-Higher.html",
+      "source": "OilPrice",
+      "date": "Tue, 29 Sep 2026 18:00:00 -0500"
+    },
+    {
+      "title": "WRS to build US’ first critical materials recovery facility for retired solar panels in Texas",
+      "link": "https://www.mining.com/wrs-to-build-us-first-critical-materials-recovery-facility-for-retired-solar-panels-in-texas/",
+      "source": "mining.com",
+      "date": "Tue, 29 Sep 2026 22:42:21 +0000"
+    },
     {
       "title": "US Government Presents Regulatory Gift to Gas Automakers",
       "link": "https://oilprice.com/Energy/Energy-General/US-Government-Presents-Regulatory-Gift-to-Gas-Automakers.html",
@@ -56,40 +86,10 @@
       "date": "Tue, 29 Sep 2026 13:20:00 -0500"
     },
     {
-      "title": "Trump and Xi Buy Time, But Solve Almost Nothing",
-      "link": "https://oilprice.com/Energy/Energy-General/Trump-and-Xi-Buy-Time-But-Solve-Almost-Nothing.html",
-      "source": "OilPrice",
-      "date": "Tue, 29 Sep 2026 13:00:00 -0500"
-    },
-    {
       "title": "Lake Resources gets environmental green light for Kachi lithium project in Argentina",
       "link": "https://www.mining.com/lake-resources-gets-environmental-green-light-for-kachi-lithium-project-in-argentina/",
       "source": "mining.com",
       "date": "Tue, 29 Sep 2026 17:41:50 +0000"
-    },
-    {
-      "title": "World's Tallest Dam Project Gets New Life With Fresh World Bank Funding",
-      "link": "https://oilprice.com/Alternative-Energy/Hydroelectric/Worlds-Tallest-Dam-Project-Gets-New-Life-With-Fresh-World-Bank-Funding.html",
-      "source": "OilPrice",
-      "date": "Tue, 29 Sep 2026 12:00:00 -0500"
-    },
-    {
-      "title": "Copper Intelligence, CoTec partner for DRC tailings processing",
-      "link": "https://www.mining.com/copper-intelligence-cotec-partner-for-drc-copper-tailing-processing/",
-      "source": "mining.com",
-      "date": "Tue, 29 Sep 2026 16:14:11 +0000"
-    },
-    {
-      "title": "Golden Cariboo outlines nearly 1M oz inferred in BC",
-      "link": "https://www.mining.com/golden-cariboo-outlines-nearly-1m-oz-inferred-in-bc/",
-      "source": "mining.com",
-      "date": "Tue, 29 Sep 2026 15:43:59 +0000"
-    },
-    {
-      "title": "Atlas’ Malacacheta emerges as South America’s largest graphite project",
-      "link": "https://www.mining.com/atlas-malacacheta-emerges-as-south-americas-largest-graphite-project/",
-      "source": "mining.com",
-      "date": "Tue, 29 Sep 2026 15:12:48 +0000"
     }
   ]
 }
