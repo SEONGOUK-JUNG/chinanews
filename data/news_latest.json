@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-09-30T10:11:01+09:00",
+  "run_at_kst": "2026-09-30T20:09:21+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "China’s Thermal Coal Prices Surge to Three-Year High",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Thermal-Coal-Prices-Surge-to-Three-Year-High.html",
+      "source": "OilPrice",
+      "date": "Wed, 30 Sep 2026 05:30:00 -0500"
+    },
+    {
+      "title": "Foreign Investors Pull $3.2 Billion From Indian Markets as Oil Rally Returns",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Foreign-Investors-Pull-32-Billion-From-Indian-Markets-as-Oil-Rally-Returns.html",
+      "source": "OilPrice",
+      "date": "Wed, 30 Sep 2026 04:30:00 -0500"
+    },
+    {
+      "title": "India Boosts Middle East Oil Imports, Cuts Russian Flows",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Boosts-Middle-East-Oil-Imports-Cuts-Russian-Flows.html",
+      "source": "OilPrice",
+      "date": "Wed, 30 Sep 2026 03:30:00 -0500"
+    },
+    {
+      "title": "JP Morgan, Goldman Diverge on Hormuz Oil Flow Estimates",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/JP-Morgan-Goldman-Diverge-on-Hormuz-Oil-Flow-Estimates.html",
+      "source": "OilPrice",
+      "date": "Wed, 30 Sep 2026 02:00:00 -0500"
+    },
+    {
+      "title": "Oil Prices Climb as Trump Rules Out Easing Iran Sanctions",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-Trump-Rules-Out-Easing-Iran-Sanctions.html",
+      "source": "OilPrice",
+      "date": "Wed, 30 Sep 2026 00:37:03 -0500"
+    },
     {
       "title": "Oil's New Normal Is Higher Prices",
       "link": "https://oilprice.com/Energy/Energy-General/Oils-New-Normal-Is-Higher-Prices.html",
@@ -44,46 +74,16 @@
       "date": "Tue, 29 Sep 2026 17:00:00 -0500"
     },
     {
-      "title": "US Distillate Stocks Continue to Fall As Crude Inventories Build",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Distillate-Stocks-Continue-to-Fall-As-Crude-Inventories-Build.html",
-      "source": "OilPrice",
-      "date": "Tue, 29 Sep 2026 16:02:23 -0500"
-    },
-    {
-      "title": "White House Weighs Red-Dyed Diesel Relief as Fuel Prices Soar",
-      "link": "https://oilprice.com/Energy/Energy-General/White-House-Weighs-Red-Dyed-Diesel-Relief-as-Fuel-Prices-Soar.html",
-      "source": "OilPrice",
-      "date": "Tue, 29 Sep 2026 16:00:00 -0500"
-    },
-    {
-      "title": "California and the EU Move to Rein In the Environmental Cost of AI",
-      "link": "https://oilprice.com/Energy/Energy-General/California-and-the-EU-Move-to-Rein-In-the-Environmental-Cost-of-AI.html",
-      "source": "OilPrice",
-      "date": "Tue, 29 Sep 2026 15:00:00 -0500"
-    },
-    {
       "title": "Trump’s Venezuela gold push hits refiner snag: NYT",
       "link": "https://www.mining.com/trumps-venezuela-gold-push-hits-refiner-snag-nyt/",
       "source": "mining.com",
       "date": "Tue, 29 Sep 2026 19:47:24 +0000"
     },
     {
-      "title": "Iran Threatens Middle East Energy Infrastructure as Hormuz Standoff Deepens",
-      "link": "https://oilprice.com/Energy/Energy-General/Iran-Threatens-Middle-East-Energy-Infrastructure-as-Hormuz-Standoff-Deepens.html",
-      "source": "OilPrice",
-      "date": "Tue, 29 Sep 2026 14:00:00 -0500"
-    },
-    {
       "title": "Mining Forum: Friedland wants to kill the SAG mill",
       "link": "https://www.mining.com/mining-forum-friedland-wants-to-kill-the-sag-mill/",
       "source": "mining.com",
       "date": "Tue, 29 Sep 2026 18:47:00 +0000"
-    },
-    {
-      "title": "U.S. Taps Strategic Oil Reserve Again as Diesel Tops $6",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Taps-Strategic-Oil-Reserve-Again-as-Diesel-Tops-6.html",
-      "source": "OilPrice",
-      "date": "Tue, 29 Sep 2026 13:20:00 -0500"
     },
     {
       "title": "Lake Resources gets environmental green light for Kachi lithium project in Argentina",

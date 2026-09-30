@@ -1,15 +1,45 @@
 {
-  "run_at_kst": "2026-09-30T14:10:07+09:00",
+  "run_at_kst": "2026-09-30T20:09:21+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "[경제] 중국인민은행, PSL 금리 0.25%포인트 인하...실물경제 지원 확대",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJNHhRaXYxaU82WUhrY0hSN19wc3o3MWM3QzcycE1uT1JyaGQzRmZtd2ZONnVDT252VU9RalllU3NnRk5WRDVVbElhTzJmM0hfelQ5MF9KQV8wYjI2Q1R4bTdiWGlFWC1IYl9j?oc=5",
-      "source": "서울뉴스통신",
-      "date": "Wed, 30 Sep 2026 04:49:15 GMT"
+      "title": "[중국증시-마감] 부양책 실망 속 혼조",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oeE92WEcwZ3dSMl9JWEs5RFpycC1hVlpRcGczZnlmV28waUc4MFl2anlfaVQybXVfWFJHNXZMTW5TSm9iSjZfeDlaYm5VNG81ckFMTUNKYmdVd2FsUHpuSDdodUJBTDBGckw1ck90cFo?oc=5",
+      "source": "연합인포맥스",
+      "date": "Wed, 30 Sep 2026 09:16:02 GMT"
+    },
+    {
+      "title": "[경제] 中 서비스업, 상반기 호조세 이어가...경제 성장 기여율 66.1%",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Na0pYanVpOXFQOU5mU1BEanp3X1JibEdBODltei00OG9RSFA1cEhDbzg4UkJSS2E2ODJzekF1dHpCZG9SUEZsYzFQYjZDZGdoZHZnRGVXWXRCcEJ3LWhMbjZ0UW1wQ2lqSXNBcFN4N3dRRmM?oc=5",
+      "source": "동방일보",
+      "date": "Wed, 30 Sep 2026 08:12:57 GMT"
+    },
+    {
+      "title": "중국, 9월 제조업 PMI 50.1...경기 확장 전환",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPVjBPamNuSWZrajZoclZWNlpOSS1XQ3FFUEs0RnBoRmdGUlhidGNFVFZsRTUtSzJGalg1dFowRzc2M3dta0RGcUVYUWRtUzg?oc=5",
+      "source": "v.daum.net",
+      "date": "Wed, 30 Sep 2026 08:04:00 GMT"
+    },
+    {
+      "title": "중국 체감 경기 개선됐는데…왜 고민 깊어질까, 문제는 부동산?",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNck44NGtBSmQ5M0NtTE1xM05iNl9OR1k4WEZiU19adHVvbG91UEpOYVpNZ1BwaXNLOWpnbXlXajF2cnJzaWZES1R1b0UySjNUU3dJQVIwdFNYbzVaM3lXYnlpa2w3bTFKUXV0bllJTjR4Ni02cFNidmNKTjkzdmt3dg?oc=5",
+      "source": "edaily.co.kr",
+      "date": "Wed, 30 Sep 2026 07:25:13 GMT"
+    },
+    {
+      "title": "中학자 \"중국 2035년까지 연 4.6% 성장…수출 주도 지속 불가능\"",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nbjdiX0FnZThSUTlwOFh3S2hDem43MUdzZG8xYS05ZXhRQVZkRUI4RGljWUM5TnlIb0RYaDduUkdVdDYtR3Q4TGc2ZHlkYUF3M1E?oc=5",
+      "source": "매일경제 마켓",
+      "date": "Wed, 30 Sep 2026 05:49:19 GMT"
+    },
+    {
+      "title": "中학자 \"중국 2035년까지 연 4.6% 성장…수출 주도 지속 불가능\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXTkRpSWw2YzE3RWpGa1BEbjBFN2o3U3B2bnBvd1FhVUJHY0V0Y1dENGNGeFRPejF6UVZiT3cyUkYwYlV2dnR6RG9ZQ1FIVEk2VENGbUtrbVc5Y03SAWBBVV95cUxOVHdTMXJOc0tIRzl0cWlpb1hIN0RGMjZXN0xFN1lwRGktLXNvVHI5R2gwZlQtSy1ReWpiNVY3T2lSTnJwXzY2MkxNTThSTVVIWC1WNHZJMXRYZ25GS0huRVQ?oc=5",
+      "source": "연합뉴스",
+      "date": "Wed, 30 Sep 2026 05:49:19 GMT"
     },
     {
       "title": "중국 제조업 PMI 두 달만에 간신히 확장국면",
@@ -30,28 +60,10 @@
       "date": "Wed, 30 Sep 2026 02:10:29 GMT"
     },
     {
-      "title": "서울경제진흥원(SBA), 중국 청두 고신구서 서울 우수 상품 전시관 공식 개관",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xRk9sb3FjM05OYWxIM1Z2Yktzd2sycy1LaGFZdHZ6ZlE1RUlzbnE4T1JQTlNLNGstdmhsX0k3WFRPYVNqa3htUWJTV2RfQzlTbFh6SUg1ZjRzMXpFQzVicDVyaE9sN2VOdFJpU3UwVQ?oc=5",
-      "source": "서울시티",
-      "date": "Tue, 29 Sep 2026 22:16:09 GMT"
-    },
-    {
-      "title": "중국·독일, EU 무역갈등 속 화상회담",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CdUN1NzZNcG1PS3Y3XzFzQjZlc094TXB4dE1sUDd2WG91OC05T3E0dk54bE5VQVZZRDZRV3RtcklISUNHem1rci1tY0wxNEpSdERVRnBaRW4ycTNxTmpYcVhTQVVPdw?oc=5",
-      "source": "시사주간",
-      "date": "Tue, 29 Sep 2026 20:30:00 GMT"
-    },
-    {
       "title": "중국·독일, EU 무역갈등 속 화상회담",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RWjNqT3VYenBVQ3NvUXhlMXBoM2FnU25Md1ZCOHRpdEpsWkdhUDBWRmYwOG5UaVRiY3dDUWhzOUNKZTFQcmNCWEp3a1Q5SG03ZEtwdGZoNnBPS1c1dDJmeUdWSkkwWFUxcTFB?oc=5",
-      "source": "시사주간",
+      "source": "sisaweekly.com",
       "date": "Tue, 29 Sep 2026 20:30:00 GMT"
-    },
-    {
-      "title": "중국 9월 제조업 PMI 50.1%…다시 경기 확장 국면 진입",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hMnFEZWhEcGZKaVA2NnpJS3ZTckc5YlpNd1ZyRjlTdUFUcDhMaFpJYzQ1WHM2X1lOU3VCUFVVVmhsTndxV1NzVHFVbmVIa1FLU0JqdjNBb3dRWE81Z2NqZVVBMA?oc=5",
-      "source": "CGTN",
-      "date": "Tue, 29 Sep 2026 11:36:32 GMT"
     },
     {
       "title": "[한동균 칼럼] 탈중국 시대, 더 넓어지는 중국 공급망",
@@ -60,22 +72,10 @@
       "date": "Tue, 29 Sep 2026 08:25:05 GMT"
     },
     {
-      "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Mon, 28 Sep 2026 07:00:00 GMT"
-    },
-    {
       "title": "시진핑 국빈 만찬에 ‘중국 기업인’ 빠진 이유는",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vZ1ZtRTVNNl81ajUxZjRrb0ZOTDh3RWw4M0hXb2MxZXVQcEhaVXVIZ3ZXYV92eG5vbmVGVlozRTR2aVpJMzZ3NWJBZ2s5WGRJWFE?oc=5",
-      "source": "mk.co.kr",
+      "source": "매일경제",
       "date": "Sun, 27 Sep 2026 05:11:37 GMT"
-    },
-    {
-      "title": "미국이 싫어도 중국은 못 믿겠다…중동이 마주한 'G2의 딜레마'",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00eHl1RnpOUk9zU0xFNzBwYlNCTzFWNkxHX0FJQ0owZndpWW4yY0hpUnJKazViX21FWHpIX2twSFQwbG9YS3JSQUFVSElObmdSYWxGUnUwaVoxQQ?oc=5",
-      "source": "한국경제",
-      "date": "Sat, 26 Sep 2026 23:00:10 GMT"
     }
   ]
 }
