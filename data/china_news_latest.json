@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-01T07:20:05+09:00",
+  "run_at_kst": "2026-10-01T10:10:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -14,8 +14,26 @@
     {
       "title": "미 하원 중국특위 위원장 “한국 대중 밀착, 미국에 상당한 위험”…국무장관에 서한, 대중 경계 촉구",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GeURhMXh6blJsd2VZcjZkYnRjRE94WGZzN2twdG5GM1E2WnBKTWtITGtiajRfVEdSRHZncHFwY0RNUlRnM1hoQnJYVHFGSWw0cURCWGNPTk5oN1BndldQZ2FBSWZSRDBNZWV1alJR?oc=5",
-      "source": "asiatoday.co.kr",
+      "source": "아시아투데이",
       "date": "Wed, 30 Sep 2026 20:56:58 GMT"
+    },
+    {
+      "title": "사상 최대 흑자와 텅 빈 지갑… 중국 ‘K자형 경제 구조’의 한계",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcUJsRHkwczM2bTE4c1RZaTN6MXRMSUtvNFo4TkxyN1JOMmhRNmlrWkNIcEFjSWxhWEVNNTA5RU9VaXhqNUdjM3BDYzBQS2FabS14SmlVTno1OVBwZUxsMG5jWWJnUUlfajhGeWVsR2g3aGhFbXU4SkFBaDVuSnExWl84OXE0NFh1cVRvcmNB?oc=5",
+      "source": "조선일보",
+      "date": "Wed, 30 Sep 2026 18:00:00 GMT"
+    },
+    {
+      "title": "시진핑 “경제, 압력 견디며 전진”…개혁 심화·연간 목표 완수 주문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TNzZyTXljS21yb2NvSkpXVjIxOV9Pc1NCN094aUpUSUpyMlRrQ2liU3JzUUh6MVU2X2hMc3RHQWhsVDBFMmQyOEgyUnc4dUhrajhNUl9GbWZmMHEzbXEwMncyOEg2VU0?oc=5",
+      "source": "연합뉴스TV",
+      "date": "Wed, 30 Sep 2026 16:32:00 GMT"
+    },
+    {
+      "title": "시진핑 \"中 경제 압력 견디며 전진…'대만 독립 세력' 단호히 타격\"",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvZHNXLXRSRDRLLWJDQXZyck1HZFhrVTdwZFZnUTlKQmJuak1zT2JHNkJ3SUZvZDFmcl9SSldKRzlkNTEyallDWExjNGw0cTg?oc=5",
+      "source": "v.daum.net",
+      "date": "Wed, 30 Sep 2026 13:46:00 GMT"
     },
     {
       "title": "시진핑 \"中경제, 압력속 전진…대만 독립세력 단호히 타격\"",
@@ -54,28 +72,10 @@
       "date": "Wed, 30 Sep 2026 05:49:19 GMT"
     },
     {
-      "title": "중국 제조업 PMI 두 달만에 간신히 확장국면",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44R2hKcURoZ1QxY082bUFaXzRaQXRqcU9rMmJ6SnJUbWlieXJGMVlkZUZiN0RJUVVnZFQ0YVpYekMwTHhyWEJQVnhHM1EyNnc?oc=5",
-      "source": "v.daum.net",
-      "date": "Wed, 30 Sep 2026 02:37:00 GMT"
-    },
-    {
-      "title": "중국, 인프라 투자 확대 위해 정책금리 0.25%P 인하",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45NldCMm1uWGZKX3Z4NHhGSmd0VlAycTRvU0ZpVFJ4UUdDd1ZfWGpHSDFtQzQyMklONzgtV2kzRlFibWxnek91enlNWlpacTQ?oc=5",
-      "source": "v.daum.net",
-      "date": "Wed, 30 Sep 2026 02:30:00 GMT"
-    },
-    {
       "title": "중국 새로운 주택 부양책에도 바닥 아직 멀었다",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVWEZacWE2dU42eHpMQlE1aUlyVmNkdEVVNEZGUFVxakhJd3BIWTFLMHllQ1p4QXNKam1GR1I0NXBta0FMcG1WWHJveE41R2NoZWxMVzBnT3BJUdIBWEFVX3lxTFByTXZLMmdaNFo4dTl4QUJqTzRhWEJvU3BxQVFvRkpFY3pMcE9YdzZHS2VSVGlkQ1VGOEpKX18teG53SjhUbHFBNnhtTERaNEg4QTBDODg1N3M?oc=5",
       "source": "아주경제",
       "date": "Wed, 30 Sep 2026 02:10:29 GMT"
-    },
-    {
-      "title": "[한동균 칼럼] 탈중국 시대, 더 넓어지는 중국 공급망",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQN3N6YU4wRXB1aWFKV0g3d3Y3cE1JdTZaMkpaeV9PMVNhWXdDclV0dDNXeTEwME5iaEpBQThQdzFJM3F6dTZXMUpWNnFZX0NNcGIxcnpFOGlyd9IBWEFVX3lxTE9oaGNhd1JaN2Frd1lXbEZDU0xhVHB4QUFtVEp2bXl1a2ZOM0xTSm5WN25CdHVzZ1Y2VVdLYnlhNmRhQVAyc2dnbTB6T2VFOTRpSkVZV0tHaHE?oc=5",
-      "source": "아주경제",
-      "date": "Tue, 29 Sep 2026 08:25:05 GMT"
     }
   ]
 }

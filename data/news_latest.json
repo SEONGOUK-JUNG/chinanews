@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-01T07:20:05+09:00",
+  "run_at_kst": "2026-10-01T10:10:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,24 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Iran’s Disappearing Oil Is Becoming Everyone’s Problem",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Irans-Disappearing-Oil-Is-Becoming-Everyones-Problem.html",
+      "source": "OilPrice",
+      "date": "Wed, 30 Sep 2026 19:00:00 -0500"
+    },
+    {
+      "title": "Texas startup awarded DoD contract for scandium recovery",
+      "link": "https://www.mining.com/texas-startup-awarded-dod-contract-for-scandium-recovery/",
+      "source": "mining.com",
+      "date": "Wed, 30 Sep 2026 23:40:16 +0000"
+    },
+    {
+      "title": "EU Gas Crunch Forces Rethink of Methane Rules",
+      "link": "https://oilprice.com/Energy/Natural-Gas/EU-Gas-Crunch-Forces-Rethink-of-Methane-Rules.html",
+      "source": "OilPrice",
+      "date": "Wed, 30 Sep 2026 18:00:00 -0500"
+    },
     {
       "title": "US DOE awards $29.5M for 17 National Lab mining tech projects",
       "link": "https://www.mining.com/us-doe-awards-29-5m-for-17-national-lab-mining-tech-projects/",
@@ -68,28 +86,10 @@
       "date": "Wed, 30 Sep 2026 12:31:07 -0500"
     },
     {
-      "title": "Europe Gets Hit by Another Energy-Driven Inflation Shock",
-      "link": "https://oilprice.com/Energy/Energy-General/Europe-Gets-Hit-by-Another-Energy-Driven-Inflation-Shock.html",
-      "source": "OilPrice",
-      "date": "Wed, 30 Sep 2026 12:00:00 -0500"
-    },
-    {
-      "title": "Deadly Blast Hits Major Indian Refinery as Fuel Markets Tighten",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Deadly-Blast-Hits-Major-Indian-Refinery-as-Fuel-Markets-Tighten.html",
-      "source": "OilPrice",
-      "date": "Wed, 30 Sep 2026 11:07:32 -0500"
-    },
-    {
       "title": "Hercules extends Idaho copper discovery",
       "link": "https://www.mining.com/hercules-extends-idaho-copper-discovery/",
       "source": "mining.com",
       "date": "Wed, 30 Sep 2026 16:07:02 +0000"
-    },
-    {
-      "title": "Arizona Gold finds high-grade zones at main project",
-      "link": "https://www.mining.com/arizona-gold-finds-high-grade-zones-at-main-project/",
-      "source": "mining.com",
-      "date": "Wed, 30 Sep 2026 15:25:49 +0000"
     }
   ]
 }
