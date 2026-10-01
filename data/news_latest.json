@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-01T10:10:05+09:00",
+  "run_at_kst": "2026-10-01T20:08:25+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "China Halts Fuel Exports Until Further Notice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Halts-Fuel-Exports-Until-Further-Notice.html",
+      "source": "OilPrice",
+      "date": "Thu, 01 Oct 2026 05:30:00 -0500"
+    },
+    {
+      "title": "Taiwan Allocates $13 Billion to Shield Consumers From High Energy Costs",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Taiwan-Allocates-13-Billion-to-Shield-Consumers-From-High-Energy-Costs.html",
+      "source": "OilPrice",
+      "date": "Thu, 01 Oct 2026 04:00:00 -0500"
+    },
+    {
+      "title": "Pakistan Weighs Direct LNG Imports for Power Plants to Ease Energy Crisis",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Weighs-Direct-LNG-Imports-for-Power-Plants-to-Ease-Energy-Crisis.html",
+      "source": "OilPrice",
+      "date": "Thu, 01 Oct 2026 03:00:00 -0500"
+    },
+    {
+      "title": "Trump Admits Diesel U.S. Export Ban Could Raise Gasoline Prices",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Admits-Diesel-US-Export-Ban-Could-Raise-Gasoline-Prices.html",
+      "source": "OilPrice",
+      "date": "Thu, 01 Oct 2026 02:00:00 -0500"
+    },
+    {
+      "title": "Brent Tumbles to $96 as Gulf Oil Flows Bounce Back",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Tumbles-to-96-as-Gulf-Oil-Flows-Bounce-Back.html",
+      "source": "OilPrice",
+      "date": "Thu, 01 Oct 2026 00:17:00 -0500"
+    },
     {
       "title": "Iran’s Disappearing Oil Is Becoming Everyone’s Problem",
       "link": "https://oilprice.com/Energy/Crude-Oil/Irans-Disappearing-Oil-Is-Becoming-Everyones-Problem.html",
@@ -38,28 +68,10 @@
       "date": "Wed, 30 Sep 2026 17:00:00 -0500"
     },
     {
-      "title": "Can Quantum Computing Tame AI's Energy Appetite?",
-      "link": "https://oilprice.com/Energy/Energy-General/Can-Quantum-Computing-Tame-AIs-Energy-Appetite.html",
-      "source": "OilPrice",
-      "date": "Wed, 30 Sep 2026 16:00:00 -0500"
-    },
-    {
       "title": "Deep Sea Minerals, Westwin partner on US polymetallic nodule processing",
       "link": "https://www.mining.com/deep-sea-minerals-westwin-partner-on-us-polymetallic-nodule-processing/",
       "source": "mining.com",
       "date": "Wed, 30 Sep 2026 20:29:24 +0000"
-    },
-    {
-      "title": "Africa’s Massive Cement Expansion Could Drive An Energy Boom",
-      "link": "https://oilprice.com/Energy/Energy-General/Africas-Massive-Cement-Expansion-Could-Drive-An-Energy-Boom.html",
-      "source": "OilPrice",
-      "date": "Wed, 30 Sep 2026 15:00:00 -0500"
-    },
-    {
-      "title": "Guyana’s Oil Riches Are Transforming Its Economy at Breakneck Speed",
-      "link": "https://oilprice.com/Energy/Energy-General/Guyanas-Oil-Riches-Are-Transforming-Its-Economy-at-Breakneck-Speed.html",
-      "source": "OilPrice",
-      "date": "Wed, 30 Sep 2026 14:00:00 -0500"
     },
     {
       "title": "Gold Fields halts Windfall work as Quebec permit lapses",
@@ -68,22 +80,10 @@
       "date": "Wed, 30 Sep 2026 18:02:33 +0000"
     },
     {
-      "title": "The World’s Diesel Problem Runs Deeper Than the Iran War",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Worlds-Diesel-Problem-Runs-Deeper-Than-the-Iran-War.html",
-      "source": "OilPrice",
-      "date": "Wed, 30 Sep 2026 13:00:00 -0500"
-    },
-    {
       "title": "Glencore’s Hunter Valley coal mine cleared to 2045",
       "link": "https://www.mining.com/glencores-hunter-valley-coal-mine-cleared-to-2045/",
       "source": "mining.com",
       "date": "Wed, 30 Sep 2026 17:34:12 +0000"
-    },
-    {
-      "title": "U.S. Oil and Gas Production Climbs Despite Extreme Oil Price Volatility",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Oil-and-Gas-Production-Climbs-Despite-Extreme-Oil-Price-Volatility.html",
-      "source": "OilPrice",
-      "date": "Wed, 30 Sep 2026 12:31:07 -0500"
     },
     {
       "title": "Hercules extends Idaho copper discovery",

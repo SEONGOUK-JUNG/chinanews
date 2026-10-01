@@ -1,15 +1,27 @@
 {
-  "run_at_kst": "2026-10-01T14:10:08+09:00",
+  "run_at_kst": "2026-10-01T20:08:25+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "[양기태의 글로벌 경제 읽기] 엇갈리는 두 흐름, 중국 경제를 읽다",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wYnhNODgtcGlRYllnbVJlM3dIU2tZTF92aWJrOGVRNkZBM3FrZGVENkk5ZjJhZlhQZm51aDV5ek9XMFBoak1LVlR0XzJwYU0?oc=5",
+      "source": "v.daum.net",
+      "date": "Thu, 01 Oct 2026 07:20:04 GMT"
+    },
+    {
       "title": "공세 수위 높인 시진핑…“대만독립세력 단호히 타격” [정다은의 차이나코어]",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzWjNLZzVQeEFyX0VKX1cyTGRSSnU3ejM5Sks5cERydzZCUTV1VXJBeVlwVXY2eXVOV1J6a1cxWkw1b3RjS0ktdlN2S29kS0NmRkHSAVNBVV95cUxQYVpSS3dtTUJaVzMxVXBweDhsVmZGMm9LUTNhaHBCNzItU3lOQk1Qa0ZrRy1hZ2FUZ0dTUldGY3hOcWpYbDQ0bW5aM3JmcGVXYW10Yw?oc=5",
-      "source": "서울경제",
+      "source": "sedaily.com",
       "date": "Thu, 01 Oct 2026 04:55:14 GMT"
+    },
+    {
+      "title": "中국경절 '7일 황금연휴' 돌입⋯21억 이동 속 내수 활성화 기대",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OTWV3QnEwVEhQLVlGVWNtZU5XZ2tja3plUE1oTlRaS040aFlKbVA1TjAxN2hrUkNKOXVsX1U5QWpwNTJpV1hBUjY3c2NBZWFPY2JWYUdOcXJuYkUyWDhPeFdyc1lNUVZTV200SlFfbS1jUjl5?oc=5",
+      "source": "이투데이",
+      "date": "Thu, 01 Oct 2026 02:21:00 GMT"
     },
     {
       "title": "미 하원 중국특위 위원장 “한국 대중 밀착, 미국에 상당한 위험”…국무장관에 서한, 대중 경계 촉구",
@@ -30,12 +42,6 @@
       "date": "Wed, 30 Sep 2026 13:44:45 GMT"
     },
     {
-      "title": "시진핑 \"中경제, 압력속 전진…대만 독립세력 단호히 타격\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yaWhKSU1MUWduRm5pc0wwU01FUVMzajFweXdvUjhDajVGNFdSSzdubDkwZDlvUWFONGFieDhOR043ZmFJanoybUNjVzJpWlQyYkZaU3g4OC1JbFdCelhuX9IBeEFVX3lxTFB5cVg5bWM1Q3VPaUJRZlAzTmM0a2ozRHNBWEpFZmlRZERJOUFWR0J1OTBDVGdDRXFiY3BESEdZVnRmM2RXd2hwSjlpeTBSN1plR0czS0JlVVJJUXJZTmhzMTJ5Mi15STdXMkQyYTdpYnpUdlRRLUFTNg?oc=5",
-      "source": "뉴시스",
-      "date": "Wed, 30 Sep 2026 13:24:57 GMT"
-    },
-    {
       "title": "시진핑 “중국 경제, 압력 견디며 전진…대만독립 세력 단호히 타격”",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ocHB4VFdINk5GN0RzMDEtRnlCdTB1Ql9rblFMa3BGNEFjOG90TE9WVmpxc1lkYlY4QmhQUG9qaFVHeE1qcUY3ODZ1WEZ0X00?oc=5",
       "source": "v.daum.net",
@@ -54,22 +60,16 @@
       "date": "Wed, 30 Sep 2026 12:11:27 GMT"
     },
     {
+      "title": "중국, 9월 제조업 PMI 50.1...경기 확장 전환",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPVjBPamNuSWZrajZoclZWNlpOSS1XQ3FFUEs0RnBoRmdGUlhidGNFVFZsRTUtSzJGalg1dFowRzc2M3dta0RGcUVYUWRtUzg?oc=5",
+      "source": "v.daum.net",
+      "date": "Wed, 30 Sep 2026 08:04:00 GMT"
+    },
+    {
       "title": "中학자 \"중국 2035년까지 연 4.6% 성장…수출 주도 지속 불가능\"",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nbjdiX0FnZThSUTlwOFh3S2hDem43MUdzZG8xYS05ZXhRQVZkRUI4RGljWUM5TnlIb0RYaDduUkdVdDYtR3Q4TGc2ZHlkYUF3M1E?oc=5",
-      "source": "매일경제 마켓",
-      "date": "Wed, 30 Sep 2026 05:49:19 GMT"
-    },
-    {
-      "title": "중국 제조업 PMI 두 달만에 간신히 확장국면",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44R2hKcURoZ1QxY082bUFaXzRaQXRqcU9rMmJ6SnJUbWlieXJGMVlkZUZiN0RJUVVnZFQ0YVpYekMwTHhyWEJQVnhHM1EyNnc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90SW8zcVlLU09OUkRLWFl4UnI3WHRDZVBFeDVlMWFWQXRIbXI5SHlmQlF5cmswNVN6X29EMkJFazYtMVUwcnk4SlNqUW1EcDA?oc=5",
       "source": "v.daum.net",
-      "date": "Wed, 30 Sep 2026 02:37:00 GMT"
-    },
-    {
-      "title": "중국, 인프라 투자 확대 위해 정책금리 0.25%P 인하",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45NldCMm1uWGZKX3Z4NHhGSmd0VlAycTRvU0ZpVFJ4UUdDd1ZfWGpHSDFtQzQyMklONzgtV2kzRlFibWxnek91enlNWlpacTQ?oc=5",
-      "source": "v.daum.net",
-      "date": "Wed, 30 Sep 2026 02:30:00 GMT"
+      "date": "Wed, 30 Sep 2026 05:50:58 GMT"
     },
     {
       "title": "중국 새로운 주택 부양책에도 바닥 아직 멀었다",
