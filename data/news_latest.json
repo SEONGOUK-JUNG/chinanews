@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-01T20:08:25+09:00",
+  "run_at_kst": "2026-10-02T07:08:31+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
-      "title": "China Halts Fuel Exports Until Further Notice",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Halts-Fuel-Exports-Until-Further-Notice.html",
+      "title": "Power Demand Is Surging Faster Than Grids Can Keep Up",
+      "link": "https://oilprice.com/Energy/Energy-General/Power-Demand-Is-Surging-Faster-Than-Grids-Can-Keep-Up.html",
       "source": "OilPrice",
-      "date": "Thu, 01 Oct 2026 05:30:00 -0500"
+      "date": "Thu, 01 Oct 2026 17:00:00 -0500"
     },
     {
-      "title": "Taiwan Allocates $13 Billion to Shield Consumers From High Energy Costs",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Taiwan-Allocates-13-Billion-to-Shield-Consumers-From-High-Energy-Costs.html",
+      "title": "Venezuela’s Oil Exports Drop 9% as Freight Costs Bite",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Exports-Drop-9-as-Freight-Costs-Bite.html",
       "source": "OilPrice",
-      "date": "Thu, 01 Oct 2026 04:00:00 -0500"
+      "date": "Thu, 01 Oct 2026 16:00:00 -0500"
     },
     {
-      "title": "Pakistan Weighs Direct LNG Imports for Power Plants to Ease Energy Crisis",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Weighs-Direct-LNG-Imports-for-Power-Plants-to-Ease-Energy-Crisis.html",
-      "source": "OilPrice",
-      "date": "Thu, 01 Oct 2026 03:00:00 -0500"
-    },
-    {
-      "title": "Trump Admits Diesel U.S. Export Ban Could Raise Gasoline Prices",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Admits-Diesel-US-Export-Ban-Could-Raise-Gasoline-Prices.html",
-      "source": "OilPrice",
-      "date": "Thu, 01 Oct 2026 02:00:00 -0500"
-    },
-    {
-      "title": "Brent Tumbles to $96 as Gulf Oil Flows Bounce Back",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Tumbles-to-96-as-Gulf-Oil-Flows-Bounce-Back.html",
-      "source": "OilPrice",
-      "date": "Thu, 01 Oct 2026 00:17:00 -0500"
-    },
-    {
-      "title": "Iran’s Disappearing Oil Is Becoming Everyone’s Problem",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Irans-Disappearing-Oil-Is-Becoming-Everyones-Problem.html",
-      "source": "OilPrice",
-      "date": "Wed, 30 Sep 2026 19:00:00 -0500"
-    },
-    {
-      "title": "Texas startup awarded DoD contract for scandium recovery",
-      "link": "https://www.mining.com/texas-startup-awarded-dod-contract-for-scandium-recovery/",
+      "title": "BC First Nation terminates agreements with Spanish Mountain Gold, shares plunge",
+      "link": "https://www.mining.com/bc-first-nation-terminates-agreements-with-spanish-mountain-gold-shares-plunge/",
       "source": "mining.com",
-      "date": "Wed, 30 Sep 2026 23:40:16 +0000"
+      "date": "Thu, 01 Oct 2026 20:56:11 +0000"
     },
     {
-      "title": "EU Gas Crunch Forces Rethink of Methane Rules",
-      "link": "https://oilprice.com/Energy/Natural-Gas/EU-Gas-Crunch-Forces-Rethink-of-Methane-Rules.html",
+      "title": "China Halts October Fuel Exports as Global Diesel Crunch Deepens",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Halts-October-Fuel-Exports-as-Global-Diesel-Crunch-Deepens.html",
       "source": "OilPrice",
-      "date": "Wed, 30 Sep 2026 18:00:00 -0500"
+      "date": "Thu, 01 Oct 2026 15:40:00 -0500"
     },
     {
-      "title": "US DOE awards $29.5M for 17 National Lab mining tech projects",
-      "link": "https://www.mining.com/us-doe-awards-29-5m-for-17-national-lab-mining-tech-projects/",
-      "source": "mining.com",
-      "date": "Wed, 30 Sep 2026 22:10:50 +0000"
-    },
-    {
-      "title": "Venezuela’s Oil Revival Accelerates as Foreign Companies Return",
-      "link": "https://oilprice.com/Energy/Energy-General/Venezuelas-Oil-Revival-Accelerates-as-Foreign-Companies-Return.html",
+      "title": "UK Holds Emergency Talks With U.S. as Diesel Crisis Escalates",
+      "link": "https://oilprice.com/Energy/Energy-General/UK-Holds-Emergency-Talks-With-US-as-Diesel-Crisis-Escalates.html",
       "source": "OilPrice",
-      "date": "Wed, 30 Sep 2026 17:00:00 -0500"
+      "date": "Thu, 01 Oct 2026 15:00:00 -0500"
     },
     {
-      "title": "Deep Sea Minerals, Westwin partner on US polymetallic nodule processing",
-      "link": "https://www.mining.com/deep-sea-minerals-westwin-partner-on-us-polymetallic-nodule-processing/",
-      "source": "mining.com",
-      "date": "Wed, 30 Sep 2026 20:29:24 +0000"
+      "title": "Middle East Oil Exports Stage a Remarkable Comeback",
+      "link": "https://oilprice.com/Energy/Energy-General/Middle-East-Oil-Exports-Stage-a-Remarkable-Comeback.html",
+      "source": "OilPrice",
+      "date": "Thu, 01 Oct 2026 14:00:00 -0500"
     },
     {
-      "title": "Gold Fields halts Windfall work as Quebec permit lapses",
-      "link": "https://www.mining.com/gold-fields-halts-windfall-work-as-quebec-permit-lapses/",
+      "title": "Mountain Province Diamonds gives De Beers 49% Gahcho Kué stake",
+      "link": "https://www.mining.com/mountain-province-gives-de-beers-49-gahcho-kue-stake/",
       "source": "mining.com",
-      "date": "Wed, 30 Sep 2026 18:02:33 +0000"
+      "date": "Thu, 01 Oct 2026 18:00:00 +0000"
     },
     {
-      "title": "Glencore’s Hunter Valley coal mine cleared to 2045",
-      "link": "https://www.mining.com/glencores-hunter-valley-coal-mine-cleared-to-2045/",
-      "source": "mining.com",
-      "date": "Wed, 30 Sep 2026 17:34:12 +0000"
+      "title": "Amazon Secures 20 Years of Nuclear Power From Constellation",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Amazon-Secures-20-Years-of-Nuclear-Power-From-Constellation.html",
+      "source": "OilPrice",
+      "date": "Thu, 01 Oct 2026 13:00:00 -0500"
     },
     {
-      "title": "Hercules extends Idaho copper discovery",
-      "link": "https://www.mining.com/hercules-extends-idaho-copper-discovery/",
+      "title": "BLM Opens 35,000 California Acres to December Oil and Gas Lease Sale",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/BLM-Opens-35000-California-Acres-to-December-Oil-and-Gas-Lease-Sale.html",
+      "source": "OilPrice",
+      "date": "Thu, 01 Oct 2026 12:30:00 -0500"
+    },
+    {
+      "title": "Brazil court order shuts Sigma Lithium mine",
+      "link": "https://www.mining.com/brazil-court-order-shuts-sigma-lithium-mine/",
       "source": "mining.com",
-      "date": "Wed, 30 Sep 2026 16:07:02 +0000"
+      "date": "Thu, 01 Oct 2026 17:28:45 +0000"
+    },
+    {
+      "title": "Canada Fast-Tracks 1 Million-Bpd Pacific Link Oil Pipeline to Asia",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Canada-Fast-Tracks-1-Million-Bpd-Pacific-Link-Oil-Pipeline-to-Asia.html",
+      "source": "OilPrice",
+      "date": "Thu, 01 Oct 2026 11:30:00 -0500"
+    },
+    {
+      "title": "Mining’s future is up for sale",
+      "link": "https://www.mining.com/minings-future-is-up-for-sale/",
+      "source": "mining.com",
+      "date": "Thu, 01 Oct 2026 16:08:00 +0000"
+    },
+    {
+      "title": "Worker dies in accident at Codelco’s Radomiro Tomic",
+      "link": "https://www.mining.com/worker-dies-in-accident-at-codelcos-radomiro-tomic/",
+      "source": "mining.com",
+      "date": "Thu, 01 Oct 2026 14:09:00 +0000"
+    },
+    {
+      "title": "Petra Diamonds weighs sale as market pressures mount",
+      "link": "https://www.mining.com/petra-diamonds-weighs-sale-as-market-pressures-mount/",
+      "source": "mining.com",
+      "date": "Thu, 01 Oct 2026 13:01:00 +0000"
     }
   ]
 }
