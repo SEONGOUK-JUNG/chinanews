@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-02T07:08:31+09:00",
+  "run_at_kst": "2026-10-02T07:20:04+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Grid Metals’ atomic-clock cesium resource in Manitoba ranks second globally",
+      "link": "https://www.mining.com/grid-metals-atomic-clock-cesium-resource-in-manitoba-ranks-second-globally/",
+      "source": "mining.com",
+      "date": "Thu, 01 Oct 2026 22:03:00 +0000"
+    },
     {
       "title": "Power Demand Is Surging Faster Than Grids Can Keep Up",
       "link": "https://oilprice.com/Energy/Energy-General/Power-Demand-Is-Surging-Faster-Than-Grids-Can-Keep-Up.html",
@@ -80,16 +86,10 @@
       "date": "Thu, 01 Oct 2026 16:08:00 +0000"
     },
     {
-      "title": "Worker dies in accident at Codelco’s Radomiro Tomic",
-      "link": "https://www.mining.com/worker-dies-in-accident-at-codelcos-radomiro-tomic/",
+      "title": "Beaver Creek: Gold’s bond break puts juniors in play",
+      "link": "https://www.mining.com/beaver-creek-golds-bond-break-puts-juniors-in-play/",
       "source": "mining.com",
-      "date": "Thu, 01 Oct 2026 14:09:00 +0000"
-    },
-    {
-      "title": "Petra Diamonds weighs sale as market pressures mount",
-      "link": "https://www.mining.com/petra-diamonds-weighs-sale-as-market-pressures-mount/",
-      "source": "mining.com",
-      "date": "Thu, 01 Oct 2026 13:01:00 +0000"
+      "date": "Thu, 01 Oct 2026 16:00:00 +0000"
     }
   ]
 }
