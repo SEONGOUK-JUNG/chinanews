@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-02T10:10:05+09:00",
+  "run_at_kst": "2026-10-02T14:10:14+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Brent Holds Above $102 as Gulf Export Rebound Offsets U.S. Military Moves",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Holds-Above-102-as-Gulf-Export-Rebound-Offsets-US-Military-Moves.html",
+      "source": "OilPrice",
+      "date": "Fri, 02 Oct 2026 00:06:59 -0500"
+    },
     {
       "title": "5 Energy ETFs That Have Soared in 2026",
       "link": "https://oilprice.com/Energy/Energy-General/5-Energy-ETFs-That-Have-Soared-in-2026.html",
@@ -72,12 +78,6 @@
       "link": "https://www.mining.com/mountain-province-gives-de-beers-49-gahcho-kue-stake/",
       "source": "mining.com",
       "date": "Thu, 01 Oct 2026 18:00:00 +0000"
-    },
-    {
-      "title": "Amazon Secures 20 Years of Nuclear Power From Constellation",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Amazon-Secures-20-Years-of-Nuclear-Power-From-Constellation.html",
-      "source": "OilPrice",
-      "date": "Thu, 01 Oct 2026 13:00:00 -0500"
     },
     {
       "title": "Brazil court order shuts Sigma Lithium mine",
