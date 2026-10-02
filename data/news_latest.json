@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-02T07:20:04+09:00",
+  "run_at_kst": "2026-10-02T10:10:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,24 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "5 Energy ETFs That Have Soared in 2026",
+      "link": "https://oilprice.com/Energy/Energy-General/5-Energy-ETFs-That-Have-Soared-in-2026.html",
+      "source": "OilPrice",
+      "date": "Thu, 01 Oct 2026 19:00:00 -0500"
+    },
+    {
+      "title": "China Targets Solid-State Battery Dominance by 2030",
+      "link": "https://oilprice.com/Energy/Energy-General/China-Targets-Solid-State-Battery-Dominance-by-2030.html",
+      "source": "OilPrice",
+      "date": "Thu, 01 Oct 2026 18:00:00 -0500"
+    },
+    {
+      "title": "Greenland Mines makes gallium, vanadium discovery at Skaergaard",
+      "link": "https://www.mining.com/greenland-mines-makes-gallium-vanadium-discovery-at-skaergaard/",
+      "source": "mining.com",
+      "date": "Thu, 01 Oct 2026 22:54:06 +0000"
+    },
     {
       "title": "Grid Metals’ atomic-clock cesium resource in Manitoba ranks second globally",
       "link": "https://www.mining.com/grid-metals-atomic-clock-cesium-resource-in-manitoba-ranks-second-globally/",
@@ -62,34 +80,16 @@
       "date": "Thu, 01 Oct 2026 13:00:00 -0500"
     },
     {
-      "title": "BLM Opens 35,000 California Acres to December Oil and Gas Lease Sale",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/BLM-Opens-35000-California-Acres-to-December-Oil-and-Gas-Lease-Sale.html",
-      "source": "OilPrice",
-      "date": "Thu, 01 Oct 2026 12:30:00 -0500"
-    },
-    {
       "title": "Brazil court order shuts Sigma Lithium mine",
       "link": "https://www.mining.com/brazil-court-order-shuts-sigma-lithium-mine/",
       "source": "mining.com",
       "date": "Thu, 01 Oct 2026 17:28:45 +0000"
     },
     {
-      "title": "Canada Fast-Tracks 1 Million-Bpd Pacific Link Oil Pipeline to Asia",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Canada-Fast-Tracks-1-Million-Bpd-Pacific-Link-Oil-Pipeline-to-Asia.html",
-      "source": "OilPrice",
-      "date": "Thu, 01 Oct 2026 11:30:00 -0500"
-    },
-    {
       "title": "Mining’s future is up for sale",
       "link": "https://www.mining.com/minings-future-is-up-for-sale/",
       "source": "mining.com",
       "date": "Thu, 01 Oct 2026 16:08:00 +0000"
-    },
-    {
-      "title": "Beaver Creek: Gold’s bond break puts juniors in play",
-      "link": "https://www.mining.com/beaver-creek-golds-bond-break-puts-juniors-in-play/",
-      "source": "mining.com",
-      "date": "Thu, 01 Oct 2026 16:00:00 +0000"
     }
   ]
 }
