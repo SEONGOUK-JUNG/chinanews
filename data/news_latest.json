@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-02T20:10:05+09:00",
+  "run_at_kst": "2026-10-03T07:20:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
-      "title": "WTI Sinks Nearly 4% as EU Weighs Emergency Stockpile Release",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/WTI-Sinks-Nearly-4-as-EU-Weighs-Emergency-Stockpile-Release.html",
+      "title": "Trump Says South Korea Deal Includes $8.4 Billion U.S. Oil Project",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Says-South-Korea-Deal-Includes-84-Billion-US-Oil-Project.html",
       "source": "OilPrice",
-      "date": "Fri, 02 Oct 2026 06:02:00 -0500"
+      "date": "Fri, 02 Oct 2026 16:30:00 -0500"
     },
     {
-      "title": "JERA CEO Warns LNG Prices Have Further to Climb",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/JERA-CEO-Warns-LNG-Prices-Have-Further-to-Climb.html",
-      "source": "OilPrice",
-      "date": "Fri, 02 Oct 2026 05:30:00 -0500"
+      "title": "Why rare earth elements are hiding in plain sight",
+      "link": "https://www.mining.com/why-rare-earth-elements-are-hiding-in-plain-sight/",
+      "source": "mining.com",
+      "date": "Fri, 02 Oct 2026 21:25:20 +0000"
     },
     {
-      "title": "UN Says Global Fuel Subsidies Could Top $1 Trillion",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/UN-Says-Global-Fuel-Subsidies-Could-Top-1-Trillion.html",
+      "title": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk",
+      "link": "https://oilprice.com/Energy/Energy-General/Iranian-Oil-Starts-Flowing-to-Tajikistan-Despite-US-Sanctions-Risk.html",
       "source": "OilPrice",
-      "date": "Fri, 02 Oct 2026 04:30:00 -0500"
+      "date": "Fri, 02 Oct 2026 14:00:00 -0500"
     },
     {
-      "title": "U.S. Diesel Export Ban Would Hit Latin America Hardest: Goldman",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Diesel-Export-Ban-Would-Hit-Latin-America-Hardest-Goldman.html",
+      "title": "U.S. Oil Drilling Inches Up As Prices Fall",
+      "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Drilling-Inches-Up-As-Prices-Fall.html",
       "source": "OilPrice",
-      "date": "Fri, 02 Oct 2026 03:00:00 -0500"
+      "date": "Fri, 02 Oct 2026 12:16:00 -0500"
     },
     {
-      "title": "ConocoPhillips Signs 20-Year LNG Deal With Venture Global",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/ConocoPhillips-Signs-20-Year-LNG-Deal-With-Venture-Global.html",
+      "title": "Dated Brent Above $120 Signals a Serious Oil Squeeze",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Dated-Brent-Above-120-Signals-a-Serious-Oil-Squeeze.html",
       "source": "OilPrice",
-      "date": "Fri, 02 Oct 2026 02:00:00 -0500"
+      "date": "Fri, 02 Oct 2026 11:50:45 -0500"
     },
     {
-      "title": "Brent Holds Above $102 as Gulf Export Rebound Offsets U.S. Military Moves",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Holds-Above-102-as-Gulf-Export-Rebound-Offsets-US-Military-Moves.html",
-      "source": "OilPrice",
-      "date": "Fri, 02 Oct 2026 00:06:59 -0500"
+      "title": "KGHM, South32 kick off $725M Sierra Gorda expansion",
+      "link": "https://www.mining.com/kghm-south32-kick-off-725m-sierra-gorda-expansion/",
+      "source": "mining.com",
+      "date": "Fri, 02 Oct 2026 15:43:00 +0000"
     },
     {
-      "title": "5 Energy ETFs That Have Soared in 2026",
-      "link": "https://oilprice.com/Energy/Energy-General/5-Energy-ETFs-That-Have-Soared-in-2026.html",
+      "title": "G7 Moves to Release 100 Million Barrels to Counter Diesel Crisis",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/G7-Moves-to-Release-100-Million-Barrels-to-Counter-Diesel-Crisis.html",
       "source": "OilPrice",
-      "date": "Thu, 01 Oct 2026 19:00:00 -0500"
+      "date": "Fri, 02 Oct 2026 10:23:00 -0500"
     },
     {
-      "title": "China Targets Solid-State Battery Dominance by 2030",
-      "link": "https://oilprice.com/Energy/Energy-General/China-Targets-Solid-State-Battery-Dominance-by-2030.html",
+      "title": "LNG Shipments Through Hormuz Hit Highest Level Since Iran War Began",
+      "link": "https://oilprice.com/Energy/Energy-General/LNG-Shipments-Through-Hormuz-Hit-Highest-Level-Since-Iran-War-Began.html",
       "source": "OilPrice",
-      "date": "Thu, 01 Oct 2026 18:00:00 -0500"
+      "date": "Fri, 02 Oct 2026 10:00:00 -0500"
+    },
+    {
+      "title": "WTI Whipsaws as Gulf Supply Improves and Middle East Risk Returns",
+      "link": "https://oilprice.com/Energy/Energy-General/WTI-Whipsaws-as-Gulf-Supply-Improves-and-Middle-East-Risk-Returns.html",
+      "source": "OilPrice",
+      "date": "Fri, 02 Oct 2026 09:45:00 -0500"
+    },
+    {
+      "title": "U.S. Exit Leaves Iraq With a Militia Problem",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Exit-Leaves-Iraq-With-a-Militia-Problem.html",
+      "source": "OilPrice",
+      "date": "Fri, 02 Oct 2026 09:45:00 -0500"
+    },
+    {
+      "title": "Controlling supply chain key to US future: DOE",
+      "link": "https://www.mining.com/controlling-supply-chain-key-to-us-future-doe/",
+      "source": "mining.com",
+      "date": "Fri, 02 Oct 2026 13:37:18 +0000"
+    },
+    {
+      "title": "Petra Diamonds hit with $7.5M UK tax petition",
+      "link": "https://www.mining.com/petra-diamonds-hit-with-7-5m-uk-tax-petition/",
+      "source": "mining.com",
+      "date": "Fri, 02 Oct 2026 12:32:00 +0000"
+    },
+    {
+      "title": "World Bank unlocks $1.4B for Chile’s copper giant",
+      "link": "https://www.mining.com/world-bank-unlocks-1-4b-for-chiles-copper-giant/",
+      "source": "mining.com",
+      "date": "Fri, 02 Oct 2026 11:03:00 +0000"
     },
     {
       "title": "Greenland Mines makes gallium, vanadium discovery at Skaergaard",
       "link": "https://www.mining.com/greenland-mines-makes-gallium-vanadium-discovery-at-skaergaard/",
       "source": "mining.com",
       "date": "Thu, 01 Oct 2026 22:54:06 +0000"
-    },
-    {
-      "title": "Grid Metals’ atomic-clock cesium resource in Manitoba ranks second globally",
-      "link": "https://www.mining.com/grid-metals-atomic-clock-cesium-resource-in-manitoba-ranks-second-globally/",
-      "source": "mining.com",
-      "date": "Thu, 01 Oct 2026 22:03:00 +0000"
-    },
-    {
-      "title": "BC First Nation terminates agreements with Spanish Mountain Gold, shares plunge",
-      "link": "https://www.mining.com/bc-first-nation-terminates-agreements-with-spanish-mountain-gold-shares-plunge/",
-      "source": "mining.com",
-      "date": "Thu, 01 Oct 2026 20:56:11 +0000"
-    },
-    {
-      "title": "Mountain Province Diamonds gives De Beers 49% Gahcho Kué stake",
-      "link": "https://www.mining.com/mountain-province-gives-de-beers-49-gahcho-kue-stake/",
-      "source": "mining.com",
-      "date": "Thu, 01 Oct 2026 18:00:00 +0000"
-    },
-    {
-      "title": "Brazil court order shuts Sigma Lithium mine",
-      "link": "https://www.mining.com/brazil-court-order-shuts-sigma-lithium-mine/",
-      "source": "mining.com",
-      "date": "Thu, 01 Oct 2026 17:28:45 +0000"
-    },
-    {
-      "title": "Mining’s future is up for sale",
-      "link": "https://www.mining.com/minings-future-is-up-for-sale/",
-      "source": "mining.com",
-      "date": "Thu, 01 Oct 2026 16:08:00 +0000"
     }
   ]
 }
