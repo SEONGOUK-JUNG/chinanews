@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-02T14:10:14+09:00",
+  "run_at_kst": "2026-10-02T20:10:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "WTI Sinks Nearly 4% as EU Weighs Emergency Stockpile Release",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/WTI-Sinks-Nearly-4-as-EU-Weighs-Emergency-Stockpile-Release.html",
+      "source": "OilPrice",
+      "date": "Fri, 02 Oct 2026 06:02:00 -0500"
+    },
+    {
+      "title": "JERA CEO Warns LNG Prices Have Further to Climb",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/JERA-CEO-Warns-LNG-Prices-Have-Further-to-Climb.html",
+      "source": "OilPrice",
+      "date": "Fri, 02 Oct 2026 05:30:00 -0500"
+    },
+    {
+      "title": "UN Says Global Fuel Subsidies Could Top $1 Trillion",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/UN-Says-Global-Fuel-Subsidies-Could-Top-1-Trillion.html",
+      "source": "OilPrice",
+      "date": "Fri, 02 Oct 2026 04:30:00 -0500"
+    },
+    {
+      "title": "U.S. Diesel Export Ban Would Hit Latin America Hardest: Goldman",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Diesel-Export-Ban-Would-Hit-Latin-America-Hardest-Goldman.html",
+      "source": "OilPrice",
+      "date": "Fri, 02 Oct 2026 03:00:00 -0500"
+    },
+    {
+      "title": "ConocoPhillips Signs 20-Year LNG Deal With Venture Global",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/ConocoPhillips-Signs-20-Year-LNG-Deal-With-Venture-Global.html",
+      "source": "OilPrice",
+      "date": "Fri, 02 Oct 2026 02:00:00 -0500"
+    },
     {
       "title": "Brent Holds Above $102 as Gulf Export Rebound Offsets U.S. Military Moves",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Holds-Above-102-as-Gulf-Export-Rebound-Offsets-US-Military-Moves.html",
@@ -38,40 +68,10 @@
       "date": "Thu, 01 Oct 2026 22:03:00 +0000"
     },
     {
-      "title": "Power Demand Is Surging Faster Than Grids Can Keep Up",
-      "link": "https://oilprice.com/Energy/Energy-General/Power-Demand-Is-Surging-Faster-Than-Grids-Can-Keep-Up.html",
-      "source": "OilPrice",
-      "date": "Thu, 01 Oct 2026 17:00:00 -0500"
-    },
-    {
-      "title": "Venezuela’s Oil Exports Drop 9% as Freight Costs Bite",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Exports-Drop-9-as-Freight-Costs-Bite.html",
-      "source": "OilPrice",
-      "date": "Thu, 01 Oct 2026 16:00:00 -0500"
-    },
-    {
       "title": "BC First Nation terminates agreements with Spanish Mountain Gold, shares plunge",
       "link": "https://www.mining.com/bc-first-nation-terminates-agreements-with-spanish-mountain-gold-shares-plunge/",
       "source": "mining.com",
       "date": "Thu, 01 Oct 2026 20:56:11 +0000"
-    },
-    {
-      "title": "China Halts October Fuel Exports as Global Diesel Crunch Deepens",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Halts-October-Fuel-Exports-as-Global-Diesel-Crunch-Deepens.html",
-      "source": "OilPrice",
-      "date": "Thu, 01 Oct 2026 15:40:00 -0500"
-    },
-    {
-      "title": "UK Holds Emergency Talks With U.S. as Diesel Crisis Escalates",
-      "link": "https://oilprice.com/Energy/Energy-General/UK-Holds-Emergency-Talks-With-US-as-Diesel-Crisis-Escalates.html",
-      "source": "OilPrice",
-      "date": "Thu, 01 Oct 2026 15:00:00 -0500"
-    },
-    {
-      "title": "Middle East Oil Exports Stage a Remarkable Comeback",
-      "link": "https://oilprice.com/Energy/Energy-General/Middle-East-Oil-Exports-Stage-a-Remarkable-Comeback.html",
-      "source": "OilPrice",
-      "date": "Thu, 01 Oct 2026 14:00:00 -0500"
     },
     {
       "title": "Mountain Province Diamonds gives De Beers 49% Gahcho Kué stake",
