@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-03T10:10:05+09:00",
+  "run_at_kst": "2026-10-04T07:20:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Could White Hydrogen Succeed Where Green Hydrogen Stumbled?",
+      "link": "https://oilprice.com/Energy/Energy-General/Could-White-Hydrogen-Succeed-Where-Green-Hydrogen-Stumbled.html",
+      "source": "OilPrice",
+      "date": "Sat, 03 Oct 2026 16:00:00 -0500"
+    },
+    {
+      "title": "Iran Is Losing Some of Its Leverage Over the Strait of Hormuz",
+      "link": "https://oilprice.com/Energy/Energy-General/Iran-Is-Losing-Some-of-Its-Leverage-Over-the-Strait-of-Hormuz.html",
+      "source": "OilPrice",
+      "date": "Sat, 03 Oct 2026 14:00:00 -0500"
+    },
+    {
+      "title": "New Research Strengthens the Link Between Warming and Extreme Weather",
+      "link": "https://oilprice.com/The-Environment/Global-Warming/New-Research-Strengthens-the-Link-Between-Warming-and-Extreme-Weather.html",
+      "source": "OilPrice",
+      "date": "Sat, 03 Oct 2026 12:00:00 -0500"
+    },
+    {
+      "title": "Latin America Could Double Its Onshore Wind Capacity by 2035",
+      "link": "https://oilprice.com/Energy/Energy-General/Latin-America-Could-Double-Its-Onshore-Wind-Capacity-by-2035.html",
+      "source": "OilPrice",
+      "date": "Sat, 03 Oct 2026 10:00:00 -0500"
+    },
     {
       "title": "Pension funds use gold as bond hedge weakens",
       "link": "https://www.mining.com/pension-funds-use-gold-as-bond-hedge-weakens/",
@@ -54,30 +78,6 @@
       "link": "https://www.mining.com/kghm-south32-kick-off-725m-sierra-gorda-expansion/",
       "source": "mining.com",
       "date": "Fri, 02 Oct 2026 15:43:00 +0000"
-    },
-    {
-      "title": "G7 Moves to Release 100 Million Barrels to Counter Diesel Crisis",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/G7-Moves-to-Release-100-Million-Barrels-to-Counter-Diesel-Crisis.html",
-      "source": "OilPrice",
-      "date": "Fri, 02 Oct 2026 10:23:00 -0500"
-    },
-    {
-      "title": "LNG Shipments Through Hormuz Hit Highest Level Since Iran War Began",
-      "link": "https://oilprice.com/Energy/Energy-General/LNG-Shipments-Through-Hormuz-Hit-Highest-Level-Since-Iran-War-Began.html",
-      "source": "OilPrice",
-      "date": "Fri, 02 Oct 2026 10:00:00 -0500"
-    },
-    {
-      "title": "WTI Whipsaws as Gulf Supply Improves and Middle East Risk Returns",
-      "link": "https://oilprice.com/Energy/Energy-General/WTI-Whipsaws-as-Gulf-Supply-Improves-and-Middle-East-Risk-Returns.html",
-      "source": "OilPrice",
-      "date": "Fri, 02 Oct 2026 09:45:00 -0500"
-    },
-    {
-      "title": "U.S. Exit Leaves Iraq With a Militia Problem",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Exit-Leaves-Iraq-With-a-Militia-Problem.html",
-      "source": "OilPrice",
-      "date": "Fri, 02 Oct 2026 09:45:00 -0500"
     },
     {
       "title": "Controlling supply chain key to US future: DOE",
