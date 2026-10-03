@@ -1,27 +1,21 @@
 {
-  "run_at_kst": "2026-10-03T14:10:06+09:00",
+  "run_at_kst": "2026-10-03T20:10:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "월드옥타, 중국 선전서 6천명 규모 경제교류 장 연다...韓中 기업 협력 확대",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxaElBUkRLSXZCSHViX1RvdDFDRjlQTmo3SGFLaGpkdi1ZZ0QtaG8zTXJiMkIwVmJISG50dXR3c0JVR0lfc0JWVG1BWnVkdXRIWXhiX3ZleEtjZ9IBWEFVX3lxTFBEZG02Z3JkNFd6SjFSQTh5OFRCbVJsR0xZXzZxZGNKbmZNTW91djV3RXZiUnhBbnlTTEdQeFhPRkU5NmxYOE5uZnEzVmJBVkVVYTBNRGhNNkk?oc=5",
-      "source": "아주경제",
-      "date": "Fri, 02 Oct 2026 08:37:23 GMT"
+      "title": "여행은 뜨겁고 지갑은 신중하다…중국 ‘황금연휴 소비’가 던지는 질문",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5yaTI4Qm1lYXRyaG5SSVNQUXh2VG9IWEp5RUNQRmpfNlBod3JTRHB2YmxjZjZiMDRRZi0tLWxEZlc2cGc?oc=5",
+      "source": "대한청년일보",
+      "date": "Sat, 03 Oct 2026 07:43:20 GMT"
     },
     {
-      "title": "월드옥타, 중국 선전서 6천 명 규모 경제교류의 장 연다",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wZ0xqVTB2UVJYY01pa3VYSndxZDRtQmpVckRuTUI5N0tNcnBoNldzamZYNWI0RWt6QkpUMFNEYThmMnQxNHFWdWtxUm9SbXJmRXgxNGR3OTBsMHdFSHc?oc=5",
-      "source": "YTN",
-      "date": "Fri, 02 Oct 2026 05:53:00 GMT"
-    },
-    {
-      "title": "\"중국 뚫으려면 여기로\"…6000명 몰리는 '이곳' 정체",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oa1VXOWRTRkNzNk9aNDFXRTJzNElqQkU5a3FTeG9vNVQzYW84eGp4eThzTHhkUHQwQTNXYW1xbXZPa0c5RWZJbnVFZy16bmVaQ1R5OWlmTy01dw?oc=5",
-      "source": "한국경제",
-      "date": "Fri, 02 Oct 2026 05:46:24 GMT"
+      "title": "월드옥타, 중국 선전서 6천 명 규모 경제교류",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TVTNXWDVhUlpFaGRiZ1lDSTRWSlk1bmwtaHhYNG9JVVFaZ2k4TjBYZHExQUJyNkMtQUF2Y0NWZkFCbWVoWGV5Y3ozSklpeWNYNWdiN1ZtZE5FUklMcHFyRTNueUZNUlpyXzloX1Jn?oc=5",
+      "source": "gukjenews.com",
+      "date": "Sat, 03 Oct 2026 07:16:43 GMT"
     },
     {
       "title": "CGTN 여론조사｜‘황금 연휴'로 보는 중국 연휴 경제의 황금시대",
@@ -31,9 +25,15 @@
     },
     {
       "title": "[양기태의 글로벌 경제 읽기] 엇갈리는 두 흐름, 중국 경제를 읽다",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DNVo4U1hZX3pNdWg0WS0zTHNNR1dXX0d4eEdSU1hqd0EzUXZGdlNJRXotektObHFrSG5iYnJ6MUdwSUx5bUdORlc3UnJWNGV0NlV1cw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1UaUhxMWc4TG5MdzlxLVA1anQyel9zOHhnUnh5UW9DTDJSVG9zTXNHRGNna2w2NFUwVHQzaS1QSUE1WDVrUXc?oc=5",
       "source": "v.daum.net",
       "date": "Thu, 01 Oct 2026 07:20:04 GMT"
+    },
+    {
+      "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Thu, 01 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "사상 최대 흑자와 텅 빈 지갑… 중국 ‘K자형 경제 구조’의 한계",
@@ -42,10 +42,10 @@
       "date": "Wed, 30 Sep 2026 18:00:00 GMT"
     },
     {
-      "title": "시진핑 \"中 경제 압력 견디며 전진…'대만 독립 세력' 단호히 타격\"",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvZHNXLXRSRDRLLWJDQXZyck1HZFhrVTdwZFZnUTlKQmJuak1zT2JHNkJ3SUZvZDFmcl9SSldKRzlkNTEyallDWExjNGw0cTg?oc=5",
-      "source": "v.daum.net",
-      "date": "Wed, 30 Sep 2026 13:46:00 GMT"
+      "title": "시진핑 “경제, 압력 견디며 전진”…개혁 심화·연간 목표 완수 주문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TNzZyTXljS21yb2NvSkpXVjIxOV9Pc1NCN094aUpUSUpyMlRrQ2liU3JzUUh6MVU2X2hMc3RHQWhsVDBFMmQyOEgyUnc4dUhrajhNUl9GbWZmMHEzbXEwMncyOEg2VU0?oc=5",
+      "source": "연합뉴스TV",
+      "date": "Wed, 30 Sep 2026 16:32:00 GMT"
     },
     {
       "title": "시진핑 “중국 경제, 압력 견디며 전진…대만독립 세력 단호히 타격”",
@@ -54,16 +54,10 @@
       "date": "Wed, 30 Sep 2026 12:55:00 GMT"
     },
     {
-      "title": "시진핑 \"中경제, 압력 견디며 전진…대만독립 세력 단호히 타격\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZQmtiTXk3VXNmQXo5aVJhUC1JRWQ4WHFXSkZwRTRHZ1NDMm92YWpaZlY4VUFoSk5Xdmd3VFg5aVFGbS14Q3V5dF9NeEdhbnFVMFE5NkVRZnZneWYyNnlGStIBYEFVX3lxTFBZQmtiTXk3VXNmQXo5aVJhUC1JRWQ4WHFXSkZwRTRHZ1NDMm92YWpaZlY4VUFoSk5Xdmd3VFg5aVFGbS14Q3V5dF9NeEdhbnFVMFE5NkVRZnZneWYyNnlGSg?oc=5",
-      "source": "연합뉴스",
-      "date": "Wed, 30 Sep 2026 12:11:27 GMT"
-    },
-    {
-      "title": "중국, 9월 제조업 PMI 50.1...경기 확장 전환",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPVjBPamNuSWZrajZoclZWNlpOSS1XQ3FFUEs0RnBoRmdGUlhidGNFVFZsRTUtSzJGalg1dFowRzc2M3dta0RGcUVYUWRtUzg?oc=5",
-      "source": "v.daum.net",
-      "date": "Wed, 30 Sep 2026 08:04:00 GMT"
+      "title": "시진핑 “중국 경제, 압력 견디며 전진…대만독립 세력 단호히 타격”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNYTRqSXNBbkpuYVh0bUp4TVNidWNJbGx4bERlZkNzSGJMalF4blJxeWFhRUprZUp1Wm13ZzZGVGJpX0FYWVVRSERVc2hFSTg0RVhqUVRXOGl0YkE?oc=5",
+      "source": "KBS 뉴스",
+      "date": "Wed, 30 Sep 2026 12:54:00 GMT"
     },
     {
       "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
@@ -73,9 +67,15 @@
     },
     {
       "title": "中학자 \"중국 2035년까지 연 4.6% 성장…수출 주도 지속 불가능\"",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nbjdiX0FnZThSUTlwOFh3S2hDem43MUdzZG8xYS05ZXhRQVZkRUI4RGljWUM5TnlIb0RYaDduUkdVdDYtR3Q4TGc2ZHlkYUF3M1E?oc=5",
-      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXTkRpSWw2YzE3RWpGa1BEbjBFN2o3U3B2bnBvd1FhVUJHY0V0Y1dENGNGeFRPejF6UVZiT3cyUkYwYlV2dnR6RG9ZQ1FIVEk2VENGbUtrbVc5Y03SAWBBVV95cUxOVHdTMXJOc0tIRzl0cWlpb1hIN0RGMjZXN0xFN1lwRGktLXNvVHI5R2gwZlQtSy1ReWpiNVY3T2lSTnJwXzY2MkxNTThSTVVIWC1WNHZJMXRYZ25GS0huRVQ?oc=5",
+      "source": "연합뉴스",
       "date": "Wed, 30 Sep 2026 05:49:19 GMT"
+    },
+    {
+      "title": "중국 새로운 주택 부양책에도 바닥 아직 멀었다",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVWEZacWE2dU42eHpMQlE1aUlyVmNkdEVVNEZGUFVxakhJd3BIWTFLMHllQ1p4QXNKam1GR1I0NXBta0FMcG1WWHJveE41R2NoZWxMVzBnT3BJUdIBWEFVX3lxTFByTXZLMmdaNFo4dTl4QUJqTzRhWEJvU3BxQVFvRkpFY3pMcE9YdzZHS2VSVGlkQ1VGOEpKX18teG53SjhUbHFBNnhtTERaNEg4QTBDODg1N3M?oc=5",
+      "source": "아주경제",
+      "date": "Wed, 30 Sep 2026 02:10:29 GMT"
     }
   ]
 }
