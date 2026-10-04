@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-04T20:10:06+09:00",
+  "run_at_kst": "2026-10-05T07:20:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -12,10 +12,10 @@
       "date": "Sun, 04 Oct 2026 04:10:26 GMT"
     },
     {
-      "title": "\"이제 차가 안 팔린다\"…잘 나가던 '中 전기차' 무슨 일 [차이나 워치]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85UXRSQzhIUzhFSlg4bnk1Q1htSEZFdnFSYWFHQWZidlJXV2tjX19GalNmVjZfc1J0M1NRTHVhbjRidmpsZVZtUFFTdXAtTUJrMktUeFJFd1lxQQ?oc=5",
-      "source": "한국경제",
-      "date": "Sun, 04 Oct 2026 01:18:01 GMT"
+      "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
+      "source": "wikyung.com",
+      "date": "Fri, 02 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "CGTN 여론조사｜‘황금 연휴'로 보는 중국 연휴 경제의 황금시대",
@@ -25,14 +25,14 @@
     },
     {
       "title": "[양기태의 글로벌 경제 읽기] 엇갈리는 두 흐름, 중국 경제를 읽다",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DNVo4U1hZX3pNdWg0WS0zTHNNR1dXX0d4eEdSU1hqd0EzUXZGdlNJRXotektObHFrSG5iYnJ6MUdwSUx5bUdORlc3UnJWNGV0NlV1cw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1UaUhxMWc4TG5MdzlxLVA1anQyel9zOHhnUnh5UW9DTDJSVG9zTXNHRGNna2w2NFUwVHQzaS1QSUE1WDVrUXc?oc=5",
       "source": "v.daum.net",
       "date": "Thu, 01 Oct 2026 07:20:04 GMT"
     },
     {
       "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
-      "source": ":: 위즈경제 ::",
+      "source": "wikyung.com",
       "date": "Thu, 01 Oct 2026 07:00:00 GMT"
     },
     {
@@ -49,7 +49,7 @@
     },
     {
       "title": "시진핑 “중국 경제, 압력 견디며 전진…대만독립 세력 단호히 타격”",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9SQnFPX18zZmN4RXAzYWpldXJFZjQxd083NHVSWG9ZLVljeG5UUVh1R1R2UGhIQ3FGOUItdC10T19QSWlCYmc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAtSEs2U0wtNW1NWVFXX2dZS0ROTzR3a1BuaGJERXFvMVhZVGtOYkxlUXR4NlMwRUt2MFE5Wmt3ZmRPWHEzMGNfZGQzSQ?oc=5",
       "source": "v.daum.net",
       "date": "Wed, 30 Sep 2026 12:55:46 GMT"
     },
@@ -60,12 +60,6 @@
       "date": "Wed, 30 Sep 2026 12:54:00 GMT"
     },
     {
-      "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Wed, 30 Sep 2026 07:00:00 GMT"
-    },
-    {
       "title": "中학자 \"중국 2035년까지 연 4.6% 성장…수출 주도 지속 불가능\"",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXTkRpSWw2YzE3RWpGa1BEbjBFN2o3U3B2bnBvd1FhVUJHY0V0Y1dENGNGeFRPejF6UVZiT3cyUkYwYlV2dnR6RG9ZQ1FIVEk2VENGbUtrbVc5Y03SAWBBVV95cUxOVHdTMXJOc0tIRzl0cWlpb1hIN0RGMjZXN0xFN1lwRGktLXNvVHI5R2gwZlQtSy1ReWpiNVY3T2lSTnJwXzY2MkxNTThSTVVIWC1WNHZJMXRYZ25GS0huRVQ?oc=5",
       "source": "연합뉴스",
@@ -74,8 +68,14 @@
     {
       "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
-      "source": ":: 위즈경제 ::",
+      "source": "wikyung.com",
       "date": "Mon, 28 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "\"다음 글로벌 경제위기는 중국에서 시작될 것\" - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43aFF3cEtoOTBMZzlLYWtiMFlHMmNwQ0pzdEpqMm8zZS1jNDJLUmdLSFJRS0VNSl9FeDNUZ1NYcTRTdGJUUHQ4RDZqYXVsX2dvMlR5S1BaWUlXc1Y2V3ZmaG1GUzNpeUdP0gFuQVVfeXFMT1V6X0g4TkV6Rk05ek9yZlZiVnYwTHNZTGY3M0RNT1RSVjVNVWd2Mi1rVWxJSlB2c0RfajFIdDFoUXJoUW9tcWVaU3dBaGRaWXM4aXo1VWgyaGJqTHA4VHJROUFvcW44Q092QUtHTEE?oc=5",
+      "source": "머니투데이",
+      "date": "Sun, 30 Aug 2026 07:00:00 GMT"
     }
   ]
 }

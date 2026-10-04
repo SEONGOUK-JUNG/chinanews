@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-04T20:10:06+09:00",
+  "run_at_kst": "2026-10-05T07:20:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,42 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Europe’s Diesel Woes Just Got Even Worse",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Europes-Diesel-Woes-Just-Got-Even-Worse.html",
+      "source": "OilPrice",
+      "date": "Sun, 04 Oct 2026 16:00:00 -0500"
+    },
+    {
+      "title": "Top 50 mining companies take $264 billion hit as gold trade unwinds, lithium stocks exit",
+      "link": "https://www.mining.com/top-50-mining-companies-take-264-billion-hit-as-gold-trade-unwinds-lithium-stocks-exit/",
+      "source": "mining.com",
+      "date": "Sun, 04 Oct 2026 20:00:34 +0000"
+    },
+    {
+      "title": "Pentagon Backs Ambitious Plan to Beam Solar Power From Space",
+      "link": "https://oilprice.com/Energy/Energy-General/Pentagon-Backs-Ambitious-Plan-to-Beam-Solar-Power-From-Space.html",
+      "source": "OilPrice",
+      "date": "Sun, 04 Oct 2026 14:00:00 -0500"
+    },
+    {
+      "title": "Floating Power Plants Are Opening a New Energy Frontier",
+      "link": "https://oilprice.com/Energy/Energy-General/Floating-Power-Plants-Are-Opening-a-New-Energy-Frontier.html",
+      "source": "OilPrice",
+      "date": "Sun, 04 Oct 2026 12:00:00 -0500"
+    },
+    {
+      "title": "Private Equity Firms Double Down on Fossil Fuels",
+      "link": "https://oilprice.com/Energy/Energy-General/Private-Equity-Firms-Double-Down-on-Fossil-Fuels.html",
+      "source": "OilPrice",
+      "date": "Sun, 04 Oct 2026 10:00:00 -0500"
+    },
+    {
+      "title": "The top 50 biggest mining companies in the world",
+      "link": "https://www.mining.com/top-50-biggest-mining-companies/",
+      "source": "mining.com",
+      "date": "Sun, 04 Oct 2026 07:01:00 +0000"
+    },
     {
       "title": "Could White Hydrogen Succeed Where Green Hydrogen Stumbled?",
       "link": "https://oilprice.com/Energy/Energy-General/Could-White-Hydrogen-Succeed-Where-Green-Hydrogen-Stumbled.html",
@@ -38,12 +74,6 @@
       "date": "Fri, 02 Oct 2026 23:22:00 +0000"
     },
     {
-      "title": "Trump Says South Korea Deal Includes $8.4 Billion U.S. Oil Project",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Says-South-Korea-Deal-Includes-84-Billion-US-Oil-Project.html",
-      "source": "OilPrice",
-      "date": "Fri, 02 Oct 2026 16:30:00 -0500"
-    },
-    {
       "title": "Why rare earth elements are hiding in plain sight",
       "link": "https://www.mining.com/why-rare-earth-elements-are-hiding-in-plain-sight/",
       "source": "mining.com",
@@ -56,40 +86,10 @@
       "date": "Fri, 02 Oct 2026 19:07:49 +0000"
     },
     {
-      "title": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk",
-      "link": "https://oilprice.com/Energy/Energy-General/Iranian-Oil-Starts-Flowing-to-Tajikistan-Despite-US-Sanctions-Risk.html",
-      "source": "OilPrice",
-      "date": "Fri, 02 Oct 2026 14:00:00 -0500"
-    },
-    {
-      "title": "U.S. Oil Drilling Inches Up As Prices Fall",
-      "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Drilling-Inches-Up-As-Prices-Fall.html",
-      "source": "OilPrice",
-      "date": "Fri, 02 Oct 2026 12:16:00 -0500"
-    },
-    {
-      "title": "Dated Brent Above $120 Signals a Serious Oil Squeeze",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Dated-Brent-Above-120-Signals-a-Serious-Oil-Squeeze.html",
-      "source": "OilPrice",
-      "date": "Fri, 02 Oct 2026 11:50:45 -0500"
-    },
-    {
       "title": "KGHM, South32 kick off $725M Sierra Gorda expansion",
       "link": "https://www.mining.com/kghm-south32-kick-off-725m-sierra-gorda-expansion/",
       "source": "mining.com",
       "date": "Fri, 02 Oct 2026 15:43:00 +0000"
-    },
-    {
-      "title": "Controlling supply chain key to US future: DOE",
-      "link": "https://www.mining.com/controlling-supply-chain-key-to-us-future-doe/",
-      "source": "mining.com",
-      "date": "Fri, 02 Oct 2026 13:37:18 +0000"
-    },
-    {
-      "title": "Petra Diamonds hit with $7.5M UK tax petition",
-      "link": "https://www.mining.com/petra-diamonds-hit-with-7-5m-uk-tax-petition/",
-      "source": "mining.com",
-      "date": "Fri, 02 Oct 2026 12:32:00 +0000"
     }
   ]
 }
