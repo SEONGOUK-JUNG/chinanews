@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-04T14:10:06+09:00",
+  "run_at_kst": "2026-10-04T20:10:06+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -16,12 +16,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85UXRSQzhIUzhFSlg4bnk1Q1htSEZFdnFSYWFHQWZidlJXV2tjX19GalNmVjZfc1J0M1NRTHVhbjRidmpsZVZtUFFTdXAtTUJrMktUeFJFd1lxQQ?oc=5",
       "source": "한국경제",
       "date": "Sun, 04 Oct 2026 01:18:01 GMT"
-    },
-    {
-      "title": "'잭팟' 꿈꾸고 뛰어들었다가…AI 숏드라마의 '눈물' [김예랑의 K컬처인사이드]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fQkYta21SLWNaREtrYWRGdjdBczByVHY1OU9VX2VhQWF5b0xxQmJIMDZTSlJISS1LeVA1aVBkcm9HSENia0FQMUVZV084N2sycVZrVGQyRUNjQQ?oc=5",
-      "source": "한국경제",
-      "date": "Sat, 03 Oct 2026 12:10:44 GMT"
     },
     {
       "title": "CGTN 여론조사｜‘황금 연휴'로 보는 중국 연휴 경제의 황금시대",
@@ -52,6 +46,12 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TNzZyTXljS21yb2NvSkpXVjIxOV9Pc1NCN094aUpUSUpyMlRrQ2liU3JzUUh6MVU2X2hMc3RHQWhsVDBFMmQyOEgyUnc4dUhrajhNUl9GbWZmMHEzbXEwMncyOEg2VU0?oc=5",
       "source": "연합뉴스TV",
       "date": "Wed, 30 Sep 2026 16:32:00 GMT"
+    },
+    {
+      "title": "시진핑 “중국 경제, 압력 견디며 전진…대만독립 세력 단호히 타격”",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9SQnFPX18zZmN4RXAzYWpldXJFZjQxd083NHVSWG9ZLVljeG5UUVh1R1R2UGhIQ3FGOUItdC10T19QSWlCYmc?oc=5",
+      "source": "v.daum.net",
+      "date": "Wed, 30 Sep 2026 12:55:46 GMT"
     },
     {
       "title": "시진핑 “중국 경제, 압력 견디며 전진…대만독립 세력 단호히 타격”",

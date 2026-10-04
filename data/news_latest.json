@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-04T10:10:05+09:00",
+  "run_at_kst": "2026-10-04T20:10:06+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,12 +7,6 @@
   ],
   "count": 14,
   "items": [
-    {
-      "title": "The Iran War Is Showing What ADNOC’s AI Can Really Do",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Iran-War-Is-Showing-What-ADNOCs-AI-Can-Really-Do.html",
-      "source": "OilPrice",
-      "date": "Sat, 03 Oct 2026 18:00:00 -0500"
-    },
     {
       "title": "Could White Hydrogen Succeed Where Green Hydrogen Stumbled?",
       "link": "https://oilprice.com/Energy/Energy-General/Could-White-Hydrogen-Succeed-Where-Green-Hydrogen-Stumbled.html",
@@ -72,6 +66,12 @@
       "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Drilling-Inches-Up-As-Prices-Fall.html",
       "source": "OilPrice",
       "date": "Fri, 02 Oct 2026 12:16:00 -0500"
+    },
+    {
+      "title": "Dated Brent Above $120 Signals a Serious Oil Squeeze",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Dated-Brent-Above-120-Signals-a-Serious-Oil-Squeeze.html",
+      "source": "OilPrice",
+      "date": "Fri, 02 Oct 2026 11:50:45 -0500"
     },
     {
       "title": "KGHM, South32 kick off $725M Sierra Gorda expansion",
