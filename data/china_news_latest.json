@@ -1,15 +1,21 @@
 {
-  "run_at_kst": "2026-10-04T10:10:05+09:00",
+  "run_at_kst": "2026-10-04T14:10:06+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "체굴부터 가공·원제품 생산까지… K기업 ‘탈중국 희토류 밸류체인’ 짠다",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzVk9yd1Vzb3BmS2dlRkpONjdNa3E5VmdGcDBDUGZtbU9lSmdaZVdSekJqdVl1NWw0ZWRPOS1CdHZxV1BZVW1ub1Y5eFVPNm8?oc=5",
-      "source": "v.daum.net",
-      "date": "Sat, 03 Oct 2026 22:05:44 GMT"
+      "title": "월드옥타, 중국 선전서 6천 명 규모 경제교류의 장 연다",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mV0ZlUkRiU2I1RXRKVnFoNzJjVWFlWHB1U1lxRjc5WkZDd18wUU5EMUJMY1VDcE9rNDhFMGRIVk95T0xyUGFhbEFJanh0c0tkcDh2M3NITnI4R2xYZk9Bc256TEY?oc=5",
+      "source": "외교문화뉴스",
+      "date": "Sun, 04 Oct 2026 04:10:26 GMT"
+    },
+    {
+      "title": "\"이제 차가 안 팔린다\"…잘 나가던 '中 전기차' 무슨 일 [차이나 워치]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85UXRSQzhIUzhFSlg4bnk1Q1htSEZFdnFSYWFHQWZidlJXV2tjX19GalNmVjZfc1J0M1NRTHVhbjRidmpsZVZtUFFTdXAtTUJrMktUeFJFd1lxQQ?oc=5",
+      "source": "한국경제",
+      "date": "Sun, 04 Oct 2026 01:18:01 GMT"
     },
     {
       "title": "'잭팟' 꿈꾸고 뛰어들었다가…AI 숏드라마의 '눈물' [김예랑의 K컬처인사이드]",
@@ -46,12 +52,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TNzZyTXljS21yb2NvSkpXVjIxOV9Pc1NCN094aUpUSUpyMlRrQ2liU3JzUUh6MVU2X2hMc3RHQWhsVDBFMmQyOEgyUnc4dUhrajhNUl9GbWZmMHEzbXEwMncyOEg2VU0?oc=5",
       "source": "연합뉴스TV",
       "date": "Wed, 30 Sep 2026 16:32:00 GMT"
-    },
-    {
-      "title": "시진핑 “중국 경제, 압력 견디며 전진…대만독립 세력 단호히 타격”",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ocHB4VFdINk5GN0RzMDEtRnlCdTB1Ql9rblFMa3BGNEFjOG90TE9WVmpxc1lkYlY4QmhQUG9qaFVHeE1qcUY3ODZ1WEZ0X00?oc=5",
-      "source": "v.daum.net",
-      "date": "Wed, 30 Sep 2026 12:55:00 GMT"
     },
     {
       "title": "시진핑 “중국 경제, 압력 견디며 전진…대만독립 세력 단호히 타격”",
