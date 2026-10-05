@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-05T10:10:05+09:00",
+  "run_at_kst": "2026-10-05T20:10:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Hormuz LNG Flows Still Down More Than 75% Despite Rebound",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-LNG-Flows-Still-Down-More-Than-75-Despite-Rebound.html",
+      "source": "OilPrice",
+      "date": "Mon, 05 Oct 2026 05:30:00 -0500"
+    },
+    {
+      "title": "Diesel Margins Slide as G7 Announces 100 Million Barrel Stocks Release",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Diesel-Margins-Slide-as-G7-Announces-100-Million-Barrel-Stocks-Release.html",
+      "source": "OilPrice",
+      "date": "Mon, 05 Oct 2026 04:00:00 -0500"
+    },
+    {
+      "title": "Aramco Cuts Asia Oil Prices to Six-Year Low, Raises Prices for Europe",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Aramco-Cuts-Asia-Oil-Prices-to-Six-Year-Low-Raises-Prices-for-Europe.html",
+      "source": "OilPrice",
+      "date": "Mon, 05 Oct 2026 03:00:00 -0500"
+    },
+    {
+      "title": "OPEC+ Holds November Quota at 31.01 Million Barrels Daily",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Holds-November-Quota-at-3101-Million-Barrels-Daily.html",
+      "source": "OilPrice",
+      "date": "Mon, 05 Oct 2026 02:00:00 -0500"
+    },
+    {
+      "title": "Oil Prices Fall as Reports Say Hormuz Crude Flows Top Pre-War Levels",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Hormuz-Crude-Flows-Top-Pre-War-Levels.html",
+      "source": "OilPrice",
+      "date": "Mon, 05 Oct 2026 00:26:00 -0500"
+    },
     {
       "title": "Fuel Price Shock Pushes Global Gas Car Sales Below 50% for First Time",
       "link": "https://oilprice.com/Energy/Energy-General/Fuel-Price-Shock-Pushes-Global-Gas-Car-Sales-Below-50-for-First-Time.html",
@@ -32,40 +62,10 @@
       "date": "Sun, 04 Oct 2026 14:00:00 -0500"
     },
     {
-      "title": "Floating Power Plants Are Opening a New Energy Frontier",
-      "link": "https://oilprice.com/Energy/Energy-General/Floating-Power-Plants-Are-Opening-a-New-Energy-Frontier.html",
-      "source": "OilPrice",
-      "date": "Sun, 04 Oct 2026 12:00:00 -0500"
-    },
-    {
-      "title": "Private Equity Firms Double Down on Fossil Fuels",
-      "link": "https://oilprice.com/Energy/Energy-General/Private-Equity-Firms-Double-Down-on-Fossil-Fuels.html",
-      "source": "OilPrice",
-      "date": "Sun, 04 Oct 2026 10:00:00 -0500"
-    },
-    {
       "title": "The top 50 biggest mining companies in the world",
       "link": "https://www.mining.com/top-50-biggest-mining-companies/",
       "source": "mining.com",
       "date": "Sun, 04 Oct 2026 07:01:00 +0000"
-    },
-    {
-      "title": "Could White Hydrogen Succeed Where Green Hydrogen Stumbled?",
-      "link": "https://oilprice.com/Energy/Energy-General/Could-White-Hydrogen-Succeed-Where-Green-Hydrogen-Stumbled.html",
-      "source": "OilPrice",
-      "date": "Sat, 03 Oct 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Iran Is Losing Some of Its Leverage Over the Strait of Hormuz",
-      "link": "https://oilprice.com/Energy/Energy-General/Iran-Is-Losing-Some-of-Its-Leverage-Over-the-Strait-of-Hormuz.html",
-      "source": "OilPrice",
-      "date": "Sat, 03 Oct 2026 14:00:00 -0500"
-    },
-    {
-      "title": "New Research Strengthens the Link Between Warming and Extreme Weather",
-      "link": "https://oilprice.com/The-Environment/Global-Warming/New-Research-Strengthens-the-Link-Between-Warming-and-Extreme-Weather.html",
-      "source": "OilPrice",
-      "date": "Sat, 03 Oct 2026 12:00:00 -0500"
     },
     {
       "title": "Pension funds use gold as bond hedge weakens",
