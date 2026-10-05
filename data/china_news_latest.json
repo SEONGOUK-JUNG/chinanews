@@ -1,10 +1,22 @@
 {
-  "run_at_kst": "2026-10-05T20:10:05+09:00",
+  "run_at_kst": "2026-10-06T07:20:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "“인도네시아 독자는 중국이 어떻게 발전했는지 알고 싶어 한다”",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBtX2xETHFJc2JnR3NQTGRsTWQwU2dOUW8tcngyOXRObVZjSXc5UV9BM0RVTWZqN2J0YXR5SjlMSi1kLVE?oc=5",
+      "source": "대한청년일보",
+      "date": "Mon, 05 Oct 2026 17:54:28 GMT"
+    },
+    {
+      "title": "[중국 특징주] 정책·수출·AI 삼박자…中 저고도 경제 '고성장 기대주' 주목",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yRmc1WnhNNVNzTDA0ZElVNXlWMnl6Rm9lS0VnS2tEMWJ1OHM0SUZURDl6SkttZ21xX1hNRmVQSHZqQ3VYQzIyZ1ByNkFrYV93dmpJek5GdGgtM1Vm?oc=5",
+      "source": "뉴스핌",
+      "date": "Mon, 05 Oct 2026 15:18:00 GMT"
+    },
     {
       "title": "중국에 의존한 유럽 기업들 와장창 무너진다 [손진석의 머니워치]",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KVFJmNGNNRDJVeHkyaGg3aHpQWllpYndJS2RfN3RpdE9HbnFWSmVwMHFzTjdpd2J6UkgzcXBYQTdfX2tTNk5zZ1l5bU12cGc?oc=5",
@@ -12,28 +24,10 @@
       "date": "Mon, 05 Oct 2026 08:21:44 GMT"
     },
     {
-      "title": "월드옥타, 중국 선전서 6천 명 규모 경제교류의 장 연다",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01VzFHN2tOUjBtZFhDelBaeVZrYVYtY2NDR2lGWlV1dHRTWnlnUVNGb2l5bGI0WnlzX1BPdE12alZKMkNqcGFTMThTd0xHbWlXOE1IZEhxSktmUE5FQlUweGlqZHZ2WkRqLXhz?oc=5",
-      "source": "열린정책뉴스",
-      "date": "Mon, 05 Oct 2026 02:15:18 GMT"
-    },
-    {
       "title": "\"마세라티가 中 기술 쓴다고?\"…판매 70% 급감에 꺼낸 카드 [차이나 워치]",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XNjNnRm9oU3NlSkMyZ0RWT1JURXE1bF9naVpfSmRBdXctU1l0alpSSnVkSUNZX3RLQ3NLTFlyeUx3VC1fX2EtYV9PTlFYVmRsX240YkZRWko0QQ?oc=5",
       "source": "한국경제",
       "date": "Mon, 05 Oct 2026 01:42:01 GMT"
-    },
-    {
-      "title": "중국이 수백 개의 은행을 폐쇄한 이유.",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VMXBtWjMzb2lPRERENGI2Q3g2TmR3LXUzaDlTTjlJcEMwWXRlQ0h6cExtbXVJX0hzOE5MY3hVLXl2VTRrR0c4bG9WTjVzQUVkbERvY195UjJXQXVINDZuRXRjYzlmSnkwTmtvc1BqOTJiVV9zaFF0UVR3RQ?oc=5",
-      "source": "Vietnam.vn",
-      "date": "Mon, 05 Oct 2026 00:23:31 GMT"
-    },
-    {
-      "title": "중남미 민심, 중국에 기울었다…영향력 평가서 처음 미국 '추월'",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZYVViWGdYakZHaFJTTHlsSXNLd0tkLWJkMEdiR2gyX2dOUmdkamZJNmtfQkhxTVZQUDlNQ1A1RE10eU5NajZZVnRPODZaMlJ6c2NIYUxkaC1LU3FSa191b0kyNHlxMlpua0w0bzlUc9IBc0FVX3lxTE9SOEdnVUZhb01MU0g0RVhXdGtnbFhPdTJxWlZ6NE5LQ2VwdXB4d1FxaTNuekllV1FEM1ZYZ01PUWE0SXpVSmhXLUVQZDdMTG5peTFEdklidExXX3N5eXNnRS1pWk1Pa2VzMmZaZG1VQ3Jlc28?oc=5",
-      "source": "초이스경제",
-      "date": "Sun, 04 Oct 2026 23:42:42 GMT"
     },
     {
       "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
@@ -50,7 +44,7 @@
     {
       "title": "[양기태의 글로벌 경제 읽기] 엇갈리는 두 흐름, 중국 경제를 읽다",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aQWJfVmltamNtakhhVWFtdjdwVzdrREw0a1FYU3pYSTV2ckd0OXM4c0dzWGtvN3J4dW1WQUl6U2ZFOFREdmUyNHNBMjhFc1VCNk5uc2xSdlpZdnRmNTlKWkRnN2k5SDJK?oc=5",
-      "source": "idaegu.com",
+      "source": "대구일보",
       "date": "Thu, 01 Oct 2026 07:19:02 GMT"
     },
     {
@@ -76,6 +70,12 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXTkRpSWw2YzE3RWpGa1BEbjBFN2o3U3B2bnBvd1FhVUJHY0V0Y1dENGNGeFRPejF6UVZiT3cyUkYwYlV2dnR6RG9ZQ1FIVEk2VENGbUtrbVc5Y03SAWBBVV95cUxOVHdTMXJOc0tIRzl0cWlpb1hIN0RGMjZXN0xFN1lwRGktLXNvVHI5R2gwZlQtSy1ReWpiNVY3T2lSTnJwXzY2MkxNTThSTVVIWC1WNHZJMXRYZ25GS0huRVQ?oc=5",
       "source": "연합뉴스",
       "date": "Wed, 30 Sep 2026 05:49:19 GMT"
+    },
+    {
+      "title": "\"다음 글로벌 경제위기는 중국에서 시작될 것\" - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43aFF3cEtoOTBMZzlLYWtiMFlHMmNwQ0pzdEpqMm8zZS1jNDJLUmdLSFJRS0VNSl9FeDNUZ1NYcTRTdGJUUHQ4RDZqYXVsX2dvMlR5S1BaWUlXc1Y2V3ZmaG1GUzNpeUdP0gFuQVVfeXFMT1V6X0g4TkV6Rk05ek9yZlZiVnYwTHNZTGY3M0RNT1RSVjVNVWd2Mi1rVWxJSlB2c0RfajFIdDFoUXJoUW9tcWVaU3dBaGRaWXM4aXo1VWgyaGJqTHA4VHJROUFvcW44Q092QUtHTEE?oc=5",
+      "source": "머니투데이",
+      "date": "Sun, 30 Aug 2026 07:00:00 GMT"
     }
   ]
 }
