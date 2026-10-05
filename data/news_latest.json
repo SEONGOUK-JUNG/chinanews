@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-05T07:20:05+09:00",
+  "run_at_kst": "2026-10-05T10:10:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Fuel Price Shock Pushes Global Gas Car Sales Below 50% for First Time",
+      "link": "https://oilprice.com/Energy/Energy-General/Fuel-Price-Shock-Pushes-Global-Gas-Car-Sales-Below-50-for-First-Time.html",
+      "source": "OilPrice",
+      "date": "Sun, 04 Oct 2026 18:00:00 -0500"
+    },
     {
       "title": "Europe’s Diesel Woes Just Got Even Worse",
       "link": "https://oilprice.com/Energy/Crude-Oil/Europes-Diesel-Woes-Just-Got-Even-Worse.html",
@@ -60,12 +66,6 @@
       "link": "https://oilprice.com/The-Environment/Global-Warming/New-Research-Strengthens-the-Link-Between-Warming-and-Extreme-Weather.html",
       "source": "OilPrice",
       "date": "Sat, 03 Oct 2026 12:00:00 -0500"
-    },
-    {
-      "title": "Latin America Could Double Its Onshore Wind Capacity by 2035",
-      "link": "https://oilprice.com/Energy/Energy-General/Latin-America-Could-Double-Its-Onshore-Wind-Capacity-by-2035.html",
-      "source": "OilPrice",
-      "date": "Sat, 03 Oct 2026 10:00:00 -0500"
     },
     {
       "title": "Pension funds use gold as bond hedge weakens",
