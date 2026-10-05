@@ -1,10 +1,22 @@
 {
-  "run_at_kst": "2026-10-05T10:10:05+09:00",
+  "run_at_kst": "2026-10-05T14:10:06+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "월드옥타, 중국 선전서 6천 명 규모 경제교류의 장 연다",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01VzFHN2tOUjBtZFhDelBaeVZrYVYtY2NDR2lGWlV1dHRTWnlnUVNGb2l5bGI0WnlzX1BPdE12alZKMkNqcGFTMThTd0xHbWlXOE1IZEhxSktmUE5FQlUweGlqZHZ2WkRqLXhz?oc=5",
+      "source": "열린정책뉴스",
+      "date": "Mon, 05 Oct 2026 02:15:18 GMT"
+    },
+    {
+      "title": "\"마세라티가 中 기술 쓴다고?\"…판매 70% 급감에 꺼낸 카드 [차이나 워치]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XNjNnRm9oU3NlSkMyZ0RWT1JURXE1bF9naVpfSmRBdXctU1l0alpSSnVkSUNZX3RLQ3NLTFlyeUx3VC1fX2EtYV9PTlFYVmRsX240YkZRWko0QQ?oc=5",
+      "source": "한국경제",
+      "date": "Mon, 05 Oct 2026 01:42:01 GMT"
+    },
     {
       "title": "중국이 수백 개의 은행을 폐쇄한 이유.",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VMXBtWjMzb2lPRERENGI2Q3g2TmR3LXUzaDlTTjlJcEMwWXRlQ0h6cExtbXVJX0hzOE5MY3hVLXl2VTRrR0c4bG9WTjVzQUVkbERvY195UjJXQXVINDZuRXRjYzlmSnkwTmtvc1BqOTJiVV9zaFF0UVR3RQ?oc=5",
@@ -16,12 +28,6 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZYVViWGdYakZHaFJTTHlsSXNLd0tkLWJkMEdiR2gyX2dOUmdkamZJNmtfQkhxTVZQUDlNQ1A1RE10eU5NajZZVnRPODZaMlJ6c2NIYUxkaC1LU3FSa191b0kyNHlxMlpua0w0bzlUc9IBc0FVX3lxTE9SOEdnVUZhb01MU0g0RVhXdGtnbFhPdTJxWlZ6NE5LQ2VwdXB4d1FxaTNuekllV1FEM1ZYZ01PUWE0SXpVSmhXLUVQZDdMTG5peTFEdklidExXX3N5eXNnRS1pWk1Pa2VzMmZaZG1VQ3Jlc28?oc=5",
       "source": "초이스경제",
       "date": "Sun, 04 Oct 2026 23:42:42 GMT"
-    },
-    {
-      "title": "월드옥타, 중국 선전서 6천 명 규모 경제교류의 장 연다",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mV0ZlUkRiU2I1RXRKVnFoNzJjVWFlWHB1U1lxRjc5WkZDd18wUU5EMUJMY1VDcE9rNDhFMGRIVk95T0xyUGFhbEFJanh0c0tkcDh2M3NITnI4R2xYZk9Bc256TEY?oc=5",
-      "source": "외교문화뉴스",
-      "date": "Sun, 04 Oct 2026 04:10:26 GMT"
     },
     {
       "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
@@ -42,15 +48,9 @@
       "date": "Thu, 01 Oct 2026 07:20:04 GMT"
     },
     {
-      "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Thu, 01 Oct 2026 07:00:00 GMT"
-    },
-    {
       "title": "사상 최대 흑자와 텅 빈 지갑… 중국 ‘K자형 경제 구조’의 한계",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcUJsRHkwczM2bTE4c1RZaTN6MXRMSUtvNFo4TkxyN1JOMmhRNmlrWkNIcEFjSWxhWEVNNTA5RU9VaXhqNUdjM3BDYzBQS2FabS14SmlVTno1OVBwZUxsMG5jWWJnUUlfajhGeWVsR2g3aGhFbXU4SkFBaDVuSnExWl84OXE0NFh1cVRvcmNB?oc=5",
-      "source": "조선일보",
+      "source": "chosun.com",
       "date": "Wed, 30 Sep 2026 18:00:00 GMT"
     },
     {
