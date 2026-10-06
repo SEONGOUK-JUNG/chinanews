@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-06T14:10:05+09:00",
+  "run_at_kst": "2026-10-06T20:10:07+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "China Accelerates Ultra-Deep Drilling to Boost Domestic Oil Supply",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Accelerates-Ultra-Deep-Drilling-to-Boost-Domestic-Oil-Supply.html",
+      "source": "OilPrice",
+      "date": "Tue, 06 Oct 2026 05:30:00 -0500"
+    },
+    {
+      "title": "At Least 50 Iranian Tankers Are Stuck in the Gulf as U.S. Blockade Holds",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/At-Least-50-Iranian-Tankers-Are-Stuck-in-the-Gulf-as-US-Blockade-Holds.html",
+      "source": "OilPrice",
+      "date": "Tue, 06 Oct 2026 04:00:00 -0500"
+    },
+    {
+      "title": "Gulf Oil Exports Recover to 81% of Pre-War Levels",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Gulf-Oil-Exports-Recover-to-81-of-Pre-War-Levels.html",
+      "source": "OilPrice",
+      "date": "Tue, 06 Oct 2026 03:00:00 -0500"
+    },
+    {
+      "title": "World Bank Warns Asia Is Running Out of Money to Fight Energy Shock",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/World-Bank-Warns-Asia-Is-Running-Out-of-Money-to-Fight-Energy-Shock.html",
+      "source": "OilPrice",
+      "date": "Tue, 06 Oct 2026 02:00:00 -0500"
+    },
+    {
+      "title": "Trump Defers Federal Fuel Tax on Dyed Diesel as Prices Hit $6.32",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Defers-Federal-Fuel-Tax-on-Dyed-Diesel-as-Prices-Hit-632.html",
+      "source": "OilPrice",
+      "date": "Tue, 06 Oct 2026 00:15:08 -0500"
+    },
     {
       "title": "Standard Chartered Says Hormuz Oil Flows Are Far From Normal",
       "link": "https://oilprice.com/Energy/Crude-Oil/Standard-Chartered-Says-Hormuz-Oil-Flows-Are-Far-From-Normal.html",
@@ -38,22 +68,10 @@
       "date": "Mon, 05 Oct 2026 21:27:18 +0000"
     },
     {
-      "title": "Singapore Eyes Nuclear Power as Iran War Exposes Its Import Problem",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Singapore-Eyes-Nuclear-Power-as-Iran-War-Exposes-Its-Import-Problem.html",
-      "source": "OilPrice",
-      "date": "Mon, 05 Oct 2026 16:00:00 -0500"
-    },
-    {
       "title": "Investors need to take a rifle approach to decision making: consultant",
       "link": "https://www.mining.com/investors-need-to-take-a-rifle-approach-to-decision-making-consultant/",
       "source": "mining.com",
       "date": "Mon, 05 Oct 2026 20:06:33 +0000"
-    },
-    {
-      "title": "Germany Is Spending €2 Billion to Discover the Real Price of Clean Jet Fuel",
-      "link": "https://oilprice.com/Energy/Energy-General/Germany-Is-Spending-2-Billion-to-Discover-the-Real-Price-of-Clean-Jet-Fuel.html",
-      "source": "OilPrice",
-      "date": "Mon, 05 Oct 2026 15:00:00 -0500"
     },
     {
       "title": "Colorado summit video: Giustra says gold rally is missing retail",
@@ -68,28 +86,10 @@
       "date": "Mon, 05 Oct 2026 19:10:00 +0000"
     },
     {
-      "title": "Freeport LNG Ramps Up Gas Intake After Train 2 Shutdown",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Freeport-LNG-Ramps-Up-Gas-Intake-After-Train-2-Shutdown.html",
-      "source": "OilPrice",
-      "date": "Mon, 05 Oct 2026 13:45:00 -0500"
-    },
-    {
-      "title": "$9.6 Billion in Southeast Asian Upstream Assets Are for Sale Through 2027",
-      "link": "https://oilprice.com/Energy/Energy-General/96-Billion-in-Southeast-Asian-Upstream-Assets-Are-for-Sale-Through-2027.html",
-      "source": "OilPrice",
-      "date": "Mon, 05 Oct 2026 13:00:00 -0500"
-    },
-    {
       "title": "Cambria targets late 2027 Premier mill restart",
       "link": "https://www.mining.com/cambria-targets-late-2027-premier-mill-restart/",
       "source": "mining.com",
       "date": "Mon, 05 Oct 2026 17:59:22 +0000"
-    },
-    {
-      "title": "Swanson results fall short despite 6.05-g/t gold highlight",
-      "link": "https://www.mining.com/swanson-results-fall-short-despite-6-05-g-t-gold-highlight/",
-      "source": "mining.com",
-      "date": "Mon, 05 Oct 2026 17:32:38 +0000"
     }
   ]
 }
