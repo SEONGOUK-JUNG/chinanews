@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-06T07:20:04+09:00",
+  "run_at_kst": "2026-10-06T14:10:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,24 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Standard Chartered Says Hormuz Oil Flows Are Far From Normal",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Standard-Chartered-Says-Hormuz-Oil-Flows-Are-Far-From-Normal.html",
+      "source": "OilPrice",
+      "date": "Mon, 05 Oct 2026 19:00:00 -0500"
+    },
+    {
+      "title": "Advanced Navigation expands US manufacturing capacity to Alabama",
+      "link": "https://www.mining.com/advanced-navigation-expands-us-manufacturing-capacity-to-alabama/",
+      "source": "mining.com",
+      "date": "Mon, 05 Oct 2026 23:46:17 +0000"
+    },
+    {
+      "title": "Europe Weighs Methane Rule Delay as Energy Supply Risks Mount",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Europe-Weighs-Methane-Rule-Delay-as-Energy-Supply-Risks-Mount.html",
+      "source": "OilPrice",
+      "date": "Mon, 05 Oct 2026 18:00:00 -0500"
+    },
     {
       "title": "G7 Oil Stocks Release Is A Band-Aid Fix in Broken Fuel Market",
       "link": "https://oilprice.com/Energy/Energy-General/G7-Oil-Stocks-Release-Is-A-Band-Aid-Fix-in-Broken-Fuel-Market.html",
@@ -38,16 +56,16 @@
       "date": "Mon, 05 Oct 2026 15:00:00 -0500"
     },
     {
+      "title": "Colorado summit video: Giustra says gold rally is missing retail",
+      "link": "https://www.mining.com/colorado-summit-video-giustra-says-gold-rally-is-missing-retail/",
+      "source": "mining.com",
+      "date": "Mon, 05 Oct 2026 19:26:18 +0000"
+    },
+    {
       "title": "Barrick secures 15-year North Mara mining licences in Tanzania",
       "link": "https://www.mining.com/barrick-secures-15-year-north-mara-mining-licences-in-tanzania/",
       "source": "mining.com",
       "date": "Mon, 05 Oct 2026 19:10:00 +0000"
-    },
-    {
-      "title": "Southeast Asia’s Oil and Gas M&A Market Is Heating Up",
-      "link": "https://oilprice.com/Energy/Energy-General/Southeast-Asias-Oil-and-Gas-MA-Market-Is-Heating-Up.html",
-      "source": "OilPrice",
-      "date": "Mon, 05 Oct 2026 14:00:00 -0500"
     },
     {
       "title": "Freeport LNG Ramps Up Gas Intake After Train 2 Shutdown",
@@ -72,24 +90,6 @@
       "link": "https://www.mining.com/swanson-results-fall-short-despite-6-05-g-t-gold-highlight/",
       "source": "mining.com",
       "date": "Mon, 05 Oct 2026 17:32:38 +0000"
-    },
-    {
-      "title": "Iran’s Oil Minister Resigns as U.S. Blockade Chokes Crude Exports",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Irans-Oil-Minister-Resigns-as-US-Blockade-Chokes-Crude-Exports.html",
-      "source": "OilPrice",
-      "date": "Mon, 05 Oct 2026 12:30:00 -0500"
-    },
-    {
-      "title": "Silver shortage could flip to surplus in 2027: Deutsche",
-      "link": "https://www.mining.com/silver-shortage-could-flip-to-surplus-in-2027-deutsche/",
-      "source": "mining.com",
-      "date": "Mon, 05 Oct 2026 17:10:59 +0000"
-    },
-    {
-      "title": "Here’s How Trump’s Using The Graham Act To Trap Russia And Crush Iran",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Heres-How-Trumps-Using-The-Graham-Act-To-Trap-Russia-And-Crush-Iran.html",
-      "source": "OilPrice",
-      "date": "Mon, 05 Oct 2026 12:00:00 -0500"
     }
   ]
 }
