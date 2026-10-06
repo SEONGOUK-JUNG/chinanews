@@ -1,15 +1,33 @@
 {
-  "run_at_kst": "2026-10-06T20:10:07+09:00",
+  "run_at_kst": "2026-10-07T07:20:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "중국, 디지털경제 ‘7개 실험구’ 성과 전국으로 확산한다",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5CQVE0eHptMEFsVWlJYWVXRkh3Wml3TU40ZWs0ekJmRzRPeE05b21vV2RoQ3FNUWhWT1diSTN3OEdveWM?oc=5",
+      "source": "한국공공정책신문",
+      "date": "Tue, 06 Oct 2026 20:45:47 GMT"
+    },
+    {
+      "title": "\"中 반도체 추격, 생각보다 빠르다\"…삼성전자·SK하이닉스가 긴장해야 하는 이유",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WbEZxLTAtVE8xSjR4d2kxY3pHblgxQ1RMeTFSYm5XNy0tM0xnSmlWR2d3Z080OFZrWFNwc1ZiZnBGYzh6YUk3YWtBVU5WTEpWM0tGNW5VUFJqeXd0RTZTQtIBeEFVX3lxTE5McFBSMFhTbXZFQXlqc2UtVEc3TzZ4T3J1ZUtVMk8zdFFqWEsyNHZwUDloR2UyeHIyc2ZVQ213Y0VmU0wxYlZ2NmpqRENHcFAwdGNGUEM3YkhlVHU3bFdpWjhZQzJRWnlLNlJORXpqS3pjczF1bHZqZw?oc=5",
+      "source": "뉴시스",
+      "date": "Tue, 06 Oct 2026 15:03:00 GMT"
+    },
+    {
       "title": "[경제] 美 LA·롱비치항 책임자 \"화물량 40~55%가 중국...對중 협력 강화 기대\"",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fclBwdXZxX0oxVEp2WnVocGNXanpLRnFIYVpNTU1fV3N6ckFYSE9yYXJwanU3blp0MmtjNmtWQ2pYTDhhVmM1bjVGLWtiV2c0RTktU2RXSUlvc2VLVDkteTFnT3lTV1ZjTU5z?oc=5",
-      "source": "snakorea.com",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwTk5CMk5hYzBESTFBTVY3d2l4MEFral8tTTctUUUybFEzMkxSMUloOWM3SWFHcGd6eURGT0pnNHBxVkNRRUdLV2JnUDRMMFN5SkZNbFJtR1A1bUVEZWFJYlNqQl9MM2VSV3hyMUtmYnBWM1k?oc=5",
+      "source": "동방일보",
       "date": "Tue, 06 Oct 2026 10:07:50 GMT"
+    },
+    {
+      "title": "“커피 한 잔 마시러 65만명이 몰렸다”…중국 뒤흔든 ‘축제경제’",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUWGVCdDVhQVZXVTBGUHJpZGtkbVZkc2N5RHdUbmNEWU5iN1V3cjE1NDNDM0tDcHZXeXd4VGwzcXpkTWx4eFJMdDUtN0lXX2YwSHlRWi00SjdxVE1yTTlvQUZGeFhCU3BSM3B5Tg?oc=5",
+      "source": "재외동포신문",
+      "date": "Tue, 06 Oct 2026 08:00:35 GMT"
     },
     {
       "title": "중국, 경제 '경고등' 속 지방정부 부채 정리에 275조원 투입",
@@ -19,7 +37,7 @@
     },
     {
       "title": "중국 선전에서 맺은 인연, 충주로 이어져",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IaFBxcnE5dmpuTXFYWnJ2UVFJOFlCVG10S2ExMHdka1NpZmtFUUJMZ25lWmZxVGVwbkp1TWF1N1BhOXJfMkxVdXhSb0s0S0w1dklpbk5rbWFWMlVGM3FsVFFuR1RrVVNvanc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DTGJyaEYyUnlpX3RNMUJWNWM1TFpTeTd2U0xGZUxGejFneTNQMjRWTWNLTlgtNDcxVlU4Z1NYdjFvSGhDd0hBclN0TWRneEt4YUI2bFFzVVF1TzNZQm0ycTMycUtpNHpqVVgw?oc=5",
       "source": "동양일보",
       "date": "Tue, 06 Oct 2026 06:33:06 GMT"
     },
@@ -30,30 +48,6 @@
       "date": "Tue, 06 Oct 2026 05:31:56 GMT"
     },
     {
-      "title": "제주 농촌융복합 제품 20개사 90여개 중국시장 노크…상하이서 판로 개척",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAteG5aMUhqZDByeUZFdzVZd1NiMkpIenhKRTN0cU5LU3VuOVc3NlVnbk5LbFVabmMzVGxYSFprT0txaDJaa3p1bDVVdEpiaXluWGVJTTdQQzQ4X1F3dW9GclBLSnNuNS04ZW9F0gFuQVVfeXFMTlBQY2wxSWZQMndUd3ptU1RvNEJMcjFjTDNIS01xc2xka0xKRXZ3WWVhOG9yVUNfWEtFRjkwTmFCZG5hbDRFR011RlVEVi1NS1E4R0o1eDR4RzJtUV9BM0tWcVYyS3pENkJrallDVVE?oc=5",
-      "source": "제주뉴스",
-      "date": "Tue, 06 Oct 2026 02:40:19 GMT"
-    },
-    {
-      "title": "중국 현지 밀착 지원…실제 수출 ‘결실’",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxWEMwUjJOeUJqdXpPMktFdWRpQkxES3lyX2JlcldxeWxlcnkweVV1YkFyX1BZbnBOc0wzUG9lOWZhczkzTF9sTzVkR2NUODRVVHpQVXBuZHhzVFdDV3YtWlBHOXhGcGVHLXBoLQ?oc=5",
-      "source": "이론경제",
-      "date": "Tue, 06 Oct 2026 00:55:56 GMT"
-    },
-    {
-      "title": "인천 기업 25곳, 중국 선전서 한인 경제인과 수출 판로 찾는다",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hZDBuaTBwb1hLSnFMUGVjaTBOWFpjMHVnTmtHYzFmWUFsZGxhRnM4Y0lkTVVkTHdXZUlQZjE5MlVPajViNkhwODd6NG1FQkRXVkJqMUw2OEtTdXB4eEs0N0FjMzEyQQ?oc=5",
-      "source": "인천게릴라뉴스",
-      "date": "Tue, 06 Oct 2026 00:25:09 GMT"
-    },
-    {
-      "title": "[중국 특징주] 정책·수출·AI 삼박자…中 저고도 경제 '고성장 기대주' 주목",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yRmc1WnhNNVNzTDA0ZElVNXlWMnl6Rm9lS0VnS2tEMWJ1OHM0SUZURDl6SkttZ21xX1hNRmVQSHZqQ3VYQzIyZ1ByNkFrYV93dmpJek5GdGgtM1Vm?oc=5",
-      "source": "뉴스핌",
-      "date": "Mon, 05 Oct 2026 15:18:00 GMT"
-    },
-    {
       "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
       "source": ":: 위즈경제 ::",
@@ -61,9 +55,9 @@
     },
     {
       "title": "[양기태의 글로벌 경제 읽기] 엇갈리는 두 흐름, 중국 경제를 읽다",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aQWJfVmltamNtakhhVWFtdjdwVzdrREw0a1FYU3pYSTV2ckd0OXM4c0dzWGtvN3J4dW1WQUl6U2ZFOFREdmUyNHNBMjhFc1VCNk5uc2xSdlpZdnRmNTlKWkRnN2k5SDJK?oc=5",
-      "source": "대구일보",
-      "date": "Thu, 01 Oct 2026 07:19:02 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DNVo4U1hZX3pNdWg0WS0zTHNNR1dXX0d4eEdSU1hqd0EzUXZGdlNJRXotektObHFrSG5iYnJ6MUdwSUx5bUdORlc3UnJWNGV0NlV1cw?oc=5",
+      "source": "Daum",
+      "date": "Thu, 01 Oct 2026 07:20:04 GMT"
     },
     {
       "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
@@ -76,6 +70,12 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXTkRpSWw2YzE3RWpGa1BEbjBFN2o3U3B2bnBvd1FhVUJHY0V0Y1dENGNGeFRPejF6UVZiT3cyUkYwYlV2dnR6RG9ZQ1FIVEk2VENGbUtrbVc5Y03SAWBBVV95cUxOVHdTMXJOc0tIRzl0cWlpb1hIN0RGMjZXN0xFN1lwRGktLXNvVHI5R2gwZlQtSy1ReWpiNVY3T2lSTnJwXzY2MkxNTThSTVVIWC1WNHZJMXRYZ25GS0huRVQ?oc=5",
       "source": "연합뉴스",
       "date": "Wed, 30 Sep 2026 05:49:19 GMT"
+    },
+    {
+      "title": "경제는 ‘흔들’ 기술은 ‘질주’하는 중국의 딜레마, 실체는?",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZG1sWUFDY2l6bFoyeFBUdTdzUjgwU1o0clpaZm5hSk9QU0NvUE5uQWdaelg0OFhKNXI2dXk5VnNjSVE5R3lwMkpDMFFiRzc1LW9nYnVn?oc=5",
+      "source": "중앙일보",
+      "date": "Wed, 22 Apr 2026 07:00:00 GMT"
     }
   ]
 }
