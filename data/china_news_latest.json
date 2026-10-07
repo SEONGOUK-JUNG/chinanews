@@ -1,15 +1,15 @@
 {
-  "run_at_kst": "2026-10-07T10:10:06+09:00",
+  "run_at_kst": "2026-10-07T10:58:36+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "유럽판 301조 추진에 중국, 프랑스·독일에자충수될 것 강력 경고",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BcTNLU0JrdnZNa1B2NzdQU1paQUFtbVl4WTg1dTF5dzYyV0JUV18wbXR5VjE5ZlhOY3dvQ0E1RmtxV0tteXFmQ3A2MGlzMFd0b216X2llWEQwd9IBWEFVX3lxTE9kQ3gxR2FxaTlhN19VWFNIYjltaFQtbEdPRWpXcXFwTXltWnZOQ1FPZ0x4Unc4Y0ZBZUJaWHI3amp1V1d4LVpxNHhoeTZkLTdOZkRyajl6c0c?oc=5",
+      "title": "[김상규 칼럼] 서로의 급소를 쥔 미국과 중국",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xdktSaFJFOWJKcmoyc04wbm9QY1JiUk9odjFLSGdWaHVJMmEwQWVtRS1iN00xUEFVSDVzRW9BOTBsUk14MjRzRmJjVHI2TWNrN19MUU4tTzlnZ9IBWEFVX3lxTE9QZjBFbm5hVHptRlREbUF5R2w3b09FUTJFc0tzcmJodlZNUTE2MHYzMVNDcUE1dFNaRkx3VWtmTW9ITFZCZDlYSDBSdjA2RTFwNkh2SUJrNEY?oc=5",
       "source": "아주경제",
-      "date": "Wed, 07 Oct 2026 00:00:26 GMT"
+      "date": "Wed, 07 Oct 2026 01:08:23 GMT"
     },
     {
       "title": "중국, 디지털경제 ‘7개 실험구’ 성과 전국으로 확산한다",
