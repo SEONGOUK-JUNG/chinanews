@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-07T14:08:44+09:00",
+  "run_at_kst": "2026-10-07T20:11:51+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Europe’s Fuel Squeeze Is Turning Into a Q3 Windfall for Equinor",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Fuel-Squeeze-Is-Turning-Into-a-Q3-Windfall-for-Equinor.html",
+      "source": "OilPrice",
+      "date": "Wed, 07 Oct 2026 05:30:00 -0500"
+    },
+    {
+      "title": "QatarEnergy Secures $3 Billion Loan From Chinese Banks as LNG Exports Stall",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/QatarEnergy-Secures-3-Billion-Loan-From-Chinese-Banks-as-LNG-Exports-Stall.html",
+      "source": "OilPrice",
+      "date": "Wed, 07 Oct 2026 04:30:00 -0500"
+    },
+    {
+      "title": "Australia's High Court Blocks Major Coal Mine Expansion Over Emissions",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Australias-High-Court-Blocks-Major-Coal-Mine-Expansion-Over-Emissions.html",
+      "source": "OilPrice",
+      "date": "Wed, 07 Oct 2026 03:00:00 -0500"
+    },
+    {
+      "title": "Chevron, Shell and BP Pull Workers From the Gulf Ahead of Hurricane",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-Shell-and-BP-Pull-Workers-From-the-Gulf-Ahead-of-Hurricane.html",
+      "source": "OilPrice",
+      "date": "Wed, 07 Oct 2026 01:30:00 -0500"
+    },
     {
       "title": "Brent Back Above $100 as Houthis Hit Saudi Infrastructure",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Back-Above-100-as-Houthis-Hit-Saudi-Infrastructure.html",
@@ -30,30 +54,6 @@
       "link": "https://oilprice.com/Energy/Crude-Oil/G7s-100-Million-Barrel-Release-Is-Mostly-Already-Priced-In.html",
       "source": "OilPrice",
       "date": "Tue, 06 Oct 2026 17:00:00 -0500"
-    },
-    {
-      "title": "US Crude Inventories Slide",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Inventories-Slide.html",
-      "source": "OilPrice",
-      "date": "Tue, 06 Oct 2026 16:15:00 -0500"
-    },
-    {
-      "title": "Europe's Power Grid Is Digitalizing Faster Than Regulators Can Keep Up",
-      "link": "https://oilprice.com/Energy/Energy-General/Europes-Power-Grid-Is-Digitalizing-Faster-Than-Regulators-Can-Keep-Up.html",
-      "source": "OilPrice",
-      "date": "Tue, 06 Oct 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Halliburton Shuns Falklands Oil Project",
-      "link": "https://oilprice.com/Energy/Energy-General/Halliburton-Shuns-Falklands-Oil-Project.html",
-      "source": "OilPrice",
-      "date": "Tue, 06 Oct 2026 15:00:00 -0500"
-    },
-    {
-      "title": "Iraq Builds 2027 Budget on $58 Oil—and a Very Large Deficit",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Builds-2027-Budget-on-58-Oiland-a-Very-Large-Deficit.html",
-      "source": "OilPrice",
-      "date": "Tue, 06 Oct 2026 14:30:00 -0500"
     },
     {
       "title": "Beaver Creek video: Gold gains new role vs bonds",

@@ -1,38 +1,38 @@
 {
-  "updated_at_kst": "2026-10-06T20:10:06+09:00",
-  "ref_date": "2026-10-06",
+  "updated_at_kst": "2026-10-07T20:11:50+09:00",
+  "ref_date": "2026-10-07",
   "schema_version": "1.0",
   "adjustment_applied": true,
   "pulse": {
-    "up_count": 0,
-    "down_count": 0,
-    "flat_count": 443,
+    "up_count": 1,
+    "down_count": 1,
+    "flat_count": 441,
     "total": 443,
     "top_gainers": [
+      {
+        "name": "황산 다이에틸",
+        "change_pct": 9.25
+      },
       {
         "name": "원유",
         "change_pct": 0.0
       },
       {
         "name": "천연가스",
-        "change_pct": 0.0
-      },
-      {
-        "name": "순수 벤젠",
         "change_pct": 0.0
       }
     ],
     "top_losers": [
       {
+        "name": "황산마그네슘 칠수화물",
+        "change_pct": -2.74
+      },
+      {
         "name": "원유",
         "change_pct": 0.0
       },
       {
         "name": "천연가스",
-        "change_pct": 0.0
-      },
-      {
-        "name": "순수 벤젠",
         "change_pct": 0.0
       }
     ]
@@ -216,6 +216,13 @@
     }
   ],
   "all_items": [
+    {
+      "display_name": "황산 다이에틸",
+      "sector": "화학공업",
+      "price_prev": 14620.44,
+      "price_today": 15972.33,
+      "change_pct": 9.25
+    },
     {
       "display_name": "원유",
       "sector": "에너지",
@@ -2373,13 +2380,6 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "황산마그네슘 칠수화물",
-      "sector": "화학공업",
-      "price_prev": 1218.37,
-      "price_today": 1218.37,
-      "change_pct": 0.0
-    },
-    {
       "display_name": "디에틸렌글리콜모노부틸에테르",
       "sector": "화학공업",
       "price_prev": 11753.93,
@@ -3038,13 +3038,6 @@
       "change_pct": 0.0
     },
     {
-      "display_name": "황산 다이에틸",
-      "sector": "화학공업",
-      "price_prev": 14620.44,
-      "price_today": 14620.44,
-      "change_pct": 0.0
-    },
-    {
       "display_name": "디메틸아민 수용액",
       "sector": "화학공업",
       "price_prev": 2273.18,
@@ -3134,6 +3127,13 @@
       "price_prev": 41291.06,
       "price_today": 41291.06,
       "change_pct": 0.0
+    },
+    {
+      "display_name": "황산마그네슘 칠수화물",
+      "sector": "화학공업",
+      "price_prev": 1218.37,
+      "price_today": 1184.99,
+      "change_pct": -2.74
     }
   ]
 }
