@@ -1,15 +1,27 @@
 {
-  "run_at_kst": "2026-10-07T20:11:51+09:00",
+  "run_at_kst": "2026-10-08T07:08:52+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "중국, 금 23개월 연속 매입…달러 의존도 낮추고 외환자산 다변화",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnMDh0QlM1ajg2SF85VWxXZjBOUHlEb1RYcU41Y3hPbFdjLUM2TzM0LWdocXdNZ2U2a2ZhQnBCQl9hNDRzTnRjMmxKNm0wS0NEM1hxQXpyTVpTUdIBWEFVX3lxTE5OWTF0NzNlWFhsSEFrZ3hteDBlRFNPUTlIRmdKbHhOTng1V29hQU1NS3dpZ1JKUFU1MERORXFNbExoY3JMaVdmRTZtcmNhOFpLSVRhMU4xOFA?oc=5",
-      "source": "아주경제",
-      "date": "Wed, 07 Oct 2026 09:03:10 GMT"
+      "title": "[경제포커스] 아틀라스보다 먼저 온 중국 ‘車海전술’",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUWhBeEhYQVdhNmw2XzNDOU13Sjd3ZHlnOWhCMHVyUjBCeklSeWZ1bkV5NEVIaTdtZURhYnV5WVBSSS0wa1RraGptOUk5NmFWMzJZcDd4QWdxSDF2VUlQbXdoWURLSld0bFBzMXE5amlFZTlneWsxMHFwLUViN1RMRzhLRzM0VzRHT2U1Xw?oc=5",
+      "source": "조선일보",
+      "date": "Wed, 07 Oct 2026 14:50:00 GMT"
+    },
+    {
+      "title": "\"미 상무장관 방중 목적은 '첨단기술 제한' 선제적 해명\"",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55SUZNUElvb1V5V3oyTWtDaEJ3WW9wcXVGTVRKb2JfQUk2eGpzNTVkZjZGZ2ZVMTNGczFqUUhqWUxUcHlCSGRPandVeDZKNDNl?oc=5",
+      "source": "매일경제 마켓",
+      "date": "Wed, 07 Oct 2026 12:06:33 GMT"
+    },
+    {
+      "title": "장관회의는 온라인 진행?…중국, 11월 APEC 축소 추진",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iLTJJdE5ValNUS2gxVFRMS2xfT1VxT194WlN2c3JObkU4UjFVZGJ5YzR1WHNHMHBjM05udzFadUg2bEVOMjl6UVgzYmZhbkRoTmFHNEZXUllPRVBlQXdmcG5WZjdkTjkta0ZyOA?oc=5",
+      "source": "한겨레",
+      "date": "Wed, 07 Oct 2026 07:26:00 GMT"
     },
     {
       "title": "[특파원] 中 9월 말 외환보유액 3조4003억달러…전월 대비 381억달러↓",
@@ -36,28 +48,10 @@
       "date": "Wed, 07 Oct 2026 00:03:28 GMT"
     },
     {
-      "title": "중국, 디지털경제 ‘7개 실험구’ 성과 전국으로 확산한다",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1STGFwX3VldlJwSUVfUlowQ0FudmFoUU1wUW1fRlpEYS1BN0Y3d2xlTjJLRWZidkNiY0Z4c0psTnQwSkhTUzFiOTdB?oc=5",
-      "source": "얼리어답터뉴스",
-      "date": "Tue, 06 Oct 2026 20:43:58 GMT"
-    },
-    {
-      "title": "\"中 반도체 추격, 생각보다 빠르다\"…삼성전자·SK하이닉스가 긴장해야 하는 이유",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WbEZxLTAtVE8xSjR4d2kxY3pHblgxQ1RMeTFSYm5XNy0tM0xnSmlWR2d3Z080OFZrWFNwc1ZiZnBGYzh6YUk3YWtBVU5WTEpWM0tGNW5VUFJqeXd0RTZTQtIBeEFVX3lxTE5McFBSMFhTbXZFQXlqc2UtVEc3TzZ4T3J1ZUtVMk8zdFFqWEsyNHZwUDloR2UyeHIyc2ZVQ213Y0VmU0wxYlZ2NmpqRENHcFAwdGNGUEM3YkhlVHU3bFdpWjhZQzJRWnlLNlJORXpqS3pjczF1bHZqZw?oc=5",
-      "source": "뉴시스",
-      "date": "Tue, 06 Oct 2026 15:03:00 GMT"
-    },
-    {
       "title": "“커피 한 잔 마시러 65만명이 몰렸다”…중국 뒤흔든 ‘축제경제’",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUWGVCdDVhQVZXVTBGUHJpZGtkbVZkc2N5RHdUbmNEWU5iN1V3cjE1NDNDM0tDcHZXeXd4VGwzcXpkTWx4eFJMdDUtN0lXX2YwSHlRWi00SjdxVE1yTTlvQUZGeFhCU3BSM3B5Tg?oc=5",
       "source": "재외동포신문",
       "date": "Tue, 06 Oct 2026 08:00:35 GMT"
-    },
-    {
-      "title": "중국, 경제 '경고등' 속 지방정부 부채 정리에 275조원 투입",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PTklxMmpuYWc3aUlXVmx5WGpCTzllRVd6LVdDZGVDTllGdmZvSGFHMGhNcGxoZVRxRGFjb1pUREh4NDAxcDgtMHlDMmdrRlkw?oc=5",
-      "source": "매일경제 마켓",
-      "date": "Tue, 06 Oct 2026 06:42:43 GMT"
     },
     {
       "title": "[중국 특징주] 정책·수출·AI 삼박자…中 저고도 경제 '고성장 기대주' 주목",
@@ -66,16 +60,22 @@
       "date": "Mon, 05 Oct 2026 15:18:00 GMT"
     },
     {
-      "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Fri, 02 Oct 2026 07:00:00 GMT"
-    },
-    {
       "title": "[양기태의 글로벌 경제 읽기] 엇갈리는 두 흐름, 중국 경제를 읽다",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aQWJfVmltamNtakhhVWFtdjdwVzdrREw0a1FYU3pYSTV2ckd0OXM4c0dzWGtvN3J4dW1WQUl6U2ZFOFREdmUyNHNBMjhFc1VCNk5uc2xSdlpZdnRmNTlKWkRnN2k5SDJK?oc=5",
       "source": "대구일보",
       "date": "Thu, 01 Oct 2026 07:19:02 GMT"
+    },
+    {
+      "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Thu, 01 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "中학자 \"중국 2035년까지 연 4.6% 성장…수출 주도 지속 불가능\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXTkRpSWw2YzE3RWpGa1BEbjBFN2o3U3B2bnBvd1FhVUJHY0V0Y1dENGNGeFRPejF6UVZiT3cyUkYwYlV2dnR6RG9ZQ1FIVEk2VENGbUtrbVc5Y03SAWBBVV95cUxOVHdTMXJOc0tIRzl0cWlpb1hIN0RGMjZXN0xFN1lwRGktLXNvVHI5R2gwZlQtSy1ReWpiNVY3T2lSTnJwXzY2MkxNTThSTVVIWC1WNHZJMXRYZ25GS0huRVQ?oc=5",
+      "source": "연합뉴스",
+      "date": "Wed, 30 Sep 2026 05:49:19 GMT"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-07T20:11:51+09:00",
+  "run_at_kst": "2026-10-08T07:08:52+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
-      "title": "Europe’s Fuel Squeeze Is Turning Into a Q3 Windfall for Equinor",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Fuel-Squeeze-Is-Turning-Into-a-Q3-Windfall-for-Equinor.html",
+      "title": "Depleted Global Stocks Set Higher Floor Under Oil Prices",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Depleted-Global-Stocks-Set-Higher-Floor-Under-Oil-Prices.html",
       "source": "OilPrice",
-      "date": "Wed, 07 Oct 2026 05:30:00 -0500"
+      "date": "Wed, 07 Oct 2026 17:00:00 -0500"
     },
     {
-      "title": "QatarEnergy Secures $3 Billion Loan From Chinese Banks as LNG Exports Stall",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/QatarEnergy-Secures-3-Billion-Loan-From-Chinese-Banks-as-LNG-Exports-Stall.html",
-      "source": "OilPrice",
-      "date": "Wed, 07 Oct 2026 04:30:00 -0500"
-    },
-    {
-      "title": "Australia's High Court Blocks Major Coal Mine Expansion Over Emissions",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Australias-High-Court-Blocks-Major-Coal-Mine-Expansion-Over-Emissions.html",
-      "source": "OilPrice",
-      "date": "Wed, 07 Oct 2026 03:00:00 -0500"
-    },
-    {
-      "title": "Chevron, Shell and BP Pull Workers From the Gulf Ahead of Hurricane",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-Shell-and-BP-Pull-Workers-From-the-Gulf-Ahead-of-Hurricane.html",
-      "source": "OilPrice",
-      "date": "Wed, 07 Oct 2026 01:30:00 -0500"
-    },
-    {
-      "title": "Brent Back Above $100 as Houthis Hit Saudi Infrastructure",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Back-Above-100-as-Houthis-Hit-Saudi-Infrastructure.html",
-      "source": "OilPrice",
-      "date": "Wed, 07 Oct 2026 00:00:00 -0500"
-    },
-    {
-      "title": "Why $100 Oil Is Hard to Kill",
-      "link": "https://oilprice.com/Energy/Oil-Prices/Why-100-Oil-Is-Hard-to-Kill.html",
-      "source": "OilPrice",
-      "date": "Tue, 06 Oct 2026 19:00:00 -0500"
-    },
-    {
-      "title": "5 Natural Gas Stocks Profiting From the Strait of Hormuz Standoff",
-      "link": "https://oilprice.com/Energy/Natural-Gas/5-Natural-Gas-Stocks-Profiting-From-the-Strait-of-Hormuz-Standoff.html",
-      "source": "OilPrice",
-      "date": "Tue, 06 Oct 2026 18:00:00 -0500"
-    },
-    {
-      "title": "G7’s 100 Million Barrel Release Is Mostly Already Priced In",
-      "link": "https://oilprice.com/Energy/Crude-Oil/G7s-100-Million-Barrel-Release-Is-Mostly-Already-Priced-In.html",
-      "source": "OilPrice",
-      "date": "Tue, 06 Oct 2026 17:00:00 -0500"
-    },
-    {
-      "title": "Beaver Creek video: Gold gains new role vs bonds",
-      "link": "https://www.mining.com/beaver-creek-video-gold-gains-new-role-vs-bonds/",
+      "title": "Titan Mining, US Army advance strategic graphite processing plant in Alabama",
+      "link": "https://www.mining.com/titan-mining-us-army-advance-strategic-graphite-processing-plant-in-alabama/",
       "source": "mining.com",
-      "date": "Tue, 06 Oct 2026 17:51:03 +0000"
+      "date": "Wed, 07 Oct 2026 21:01:04 +0000"
     },
     {
-      "title": "Beaver Creek: Mining’s next generation takes the wheel",
-      "link": "https://www.mining.com/beaver-creek-minings-next-generation-takes-the-wheel/",
-      "source": "mining.com",
-      "date": "Tue, 06 Oct 2026 17:35:09 +0000"
+      "title": "Iran War Pushes 25 Countries Into New Electrification Policies",
+      "link": "https://oilprice.com/Energy/Energy-General/Iran-War-Pushes-25-Countries-Into-New-Electrification-Policies.html",
+      "source": "OilPrice",
+      "date": "Wed, 07 Oct 2026 16:00:00 -0500"
     },
     {
-      "title": "Greenland Mines authorizes $20M share buyback",
-      "link": "https://www.mining.com/greenland-mines-authorizes-20m-share-buyback/",
-      "source": "mining.com",
-      "date": "Tue, 06 Oct 2026 15:56:04 +0000"
+      "title": "Global Diesel Crunch Fuels New Wave of Energy Nationalism",
+      "link": "https://oilprice.com/Energy/Energy-General/Global-Diesel-Crunch-Fuels-New-Wave-of-Energy-Nationalism.html",
+      "source": "OilPrice",
+      "date": "Wed, 07 Oct 2026 15:00:00 -0500"
     },
     {
-      "title": "Canterra grows Newfoundland copper resource 55% as grades fall",
-      "link": "https://www.mining.com/canterra-grows-newfoundland-copper-resource-55-as-grades-fall/",
-      "source": "mining.com",
-      "date": "Tue, 06 Oct 2026 14:48:59 +0000"
+      "title": "Google Secures 890 MW Of Nuclear Power from Constellation Energy",
+      "link": "https://oilprice.com/Energy/Energy-General/Google-Secures-890-MW-Of-Nuclear-Power-from-Constellation-Energy.html",
+      "source": "OilPrice",
+      "date": "Wed, 07 Oct 2026 14:00:00 -0500"
     },
     {
-      "title": "Discovery silver project clears key Mexico hurdle",
-      "link": "https://www.mining.com/discovery-silver-project-clears-key-mexico-hurdle/",
-      "source": "mining.com",
-      "date": "Tue, 06 Oct 2026 14:48:40 +0000"
+      "title": "U.S. Gulf Energy Hub Braces for Category 2 Hurricane",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Gulf-Energy-Hub-Braces-for-Category-2-Hurricane.html",
+      "source": "OilPrice",
+      "date": "Wed, 07 Oct 2026 13:00:00 -0500"
     },
     {
-      "title": "Advanced Navigation expands US manufacturing capacity to Alabama",
-      "link": "https://www.mining.com/advanced-navigation-expands-us-manufacturing-capacity-to-alabama/",
+      "title": "Apollo Joins $11.5 Billion Race for German Gas Giant Uniper",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Apollo-Joins-115-Billion-Race-for-German-Gas-Giant-Uniper.html",
+      "source": "OilPrice",
+      "date": "Wed, 07 Oct 2026 12:45:00 -0500"
+    },
+    {
+      "title": "Data Centers Are Now Bankrolling Finland's New Power Supply",
+      "link": "https://oilprice.com/Metals/Gold/Data-Centers-Are-Now-Bankrolling-Finlands-New-Power-Supply.html",
+      "source": "OilPrice",
+      "date": "Wed, 07 Oct 2026 12:00:00 -0500"
+    },
+    {
+      "title": "Dutch central bank transfers 86 tonnes of gold closer to home",
+      "link": "https://www.mining.com/dutch-central-bank-transfers-86-tonnes-of-gold-closer-to-home/",
       "source": "mining.com",
-      "date": "Mon, 05 Oct 2026 23:46:17 +0000"
+      "date": "Wed, 07 Oct 2026 16:55:35 +0000"
+    },
+    {
+      "title": "Namibia diamond mine revival draws $50M investment",
+      "link": "https://www.mining.com/namibia-diamond-mine-revival-draws-50m-investment/",
+      "source": "mining.com",
+      "date": "Wed, 07 Oct 2026 16:33:00 +0000"
+    },
+    {
+      "title": "SpaceX Seeks Approval for 32-Mile Florida Natural Gas Pipeline",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/SpaceX-Seeks-Approval-for-32-Mile-Florida-Natural-Gas-Pipeline.html",
+      "source": "OilPrice",
+      "date": "Wed, 07 Oct 2026 11:30:00 -0500"
+    },
+    {
+      "title": "Canada’s miners must seize political opening, Gratton says",
+      "link": "https://www.mining.com/canadas-miners-must-seize-political-opening-gratton-says/",
+      "source": "mining.com",
+      "date": "Wed, 07 Oct 2026 15:11:05 +0000"
+    },
+    {
+      "title": "Gold Mountain weighs revival of wartime Brazil tungsten mine",
+      "link": "https://www.mining.com/gold-mountain-weighs-revival-of-wartime-brazil-tungsten-mine/",
+      "source": "mining.com",
+      "date": "Wed, 07 Oct 2026 15:03:00 +0000"
+    },
+    {
+      "title": "Vizsla Copper logs high-grade silver at Alaska project",
+      "link": "https://www.mining.com/vizsla-copper-logs-high-grade-silver-at-alaska-project/",
+      "source": "mining.com",
+      "date": "Wed, 07 Oct 2026 14:59:50 +0000"
     }
   ]
 }
