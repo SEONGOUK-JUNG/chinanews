@@ -1,15 +1,21 @@
 {
-  "run_at_kst": "2026-10-07T07:20:05+09:00",
+  "run_at_kst": "2026-10-07T10:10:06+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "유럽판 301조 추진에 중국, 프랑스·독일에자충수될 것 강력 경고",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BcTNLU0JrdnZNa1B2NzdQU1paQUFtbVl4WTg1dTF5dzYyV0JUV18wbXR5VjE5ZlhOY3dvQ0E1RmtxV0tteXFmQ3A2MGlzMFd0b216X2llWEQwd9IBWEFVX3lxTE9kQ3gxR2FxaTlhN19VWFNIYjltaFQtbEdPRWpXcXFwTXltWnZOQ1FPZ0x4Unc4Y0ZBZUJaWHI3amp1V1d4LVpxNHhoeTZkLTdOZkRyajl6c0c?oc=5",
+      "source": "아주경제",
+      "date": "Wed, 07 Oct 2026 00:00:26 GMT"
+    },
+    {
       "title": "중국, 디지털경제 ‘7개 실험구’ 성과 전국으로 확산한다",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5CQVE0eHptMEFsVWlJYWVXRkh3Wml3TU40ZWs0ekJmRzRPeE05b21vV2RoQ3FNUWhWT1diSTN3OEdveWM?oc=5",
-      "source": "한국공공정책신문",
-      "date": "Tue, 06 Oct 2026 20:45:47 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1STGFwX3VldlJwSUVfUlowQ0FudmFoUU1wUW1fRlpEYS1BN0Y3d2xlTjJLRWZidkNiY0Z4c0psTnQwSkhTUzFiOTdB?oc=5",
+      "source": "얼리어답터뉴스",
+      "date": "Tue, 06 Oct 2026 20:43:58 GMT"
     },
     {
       "title": "\"中 반도체 추격, 생각보다 빠르다\"…삼성전자·SK하이닉스가 긴장해야 하는 이유",
@@ -58,12 +64,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DNVo4U1hZX3pNdWg0WS0zTHNNR1dXX0d4eEdSU1hqd0EzUXZGdlNJRXotektObHFrSG5iYnJ6MUdwSUx5bUdORlc3UnJWNGV0NlV1cw?oc=5",
       "source": "Daum",
       "date": "Thu, 01 Oct 2026 07:20:04 GMT"
-    },
-    {
-      "title": "일본은 웃고 중국은 흔들렸다…엇갈린 亞 경제, 한국 수출에 변수 되나",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45MS00LWJ5NmEtYXVMR05fWHl4dTRva1dDQ0tBcmdsNEVwdjNLWjVFamkwUDR0R09CNXFIVG1HU1BJN091eFZJYW1LcWlpSER1X1J4NA?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Thu, 01 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "中학자 \"중국 2035년까지 연 4.6% 성장…수출 주도 지속 불가능\"",

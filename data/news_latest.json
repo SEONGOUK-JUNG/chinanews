@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-07T07:20:05+09:00",
+  "run_at_kst": "2026-10-07T10:10:06+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,18 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Why $100 Oil Is Hard to Kill",
+      "link": "https://oilprice.com/Energy/Oil-Prices/Why-100-Oil-Is-Hard-to-Kill.html",
+      "source": "OilPrice",
+      "date": "Tue, 06 Oct 2026 19:00:00 -0500"
+    },
+    {
+      "title": "5 Natural Gas Stocks Profiting From the Strait of Hormuz Standoff",
+      "link": "https://oilprice.com/Energy/Natural-Gas/5-Natural-Gas-Stocks-Profiting-From-the-Strait-of-Hormuz-Standoff.html",
+      "source": "OilPrice",
+      "date": "Tue, 06 Oct 2026 18:00:00 -0500"
+    },
     {
       "title": "G7’s 100 Million Barrel Release Is Mostly Already Priced In",
       "link": "https://oilprice.com/Energy/Crude-Oil/G7s-100-Million-Barrel-Release-Is-Mostly-Already-Priced-In.html",
@@ -44,12 +56,6 @@
       "date": "Tue, 06 Oct 2026 14:00:00 -0500"
     },
     {
-      "title": "The World’s Gold Producers Are Starting to Hoard Their Own Gold",
-      "link": "https://oilprice.com/Metals/Gold/The-Worlds-Gold-Producers-Are-Starting-to-Hoard-Their-Own-Gold.html",
-      "source": "OilPrice",
-      "date": "Tue, 06 Oct 2026 13:00:00 -0500"
-    },
-    {
       "title": "Beaver Creek video: Gold gains new role vs bonds",
       "link": "https://www.mining.com/beaver-creek-video-gold-gains-new-role-vs-bonds/",
       "source": "mining.com",
@@ -60,12 +66,6 @@
       "link": "https://www.mining.com/beaver-creek-minings-next-generation-takes-the-wheel/",
       "source": "mining.com",
       "date": "Tue, 06 Oct 2026 17:35:09 +0000"
-    },
-    {
-      "title": "IPO Market Stalls Four Months After SpaceX's $75 Billion Debut",
-      "link": "https://oilprice.com/Finance/investing-and-trading-reports/IPO-Market-Stalls-Four-Months-After-SpaceXs-75-Billion-Debut.html",
-      "source": "OilPrice",
-      "date": "Tue, 06 Oct 2026 12:00:00 -0500"
     },
     {
       "title": "Greenland Mines authorizes $20M share buyback",
