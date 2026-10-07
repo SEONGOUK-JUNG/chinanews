@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-07T10:10:06+09:00",
+  "run_at_kst": "2026-10-07T14:08:44+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Brent Back Above $100 as Houthis Hit Saudi Infrastructure",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Back-Above-100-as-Houthis-Hit-Saudi-Infrastructure.html",
+      "source": "OilPrice",
+      "date": "Wed, 07 Oct 2026 00:00:00 -0500"
+    },
     {
       "title": "Why $100 Oil Is Hard to Kill",
       "link": "https://oilprice.com/Energy/Oil-Prices/Why-100-Oil-Is-Hard-to-Kill.html",
@@ -48,12 +54,6 @@
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Builds-2027-Budget-on-58-Oiland-a-Very-Large-Deficit.html",
       "source": "OilPrice",
       "date": "Tue, 06 Oct 2026 14:30:00 -0500"
-    },
-    {
-      "title": "Is the West’s 100-Year Venezuela Oil Bet About To Backfire?",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Is-the-Wests-100-Year-Venezuela-Oil-Bet-About-To-Backfire.html",
-      "source": "OilPrice",
-      "date": "Tue, 06 Oct 2026 14:00:00 -0500"
     },
     {
       "title": "Beaver Creek video: Gold gains new role vs bonds",
