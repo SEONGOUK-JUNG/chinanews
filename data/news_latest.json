@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-08T14:10:12+09:00",
+  "run_at_kst": "2026-10-08T20:10:15+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,10 +8,34 @@
   "count": 14,
   "items": [
     {
-      "title": "Oil Jumps 2% as Iran Steps Up Attacks on Hormuz Tankers",
+      "title": "Oil Jumps 5% as Iran Steps Up Attacks on Hormuz Tankers",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Jumps-2-as-Iran-Steps-Up-Attacks-on-Hormuz-Tankers.html",
       "source": "OilPrice",
-      "date": "Thu, 08 Oct 2026 00:08:31 -0500"
+      "date": "Thu, 08 Oct 2026 05:46:00 -0500"
+    },
+    {
+      "title": "India's Inflation Likely Hit 5.4% in September as Oil Costs Bite",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Inflation-Likely-Hit-54-in-September-as-Oil-Costs-Bite.html",
+      "source": "OilPrice",
+      "date": "Thu, 08 Oct 2026 05:30:00 -0500"
+    },
+    {
+      "title": "First Deep-Gulf Tanker Attack in Nearly a Month Hits Vessel off Qatar",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/First-Deep-Gulf-Tanker-Attack-in-Nearly-a-Month-Hits-Vessel-off-Qatar.html",
+      "source": "OilPrice",
+      "date": "Thu, 08 Oct 2026 04:00:00 -0500"
+    },
+    {
+      "title": "Big Oil Begins Shutting In Gulf of Mexico Production",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Big-Oil-Begins-Shutting-In-Gulf-of-Mexico-Production.html",
+      "source": "OilPrice",
+      "date": "Thu, 08 Oct 2026 03:00:00 -0500"
+    },
+    {
+      "title": "Hormuz Tanker Traffic Hits Two-Month Low as Attacks Surge",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Traffic-Hits-Two-Month-Low-as-Attacks-Surge.html",
+      "source": "OilPrice",
+      "date": "Thu, 08 Oct 2026 02:00:00 -0500"
     },
     {
       "title": "Kpler Suspects Gulf Producers Are Paying Iran for Safe Passage",
@@ -42,30 +66,6 @@
       "link": "https://www.mining.com/titan-mining-us-army-advance-strategic-graphite-processing-plant-in-alabama/",
       "source": "mining.com",
       "date": "Wed, 07 Oct 2026 21:01:04 +0000"
-    },
-    {
-      "title": "Iran War Pushes 25 Countries Into New Electrification Policies",
-      "link": "https://oilprice.com/Energy/Energy-General/Iran-War-Pushes-25-Countries-Into-New-Electrification-Policies.html",
-      "source": "OilPrice",
-      "date": "Wed, 07 Oct 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Global Diesel Crunch Fuels New Wave of Energy Nationalism",
-      "link": "https://oilprice.com/Energy/Energy-General/Global-Diesel-Crunch-Fuels-New-Wave-of-Energy-Nationalism.html",
-      "source": "OilPrice",
-      "date": "Wed, 07 Oct 2026 15:00:00 -0500"
-    },
-    {
-      "title": "Google Secures 890 MW Of Nuclear Power from Constellation Energy",
-      "link": "https://oilprice.com/Energy/Energy-General/Google-Secures-890-MW-Of-Nuclear-Power-from-Constellation-Energy.html",
-      "source": "OilPrice",
-      "date": "Wed, 07 Oct 2026 14:00:00 -0500"
-    },
-    {
-      "title": "U.S. Gulf Energy Hub Braces for Category 2 Hurricane",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Gulf-Energy-Hub-Braces-for-Category-2-Hurricane.html",
-      "source": "OilPrice",
-      "date": "Wed, 07 Oct 2026 13:00:00 -0500"
     },
     {
       "title": "Dutch central bank transfers 86 tonnes of gold closer to home",
