@@ -1,10 +1,28 @@
 {
-  "run_at_kst": "2026-10-08T07:20:04+09:00",
+  "run_at_kst": "2026-10-08T10:10:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "한미일 등 15개국, 전기차 등 과잉생산 공동대응…중국 겨냥한 듯",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WVGZfOWlhOXZXM3hDdXlubG9PNURlRTNhYVY2di14djBUM3ZjSUduLU0xcVhobjNmbFc5V0sxVi1SeVlEVjdCMnVweGFiN0dCX1VpMkhXZTUyY1E?oc=5",
+      "source": "KBS 뉴스",
+      "date": "Thu, 08 Oct 2026 00:56:00 GMT"
+    },
+    {
+      "title": "신용한 지사 첫 해외 출장…중국 선전서 경제외교",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NTkdET3g2RHZ0cmdHa0VsUVZpUHA4TkNwTllFdzNjSU5fWFh6ME5Pa29oZE5DektOdTJuMkZySnFJWGVnWXR5alc1UWlCSWJMRDVxX21FMDNjOFctc1FaN9IBeEFVX3lxTE8yQWlGSkJjQ01sLWJ4YzNoRVdPcUtYRzFHdDE0ME1BN2VxWWZlc0dPRkdobEZtQlpHNjNCTlhjN0VCanhIR2dJeWlJX3pzWTl5RS1wcktSMmpGU3BvZy1seW1BRHZzTzNMY2xVMmR4VXdJVzY3VTR3ZA?oc=5",
+      "source": "뉴시스",
+      "date": "Thu, 08 Oct 2026 00:50:58 GMT"
+    },
+    {
+      "title": "중국 혁신신약의 부상, 한국은 준비돼 있나 [조평규의 중국 본색]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Wb2d4N2EtdF9FbTNaYmFfNjBUTDNaNDZDelJKZ3JIdFlmTXllTWl1VlgwbnhqRXd1Sm5wWEgtaXlHTVRxTVNuc1hlczRuU3FGZGM5QmNrYVAyQQ?oc=5",
+      "source": "한국경제",
+      "date": "Wed, 07 Oct 2026 21:30:01 GMT"
+    },
     {
       "title": "[경제포커스] 아틀라스보다 먼저 온 중국 ‘車海전술’",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUWhBeEhYQVdhNmw2XzNDOU13Sjd3ZHlnOWhCMHVyUjBCeklSeWZ1bkV5NEVIaTdtZURhYnV5WVBSSS0wa1RraGptOUk5NmFWMzJZcDd4QWdxSDF2VUlQbXdoWURLSld0bFBzMXE5amlFZTlneWsxMHFwLUViN1RMRzhLRzM0VzRHT2U1Xw?oc=5",
@@ -36,18 +54,6 @@
       "date": "Wed, 07 Oct 2026 05:30:11 GMT"
     },
     {
-      "title": "美싱크탱크 \"내년 中 성장률 4.3%로 둔화 전망\"",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcVFFM0lCTURBczVQeG9ULW1nbDJCY2pEWGVYLWVaOHdfa1FWVTI3YUptcHFxX1p1MC11Q0o2X0F1Z3NjeDZadUhtNE9DdmpFWkx1cHhMQXBhNEdaSHhxLTNnRDBiMmlpTEhMQmdjRXIyOENubGZEa0FQVFZjekF0WA?oc=5",
-      "source": "이데일리",
-      "date": "Wed, 07 Oct 2026 05:03:05 GMT"
-    },
-    {
-      "title": "\"줄 서서 사더니 14.5% 파격 할인?\"…금 매장에 무슨 일이 [차이나 워치]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1waTc0RFB6TWp3WWRxYXNGeTJnQmpDSXhLVVdKVjBTR3lCSkMzc1k5NTZldlNBZ0ZfRWUwalFLTW1iNnk1R1kyX3Q5QlNXSF96TFdLMTJXSGVmZw?oc=5",
-      "source": "한국경제",
-      "date": "Wed, 07 Oct 2026 00:03:28 GMT"
-    },
-    {
       "title": "“커피 한 잔 마시러 65만명이 몰렸다”…중국 뒤흔든 ‘축제경제’",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUWGVCdDVhQVZXVTBGUHJpZGtkbVZkc2N5RHdUbmNEWU5iN1V3cjE1NDNDM0tDcHZXeXd4VGwzcXpkTWx4eFJMdDUtN0lXX2YwSHlRWi00SjdxVE1yTTlvQUZGeFhCU3BSM3B5Tg?oc=5",
       "source": "재외동포신문",
@@ -64,12 +70,6 @@
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aQWJfVmltamNtakhhVWFtdjdwVzdrREw0a1FYU3pYSTV2ckd0OXM4c0dzWGtvN3J4dW1WQUl6U2ZFOFREdmUyNHNBMjhFc1VCNk5uc2xSdlpZdnRmNTlKWkRnN2k5SDJK?oc=5",
       "source": "대구일보",
       "date": "Thu, 01 Oct 2026 07:19:02 GMT"
-    },
-    {
-      "title": "中학자 \"중국 2035년까지 연 4.6% 성장…수출 주도 지속 불가능\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXTkRpSWw2YzE3RWpGa1BEbjBFN2o3U3B2bnBvd1FhVUJHY0V0Y1dENGNGeFRPejF6UVZiT3cyUkYwYlV2dnR6RG9ZQ1FIVEk2VENGbUtrbVc5Y03SAWBBVV95cUxOVHdTMXJOc0tIRzl0cWlpb1hIN0RGMjZXN0xFN1lwRGktLXNvVHI5R2gwZlQtSy1ReWpiNVY3T2lSTnJwXzY2MkxNTThSTVVIWC1WNHZJMXRYZ25GS0huRVQ?oc=5",
-      "source": "연합뉴스",
-      "date": "Wed, 30 Sep 2026 05:49:19 GMT"
     },
     {
       "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
