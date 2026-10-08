@@ -1,15 +1,21 @@
 {
-  "run_at_kst": "2026-10-08T10:10:05+09:00",
+  "run_at_kst": "2026-10-08T14:10:12+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "한미일 등 15개국, 전기차 등 과잉생산 공동대응…중국 겨냥한 듯",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WVGZfOWlhOXZXM3hDdXlubG9PNURlRTNhYVY2di14djBUM3ZjSUduLU0xcVhobjNmbFc5V0sxVi1SeVlEVjdCMnVweGFiN0dCX1VpMkhXZTUyY1E?oc=5",
-      "source": "KBS 뉴스",
-      "date": "Thu, 08 Oct 2026 00:56:00 GMT"
+      "title": "“직원 62% 중국에 있다”…위불 ‘차이나 리스크’ 폭발",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Pck1KZTdpOEdEems4YVkxTGNtWGVxNDc3bXhEbEY0TUNJaEIyN2taMC1kM1VfTVZkaG1ILVpZYkRYQ0VqLTExMjB5YU1GWWJneF96NC01MDBKZw?oc=5",
+      "source": "한국경제",
+      "date": "Thu, 08 Oct 2026 05:06:22 GMT"
+    },
+    {
+      "title": "aT, 중국 칭다오에 ‘K-골목길’ 조성…K-푸드 알렸다",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rR0xHQzFyOWotNUs1aERyLWVqbzRUTUhDOUxpZU5EQXhiWjV3NVR4SUtwZUxTZ21EeUx2NmMtU1FzYXF2MGUzWWZYcVdWRGltTU96al9xVlBwZ3JudVlQY21ZS28tRE9CalE?oc=5",
+      "source": "투데이안",
+      "date": "Thu, 08 Oct 2026 02:58:01 GMT"
     },
     {
       "title": "신용한 지사 첫 해외 출장…중국 선전서 경제외교",
@@ -36,12 +42,6 @@
       "date": "Wed, 07 Oct 2026 12:06:33 GMT"
     },
     {
-      "title": "장관회의는 온라인 진행?…중국, 11월 APEC 축소 추진",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iLTJJdE5ValNUS2gxVFRMS2xfT1VxT194WlN2c3JObkU4UjFVZGJ5YzR1WHNHMHBjM05udzFadUg2bEVOMjl6UVgzYmZhbkRoTmFHNEZXUllPRVBlQXdmcG5WZjdkTjkta0ZyOA?oc=5",
-      "source": "한겨레",
-      "date": "Wed, 07 Oct 2026 07:26:00 GMT"
-    },
-    {
       "title": "[특파원] 中 9월 말 외환보유액 3조4003억달러…전월 대비 381억달러↓",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VVE5VSW0zQjNjVnFSMXFGd0JfcTczUDVYTDhGbGNvUXB0ak1mVl9aSmdhYVR2SnRxWXdfX1VJbTRfengtZEJyMmx0a3FKTmpEamtPeE9xS211VHY3VGE0VzBzYTZKcmZmOTFQRFNn?oc=5",
       "source": "알파경제",
@@ -54,28 +54,28 @@
       "date": "Wed, 07 Oct 2026 05:30:11 GMT"
     },
     {
-      "title": "“커피 한 잔 마시러 65만명이 몰렸다”…중국 뒤흔든 ‘축제경제’",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUWGVCdDVhQVZXVTBGUHJpZGtkbVZkc2N5RHdUbmNEWU5iN1V3cjE1NDNDM0tDcHZXeXd4VGwzcXpkTWx4eFJMdDUtN0lXX2YwSHlRWi00SjdxVE1yTTlvQUZGeFhCU3BSM3B5Tg?oc=5",
-      "source": "재외동포신문",
-      "date": "Tue, 06 Oct 2026 08:00:35 GMT"
+      "title": "\"향후 15년 중국 연평균 3% 성장률 유지.... 첨단 기술혁신이 성장 이끌 것\" [이석우의 차이나24]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WdlkxcmJMcGR3bmRHRnM2X3Z5LTJpM2VJSlhZS2NvSEJCcUxCWGh4OTNjU0RUSTdPVnlCTk1lRlVlSVdHbzFVaXc4NmdsT0MxdENwWWJ3aGpHQQ?oc=5",
+      "source": "파이낸셜뉴스",
+      "date": "Wed, 07 Oct 2026 05:28:26 GMT"
     },
     {
-      "title": "[중국 특징주] 정책·수출·AI 삼박자…中 저고도 경제 '고성장 기대주' 주목",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yRmc1WnhNNVNzTDA0ZElVNXlWMnl6Rm9lS0VnS2tEMWJ1OHM0SUZURDl6SkttZ21xX1hNRmVQSHZqQ3VYQzIyZ1ByNkFrYV93dmpJek5GdGgtM1Vm?oc=5",
-      "source": "뉴스핌",
-      "date": "Mon, 05 Oct 2026 15:18:00 GMT"
+      "title": "\"중국의 성장은 둔화가 아니라 재설계되고 있다\"",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42YTVIOXI2Z3hoRGZ0WXA3Q2lYckk1QkpUUjF5SnM4ZDVUbGI2SEJXSTVEdnFKd0p3NGo5VU9lOGJVRmJCb0FNajNRbVlKUEk?oc=5",
+      "source": "Daum",
+      "date": "Wed, 07 Oct 2026 04:07:54 GMT"
     },
     {
-      "title": "[양기태의 글로벌 경제 읽기] 엇갈리는 두 흐름, 중국 경제를 읽다",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aQWJfVmltamNtakhhVWFtdjdwVzdrREw0a1FYU3pYSTV2ckd0OXM4c0dzWGtvN3J4dW1WQUl6U2ZFOFREdmUyNHNBMjhFc1VCNk5uc2xSdlpZdnRmNTlKWkRnN2k5SDJK?oc=5",
-      "source": "대구일보",
-      "date": "Thu, 01 Oct 2026 07:19:02 GMT"
+      "title": "유럽판 301조 추진에 중국, 프랑스·독일에자충수될 것 강력 경고",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BcTNLU0JrdnZNa1B2NzdQU1paQUFtbVl4WTg1dTF5dzYyV0JUV18wbXR5VjE5ZlhOY3dvQ0E1RmtxV0tteXFmQ3A2MGlzMFd0b216X2llWEQwd9IBWEFVX3lxTE9kQ3gxR2FxaTlhN19VWFNIYjltaFQtbEdPRWpXcXFwTXltWnZOQ1FPZ0x4Unc4Y0ZBZUJaWHI3amp1V1d4LVpxNHhoeTZkLTdOZkRyajl6c0c?oc=5",
+      "source": "아주경제",
+      "date": "Wed, 07 Oct 2026 00:00:26 GMT"
     },
     {
-      "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Mon, 28 Sep 2026 07:00:00 GMT"
+      "title": "중국에 의존한 유럽 기업들 와장창 무너진다 [손진석의 머니워치]",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAyT080VDROYlBoNHAzdVJObjF3eFk5ZlFVV0EwckRoSkxzMW1YY0dzNUZVdGloSW9kUmpMczdyNlVGdjlxQnc?oc=5",
+      "source": "Daum",
+      "date": "Mon, 05 Oct 2026 08:21:44 GMT"
     }
   ]
 }

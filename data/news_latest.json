@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-08T10:10:05+09:00",
+  "run_at_kst": "2026-10-08T14:10:12+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Oil Jumps 2% as Iran Steps Up Attacks on Hormuz Tankers",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Jumps-2-as-Iran-Steps-Up-Attacks-on-Hormuz-Tankers.html",
+      "source": "OilPrice",
+      "date": "Thu, 08 Oct 2026 00:08:31 -0500"
+    },
     {
       "title": "Kpler Suspects Gulf Producers Are Paying Iran for Safe Passage",
       "link": "https://oilprice.com/Energy/Crude-Oil/Kpler-Suspects-Gulf-Producers-Are-Paying-Iran-for-Safe-Passage.html",
@@ -60,12 +66,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/US-Gulf-Energy-Hub-Braces-for-Category-2-Hurricane.html",
       "source": "OilPrice",
       "date": "Wed, 07 Oct 2026 13:00:00 -0500"
-    },
-    {
-      "title": "Apollo Joins $11.5 Billion Race for German Gas Giant Uniper",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Apollo-Joins-115-Billion-Race-for-German-Gas-Giant-Uniper.html",
-      "source": "OilPrice",
-      "date": "Wed, 07 Oct 2026 12:45:00 -0500"
     },
     {
       "title": "Dutch central bank transfers 86 tonnes of gold closer to home",
