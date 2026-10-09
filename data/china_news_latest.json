@@ -1,10 +1,22 @@
 {
-  "run_at_kst": "2026-10-09T10:10:05+09:00",
+  "run_at_kst": "2026-10-09T14:10:07+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "'중국산 전기차 관세' EU 압박 속…中부총리, 英재무와 통화",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YbGRNamVneklaRGJzSGhQLTUxbGZDcWFDUi1SRlFMbkxSWW1hYV85NnF4N1VoZTB2anNLc2xXaHVJa09KN3lLOFE5cl9PbEZ6b1dWN1RFcVdpNVR3RHU0btIBeEFVX3lxTFBGQkNncnVvM2JzdmdjazJlWGtjbG1ka2dWY3NHYjJ3a1NFa0kzNkhpNkV5SWE0aXNZNUZoWnNiS2dzUUVuSWVkSzNwV3hZNGxfSm1lUVlkbE5VaFI2Y1JNRWswTE53alhuVEVKU1p5WUhRZXZLUTFkbg?oc=5",
+      "source": "뉴시스",
+      "date": "Fri, 09 Oct 2026 02:58:36 GMT"
+    },
+    {
+      "title": "[현장] 2026 세계한인경제무역박람회, 중국 선전에서 개막",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NM1h3T2hoNENGUFJSdlFFY0RYMlVNUmt1d1dWdGNFVkNrdXJGcE9zX1hxNUplQVBQVFIxV2NWb1I0QW5xUXZiNHY4ZnQ4QThqLU5EWFlCUWJKVGZLWEdfSEZLWjZiQjhUTkhNZ2dR?oc=5",
+      "source": "월드코리안뉴스",
+      "date": "Fri, 09 Oct 2026 02:21:25 GMT"
+    },
     {
       "title": "[현장] 월드옥타 ‘코리아 비즈니스 엑스포-선전’ 개막…70여 개국 2200명 참가",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Sd19GUTFkWmxxVWpQUU5zNTZaOVpULUNJbG83aXl6RFp6WEh4QUNVb1Y4WV9JVG1sMThxc3hwZ3RKdEU2My1IQ1IzSWtjOXhZUm5GN0xCZmo5X0tudzBiWWlvd24zdHB4cVg4bA?oc=5",
@@ -16,12 +28,6 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TNnd1RnB5ZXl5dGMtS3BybnUzdXkxaXR4dHdJaU51aTljVHlEWDM0bkRQODlValBlZlk0MEdBWnFVaVdMMFNPRG8wcXJ6NlpDamQwTHZJenJIMW5LX3RNR05ibU03TUpKSGtCeWI5d2g3Uk1pSlZUNlNR?oc=5",
       "source": "中华人民共和国驻大韩民国大使馆",
       "date": "Thu, 08 Oct 2026 09:31:44 GMT"
-    },
-    {
-      "title": "[중국증시-마감] 국경절 연휴 후 하락",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iOFk1Um5CV19hb0dicDk5My1RUzdrZWdjUTFhSjJNSDdOSnlFLTBaU3l2M3lmaHEwa0FRS21SLXlickRGNDZqRHY1OVFTNmo1ZzhBY2Y1Q3Z1STJIRFh5MlpSNEQ4bnIyZi1nNzVjYUI?oc=5",
-      "source": "연합인포맥스",
-      "date": "Thu, 08 Oct 2026 09:09:41 GMT"
     },
     {
       "title": "신용한 충북지사, 중국 선전서 경제외교 시동...충북 기업 세계시장 진출 지원",
@@ -70,12 +76,6 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05c2cxTk85Uy1TQWZ1bnQzbktGRnJiR0x3S29lVTN6emxXXzRoNGtlNHZxU3RLNk8tckIwZ0lBUE5DR0xJOHR2UGVnX3NxYTQ?oc=5",
       "source": "Daum",
       "date": "Wed, 07 Oct 2026 00:00:32 GMT"
-    },
-    {
-      "title": "중국, 경제 '경고등' 속 지방정부 부채 정리에 275조원 투입",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PTklxMmpuYWc3aUlXVmx5WGpCTzllRVd6LVdDZGVDTllGdmZvSGFHMGhNcGxoZVRxRGFjb1pUREh4NDAxcDgtMHlDMmdrRlkw?oc=5",
-      "source": "매일경제 마켓",
-      "date": "Tue, 06 Oct 2026 06:42:43 GMT"
     }
   ]
 }

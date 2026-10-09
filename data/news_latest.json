@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-09T10:10:05+09:00",
+  "run_at_kst": "2026-10-09T14:10:07+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Brent Holds Above $100 as Hormuz Tanker Traffic Hits Two-Month Low",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Holds-Above-100-as-Hormuz-Tanker-Traffic-Hits-Two-Month-Low.html",
+      "source": "OilPrice",
+      "date": "Fri, 09 Oct 2026 00:03:51 -0500"
+    },
     {
       "title": "World’s Top Crude Trader Isn’t Ruling Out $200 Oil Just Yet",
       "link": "https://oilprice.com/Energy/Oil-Prices/Worlds-Top-Crude-Trader-Isnt-Ruling-Out-200-Oil-Just-Yet.html",
@@ -60,12 +66,6 @@
       "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Plunge-as-Trump-Rules-Out-Iran-Strikes-Before-Midterms.html",
       "source": "OilPrice",
       "date": "Thu, 08 Oct 2026 13:00:00 -0500"
-    },
-    {
-      "title": "U.S. Gasoline Prices Set October Record Even as National Average Slips",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Gasoline-Prices-Set-October-Record-Even-as-National-Average-Slips.html",
-      "source": "OilPrice",
-      "date": "Thu, 08 Oct 2026 12:30:00 -0500"
     },
     {
       "title": "Ivanhoe copper output jumps 19% as Kamoa-Kakula rebounds",
