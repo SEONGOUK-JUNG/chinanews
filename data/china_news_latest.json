@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-09T07:20:04+09:00",
+  "run_at_kst": "2026-10-09T10:10:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -14,7 +14,7 @@
     {
       "title": "주한 중국대사관, ‘제6회 한·중 미래 경제 협력 포럼’ 개최",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TNnd1RnB5ZXl5dGMtS3BybnUzdXkxaXR4dHdJaU51aTljVHlEWDM0bkRQODlValBlZlk0MEdBWnFVaVdMMFNPRG8wcXJ6NlpDamQwTHZJenJIMW5LX3RNR05ibU03TUpKSGtCeWI5d2g3Uk1pSlZUNlNR?oc=5",
-      "source": "中国驻韩国大使馆",
+      "source": "中华人民共和国驻大韩民国大使馆",
       "date": "Thu, 08 Oct 2026 09:31:44 GMT"
     },
     {
@@ -72,10 +72,10 @@
       "date": "Wed, 07 Oct 2026 00:00:32 GMT"
     },
     {
-      "title": "중국에 의존한 유럽 기업들 와장창 무너진다 [손진석의 머니워치]",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KVFJmNGNNRDJVeHkyaGg3aHpQWllpYndJS2RfN3RpdE9HbnFWSmVwMHFzTjdpd2J6UkgzcXBYQTdfX2tTNk5zZ1l5bU12cGc?oc=5",
-      "source": "Daum",
-      "date": "Mon, 05 Oct 2026 08:21:44 GMT"
+      "title": "중국, 경제 '경고등' 속 지방정부 부채 정리에 275조원 투입",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PTklxMmpuYWc3aUlXVmx5WGpCTzllRVd6LVdDZGVDTllGdmZvSGFHMGhNcGxoZVRxRGFjb1pUREh4NDAxcDgtMHlDMmdrRlkw?oc=5",
+      "source": "매일경제 마켓",
+      "date": "Tue, 06 Oct 2026 06:42:43 GMT"
     }
   ]
 }

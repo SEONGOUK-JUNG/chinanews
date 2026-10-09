@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-09T07:20:04+09:00",
+  "run_at_kst": "2026-10-09T10:10:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,18 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "World’s Top Crude Trader Isn’t Ruling Out $200 Oil Just Yet",
+      "link": "https://oilprice.com/Energy/Oil-Prices/Worlds-Top-Crude-Trader-Isnt-Ruling-Out-200-Oil-Just-Yet.html",
+      "source": "OilPrice",
+      "date": "Thu, 08 Oct 2026 19:00:00 -0500"
+    },
+    {
+      "title": "SigraFi raises $35M to connect artisanal gold to institutional markets",
+      "link": "https://www.mining.com/sigrafi-raises-35m-to-connect-artisanal-gold-to-institutional-markets/",
+      "source": "mining.com",
+      "date": "Thu, 08 Oct 2026 23:25:07 +0000"
+    },
     {
       "title": "Cuba’s Fuel Crisis Turns the Island Into a Solar Test Case",
       "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Cubas-Fuel-Crisis-Turns-the-Island-Into-a-Solar-Test-Case.html",
@@ -62,12 +74,6 @@
       "date": "Thu, 08 Oct 2026 17:10:22 +0000"
     },
     {
-      "title": "UK Retailers Push to Cut Green Levies as Power Bills Top £440 Million",
-      "link": "https://oilprice.com/Energy/Energy-General/UK-Retailers-Push-to-Cut-Green-Levies-as-Power-Bills-Climb-440-Million.html",
-      "source": "OilPrice",
-      "date": "Thu, 08 Oct 2026 12:00:00 -0500"
-    },
-    {
       "title": "Molybdenum heads for 6th straight deficit, record prices: BMO",
       "link": "https://www.mining.com/molybdenum-heads-for-6th-straight-deficit-record-prices-bmo/",
       "source": "mining.com",
@@ -84,12 +90,6 @@
       "link": "https://www.mining.com/cleantech-lithium-expands-foothold-in-argentina/",
       "source": "mining.com",
       "date": "Thu, 08 Oct 2026 12:03:00 +0000"
-    },
-    {
-      "title": "Chile copper mines disruptions put 5% of production at risk",
-      "link": "https://www.mining.com/chile-copper-mines-disruptions-put-5-of-production-at-risk/",
-      "source": "mining.com",
-      "date": "Thu, 08 Oct 2026 10:56:00 +0000"
     }
   ]
 }
