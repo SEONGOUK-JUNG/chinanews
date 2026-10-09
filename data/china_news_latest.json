@@ -1,27 +1,21 @@
 {
-  "run_at_kst": "2026-10-09T20:10:04+09:00",
+  "run_at_kst": "2026-10-10T07:20:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "EU-중국: 무역 적자 사상 최고치 경신, 무역 전쟁 불가피한가?",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdzdLbDU0ZnNsNDg1Y3dUUUJObjlWdEZ3cXJrS2dnaDNmdV9NYkFzRkZiMUNEUDBoVjdSQ0VFdUZFUVdIMkdHY3dIRTVJY0JWbEdGb1Z1X25mWkt6ekdfb2VvSFJHcUU4UzJvcUZCaTUxdGxENlllc21yYnVYdVlUSGpFaWo0eWJXWnUtbm1ZUzRETW9pM0x3N1NkMDhzczJxdl9wcEtXcXNORzBwTERWTzFDRQ?oc=5",
-      "source": "Vietnam.vn",
-      "date": "Fri, 09 Oct 2026 07:38:35 GMT"
+      "title": "범죄자들이 중국 경제를 선호하는 이유 [PADO] - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0dFdyWnp2TVNSVjd1UW10WGZyT0dUZWZfVzZoWTcwcFl4U2JKSnJEVGJNTUJpMnJDd3YyNzVmQjlLY1hhVDJQTTRwTzZ2NWdFbF93OWRYU194WHpzTmhlMFBMa0RaZlNj0gFuQVVfeXFMTWlvSG5xeTJsakxzaThpT3IwX3ZCSF93XzNFeUdaT0RKSDh0cGZSb0lSNFZIWTY1eWRUajhFR3JEa0xDSU01S1BpUUtFcnBrYXJqQktpeEhhRU53QU9saVl5elZxQ0hfcUozSDdoQlE?oc=5",
+      "source": "머니투데이",
+      "date": "Fri, 09 Oct 2026 21:00:00 GMT"
     },
     {
-      "title": "범죄자들이 중국 경제를 선호하는 이유",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vMDkydFlBMF9qVTZocUtGVW9FYnhnQzhJd3A4Z21KZHZEbGIzTzZOVzQ4YldYMnVxZjE0RFRnTjM4UFF3X244R09DTVpGLWJWdUFheG9fWXZKbEk?oc=5",
-      "source": "https://www.pado.kr/",
-      "date": "Fri, 09 Oct 2026 06:26:25 GMT"
-    },
-    {
-      "title": "'중국산 전기차 관세' EU 압박 속…中부총리, 英재무와 통화",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YbGRNamVneklaRGJzSGhQLTUxbGZDcWFDUi1SRlFMbkxSWW1hYV85NnF4N1VoZTB2anNLc2xXaHVJa09KN3lLOFE5cl9PbEZ6b1dWN1RFcVdpNVR3RHU0btIBeEFVX3lxTFBGQkNncnVvM2JzdmdjazJlWGtjbG1ka2dWY3NHYjJ3a1NFa0kzNkhpNkV5SWE0aXNZNUZoWnNiS2dzUUVuSWVkSzNwV3hZNGxfSm1lUVlkbE5VaFI2Y1JNRWswTE53alhuVEVKU1p5WUhRZXZLUTFkbg?oc=5",
-      "source": "뉴시스",
-      "date": "Fri, 09 Oct 2026 02:58:36 GMT"
+      "title": "중국의 습격에도 유럽 산업은 생각보다 선전 중 [PADO] - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwbWFiRFZVWE4xNUh2RUNwZWN5WTREbUQtV0lFRlRPWEVELWlDWWFSYzBYRmlLTFYwcENZYUVlUmFrcjY1OERxaVpmZnpYTnUyM3QtckRqTFZDbjJQZ0diS0loNmlIQkZl0gFuQVVfeXFMUEVPMmExWDd2QmFYYXpkcFExMDFFRjVIMVU3RWpIODFJWG9qNnR6UWR6Z1k5S092Q2t1akd0X0U0VWhDMzdOd21PakpyenN2RjE3VGtiWHpUUi1YYjhVcTUxMmRqaVhwUkRlZDRSaXc?oc=5",
+      "source": "머니투데이",
+      "date": "Fri, 09 Oct 2026 21:00:00 GMT"
     },
     {
       "title": "[현장] 2026 세계한인경제무역박람회, 중국 선전에서 개막",
@@ -30,46 +24,52 @@
       "date": "Fri, 09 Oct 2026 02:21:00 GMT"
     },
     {
-      "title": "[현장] 월드옥타 ‘코리아 비즈니스 엑스포-선전’ 개막…70여 개국 2200명 참가",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Sd19GUTFkWmxxVWpQUU5zNTZaOVpULUNJbG83aXl6RFp6WEh4QUNVb1Y4WV9JVG1sMThxc3hwZ3RKdEU2My1IQ1IzSWtjOXhZUm5GN0xCZmo5X0tudzBiWWlvd24zdHB4cVg4bA?oc=5",
-      "source": "재외동포신문",
-      "date": "Thu, 08 Oct 2026 11:42:45 GMT"
+      "title": "대중국 방어막 꾸린 미국, 한국 경제에 득될까?",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGOE9zOGZROS0zNlhjeEVNZTJkR3BjS0xWYW1laWxYRExBYTBTa1hlRlRXV19XZnB1OTJZT2VPU0w5X2ZMdW1WZ2EtM1lsZ2dvR19STm1ENWdVUG1lLTJUVHphTmM?oc=5",
+      "source": "MTN 머니투데이방송",
+      "date": "Thu, 08 Oct 2026 23:00:02 GMT"
     },
     {
-      "title": "국경절 '황금연휴'를 통해 세계는 어떤 중국을 보았나?",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3ZGZxQ0dKRWdvX0FsQlQwNEpQaTU0RW9CblF3ZnNJVXBnNnZoVmo1YTM5azlhVWNucEEwMUJkU3E3VUpkY1BGWWtZR1RWQTRld2FRYjlJWklDVzcwdE9aNEdmMA?oc=5",
-      "source": "CGTN",
-      "date": "Thu, 08 Oct 2026 11:29:58 GMT"
-    },
-    {
-      "title": "주한 중국대사관, ‘제6회 한·중 미래 경제 협력 포럼’ 개최",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TNnd1RnB5ZXl5dGMtS3BybnUzdXkxaXR4dHdJaU51aTljVHlEWDM0bkRQODlValBlZlk0MEdBWnFVaVdMMFNPRG8wcXJ6NlpDamQwTHZJenJIMW5LX3RNR05ibU03TUpKSGtCeWI5d2g3Uk1pSlZUNlNR?oc=5",
-      "source": "中华人民共和国驻大韩民国大使馆",
-      "date": "Thu, 08 Oct 2026 09:31:44 GMT"
-    },
-    {
-      "title": "중국 혁신신약의 부상, 한국은 준비돼 있나 [조평규의 중국 본색]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Wb2d4N2EtdF9FbTNaYmFfNjBUTDNaNDZDelJKZ3JIdFlmTXllTWl1VlgwbnhqRXd1Sm5wWEgtaXlHTVRxTVNuc1hlczRuU3FGZGM5QmNrYVAyQQ?oc=5",
+      "title": "“직원 62% 중국에 있다”…위불 ‘차이나 리스크’ 폭발",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Pck1KZTdpOEdEems4YVkxTGNtWGVxNDc3bXhEbEY0TUNJaEIyN2taMC1kM1VfTVZkaG1ILVpZYkRYQ0VqLTExMjB5YU1GWWJneF96NC01MDBKZw?oc=5",
       "source": "한국경제",
-      "date": "Wed, 07 Oct 2026 21:30:01 GMT"
+      "date": "Thu, 08 Oct 2026 05:06:22 GMT"
     },
     {
-      "title": "[특파원] 中 9월 말 외환보유액 3조4003억달러…전월 대비 381억달러↓",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VVE5VSW0zQjNjVnFSMXFGd0JfcTczUDVYTDhGbGNvUXB0ak1mVl9aSmdhYVR2SnRxWXdfX1VJbTRfengtZEJyMmx0a3FKTmpEamtPeE9xS211VHY3VGE0VzBzYTZKcmZmOTFQRFNn?oc=5",
-      "source": "알파경제",
-      "date": "Wed, 07 Oct 2026 07:05:25 GMT"
+      "title": "신용한 지사 첫 해외 출장…중국 선전서 경제외교",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oQk8tVS1CcW03RE91bG9Ra2R6VkthR0VEbGNYcEFxNE9zTWtmM0JlTWJFblFjYUVSV1JtcTVKWFpFVXpqTXlPWExPa1Z6bFZId3FjSGdneDN0QQ?oc=5",
+      "source": "파이낸셜뉴스",
+      "date": "Thu, 08 Oct 2026 00:52:05 GMT"
     },
     {
-      "title": "중국발 디플레이션, 한국 수출 가격까지 흔든다",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92dVNoNWdBenF2YWw4YmVDcC1IeGx2ZWY5aXQwUnlDWkRUSzB4OFcwRWN6OVNBTzBmSUY5TjlsWVkyWmdGUHBDZmY1NDBZbVBXQTFMQg?oc=5",
+      "title": "[경제포커스] 아틀라스보다 먼저 온 중국 ‘車海전술’",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUWhBeEhYQVdhNmw2XzNDOU13Sjd3ZHlnOWhCMHVyUjBCeklSeWZ1bkV5NEVIaTdtZURhYnV5WVBSSS0wa1RraGptOUk5NmFWMzJZcDd4QWdxSDF2VUlQbXdoWURLSld0bFBzMXE5amlFZTlneWsxMHFwLUViN1RMRzhLRzM0VzRHT2U1Xw?oc=5",
+      "source": "조선일보",
+      "date": "Wed, 07 Oct 2026 14:50:00 GMT"
+    },
+    {
+      "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
       "source": ":: 위즈경제 ::",
       "date": "Wed, 07 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "\"향후 15년 중국 연평균 3% 성장률 유지.... 첨단 기술혁신이 성장 이끌 것\" [이석우의 차이나24]",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMNFZoT3VBcmRnYWpnS1ZldGoxZjVLUExLcEFuSUh5X2lEVzhPQnBMYnlLUy1yRmQ5WE5LODU1RHVoM1pvQURCcHJQYy1YcmM?oc=5",
+      "title": "\"중국의 성장은 둔화가 아니라 재설계되고 있다\"",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42YTVIOXI2Z3hoRGZ0WXA3Q2lYckk1QkpUUjF5SnM4ZDVUbGI2SEJXSTVEdnFKd0p3NGo5VU9lOGJVRmJCb0FNajNRbVlKUEk?oc=5",
       "source": "Daum",
-      "date": "Wed, 07 Oct 2026 05:30:11 GMT"
+      "date": "Wed, 07 Oct 2026 04:07:54 GMT"
+    },
+    {
+      "title": "\"중국의 성장은 둔화가 아니라 재설계되고 있다\"",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSG5LQVFwOUpHOThieklJWWVOSzk0dFkzVm8yZUlsRU9pcDF5QVpBb1BQNmszRGVuZTlDSDFOODc3VENQMXRoVlBuZkZmU29FaWRYNkR5V1RKcV9uVXBNYVRzSTB4WUtsaTZwTGhEMy14MFBZUktybmpsNExuSGR6ZHNNYS03Zk8zZUE?oc=5",
+      "source": "OhmyNews",
+      "date": "Wed, 07 Oct 2026 04:04:00 GMT"
+    },
+    {
+      "title": "유럽판 301조 추진에 중국, 프랑스·독일에\"자충수될 것\" 강력 경고",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05c2cxTk85Uy1TQWZ1bnQzbktGRnJiR0x3S29lVTN6emxXXzRoNGtlNHZxU3RLNk8tckIwZ0lBUE5DR0xJOHR2UGVnX3NxYTQ?oc=5",
+      "source": "Daum",
+      "date": "Wed, 07 Oct 2026 00:00:32 GMT"
     },
     {
       "title": "중국, 경제 '경고등' 속 지방정부 부채 정리에 275조원 투입",
