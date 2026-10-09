@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-09T14:10:07+09:00",
+  "run_at_kst": "2026-10-09T20:10:04+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Hormuz Crisis Leaves EU Gas Storage Short Heading Into Winter",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Crisis-Leaves-EU-Gas-Storage-Short-Heading-Into-Winter.html",
+      "source": "OilPrice",
+      "date": "Fri, 09 Oct 2026 05:30:00 -0500"
+    },
+    {
+      "title": "Australia Close to Finalizing Gas Reservation Plan for LNG Exporters",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Australia-Close-to-Finalizing-Gas-Reservation-Plan-for-LNG-Exporters.html",
+      "source": "OilPrice",
+      "date": "Fri, 09 Oct 2026 04:30:00 -0500"
+    },
+    {
+      "title": "Venture Global Loses LNG Arbitration to Portugal's Galp",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Venture-Global-Loses-LNG-Arbitration-to-Portugals-Galp.html",
+      "source": "OilPrice",
+      "date": "Fri, 09 Oct 2026 03:00:00 -0500"
+    },
+    {
+      "title": "China Restarts Fuel Exports",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Restarts-Fuel-Exports.html",
+      "source": "OilPrice",
+      "date": "Fri, 09 Oct 2026 02:00:00 -0500"
+    },
     {
       "title": "Brent Holds Above $100 as Hormuz Tanker Traffic Hits Two-Month Low",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Holds-Above-100-as-Hormuz-Tanker-Traffic-Hits-Two-Month-Low.html",
@@ -38,34 +62,10 @@
       "date": "Thu, 08 Oct 2026 16:00:00 -0500"
     },
     {
-      "title": "Kinder Morgan Restores U.S.-Mexico Gas Flows After Pipeline Outage",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Kinder-Morgan-Restores-US-Mexico-Gas-Flows-After-Pipeline-Outage.html",
-      "source": "OilPrice",
-      "date": "Thu, 08 Oct 2026 15:30:00 -0500"
-    },
-    {
-      "title": "Hurricane Isaias Shuts In 1.28 Million Bpd of Gulf Oil Production",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Hurricane-Isaias-Shuts-In-128-Million-Bpd-of-Gulf-Oil-Production.html",
-      "source": "OilPrice",
-      "date": "Thu, 08 Oct 2026 15:00:00 -0500"
-    },
-    {
       "title": "Levack restart puts Magna on two-mine track in Ontario",
       "link": "https://www.mining.com/levack-restart-puts-magna-on-two-mine-path/",
       "source": "mining.com",
       "date": "Thu, 08 Oct 2026 19:05:57 +0000"
-    },
-    {
-      "title": "Virtual Power Plants: The Grid Capacity Nobody Had to Build",
-      "link": "https://oilprice.com/Energy/Energy-General/Virtual-Power-Plants-The-Grid-Capacity-Nobody-Had-to-Build.html",
-      "source": "OilPrice",
-      "date": "Thu, 08 Oct 2026 14:00:00 -0500"
-    },
-    {
-      "title": "Oil Prices Plunge as Trump Rules Out Iran Strikes Before Midterms",
-      "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Plunge-as-Trump-Rules-Out-Iran-Strikes-Before-Midterms.html",
-      "source": "OilPrice",
-      "date": "Thu, 08 Oct 2026 13:00:00 -0500"
     },
     {
       "title": "Ivanhoe copper output jumps 19% as Kamoa-Kakula rebounds",
