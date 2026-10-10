@@ -1,10 +1,22 @@
 {
-  "run_at_kst": "2026-10-10T07:20:04+09:00",
+  "run_at_kst": "2026-10-10T10:10:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "[인터뷰] 신용한 충북지사 \"충북 경제 영토 세계로, 중국 변화 기회로 삼아야\"",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBISDllMWxiVllleUlmeXlXVHZIWlFIX3FZQ0VvNThWbUIzbm9GdzlSZ2t1UUoycUUzU3AxZkVVNkk2bEh5djgzazJpdnhTQU9zZXRHMUpldzVVR2Rz?oc=5",
+      "source": "뉴스핌",
+      "date": "Sat, 10 Oct 2026 00:53:00 GMT"
+    },
+    {
+      "title": "충북기업 중국 화남지역 진출 지원...선전 경제외교 성료",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1peW02cG9MazI4Z1Y5WENFOGQ1Z1c0UWYxa2xWRmRGSmItbi1DcGZNX053UVN5UnRKdGVfa3V5Vmo2Ql9sNFpURTEtSmUwTm9TaV9xYzZVS1dqbl9VRUdidk12RjdGa2plWklGSU1R?oc=5",
+      "source": "국제뉴스",
+      "date": "Sat, 10 Oct 2026 00:31:18 GMT"
+    },
     {
       "title": "범죄자들이 중국 경제를 선호하는 이유 [PADO] - 머니투데이",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0dFdyWnp2TVNSVjd1UW10WGZyT0dUZWZfVzZoWTcwcFl4U2JKSnJEVGJNTUJpMnJDd3YyNzVmQjlLY1hhVDJQTTRwTzZ2NWdFbF93OWRYU194WHpzTmhlMFBMa0RaZlNj0gFuQVVfeXFMTWlvSG5xeTJsakxzaThpT3IwX3ZCSF93XzNFeUdaT0RKSDh0cGZSb0lSNFZIWTY1eWRUajhFR3JEa0xDSU01S1BpUUtFcnBrYXJqQktpeEhhRU53QU9saVl5elZxQ0hfcUozSDdoQlE?oc=5",
@@ -18,10 +30,10 @@
       "date": "Fri, 09 Oct 2026 21:00:00 GMT"
     },
     {
-      "title": "[현장] 2026 세계한인경제무역박람회, 중국 선전에서 개막",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NM1h3T2hoNENGUFJSdlFFY0RYMlVNUmt1d1dWdGNFVkNrdXJGcE9zX1hxNUplQVBQVFIxV2NWb1I0QW5xUXZiNHY4ZnQ4QThqLU5EWFlCUWJKVGZLWEdfSEZLWjZiQjhUTkhNZ2dR?oc=5",
-      "source": "월드코리안뉴스",
-      "date": "Fri, 09 Oct 2026 02:21:00 GMT"
+      "title": "범죄자들이 중국 경제를 선호하는 이유 [PADO] - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pb0hucXkybGpMc2k4aU9yMF92Qkhfd18zRXlHWk9ESkg4dHBmUm9JUjRWSFk2NXlkVGo4RUdyRGtMQ0lNNUtQaVFLRXJwa2FyakJLaXhIYUVOd0FPbGlZeXpWcUNIX3FKM0g3aEJR0gFuQVVfeXFMTWlvSG5xeTJsakxzaThpT3IwX3ZCSF93XzNFeUdaT0RKSDh0cGZSb0lSNFZIWTY1eWRUajhFR3JEa0xDSU01S1BpUUtFcnBrYXJqQktpeEhhRU53QU9saVl5elZxQ0hfcUozSDdoQlE?oc=5",
+      "source": "머니투데이",
+      "date": "Fri, 09 Oct 2026 21:00:00 GMT"
     },
     {
       "title": "대중국 방어막 꾸린 미국, 한국 경제에 득될까?",
@@ -64,18 +76,6 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSG5LQVFwOUpHOThieklJWWVOSzk0dFkzVm8yZUlsRU9pcDF5QVpBb1BQNmszRGVuZTlDSDFOODc3VENQMXRoVlBuZkZmU29FaWRYNkR5V1RKcV9uVXBNYVRzSTB4WUtsaTZwTGhEMy14MFBZUktybmpsNExuSGR6ZHNNYS03Zk8zZUE?oc=5",
       "source": "OhmyNews",
       "date": "Wed, 07 Oct 2026 04:04:00 GMT"
-    },
-    {
-      "title": "유럽판 301조 추진에 중국, 프랑스·독일에\"자충수될 것\" 강력 경고",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05c2cxTk85Uy1TQWZ1bnQzbktGRnJiR0x3S29lVTN6emxXXzRoNGtlNHZxU3RLNk8tckIwZ0lBUE5DR0xJOHR2UGVnX3NxYTQ?oc=5",
-      "source": "Daum",
-      "date": "Wed, 07 Oct 2026 00:00:32 GMT"
-    },
-    {
-      "title": "중국, 경제 '경고등' 속 지방정부 부채 정리에 275조원 투입",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PTklxMmpuYWc3aUlXVmx5WGpCTzllRVd6LVdDZGVDTllGdmZvSGFHMGhNcGxoZVRxRGFjb1pUREh4NDAxcDgtMHlDMmdrRlkw?oc=5",
-      "source": "매일경제 마켓",
-      "date": "Tue, 06 Oct 2026 06:42:43 GMT"
     }
   ]
 }
