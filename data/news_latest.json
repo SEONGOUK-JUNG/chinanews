@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-10T10:10:05+09:00",
+  "run_at_kst": "2026-10-11T07:20:04+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,24 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Pemex Needs Nearly $110 Billion to Hit Mexico's Output Targets",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Pemex-Needs-Nearly-110-Billion-to-Hit-Mexicos-Output-Targets.html",
+      "source": "OilPrice",
+      "date": "Sat, 10 Oct 2026 16:00:00 -0500"
+    },
+    {
+      "title": "Southeast Asia Needs More Power, But Its Weak Grid Could Be a Problem",
+      "link": "https://oilprice.com/Energy/Energy-General/Southeast-Asia-Needs-More-Power-But-Its-Weak-Grid-Could-Be-a-Problem.html",
+      "source": "OilPrice",
+      "date": "Sat, 10 Oct 2026 14:00:00 -0500"
+    },
+    {
+      "title": "The Iran War Is Fueling a Boom in Clean Energy",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Iran-War-Is-Fueling-a-Boom-in-Clean-Energy.html",
+      "source": "OilPrice",
+      "date": "Sat, 10 Oct 2026 10:00:00 -0500"
+    },
     {
       "title": "Why Record Crude Output Can’t Solve America’s Diesel Crisis",
       "link": "https://oilprice.com/Energy/Crude-Oil/Why-Record-Crude-Output-Cant-Solve-Americas-Diesel-Crisis.html",
@@ -42,24 +60,6 @@
       "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Drilling-Continues-to-Inch-Upward.html",
       "source": "OilPrice",
       "date": "Fri, 09 Oct 2026 12:31:16 -0500"
-    },
-    {
-      "title": "States Bet on Virtual Power Plants to Cut Grid Costs",
-      "link": "https://oilprice.com/Energy/Energy-General/States-Bet-on-Virtual-Power-Plants-to-Cut-Grid-Costs.html",
-      "source": "OilPrice",
-      "date": "Fri, 09 Oct 2026 12:00:00 -0500"
-    },
-    {
-      "title": "Trump Puts Iran Strikes on Hold as Hurricane Threatens Oil Supply",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Trump-Puts-Iran-Strikes-on-Hold-as-Hurricane-Threatens-Oil-Supply.html",
-      "source": "OilPrice",
-      "date": "Fri, 09 Oct 2026 11:35:22 -0500"
-    },
-    {
-      "title": "Pashinyan’s Nuclear U-Turn Gives Moscow an Opening in Armenia",
-      "link": "https://oilprice.com/Geopolitics/International/Pashinyans-Nuclear-U-Turn-Gives-Moscow-an-Opening-in-Armenia.html",
-      "source": "OilPrice",
-      "date": "Fri, 09 Oct 2026 11:00:00 -0500"
     },
     {
       "title": "McEwen’s $55M Ontario asset sale fuels gold growth plans",
