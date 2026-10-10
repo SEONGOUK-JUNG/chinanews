@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-10-10T10:10:05+09:00",
+  "run_at_kst": "2026-10-10T14:10:06+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "[정석만의 프리즘] 중국의 달라진 소비온도... 한국 경제도 대비해야",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0bzdRSVM4Rk1SZTZTNl82NmplUDEzY29fcl94bmRPZ1VQMUg1VzJhN2toeVZFdjBuTVVhMnJnVzVlczhDRTRZQVhMRTRmZkY1QkFtQ0FMblZ1Z9IBWEFVX3lxTFAzQ3JTeTRMSlVWRnJxTzJFUkhJa1UyZlIxTUFRRVg0TnhNRmJvVW1pNHdtZkk4Z21RZzhVUkR0ZzF4TGVPQUd6elltUUNwSFhYdVdYOGtrblg?oc=5",
+      "source": "아주경제",
+      "date": "Sat, 10 Oct 2026 04:00:00 GMT"
+    },
     {
       "title": "[인터뷰] 신용한 충북지사 \"충북 경제 영토 세계로, 중국 변화 기회로 삼아야\"",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBISDllMWxiVllleUlmeXlXVHZIWlFIX3FZQ0VvNThWbUIzbm9GdzlSZ2t1UUoycUUzU3AxZkVVNkk2bEh5djgzazJpdnhTQU9zZXRHMUpldzVVR2Rz?oc=5",
@@ -16,6 +22,12 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1peW02cG9MazI4Z1Y5WENFOGQ1Z1c0UWYxa2xWRmRGSmItbi1DcGZNX053UVN5UnRKdGVfa3V5Vmo2Ql9sNFpURTEtSmUwTm9TaV9xYzZVS1dqbl9VRUdidk12RjdGa2plWklGSU1R?oc=5",
       "source": "국제뉴스",
       "date": "Sat, 10 Oct 2026 00:31:18 GMT"
+    },
+    {
+      "title": "김성원 산자중기위원장, 국감서 민생 챙기고 중국 경제외교까지…광폭 행보",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nUmxNQnZyaFdPcEUtSmplODRuZWlsNWs1cl90MlcwZlVFX25CZ1JwQVdldW1PckMwb1VIX3hmSURjalA5VmI1eXVKVWlPQXpaQldlOXI5ZUZ4MDJDTUZvQXJIWVFYNXM1NERiZXNn?oc=5",
+      "source": "투어코리아",
+      "date": "Fri, 09 Oct 2026 21:28:16 GMT"
     },
     {
       "title": "범죄자들이 중국 경제를 선호하는 이유 [PADO] - 머니투데이",
@@ -30,10 +42,10 @@
       "date": "Fri, 09 Oct 2026 21:00:00 GMT"
     },
     {
-      "title": "범죄자들이 중국 경제를 선호하는 이유 [PADO] - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pb0hucXkybGpMc2k4aU9yMF92Qkhfd18zRXlHWk9ESkg4dHBmUm9JUjRWSFk2NXlkVGo4RUdyRGtMQ0lNNUtQaVFLRXJwa2FyakJLaXhIYUVOd0FPbGlZeXpWcUNIX3FKM0g3aEJR0gFuQVVfeXFMTWlvSG5xeTJsakxzaThpT3IwX3ZCSF93XzNFeUdaT0RKSDh0cGZSb0lSNFZIWTY1eWRUajhFR3JEa0xDSU01S1BpUUtFcnBrYXJqQktpeEhhRU53QU9saVl5elZxQ0hfcUozSDdoQlE?oc=5",
-      "source": "머니투데이",
-      "date": "Fri, 09 Oct 2026 21:00:00 GMT"
+      "title": "“태평양은 미·중 수용할 만큼 넓다”…중국의 해양강국 집념",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zeWg2VURiNkpsem45dnVxSWx5VWo3TTk1YmU1bERZUldmaFhFd1paM0lXdkZacnZVMU1KOERQUGFxdFV3aWV1SXlQeVpvWWFGVm1oby1n?oc=5",
+      "source": "중앙일보",
+      "date": "Fri, 09 Oct 2026 15:19:20 GMT"
     },
     {
       "title": "대중국 방어막 꾸린 미국, 한국 경제에 득될까?",
@@ -57,25 +69,13 @@
       "title": "[경제포커스] 아틀라스보다 먼저 온 중국 ‘車海전술’",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUWhBeEhYQVdhNmw2XzNDOU13Sjd3ZHlnOWhCMHVyUjBCeklSeWZ1bkV5NEVIaTdtZURhYnV5WVBSSS0wa1RraGptOUk5NmFWMzJZcDd4QWdxSDF2VUlQbXdoWURLSld0bFBzMXE5amlFZTlneWsxMHFwLUViN1RMRzhLRzM0VzRHT2U1Xw?oc=5",
       "source": "조선일보",
-      "date": "Wed, 07 Oct 2026 14:50:00 GMT"
+      "date": "Wed, 07 Oct 2026 14:56:23 GMT"
     },
     {
       "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
       "source": ":: 위즈경제 ::",
       "date": "Wed, 07 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "\"중국의 성장은 둔화가 아니라 재설계되고 있다\"",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42YTVIOXI2Z3hoRGZ0WXA3Q2lYckk1QkpUUjF5SnM4ZDVUbGI2SEJXSTVEdnFKd0p3NGo5VU9lOGJVRmJCb0FNajNRbVlKUEk?oc=5",
-      "source": "Daum",
-      "date": "Wed, 07 Oct 2026 04:07:54 GMT"
-    },
-    {
-      "title": "\"중국의 성장은 둔화가 아니라 재설계되고 있다\"",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSG5LQVFwOUpHOThieklJWWVOSzk0dFkzVm8yZUlsRU9pcDF5QVpBb1BQNmszRGVuZTlDSDFOODc3VENQMXRoVlBuZkZmU29FaWRYNkR5V1RKcV9uVXBNYVRzSTB4WUtsaTZwTGhEMy14MFBZUktybmpsNExuSGR6ZHNNYS03Zk8zZUE?oc=5",
-      "source": "OhmyNews",
-      "date": "Wed, 07 Oct 2026 04:04:00 GMT"
     }
   ]
 }
