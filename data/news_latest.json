@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-11T10:10:05+09:00",
+  "run_at_kst": "2026-10-12T07:20:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "How Low Can the Strategic Petroleum Reserve Actually Go?",
+      "link": "https://oilprice.com/Energy/Crude-Oil/How-Low-Can-the-Strategic-Petroleum-Reserve-Actually-Go.html",
+      "source": "OilPrice",
+      "date": "Sun, 11 Oct 2026 14:00:00 -0500"
+    },
+    {
+      "title": "Geopolitical risk drives capital to private sector: analyst",
+      "link": "https://www.mining.com/geopolitical-risk-drives-capital-to-private-sector-analyst/",
+      "source": "mining.com",
+      "date": "Sun, 11 Oct 2026 17:44:57 +0000"
+    },
+    {
+      "title": "Australia Approves Giant Coal Extension Despite Paris Commitments",
+      "link": "https://oilprice.com/Energy/Coal/Australia-Approves-Giant-Coal-Extension-Despite-Paris-Commitments.html",
+      "source": "OilPrice",
+      "date": "Sun, 11 Oct 2026 10:00:00 -0500"
+    },
+    {
+      "title": "North Sea Oil Producers Push Burnham to Scrap Windfall Tax",
+      "link": "https://oilprice.com/Energy/Crude-Oil/North-Sea-Oil-Producers-Push-Burnham-to-Scrap-Windfall-Tax.html",
+      "source": "OilPrice",
+      "date": "Sun, 11 Oct 2026 10:00:00 -0500"
+    },
     {
       "title": "Tanker Rates Soar to Record as Oil Crisis Becomes Shipping Crisis",
       "link": "https://oilprice.com/Energy/Energy-General/Tanker-Rates-Soar-to-Record-as-Oil-Crisis-Becomes-Shipping-Crisis.html",
@@ -38,24 +62,6 @@
       "date": "Sat, 10 Oct 2026 10:00:00 -0500"
     },
     {
-      "title": "Why Record Crude Output Can’t Solve America’s Diesel Crisis",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Why-Record-Crude-Output-Cant-Solve-Americas-Diesel-Crisis.html",
-      "source": "OilPrice",
-      "date": "Fri, 09 Oct 2026 17:00:00 -0500"
-    },
-    {
-      "title": "Russia, Germany Add Diesel Supply as Fuel Market Scrambles for Barrels",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Germany-Add-Diesel-Supply-as-Fuel-Market-Scrambles-for-Barrels.html",
-      "source": "OilPrice",
-      "date": "Fri, 09 Oct 2026 16:30:00 -0500"
-    },
-    {
-      "title": "Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hurricane-Isaias-Shuts-In-71-of-US-Gulf-Oil-Production.html",
-      "source": "OilPrice",
-      "date": "Fri, 09 Oct 2026 15:30:00 -0500"
-    },
-    {
       "title": "Rare earth recycling can bridge US supply gap as mines face long timelines, Paladin says",
       "link": "https://www.mining.com/rare-earth-recycling-can-bridge-us-supply-gap-as-mines-face-long-timelines-paladin-says/",
       "source": "mining.com",
@@ -74,22 +80,16 @@
       "date": "Fri, 09 Oct 2026 15:30:00 +0000"
     },
     {
+      "title": "Hot Chili drills shallow copper, gold at Chile discovery",
+      "link": "https://www.mining.com/hot-chili-drills-shallow-copper-gold-at-chile-discovery/",
+      "source": "mining.com",
+      "date": "Fri, 09 Oct 2026 15:19:49 +0000"
+    },
+    {
       "title": "World Gold Council urges miners to name refiners",
       "link": "https://www.mining.com/gold-council-urges-miners-to-name-refiners/",
       "source": "mining.com",
       "date": "Fri, 09 Oct 2026 14:06:41 +0000"
-    },
-    {
-      "title": "Lithium Triangle’s vast resources face unsolved extraction hurdles",
-      "link": "https://www.mining.com/lithium-triangles-vast-resources-face-unsolved-extraction-hurdles/",
-      "source": "mining.com",
-      "date": "Fri, 09 Oct 2026 13:53:00 +0000"
-    },
-    {
-      "title": "EU puts KGHM’s $2.4B copper projects on fast track",
-      "link": "https://www.mining.com/eu-puts-kghms-2-4b-copper-projects-on-fast-track/",
-      "source": "mining.com",
-      "date": "Fri, 09 Oct 2026 10:53:00 +0000"
     }
   ]
 }
