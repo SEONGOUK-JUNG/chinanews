@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-11T07:20:04+09:00",
+  "run_at_kst": "2026-10-11T10:10:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,18 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Tanker Rates Soar to Record as Oil Crisis Becomes Shipping Crisis",
+      "link": "https://oilprice.com/Energy/Energy-General/Tanker-Rates-Soar-to-Record-as-Oil-Crisis-Becomes-Shipping-Crisis.html",
+      "source": "OilPrice",
+      "date": "Sat, 10 Oct 2026 18:00:00 -0500"
+    },
+    {
+      "title": "Emergency Oil Releases Risk Draining the World’s Last Supply Cushion",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Emergency-Oil-Releases-Risk-Draining-the-Worlds-Last-Supply-Cushion.html",
+      "source": "OilPrice",
+      "date": "Sat, 10 Oct 2026 18:00:00 -0500"
+    },
     {
       "title": "Pemex Needs Nearly $110 Billion to Hit Mexico's Output Targets",
       "link": "https://oilprice.com/Energy/Crude-Oil/Pemex-Needs-Nearly-110-Billion-to-Hit-Mexicos-Output-Targets.html",
@@ -48,18 +60,6 @@
       "link": "https://www.mining.com/rare-earth-recycling-can-bridge-us-supply-gap-as-mines-face-long-timelines-paladin-says/",
       "source": "mining.com",
       "date": "Fri, 09 Oct 2026 20:20:20 +0000"
-    },
-    {
-      "title": "5 Stocks Cashing In as $100 Oil Pushes Drivers Toward Electric",
-      "link": "https://oilprice.com/Energy/Energy-General/5-Stocks-Cashing-In-as-100-Oil-Pushes-Drivers-Toward-Electric.html",
-      "source": "OilPrice",
-      "date": "Fri, 09 Oct 2026 15:00:00 -0500"
-    },
-    {
-      "title": "U.S. Oil Drilling Continues to Inch Upward",
-      "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Drilling-Continues-to-Inch-Upward.html",
-      "source": "OilPrice",
-      "date": "Fri, 09 Oct 2026 12:31:16 -0500"
     },
     {
       "title": "McEwen’s $55M Ontario asset sale fuels gold growth plans",
