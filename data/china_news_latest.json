@@ -1,21 +1,39 @@
 {
-  "run_at_kst": "2026-10-12T14:08:53+09:00",
+  "run_at_kst": "2026-10-12T20:07:59+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "[김상철 칼럼] 중국 제조업 버블 붕괴, 가능한 시나리오인가?",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84R0NZTmlpRUVYamVhZk1sWUhIbGpPWG5SNkFNZzhJTnFJQnhteE0wS0dpUm5hVDNhQXBIMGZiX1ZNbEhsVXBId1NSLVpIVl9mM1dYaENmUHRvQdIBWEFVX3lxTE5odWxPaURPalU0MVVLbHBPelA5bFFWbVY4bklyd0ltS1pXTV9McWowZXViSmlISGkyeWhkYktVS0tOa0tHSnlhZlFWN2xqWkdETHotT1dMRXM?oc=5",
+      "source": "아주경제",
+      "date": "Mon, 12 Oct 2026 10:08:48 GMT"
+    },
+    {
+      "title": "세계한인경제무역협회, 중국 선전서 ‘세계한인경제인대회’ 개최",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81VS1IN3dxNkVlQkhmV0o0OFZackVBaHRPSVYtNHNTUVcxZTA3ZE1YVWFwRXFiU0JnUmZrZHhYazM3SzN2SGhNckdKdXBHNDhGX05rMVVYR3FqVTJNZnpCNzRaSzlFdUxFX1VqcmVmSTRoWDJVVHfSAWZBVV95cUxPV1Brc01SVWxySVpyU3Y2TjRNWk1lTS1YcUhUQlVVYmxFWVlTcE9oTlpjdTQ4LVh2Ql9NNzRzUlVkcFVqc3BIZWQ2YW1WZ1VqZkVKX1BJcEFDZjRQaUw4N21MM1h6dUE?oc=5",
+      "source": "동아일보",
+      "date": "Mon, 12 Oct 2026 06:46:57 GMT"
+    },
+    {
+      "title": "[투데이 포커스] 3% 땅으로 15% 경제 창출...쑤저우공업단지, 中 미래 산업을 심다",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SclVhSkNpZDFWc3ktYjJJX093dThOVzhLQ0pKeDlCUVhSUkxqVXpraFY0UklQU05IenhiSVEtYTIxc0dib2RDbWI1VmRGclIwMFhpbUNwdm95OHRpYl82QlpndWlfcHl1NWlLZHM2QjdyVzQ?oc=5",
+      "source": "동방일보",
+      "date": "Mon, 12 Oct 2026 06:46:05 GMT"
+    },
+    {
+      "title": "꿈 아닌 경상수지 1조 달러에 中 빈부격차 고민",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Fb1V4TkJVMVJsUldLakh3d1hiNG1YLWlxSmU3VExHbTJSckhlbUZ2WWx2UmFuTURES1QzS3JsbGRRNVVqazVtRTBZa3o2clhaV1BfQl85WUVYMlhYRW40LUdId2k5dEN5OVVTb0hB?oc=5",
+      "source": "아시아투데이",
+      "date": "Mon, 12 Oct 2026 05:16:53 GMT"
+    },
+    {
       "title": "세계 2위 경제대국 중국, 왜 선진국 지위는 거부하나",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zTHhOT3JwMTc1Ym14QUZEOFBHYk55dTBscW5rN2J0ZU5NWW4zbVJNZ2xMQ1Z0aktINmg2TGtQQktBSG82eGJYeklvdEI4dEN4NTJPcGprSzZMRkk?oc=5",
       "source": "인터내셔널포커스",
-      "date": "Mon, 12 Oct 2026 03:55:56 GMT"
-    },
-    {
-      "title": "아이폰 듀오 중국 판매 불안...팀 쿡 광둥성 전격 방문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RRm5Uc2NaMlhaejJ5RkFPbHQ1VW9YN3otZV9VMXJWSG1oRVU5MzVWWXhnT2otcGN1a1lpOW0yMW1qZGJsYzhoY0ZYUFI3RlIyZTYyWVRRVlgtZ9IBWEFVX3lxTFBBeGFTRjdJQUNhU2Rmdkh4ZzdpR295TkNVdFUtdnNoaXIzaVFrc0pZQnlvQ0Z4WlZRZndmalcwaGhRR0JXOG1CRmd4QnQzZWlqTnhIdGZSNjk?oc=5",
-      "source": "아주경제",
-      "date": "Mon, 12 Oct 2026 01:38:55 GMT"
+      "date": "Mon, 12 Oct 2026 03:55:39 GMT"
     },
     {
       "title": "[씨초의눈] 중국은 왜 지금 ‘신질생산력(생산성의 질적전환)’을 다시 꺼내 들었나",
@@ -42,34 +60,16 @@
       "date": "Sun, 11 Oct 2026 23:29:44 GMT"
     },
     {
-      "title": "(글로벌 동향)日 기업의 脫중국 ‘액소더스’ 가속",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fSGFJVng5ZHlkbE5ucWpVYUQ4RUxhNHM5Y1lTdnc1SUtScnRab3NHUGduR1JPNEZJcmluWWdOc3VPNl9XY3RGTkU0X0Z4LUtSYmFxUFpnQ1NiMVYtOGExYmRwRU0tZzFnSnhfNjktSQ?oc=5",
-      "source": "애플경제",
-      "date": "Sun, 11 Oct 2026 09:30:02 GMT"
-    },
-    {
-      "title": "\"중국 실리콘밸리 뚫어라\"...세계한인경제인대회 성료",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnV0tsUEVCQTgyMTRCVVRxSE5YejlIZDhUc2JuVVFnM3M3Qk1NWXRCLWtwcEU3eW41RVZzYlVxMXVmRVN6aVByR0NXZW5kYVFGODdEelRyNGJib0dLUnpuTkRHTHNDbnlybmQ0WXJndw?oc=5",
-      "source": "YTN",
-      "date": "Sat, 10 Oct 2026 18:31:00 GMT"
-    },
-    {
-      "title": "[인터뷰] 신용한 충북지사 \"충북 경제 영토 세계로, 중국 변화 기회로 삼아야\"",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBISDllMWxiVllleUlmeXlXVHZIWlFIX3FZQ0VvNThWbUIzbm9GdzlSZ2t1UUoycUUzU3AxZkVVNkk2bEh5djgzazJpdnhTQU9zZXRHMUpldzVVR2Rz?oc=5",
-      "source": "뉴스핌",
-      "date": "Sat, 10 Oct 2026 00:53:00 GMT"
+      "title": "중국 지리자동차, 캐나다 진출 본격화…미국 규제 피해 북미 공략",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsS1psR3hIUkl1NEZjUDB3eEFSdEtXajVWLU5mV19jaXViNGVrRVpVOVdBSWRydnlRM05HQ3JYMjR6bnV3dHhwWnVoVHNLTnhMZFc4WTVURDJVT1d4N2hnQ1hSUDRNcnZNQWs4ZWZ3?oc=5",
+      "source": "알파경제",
+      "date": "Sun, 11 Oct 2026 22:14:26 GMT"
     },
     {
       "title": "범죄자들이 중국 경제를 선호하는 이유 [PADO] - 머니투데이",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pb0hucXkybGpMc2k4aU9yMF92Qkhfd18zRXlHWk9ESkg4dHBmUm9JUjRWSFk2NXlkVGo4RUdyRGtMQ0lNNUtQaVFLRXJwa2FyakJLaXhIYUVOd0FPbGlZeXpWcUNIX3FKM0g3aEJR0gFuQVVfeXFMTWlvSG5xeTJsakxzaThpT3IwX3ZCSF93XzNFeUdaT0RKSDh0cGZSb0lSNFZIWTY1eWRUajhFR3JEa0xDSU01S1BpUUtFcnBrYXJqQktpeEhhRU53QU9saVl5elZxQ0hfcUozSDdoQlE?oc=5",
       "source": "머니투데이",
       "date": "Fri, 09 Oct 2026 21:00:00 GMT"
-    },
-    {
-      "title": "“태평양은 미·중 수용할 만큼 넓다”…중국의 해양강국 집념",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zeWg2VURiNkpsem45dnVxSWx5VWo3TTk1YmU1bERZUldmaFhFd1paM0lXdkZacnZVMU1KOERQUGFxdFV3aWV1SXlQeVpvWWFGVm1oby1n?oc=5",
-      "source": "중앙일보",
-      "date": "Fri, 09 Oct 2026 15:19:20 GMT"
     },
     {
       "title": "범죄자들이 중국 경제를 선호하는 이유",

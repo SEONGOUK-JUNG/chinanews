@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-12T10:10:06+09:00",
+  "run_at_kst": "2026-10-12T20:07:59+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "BMI Predicts Brent Crude Will Remain Above $100 for Months",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/BMI-Predicts-Brent-Crude-Will-Remain-Above-100-for-Months.html",
+      "source": "OilPrice",
+      "date": "Mon, 12 Oct 2026 05:30:00 -0500"
+    },
+    {
+      "title": "India's Battery Storage Capacity Set to Surge Nearly 50 Fold by 2032",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Battery-Storage-Capacity-Set-to-Surge-Nearly-50-Fold-by-2032.html",
+      "source": "OilPrice",
+      "date": "Mon, 12 Oct 2026 04:30:00 -0500"
+    },
+    {
+      "title": "Japan Urges Asia to Build Up Oil Reserves as Middle East Risks Mount",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Urges-Asia-to-Build-Up-Oil-Reserves-as-Middle-East-Risks-Mount.html",
+      "source": "OilPrice",
+      "date": "Mon, 12 Oct 2026 03:15:00 -0500"
+    },
+    {
+      "title": "Supertanker Rates Slip From Record Highs",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Supertanker-Rates-Slip-From-Record-Highs.html",
+      "source": "OilPrice",
+      "date": "Mon, 12 Oct 2026 02:00:00 -0500"
+    },
+    {
+      "title": "Two More Oil Tankers Attacked Near Strait of Hormuz",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Two-More-Oil-Tankers-Attacked-Near-Strait-of-Hormuz.html",
+      "source": "OilPrice",
+      "date": "Mon, 12 Oct 2026 00:30:00 -0500"
+    },
     {
       "title": "Trump's Russia-Ukraine Energy Ceasefire May Only Cover Oil Refineries",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Trumps-Russia-Ukraine-Energy-Ceasefire-May-Only-Cover-Oil-Refineries.html",
@@ -30,36 +60,6 @@
       "link": "https://www.mining.com/geopolitical-risk-drives-capital-to-private-sector-analyst/",
       "source": "mining.com",
       "date": "Sun, 11 Oct 2026 17:44:57 +0000"
-    },
-    {
-      "title": "Australia Approves Giant Coal Extension Despite Paris Commitments",
-      "link": "https://oilprice.com/Energy/Coal/Australia-Approves-Giant-Coal-Extension-Despite-Paris-Commitments.html",
-      "source": "OilPrice",
-      "date": "Sun, 11 Oct 2026 10:00:00 -0500"
-    },
-    {
-      "title": "North Sea Oil Producers Push Burnham to Scrap Windfall Tax",
-      "link": "https://oilprice.com/Energy/Crude-Oil/North-Sea-Oil-Producers-Push-Burnham-to-Scrap-Windfall-Tax.html",
-      "source": "OilPrice",
-      "date": "Sun, 11 Oct 2026 10:00:00 -0500"
-    },
-    {
-      "title": "Tanker Rates Soar to Record as Oil Crisis Becomes Shipping Crisis",
-      "link": "https://oilprice.com/Energy/Energy-General/Tanker-Rates-Soar-to-Record-as-Oil-Crisis-Becomes-Shipping-Crisis.html",
-      "source": "OilPrice",
-      "date": "Sat, 10 Oct 2026 18:00:00 -0500"
-    },
-    {
-      "title": "Emergency Oil Releases Risk Draining the World’s Last Supply Cushion",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Emergency-Oil-Releases-Risk-Draining-the-Worlds-Last-Supply-Cushion.html",
-      "source": "OilPrice",
-      "date": "Sat, 10 Oct 2026 18:00:00 -0500"
-    },
-    {
-      "title": "Pemex Needs Nearly $110 Billion to Hit Mexico's Output Targets",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Pemex-Needs-Nearly-110-Billion-to-Hit-Mexicos-Output-Targets.html",
-      "source": "OilPrice",
-      "date": "Sat, 10 Oct 2026 16:00:00 -0500"
     },
     {
       "title": "Rare earth recycling can bridge US supply gap as mines face long timelines, Paladin says",
