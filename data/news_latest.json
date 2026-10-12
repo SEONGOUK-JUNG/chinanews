@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-12T20:07:59+09:00",
+  "run_at_kst": "2026-10-13T07:07:58+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,52 +8,76 @@
   "count": 14,
   "items": [
     {
-      "title": "BMI Predicts Brent Crude Will Remain Above $100 for Months",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/BMI-Predicts-Brent-Crude-Will-Remain-Above-100-for-Months.html",
+      "title": "Global Coal Demand Rises as LNG Shortage Deepens",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Global-Coal-Demand-Rises-as-LNG-Shortage-Deepens.html",
       "source": "OilPrice",
-      "date": "Mon, 12 Oct 2026 05:30:00 -0500"
+      "date": "Mon, 12 Oct 2026 17:00:00 -0500"
     },
     {
-      "title": "India's Battery Storage Capacity Set to Surge Nearly 50 Fold by 2032",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Battery-Storage-Capacity-Set-to-Surge-Nearly-50-Fold-by-2032.html",
+      "title": "Heat Pumps Are Coming for Coal’s Industrial Heat Market",
+      "link": "https://oilprice.com/Energy/Energy-General/Heat-Pumps-Are-Coming-for-Coals-Industrial-Heat-Market.html",
       "source": "OilPrice",
-      "date": "Mon, 12 Oct 2026 04:30:00 -0500"
+      "date": "Mon, 12 Oct 2026 16:00:00 -0500"
     },
     {
-      "title": "Japan Urges Asia to Build Up Oil Reserves as Middle East Risks Mount",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Urges-Asia-to-Build-Up-Oil-Reserves-as-Middle-East-Risks-Mount.html",
+      "title": "China's Auto Exports Explode as Domestic Demand Craters",
+      "link": "https://oilprice.com/Energy/Energy-General/Chinas-Auto-Exports-Explode-as-Domestic-Demand-Craters.html",
       "source": "OilPrice",
-      "date": "Mon, 12 Oct 2026 03:15:00 -0500"
+      "date": "Mon, 12 Oct 2026 15:00:00 -0500"
     },
     {
-      "title": "Supertanker Rates Slip From Record Highs",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Supertanker-Rates-Slip-From-Record-Highs.html",
+      "title": "$4,000 Gold Could Be Wall Street's Next Big Buying Opportunity",
+      "link": "https://oilprice.com/Metals/Gold/4000-Gold-Could-Be-Wall-Streets-Next-Big-Buying-Opportunity.html",
       "source": "OilPrice",
-      "date": "Mon, 12 Oct 2026 02:00:00 -0500"
+      "date": "Mon, 12 Oct 2026 14:00:00 -0500"
     },
     {
-      "title": "Two More Oil Tankers Attacked Near Strait of Hormuz",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Two-More-Oil-Tankers-Attacked-Near-Strait-of-Hormuz.html",
+      "title": "Trump's Grid Security Order Could Backfire on America's AI Boom",
+      "link": "https://oilprice.com/Energy/Energy-General/Trumps-Grid-Security-Order-Could-Backfire-on-Americas-AI-Boom.html",
       "source": "OilPrice",
-      "date": "Mon, 12 Oct 2026 00:30:00 -0500"
+      "date": "Mon, 12 Oct 2026 13:00:00 -0500"
     },
     {
-      "title": "Trump's Russia-Ukraine Energy Ceasefire May Only Cover Oil Refineries",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trumps-Russia-Ukraine-Energy-Ceasefire-May-Only-Cover-Oil-Refineries.html",
-      "source": "OilPrice",
-      "date": "Sun, 11 Oct 2026 20:01:00 -0500"
+      "title": "EnergyX inks 10-year, $2B lithium offtake deal with Trafigura",
+      "link": "https://www.mining.com/energyx-inks-10-year-2b-lithium-offtake-deal-with-trafigura/",
+      "source": "mining.com",
+      "date": "Mon, 12 Oct 2026 17:40:02 +0000"
     },
     {
-      "title": "3 Stocks To Play The Nuclear Energy Boom",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/3-Stocks-To-Play-The-Nuclear-Energy-Boom.html",
+      "title": "Black Sea Oil Shipping Insurance Costs Surge to $2.5 Million",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Black-Sea-Oil-Shipping-Insurance-Costs-Surge-to-25-Million.html",
       "source": "OilPrice",
-      "date": "Sun, 11 Oct 2026 18:00:00 -0500"
+      "date": "Mon, 12 Oct 2026 12:30:00 -0500"
     },
     {
-      "title": "How Low Can the Strategic Petroleum Reserve Actually Go?",
-      "link": "https://oilprice.com/Energy/Crude-Oil/How-Low-Can-the-Strategic-Petroleum-Reserve-Actually-Go.html",
+      "title": "European Natural Gas Prices Headed for Multi-Year Highs",
+      "link": "https://oilprice.com/Energy/Natural-Gas/European-Natural-Gas-Prices-Headed-for-Multi-Year-Highs.html",
       "source": "OilPrice",
-      "date": "Sun, 11 Oct 2026 14:00:00 -0500"
+      "date": "Mon, 12 Oct 2026 12:00:00 -0500"
+    },
+    {
+      "title": "Oil Prices Jump 2% on Saudi Attacks as OPEC Sees Demand Rebound",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Jump-2-on-Saudi-Attacks-as-OPEC-Sees-Demand-Rebound.html",
+      "source": "OilPrice",
+      "date": "Mon, 12 Oct 2026 11:50:00 -0500"
+    },
+    {
+      "title": "Women hold just 12% of top mining jobs in Australia: report",
+      "link": "https://www.mining.com/women-hold-just-12-of-top-mining-jobs-in-australia-report/",
+      "source": "mining.com",
+      "date": "Mon, 12 Oct 2026 15:00:00 +0000"
+    },
+    {
+      "title": "Lynas plans Brazil rare earths plant with state support",
+      "link": "https://www.mining.com/lynas-plans-brazil-rare-earths-plant-with-state-support/",
+      "source": "mining.com",
+      "date": "Mon, 12 Oct 2026 12:45:00 +0000"
+    },
+    {
+      "title": "Governments turn mining data into billions in revenue",
+      "link": "https://www.mining.com/governments-turn-mining-data-into-billions-in-revenue/",
+      "source": "mining.com",
+      "date": "Mon, 12 Oct 2026 11:30:00 +0000"
     },
     {
       "title": "Geopolitical risk drives capital to private sector: analyst",
@@ -66,30 +90,6 @@
       "link": "https://www.mining.com/rare-earth-recycling-can-bridge-us-supply-gap-as-mines-face-long-timelines-paladin-says/",
       "source": "mining.com",
       "date": "Fri, 09 Oct 2026 20:20:20 +0000"
-    },
-    {
-      "title": "McEwen’s $55M Ontario asset sale fuels gold growth plans",
-      "link": "https://www.mining.com/mcewens-55m-ontario-asset-sale-fuels-gold-growth-plans/",
-      "source": "mining.com",
-      "date": "Fri, 09 Oct 2026 15:45:00 +0000"
-    },
-    {
-      "title": "Tax breaks could spur $1.1B more in exploration: AME",
-      "link": "https://www.mining.com/tax-breaks-could-spur-1-1b-more-in-exploration-ame/",
-      "source": "mining.com",
-      "date": "Fri, 09 Oct 2026 15:30:00 +0000"
-    },
-    {
-      "title": "Hot Chili drills shallow copper, gold at Chile discovery",
-      "link": "https://www.mining.com/hot-chili-drills-shallow-copper-gold-at-chile-discovery/",
-      "source": "mining.com",
-      "date": "Fri, 09 Oct 2026 15:19:49 +0000"
-    },
-    {
-      "title": "World Gold Council urges miners to name refiners",
-      "link": "https://www.mining.com/gold-council-urges-miners-to-name-refiners/",
-      "source": "mining.com",
-      "date": "Fri, 09 Oct 2026 14:06:41 +0000"
     }
   ]
 }

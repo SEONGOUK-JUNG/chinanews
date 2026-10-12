@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-10-12T20:10:08+09:00",
+  "run_at_kst": "2026-10-13T07:07:58+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "중국 경제는 소비 지출과 기술 발전에 힘입어 2026년 3분기에도 지속적인 호황을 누렸습니다.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN3dNUkpUeC1OMlZIXzZiSkFwR256NVdjdUtTY0RCd0ZQTVFEeGpIVEtHd0k2TEV3S2dwTGdNbEhNYzZkd0VzamlGdm1zX3FMcFJTNHU5bEdLY1V5dGNuOXY1VGdSdWQtWUQ0dm9QX1Z1Y29rYzRpRWRRUmp3c2ZfUk1pdUt6aFA0QVgyNTU4UzRzZUgzWnhkeGZtaUZiX3RxT2ZRODRB?oc=5",
+      "source": "Vietnam.vn",
+      "date": "Mon, 12 Oct 2026 13:33:23 GMT"
+    },
     {
       "title": "[김상철 칼럼] 중국 제조업 버블 붕괴, 가능한 시나리오인가?",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84R0NZTmlpRUVYamVhZk1sWUhIbGpPWG5SNkFNZzhJTnFJQnhteE0wS0dpUm5hVDNhQXBIMGZiX1ZNbEhsVXBId1NSLVpIVl9mM1dYaENmUHRvQdIBWEFVX3lxTE5odWxPaURPalU0MVVLbHBPelA5bFFWbVY4bklyd0ltS1pXTV9McWowZXViSmlISGkyeWhkYktVS0tOa0tHSnlhZlFWN2xqWkdETHotT1dMRXM?oc=5",
@@ -16,6 +22,12 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81VS1IN3dxNkVlQkhmV0o0OFZackVBaHRPSVYtNHNTUVcxZTA3ZE1YVWFwRXFiU0JnUmZrZHhYazM3SzN2SGhNckdKdXBHNDhGX05rMVVYR3FqVTJNZnpCNzRaSzlFdUxFX1VqcmVmSTRoWDJVVHfSAWZBVV95cUxPV1Brc01SVWxySVpyU3Y2TjRNWk1lTS1YcUhUQlVVYmxFWVlTcE9oTlpjdTQ4LVh2Ql9NNzRzUlVkcFVqc3BIZWQ2YW1WZ1VqZkVKX1BJcEFDZjRQaUw4N21MM1h6dUE?oc=5",
       "source": "동아일보",
       "date": "Mon, 12 Oct 2026 06:46:57 GMT"
+    },
+    {
+      "title": "[투데이 포커스] 3% 땅으로 15% 경제 창출...쑤저우공업단지, 中 미래 산업을 심다",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SclVhSkNpZDFWc3ktYjJJX093dThOVzhLQ0pKeDlCUVhSUkxqVXpraFY0UklQU05IenhiSVEtYTIxc0dib2RDbWI1VmRGclIwMFhpbUNwdm95OHRpYl82QlpndWlfcHl1NWlLZHM2QjdyVzQ?oc=5",
+      "source": "동방일보",
+      "date": "Mon, 12 Oct 2026 06:46:05 GMT"
     },
     {
       "title": "꿈 아닌 경상수지 1조 달러에 中 빈부격차 고민",
@@ -30,10 +42,10 @@
       "date": "Mon, 12 Oct 2026 03:55:39 GMT"
     },
     {
-      "title": "미국마저 압도한 중국 이자 부담, 성장 둔화 속 재정 압박 심화",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DZXZpVW5ZeGFTVUZxaTR5YVJIc3owVGxxUHhmSlMwU0JDelpyREpUd0tiX2pyTktfamRiLTMtdnpyUVAxd0p6Q08zYTRwVllJQ2RMSEM2YzZ3UExuNVBuWnBUY1dYYmhuTlc5WGNB?oc=5",
-      "source": "뉴스타운",
-      "date": "Mon, 12 Oct 2026 00:51:38 GMT"
+      "title": "\"20초 만에 표 완판\"…코스프레 덕후들 몰리자 1400억 '대박' [차이나 워치]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmckN5R05ia0lFejd3WW5hY21EWF9YU194YjZ2Q05OS3BvbmVwN1d1bWNtdC1QZWthaGlseUktb2NrNnNqeXVOV0FyWFlDMzJVZm1sUkdxZVlzdw?oc=5",
+      "source": "한국경제",
+      "date": "Mon, 12 Oct 2026 01:09:01 GMT"
     },
     {
       "title": "픽업트럭 한 대에서 보는 \"중국에서, 세계를 위해\" 2.0 버전",
@@ -42,40 +54,28 @@
       "date": "Mon, 12 Oct 2026 00:45:20 GMT"
     },
     {
-      "title": "중국 재정 발목 잡은 빚 이자…내수 부양책도 한계",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80Wl8wN0FuWXVSRUprUHd4SGdHR3M3SWhHQ0pHZ1hmQlBvUlQxNjdDRXZ1dXplamp4VmtkNjQ3ZE0xeE1COUQtNXphM0djdjYzOVRTTXd2N0Vzdw?oc=5",
-      "source": "한국경제",
-      "date": "Sun, 11 Oct 2026 23:29:44 GMT"
-    },
-    {
-      "title": "중국 지리자동차, 캐나다 진출 본격화…미국 규제 피해 북미 공략",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsS1psR3hIUkl1NEZjUDB3eEFSdEtXajVWLU5mV19jaXViNGVrRVpVOVdBSWRydnlRM05HQ3JYMjR6bnV3dHhwWnVoVHNLTnhMZFc4WTVURDJVT1d4N2hnQ1hSUDRNcnZNQWs4ZWZ3?oc=5",
-      "source": "알파경제",
-      "date": "Sun, 11 Oct 2026 22:14:26 GMT"
-    },
-    {
-      "title": "중국 소비 부진 속 황금연휴 효과 기대…5중전회에 쏠리는 눈",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxa1BJWmNUMDVZVGkzVElLVFFmdnlqaWNSbjFFMXlHckU4M2V4Q1dOWTNhQk9XRU1QUnZTRDNYQklyb1lkdWh5MF91TnV3LWlJNlY1OFlxZ0dFQ29XaDRwWVJwOXFxcXNydVNNVXUzWnFlcFE?oc=5",
-      "source": "마켓인",
-      "date": "Sun, 11 Oct 2026 02:07:56 GMT"
-    },
-    {
-      "title": "\"더는 환영받지도 안전하지도 않다\"…日기업 4000곳 중국서 짐 쌌다",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fRWR5TjRMdVBmXzIwYmh4S3FZN1Q3QWlnTWI2T0RhREtCanNEQXRUa2Y4eGduRHRyVnF5OGMwUXhXZ0QxNE40ZDFHaDd4MFhFNzc4?oc=5",
-      "source": "Nate News",
-      "date": "Sat, 10 Oct 2026 10:01:00 GMT"
-    },
-    {
-      "title": "중국의 습격에도 유럽 산업은 생각보다 선전 중 [PADO] - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwbWFiRFZVWE4xNUh2RUNwZWN5WTREbUQtV0lFRlRPWEVELWlDWWFSYzBYRmlLTFYwcENZYUVlUmFrcjY1OERxaVpmZnpYTnUyM3QtckRqTFZDbjJQZ0diS0loNmlIQkZl0gFuQVVfeXFMUEVPMmExWDd2QmFYYXpkcFExMDFFRjVIMVU3RWpIODFJWG9qNnR6UWR6Z1k5S092Q2t1akd0X0U0VWhDMzdOd21PakpyenN2RjE3VGtiWHpUUi1YYjhVcTUxMmRqaVhwUkRlZDRSaXc?oc=5",
-      "source": "머니투데이",
-      "date": "Fri, 09 Oct 2026 21:00:00 GMT"
+      "title": "[인터뷰] 신용한 충북지사 \"충북 경제 영토 세계로, 중국 변화 기회로 삼아야\"",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBISDllMWxiVllleUlmeXlXVHZIWlFIX3FZQ0VvNThWbUIzbm9GdzlSZ2t1UUoycUUzU3AxZkVVNkk2bEh5djgzazJpdnhTQU9zZXRHMUpldzVVR2Rz?oc=5",
+      "source": "뉴스핌",
+      "date": "Sat, 10 Oct 2026 00:53:00 GMT"
     },
     {
       "title": "범죄자들이 중국 경제를 선호하는 이유 [PADO] - 머니투데이",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pb0hucXkybGpMc2k4aU9yMF92Qkhfd18zRXlHWk9ESkg4dHBmUm9JUjRWSFk2NXlkVGo4RUdyRGtMQ0lNNUtQaVFLRXJwa2FyakJLaXhIYUVOd0FPbGlZeXpWcUNIX3FKM0g3aEJR0gFuQVVfeXFMTWlvSG5xeTJsakxzaThpT3IwX3ZCSF93XzNFeUdaT0RKSDh0cGZSb0lSNFZIWTY1eWRUajhFR3JEa0xDSU01S1BpUUtFcnBrYXJqQktpeEhhRU53QU9saVl5elZxQ0hfcUozSDdoQlE?oc=5",
       "source": "머니투데이",
       "date": "Fri, 09 Oct 2026 21:00:00 GMT"
+    },
+    {
+      "title": "“태평양은 미·중 수용할 만큼 넓다”…중국의 해양강국 집념",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zeWg2VURiNkpsem45dnVxSWx5VWo3TTk1YmU1bERZUldmaFhFd1paM0lXdkZacnZVMU1KOERQUGFxdFV3aWV1SXlQeVpvWWFGVm1oby1n?oc=5",
+      "source": "중앙일보",
+      "date": "Fri, 09 Oct 2026 15:19:20 GMT"
+    },
+    {
+      "title": "범죄자들이 중국 경제를 선호하는 이유",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vMDkydFlBMF9qVTZocUtGVW9FYnhnQzhJd3A4Z21KZHZEbGIzTzZOVzQ4YldYMnVxZjE0RFRnTjM4UFF3X244R09DTVpGLWJWdUFheG9fWXZKbEk?oc=5",
+      "source": "https://www.pado.kr/",
+      "date": "Fri, 09 Oct 2026 06:26:25 GMT"
     }
   ]
 }
