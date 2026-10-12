@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-12T07:20:05+09:00",
+  "run_at_kst": "2026-10-12T10:10:06+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,18 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Trump's Russia-Ukraine Energy Ceasefire May Only Cover Oil Refineries",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trumps-Russia-Ukraine-Energy-Ceasefire-May-Only-Cover-Oil-Refineries.html",
+      "source": "OilPrice",
+      "date": "Sun, 11 Oct 2026 20:01:00 -0500"
+    },
+    {
+      "title": "3 Stocks To Play The Nuclear Energy Boom",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/3-Stocks-To-Play-The-Nuclear-Energy-Boom.html",
+      "source": "OilPrice",
+      "date": "Sun, 11 Oct 2026 18:00:00 -0500"
+    },
     {
       "title": "How Low Can the Strategic Petroleum Reserve Actually Go?",
       "link": "https://oilprice.com/Energy/Crude-Oil/How-Low-Can-the-Strategic-Petroleum-Reserve-Actually-Go.html",
@@ -48,18 +60,6 @@
       "link": "https://oilprice.com/Energy/Crude-Oil/Pemex-Needs-Nearly-110-Billion-to-Hit-Mexicos-Output-Targets.html",
       "source": "OilPrice",
       "date": "Sat, 10 Oct 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Southeast Asia Needs More Power, But Its Weak Grid Could Be a Problem",
-      "link": "https://oilprice.com/Energy/Energy-General/Southeast-Asia-Needs-More-Power-But-Its-Weak-Grid-Could-Be-a-Problem.html",
-      "source": "OilPrice",
-      "date": "Sat, 10 Oct 2026 14:00:00 -0500"
-    },
-    {
-      "title": "The Iran War Is Fueling a Boom in Clean Energy",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Iran-War-Is-Fueling-a-Boom-in-Clean-Energy.html",
-      "source": "OilPrice",
-      "date": "Sat, 10 Oct 2026 10:00:00 -0500"
     },
     {
       "title": "Rare earth recycling can bridge US supply gap as mines face long timelines, Paladin says",

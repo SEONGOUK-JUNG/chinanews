@@ -1,10 +1,28 @@
 {
-  "run_at_kst": "2026-10-12T07:20:05+09:00",
+  "run_at_kst": "2026-10-12T10:10:06+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "미국마저 압도한 중국 이자 부담, 성장 둔화 속 재정 압박 심화",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DZXZpVW5ZeGFTVUZxaTR5YVJIc3owVGxxUHhmSlMwU0JDelpyREpUd0tiX2pyTktfamRiLTMtdnpyUVAxd0p6Q08zYTRwVllJQ2RMSEM2YzZ3UExuNVBuWnBUY1dYYmhuTlc5WGNB?oc=5",
+      "source": "뉴스타운",
+      "date": "Mon, 12 Oct 2026 00:51:38 GMT"
+    },
+    {
+      "title": "픽업트럭 한 대에서 보는 \"중국에서, 세계를 위해\" 2.0 버전",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0ya3VPV1RBU214d1l4ZVNYOEVMYTYzWGQ3bTlIcVBGWS1UaEVlNlhpbXFjeHBxejNndlF4amdqVDBfcnhYRVp4MVVvQ3ZDdHBrQnYtTGFRWi1URnJCWmxNdE1GTjh2X0psa2ZwcXVB?oc=5",
+      "source": "현장언론 민플러스",
+      "date": "Mon, 12 Oct 2026 00:45:20 GMT"
+    },
+    {
+      "title": "중국 재정 발목 잡은 빚 이자…내수 부양책도 한계",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80Wl8wN0FuWXVSRUprUHd4SGdHR3M3SWhHQ0pHZ1hmQlBvUlQxNjdDRXZ1dXplamp4VmtkNjQ3ZE0xeE1COUQtNXphM0djdjYzOVRTTXd2N0Vzdw?oc=5",
+      "source": "한국경제",
+      "date": "Sun, 11 Oct 2026 23:29:44 GMT"
+    },
     {
       "title": "(글로벌 동향)日 기업의 脫중국 ‘액소더스’ 가속",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fSGFJVng5ZHlkbE5ucWpVYUQ4RUxhNHM5Y1lTdnc1SUtScnRab3NHUGduR1JPNEZJcmluWWdOc3VPNl9XY3RGTkU0X0Z4LUtSYmFxUFpnQ1NiMVYtOGExYmRwRU0tZzFnSnhfNjktSQ?oc=5",
@@ -18,28 +36,10 @@
       "date": "Sun, 11 Oct 2026 04:58:05 GMT"
     },
     {
-      "title": "인천상의, 중국 난징시 친화이구 대표단과 경제협력 방안 논의",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zYzdqcmxfaWlQTjJLTnViQWdCZzktdmNqc1Y0TlowcFFPNlJCRXdkZEc4UGRNZHFDMjVkcE5ia2o0T0p3ZDNiWlRpYzlzLTc1OTc5NlJOMlFhOFhCOGVxQ3Fsc3kydmE5UVBIZkRSdw?oc=5",
-      "source": "기호일보",
-      "date": "Sun, 11 Oct 2026 03:04:16 GMT"
-    },
-    {
       "title": "인천상공회의소, 중국 난징시 친화이구 대표단과 경제협력 방안 논의",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14bUFiZHJpenFFNVB0UldBa2Z3NHNXdS1sNXVEMlpNV0dDMjBlMWs0VU94SF9tVmlnVVd0TnJCSGszanJEd1NQMDdQWlVNT3Z3RmNqcktKLWU3QTY0WW1xdGxIWDVzQWJnVktHdkxWcw?oc=5",
       "source": "인천뉴스",
       "date": "Sun, 11 Oct 2026 02:26:59 GMT"
-    },
-    {
-      "title": "중국 소비 부진 속 황금연휴 효과 기대…5중전회에 쏠리는 눈",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbm5HWGpsN0I5MVFuWmZQazNoNGo4MmNJOElGWmc4aEp1XzNjZTUzUlk3U0FFZmZINlh5WEZ1Z1ZJOGF1bVZlakUyNk56LW50R1JvRmpYV1VhcG9FOElNaGpVd09UdDNkclMyU1lfeVFTeUN0VDZjNWd6N0ZlQlVjMA?oc=5",
-      "source": "이데일리",
-      "date": "Sun, 11 Oct 2026 02:07:56 GMT"
-    },
-    {
-      "title": "\"중국 실리콘밸리 뚫어라\"...세계한인경제인대회 성료",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnV0tsUEVCQTgyMTRCVVRxSE5YejlIZDhUc2JuVVFnM3M3Qk1NWXRCLWtwcEU3eW41RVZzYlVxMXVmRVN6aVByR0NXZW5kYVFGODdEelRyNGJib0dLUnpuTkRHTHNDbnlybmQ0WXJndw?oc=5",
-      "source": "YTN",
-      "date": "Sat, 10 Oct 2026 18:31:00 GMT"
     },
     {
       "title": "[인터뷰] 신용한 충북지사 \"충북 경제 영토 세계로, 중국 변화 기회로 삼아야\"",
