@@ -1,21 +1,27 @@
 {
-  "run_at_kst": "2026-10-12T11:38:13+09:00",
+  "run_at_kst": "2026-10-12T14:08:53+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "세계 2위 경제대국 중국, 왜 선진국 지위는 거부하나",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zTHhOT3JwMTc1Ym14QUZEOFBHYk55dTBscW5rN2J0ZU5NWW4zbVJNZ2xMQ1Z0aktINmg2TGtQQktBSG82eGJYeklvdEI4dEN4NTJPcGprSzZMRkk?oc=5",
+      "source": "인터내셔널포커스",
+      "date": "Mon, 12 Oct 2026 03:55:56 GMT"
+    },
+    {
+      "title": "아이폰 듀오 중국 판매 불안...팀 쿡 광둥성 전격 방문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RRm5Uc2NaMlhaejJ5RkFPbHQ1VW9YN3otZV9VMXJWSG1oRVU5MzVWWXhnT2otcGN1a1lpOW0yMW1qZGJsYzhoY0ZYUFI3RlIyZTYyWVRRVlgtZ9IBWEFVX3lxTFBBeGFTRjdJQUNhU2Rmdkh4ZzdpR295TkNVdFUtdnNoaXIzaVFrc0pZQnlvQ0Z4WlZRZndmalcwaGhRR0JXOG1CRmd4QnQzZWlqTnhIdGZSNjk?oc=5",
+      "source": "아주경제",
+      "date": "Mon, 12 Oct 2026 01:38:55 GMT"
+    },
+    {
       "title": "[씨초의눈] 중국은 왜 지금 ‘신질생산력(생산성의 질적전환)’을 다시 꺼내 들었나",
       "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1vYkF1ZGNlMHFON3FvazJsNWxOSFF5M2VUN2NtbzdINUhNOXJySWxkUzlkNkRvMzc1ZjhxU09Mc0dITW8?oc=5",
       "source": "한국공공정책신문",
       "date": "Mon, 12 Oct 2026 01:10:45 GMT"
-    },
-    {
-      "title": "입장권 20초 만에 동났다…코스프레 축제의 경제학 [차이나 워치]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmckN5R05ia0lFejd3WW5hY21EWF9YU194YjZ2Q05OS3BvbmVwN1d1bWNtdC1QZWthaGlseUktb2NrNnNqeXVOV0FyWFlDMzJVZm1sUkdxZVlzdw?oc=5",
-      "source": "한국경제",
-      "date": "Mon, 12 Oct 2026 01:09:01 GMT"
     },
     {
       "title": "미국마저 압도한 중국 이자 부담, 성장 둔화 속 재정 압박 심화",
@@ -30,16 +36,16 @@
       "date": "Mon, 12 Oct 2026 00:45:20 GMT"
     },
     {
+      "title": "중국 재정 발목 잡은 빚 이자…내수 부양책도 한계",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80Wl8wN0FuWXVSRUprUHd4SGdHR3M3SWhHQ0pHZ1hmQlBvUlQxNjdDRXZ1dXplamp4VmtkNjQ3ZE0xeE1COUQtNXphM0djdjYzOVRTTXd2N0Vzdw?oc=5",
+      "source": "한국경제",
+      "date": "Sun, 11 Oct 2026 23:29:44 GMT"
+    },
+    {
       "title": "(글로벌 동향)日 기업의 脫중국 ‘액소더스’ 가속",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fSGFJVng5ZHlkbE5ucWpVYUQ4RUxhNHM5Y1lTdnc1SUtScnRab3NHUGduR1JPNEZJcmluWWdOc3VPNl9XY3RGTkU0X0Z4LUtSYmFxUFpnQ1NiMVYtOGExYmRwRU0tZzFnSnhfNjktSQ?oc=5",
       "source": "애플경제",
       "date": "Sun, 11 Oct 2026 09:30:02 GMT"
-    },
-    {
-      "title": "[경제] 中, AI 시대 고용시장 변화에 대응...신규 직업 발굴·일자리 창출 나서",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LRzM2X3BTYUUxVU5KZThHS2FOWUxDNEZvMGdSbkR5blNuT09ZSG5WNWxUWUtFc2ZVYkw1UHlzcmI2d0tYU2ZiR0MybEVud1VUa0c1ZWdGbXh0bjNMdllGWkd5dmZlRDBpazg1ellhRkJneEk?oc=5",
-      "source": "동방일보",
-      "date": "Sun, 11 Oct 2026 04:58:05 GMT"
     },
     {
       "title": "\"중국 실리콘밸리 뚫어라\"...세계한인경제인대회 성료",
@@ -70,12 +76,6 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vMDkydFlBMF9qVTZocUtGVW9FYnhnQzhJd3A4Z21KZHZEbGIzTzZOVzQ4YldYMnVxZjE0RFRnTjM4UFF3X244R09DTVpGLWJWdUFheG9fWXZKbEk?oc=5",
       "source": "https://www.pado.kr/",
       "date": "Fri, 09 Oct 2026 06:26:25 GMT"
-    },
-    {
-      "title": "[양기태의 글로벌 경제 읽기] 엇갈리는 두 흐름, 중국 경제를 읽다",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1UaUhxMWc4TG5MdzlxLVA1anQyel9zOHhnUnh5UW9DTDJSVG9zTXNHRGNna2w2NFUwVHQzaS1QSUE1WDVrUXc?oc=5",
-      "source": "Daum",
-      "date": "Thu, 01 Oct 2026 07:20:04 GMT"
     }
   ]
 }
