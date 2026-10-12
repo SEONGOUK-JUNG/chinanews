@@ -1,10 +1,22 @@
 {
-  "run_at_kst": "2026-10-12T10:10:06+09:00",
+  "run_at_kst": "2026-10-12T11:38:13+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "[씨초의눈] 중국은 왜 지금 ‘신질생산력(생산성의 질적전환)’을 다시 꺼내 들었나",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1vYkF1ZGNlMHFON3FvazJsNWxOSFF5M2VUN2NtbzdINUhNOXJySWxkUzlkNkRvMzc1ZjhxU09Mc0dITW8?oc=5",
+      "source": "한국공공정책신문",
+      "date": "Mon, 12 Oct 2026 01:10:45 GMT"
+    },
+    {
+      "title": "입장권 20초 만에 동났다…코스프레 축제의 경제학 [차이나 워치]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmckN5R05ia0lFejd3WW5hY21EWF9YU194YjZ2Q05OS3BvbmVwN1d1bWNtdC1QZWthaGlseUktb2NrNnNqeXVOV0FyWFlDMzJVZm1sUkdxZVlzdw?oc=5",
+      "source": "한국경제",
+      "date": "Mon, 12 Oct 2026 01:09:01 GMT"
+    },
     {
       "title": "미국마저 압도한 중국 이자 부담, 성장 둔화 속 재정 압박 심화",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DZXZpVW5ZeGFTVUZxaTR5YVJIc3owVGxxUHhmSlMwU0JDelpyREpUd0tiX2pyTktfamRiLTMtdnpyUVAxd0p6Q08zYTRwVllJQ2RMSEM2YzZ3UExuNVBuWnBUY1dYYmhuTlc5WGNB?oc=5",
@@ -16,12 +28,6 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0ya3VPV1RBU214d1l4ZVNYOEVMYTYzWGQ3bTlIcVBGWS1UaEVlNlhpbXFjeHBxejNndlF4amdqVDBfcnhYRVp4MVVvQ3ZDdHBrQnYtTGFRWi1URnJCWmxNdE1GTjh2X0psa2ZwcXVB?oc=5",
       "source": "현장언론 민플러스",
       "date": "Mon, 12 Oct 2026 00:45:20 GMT"
-    },
-    {
-      "title": "중국 재정 발목 잡은 빚 이자…내수 부양책도 한계",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80Wl8wN0FuWXVSRUprUHd4SGdHR3M3SWhHQ0pHZ1hmQlBvUlQxNjdDRXZ1dXplamp4VmtkNjQ3ZE0xeE1COUQtNXphM0djdjYzOVRTTXd2N0Vzdw?oc=5",
-      "source": "한국경제",
-      "date": "Sun, 11 Oct 2026 23:29:44 GMT"
     },
     {
       "title": "(글로벌 동향)日 기업의 脫중국 ‘액소더스’ 가속",
@@ -36,10 +42,10 @@
       "date": "Sun, 11 Oct 2026 04:58:05 GMT"
     },
     {
-      "title": "인천상공회의소, 중국 난징시 친화이구 대표단과 경제협력 방안 논의",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14bUFiZHJpenFFNVB0UldBa2Z3NHNXdS1sNXVEMlpNV0dDMjBlMWs0VU94SF9tVmlnVVd0TnJCSGszanJEd1NQMDdQWlVNT3Z3RmNqcktKLWU3QTY0WW1xdGxIWDVzQWJnVktHdkxWcw?oc=5",
-      "source": "인천뉴스",
-      "date": "Sun, 11 Oct 2026 02:26:59 GMT"
+      "title": "\"중국 실리콘밸리 뚫어라\"...세계한인경제인대회 성료",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnV0tsUEVCQTgyMTRCVVRxSE5YejlIZDhUc2JuVVFnM3M3Qk1NWXRCLWtwcEU3eW41RVZzYlVxMXVmRVN6aVByR0NXZW5kYVFGODdEelRyNGJib0dLUnpuTkRHTHNDbnlybmQ0WXJndw?oc=5",
+      "source": "YTN",
+      "date": "Sat, 10 Oct 2026 18:31:00 GMT"
     },
     {
       "title": "[인터뷰] 신용한 충북지사 \"충북 경제 영토 세계로, 중국 변화 기회로 삼아야\"",
@@ -66,16 +72,10 @@
       "date": "Fri, 09 Oct 2026 06:26:25 GMT"
     },
     {
-      "title": "주한 중국대사관, ‘제6회 한·중 미래 경제 협력 포럼’ 개최",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TNnd1RnB5ZXl5dGMtS3BybnUzdXkxaXR4dHdJaU51aTljVHlEWDM0bkRQODlValBlZlk0MEdBWnFVaVdMMFNPRG8wcXJ6NlpDamQwTHZJenJIMW5LX3RNR05ibU03TUpKSGtCeWI5d2g3Uk1pSlZUNlNR?oc=5",
-      "source": "中华人民共和国驻大韩民国大使馆",
-      "date": "Thu, 08 Oct 2026 09:31:44 GMT"
-    },
-    {
-      "title": "중국, 경제 '경고등' 속 지방정부 부채 정리에 275조원 투입",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PTklxMmpuYWc3aUlXVmx5WGpCTzllRVd6LVdDZGVDTllGdmZvSGFHMGhNcGxoZVRxRGFjb1pUREh4NDAxcDgtMHlDMmdrRlkw?oc=5",
-      "source": "매일경제 마켓",
-      "date": "Tue, 06 Oct 2026 06:42:43 GMT"
+      "title": "[양기태의 글로벌 경제 읽기] 엇갈리는 두 흐름, 중국 경제를 읽다",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1UaUhxMWc4TG5MdzlxLVA1anQyel9zOHhnUnh5UW9DTDJSVG9zTXNHRGNna2w2NFUwVHQzaS1QSUE1WDVrUXc?oc=5",
+      "source": "Daum",
+      "date": "Thu, 01 Oct 2026 07:20:04 GMT"
     }
   ]
 }
