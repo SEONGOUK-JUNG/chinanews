@@ -1,10 +1,46 @@
 {
-  "run_at_kst": "2026-10-13T14:19:31+09:00",
+  "run_at_kst": "2026-10-13T20:08:50+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "IMF, 중국 성장률 전망 4.5%로 하향…부동산 침체에 소비·투자 부진 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Od1BnQ1FaRm1EbkhRQXVzZ0ppbUZfeDBsMUMyS21XTlFqb0FCT0VkelRQUHIzUlFEN3BWbkg3aThwdzhyd2ZOd3lvQXpyTlplYU5vaUxBZm95bm1FSldPbTRfVVdUNzBv0gFuQVVfeXFMUHB3b0FjWVkxa0hBd3R5NXloTm1xWEZfVjM0STd1aXRHLW1nODJZLTZ2Y2VlbXBxenotSlVTRDJ6LXBZQ3dndktSS0JrOXFTcWJPc3o3UmJkaWdGTFR3VHNFXzFub2oyX09JbXFqd2c?oc=5",
+      "source": "머니투데이",
+      "date": "Tue, 13 Oct 2026 08:12:49 GMT"
+    },
+    {
+      "title": "IMF, 중국 성장률 전망 4.5%로 하향…부동산 침체에 소비·투자 부진 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3NE1kMGxKUHl2Qk1VNXdMSWxjZE9sRFh4ODh0dk8xTnBUcUlobXlCVmIySzkwV055YzNzY1JwbWVfeF9XcnBGWDEzd2pXcGt2c2dxeDRjU0RaOTN5WXBXVkNlU29xRjR2Zlk4WXFyMy1MellDaFHSAXtBVV95cUxQc0xIdzJ1T0h4YWhPc2phZlZlSm42bjFvRzk2bGVZSXo5N1NrR3c2Zkg1ZnFXUWc4bE9XU3VuODl4N05xYlVTRk9OcHlab0VBdUFwREctYUd4Y0ZJVS1yVmpXZkR0QWJxT0NvMDBWdnJMS3NRcnRNZXc2TWM?oc=5",
+      "source": "머니투데이",
+      "date": "Tue, 13 Oct 2026 08:12:49 GMT"
+    },
+    {
+      "title": "IMF, 올해 中성장률 4.5%로 하향…中외교부 \"경제발전 자신\"",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxMFpVcWxUb3RBcFoxUlNyUmFtQU4wX3p5WUdVSHljWjdVbUxncU0wYWtENTNyQ2VoaFpCS3dBMXpKQkJPdkctUVktWVRBWm9LMTFfNl9wQTFYWG5qblE?oc=5",
+      "source": "뉴스1",
+      "date": "Tue, 13 Oct 2026 08:11:05 GMT"
+    },
+    {
+      "title": "[中 증시 마감] 한국 증시 급락에 동반 약세...동계스포츠 섹터 강세",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZbGhQRDRWemhxNEI4S3dCcHhqQ3FlYUVQNHhmYktDSThYWDVLS2tDbEhmR1Y1MWRNZ3lsZnVzZE5lTzhYR05VVDN4SnpmRkdHMmd3MDVPNUxGd9IBWEFVX3lxTE1kaWlwUEFkRk5oRTZKRUpqRkZrSmdhMm5WTDdlMHRrM2tSbEdDU1NkUE5pZEpuM25BWHh2bnN2MC1FQWphMTJvaGFfdmZhdTVqMDYwSGpDNXk?oc=5",
+      "source": "아주경제",
+      "date": "Tue, 13 Oct 2026 07:05:47 GMT"
+    },
+    {
+      "title": "IMF, 올해 中성장률 전망 4.5%로 하향…내수침체 등 배경 지목",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLcW4yUksxbUszV2NWMFJ5ZFVNb2dtWXl2VGRtWlViZmgtcHViSURjUXhXUU9JREFjLVlJWE9hOWl4QXNTSlZwcUNMVGxYclFHamc?oc=5",
+      "source": "매일경제 마켓",
+      "date": "Tue, 13 Oct 2026 05:58:29 GMT"
+    },
+    {
+      "title": "고소득 국가 진입 中, 마냥 웃지 못해 고민",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvcEIwYTR5ZkhnQ2xxaF9NSHB4c1gtWlNnQjNEMHdVMEF4T09mUlU0RjR4RTQzdTZfU3h6S01qc2gxSjdSczkwc0tIdXlhNjItTTNoSVdBeWR1b05tTllkdktaSEZKdnRaN3RqTERn?oc=5",
+      "source": "아시아투데이",
+      "date": "Tue, 13 Oct 2026 05:56:01 GMT"
+    },
     {
       "title": "수출 호조에도 내수 부진 IMF, 중국 올해 성장률 전망 4.5%로 낮춰",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HMXZ2WWlDckNGbXZJZzBZdkJRRnQxVTczT0VLamxYb2E4cWJUMC1iei14V2k0c2hfbDhHd05nRTc0SXoxX2U4VWpPLTFhMDlKYWdSMjNKMFpzQdIBWEFVX3lxTE9MVUJnZ1hOV3FhMF9rN0JLcmJEM3JpNV9GVVRWOFpyLVBVc0RWdHhrWnkzQnE2TFpqMHJWSnIxTXZCS014ZG9hREFFNng4T1ozaV9mMkpkRm0?oc=5",
@@ -12,22 +48,10 @@
       "date": "Tue, 13 Oct 2026 05:02:25 GMT"
     },
     {
-      "title": "신용한 지사, 중국 선전서 ‘충북 투자 세일즈’ 나서",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mM1l3Z0NZZ2o3ZlZ2TndpTU9qTlE3WWZWdW1WdWh4cC03c290V1hsVEFFN3NnNTlfVW9PbjVHRGZsSV9SSXpOdmN5R0xMaDlLeHRldkI3M3dnVldyRFdXejJhYjRJV01zYWJFbTI1Y3A?oc=5",
-      "source": "모빅경제",
-      "date": "Tue, 13 Oct 2026 04:49:27 GMT"
-    },
-    {
-      "title": "시진핑의 초강대국 야망이 부른 부채 악순환…中경제 질식 위험",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vaW94LXFwbENHLUpQVXMxNUlHNHA3NWgyWTlCdE5vUlZTRnhfaTNfczdrWEE5VjQ0WFVSRS1FSXlNb2xxWHhvQzdCbHVsVUVXcEw4MEx4STJlUVpjakE?oc=5",
-      "source": "뉴스1",
-      "date": "Tue, 13 Oct 2026 02:29:42 GMT"
-    },
-    {
-      "title": "철도 연결성을 증진하고 베트남-중국 경제 협력을 확대합니다.",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNU9jdlItUTdSVDNXRU5mR2dkQnd3UnNHU3R0OWNacHpoNEc1Rzh6cUlqMzZHS2xaSDg2OHhiZmE2N0J0SGFYTmt4ZzB0cXZjRXNxaEZPV1N5NmJmTS1NcmE3cjVrWDgyZUM3QW1waGlTay1nc1gwZUdDb0Q1cmRnY2VVLU56cF9YbzV3OWVRbjg?oc=5",
+      "title": "중국 경제 회복력의 초석.",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5Z2lrWlV2TUhRaG5YcU04SVAycE1CV05tWDIzVXc1TDJVTDNBU3JMaFRZRERPR1lza1BqcHJlT1h2S3lrQmh4TzctTnY4QkFkM3N0NE9CYlZLUGo4WlRBQUpnZUxwNS1NZ2JocUpqUFhuLVlPbl9BVQ?oc=5",
       "source": "Vietnam.vn",
-      "date": "Tue, 13 Oct 2026 02:03:04 GMT"
+      "date": "Tue, 13 Oct 2026 04:52:14 GMT"
     },
     {
       "title": "퇴임한 애플 CEO 중국 경제 수장(허리펑)과 회동…협력 심화 강조",
@@ -36,28 +60,10 @@
       "date": "Tue, 13 Oct 2026 01:05:13 GMT"
     },
     {
-      "title": "中 허리펑, 애플 팀 쿡 접견…\"대중국 협력 확대 환영\"",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91Nm5pTHdzY3lsWTFPZFZYeWdaYjAzamp6TmRjdkdpaTNwTkpDeVlmdER4aE04LWppdGZSR2hCN053b24yazBna2JMRGdnbnh6TFl6ZHdFTk42azRHVFB0OXcyQkwtNjJuRlR6MXNkQTY4cThWNk5CZdIBeEFVX3lxTE91Nm5pTHdzY3lsWTFPZFZYeWdaYjAzamp6TmRjdkdpaTNwTkpDeVlmdER4aE04LWppdGZSR2hCN053b24yazBna2JMRGdnbnh6TFl6ZHdFTk42azRHVFB0OXcyQkwtNjJuRlR6MXNkQTY4cThWNk5CZQ?oc=5",
-      "source": "뉴시스",
-      "date": "Tue, 13 Oct 2026 00:58:25 GMT"
-    },
-    {
       "title": "중국 경제수장 허리펑, ‘퇴임’ 팀쿡과 회동…협력 심화 강조",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2LVpZX0wzRG1oLWR3c2VlNmxxNmFNTkxWd0VuQzdFazdzLTVGS3ROdTkwSzU3WkNvZGV5ZVEyd2JBN192Qk9PY0Z0Q3dYZTZWZEIydjlvV3J6X2M?oc=5",
       "source": "KBS 뉴스",
       "date": "Tue, 13 Oct 2026 00:50:00 GMT"
-    },
-    {
-      "title": "세계 2위 경제대국 중국, 왜 선진국 지위는 거부하나",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zTHhOT3JwMTc1Ym14QUZEOFBHYk55dTBscW5rN2J0ZU5NWW4zbVJNZ2xMQ1Z0aktINmg2TGtQQktBSG82eGJYeklvdEI4dEN4NTJPcGprSzZMRkk?oc=5",
-      "source": "인터내셔널포커스",
-      "date": "Mon, 12 Oct 2026 03:55:39 GMT"
-    },
-    {
-      "title": "중국 재정 발목 잡은 빚 이자…내수 부양책도 한계",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80Wl8wN0FuWXVSRUprUHd4SGdHR3M3SWhHQ0pHZ1hmQlBvUlQxNjdDRXZ1dXplamp4VmtkNjQ3ZE0xeE1COUQtNXphM0djdjYzOVRTTXd2N0Vzdw?oc=5",
-      "source": "한국경제",
-      "date": "Sun, 11 Oct 2026 23:29:44 GMT"
     },
     {
       "title": "중국 소비 부진 속 황금연휴 효과 기대…5중전회에 쏠리는 눈",
@@ -70,12 +76,6 @@
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fRWR5TjRMdVBmXzIwYmh4S3FZN1Q3QWlnTWI2T0RhREtCanNEQXRUa2Y4eGduRHRyVnF5OGMwUXhXZ0QxNE40ZDFHaDd4MFhFNzc4?oc=5",
       "source": "Nate News",
       "date": "Sat, 10 Oct 2026 10:01:00 GMT"
-    },
-    {
-      "title": "범죄자들이 중국 경제를 선호하는 이유 [PADO] - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pb0hucXkybGpMc2k4aU9yMF92Qkhfd18zRXlHWk9ESkg4dHBmUm9JUjRWSFk2NXlkVGo4RUdyRGtMQ0lNNUtQaVFLRXJwa2FyakJLaXhIYUVOd0FPbGlZeXpWcUNIX3FKM0g3aEJR0gFuQVVfeXFMTWlvSG5xeTJsakxzaThpT3IwX3ZCSF93XzNFeUdaT0RKSDh0cGZSb0lSNFZIWTY1eWRUajhFR3JEa0xDSU01S1BpUUtFcnBrYXJqQktpeEhhRU53QU9saVl5elZxQ0hfcUozSDdoQlE?oc=5",
-      "source": "머니투데이",
-      "date": "Fri, 09 Oct 2026 21:00:00 GMT"
     }
   ]
 }

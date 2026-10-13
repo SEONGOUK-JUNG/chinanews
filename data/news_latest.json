@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-13T10:10:06+09:00",
+  "run_at_kst": "2026-10-13T20:08:50+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Saudi Arabia Shoots Down Houthi Missiles as Regional Conflict Escalates",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Shoots-Down-Houthi-Missiles-as-Regional-Conflict-Escalates.html",
+      "source": "OilPrice",
+      "date": "Tue, 13 Oct 2026 05:30:00 -0500"
+    },
+    {
+      "title": "Saudi Arabia Plans Massive Expansion of Oil Pipeline to Bypass Hormuz",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Plans-Massive-Expansion-of-Oil-Pipeline-to-Bypass-Hormuz.html",
+      "source": "OilPrice",
+      "date": "Tue, 13 Oct 2026 04:20:00 -0500"
+    },
+    {
+      "title": "IMF Warns Middle East War Could Derail Global Economic Growth",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/IMF-Warns-Middle-East-War-Could-Derail-Global-Economic-Growth.html",
+      "source": "OilPrice",
+      "date": "Tue, 13 Oct 2026 03:15:00 -0500"
+    },
+    {
+      "title": "Shell Slams Australia's Plan to Force LNG Producers to Supply Domestic Market",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Shell-Slams-Australias-Plan-to-Force-LNG-Producers-to-Supply-Domestic-Market.html",
+      "source": "OilPrice",
+      "date": "Tue, 13 Oct 2026 02:00:00 -0500"
+    },
+    {
+      "title": "Oil Prices Retreat as Saudi Arabia Pledges to Keep Exports Flowing",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Retreat-as-Saudi-Arabia-Pledges-to-Keep-Exports-Flowing.html",
+      "source": "OilPrice",
+      "date": "Tue, 13 Oct 2026 00:38:59 -0500"
+    },
     {
       "title": "This Ultra-Rare Gas Could Become An Ace In Canada’s Hands",
       "link": "https://oilprice.com/Energy/Energy-General/This-Ultra-Rare-Gas-Could-Become-An-Ace-In-Canadas-Hands.html",
@@ -32,40 +62,10 @@
       "date": "Mon, 12 Oct 2026 17:00:00 -0500"
     },
     {
-      "title": "Heat Pumps Are Coming for Coal’s Industrial Heat Market",
-      "link": "https://oilprice.com/Energy/Energy-General/Heat-Pumps-Are-Coming-for-Coals-Industrial-Heat-Market.html",
-      "source": "OilPrice",
-      "date": "Mon, 12 Oct 2026 16:00:00 -0500"
-    },
-    {
-      "title": "China's Auto Exports Explode as Domestic Demand Craters",
-      "link": "https://oilprice.com/Energy/Energy-General/Chinas-Auto-Exports-Explode-as-Domestic-Demand-Craters.html",
-      "source": "OilPrice",
-      "date": "Mon, 12 Oct 2026 15:00:00 -0500"
-    },
-    {
-      "title": "$4,000 Gold Could Be Wall Street's Next Big Buying Opportunity",
-      "link": "https://oilprice.com/Metals/Gold/4000-Gold-Could-Be-Wall-Streets-Next-Big-Buying-Opportunity.html",
-      "source": "OilPrice",
-      "date": "Mon, 12 Oct 2026 14:00:00 -0500"
-    },
-    {
-      "title": "Trump's Grid Security Order Could Backfire on America's AI Boom",
-      "link": "https://oilprice.com/Energy/Energy-General/Trumps-Grid-Security-Order-Could-Backfire-on-Americas-AI-Boom.html",
-      "source": "OilPrice",
-      "date": "Mon, 12 Oct 2026 13:00:00 -0500"
-    },
-    {
       "title": "EnergyX inks 10-year, $2B lithium offtake deal with Trafigura",
       "link": "https://www.mining.com/energyx-inks-10-year-2b-lithium-offtake-deal-with-trafigura/",
       "source": "mining.com",
       "date": "Mon, 12 Oct 2026 17:40:02 +0000"
-    },
-    {
-      "title": "Black Sea Oil Shipping Insurance Costs Surge to $2.5 Million",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Black-Sea-Oil-Shipping-Insurance-Costs-Surge-to-25-Million.html",
-      "source": "OilPrice",
-      "date": "Mon, 12 Oct 2026 12:30:00 -0500"
     },
     {
       "title": "Women hold just 12% of top mining jobs in Australia: report",
