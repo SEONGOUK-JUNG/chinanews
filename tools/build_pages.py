@@ -649,6 +649,9 @@ def build_items(cm, i18n, chart_map, charts_dir, usd_cny=None):
 # ----------------------------------------------------------------------------
 # commodity page
 # ----------------------------------------------------------------------------
+NOINDEX_SLUGS = set()   # main() 이 index_policy 로 채운다
+
+
 def render_commodity(lang, it, items_by_sector, ref_date, n_items):
     t = T[lang]
     name = it.name(lang)
@@ -671,7 +674,10 @@ def render_commodity(lang, it, items_by_sector, ref_date, n_items):
         ORG_LD,
     ]}
 
-    out = [head(lang, title, desc, path, alt, ld), "<body>\n", topbar(lang, alt), '<div class="wrap">\n',
+    hd = head(lang, title, desc, path, alt, ld)
+    if it.slug in NOINDEX_SLUGS:   # tools/index_policy.py — 얇은 품목 페이지는 검색 색인에서 뺀다(페이지·링크는 유지)
+        hd = hd.replace('<meta name="viewport"', '<meta name="robots" content="noindex,follow">\n<meta name="viewport"', 1)
+    out = [hd, "<body>\n", topbar(lang, alt), '<div class="wrap">\n',
            crumbs(lang, [(t["az"], ("/ko" if lang == "ko" else "") + "/commodities/"), (sector, idx_href), (name, None)])]
     out.append("<h1>{}</h1>\n".format(esc(t["h1_cm"].format(name=name))))
     sub = t["asof"].format(date=ref_date)
@@ -1549,14 +1555,26 @@ def main():
     written = 0
     entries = []
 
-    # commodity pages
+    # commodity pages — 색인 정책(tools/index_policy.py): 유지 품목만 사이트맵에, 나머지는 noindex
+    try:
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+        import index_policy, supply_content as _SC
+        for it in items:
+            if not index_policy.indexable(it, getattr(_SC, "COMMODITY_TO_SUPPLY", {})):
+                NOINDEX_SLUGS.add(it.slug)
+    except Exception as e:
+        print("build_pages: index_policy skipped (all indexable):", e, file=sys.stderr)
+    n_idx = 0
     for it in items:
         for lang in ("en", "ko"):
             path = os.path.join(root, it.href(lang).lstrip("/"))
             if write_if_changed(path, render_commodity(lang, it, by_sector, ref_date, n)):
                 written += 1
-        entries.append((it.href("en"), ref_date, "daily", "0.7", (it.href("en"), it.href("ko"))))
-        entries.append((it.href("ko"), ref_date, "daily", "0.7", (it.href("en"), it.href("ko"))))
+        if it.slug not in NOINDEX_SLUGS:
+            n_idx += 1
+            entries.append((it.href("en"), ref_date, "daily", "0.7", (it.href("en"), it.href("ko"))))
+            entries.append((it.href("ko"), ref_date, "daily", "0.7", (it.href("en"), it.href("ko"))))
+    print("build_pages: indexable commodities {}/{}".format(n_idx, len(items)))
 
     # commodity index
     for lang in ("en", "ko"):
