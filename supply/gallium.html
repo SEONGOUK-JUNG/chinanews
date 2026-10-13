@@ -84,6 +84,18 @@ button.cta{background:var(--orange);color:#000;border:1px solid var(--orange);cu
 .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px;margin-top:10px}
 .card{background:var(--panel);border:1px solid var(--line-2);border-radius:4px;padding:14px 16px}.card h3{margin:0 0 6px;font-size:15px}.card p{margin:0;font-size:12.5px;color:var(--muted)}.card a.more{display:inline-block;margin-top:8px;font-size:12.5px;font-weight:700}
 .rfqcta{background:var(--bg-2);border:1px solid var(--orange);border-radius:4px;padding:12px 14px;margin:16px 0;font-size:13.5px}
+
+td.lk{color:var(--dim);font-size:12px;letter-spacing:.3px}td.lk:before{content:"\1F512  "}
+.membox{background:var(--panel);border:1px solid var(--orange);border-radius:4px;padding:16px 18px;margin:18px 0}
+.membox h2{margin:0 0 6px;border:none;font-size:16px}.membox p{margin:0 0 12px;color:var(--muted);font-size:13px}
+.memplans{display:grid;grid-template-columns:1fr 1fr;gap:12px}.memplan{border:1px solid var(--line-2);border-radius:4px;padding:10px 12px}
+.memplan b{display:block;margin-bottom:8px;color:var(--bright)}
+.memcode{display:flex;gap:8px;margin-top:12px;flex-wrap:wrap;align-items:center}.memcode span{font-size:12.5px;color:var(--muted)}
+.memcode input{flex:1;min-width:220px;background:var(--bg-2);border:1px solid var(--line-2);color:var(--text);padding:8px 10px;font:inherit;font-size:13px;letter-spacing:.5px;text-transform:uppercase}
+.memcode button{background:var(--orange);color:#000;border:1px solid var(--orange);font-family:inherit;padding:8px 14px;cursor:pointer}
+.memmsg{font-size:12.5px;margin-top:8px;color:var(--orange)}.memon .memplans,.memon .memcode{display:none}
+.memcodebig{font-family:monospace;font-size:20px;letter-spacing:2px;padding:10px;border:1px dashed var(--orange);margin:10px 0;text-align:center;user-select:all}
+@media(max-width:640px){.memplans{grid-template-columns:1fr}}
 </style>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "60582f662b3c4e8a821e4dec6018e061"}'></script>
 <script data-goatcounter="https://chinanews-kr.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
@@ -110,7 +122,51 @@ button.cta{background:var(--orange);color:#000;border:1px solid var(--orange);cu
 <p class="lead">China produces the large majority of the world&#x27;s primary gallium as a by-product of alumina refining. We supply gallium metal from 4N (99.99%) industrial grade to 7N (99.99999%) semiconductor grade, plus gallium oxide, gallium trichloride and GaAs/GaN feedstock, from licensed Chinese producers to compound-semiconductor, LED, power-device and research buyers.</p>
 <p class="lead">Gallium exports from China require an export licence; we handle the application with the producer and quote lead times that include licence processing.</p>
 <div class="ctabar"><a class="cta" href="#rfq">Request a quote</a><span class="note">BRIDGE GROUP (ABridge Co., Ltd. · Ecobridge). Licensed trading company; state-trading rice quota holder under Korea&#x27;s aT; supply contracts signed for SiC focus-ring CVD furnace systems with a Chinese semiconductor equipment maker (June 2026).</span></div>
-<div class="tblwrap"><table><thead><tr><th>Product</th><th>Specification</th><th>Purity</th><th>Main uses</th></tr></thead><tbody><tr><td><b>Gallium metal 7N</b></td><td>99.99999% · GDMS cert · PE bottle</td><td>7N</td><td>GaN/GaAs MOCVD &amp; MBE sources, LED/laser epitaxy, RF/power devices</td></tr><tr><td><b>Gallium metal 6N</b></td><td>99.9999% · ICP/GDMS cert</td><td>6N</td><td>Compound-semiconductor crystal growth, CIGS solar</td></tr><tr><td><b>Gallium metal 4N</b></td><td>99.99% · industrial</td><td>4N</td><td>Alloys (Galinstan), NdFeB magnet additive, catalysts, research</td></tr><tr><td><b>Gallium oxide (Ga₂O₃)</b></td><td>β-Ga₂O₃ powder 4N–5N</td><td>99.99–99.999%</td><td>Ga₂O₃ ultra-wide-bandgap substrates, phosphors, catalysts</td></tr><tr><td><b>Gallium trichloride (GaCl₃) · Gallium nitrate</b></td><td>Anhydrous GaCl₃ 4N · Ga(NO₃)₃ solution</td><td>99.99%</td><td>HVPE GaN, precursors, radiopharma (Ga-68 generator feed)</td></tr><tr><td><b>GaAs / GaN polycrystalline feedstock</b></td><td>Poly GaAs 6N · GaN powder</td><td>6N</td><td>Single-crystal growth, substrates</td></tr></tbody></table></div>
+<div class="tblwrap"><table class="memtbl" data-slug="gallium"><thead><tr><th>Product</th><th>Specification</th><th>Purity</th><th>Main uses</th></tr></thead><tbody><tr><td><b>Gallium metal 7N</b></td><td class="lk">Members</td><td class="lk">Members</td><td class="lk">Members</td></tr><tr><td><b>Gallium metal 6N</b></td><td class="lk">Members</td><td class="lk">Members</td><td class="lk">Members</td></tr><tr><td><b>Gallium metal 4N</b></td><td class="lk">Members</td><td class="lk">Members</td><td class="lk">Members</td></tr><tr><td><b>Gallium oxide (Ga₂O₃)</b></td><td class="lk">Members</td><td class="lk">Members</td><td class="lk">Members</td></tr><tr><td><b>Gallium trichloride (GaCl₃) · Gallium nitrate</b></td><td class="lk">Members</td><td class="lk">Members</td><td class="lk">Members</td></tr><tr><td><b>GaAs / GaN polycrystalline feedstock</b></td><td class="lk">Members</td><td class="lk">Members</td><td class="lk">Members</td></tr></tbody></table></div>
+<div class="membox" id="membox"><h2>Full specifications &amp; daily prices — members only</h2><p>Product names are public. Grades, forms, purity, applications and the related China spot prices (updated daily) are for members.</p><div class="memplans"><div class="memplan"><b>30 days · US$990</b><div id="mempp-M"></div></div><div class="memplan"><b>1 year · US$9,000</b><div id="mempp-Y"></div></div></div><div class="memcode"><span>Already a member?</span><input id="memin" placeholder="Access code CNX-XXXX-XXXX-XXXX" autocomplete="off" spellcheck="false" maxlength="18"><button type="button" id="memgo">Unlock</button></div><div class="memmsg" id="memmsg"></div><div id="mempaid" hidden></div></div>
+<script>(function(){
+var API='https://chinanews-members.koreagwangju.workers.dev',SLUG='gallium',LANG='en',KEYS=[],T={"cell": "Members", "title": "Full specifications & daily prices — members only", "lead": "Product names are public. Grades, forms, purity, applications and the related China spot prices (updated daily) are for members.", "M": "30 days · US$990", "Y": "1 year · US$9,000", "have": "Already a member?", "ph": "Access code CNX-XXXX-XXXX-XXXX", "go": "Unlock", "active": "Member access active until {d}.", "bad": "Code not found — please check it.", "exp": "This access expired on {d}. Renew below.", "dev": "This code is already used on 3 devices. Email ceo@abridge.co.kr to reset.", "net": "Could not reach the server. Please try again.", "paid_t": "Payment complete — your access code", "paid_n": "Keep this code. It works on up to 3 devices until {d}. Lost it? Email ceo@abridge.co.kr with your PayPal receipt.", "fail": "The payment did not go through. Please try again.", "close": "Close", "asof": "Prices as of {d} · China domestic spot"};
+var box=document.getElementById('membox'),msg=document.getElementById('memmsg'),inp=document.getElementById('memin');
+function ls(k,v){try{if(v===undefined)return localStorage.getItem(k);if(v===null)localStorage.removeItem(k);else localStorage.setItem(k,v);}catch(e){return null;}}
+var dev=ls('cnx_dev');if(!dev){dev=Math.random().toString(36).slice(2)+Date.now().toString(36);ls('cnx_dev',dev);}
+function say(s){msg.textContent=s||'';}
+function fill(d){
+  var rows=document.querySelectorAll('table.memtbl tbody tr');
+  (d.rows||[]).forEach(function(r,i){var tr=rows[i];if(!tr)return;var td=tr.querySelectorAll('td.lk');r.forEach(function(v,j){if(td[j]){td[j].textContent=v;td[j].classList.remove('lk');}});});
+  document.querySelectorAll('table.memprice tbody tr[data-k]').forEach(function(tr){var p=(d.prices||{})[tr.getAttribute('data-k')],td=tr.querySelectorAll('td.num');if(!p||td.length<2)return;
+    td[0].textContent=Number(p.last).toLocaleString('en-US');td[0].classList.remove('lk');var c=Number(p.chg)||0;td[1].textContent=(c>0?'+':'')+c.toFixed(2)+'%';td[1].classList.remove('lk');td[1].className='num '+(c>0?'up':(c<0?'down':''));});
+  var a=document.getElementById('mem-asof');if(a&&d.ref_date)a.textContent=T.asof.replace('{d}',d.ref_date);
+  box.classList.add('memon');say(T.active.replace('{d}',d.expires));
+}
+function unlock(code,quiet){
+  code=String(code||'').trim().toUpperCase();if(!code)return;
+  fetch(API+'/content',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({code:code,dev:dev,slug:SLUG,lang:LANG,keys:KEYS})})
+  .then(function(r){return r.json().then(function(j){return{s:r.status,j:j};});}).then(function(x){
+    if(x.s===200){ls('cnx_code',code);fill(x.j);return;}
+    if(x.s===410){ls('cnx_code',null);say(T.exp.replace('{d}',x.j.expires||''));return;}
+    if(quiet&&x.s===404){ls('cnx_code',null);return;}
+    say(x.s===409?T.dev:T.bad);
+  }).catch(function(){say(T.net);});
+}
+document.getElementById('memgo').onclick=function(){unlock(inp.value);};
+inp.onkeydown=function(e){if(e.key==='Enter'){e.preventDefault();unlock(inp.value);}};
+var saved=ls('cnx_code');if(saved)unlock(saved,true);
+fetch(API+'/config').then(function(r){return r.json();}).then(function(cfg){
+  if(!cfg.clientId)return;
+  var sc=document.createElement('script');
+  sc.src='https://www.paypal.com/sdk/js?client-id='+encodeURIComponent(cfg.clientId)+'&currency=USD&intent=capture&components=buttons&locale='+(LANG==='ko'?'ko_KR':'en_US');
+  sc.onload=function(){['M','Y'].forEach(function(plan){
+    paypal.Buttons({style:{layout:'vertical',shape:'rect',label:'pay',height:38},
+      createOrder:function(){return fetch(API+'/paypal/create',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({plan:plan})}).then(function(r){return r.json();}).then(function(o){if(!o.id)throw new Error('create');return o.id;});},
+      onApprove:function(d){return fetch(API+'/paypal/capture',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({orderID:d.orderID})}).then(function(r){return r.json();}).then(function(r){
+        if(!r.code)throw new Error(r.error||'capture');ls('cnx_code',r.code);
+        document.getElementById('mempaid').innerHTML='<h2>'+T.paid_t+'</h2><div class="memcodebig">'+r.code+'</div><p>'+T.paid_n.replace('{d}',r.expires)+'</p>';
+        document.getElementById('mempaid').hidden=false;unlock(r.code);});},
+      onError:function(){say(T.fail);}
+    }).render('#mempp-'+plan);});};
+  document.head.appendChild(sc);
+}).catch(function(){});
+})();</script>
 <h2 class="">Frequently asked questions</h2>
 <dl class="faq"><dt>How long does the export licence take?</dt><dd>Typically 30–45 days from complete end-user documentation. Licensed producers hold quotas; small semiconductor-grade lots are usually faster than tonnage industrial lots.</dd><dt>Packaging?</dt><dd>Gallium metal in PE bottles (100 g–1 kg) or PTFE-lined drums; shipped solid (melting point 29.8 °C) with temperature-controlled logistics in summer.</dd><dt>Minimum order?</dt><dd>7N: 1 kg; 6N: 5 kg; 4N: 25 kg. 100 g samples available.</dd></dl>
 <h2 class="">Compliance &amp; quality</h2>

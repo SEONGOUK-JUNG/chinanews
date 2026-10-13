@@ -1229,6 +1229,109 @@ def _live_price_rows(lang, keys, by_ko):
     return rows
 
 
+MEMBERS_API = "https://chinanews-members.koreagwangju.workers.dev"
+M = {
+    "en": {"cell": "Members", "title": "Full specifications & daily prices — members only",
+           "lead": "Product names are public. Grades, forms, purity, applications and the related China spot prices (updated daily) are for members.",
+           "M": "30 days · US$990", "Y": "1 year · US$9,000", "have": "Already a member?", "ph": "Access code CNX-XXXX-XXXX-XXXX", "go": "Unlock",
+           "active": "Member access active until {d}.", "bad": "Code not found — please check it.", "exp": "This access expired on {d}. Renew below.",
+           "dev": "This code is already used on 3 devices. Email ceo@abridge.co.kr to reset.", "net": "Could not reach the server. Please try again.",
+           "paid_t": "Payment complete — your access code", "paid_n": "Keep this code. It works on up to 3 devices until {d}. Lost it? Email ceo@abridge.co.kr with your PayPal receipt.",
+           "fail": "The payment did not go through. Please try again.", "close": "Close", "asof": "Prices as of {d} · China domestic spot"},
+    "ko": {"cell": "회원 전용", "title": "상세 사양·일일 시세 — 회원 전용",
+           "lead": "품목 이름은 공개합니다. 등급·형태·순도·용도와 관련 원자재의 중국 현물가(매일 갱신)는 회원에게만 보여 드립니다.",
+           "M": "30일 · US$990", "Y": "1년 · US$9,000", "have": "이용권이 있으신가요?", "ph": "이용권 코드 CNX-XXXX-XXXX-XXXX", "go": "열기",
+           "active": "{d}까지 회원으로 보고 계십니다.", "bad": "코드를 찾지 못했어요. 다시 확인해 주세요.", "exp": "이용권이 {d}에 끝났습니다. 아래에서 연장하세요.",
+           "dev": "이 코드는 이미 기기 3대에서 쓰고 있어요. ceo@abridge.co.kr 로 초기화를 요청해 주세요.", "net": "서버에 연결하지 못했어요. 잠시 뒤 다시 해 주세요.",
+           "paid_t": "결제 완료 — 이용권 코드", "paid_n": "이 코드를 꼭 적어 두세요. {d}까지 기기 3대에서 쓸 수 있습니다. 잃어버리면 PayPal 영수증과 함께 ceo@abridge.co.kr 로 연락 주세요.",
+           "fail": "결제를 마치지 못했어요. 다시 시도해 주세요.", "close": "닫기", "asof": "{d} 기준 · 중국 현물가"},
+}
+MEMBER_CSS = """
+td.lk{color:var(--dim);font-size:12px;letter-spacing:.3px}td.lk:before{content:"\\1F512  "}
+.membox{background:var(--panel);border:1px solid var(--orange);border-radius:4px;padding:16px 18px;margin:18px 0}
+.membox h2{margin:0 0 6px;border:none;font-size:16px}.membox p{margin:0 0 12px;color:var(--muted);font-size:13px}
+.memplans{display:grid;grid-template-columns:1fr 1fr;gap:12px}.memplan{border:1px solid var(--line-2);border-radius:4px;padding:10px 12px}
+.memplan b{display:block;margin-bottom:8px;color:var(--bright)}
+.memcode{display:flex;gap:8px;margin-top:12px;flex-wrap:wrap;align-items:center}.memcode span{font-size:12.5px;color:var(--muted)}
+.memcode input{flex:1;min-width:220px;background:var(--bg-2);border:1px solid var(--line-2);color:var(--text);padding:8px 10px;font:inherit;font-size:13px;letter-spacing:.5px;text-transform:uppercase}
+.memcode button{background:var(--orange);color:#000;border:1px solid var(--orange);font-family:inherit;padding:8px 14px;cursor:pointer}
+.memmsg{font-size:12.5px;margin-top:8px;color:var(--orange)}.memon .memplans,.memon .memcode{display:none}
+.memcodebig{font-family:monospace;font-size:20px;letter-spacing:2px;padding:10px;border:1px dashed var(--orange);margin:10px 0;text-align:center;user-select:all}
+@media(max-width:640px){.memplans{grid-template-columns:1fr}}
+"""
+
+
+def _member_price_rows(lang, keys, by_ko):
+    t = SUP[lang]
+    rows = []
+    for k in keys:
+        it = by_ko.get(k)
+        if not it:
+            continue
+        rows.append('<tr data-k="{}"><td><a href="{}">{}</a>{}</td><td class="num lk">{}</td><td class="num lk"></td><td><a href="{}">{}</a></td></tr>'.format(
+            esc(k), it.href(lang), esc(it.name(lang)), (' <span style="color:var(--dim);font-size:11px">' + esc(it.unit) + "</span>") if it.unit else "",
+            esc(M[lang]["cell"]), it.href(lang), esc(t["see"])))
+    return rows
+
+
+MEMBER_JS = r"""<script>(function(){
+var API='__API__',SLUG='__SLUG__',LANG='__LANG__',KEYS=__KEYS__,T=__T__;
+var box=document.getElementById('membox'),msg=document.getElementById('memmsg'),inp=document.getElementById('memin');
+function ls(k,v){try{if(v===undefined)return localStorage.getItem(k);if(v===null)localStorage.removeItem(k);else localStorage.setItem(k,v);}catch(e){return null;}}
+var dev=ls('cnx_dev');if(!dev){dev=Math.random().toString(36).slice(2)+Date.now().toString(36);ls('cnx_dev',dev);}
+function say(s){msg.textContent=s||'';}
+function fill(d){
+  var rows=document.querySelectorAll('table.memtbl tbody tr');
+  (d.rows||[]).forEach(function(r,i){var tr=rows[i];if(!tr)return;var td=tr.querySelectorAll('td.lk');r.forEach(function(v,j){if(td[j]){td[j].textContent=v;td[j].classList.remove('lk');}});});
+  document.querySelectorAll('table.memprice tbody tr[data-k]').forEach(function(tr){var p=(d.prices||{})[tr.getAttribute('data-k')],td=tr.querySelectorAll('td.num');if(!p||td.length<2)return;
+    td[0].textContent=Number(p.last).toLocaleString('en-US');td[0].classList.remove('lk');var c=Number(p.chg)||0;td[1].textContent=(c>0?'+':'')+c.toFixed(2)+'%';td[1].classList.remove('lk');td[1].className='num '+(c>0?'up':(c<0?'down':''));});
+  var a=document.getElementById('mem-asof');if(a&&d.ref_date)a.textContent=T.asof.replace('{d}',d.ref_date);
+  box.classList.add('memon');say(T.active.replace('{d}',d.expires));
+}
+function unlock(code,quiet){
+  code=String(code||'').trim().toUpperCase();if(!code)return;
+  fetch(API+'/content',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({code:code,dev:dev,slug:SLUG,lang:LANG,keys:KEYS})})
+  .then(function(r){return r.json().then(function(j){return{s:r.status,j:j};});}).then(function(x){
+    if(x.s===200){ls('cnx_code',code);fill(x.j);return;}
+    if(x.s===410){ls('cnx_code',null);say(T.exp.replace('{d}',x.j.expires||''));return;}
+    if(quiet&&x.s===404){ls('cnx_code',null);return;}
+    say(x.s===409?T.dev:T.bad);
+  }).catch(function(){say(T.net);});
+}
+document.getElementById('memgo').onclick=function(){unlock(inp.value);};
+inp.onkeydown=function(e){if(e.key==='Enter'){e.preventDefault();unlock(inp.value);}};
+var saved=ls('cnx_code');if(saved)unlock(saved,true);
+fetch(API+'/config').then(function(r){return r.json();}).then(function(cfg){
+  if(!cfg.clientId)return;
+  var sc=document.createElement('script');
+  sc.src='https://www.paypal.com/sdk/js?client-id='+encodeURIComponent(cfg.clientId)+'&currency=USD&intent=capture&components=buttons&locale='+(LANG==='ko'?'ko_KR':'en_US');
+  sc.onload=function(){['M','Y'].forEach(function(plan){
+    paypal.Buttons({style:{layout:'vertical',shape:'rect',label:'pay',height:38},
+      createOrder:function(){return fetch(API+'/paypal/create',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({plan:plan})}).then(function(r){return r.json();}).then(function(o){if(!o.id)throw new Error('create');return o.id;});},
+      onApprove:function(d){return fetch(API+'/paypal/capture',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({orderID:d.orderID})}).then(function(r){return r.json();}).then(function(r){
+        if(!r.code)throw new Error(r.error||'capture');ls('cnx_code',r.code);
+        document.getElementById('mempaid').innerHTML='<h2>'+T.paid_t+'</h2><div class="memcodebig">'+r.code+'</div><p>'+T.paid_n.replace('{d}',r.expires)+'</p>';
+        document.getElementById('mempaid').hidden=false;unlock(r.code);});},
+      onError:function(){say(T.fail);}
+    }).render('#mempp-'+plan);});};
+  document.head.appendChild(sc);
+}).catch(function(){});
+})();</script>
+"""
+
+
+def member_box(lang, slug, keys):
+    m = M[lang]
+    js = (MEMBER_JS.replace("__API__", MEMBERS_API).replace("__SLUG__", slug).replace("__LANG__", lang)
+          .replace("__KEYS__", json.dumps(keys, ensure_ascii=False)).replace("__T__", json.dumps(m, ensure_ascii=False)))
+    return ('<div class="membox" id="membox"><h2>{t}</h2><p>{l}</p>'
+            '<div class="memplans"><div class="memplan"><b>{mm}</b><div id="mempp-M"></div></div>'
+            '<div class="memplan"><b>{yy}</b><div id="mempp-Y"></div></div></div>'
+            '<div class="memcode"><span>{h}</span><input id="memin" placeholder="{ph}" autocomplete="off" spellcheck="false" maxlength="18"><button type="button" id="memgo">{go}</button></div>'
+            '<div class="memmsg" id="memmsg"></div><div id="mempaid" hidden></div></div>\n').format(
+        t=esc(m["title"]), l=esc(m["lead"]), mm=esc(m["M"]), yy=esc(m["Y"]), h=esc(m["have"]), ph=esc(m["ph"]), go=esc(m["go"])) + js
+
+
 def render_supply(lang, page, pages, by_ko, ref_date, n_items, key):
     import supply_content as SC
     t = SUP[lang]
@@ -1241,7 +1344,7 @@ def render_supply(lang, page, pages, by_ko, ref_date, n_items, key):
         {"@type": "WebPage", "@id": SITE + path, "url": SITE + path, "name": c["title"], "description": c["desc"], "inLanguage": lang,
          "dateModified": ref_date, "isPartOf": {"@id": SITE + "/#website"}, "publisher": {"@id": SITE + "/#org"}, "about": {"@type": "Thing", "name": c["h1"]}},
         breadcrumb_ld(lang, [(t["crumb"], supply_href(lang)), (c["h1"], None)]), faq_ld, ORG_LD]}
-    out = [head(lang, c["title"], c["desc"], path, alt, ld).replace("</style>", SUPPLY_CSS + "</style>"), "<body>\n", topbar(lang, alt), '<div class="wrap">\n',
+    out = [head(lang, c["title"], c["desc"], path, alt, ld).replace("</style>", SUPPLY_CSS + MEMBER_CSS + "</style>"), "<body>\n", topbar(lang, alt), '<div class="wrap">\n',
            crumbs(lang, [(t["crumb"], supply_href(lang)), (c["h1"], None)])]
     out.append('<div class="kicker">{}</div><h1>{}</h1>\n'.format(esc(c["kicker"]), esc(c["h1"])))
     for para in c["intro"]:
@@ -1250,24 +1353,26 @@ def render_supply(lang, page, pages, by_ko, ref_date, n_items, key):
         out.append('<div class="pnotice">{}</div>\n'.format(c["notice"]))
     out.append('<div class="ctabar"><a class="cta" href="#rfq">{}</a><span class="note">{}</span></div>\n'.format(esc(t["rfq"]), esc(SC.COMPANY[lang])))
 
-    # product table
+    # product table — 품목 이름만 공개. 사양·순도·용도는 회원 전용(이용권, chinanews-members 워커가 내려 줌)
     th = c["table_head"]
-    out.append('<div class="tblwrap"><table><thead><tr>{}</tr></thead><tbody>'.format("".join("<th>{}</th>".format(esc(h)) for h in th)))
+    out.append('<div class="tblwrap"><table class="memtbl" data-slug="{}"><thead><tr>{}</tr></thead><tbody>'.format(
+        esc(slug), "".join("<th>{}</th>".format(esc(h)) for h in th)))
     live_keys = []
+    lock = '<td class="lk">{}</td>'.format(esc(M[lang]["cell"]))
     for r in page["rows"]:
         name = r[0] if lang == "en" else r[1]
-        forms = r[2] if lang == "en" else r[3]
-        uses = r[5] if lang == "en" else r[6]
-        out.append("<tr><td><b>{}</b></td><td>{}</td><td>{}</td><td>{}</td></tr>".format(esc(name), esc(forms), esc(r[4]), esc(uses)))
+        out.append("<tr><td><b>{}</b></td>{}</tr>".format(esc(name), lock * 3))
         live_keys.extend(r[7])
     out.append("</tbody></table></div>\n")
 
-    prices = _live_price_rows(lang, live_keys, by_ko)
+    # 관련 원자재 시세도 회원 전용: 이름·단위·차트 링크만 두고 숫자 칸은 회원에게 채워 준다
+    prices = _member_price_rows(lang, live_keys, by_ko)
     if prices:
         out.append(h2(lang, t["live"]))
-        out.append('<div class="tblwrap"><table><thead><tr>{}</tr></thead><tbody>{}</tbody></table></div>\n'.format(
+        out.append('<div class="tblwrap"><table class="memprice"><thead><tr>{}</tr></thead><tbody>{}</tbody></table></div>\n'.format(
             "".join('<th{}>{}</th>'.format(' class="num"' if i in (1, 2) else "", esc(h)) for i, h in enumerate(t["price_cols"])), "".join(prices)))
-        out.append('<div class="note">{}</div>\n'.format(esc(T[lang]["asof"].format(date=ref_date))))
+        out.append('<div class="note" id="mem-asof"></div>\n')
+    out.append(member_box(lang, slug, live_keys))
 
     out.append(h2(lang, t["faq"]))
     out.append('<dl class="faq">' + "".join("<dt>{}</dt><dd>{}</dd>".format(esc(q), esc(a)) for q, a in c["faq"]) + "</dl>\n")

@@ -84,6 +84,18 @@ button.cta{background:var(--orange);color:#000;border:1px solid var(--orange);cu
 .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px;margin-top:10px}
 .card{background:var(--panel);border:1px solid var(--line-2);border-radius:4px;padding:14px 16px}.card h3{margin:0 0 6px;font-size:15px}.card p{margin:0;font-size:12.5px;color:var(--muted)}.card a.more{display:inline-block;margin-top:8px;font-size:12.5px;font-weight:700}
 .rfqcta{background:var(--bg-2);border:1px solid var(--orange);border-radius:4px;padding:12px 14px;margin:16px 0;font-size:13.5px}
+
+td.lk{color:var(--dim);font-size:12px;letter-spacing:.3px}td.lk:before{content:"\1F512  "}
+.membox{background:var(--panel);border:1px solid var(--orange);border-radius:4px;padding:16px 18px;margin:18px 0}
+.membox h2{margin:0 0 6px;border:none;font-size:16px}.membox p{margin:0 0 12px;color:var(--muted);font-size:13px}
+.memplans{display:grid;grid-template-columns:1fr 1fr;gap:12px}.memplan{border:1px solid var(--line-2);border-radius:4px;padding:10px 12px}
+.memplan b{display:block;margin-bottom:8px;color:var(--bright)}
+.memcode{display:flex;gap:8px;margin-top:12px;flex-wrap:wrap;align-items:center}.memcode span{font-size:12.5px;color:var(--muted)}
+.memcode input{flex:1;min-width:220px;background:var(--bg-2);border:1px solid var(--line-2);color:var(--text);padding:8px 10px;font:inherit;font-size:13px;letter-spacing:.5px;text-transform:uppercase}
+.memcode button{background:var(--orange);color:#000;border:1px solid var(--orange);font-family:inherit;padding:8px 14px;cursor:pointer}
+.memmsg{font-size:12.5px;margin-top:8px;color:var(--orange)}.memon .memplans,.memon .memcode{display:none}
+.memcodebig{font-family:monospace;font-size:20px;letter-spacing:2px;padding:10px;border:1px dashed var(--orange);margin:10px 0;text-align:center;user-select:all}
+@media(max-width:640px){.memplans{grid-template-columns:1fr}}
 </style>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "60582f662b3c4e8a821e4dec6018e061"}'></script>
 <script data-goatcounter="https://chinanews-kr.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
@@ -111,7 +123,51 @@ button.cta{background:var(--orange);color:#000;border:1px solid var(--orange);cu
 <p class="lead">Yttrium oxide is the workhorse material for plasma-resistant coatings inside semiconductor etch and deposition chambers, for yttria-stabilised zirconia (YSZ) ceramics, and for phosphors and YAG laser crystals. We supply 4N and 5N Y₂O₃ from Chinese producers.</p>
 <p class="lead">For semiconductor coating customers we can supply spray-grade granulated Y₂O₃ (spherical, 10–50 µm) and Y₂O₃-based composite powders (YOF, Y-Al) to specification.</p>
 <div class="ctabar"><a class="cta" href="#rfq">Request a quote</a><span class="note">BRIDGE GROUP (ABridge Co., Ltd. · Ecobridge). Licensed trading company; state-trading rice quota holder under Korea&#x27;s aT; supply contracts signed for SiC focus-ring CVD furnace systems with a Chinese semiconductor equipment maker (June 2026).</span></div>
-<div class="tblwrap"><table><thead><tr><th>Product</th><th>Specification</th><th>Purity</th><th>Main uses</th></tr></thead><tbody><tr><td><b>Yttrium metal</b></td><td>Ingot 1–10 kg · sponge · distilled lump · sputtering-target blank</td><td>99.9–99.99% (3N–4N)</td><td>Al–Y / Mg–Y master alloys, Y-based sputtering targets, YIG/YAG crystal feed, research</td></tr><tr><td><b>Yttrium–aluminium / yttrium–magnesium master alloy</b></td><td>Al-10Y · Mg-30Y ingot</td><td>Y content ±0.5%</td><td>Aerospace Al alloys, WE43 magnesium alloys</td></tr><tr><td><b>Y₂O₃ 5N — in stock</b></td><td>99.999% · D50 1–2 / 3–4 / 5–7 µm · powder · HS 2846.90-1000 · from 1,000 kg</td><td>99.999%</td><td>Semiconductor chamber coatings, optical ceramics, single crystals</td></tr><tr><td><b>Y₂O₃ 5N</b></td><td>99.999% · D50 3–8 µm · LOI ≤ 1%</td><td>99.999%</td><td>Semiconductor chamber coatings, optical ceramics, single crystals</td></tr><tr><td><b>Y₂O₃ 4N</b></td><td>99.99% · D50 1–10 µm</td><td>99.99%</td><td>YSZ, phosphors, YAG, glass additive</td></tr><tr><td><b>Y₂O₃ spray granules</b></td><td>Spherical 10–50 µm · flowability ≥ 25 s/50 g</td><td>99.9–99.99%</td><td>Plasma-spray / APS coatings on etch chamber parts</td></tr><tr><td><b>YSZ (8 mol% Y₂O₃)</b></td><td>Powder · 3YSZ / 8YSZ</td><td>99.9%</td><td>SOFC electrolytes, thermal barrier coatings, dental ceramics</td></tr></tbody></table></div>
+<div class="tblwrap"><table class="memtbl" data-slug="yttrium"><thead><tr><th>Product</th><th>Specification</th><th>Purity</th><th>Main uses</th></tr></thead><tbody><tr><td><b>Yttrium metal</b></td><td class="lk">Members</td><td class="lk">Members</td><td class="lk">Members</td></tr><tr><td><b>Yttrium–aluminium / yttrium–magnesium master alloy</b></td><td class="lk">Members</td><td class="lk">Members</td><td class="lk">Members</td></tr><tr><td><b>Y₂O₃ 5N — in stock</b></td><td class="lk">Members</td><td class="lk">Members</td><td class="lk">Members</td></tr><tr><td><b>Y₂O₃ 5N</b></td><td class="lk">Members</td><td class="lk">Members</td><td class="lk">Members</td></tr><tr><td><b>Y₂O₃ 4N</b></td><td class="lk">Members</td><td class="lk">Members</td><td class="lk">Members</td></tr><tr><td><b>Y₂O₃ spray granules</b></td><td class="lk">Members</td><td class="lk">Members</td><td class="lk">Members</td></tr><tr><td><b>YSZ (8 mol% Y₂O₃)</b></td><td class="lk">Members</td><td class="lk">Members</td><td class="lk">Members</td></tr></tbody></table></div>
+<div class="membox" id="membox"><h2>Full specifications &amp; daily prices — members only</h2><p>Product names are public. Grades, forms, purity, applications and the related China spot prices (updated daily) are for members.</p><div class="memplans"><div class="memplan"><b>30 days · US$990</b><div id="mempp-M"></div></div><div class="memplan"><b>1 year · US$9,000</b><div id="mempp-Y"></div></div></div><div class="memcode"><span>Already a member?</span><input id="memin" placeholder="Access code CNX-XXXX-XXXX-XXXX" autocomplete="off" spellcheck="false" maxlength="18"><button type="button" id="memgo">Unlock</button></div><div class="memmsg" id="memmsg"></div><div id="mempaid" hidden></div></div>
+<script>(function(){
+var API='https://chinanews-members.koreagwangju.workers.dev',SLUG='yttrium',LANG='en',KEYS=[],T={"cell": "Members", "title": "Full specifications & daily prices — members only", "lead": "Product names are public. Grades, forms, purity, applications and the related China spot prices (updated daily) are for members.", "M": "30 days · US$990", "Y": "1 year · US$9,000", "have": "Already a member?", "ph": "Access code CNX-XXXX-XXXX-XXXX", "go": "Unlock", "active": "Member access active until {d}.", "bad": "Code not found — please check it.", "exp": "This access expired on {d}. Renew below.", "dev": "This code is already used on 3 devices. Email ceo@abridge.co.kr to reset.", "net": "Could not reach the server. Please try again.", "paid_t": "Payment complete — your access code", "paid_n": "Keep this code. It works on up to 3 devices until {d}. Lost it? Email ceo@abridge.co.kr with your PayPal receipt.", "fail": "The payment did not go through. Please try again.", "close": "Close", "asof": "Prices as of {d} · China domestic spot"};
+var box=document.getElementById('membox'),msg=document.getElementById('memmsg'),inp=document.getElementById('memin');
+function ls(k,v){try{if(v===undefined)return localStorage.getItem(k);if(v===null)localStorage.removeItem(k);else localStorage.setItem(k,v);}catch(e){return null;}}
+var dev=ls('cnx_dev');if(!dev){dev=Math.random().toString(36).slice(2)+Date.now().toString(36);ls('cnx_dev',dev);}
+function say(s){msg.textContent=s||'';}
+function fill(d){
+  var rows=document.querySelectorAll('table.memtbl tbody tr');
+  (d.rows||[]).forEach(function(r,i){var tr=rows[i];if(!tr)return;var td=tr.querySelectorAll('td.lk');r.forEach(function(v,j){if(td[j]){td[j].textContent=v;td[j].classList.remove('lk');}});});
+  document.querySelectorAll('table.memprice tbody tr[data-k]').forEach(function(tr){var p=(d.prices||{})[tr.getAttribute('data-k')],td=tr.querySelectorAll('td.num');if(!p||td.length<2)return;
+    td[0].textContent=Number(p.last).toLocaleString('en-US');td[0].classList.remove('lk');var c=Number(p.chg)||0;td[1].textContent=(c>0?'+':'')+c.toFixed(2)+'%';td[1].classList.remove('lk');td[1].className='num '+(c>0?'up':(c<0?'down':''));});
+  var a=document.getElementById('mem-asof');if(a&&d.ref_date)a.textContent=T.asof.replace('{d}',d.ref_date);
+  box.classList.add('memon');say(T.active.replace('{d}',d.expires));
+}
+function unlock(code,quiet){
+  code=String(code||'').trim().toUpperCase();if(!code)return;
+  fetch(API+'/content',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({code:code,dev:dev,slug:SLUG,lang:LANG,keys:KEYS})})
+  .then(function(r){return r.json().then(function(j){return{s:r.status,j:j};});}).then(function(x){
+    if(x.s===200){ls('cnx_code',code);fill(x.j);return;}
+    if(x.s===410){ls('cnx_code',null);say(T.exp.replace('{d}',x.j.expires||''));return;}
+    if(quiet&&x.s===404){ls('cnx_code',null);return;}
+    say(x.s===409?T.dev:T.bad);
+  }).catch(function(){say(T.net);});
+}
+document.getElementById('memgo').onclick=function(){unlock(inp.value);};
+inp.onkeydown=function(e){if(e.key==='Enter'){e.preventDefault();unlock(inp.value);}};
+var saved=ls('cnx_code');if(saved)unlock(saved,true);
+fetch(API+'/config').then(function(r){return r.json();}).then(function(cfg){
+  if(!cfg.clientId)return;
+  var sc=document.createElement('script');
+  sc.src='https://www.paypal.com/sdk/js?client-id='+encodeURIComponent(cfg.clientId)+'&currency=USD&intent=capture&components=buttons&locale='+(LANG==='ko'?'ko_KR':'en_US');
+  sc.onload=function(){['M','Y'].forEach(function(plan){
+    paypal.Buttons({style:{layout:'vertical',shape:'rect',label:'pay',height:38},
+      createOrder:function(){return fetch(API+'/paypal/create',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({plan:plan})}).then(function(r){return r.json();}).then(function(o){if(!o.id)throw new Error('create');return o.id;});},
+      onApprove:function(d){return fetch(API+'/paypal/capture',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({orderID:d.orderID})}).then(function(r){return r.json();}).then(function(r){
+        if(!r.code)throw new Error(r.error||'capture');ls('cnx_code',r.code);
+        document.getElementById('mempaid').innerHTML='<h2>'+T.paid_t+'</h2><div class="memcodebig">'+r.code+'</div><p>'+T.paid_n.replace('{d}',r.expires)+'</p>';
+        document.getElementById('mempaid').hidden=false;unlock(r.code);});},
+      onError:function(){say(T.fail);}
+    }).render('#mempp-'+plan);});};
+  document.head.appendChild(sc);
+}).catch(function(){});
+})();</script>
 <h2 class="">Frequently asked questions</h2>
 <dl class="faq"><dt>What does 5N mean in practice?</dt><dd>Y₂O₃/TREO ≥ 99.999% with total non-rare-earth impurities typically below 50 ppm. We agree the scope of the certificate when you enquire.</dd><dt>Minimum order?</dt><dd>The confirmed 5N grades (D50 1–2, 3–4, 5–7 µm) ship from 1,000 kg each. Certificates and sample terms are agreed at enquiry.</dd><dt>Lead time and export licence?</dt><dd>Yttrium falls under China&#x27;s dual-use export controls. The licence application can only be filed once a supply contract with the Chinese producer is signed, because the contract number goes on the application. With the contract in place the buyer signs and stamps three documents — the End-User and End-Use Certificate, the End-User&#x27;s Profile and a supply-chain (industrial chain) sheet. We supply the forms and the Korean, English and Chinese translations. Count 45 Chinese business days from filing, plus 2-3 weeks for shipping and customs after approval.</dd><dt>What does the buyer have to prepare?</dt><dd>Three documents, once the supply contract is signed: the End-User and End-Use Certificate (addressed to China’s MOFCOM, carrying the contract number, product name and end use, with the no-diversion, no-transfer and no-WMD undertakings), the End-User’s Profile (incorporation date, capital, total assets, headcount, business scope, main products, annual turnover, management) and a supply-chain sheet (which process the powder enters, what it becomes, the makers and countries at each tier, the volume used and the final sales country). We provide the forms and the Korean, English and Chinese translations; the buyer signs and stamps.</dd><dt>How is it priced?</dt><dd>Quoted per tonne. The number moves with the market and FX, so ask and we quote on the day.</dd><dt>HS code and customs?</dt><dd>Imported under HS 2846.90-1000. We handle the import declaration, duty and domestic delivery, so Korean buyers purchase on domestic terms.</dd><dt>Can you match a customer spec sheet?</dt><dd>Yes — send your particle-size (D10/D50/D90), loss-on-ignition and impurity limits with the RFQ and we will quote against it.</dd></dl>
 <h2 class="">Compliance &amp; quality</h2>

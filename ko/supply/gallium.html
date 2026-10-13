@@ -84,6 +84,18 @@ button.cta{background:var(--orange);color:#000;border:1px solid var(--orange);cu
 .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px;margin-top:10px}
 .card{background:var(--panel);border:1px solid var(--line-2);border-radius:4px;padding:14px 16px}.card h3{margin:0 0 6px;font-size:15px}.card p{margin:0;font-size:12.5px;color:var(--muted)}.card a.more{display:inline-block;margin-top:8px;font-size:12.5px;font-weight:700}
 .rfqcta{background:var(--bg-2);border:1px solid var(--orange);border-radius:4px;padding:12px 14px;margin:16px 0;font-size:13.5px}
+
+td.lk{color:var(--dim);font-size:12px;letter-spacing:.3px}td.lk:before{content:"\1F512  "}
+.membox{background:var(--panel);border:1px solid var(--orange);border-radius:4px;padding:16px 18px;margin:18px 0}
+.membox h2{margin:0 0 6px;border:none;font-size:16px}.membox p{margin:0 0 12px;color:var(--muted);font-size:13px}
+.memplans{display:grid;grid-template-columns:1fr 1fr;gap:12px}.memplan{border:1px solid var(--line-2);border-radius:4px;padding:10px 12px}
+.memplan b{display:block;margin-bottom:8px;color:var(--bright)}
+.memcode{display:flex;gap:8px;margin-top:12px;flex-wrap:wrap;align-items:center}.memcode span{font-size:12.5px;color:var(--muted)}
+.memcode input{flex:1;min-width:220px;background:var(--bg-2);border:1px solid var(--line-2);color:var(--text);padding:8px 10px;font:inherit;font-size:13px;letter-spacing:.5px;text-transform:uppercase}
+.memcode button{background:var(--orange);color:#000;border:1px solid var(--orange);font-family:inherit;padding:8px 14px;cursor:pointer}
+.memmsg{font-size:12.5px;margin-top:8px;color:var(--orange)}.memon .memplans,.memon .memcode{display:none}
+.memcodebig{font-family:monospace;font-size:20px;letter-spacing:2px;padding:10px;border:1px dashed var(--orange);margin:10px 0;text-align:center;user-select:all}
+@media(max-width:640px){.memplans{grid-template-columns:1fr}}
 </style>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "60582f662b3c4e8a821e4dec6018e061"}'></script>
 <script data-goatcounter="https://chinanews-kr.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
@@ -110,7 +122,51 @@ button.cta{background:var(--orange);color:#000;border:1px solid var(--orange);cu
 <p class="lead">중국은 알루미나 정련 부산물로 세계 1차 갈륨의 대부분을 생산합니다. 허가받은 중국 생산자로부터 4N(99.99%) 공업급부터 7N(99.99999%) 반도체급 갈륨 금속과 산화갈륨·염화갈륨·GaAs/GaN 원료를 조달해 화합물반도체·LED·전력소자·연구 수요처에 공급합니다.</p>
 <p class="lead">중국의 갈륨 수출은 허가 대상입니다. 생산자와 함께 허가 신청을 진행하며, 허가 소요 기간을 포함해 납기를 견적합니다.</p>
 <div class="ctabar"><a class="cta" href="#rfq">견적 요청</a><span class="note">BRIDGE GROUP(㈜에이브릿지 · ㈜에코브릿지). aT 쌀 국영무역 자격 보유 무역법인, 2026년 6월 SiC 포커스링 CVD 장비 대중(對中) 공급계약 체결.</span></div>
-<div class="tblwrap"><table><thead><tr><th>제품</th><th>규격</th><th>순도</th><th>주요 용도</th></tr></thead><tbody><tr><td><b>갈륨 금속 7N</b></td><td>99.99999% · GDMS 성적서 · PE 병</td><td>7N</td><td>GaN/GaAs MOCVD·MBE 소스, LED/레이저 에피, RF/전력소자</td></tr><tr><td><b>갈륨 금속 6N</b></td><td>99.9999% · ICP/GDMS 성적서</td><td>6N</td><td>화합물반도체 결정성장, CIGS 태양전지</td></tr><tr><td><b>갈륨 금속 4N</b></td><td>99.99% · 공업급</td><td>4N</td><td>합금(갈린스탄), NdFeB 첨가제, 촉매, 연구용</td></tr><tr><td><b>산화갈륨</b></td><td>β-Ga₂O₃ 분말 4N~5N</td><td>99.99–99.999%</td><td>Ga₂O₃ 초광대역 기판, 형광체, 촉매</td></tr><tr><td><b>염화갈륨 · 질산갈륨</b></td><td>무수 GaCl₃ 4N · 질산갈륨 용액</td><td>99.99%</td><td>HVPE GaN, 전구체, 방사성의약(Ga-68) 원료</td></tr><tr><td><b>GaAs / GaN 다결정 원료</b></td><td>다결정 GaAs 6N · GaN 분말</td><td>6N</td><td>단결정 성장, 기판</td></tr></tbody></table></div>
+<div class="tblwrap"><table class="memtbl" data-slug="gallium"><thead><tr><th>제품</th><th>규격</th><th>순도</th><th>주요 용도</th></tr></thead><tbody><tr><td><b>갈륨 금속 7N</b></td><td class="lk">회원 전용</td><td class="lk">회원 전용</td><td class="lk">회원 전용</td></tr><tr><td><b>갈륨 금속 6N</b></td><td class="lk">회원 전용</td><td class="lk">회원 전용</td><td class="lk">회원 전용</td></tr><tr><td><b>갈륨 금속 4N</b></td><td class="lk">회원 전용</td><td class="lk">회원 전용</td><td class="lk">회원 전용</td></tr><tr><td><b>산화갈륨</b></td><td class="lk">회원 전용</td><td class="lk">회원 전용</td><td class="lk">회원 전용</td></tr><tr><td><b>염화갈륨 · 질산갈륨</b></td><td class="lk">회원 전용</td><td class="lk">회원 전용</td><td class="lk">회원 전용</td></tr><tr><td><b>GaAs / GaN 다결정 원료</b></td><td class="lk">회원 전용</td><td class="lk">회원 전용</td><td class="lk">회원 전용</td></tr></tbody></table></div>
+<div class="membox" id="membox"><h2>상세 사양·일일 시세 — 회원 전용</h2><p>품목 이름은 공개합니다. 등급·형태·순도·용도와 관련 원자재의 중국 현물가(매일 갱신)는 회원에게만 보여 드립니다.</p><div class="memplans"><div class="memplan"><b>30일 · US$990</b><div id="mempp-M"></div></div><div class="memplan"><b>1년 · US$9,000</b><div id="mempp-Y"></div></div></div><div class="memcode"><span>이용권이 있으신가요?</span><input id="memin" placeholder="이용권 코드 CNX-XXXX-XXXX-XXXX" autocomplete="off" spellcheck="false" maxlength="18"><button type="button" id="memgo">열기</button></div><div class="memmsg" id="memmsg"></div><div id="mempaid" hidden></div></div>
+<script>(function(){
+var API='https://chinanews-members.koreagwangju.workers.dev',SLUG='gallium',LANG='ko',KEYS=[],T={"cell": "회원 전용", "title": "상세 사양·일일 시세 — 회원 전용", "lead": "품목 이름은 공개합니다. 등급·형태·순도·용도와 관련 원자재의 중국 현물가(매일 갱신)는 회원에게만 보여 드립니다.", "M": "30일 · US$990", "Y": "1년 · US$9,000", "have": "이용권이 있으신가요?", "ph": "이용권 코드 CNX-XXXX-XXXX-XXXX", "go": "열기", "active": "{d}까지 회원으로 보고 계십니다.", "bad": "코드를 찾지 못했어요. 다시 확인해 주세요.", "exp": "이용권이 {d}에 끝났습니다. 아래에서 연장하세요.", "dev": "이 코드는 이미 기기 3대에서 쓰고 있어요. ceo@abridge.co.kr 로 초기화를 요청해 주세요.", "net": "서버에 연결하지 못했어요. 잠시 뒤 다시 해 주세요.", "paid_t": "결제 완료 — 이용권 코드", "paid_n": "이 코드를 꼭 적어 두세요. {d}까지 기기 3대에서 쓸 수 있습니다. 잃어버리면 PayPal 영수증과 함께 ceo@abridge.co.kr 로 연락 주세요.", "fail": "결제를 마치지 못했어요. 다시 시도해 주세요.", "close": "닫기", "asof": "{d} 기준 · 중국 현물가"};
+var box=document.getElementById('membox'),msg=document.getElementById('memmsg'),inp=document.getElementById('memin');
+function ls(k,v){try{if(v===undefined)return localStorage.getItem(k);if(v===null)localStorage.removeItem(k);else localStorage.setItem(k,v);}catch(e){return null;}}
+var dev=ls('cnx_dev');if(!dev){dev=Math.random().toString(36).slice(2)+Date.now().toString(36);ls('cnx_dev',dev);}
+function say(s){msg.textContent=s||'';}
+function fill(d){
+  var rows=document.querySelectorAll('table.memtbl tbody tr');
+  (d.rows||[]).forEach(function(r,i){var tr=rows[i];if(!tr)return;var td=tr.querySelectorAll('td.lk');r.forEach(function(v,j){if(td[j]){td[j].textContent=v;td[j].classList.remove('lk');}});});
+  document.querySelectorAll('table.memprice tbody tr[data-k]').forEach(function(tr){var p=(d.prices||{})[tr.getAttribute('data-k')],td=tr.querySelectorAll('td.num');if(!p||td.length<2)return;
+    td[0].textContent=Number(p.last).toLocaleString('en-US');td[0].classList.remove('lk');var c=Number(p.chg)||0;td[1].textContent=(c>0?'+':'')+c.toFixed(2)+'%';td[1].classList.remove('lk');td[1].className='num '+(c>0?'up':(c<0?'down':''));});
+  var a=document.getElementById('mem-asof');if(a&&d.ref_date)a.textContent=T.asof.replace('{d}',d.ref_date);
+  box.classList.add('memon');say(T.active.replace('{d}',d.expires));
+}
+function unlock(code,quiet){
+  code=String(code||'').trim().toUpperCase();if(!code)return;
+  fetch(API+'/content',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({code:code,dev:dev,slug:SLUG,lang:LANG,keys:KEYS})})
+  .then(function(r){return r.json().then(function(j){return{s:r.status,j:j};});}).then(function(x){
+    if(x.s===200){ls('cnx_code',code);fill(x.j);return;}
+    if(x.s===410){ls('cnx_code',null);say(T.exp.replace('{d}',x.j.expires||''));return;}
+    if(quiet&&x.s===404){ls('cnx_code',null);return;}
+    say(x.s===409?T.dev:T.bad);
+  }).catch(function(){say(T.net);});
+}
+document.getElementById('memgo').onclick=function(){unlock(inp.value);};
+inp.onkeydown=function(e){if(e.key==='Enter'){e.preventDefault();unlock(inp.value);}};
+var saved=ls('cnx_code');if(saved)unlock(saved,true);
+fetch(API+'/config').then(function(r){return r.json();}).then(function(cfg){
+  if(!cfg.clientId)return;
+  var sc=document.createElement('script');
+  sc.src='https://www.paypal.com/sdk/js?client-id='+encodeURIComponent(cfg.clientId)+'&currency=USD&intent=capture&components=buttons&locale='+(LANG==='ko'?'ko_KR':'en_US');
+  sc.onload=function(){['M','Y'].forEach(function(plan){
+    paypal.Buttons({style:{layout:'vertical',shape:'rect',label:'pay',height:38},
+      createOrder:function(){return fetch(API+'/paypal/create',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({plan:plan})}).then(function(r){return r.json();}).then(function(o){if(!o.id)throw new Error('create');return o.id;});},
+      onApprove:function(d){return fetch(API+'/paypal/capture',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({orderID:d.orderID})}).then(function(r){return r.json();}).then(function(r){
+        if(!r.code)throw new Error(r.error||'capture');ls('cnx_code',r.code);
+        document.getElementById('mempaid').innerHTML='<h2>'+T.paid_t+'</h2><div class="memcodebig">'+r.code+'</div><p>'+T.paid_n.replace('{d}',r.expires)+'</p>';
+        document.getElementById('mempaid').hidden=false;unlock(r.code);});},
+      onError:function(){say(T.fail);}
+    }).render('#mempp-'+plan);});};
+  document.head.appendChild(sc);
+}).catch(function(){});
+})();</script>
 <h2 class="ko">자주 묻는 질문</h2>
 <dl class="faq"><dt>수출허가는 얼마나 걸리나요?</dt><dd>최종사용자 서류가 갖춰진 뒤 보통 30~45일입니다. 허가 생산자는 쿼터를 보유하며, 소량 반도체급이 톤 단위 공업급보다 빠릅니다.</dd><dt>포장은요?</dt><dd>PE 병(100g~1kg) 또는 PTFE 라이닝 드럼. 고체 상태(융점 29.8℃)로 출하하며 여름철은 온도관리 물류를 씁니다.</dd><dt>최소 주문량은요?</dt><dd>7N 1kg, 6N 5kg, 4N 25kg부터. 100g 샘플 제공.</dd></dl>
 <h2 class="ko">컴플라이언스·품질</h2>
