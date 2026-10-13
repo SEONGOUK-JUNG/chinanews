@@ -40,8 +40,8 @@ T = {
         "other_lang": "한국어",
         "other_href": "/ko/",
         "price_today": "{name} Price Today",
-        "title_cm": "{name} Price Today: {last}{unit} ({chg}) — China Spot Price & Chart | CHINANEWS",
-        "desc_cm": "{name} price in China on {date}: {last}{unit}, {chg} vs. the previous session. Daily-updated price chart, 1-year history, 52-week high/low and related commodities.",
+        "title_cm": "{name} Price — China Spot Price, 1-Year Chart & History | CHINANEWS",
+        "desc_cm": "{name} China spot price in USD, updated daily, with a one-year chart, 52-week high/low and daily price table for members. Producer-backed export quotations available.",
         "h1_cm": "{name} — China Spot Price",
         "asof": "As of {date}",
         "last": "Last",
@@ -73,7 +73,7 @@ T = {
         "cm_index_intro": "{n} commodities quoted on China's domestic spot market, grouped by sector. Click any item for its price history, 52-week range and sector peers. Prices in CNY unless noted; updated {date}.",
         "name": "Commodity",
         "daily_title": "China Commodities Daily — {date}: {up} up, {down} down | CHINANEWS",
-        "daily_desc": "China spot market {date}: {up} commodities up, {down} down, {flat} unchanged. Top gainer {g1} ({g1p}), top decliner {l1} ({l1p}). Indices, FX and sector breakdown.",
+        "daily_desc": "China spot market brief for {date}: advancers and decliners, top movers, sector breakdown, indices and FX. Full brief for members.",
         "daily_h1": "China Commodities Daily Brief — {date}",
         "pulse": "Market pulse",
         "up": "Up",
@@ -111,8 +111,8 @@ T = {
         "other_lang": "English",
         "other_href": "/",
         "price_today": "{name} 가격",
-        "title_cm": "{name} 가격 오늘 {last}{unit} ({chg}) — 중국 현물 시세·차트 | CHINANEWS",
-        "desc_cm": "{date} 기준 {name} 중국 현물가 {last}{unit}, 전일 대비 {chg}. 1년 가격 추이 차트, 52주 최고·최저, 같은 업종 품목 시세를 매일 갱신합니다.",
+        "title_cm": "{name} 가격 — 중국 현물 시세·1년 차트·가격 이력 | CHINANEWS",
+        "desc_cm": "{name} 중국 현물가(달러 환산)를 매일 갱신합니다. 1년 차트, 52주 최고·최저, 일별 가격표는 회원 전용. 중국 생산자 직거래 수출 견적도 받을 수 있습니다.",
         "h1_cm": "{name} — 중국 현물가",
         "asof": "{date} 기준",
         "last": "당일가",
@@ -144,7 +144,7 @@ T = {
         "cm_index_intro": "중국 내수 현물시장에서 거래되는 원자재 {n}종을 업종별로 정리했습니다. 품목을 누르면 가격 추이·52주 범위·같은 업종 품목을 볼 수 있습니다. 별도 표기 없으면 위안(CNY) 기준, {date} 갱신.",
         "name": "품목",
         "daily_title": "중국 원자재 일일 시황 — {date}: 상승 {up}·하락 {down} | CHINANEWS",
-        "daily_desc": "{date} 중국 현물시장: 상승 {up}종, 하락 {down}종, 보합 {flat}종. 최대 상승 {g1}({g1p}), 최대 하락 {l1}({l1p}). 증시·환율·업종별 동향.",
+        "daily_desc": "{date} 중국 현물시장 일일 시황: 상승·하락 품목, 주요 등락, 업종별 동향, 증시·환율. 전문은 회원 전용.",
         "daily_h1": "중국 원자재 일일 시황 — {date}",
         "pulse": "시장 펄스",
         "up": "상승",
@@ -669,7 +669,7 @@ def render_commodity(lang, it, items_by_sector, ref_date, n_items):
     ld = {"@context": "https://schema.org", "@graph": [
         {"@type": "WebPage", "@id": SITE + path, "url": SITE + path, "name": title, "description": desc,
          "inLanguage": lang, "dateModified": ref_date, "isPartOf": {"@id": SITE + "/#website"},
-         "publisher": {"@id": SITE + "/#org"}},
+         "publisher": {"@id": SITE + "/#org"}, **PAYWALL_LD},
         breadcrumb_ld(lang, [(t["az"], ("/ko" if lang == "ko" else "") + "/commodities/"), (sector, idx_href), (name, None)]),
         ORG_LD,
     ]}
@@ -686,6 +686,14 @@ def render_commodity(lang, it, items_by_sector, ref_date, n_items):
     elif lang == "ko" and it.en:
         sub += " · " + esc(it.en)
     out.append('<div class="sub">{}</div>\n'.format(sub))
+    try:
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+        import supply_content as _SC0
+        _ss = _SC0.COMMODITY_TO_SUPPLY.get(it.ko)
+    except Exception:
+        _ss = None
+    out.append(guide_html(lang, it, (supply_href(lang, _ss) if _ss else supply_href(lang)) + "#rfq"))   # 공개: 사람이 쓴 설명
+    out.append(LOCK_MARK)   # 이 아래(가격·등락·차트·이력·같은 업종 시세)는 회원 전용
 
     try:
         c = float(chg)
@@ -765,6 +773,7 @@ def render_commodity(lang, it, items_by_sector, ref_date, n_items):
         out.append("</div>\n")
 
     out.append('<p><a class="cta" href="{}">{}</a></p>\n'.format("/ko/" if lang == "ko" else "/", esc(t["see_terminal"])))
+    out = seal_out(lang, out, "teaser")
     out.append(footer(lang, n_items))
     return "".join(out)
 
@@ -781,7 +790,7 @@ def render_index(lang, items, items_by_sector, ref_date):
     title = t["cm_index_title"].format(n=n)
     desc = t["cm_index_desc"].format(n=n, date=ref_date)
     ld = {"@context": "https://schema.org", "@graph": [
-        {"@type": "CollectionPage", "@id": SITE + path, "url": SITE + path, "name": title, "description": desc, "inLanguage": lang, "dateModified": ref_date, "isPartOf": {"@id": SITE + "/#website"}},
+        {"@type": "CollectionPage", "@id": SITE + path, "url": SITE + path, "name": title, "description": desc, "inLanguage": lang, "dateModified": ref_date, "isPartOf": {"@id": SITE + "/#website"}, **PAYWALL_LD},
         breadcrumb_ld(lang, [(t["az"], None)]), ORG_LD]}
     out = [head(lang, title, desc, path, alt, ld), "<body>\n", topbar(lang, alt), '<div class="wrap">\n', crumbs(lang, [(t["az"], None)])]
     out.append("<h1>{}</h1>\n".format(esc(t["cm_index_h1"])))
@@ -793,6 +802,7 @@ def render_index(lang, items, items_by_sector, ref_date):
         ex = items_by_sector[s][0]
         out.append('<a href="{}">{} ({})</a>'.format(sector_path(lang, slugify(ex.sector_en or "other")), esc(ex.sector(lang)), len(items_by_sector[s])))
     out.append("</div>\n")
+    out.append(LOCK_MARK)
     for s in sectors:
         lst = items_by_sector[s]
         ex = lst[0]
@@ -804,6 +814,7 @@ def render_index(lang, items, items_by_sector, ref_date):
                 it.href(lang), esc(it.name(lang)), (' <span style="color:var(--dim);font-size:11px">' + esc(it.unit) + "</span>") if it.unit else "",
                 fmt_num(q["prev"]), fmt_num(q["last"]), pct_class(q["chg"]), fmt_pct(q["chg"])))
         out.append("</tbody></table></div>\n")
+    out = seal_out(lang, out, "mask")
     out.append(footer(lang, n))
     return "".join(out)
 
@@ -837,7 +848,7 @@ def render_sector(lang, sslug, lst, items_by_sector, ref_date, total):
     ld = {"@context": "https://schema.org", "@graph": [
         {"@type": "CollectionPage", "@id": SITE + path, "url": SITE + path, "name": title,
          "description": desc, "inLanguage": lang, "dateModified": ref_date,
-         "isPartOf": {"@id": SITE + "/#website"}},
+         "isPartOf": {"@id": SITE + "/#website"}, **PAYWALL_LD},
         breadcrumb_ld(lang, [(t["az"], az_path), (sector, None)]), ORG_LD]}
     out = [head(lang, title, desc, path, alt, ld), "<body>" + chr(10), topbar(lang, alt),
            '<div class="wrap">' + chr(10),
@@ -852,6 +863,7 @@ def render_sector(lang, sslug, lst, items_by_sector, ref_date, total):
             continue
         out.append('<a href="{}">{} ({})</a>'.format(sector_path(lang, s2slug), esc(e2.sector(lang)), len(items_by_sector[s2])))
     out.append("</div>" + chr(10))
+    out.append(LOCK_MARK)
     out.append('<div class="tblwrap"><table><thead><tr><th>{}</th><th class="num">{}</th><th class="num">{}</th><th class="num">{}</th></tr></thead><tbody>'.format(
         esc(t["name"]), esc(t["prev"]), esc(t["last"]), esc(t["chg"])))
     for it in sorted(lst, key=lambda x: x.name(lang).lower()):
@@ -860,6 +872,7 @@ def render_sector(lang, sslug, lst, items_by_sector, ref_date, total):
         out.append('<tr><td><a href="{}">{}</a>{}</td><td class="num">{}</td><td class="num">{}</td><td class="num {}">{}</td></tr>'.format(
             it.href(lang), esc(it.name(lang)), unit, fmt_num(q["prev"]), fmt_num(q["last"]), pct_class(q["chg"]), fmt_pct(q["chg"])))
     out.append("</tbody></table></div>" + chr(10))
+    out = seal_out(lang, out, "mask")
     out.append(footer(lang, total))
     return "".join(out)
 
@@ -898,12 +911,13 @@ def render_daily(lang, items, items_by_sector, cm, stocks, fx, macro, ref_date, 
     ld = {"@context": "https://schema.org", "@graph": [
         {"@type": "Article", "@id": SITE + path, "mainEntityOfPage": SITE + path, "headline": t["daily_h1"].format(date=ref_date),
          "description": desc, "inLanguage": lang, "datePublished": ref_date, "dateModified": built_at,
-         "author": {"@id": SITE + "/#org"}, "publisher": {"@id": SITE + "/#org"}, "image": SITE + "/og-image.png"},
+         "author": {"@id": SITE + "/#org"}, "publisher": {"@id": SITE + "/#org"}, "image": SITE + "/og-image.png", **PAYWALL_LD},
         breadcrumb_ld(lang, [(t["daily"], p + "/daily/"), (ref_date, None)]), ORG_LD]}
     out = [head(lang, title, desc, path, alt, ld, og_type="article"), "<body>\n", topbar(lang, alt), '<div class="wrap">\n',
            crumbs(lang, [(t["daily"], p + "/daily/"), (ref_date, None)])]
     out.append("<h1>{}</h1>\n".format(esc(t["daily_h1"].format(date=ref_date))))
     out.append('<div class="sub">{}</div>\n'.format(esc(t["asof"].format(date=ref_date))))
+    out.append(LOCK_MARK)
     out.append('<p class="lead">{}</p>\n'.format(esc(intro)))
 
     out.append(h2(lang, t["pulse"]))
@@ -970,6 +984,7 @@ def render_daily(lang, items, items_by_sector, cm, stocks, fx, macro, ref_date, 
         out.append("</tbody></table></div>\n")
 
     out.append('<p><a class="cta" href="{}">{}</a></p>\n'.format("/ko/" if lang == "ko" else "/", esc(t["see_terminal"])))
+    out = seal_out(lang, out, "brief")
     out.append(footer(lang, len(items)))
     return "".join(out)
 
@@ -1253,7 +1268,7 @@ M = {
            "fail": "결제를 마치지 못했어요. 다시 시도해 주세요.", "close": "닫기", "asof": "{d} 기준 · 중국 현물가(달러 환산)"},
 }
 MEMBER_CSS = """
-td.lk{color:var(--dim);font-size:12px;letter-spacing:.3px}td.lk:before{content:"\\1F512  "}
+td.lk,.lkline{color:var(--dim);font-size:12px;letter-spacing:.3px}.lkline:before{content:"\\1F512  "}td.lk{color:var(--dim);font-size:12px;letter-spacing:.3px}td.lk:before{content:"\\1F512  "}
 .membox{background:var(--panel);border:1px solid var(--orange);border-radius:4px;padding:16px 18px;margin:18px 0}
 .membox h2{margin:0 0 6px;border:none;font-size:16px}.membox p{margin:0 0 12px;color:var(--muted);font-size:13px}
 .memplans{display:grid;grid-template-columns:1fr 1fr;gap:12px}.memplan{border:1px solid var(--line-2);border-radius:4px;padding:10px 12px}
@@ -1336,6 +1351,126 @@ def member_box(lang, slug, keys):
             '<div class="memcode"><span>{h}</span><input id="memin" placeholder="{ph}" autocomplete="off" spellcheck="false" maxlength="18"><button type="button" id="memgo">{go}</button></div>'
             '<div class="memmsg" id="memmsg"></div><div id="mempaid" hidden></div></div>\n').format(
         t=esc(m["title"]), l=esc(m["lead"]), mm=esc(m["M"]), yy=esc(m["Y"]), h=esc(m["have"]), ph=esc(m["ph"]), go=esc(m["go"])) + js
+
+
+# ----------------------------------------------------------------------------
+# 회원 잠금 (2026-10-14) — 첫 화면 외 가격 정보는 회원 전용
+# ----------------------------------------------------------------------------
+def _load_member_key():
+    import base64
+    v = os.environ.get("CNX_MEMBER_KEY", "").strip()
+    if not v:
+        for p in (os.path.join(os.path.expanduser("~"), "Desktop", "chinanews-kr", "private", "member_key.b64"),):
+            try:
+                v = open(p, encoding="ascii").read().strip()
+                break
+            except Exception:
+                pass
+    try:
+        k = base64.b64decode(v) if v else b""
+        return k if len(k) == 32 else b""
+    except Exception:
+        return b""
+
+
+MEMBER_KEY = _load_member_key()
+LOCK_MARK = "\x00LOCK\x00"
+PAYWALL_LD = {"isAccessibleForFree": False, "hasPart": {"@type": "WebPageElement", "isAccessibleForFree": False, "cssSelector": ".pw"}}
+GATE_T = {
+    "en": {"title": "Prices, charts and daily briefs — members only",
+           "lead": "Product names and guides are public. Daily China spot prices (in USD), changes, one-year charts, 52-week high/low, daily price tables and the daily market brief are for members.",
+           "teaser": "Price, change, chart and history are for members.", "brief": "The full daily brief is for members.",
+           "have": "Already a member?", "ph": "Access code CNX-XXXX-XXXX-XXXX", "go": "Unlock"},
+    "ko": {"title": "가격·차트·일일 시황 — 회원 전용",
+           "lead": "품목 이름과 설명은 공개합니다. 매일 갱신하는 중국 현물가(달러 환산)와 등락, 1년 차트, 52주 최고·최저, 일별 가격표, 일일 시황은 회원에게만 보여 드립니다.",
+           "teaser": "가격·등락·차트·가격 이력은 회원 전용입니다.", "brief": "일일 시황 전문은 회원 전용입니다.",
+           "have": "이용권이 있으신가요?", "ph": "이용권 코드 CNX-XXXX-XXXX-XXXX", "go": "열기"},
+}
+
+
+def _seal_html(public_html, secret_html):
+    import base64
+    from cryptography.hazmat.primitives.ciphers.aead import AESGCM
+    iv = os.urandom(12)
+    ct = AESGCM(MEMBER_KEY).encrypt(iv, secret_html.encode("utf-8"), None)
+    return '<div class="pw" data-iv="{}" data-ct="{}">{}</div>\n'.format(base64.b64encode(iv).decode(), base64.b64encode(ct).decode(), public_html)
+
+
+def _mask_prices(html):
+    # 목록 표: 이름·링크는 두고 숫자 칸만 자물쇠로
+    return re.sub(r'<td class="num[^"]*">[^<]*</td>', '<td class="num lk"></td>', html)
+
+
+GATE_JS = r"""<script>(function(){
+var API='__API__',LANG='__LANG__',M=__M__;
+var box=document.getElementById('gatebox'),msg=document.getElementById('memmsg'),inp=document.getElementById('memin');
+function ls(k,v){try{if(v===undefined)return localStorage.getItem(k);if(v===null)localStorage.removeItem(k);else localStorage.setItem(k,v);}catch(e){return null;}}
+var dev=ls('cnx_dev');if(!dev){dev=Math.random().toString(36).slice(2)+Date.now().toString(36);ls('cnx_dev',dev);}
+function b64(s){var b=atob(s),u=new Uint8Array(b.length);for(var i=0;i<b.length;i++)u[i]=b.charCodeAt(i);return u;}
+function open(keyB64,exp){crypto.subtle.importKey('raw',b64(keyB64),'AES-GCM',false,['decrypt']).then(function(k){
+  return Promise.all([].map.call(document.querySelectorAll('.pw[data-ct]'),function(el){
+    return crypto.subtle.decrypt({name:'AES-GCM',iv:b64(el.getAttribute('data-iv'))},k,b64(el.getAttribute('data-ct'))).then(function(p){el.innerHTML=new TextDecoder().decode(p);el.removeAttribute('data-ct');});}));
+}).then(function(){box.classList.add('memon');msg.textContent=M.active.replace('{d}',exp||'');}).catch(function(){msg.textContent=M.net;});}
+function unlock(code,quiet){
+  code=String(code||'').trim().toUpperCase();if(!code)return;
+  fetch(API+'/key',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({code:code,dev:dev})})
+  .then(function(r){return r.json().then(function(j){return{s:r.status,j:j};});}).then(function(x){
+    if(x.s===200){ls('cnx_code',code);open(x.j.key,x.j.expires);return;}
+    if(x.s===410){ls('cnx_code',null);msg.textContent=M.exp.replace('{d}',x.j.expires||'');return;}
+    if(quiet&&x.s===404){ls('cnx_code',null);return;}
+    msg.textContent=(x.s===409?M.dev:M.bad);
+  }).catch(function(){msg.textContent=M.net;});
+}
+document.getElementById('memgo').onclick=function(){unlock(inp.value);};
+inp.onkeydown=function(e){if(e.key==='Enter'){e.preventDefault();unlock(inp.value);}};
+var saved=ls('cnx_code');if(saved)unlock(saved,true);
+fetch(API+'/config').then(function(r){return r.json();}).then(function(cfg){
+  if(!cfg.clientId)return;var sc=document.createElement('script');
+  sc.src='https://www.paypal.com/sdk/js?client-id='+encodeURIComponent(cfg.clientId)+'&currency=USD&intent=capture&components=buttons&locale='+(LANG==='ko'?'ko_KR':'en_US');
+  sc.onload=function(){['M','Y'].forEach(function(plan){paypal.Buttons({style:{layout:'vertical',shape:'rect',label:'pay',height:38},
+    createOrder:function(){return fetch(API+'/paypal/create',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({plan:plan})}).then(function(r){return r.json();}).then(function(o){if(!o.id)throw new Error('create');return o.id;});},
+    onApprove:function(d){return fetch(API+'/paypal/capture',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({orderID:d.orderID})}).then(function(r){return r.json();}).then(function(r){
+      if(!r.code)throw new Error(r.error||'capture');ls('cnx_code',r.code);
+      var p=document.getElementById('mempaid');p.innerHTML='<h2>'+M.paid_t+'</h2><div class="memcodebig">'+r.code+'</div><p>'+M.paid_n.replace('{d}',r.expires)+'</p>';p.hidden=false;unlock(r.code);});},
+    onError:function(){msg.textContent=M.fail;}}).render('#mempp-'+plan);});};
+  document.head.appendChild(sc);
+}).catch(function(){});
+})();</script>
+"""
+
+
+def gate_box(lang):
+    m, g = M[lang], GATE_T[lang]
+    js = GATE_JS.replace("__API__", MEMBERS_API).replace("__LANG__", lang).replace("__M__", json.dumps(m, ensure_ascii=False))
+    return ('<div class="membox" id="gatebox"><h2>{t}</h2><p>{l}</p>'
+            '<div class="memplans"><div class="memplan"><b>{mm}</b><div id="mempp-M"></div></div>'
+            '<div class="memplan"><b>{yy}</b><div id="mempp-Y"></div></div></div>'
+            '<div class="memcode"><span>{hv}</span><input id="memin" placeholder="{ph}" autocomplete="off" spellcheck="false" maxlength="18"><button type="button" id="memgo">{go}</button></div>'
+            '<div class="memmsg" id="memmsg"></div><div id="mempaid" hidden></div></div>\n').format(
+        t=esc(g["title"]), l=esc(g["lead"]), mm=esc(m["M"]), yy=esc(m["Y"]), hv=esc(g["have"]), ph=esc(g["ph"]), go=esc(g["go"])) + js
+
+
+def seal_out(lang, out, mode):
+    """out 안의 LOCK_MARK 뒤(꼬리말 앞까지)를 잠근다. mode: teaser(안내 문구만 공개) · brief · mask(목록 숫자만 가림)"""
+    i = out.index(LOCK_MARK)
+    secret = "".join(out[i + 1:])
+    if mode == "mask":
+        public = _mask_prices(secret)
+    else:
+        public = '<p class="lead lkline">{}</p>'.format(esc(GATE_T[lang]["brief" if mode == "brief" else "teaser"]))
+    return out[:i] + [_seal_html(public, secret), gate_box(lang)]
+
+
+def guide_html(lang, it, rfq_href):
+    try:
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+        import commodity_guides as CG
+    except Exception:
+        return ""
+    g = CG.GUIDES.get(it.slug, {}).get(lang)
+    if not g:
+        return ""
+    return "".join(h2(lang, title) + body.replace("{RFQ}", rfq_href) + "\n" for title, body in g)
 
 
 def render_supply(lang, page, pages, by_ko, ref_date, n_items, key):
@@ -1555,6 +1690,8 @@ def main():
     written = 0
     entries = []
 
+    if not MEMBER_KEY:
+        print("build_pages: 회원 열쇠(member_key.b64)가 없어 품목·목록·일일 시황 페이지는 새로 쓰지 않습니다(기존 유지)", file=sys.stderr)
     # commodity pages — 색인 정책(tools/index_policy.py): 유지 품목만 사이트맵에, 나머지는 noindex
     try:
         sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -1568,7 +1705,7 @@ def main():
     for it in items:
         for lang in ("en", "ko"):
             path = os.path.join(root, it.href(lang).lstrip("/"))
-            if write_if_changed(path, render_commodity(lang, it, by_sector, ref_date, n)):
+            if MEMBER_KEY and write_if_changed(path, render_commodity(lang, it, by_sector, ref_date, n)):
                 written += 1
         if it.slug not in NOINDEX_SLUGS:
             n_idx += 1
@@ -1579,7 +1716,7 @@ def main():
     # commodity index
     for lang in ("en", "ko"):
         p = "/ko" if lang == "ko" else ""
-        if write_if_changed(os.path.join(root, p.lstrip("/"), "commodities", "index.html"), render_index(lang, items, by_sector, ref_date)):
+        if MEMBER_KEY and write_if_changed(os.path.join(root, p.lstrip("/"), "commodities", "index.html"), render_index(lang, items, by_sector, ref_date)):
             written += 1
         entries.append((p + "/commodities/", ref_date, "daily", "0.8", ("/commodities/", "/ko/commodities/")))
 
@@ -1588,7 +1725,7 @@ def main():
         _slug = sector_slug(_lst[0])
         for lang in ("en", "ko"):
             _path = os.path.join(root, sector_path(lang, _slug).lstrip("/"))
-            if write_if_changed(_path, render_sector(lang, _slug, _lst, by_sector, ref_date, n)):
+            if MEMBER_KEY and write_if_changed(_path, render_sector(lang, _slug, _lst, by_sector, ref_date, n)):
                 written += 1
         entries.append((sector_path("en", _slug), ref_date, "daily", "0.75", (sector_path("en", _slug), sector_path("ko", _slug))))
         entries.append((sector_path("ko", _slug), ref_date, "daily", "0.75", (sector_path("en", _slug), sector_path("ko", _slug))))
@@ -1596,7 +1733,7 @@ def main():
     # daily brief for ref_date (+ archive)
     for lang in ("en", "ko"):
         p = "/ko" if lang == "ko" else ""
-        if write_if_changed(os.path.join(root, p.lstrip("/"), "daily", ref_date + ".html"), render_daily(lang, items, by_sector, cm, stocks, fx, macro, ref_date, built_at)):
+        if MEMBER_KEY and write_if_changed(os.path.join(root, p.lstrip("/"), "daily", ref_date + ".html"), render_daily(lang, items, by_sector, cm, stocks, fx, macro, ref_date, built_at)):
             written += 1
     dates = set()
     for lang_dir in ("daily", os.path.join("ko", "daily")):
