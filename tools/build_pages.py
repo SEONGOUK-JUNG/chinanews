@@ -1458,7 +1458,8 @@ def seal_out(lang, out, mode):
         public = _mask_prices(secret)
     else:
         public = '<p class="lead lkline">{}</p>'.format(esc(GATE_T[lang]["brief" if mode == "brief" else "teaser"]))
-    return out[:i] + [_seal_html(public, secret), gate_box(lang)]
+    css = "" if any(".membox{" in x for x in out[:i]) else "<style>" + MEMBER_CSS + "</style>\n"   # 품목·목록·시황 페이지엔 회원 상자 CSS 가 없으므로 함께 넣는다
+    return out[:i] + [css, _seal_html(public, secret), gate_box(lang)]
 
 
 def guide_html(lang, it, rfq_href):
