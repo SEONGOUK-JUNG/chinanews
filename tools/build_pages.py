@@ -40,8 +40,8 @@ T = {
         "other_lang": "한국어",
         "other_href": "/ko/",
         "price_today": "{name} Price Today",
-        "title_cm": "{name} Price Today — China Spot Price {date} | CHINANEWS",
-        "desc_cm": "{name} China spot price on {date}: {last}{unit} ({chg} vs. previous session). Daily price history, sector peers and 1-year range.",
+        "title_cm": "{name} Price Today: {last}{unit} ({chg}) — China Spot Price & Chart | CHINANEWS",
+        "desc_cm": "{name} price in China on {date}: {last}{unit}, {chg} vs. the previous session. Daily-updated price chart, 1-year history, 52-week high/low and related commodities.",
         "h1_cm": "{name} — China Spot Price",
         "asof": "As of {date}",
         "last": "Last",
@@ -111,8 +111,8 @@ T = {
         "other_lang": "English",
         "other_href": "/",
         "price_today": "{name} 가격",
-        "title_cm": "{name} 가격 — 중국 현물가 {date} | CHINANEWS",
-        "desc_cm": "{date} {name} 중국 현물가 {last}{unit} (전일 대비 {chg}). 일별 가격 추이, 52주 범위, 같은 업종 품목 비교.",
+        "title_cm": "{name} 가격 오늘 {last}{unit} ({chg}) — 중국 현물 시세·차트 | CHINANEWS",
+        "desc_cm": "{date} 기준 {name} 중국 현물가 {last}{unit}, 전일 대비 {chg}. 1년 가격 추이 차트, 52주 최고·최저, 같은 업종 품목 시세를 매일 갱신합니다.",
         "h1_cm": "{name} — 중국 현물가",
         "asof": "{date} 기준",
         "last": "당일가",
@@ -661,7 +661,7 @@ def render_commodity(lang, it, items_by_sector, ref_date, n_items):
     sector_anchor = "s-" + slugify(it.sector_en or "other") if (it.sector_en) else "s-other"
     idx_href = ("/ko" if lang == "ko" else "") + "/commodities/#" + sector_anchor
 
-    title = t["title_cm"].format(name=name, date=ref_date)
+    title = t["title_cm"].format(name=name, date=ref_date, last=fmt_num(q["last"]), unit=unit, chg=fmt_pct(chg))
     desc = t["desc_cm"].format(name=name, date=ref_date, last=fmt_num(q["last"]), unit=unit, chg=fmt_pct(chg))
     ld = {"@context": "https://schema.org", "@graph": [
         {"@type": "WebPage", "@id": SITE + path, "url": SITE + path, "name": title, "description": desc,
@@ -1132,7 +1132,7 @@ SUP = {
            "f_product": "Product", "f_qty": "Quantity & frequency", "f_spec": "Specification / purity / form", "f_msg": "Message (application, target price, delivery terms)",
            "f_send": "Send RFQ", "f_sending": "Sending…", "f_ok": "✓ RFQ received — we reply within one business day", "f_fail": "Failed — please email koreagwangju@gmail.com",
            "f_note": "Replies go out from BRIDGE GROUP. No brokers' fees are charged to buyers; quotations are producer-backed.",
-           "price_cols": ["Item", "Last (CNY)", "Change", "History"], "see": "chart →"},
+           "price_cols": ["Item", "Last (USD)", "Change", "History"], "see": "chart →"},
     "ko": {"nav": "공급·견적", "crumb": "공급", "rfq": "견적 요청", "live": "중국 현물가 (터미널 연동)",
            "faq": "자주 묻는 질문", "compliance": "컴플라이언스·품질", "about": "공급사 소개",
            "related": "다른 취급 품목", "index_title": "중국 희토류·갈륨·게르마늄·텅스텐·고순도 구리·반도체 공급 — 견적 문의 | CHINANEWS",
@@ -1143,7 +1143,7 @@ SUP = {
            "f_product": "품목", "f_qty": "수량·주기", "f_spec": "규격 / 순도 / 형태", "f_msg": "문의 내용 (용도, 목표가, 납품 조건)",
            "f_send": "견적 요청 보내기", "f_sending": "전송 중…", "f_ok": "✓ 접수됐습니다 — 1영업일 내 회신드립니다", "f_fail": "전송 실패 — koreagwangju@gmail.com 으로 보내주세요",
            "f_note": "회신은 BRIDGE GROUP에서 드립니다. 바이어에게 중개수수료를 청구하지 않으며, 견적은 생산자 확인을 거칩니다.",
-           "price_cols": ["품목", "당일가 (CNY)", "등락", "추이"], "see": "차트 →"},
+           "price_cols": ["품목", "당일가 (USD)", "등락", "추이"], "see": "차트 →"},
 }
 WEB3FORMS_KEY = None
 
@@ -1237,14 +1237,14 @@ M = {
            "active": "Member access active until {d}.", "bad": "Code not found — please check it.", "exp": "This access expired on {d}. Renew below.",
            "dev": "This code is already used on 3 devices. Email ceo@abridge.co.kr to reset.", "net": "Could not reach the server. Please try again.",
            "paid_t": "Payment complete — your access code", "paid_n": "Keep this code. It works on up to 3 devices until {d}. Lost it? Email ceo@abridge.co.kr with your PayPal receipt.",
-           "fail": "The payment did not go through. Please try again.", "close": "Close", "asof": "Prices as of {d} · China domestic spot"},
+           "fail": "The payment did not go through. Please try again.", "close": "Close", "asof": "Prices as of {d} · China domestic spot, converted to USD"},
     "ko": {"cell": "회원 전용", "title": "상세 사양·일일 시세 — 회원 전용",
            "lead": "품목 이름은 공개합니다. 등급·형태·순도·용도와 관련 원자재의 중국 현물가(매일 갱신)는 회원에게만 보여 드립니다.",
            "M": "30일 · US$990", "Y": "1년 · US$9,000", "have": "이용권이 있으신가요?", "ph": "이용권 코드 CNX-XXXX-XXXX-XXXX", "go": "열기",
            "active": "{d}까지 회원으로 보고 계십니다.", "bad": "코드를 찾지 못했어요. 다시 확인해 주세요.", "exp": "이용권이 {d}에 끝났습니다. 아래에서 연장하세요.",
            "dev": "이 코드는 이미 기기 3대에서 쓰고 있어요. ceo@abridge.co.kr 로 초기화를 요청해 주세요.", "net": "서버에 연결하지 못했어요. 잠시 뒤 다시 해 주세요.",
            "paid_t": "결제 완료 — 이용권 코드", "paid_n": "이 코드를 꼭 적어 두세요. {d}까지 기기 3대에서 쓸 수 있습니다. 잃어버리면 PayPal 영수증과 함께 ceo@abridge.co.kr 로 연락 주세요.",
-           "fail": "결제를 마치지 못했어요. 다시 시도해 주세요.", "close": "닫기", "asof": "{d} 기준 · 중국 현물가"},
+           "fail": "결제를 마치지 못했어요. 다시 시도해 주세요.", "close": "닫기", "asof": "{d} 기준 · 중국 현물가(달러 환산)"},
 }
 MEMBER_CSS = """
 td.lk{color:var(--dim);font-size:12px;letter-spacing:.3px}td.lk:before{content:"\\1F512  "}
