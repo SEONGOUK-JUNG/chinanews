@@ -1,10 +1,34 @@
 {
-  "run_at_kst": "2026-10-13T07:07:58+09:00",
+  "run_at_kst": "2026-10-13T10:10:06+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "퇴임한 애플 CEO 중국 경제 수장(허리펑)과 회동…협력 심화 강조",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80Q1NDRTZoVTZ2OVFxQ0RIRER3Q04wSEdTNjJYZllKSlg0WDRvMVc2SUo0cS1fMklBYWIxTlJDb3VFRkVqYlkyUTQ2SlU3VE56NXZ0QnZlbEN1UQ?oc=5",
+      "source": "파이낸셜뉴스",
+      "date": "Tue, 13 Oct 2026 01:05:13 GMT"
+    },
+    {
+      "title": "中 허리펑, 애플 팀 쿡 접견…\"대중국 협력 확대 환영\"",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwS0pRSnctTlNlQ1ZBUDJCQ2psUl9jZEVkYUVMcWpRMUNGam5tV3lzY1FUNDd3VTJTWnBIWWJEWXhDbFpOSExJNEpkeFJaTEsyY3FjU0s1THJVWXViNkdETdIBeEFVX3lxTE91Nm5pTHdzY3lsWTFPZFZYeWdaYjAzamp6TmRjdkdpaTNwTkpDeVlmdER4aE04LWppdGZSR2hCN053b24yazBna2JMRGdnbnh6TFl6ZHdFTk42azRHVFB0OXcyQkwtNjJuRlR6MXNkQTY4cThWNk5CZQ?oc=5",
+      "source": "뉴시스",
+      "date": "Tue, 13 Oct 2026 00:51:50 GMT"
+    },
+    {
+      "title": "코스피 매도 사이드카… 중국 메모리 추격에 6000선 추락",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PbkFQOFB1TmptRGNUcmdXeG1LMllsZWZYenQ1dmFxdDB4WVlkZkozeU9KdTU4ekNuMGxNZEFKM2pONm1hbFAzdTBzWUVveDMxOFNTTXpIVVdjX3d1MlZRMFZBc1M1SXNQdnhzdU930gFzQVVfeXFMUDhUYUo4bmNob3dndTRvRDhPNlc1NlB6dmlDZWl6TWExOWVRMTJZeExWdWxEWTdtNnFsb2FhbVdrOEJMSHFxRWVtWHJ5UWVEaHoyN3BRRkx3bDhFeVI3SW9UYU1lSjhjcjcwTmxrZm5rLTZoaw?oc=5",
+      "source": "한국일보",
+      "date": "Tue, 13 Oct 2026 00:51:00 GMT"
+    },
+    {
+      "title": "중국 경제수장 허리펑, ‘퇴임’ 팀쿡과 회동…협력 심화 강조",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2LVpZX0wzRG1oLWR3c2VlNmxxNmFNTkxWd0VuQzdFazdzLTVGS3ROdTkwSzU3WkNvZGV5ZVEyd2JBN192Qk9PY0Z0Q3dYZTZWZEIydjlvV3J6X2M?oc=5",
+      "source": "KBS 뉴스",
+      "date": "Tue, 13 Oct 2026 00:50:00 GMT"
+    },
     {
       "title": "중국 경제는 소비 지출과 기술 발전에 힘입어 2026년 3분기에도 지속적인 호황을 누렸습니다.",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN3dNUkpUeC1OMlZIXzZiSkFwR256NVdjdUtTY0RCd0ZQTVFEeGpIVEtHd0k2TEV3S2dwTGdNbEhNYzZkd0VzamlGdm1zX3FMcFJTNHU5bEdLY1V5dGNuOXY1VGdSdWQtWUQ0dm9QX1Z1Y29rYzRpRWRRUmp3c2ZfUk1pdUt6aFA0QVgyNTU4UzRzZUgzWnhkeGZtaUZiX3RxT2ZRODRB?oc=5",
@@ -16,18 +40,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84R0NZTmlpRUVYamVhZk1sWUhIbGpPWG5SNkFNZzhJTnFJQnhteE0wS0dpUm5hVDNhQXBIMGZiX1ZNbEhsVXBId1NSLVpIVl9mM1dYaENmUHRvQdIBWEFVX3lxTE5odWxPaURPalU0MVVLbHBPelA5bFFWbVY4bklyd0ltS1pXTV9McWowZXViSmlISGkyeWhkYktVS0tOa0tHSnlhZlFWN2xqWkdETHotT1dMRXM?oc=5",
       "source": "아주경제",
       "date": "Mon, 12 Oct 2026 10:08:48 GMT"
-    },
-    {
-      "title": "세계한인경제무역협회, 중국 선전서 ‘세계한인경제인대회’ 개최",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81VS1IN3dxNkVlQkhmV0o0OFZackVBaHRPSVYtNHNTUVcxZTA3ZE1YVWFwRXFiU0JnUmZrZHhYazM3SzN2SGhNckdKdXBHNDhGX05rMVVYR3FqVTJNZnpCNzRaSzlFdUxFX1VqcmVmSTRoWDJVVHfSAWZBVV95cUxPV1Brc01SVWxySVpyU3Y2TjRNWk1lTS1YcUhUQlVVYmxFWVlTcE9oTlpjdTQ4LVh2Ql9NNzRzUlVkcFVqc3BIZWQ2YW1WZ1VqZkVKX1BJcEFDZjRQaUw4N21MM1h6dUE?oc=5",
-      "source": "동아일보",
-      "date": "Mon, 12 Oct 2026 06:46:57 GMT"
-    },
-    {
-      "title": "[투데이 포커스] 3% 땅으로 15% 경제 창출...쑤저우공업단지, 中 미래 산업을 심다",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SclVhSkNpZDFWc3ktYjJJX093dThOVzhLQ0pKeDlCUVhSUkxqVXpraFY0UklQU05IenhiSVEtYTIxc0dib2RDbWI1VmRGclIwMFhpbUNwdm95OHRpYl82QlpndWlfcHl1NWlLZHM2QjdyVzQ?oc=5",
-      "source": "동방일보",
-      "date": "Mon, 12 Oct 2026 06:46:05 GMT"
     },
     {
       "title": "꿈 아닌 경상수지 1조 달러에 中 빈부격차 고민",
@@ -42,40 +54,28 @@
       "date": "Mon, 12 Oct 2026 03:55:39 GMT"
     },
     {
-      "title": "\"20초 만에 표 완판\"…코스프레 덕후들 몰리자 1400억 '대박' [차이나 워치]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmckN5R05ia0lFejd3WW5hY21EWF9YU194YjZ2Q05OS3BvbmVwN1d1bWNtdC1QZWthaGlseUktb2NrNnNqeXVOV0FyWFlDMzJVZm1sUkdxZVlzdw?oc=5",
+      "title": "미국마저 압도한 중국 이자 부담, 성장 둔화 속 재정 압박 심화",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DZXZpVW5ZeGFTVUZxaTR5YVJIc3owVGxxUHhmSlMwU0JDelpyREpUd0tiX2pyTktfamRiLTMtdnpyUVAxd0p6Q08zYTRwVllJQ2RMSEM2YzZ3UExuNVBuWnBUY1dYYmhuTlc5WGNB?oc=5",
+      "source": "뉴스타운",
+      "date": "Mon, 12 Oct 2026 00:51:38 GMT"
+    },
+    {
+      "title": "중국 재정 발목 잡은 빚 이자…내수 부양책도 한계",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80Wl8wN0FuWXVSRUprUHd4SGdHR3M3SWhHQ0pHZ1hmQlBvUlQxNjdDRXZ1dXplamp4VmtkNjQ3ZE0xeE1COUQtNXphM0djdjYzOVRTTXd2N0Vzdw?oc=5",
       "source": "한국경제",
-      "date": "Mon, 12 Oct 2026 01:09:01 GMT"
+      "date": "Sun, 11 Oct 2026 23:29:44 GMT"
     },
     {
-      "title": "픽업트럭 한 대에서 보는 \"중국에서, 세계를 위해\" 2.0 버전",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0ya3VPV1RBU214d1l4ZVNYOEVMYTYzWGQ3bTlIcVBGWS1UaEVlNlhpbXFjeHBxejNndlF4amdqVDBfcnhYRVp4MVVvQ3ZDdHBrQnYtTGFRWi1URnJCWmxNdE1GTjh2X0psa2ZwcXVB?oc=5",
-      "source": "현장언론 민플러스",
-      "date": "Mon, 12 Oct 2026 00:45:20 GMT"
+      "title": "중국 소비 부진 속 황금연휴 효과 기대…5중전회에 쏠리는 눈",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxa1BJWmNUMDVZVGkzVElLVFFmdnlqaWNSbjFFMXlHckU4M2V4Q1dOWTNhQk9XRU1QUnZTRDNYQklyb1lkdWh5MF91TnV3LWlJNlY1OFlxZ0dFQ29XaDRwWVJwOXFxcXNydVNNVXUzWnFlcFE?oc=5",
+      "source": "마켓인",
+      "date": "Sun, 11 Oct 2026 02:07:56 GMT"
     },
     {
-      "title": "[인터뷰] 신용한 충북지사 \"충북 경제 영토 세계로, 중국 변화 기회로 삼아야\"",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBISDllMWxiVllleUlmeXlXVHZIWlFIX3FZQ0VvNThWbUIzbm9GdzlSZ2t1UUoycUUzU3AxZkVVNkk2bEh5djgzazJpdnhTQU9zZXRHMUpldzVVR2Rz?oc=5",
-      "source": "뉴스핌",
-      "date": "Sat, 10 Oct 2026 00:53:00 GMT"
-    },
-    {
-      "title": "범죄자들이 중국 경제를 선호하는 이유 [PADO] - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pb0hucXkybGpMc2k4aU9yMF92Qkhfd18zRXlHWk9ESkg4dHBmUm9JUjRWSFk2NXlkVGo4RUdyRGtMQ0lNNUtQaVFLRXJwa2FyakJLaXhIYUVOd0FPbGlZeXpWcUNIX3FKM0g3aEJR0gFuQVVfeXFMTWlvSG5xeTJsakxzaThpT3IwX3ZCSF93XzNFeUdaT0RKSDh0cGZSb0lSNFZIWTY1eWRUajhFR3JEa0xDSU01S1BpUUtFcnBrYXJqQktpeEhhRU53QU9saVl5elZxQ0hfcUozSDdoQlE?oc=5",
-      "source": "머니투데이",
-      "date": "Fri, 09 Oct 2026 21:00:00 GMT"
-    },
-    {
-      "title": "“태평양은 미·중 수용할 만큼 넓다”…중국의 해양강국 집념",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zeWg2VURiNkpsem45dnVxSWx5VWo3TTk1YmU1bERZUldmaFhFd1paM0lXdkZacnZVMU1KOERQUGFxdFV3aWV1SXlQeVpvWWFGVm1oby1n?oc=5",
-      "source": "중앙일보",
-      "date": "Fri, 09 Oct 2026 15:19:20 GMT"
-    },
-    {
-      "title": "범죄자들이 중국 경제를 선호하는 이유",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vMDkydFlBMF9qVTZocUtGVW9FYnhnQzhJd3A4Z21KZHZEbGIzTzZOVzQ4YldYMnVxZjE0RFRnTjM4UFF3X244R09DTVpGLWJWdUFheG9fWXZKbEk?oc=5",
-      "source": "https://www.pado.kr/",
-      "date": "Fri, 09 Oct 2026 06:26:25 GMT"
+      "title": "\"더는 환영받지도 안전하지도 않다\"…日기업 4000곳 중국서 짐 쌌다",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fRWR5TjRMdVBmXzIwYmh4S3FZN1Q3QWlnTWI2T0RhREtCanNEQXRUa2Y4eGduRHRyVnF5OGMwUXhXZ0QxNE40ZDFHaDd4MFhFNzc4?oc=5",
+      "source": "Nate News",
+      "date": "Sat, 10 Oct 2026 10:01:00 GMT"
     }
   ]
 }

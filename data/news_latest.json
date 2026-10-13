@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-13T07:07:58+09:00",
+  "run_at_kst": "2026-10-13T10:10:06+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,24 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "This Ultra-Rare Gas Could Become An Ace In Canada’s Hands",
+      "link": "https://oilprice.com/Energy/Energy-General/This-Ultra-Rare-Gas-Could-Become-An-Ace-In-Canadas-Hands.html",
+      "source": "OilPrice",
+      "date": "Mon, 12 Oct 2026 19:00:00 -0500"
+    },
+    {
+      "title": "Hertha Metals breaks ground on $100M US plant for magnet-grade iron",
+      "link": "https://www.mining.com/hertha-metals-breaks-ground-on-100m-us-commercial-plant-for-magnet-grade-iron/",
+      "source": "mining.com",
+      "date": "Mon, 12 Oct 2026 23:27:42 +0000"
+    },
+    {
+      "title": "Trump Curbs Farmers’ Access to Funding for Energy Projects",
+      "link": "https://oilprice.com/Energy/Energy-General/Trump-Curbs-Farmers-Access-to-Funding-for-Energy-Projects.html",
+      "source": "OilPrice",
+      "date": "Mon, 12 Oct 2026 18:00:00 -0500"
+    },
     {
       "title": "Global Coal Demand Rises as LNG Shortage Deepens",
       "link": "https://oilprice.com/Energy/Natural-Gas/Global-Coal-Demand-Rises-as-LNG-Shortage-Deepens.html",
@@ -50,18 +68,6 @@
       "date": "Mon, 12 Oct 2026 12:30:00 -0500"
     },
     {
-      "title": "European Natural Gas Prices Headed for Multi-Year Highs",
-      "link": "https://oilprice.com/Energy/Natural-Gas/European-Natural-Gas-Prices-Headed-for-Multi-Year-Highs.html",
-      "source": "OilPrice",
-      "date": "Mon, 12 Oct 2026 12:00:00 -0500"
-    },
-    {
-      "title": "Oil Prices Jump 2% on Saudi Attacks as OPEC Sees Demand Rebound",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Jump-2-on-Saudi-Attacks-as-OPEC-Sees-Demand-Rebound.html",
-      "source": "OilPrice",
-      "date": "Mon, 12 Oct 2026 11:50:00 -0500"
-    },
-    {
       "title": "Women hold just 12% of top mining jobs in Australia: report",
       "link": "https://www.mining.com/women-hold-just-12-of-top-mining-jobs-in-australia-report/",
       "source": "mining.com",
@@ -84,12 +90,6 @@
       "link": "https://www.mining.com/geopolitical-risk-drives-capital-to-private-sector-analyst/",
       "source": "mining.com",
       "date": "Sun, 11 Oct 2026 17:44:57 +0000"
-    },
-    {
-      "title": "Rare earth recycling can bridge US supply gap as mines face long timelines, Paladin says",
-      "link": "https://www.mining.com/rare-earth-recycling-can-bridge-us-supply-gap-as-mines-face-long-timelines-paladin-says/",
-      "source": "mining.com",
-      "date": "Fri, 09 Oct 2026 20:20:20 +0000"
     }
   ]
 }
