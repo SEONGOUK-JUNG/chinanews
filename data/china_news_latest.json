@@ -1,33 +1,33 @@
 {
-  "run_at_kst": "2026-10-14T07:20:04+09:00",
+  "run_at_kst": "2026-10-14T10:10:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "[곽재원 컬럼]서구는 지금 중국을 어떻게 읽고 있는가",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91T0pYQkVKRUhzcnBwV3FvblRaQWhVc1htdEEzUlBiandiYU52WmQwelMwRUZmM0JWcXpLUFMwMkRzbXgxemUycHJjazIwQ1luQUlVV2oyOEtTRUxxb2Rn?oc=5",
-      "source": "저스트 이코노믹스",
-      "date": "Tue, 13 Oct 2026 20:27:00 GMT"
+      "title": "AI 공포에 빅테크 감원까지… 중국 청년층 ‘잃어버린 세대’ 되나",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82YU5kZ2NMcVFvTHdzZElxZktpOGR1Si1mdGFBV29EejZOOFJvOHoySVRZRERIelBlbGZWa1dESEtEOHN5ZFFycWw3Q3ZvX0syaWE2bmNNTHhRN3RIV1RaaGNIcnhqaTg?oc=5",
+      "source": "M이코노미뉴스",
+      "date": "Wed, 14 Oct 2026 00:10:30 GMT"
     },
     {
-      "title": "'애플 CEO 퇴임' 팀 쿡, 中 경제수장과 회동…미중 협력 심화 강조 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tUExNYnJkTml5YWVCR09GUTR5aTM2VTIxMkV5V09mLVJqVnpyNll0RU51S19ZUG1vejFwbDRCZnQzb1VHWl9JRW5WckJFWThtUERoZHZTZnhreWliTUJiVFhuS2xNNTFj0gFuQVVfeXFMUENSOHJiWkFGdGRMSVNxbmVob2hobWNiUmlQa2pWUEJyUTVDLW1lWUZWd0pBalpmVDNJTVRfdGkwa3huVkpRQ1FfSHJUSUp2bzBwQVB3VmJxWXBJRGRPUkpFeVpyTTZmSkRHaVlLb1E?oc=5",
-      "source": "머니투데이",
-      "date": "Tue, 13 Oct 2026 13:38:50 GMT"
+      "title": "[경제 이슈] 루이비통도 못 피한 '중국 한파'…중국 경기 침체에 루이비통 매출 '뚝'",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfcWRmNThmTGpkalQtUmxtdG4yT1ZOQTczZUVYNVJCT2NhSkZ1UEQwR3JjejdscFh2QkI1NWFPM1duaDZRbU1uQ3d6LWd6U2txQ2JqbDB5V0RvU0ZEdUkzM3FlLUk4NER2TXJOWA?oc=5",
+      "source": "프리진경제",
+      "date": "Wed, 14 Oct 2026 00:07:07 GMT"
+    },
+    {
+      "title": "﻿IMF, 중국 올해 성장률 전망 4.5%로 하향",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LYjJzMTcxQ1FrM0JacjY3d0dLNTZWMDF6c0ZWS2J5WXNuRVFyamotaHpNeFdLRHlEblhqc3pXTWhNdkxwMjQtLTg2am1Ibm5MYks2N0p5TEh5R3RCR2UtaHFKYWZOWUV3RUlz0gFvQVVfeXFMTTlIU19ZZ2tMc1A1V0xmQUJST1dOQjktRVZjeHpjcUJYY2ZvUW5Ga2lkc2ZtSHExQlRvTVRiMFV3ci15andlaS1FYk1HZHBTQ1ZPUm96TG9hejV6eVBtamtOVW8wNkpqVXlweG10YVpj?oc=5",
+      "source": "서울일보",
+      "date": "Tue, 13 Oct 2026 08:27:43 GMT"
     },
     {
       "title": "IMF, 중국 성장률 전망 4.5%로 하향…부동산 침체에 소비·투자 부진 - 머니투데이",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Od1BnQ1FaRm1EbkhRQXVzZ0ppbUZfeDBsMUMyS21XTlFqb0FCT0VkelRQUHIzUlFEN3BWbkg3aThwdzhyd2ZOd3lvQXpyTlplYU5vaUxBZm95bm1FSldPbTRfVVdUNzBv0gFuQVVfeXFMUHB3b0FjWVkxa0hBd3R5NXloTm1xWEZfVjM0STd1aXRHLW1nODJZLTZ2Y2VlbXBxenotSlVTRDJ6LXBZQ3dndktSS0JrOXFTcWJPc3o3UmJkaWdGTFR3VHNFXzFub2oyX09JbXFqd2c?oc=5",
       "source": "머니투데이",
       "date": "Tue, 13 Oct 2026 08:12:49 GMT"
-    },
-    {
-      "title": "IMF, 올해 中성장률 4.5%로 하향…中외교부 \"경제발전 자신\"",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxMFpVcWxUb3RBcFoxUlNyUmFtQU4wX3p5WUdVSHljWjdVbUxncU0wYWtENTNyQ2VoaFpCS3dBMXpKQkJPdkctUVktWVRBWm9LMTFfNl9wQTFYWG5qblE?oc=5",
-      "source": "뉴스1",
-      "date": "Tue, 13 Oct 2026 08:11:05 GMT"
     },
     {
       "title": "[中 증시 마감] 한국 증시 급락에 동반 약세...동계스포츠 섹터 강세",
