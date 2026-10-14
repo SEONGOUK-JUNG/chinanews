@@ -1,10 +1,22 @@
 {
-  "run_at_kst": "2026-10-14T10:10:05+09:00",
+  "run_at_kst": "2026-10-14T14:12:08+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "[속보] 중국, 9월 수출 36.3% 급증",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jMGdBUkVuX2NMMWQzT2VIMHBOQ1d6SVI0ZGF4NHpuekYtR3hJOTBSNTF4MW8tMS1IdnpFVTlHV3J2X3VEazNOSW9wSnNhOVVod2V0eTZoUVFIZkU1ZGpiNnV4ZmVfTEZIcGZ6LXJn?oc=5",
+      "source": "국제뉴스",
+      "date": "Wed, 14 Oct 2026 03:18:24 GMT"
+    },
+    {
+      "title": "완공부터 개통까지 12년···신압록강대교에 반영된 북·중관계",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nY2llaDg4VGZtalpnTXBqb3M5SXl4WmpHOUpmWHN6QTRtNDJSWDlsek9sOEh6ZmFRSTdqRnV0SF8ycjMyQlM3RTlwRzFuNU45d1V5OGRLc2tMQdIBX0FVX3lxTFBWcEtlVC1YZTc0NHhRY094eXJtbGJzellleEVkNFZxc1A0LVBxaEFPQzZFZDNYZXFtZFY1cDBYLVNQLUwydzlZMmJQbnRfVHdXSUFsX05MVVBqbW9vQ0pj?oc=5",
+      "source": "경향신문",
+      "date": "Wed, 14 Oct 2026 02:24:00 GMT"
+    },
     {
       "title": "AI 공포에 빅테크 감원까지… 중국 청년층 ‘잃어버린 세대’ 되나",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82YU5kZ2NMcVFvTHdzZElxZktpOGR1Si1mdGFBV29EejZOOFJvOHoySVRZRERIelBlbGZWa1dESEtEOHN5ZFFycWw3Q3ZvX0syaWE2bmNNTHhRN3RIV1RaaGNIcnhqaTg?oc=5",
@@ -12,10 +24,10 @@
       "date": "Wed, 14 Oct 2026 00:10:30 GMT"
     },
     {
-      "title": "[경제 이슈] 루이비통도 못 피한 '중국 한파'…중국 경기 침체에 루이비통 매출 '뚝'",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfcWRmNThmTGpkalQtUmxtdG4yT1ZOQTczZUVYNVJCT2NhSkZ1UEQwR3JjejdscFh2QkI1NWFPM1duaDZRbU1uQ3d6LWd6U2txQ2JqbDB5V0RvU0ZEdUkzM3FlLUk4NER2TXJOWA?oc=5",
-      "source": "프리진경제",
-      "date": "Wed, 14 Oct 2026 00:07:07 GMT"
+      "title": "[사설] 중국발 쇼크…반도체 믿고 짠 장밋빛 경제정책 손질해야",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LNVpRaVZ4bDNQR045UkhzQ0EzTEpTZHF4Q3luUUFfMk01SUZ4QW45OUFZbU5qNVFYVlRzdF9QZzlWSU9PVVE4Zkk4OEx1Z3BWU29mdDV3?oc=5",
+      "source": "중앙일보",
+      "date": "Tue, 13 Oct 2026 15:24:00 GMT"
     },
     {
       "title": "﻿IMF, 중국 올해 성장률 전망 4.5%로 하향",
@@ -60,19 +72,7 @@
       "date": "Tue, 13 Oct 2026 00:50:00 GMT"
     },
     {
-      "title": "중국 재정 발목 잡은 빚 이자…내수 부양책도 한계",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80Wl8wN0FuWXVSRUprUHd4SGdHR3M3SWhHQ0pHZ1hmQlBvUlQxNjdDRXZ1dXplamp4VmtkNjQ3ZE0xeE1COUQtNXphM0djdjYzOVRTTXd2N0Vzdw?oc=5",
-      "source": "한국경제",
-      "date": "Sun, 11 Oct 2026 23:29:44 GMT"
-    },
-    {
-      "title": "중국 소비 부진 속 황금연휴 효과 기대…5중전회에 쏠리는 눈",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxa1BJWmNUMDVZVGkzVElLVFFmdnlqaWNSbjFFMXlHckU4M2V4Q1dOWTNhQk9XRU1QUnZTRDNYQklyb1lkdWh5MF91TnV3LWlJNlY1OFlxZ0dFQ29XaDRwWVJwOXFxcXNydVNNVXUzWnFlcFE?oc=5",
-      "source": "마켓인",
-      "date": "Sun, 11 Oct 2026 02:07:56 GMT"
-    },
-    {
-      "title": "\"더는 환영받지도 안전하지도 않다\"…日기업 4000곳 중국서 짐 쌌다",
+      "title": "- Nate News",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fRWR5TjRMdVBmXzIwYmh4S3FZN1Q3QWlnTWI2T0RhREtCanNEQXRUa2Y4eGduRHRyVnF5OGMwUXhXZ0QxNE40ZDFHaDd4MFhFNzc4?oc=5",
       "source": "Nate News",
       "date": "Sat, 10 Oct 2026 10:01:00 GMT"
