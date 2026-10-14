@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-14T10:10:05+09:00",
+  "run_at_kst": "2026-10-14T20:08:20+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Trump Announces “Massive” Greenland Oil Exploration Plans",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Announces-Massive-Greenland-Oil-Exploration-Plans.html",
+      "source": "OilPrice",
+      "date": "Wed, 14 Oct 2026 05:30:00 -0500"
+    },
+    {
+      "title": "Saudi Aramco Headquarters Hit as Houthi Attacks Escalate",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramco-Headquarters-Hit-as-Houthi-Attacks-Escalate.html",
+      "source": "OilPrice",
+      "date": "Wed, 14 Oct 2026 04:30:00 -0500"
+    },
+    {
+      "title": "Taiwan Commits Up to $4.4 Billion to Alaska LNG Megaproject",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Taiwan-Commits-Up-to-44-Billion-to-Alaska-LNG-Megaproject.html",
+      "source": "OilPrice",
+      "date": "Wed, 14 Oct 2026 03:15:00 -0500"
+    },
+    {
+      "title": "Rising Gasoline Prices Fuel Fresh Inflation Fears in the U.S.",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Rising-Gasoline-Prices-Fuel-Fresh-Inflation-Fears-in-the-US.html",
+      "source": "OilPrice",
+      "date": "Wed, 14 Oct 2026 01:45:00 -0500"
+    },
+    {
+      "title": "Oil Prices Climb Above $106 as Iran Threatens More Tanker Attacks",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-Above-106-as-Iran-Threatens-More-Tanker-Attacks.html",
+      "source": "OilPrice",
+      "date": "Wed, 14 Oct 2026 00:31:31 -0500"
+    },
     {
       "title": "Wall Street Sees Inflation Easing Even With Oil Above $90",
       "link": "https://oilprice.com/Energy/Energy-General/Wall-Street-Sees-Inflation-Easing-Even-With-Oil-Above-90.html",
@@ -36,36 +66,6 @@
       "link": "https://www.mining.com/electra-battery-materials-partners-with-wmc-to-finance-ontario-cobalt-refinery/",
       "source": "mining.com",
       "date": "Tue, 13 Oct 2026 21:47:16 +0000"
-    },
-    {
-      "title": "OPEC Sees Oil Demand Growth Surging to 2.6 Million Bpd in 2027",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Sees-Oil-Demand-Growth-Surging-to-26-Million-Bpd-in-2027.html",
-      "source": "OilPrice",
-      "date": "Tue, 13 Oct 2026 16:30:00 -0500"
-    },
-    {
-      "title": "Five Shale Stocks to Watch Before Third-Quarter Earnings",
-      "link": "https://oilprice.com/Energy/Energy-General/Five-Shale-Stocks-to-Watch-Before-Third-Quarter-Earnings.html",
-      "source": "OilPrice",
-      "date": "Tue, 13 Oct 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Princeton Researchers Find a Lower-Energy Route to Fusion Ignition",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Princeton-Researchers-Find-a-Lower-Energy-Route-to-Fusion-Ignition.html",
-      "source": "OilPrice",
-      "date": "Tue, 13 Oct 2026 15:00:00 -0500"
-    },
-    {
-      "title": "Guyana Oil Exports Set to Surpass 1 Million Barrels per Day for First Time",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Guyana-Oil-Exports-Set-to-Surpass-1-Million-Barrels-per-Day-for-First-Time.html",
-      "source": "OilPrice",
-      "date": "Tue, 13 Oct 2026 14:00:00 -0500"
-    },
-    {
-      "title": "Trump's Middle Corridor Plans Face Russian and Iranian Roadblocks",
-      "link": "https://oilprice.com/Geopolitics/Asia/Trumps-Middle-Corridor-Plans-Face-Russian-and-Iranian-Roadblocks.html",
-      "source": "OilPrice",
-      "date": "Tue, 13 Oct 2026 13:00:00 -0500"
     },
     {
       "title": "SSR to buy Roxmore for $464M, boosts value of Nevada gold mine",
