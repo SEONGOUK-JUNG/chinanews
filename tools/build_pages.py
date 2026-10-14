@@ -1252,15 +1252,15 @@ def _live_price_rows(lang, keys, by_ko):
 
 MEMBERS_API = "https://chinanews-members.koreagwangju.workers.dev"
 M = {
-    "en": {"cell": "Members", "title": "Full specifications & daily prices — members only",
-           "lead": "Product names are public. Grades, forms, purity, applications and the related China spot prices (updated daily) are for members.",
+    "en": {"cell": "Members", "title": "Daily China spot prices — members only",
+           "lead": "Specifications are public. The related China spot prices (USD, updated daily) and the full commodity price list are for members.",
            "M": "30 days · US$990", "Y": "1 year · US$9,000", "have": "Already a member?", "ph": "Access code CNX-XXXX-XXXX-XXXX", "go": "Unlock",
            "active": "Member access active until {d}.", "bad": "Code not found — please check it.", "exp": "This access expired on {d}. Renew below.",
            "dev": "This code is already used on 3 devices. Email ceo@abridge.co.kr to reset.", "net": "Could not reach the server. Please try again.",
            "paid_t": "Payment complete — your access code", "paid_n": "Keep this code. It works on up to 3 devices until {d}. Lost it? Email ceo@abridge.co.kr with your PayPal receipt.",
            "fail": "The payment did not go through. Please try again.", "close": "Close", "asof": "Prices as of {d} · China domestic spot, converted to USD"},
-    "ko": {"cell": "회원 전용", "title": "상세 사양·일일 시세 — 회원 전용",
-           "lead": "품목 이름은 공개합니다. 등급·형태·순도·용도와 관련 원자재의 중국 현물가(매일 갱신)는 회원에게만 보여 드립니다.",
+    "ko": {"cell": "회원 전용", "title": "일일 중국 현물가 — 회원 전용",
+           "lead": "사양은 공개합니다. 관련 원자재의 중국 현물가(달러 환산, 매일 갱신)와 전체 품목 시세표는 회원에게만 보여 드립니다.",
            "M": "30일 · US$990", "Y": "1년 · US$9,000", "have": "이용권이 있으신가요?", "ph": "이용권 코드 CNX-XXXX-XXXX-XXXX", "go": "열기",
            "active": "{d}까지 회원으로 보고 계십니다.", "bad": "코드를 찾지 못했어요. 다시 확인해 주세요.", "exp": "이용권이 {d}에 끝났습니다. 아래에서 연장하세요.",
            "dev": "이 코드는 이미 기기 3대에서 쓰고 있어요. ceo@abridge.co.kr 로 초기화를 요청해 주세요.", "net": "서버에 연결하지 못했어요. 잠시 뒤 다시 해 주세요.",
@@ -1495,19 +1495,19 @@ def render_supply(lang, page, pages, by_ko, ref_date, n_items, key):
         out.append('<div class="pnotice">{}</div>\n'.format(c["notice"]))
     out.append('<div class="ctabar"><a class="cta" href="#rfq">{}</a><span class="note">{}</span></div>\n'.format(esc(t["rfq"]), esc(SC.COMPANY[lang])))
 
-    # product table — 품목 이름만 공개. 사양·순도·용도는 회원 전용(이용권, chinanews-members 워커가 내려 줌)
+    # product table — 사양·순도·용도는 공개(2026-10-14 사용자 지시: 잠그는 건 가격뿐)
     th = c["table_head"]
-    out.append('<div class="tblwrap"><table class="memtbl" data-slug="{}"><thead><tr>{}</tr></thead><tbody>'.format(
-        esc(slug), "".join("<th>{}</th>".format(esc(h)) for h in th)))
+    out.append('<div class="tblwrap"><table><thead><tr>{}</tr></thead><tbody>'.format("".join("<th>{}</th>".format(esc(h)) for h in th)))
     live_keys = []
-    lock = '<td class="lk">{}</td>'.format(esc(M[lang]["cell"]))
     for r in page["rows"]:
         name = r[0] if lang == "en" else r[1]
-        out.append("<tr><td><b>{}</b></td>{}</tr>".format(esc(name), lock * 3))
+        forms = r[2] if lang == "en" else r[3]
+        uses = r[5] if lang == "en" else r[6]
+        out.append("<tr><td><b>{}</b></td><td>{}</td><td>{}</td><td>{}</td></tr>".format(esc(name), esc(forms), esc(r[4]), esc(uses)))
         live_keys.extend(r[7])
     out.append("</tbody></table></div>\n")
 
-    # 관련 원자재 시세도 회원 전용: 이름·단위·차트 링크만 두고 숫자 칸은 회원에게 채워 준다
+    # 관련 원자재 시세만 회원 전용: 이름·단위·차트 링크만 두고 숫자 칸은 회원에게 채워 준다
     prices = _member_price_rows(lang, live_keys, by_ko)
     if prices:
         out.append(h2(lang, t["live"]))

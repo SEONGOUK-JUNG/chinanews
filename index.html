@@ -677,7 +677,7 @@ fetch('/data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json(
     </div>
     <!-- Key Industrial Materials Heatmap (right) -->
     <div class="panel" style="background:var(--bg);padding:10px 12px;margin:0">
-      <div class="panel-head"><div class="panel-title">Key Industrial Materials Heatmap <span class="badge-live">DAILY</span></div></div>
+      <div class="panel-head"><div class="panel-title">Key Industrial Materials Heatmap <span class="badge-live">DAILY</span></div><span class="panel-actions" id="cm-all-btn" style="cursor:pointer;color:var(--orange);font-weight:700" title="China Commodities — Full List (members)">China Commodities — Full List 🔒 →</span></div>
       <div class="heatmap" id="ind-heatmap"><div class="hm-cell hm-no"><div class="hm-name">Loading…</div><div class="hm-val">—</div></div></div>
       <div style="font-size:11px;color:var(--muted);margin-top:8px;font-style:italic">Color: red = up · green = down (CN convention)</div>
     </div>
@@ -708,7 +708,6 @@ fetch('/data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json(
     <div class="panel" style="background:var(--bg);padding:10px 12px">
       <div class="panel-head">
         <div class="panel-title">Featured Commodities <span class="badge-live">REAL</span><span class="ts" id="cm-updated" style="margin-left:6px">Loading…</span></div>
-        <span style="display:flex;gap:12px;align-items:center"><span class="panel-actions" id="cm-csv-btn" style="cursor:pointer;color:var(--muted);font-weight:600;font-size:11px" title="Download all commodities as CSV">⤓ CSV</span><span class="panel-actions" id="cm-all-btn" style="cursor:pointer;color:var(--orange);font-weight:600">All 438 →</span></span>
       </div>
       <table class="dt">
         <thead>
@@ -914,12 +913,23 @@ fetch('/data/commodity_i18n.json?t='+Date.now()).then(function(r){return r.json(
             <div style="font-size:14px;font-weight:700;color:var(--orange)">China Commodities — Full List</div>
             <div style="font-size:11px;color:var(--muted);margin-top:2px" id="cm-modal-meta">≈440 items</div>
           </div>
+          <span class="panel-actions" id="cm-csv-btn" style="display:none;cursor:pointer;color:var(--muted);font-weight:600;font-size:11px" title="Download the full list as CSV">⤓ CSV</span>
           <div style="display:flex;gap:10px;align-items:center">
             <input type="text" id="cm-modal-search" placeholder="Search item / sector…" style="background:var(--line-grid);border:1px solid var(--line-2);color:var(--text);padding:5px 10px;border-radius:3px;font-size:12px;width:200px">
             <span id="cm-modal-close" style="cursor:pointer;font-size:20px;color:var(--muted);padding:0 6px">×</span>
           </div>
         </div>
         <div style="overflow:auto;flex:1;padding:0 16px 16px 16px">
+          <div id="cm-gate" style="border:1px solid var(--orange);border-radius:4px;padding:12px 14px;margin:12px 0">
+            <div style="font-size:13px;font-weight:700;color:var(--orange)" id="cm-gate-t">Prices in the full list are for members</div>
+            <div style="font-size:12px;color:var(--muted);margin:4px 0 10px" id="cm-gate-l">Item names, sectors and units are public. Daily China spot prices (USD) and changes for all items are for members.</div>
+            <div id="cm-gate-plans" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px">
+              <div style="border:1px solid var(--line-2);border-radius:4px;padding:8px 10px"><b style="display:block;margin-bottom:6px;font-size:12px" id="cm-gate-m">30 days · US$990</b><div id="cmpp-M"></div></div>
+              <div style="border:1px solid var(--line-2);border-radius:4px;padding:8px 10px"><b style="display:block;margin-bottom:6px;font-size:12px" id="cm-gate-y">1 year · US$9,000</b><div id="cmpp-Y"></div></div>
+            </div>
+            <div id="cm-gate-code" style="display:flex;gap:8px;margin-top:10px;flex-wrap:wrap;align-items:center"><span style="font-size:12px;color:var(--muted)" id="cm-gate-h">Already a member?</span><input id="cm-gate-in" placeholder="Access code CNX-XXXX-XXXX-XXXX" autocomplete="off" spellcheck="false" maxlength="18" style="flex:1;min-width:200px;background:var(--line-grid);border:1px solid var(--line-2);color:var(--text);padding:6px 9px;font:inherit;font-size:12px;text-transform:uppercase"><button type="button" id="cm-gate-go" style="background:var(--orange);color:#000;border:1px solid var(--orange);font-family:inherit;padding:6px 12px;cursor:pointer">Unlock</button></div>
+            <div id="cm-gate-msg" style="font-size:12px;margin-top:6px;color:var(--orange)"></div>
+          </div>
           <table class="dt" style="width:100%">
             <thead style="position:sticky;top:0;background:var(--bg);z-index:1">
               <tr><th>Item</th><th>Sector</th><th id="cm-th-prev-modal">Prev</th><th id="cm-th-today-modal">Last</th><th>Unit</th><th>Chg%</th></tr>
@@ -1657,8 +1667,7 @@ function renderCmModalBody(filterText){
   const q = (filterText || '').trim().toLowerCase();
   const _enName = function(it){
     const ko = it.display_name || it.name || '';
-    const en = (window.CM_I18N && window.CM_I18N.names && window.CM_I18N.names[ko]);
-    return (en || ko);
+    return cmName(ko);
   };
   const list = (q ? _cmAllItems.filter(function(x){
     return ((x.display_name || x.name || '') + ' ' + (x.sector || '')).toLowerCase().includes(q);
@@ -1669,7 +1678,12 @@ function renderCmModalBody(filterText){
     body.innerHTML = '<tr><td colspan="7" style="color:var(--muted);text-align:center;padding:14px 0">No results</td></tr>';
     return;
   }
-  body.innerHTML = list.map(function(it){ return rowCommodity(it, false); }).join('');
+  body.innerHTML = list.map(function(it){ return window._cmMember ? rowCommodity(it, false) : rowCommodityLocked(it); }).join('');
+}
+// 전체 목록의 가격(전일·당일·등락)은 회원 전용 — 이름·섹터·단위만 공개
+function rowCommodityLocked(item){
+  const lk = '<td style="color:var(--muted);font-size:11px">🔒</td>';
+  return '<tr><td>' + cmName(item.display_name||item.name) + '</td><td>' + cmSector(item.sector||'') + '</td>' + lk + lk + '<td>' + cmUnit(item) + '</td>' + lk + '</tr>';
 }
 async function loadCommodities(){
   try {
@@ -2225,10 +2239,64 @@ window.addEventListener('load', function(){
 })();
 </script>
 <script>
+/* ===== Full List members gate (2026-10-14): prices only ===== */
+(function(){
+  var API='https://chinanews-members.koreagwangju.workers.dev';
+  var KO=(window.CN_LANG==='ko');
+  var T=KO?{t:'전체 목록의 가격은 회원 전용입니다',l:'품목 이름·섹터·단위는 공개합니다. 전 품목의 중국 현물가(달러 환산)와 등락은 회원에게만 보여 드립니다.',m:'30일 · US$990',y:'1년 · US$9,000',h:'이용권이 있으신가요?',ph:'이용권 코드 CNX-XXXX-XXXX-XXXX',go:'열기',
+      on:'{d}까지 회원으로 보고 계십니다.',bad:'코드를 찾지 못했어요. 다시 확인해 주세요.',exp:'이용권이 {d}에 끝났습니다. 아래에서 연장하세요.',dev:'이 코드는 이미 기기 3대에서 쓰고 있어요. ceo@abridge.co.kr 로 초기화를 요청해 주세요.',net:'서버에 연결하지 못했어요. 잠시 뒤 다시 해 주세요.',
+      paid:'결제 완료 — 이용권 코드: {c} · {d}까지, 기기 3대. 꼭 적어 두세요.',fail:'결제를 마치지 못했어요. 다시 시도해 주세요.'}
+    :{t:'Prices in the full list are for members',l:'Item names, sectors and units are public. Daily China spot prices (USD) and changes for all items are for members.',m:'30 days · US$990',y:'1 year · US$9,000',h:'Already a member?',ph:'Access code CNX-XXXX-XXXX-XXXX',go:'Unlock',
+      on:'Member access active until {d}.',bad:'Code not found — please check it.',exp:'This access expired on {d}. Renew below.',dev:'This code is already used on 3 devices. Email ceo@abridge.co.kr to reset.',net:'Could not reach the server. Please try again.',
+      paid:'Payment complete — your access code: {c} · valid until {d} on up to 3 devices. Keep it safe.',fail:'The payment did not go through. Please try again.'};
+  function $(i){return document.getElementById(i);}
+  if(!$('cm-gate'))return;
+  function ls(k,v){try{if(v===undefined)return localStorage.getItem(k);if(v===null)localStorage.removeItem(k);else localStorage.setItem(k,v);}catch(e){return null;}}
+  var dev=ls('cnx_dev');if(!dev){dev=Math.random().toString(36).slice(2)+Date.now().toString(36);ls('cnx_dev',dev);}
+  if(KO){$('cm-gate-t').textContent=T.t;$('cm-gate-l').textContent=T.l;$('cm-gate-m').textContent=T.m;$('cm-gate-y').textContent=T.y;$('cm-gate-h').textContent=T.h;$('cm-gate-in').placeholder=T.ph;$('cm-gate-go').textContent=T.go;}
+  var msg=$('cm-gate-msg');
+  function member(exp){
+    window._cmMember=true;
+    $('cm-gate-plans').style.display='none';$('cm-gate-code').style.display='none';$('cm-gate-l').style.display='none';
+    $('cm-gate-t').textContent=T.on.replace('{d}',exp||'');$('cm-csv-btn').style.display='';
+    var q=$('cm-modal-search');if(typeof renderCmModalBody==='function')renderCmModalBody(q?q.value:'');
+  }
+  function unlock(code,quiet){
+    code=String(code||'').trim().toUpperCase();if(!code)return;
+    fetch(API+'/key',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({code:code,dev:dev})})
+    .then(function(r){return r.json().then(function(j){return{s:r.status,j:j};});}).then(function(x){
+      if(x.s===200){ls('cnx_code',code);member(x.j.expires);return;}
+      if(x.s===410){ls('cnx_code',null);msg.textContent=T.exp.replace('{d}',x.j.expires||'');return;}
+      if(quiet&&x.s===404){ls('cnx_code',null);return;}
+      msg.textContent=(x.s===409?T.dev:T.bad);
+    }).catch(function(){if(!quiet)msg.textContent=T.net;});
+  }
+  $('cm-gate-go').onclick=function(){unlock($('cm-gate-in').value);};
+  $('cm-gate-in').onkeydown=function(e){if(e.key==='Enter'){e.preventDefault();unlock(this.value);}};
+  var saved=ls('cnx_code');if(saved)unlock(saved,true);
+  var ppLoaded=false;
+  document.addEventListener('click',function(e){
+    if(!(e.target&&e.target.id==='cm-all-btn')||ppLoaded||window._cmMember)return;ppLoaded=true;
+    fetch(API+'/config').then(function(r){return r.json();}).then(function(cfg){
+      if(!cfg.clientId)return;var sc=document.createElement('script');
+      sc.src='https://www.paypal.com/sdk/js?client-id='+encodeURIComponent(cfg.clientId)+'&currency=USD&intent=capture&components=buttons&locale='+(KO?'ko_KR':'en_US');
+      sc.onload=function(){['M','Y'].forEach(function(plan){paypal.Buttons({style:{layout:'vertical',shape:'rect',label:'pay',height:34},
+        createOrder:function(){return fetch(API+'/paypal/create',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({plan:plan})}).then(function(r){return r.json();}).then(function(o){if(!o.id)throw new Error('create');return o.id;});},
+        onApprove:function(d){return fetch(API+'/paypal/capture',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({orderID:d.orderID})}).then(function(r){return r.json();}).then(function(r){
+          if(!r.code)throw new Error(r.error||'capture');ls('cnx_code',r.code);unlock(r.code);
+          setTimeout(function(){msg.textContent=T.paid.replace('{c}',r.code).replace('{d}',r.expires);},600);});},
+        onError:function(){msg.textContent=T.fail;}}).render('#cmpp-'+plan);});};
+      document.head.appendChild(sc);
+    }).catch(function(){});
+  });
+})();
+</script>
+<script>
 /* ===== Quick wins: CSV export + sortable tables (decoupled, append-only) ===== */
 (function(){
   function toCsvVal(v){ v=(v==null?'':String(v)); return /[",\n]/.test(v)? '"'+v.replace(/"/g,'""')+'"' : v; }
   function downloadCsv(){
+    if(!window._cmMember) return;
     fetch('/data/commodities.json?t='+Date.now()).then(function(r){return r.json();}).then(function(d){
       var nm=(typeof cmName==='function')?cmName:function(x){return x;};
       var sec=(typeof cmSector==='function')?cmSector:function(x){return x;};
@@ -2326,7 +2394,7 @@ window.addEventListener('load', function(){
   };
 })();
 </script>
-<!-- home-commodity-links:start --><style>.hcl{margin:26px 0 8px;padding:18px 20px;border:1px solid var(--line,#232a33);border-radius:12px;background:var(--panel,#131820)}.hcl h2{margin:0 0 4px;font-size:15px;letter-spacing:.2px}.hcl p{margin:0 0 12px;font-size:12px;color:var(--dim,#7d8794)}.hcl .row{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px}.hcl .row a{font-size:12px;padding:5px 10px;border:1px solid var(--line,#232a33);border-radius:999px;color:var(--fg,#c9d1d9);text-decoration:none}.hcl .row a:hover{border-color:#58a6ff;color:#58a6ff}.hcl .row.sect a{background:rgba(88,166,255,.08);border-color:rgba(88,166,255,.35)}.hcl-news{margin:-6px 0 12px;font-size:12.5px;line-height:1.9;color:var(--dim,#7d8794)}.hcl-news a{color:#E8C078;text-decoration:none}.hcl-news a:hover{text-decoration:underline}.hcl-news .dot{opacity:.4;margin:0 2px}.hcl-news a.ask{border:1px solid rgba(232,192,120,.5);border-radius:999px;padding:3px 10px;white-space:nowrap}.hcl-news a.ask:hover{background:rgba(232,192,120,.12);text-decoration:none}</style><section class="hcl"><h2>Browse commodities</h2><p>Pick a sector, or open a commodity for today's price and its chart.</p><p class="hcl-news">New · <a href="/supply/yttrium.html">Yttrium oxide 5N (Y₂O₃ 99.999%) now supplied to Korea</a> <span class="dot">·</span> <a href="/supply/yttrium.html">D50 1–2 / 3–4 / 5–7 µm</a> <span class="dot">·</span> <a class="ask" href="/supply/yttrium.html#rfq">Ask for a price →</a> <span class="dot">·</span> <a href="/press/yttrium-oxide-supply-20260917.html">Announcement</a></p><div class="row sect"><a href="/commodities/chemicals.html">chemicals <span style="opacity:.6">295</span></a><a href="/commodities/non-ferrous-metals.html">non-ferrous-metals <span style="opacity:.6">28</span></a><a href="/commodities/rubber-plastics.html">rubber-plastics <span style="opacity:.6">18</span></a><a href="/commodities/steel.html">steel <span style="opacity:.6">16</span></a><a href="/commodities/textiles.html">textiles <span style="opacity:.6">16</span></a><a href="/commodities/energy.html">energy <span style="opacity:.6">13</span></a><a href="/commodities/agriculture-byproducts.html">agriculture-byproducts <span style="opacity:.6">11</span></a><a href="/commodities/building-materials.html">building-materials <span style="opacity:.6">6</span></a><a href="/commodities/other.html">other <span style="opacity:.6">2</span></a><a href="/commodities/">All 405 commodities</a></div><div class="row"><a href="/commodity/1-4-butanediol.html">1,4-Butanediol (BDO)</a><a href="/commodity/1-bromobutane.html">1-Bromobutane</a><a href="/commodity/2-4-dichlorobenzaldehyde.html">2,4-Dichlorobenzaldehyde</a><a href="/commodity/2-ethylhexyl-acrylate.html">2-Ethylhexyl Acrylate (2-EHA)</a><a href="/commodity/2-methyltetrahydrofuran.html">2-Methyltetrahydrofuran</a><a href="/commodity/3-5-dichloroaniline.html">3,5-Dichloroaniline</a><a href="/commodity/acetic-acid.html">Acetic Acid</a><a href="/commodity/acetic-anhydride.html">Acetic Anhydride</a><a href="/commodity/acetone.html">Acetone</a><a href="/commodity/acetophenone.html">Acetophenone</a><a href="/commodity/acetylacetone.html">Acetylacetone</a><a href="/commodity/acrylamide.html">Acrylamide</a><a href="/commodity/acrylic-acid.html">Acrylic Acid</a><a href="/commodity/activated-carbon.html">Activated Carbon</a><a href="/commodity/adipic-acid.html">Adipic Acid</a><a href="/commodity/aibn.html">AIBN (Azobisisobutyronitrile)</a><a href="/commodity/alkali.html">Alkali</a><a href="/commodity/aluminum-chloride.html">Aluminum Chloride</a><a href="/commodity/aluminum-fluoride.html">Aluminum Fluoride</a><a href="/commodity/ammonium-iodide.html">Ammonium Iodide</a><a href="/commodity/ammonium-nitrate.html">Ammonium Nitrate</a><a href="/commodity/ammonium-persulfate.html">Ammonium Persulfate</a><a href="/commodity/ammonium-sulfate.html">Ammonium Sulfate</a><a href="/commodity/anhydrous-aluminum-chloride.html">Anhydrous Aluminum Chloride</a><a href="/commodity/anhydrous-calcium-chloride.html">Anhydrous Calcium Chloride</a><a href="/commodity/anhydrous-citric-acid.html">Anhydrous Citric Acid</a><a href="/commodity/anhydrous-sodium-acetate.html">Anhydrous Sodium Acetate</a><a href="/commodity/anhydrous-sodium-sulfate.html">Anhydrous Sodium Sulfate</a><a href="/commodity/anhydrous-sodium-sulfate-2.html">Anhydrous Sodium Sulfate (Yuanmingfen)</a><a href="/commodity/anhydrous-sodium-sulfite.html">Anhydrous Sodium Sulfite</a></div></section><!-- home-commodity-links:end --><footer id="seo-footer" lang="en" style="border-top:1px solid var(--line);margin-top:14px;padding:14px 16px 22px;font-size:12px;color:var(--muted);line-height:1.6;background:var(--bg-1)">
+<!-- home-commodity-links:start --><style>.hcl{margin:26px 0 8px;padding:18px 20px;border:1px solid var(--line,#232a33);border-radius:12px;background:var(--panel,#131820)}.hcl h2{margin:0 0 4px;font-size:15px;letter-spacing:.2px}.hcl p{margin:0 0 12px;font-size:12px;color:var(--dim,#7d8794)}.hcl .row{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px}.hcl .row a{font-size:12px;padding:5px 10px;border:1px solid var(--line,#232a33);border-radius:999px;color:var(--fg,#c9d1d9);text-decoration:none}.hcl .row a:hover{border-color:#58a6ff;color:#58a6ff}.hcl .row.sect a{background:rgba(88,166,255,.08);border-color:rgba(88,166,255,.35)}.hcl-news{margin:-6px 0 12px;font-size:12.5px;line-height:1.9;color:var(--dim,#7d8794)}.hcl-news a{color:#E8C078;text-decoration:none}.hcl-news a:hover{text-decoration:underline}.hcl-news .dot{opacity:.4;margin:0 2px}.hcl-news a.ask{border:1px solid rgba(232,192,120,.5);border-radius:999px;padding:3px 10px;white-space:nowrap}.hcl-news a.ask:hover{background:rgba(232,192,120,.12);text-decoration:none}</style><section class="hcl"><h2>Browse commodities</h2><p>Pick a sector, or open a commodity for today's price and its chart.</p><p class="hcl-news">New · <a href="/supply/yttrium.html">Yttrium oxide 5N (Y₂O₃ 99.999%) now supplied to Korea</a> <span class="dot">·</span> <a href="/supply/yttrium.html">D50 1–2 / 3–4 / 5–7 µm</a> <span class="dot">·</span> <a class="ask" href="/supply/yttrium.html#rfq">Ask for a price →</a> <span class="dot">·</span> <a href="/press/yttrium-oxide-supply-20260917.html">Announcement</a></p><div class="row sect"><a href="/commodities/chemicals.html">chemicals <span style="opacity:.6">293</span></a><a href="/commodities/non-ferrous-metals.html">non-ferrous-metals <span style="opacity:.6">28</span></a><a href="/commodities/rubber-plastics.html">rubber-plastics <span style="opacity:.6">18</span></a><a href="/commodities/steel.html">steel <span style="opacity:.6">16</span></a><a href="/commodities/textiles.html">textiles <span style="opacity:.6">16</span></a><a href="/commodities/energy.html">energy <span style="opacity:.6">13</span></a><a href="/commodities/agriculture-byproducts.html">agriculture-byproducts <span style="opacity:.6">11</span></a><a href="/commodities/building-materials.html">building-materials <span style="opacity:.6">6</span></a><a href="/commodities/other.html">other <span style="opacity:.6">2</span></a><a href="/commodities/">All 403 commodities</a></div><div class="row"><a href="/commodity/1-4-butanediol.html">1,4-Butanediol (BDO)</a><a href="/commodity/1-bromobutane.html">1-Bromobutane</a><a href="/commodity/2-4-dichlorobenzaldehyde.html">2,4-Dichlorobenzaldehyde</a><a href="/commodity/2-ethylhexyl-acrylate.html">2-Ethylhexyl Acrylate (2-EHA)</a><a href="/commodity/2-methyltetrahydrofuran.html">2-Methyltetrahydrofuran</a><a href="/commodity/3-5-dichloroaniline.html">3,5-Dichloroaniline</a><a href="/commodity/acetic-acid.html">Acetic Acid</a><a href="/commodity/acetic-anhydride.html">Acetic Anhydride</a><a href="/commodity/acetone.html">Acetone</a><a href="/commodity/acetophenone.html">Acetophenone</a><a href="/commodity/acetylacetone.html">Acetylacetone</a><a href="/commodity/acrylamide.html">Acrylamide</a><a href="/commodity/acrylic-acid.html">Acrylic Acid</a><a href="/commodity/activated-carbon.html">Activated Carbon</a><a href="/commodity/adipic-acid.html">Adipic Acid</a><a href="/commodity/aibn.html">AIBN (Azobisisobutyronitrile)</a><a href="/commodity/alkali.html">Alkali</a><a href="/commodity/aluminum-chloride.html">Aluminum Chloride</a><a href="/commodity/aluminum-fluoride.html">Aluminum Fluoride</a><a href="/commodity/ammonium-iodide.html">Ammonium Iodide</a><a href="/commodity/ammonium-nitrate.html">Ammonium Nitrate</a><a href="/commodity/ammonium-persulfate.html">Ammonium Persulfate</a><a href="/commodity/ammonium-sulfate.html">Ammonium Sulfate</a><a href="/commodity/anhydrous-aluminum-chloride.html">Anhydrous Aluminum Chloride</a><a href="/commodity/anhydrous-calcium-chloride.html">Anhydrous Calcium Chloride</a><a href="/commodity/anhydrous-citric-acid.html">Anhydrous Citric Acid</a><a href="/commodity/anhydrous-sodium-acetate.html">Anhydrous Sodium Acetate</a><a href="/commodity/anhydrous-sodium-sulfate.html">Anhydrous Sodium Sulfate</a><a href="/commodity/anhydrous-sodium-sulfate-2.html">Anhydrous Sodium Sulfate (Yuanmingfen)</a><a href="/commodity/anhydrous-sodium-sulfite.html">Anhydrous Sodium Sulfite</a></div></section><!-- home-commodity-links:end --><footer id="seo-footer" lang="en" style="border-top:1px solid var(--line);margin-top:14px;padding:14px 16px 22px;font-size:12px;color:var(--muted);line-height:1.6;background:var(--bg-1)">
   <nav style="margin-bottom:8px"><a href="/commodities/" style="color:var(--orange);margin-right:14px">Commodities A–Z</a><a href="/daily/" style="color:var(--orange);margin-right:14px">Daily Brief</a><a href="/supply/" style="color:var(--orange);margin-right:14px;font-weight:700">Supply / RFQ</a><a href="/press/abridge-sic-cvd-20260615.html" style="color:var(--orange);margin-right:14px">Press</a><a href="/ko/" hreflang="ko" style="color:var(--orange);margin-right:14px">한국어</a><a href="/" hreflang="en" style="color:var(--orange)">English</a></nav>
   <p class="seo-about" data-lang="en" style="margin:0">China markets terminal by BRIDGE GROUP · 400 commodity spot prices, indices, FX, macro data in USD, daily · Indicative quotations, not advice · © <a href="http://www.abridge.co.kr/" rel="noopener" style="color:var(--muted)">ABridge</a> · <a href="https://www.ecobridge.biz/" rel="noopener" style="color:var(--muted)">Ecobridge</a></p>
   <p class="seo-about" data-lang="ko" hidden style="margin:0">BRIDGE GROUP이 운영하는 중국 시장 터미널 · 중국 원자재 400종 현물가·지수·환율·거시지표를 달러로 매일 갱신 · 참고용 시세이며 투자 권유가 아닙니다 · © <a href="http://www.abridge.co.kr/" rel="noopener" style="color:var(--muted)">에이브릿지</a> · <a href="https://www.ecobridge.biz/" rel="noopener" style="color:var(--muted)">에코브릿지</a></p>
