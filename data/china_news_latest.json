@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-14T20:08:20+09:00",
+  "run_at_kst": "2026-10-14T20:10:06+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -36,6 +36,12 @@
       "date": "Wed, 14 Oct 2026 05:39:00 GMT"
     },
     {
+      "title": "中 허리펑·팀 쿡 회동…대중국 협력 확대 논의",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96aG5UdzB1MTBHbXZBYUIxMXliSUxtVm1sNFNpd3NKWURXdWF5Um9YdkpGazdmUE94bTVnQlFPY190bURHTEZjM1BOY3VWSDJyeG5QZjhiT2RLa0NiTm90VVplZFVsdDNFNFlyVw?oc=5",
+      "source": "스페셜경제",
+      "date": "Wed, 14 Oct 2026 00:48:23 GMT"
+    },
+    {
       "title": "AI 공포에 빅테크 감원까지… 중국 청년층 ‘잃어버린 세대’ 되나",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82YU5kZ2NMcVFvTHdzZElxZktpOGR1Si1mdGFBV29EejZOOFJvOHoySVRZRERIelBlbGZWa1dESEtEOHN5ZFFycWw3Q3ZvX0syaWE2bmNNTHhRN3RIV1RaaGNIcnhqaTg?oc=5",
       "source": "M이코노미뉴스",
@@ -70,12 +76,6 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2LVpZX0wzRG1oLWR3c2VlNmxxNmFNTkxWd0VuQzdFazdzLTVGS3ROdTkwSzU3WkNvZGV5ZVEyd2JBN192Qk9PY0Z0Q3dYZTZWZEIydjlvV3J6X2M?oc=5",
       "source": "KBS 뉴스",
       "date": "Tue, 13 Oct 2026 00:50:00 GMT"
-    },
-    {
-      "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Mon, 12 Oct 2026 07:00:00 GMT"
     }
   ]
 }
