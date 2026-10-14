@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-14T20:08:20+09:00",
+  "run_at_kst": "2026-10-15T07:08:21+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
-      "title": "Trump Announces “Massive” Greenland Oil Exploration Plans",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Announces-Massive-Greenland-Oil-Exploration-Plans.html",
+      "title": "White House Turns to Korean War-Era Law as Diesel Prices Stay Above $6",
+      "link": "https://oilprice.com/Energy/Crude-Oil/White-House-Turns-to-Korean-War-Era-Law-as-Diesel-Prices-Stay-Above-6.html",
       "source": "OilPrice",
-      "date": "Wed, 14 Oct 2026 05:30:00 -0500"
+      "date": "Wed, 14 Oct 2026 17:00:00 -0500"
     },
     {
-      "title": "Saudi Aramco Headquarters Hit as Houthi Attacks Escalate",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramco-Headquarters-Hit-as-Houthi-Attacks-Escalate.html",
+      "title": "US Crude Oil Inventories See Massive Drop Off",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-See-Massive-Drop-Off.html",
       "source": "OilPrice",
-      "date": "Wed, 14 Oct 2026 04:30:00 -0500"
+      "date": "Wed, 14 Oct 2026 16:43:47 -0500"
     },
     {
-      "title": "Taiwan Commits Up to $4.4 Billion to Alaska LNG Megaproject",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Taiwan-Commits-Up-to-44-Billion-to-Alaska-LNG-Megaproject.html",
-      "source": "OilPrice",
-      "date": "Wed, 14 Oct 2026 03:15:00 -0500"
-    },
-    {
-      "title": "Rising Gasoline Prices Fuel Fresh Inflation Fears in the U.S.",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Rising-Gasoline-Prices-Fuel-Fresh-Inflation-Fears-in-the-US.html",
-      "source": "OilPrice",
-      "date": "Wed, 14 Oct 2026 01:45:00 -0500"
-    },
-    {
-      "title": "Oil Prices Climb Above $106 as Iran Threatens More Tanker Attacks",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-Above-106-as-Iran-Threatens-More-Tanker-Attacks.html",
-      "source": "OilPrice",
-      "date": "Wed, 14 Oct 2026 00:31:31 -0500"
-    },
-    {
-      "title": "Wall Street Sees Inflation Easing Even With Oil Above $90",
-      "link": "https://oilprice.com/Energy/Energy-General/Wall-Street-Sees-Inflation-Easing-Even-With-Oil-Above-90.html",
-      "source": "OilPrice",
-      "date": "Tue, 13 Oct 2026 19:00:00 -0500"
-    },
-    {
-      "title": "Lawrence Tech launches $100,000 critical materials innovation challenge",
-      "link": "https://www.mining.com/lawrence-tech-launches-100000-critical-materials-innovation-challenge/",
+      "title": "Canadian Chrome Company launches First Nations advisory committee",
+      "link": "https://www.mining.com/canadian-chrome-company-launches-first-nations-advisory-committee/",
       "source": "mining.com",
-      "date": "Tue, 13 Oct 2026 23:53:55 +0000"
+      "date": "Wed, 14 Oct 2026 21:30:00 +0000"
     },
     {
-      "title": "Record Tanker Rates Leave Heavy Crude Stranded in the Americas",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Record-Tanker-Rates-Leave-Heavy-Crude-Stranded-in-the-Americas.html",
+      "title": "Boron One boosts Serbia project economics in updated study",
+      "link": "https://www.mining.com/boron-one-boosts-serbia-project-economics-in-updated-study/",
+      "source": "mining.com",
+      "date": "Wed, 14 Oct 2026 21:10:00 +0000"
+    },
+    {
+      "title": "Trump Announces $80 Billion Taiwan LNG Deal",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Trump-Announces-80-Billion-Taiwan-LNG-Deal.html",
       "source": "OilPrice",
-      "date": "Tue, 13 Oct 2026 18:00:00 -0500"
+      "date": "Wed, 14 Oct 2026 16:00:00 -0500"
     },
     {
-      "title": "Stranded Middle East LNG Supply Upends Gas Markets",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Stranded-Middle-East-LNG-Supply-Upends-Gas-Markets.html",
+      "title": "Hycroft hits bonanza gold grades at Nevada mine",
+      "link": "https://www.mining.com/hycroft-hits-bonanza-gold-grades-at-nevada-mine/",
+      "source": "mining.com",
+      "date": "Wed, 14 Oct 2026 20:25:19 +0000"
+    },
+    {
+      "title": "Britain's $47 Billion North Sea Oil Decision Hangs in the Balance",
+      "link": "https://oilprice.com/Energy/Energy-General/Britains-47-Billion-North-Sea-Oil-Decision-Hangs-in-the-Balance.html",
       "source": "OilPrice",
-      "date": "Tue, 13 Oct 2026 17:00:00 -0500"
+      "date": "Wed, 14 Oct 2026 15:00:00 -0500"
     },
     {
-      "title": "Electra Battery Materials partners with WMC to finance Ontario cobalt refinery",
-      "link": "https://www.mining.com/electra-battery-materials-partners-with-wmc-to-finance-ontario-cobalt-refinery/",
-      "source": "mining.com",
-      "date": "Tue, 13 Oct 2026 21:47:16 +0000"
+      "title": "Ship Sinks in Strait of Hormuz as Iran Escalates Maritime Attacks",
+      "link": "https://oilprice.com/Geopolitics/Middle-East/Ship-Sinks-in-Strait-of-Hormuz-as-Iran-Escalates-Maritime-Attacks.html",
+      "source": "OilPrice",
+      "date": "Wed, 14 Oct 2026 14:00:00 -0500"
     },
     {
-      "title": "SSR to buy Roxmore for $464M, boosts value of Nevada gold mine",
-      "link": "https://www.mining.com/ssr-to-buy-roxmore-for-464m-boosts-value-of-nevada-gold-mine/",
-      "source": "mining.com",
-      "date": "Tue, 13 Oct 2026 17:59:12 +0000"
+      "title": "Putin Fights to Preserve Russia’s Fading Influence in Central Asia",
+      "link": "https://oilprice.com/Geopolitics/Asia/Putin-Fights-to-Preserve-Russias-Fading-Influence-in-Central-Asia.html",
+      "source": "OilPrice",
+      "date": "Wed, 14 Oct 2026 13:00:00 -0500"
     },
     {
-      "title": "The Ore Wars: an interactive history 2002–2026",
-      "link": "https://www.mining.com/the-ore-wars-an-interactive-history-2002-2026/",
-      "source": "mining.com",
-      "date": "Tue, 13 Oct 2026 16:38:46 +0000"
+      "title": "Houthis Vow More Attacks After Strike on Aramco Headquarters",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Vow-More-Attacks-After-Strike-on-Aramco-Headquarters.html",
+      "source": "OilPrice",
+      "date": "Wed, 14 Oct 2026 12:30:00 -0500"
     },
     {
-      "title": "JPMorgan names critical minerals chief for $1.5T push",
-      "link": "https://www.mining.com/jpmorgan-names-critical-minerals-chief-for-1-5t-push/",
+      "title": "Equinox gold output jumps 34% after Orla merger",
+      "link": "https://www.mining.com/equinox-gold-output-jumps-34-after-orla-merger/",
       "source": "mining.com",
-      "date": "Tue, 13 Oct 2026 15:54:00 +0000"
+      "date": "Wed, 14 Oct 2026 17:06:00 +0000"
     },
     {
-      "title": "Air strike kills at least 72 miners in Sudan, rights group says",
-      "link": "https://www.mining.com/air-strike-kills-at-least-72-miners-in-sudan-rights-group-says/",
+      "title": "5 Challenges Facing South America’s Copper Boom",
+      "link": "https://oilprice.com/Metals/Commodities/5-Challenges-Facing-South-Americas-Copper-Boom.html",
+      "source": "OilPrice",
+      "date": "Wed, 14 Oct 2026 12:00:00 -0500"
+    },
+    {
+      "title": "Copper price forecasts lifted for 2026 but tariff “collapse” still on the table",
+      "link": "https://www.mining.com/copper-price-forecasts-lifted-for-2026-but-tariff-collapse-still-on-the-table/",
       "source": "mining.com",
-      "date": "Tue, 13 Oct 2026 15:24:06 +0000"
+      "date": "Wed, 14 Oct 2026 16:31:08 +0000"
+    },
+    {
+      "title": "Former Rio Tinto, Anglo American executive named ICMM’s first woman CEO",
+      "link": "https://www.mining.com/former-rio-tinto-anglo-american-executive-named-icmms-first-woman-ceo/",
+      "source": "mining.com",
+      "date": "Wed, 14 Oct 2026 15:02:54 +0000"
     }
   ]
 }

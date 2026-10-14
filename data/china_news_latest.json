@@ -1,10 +1,22 @@
 {
-  "run_at_kst": "2026-10-14T20:10:06+09:00",
+  "run_at_kst": "2026-10-15T07:08:21+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "토큰으로 지어진 유령도시… 중국 AI 굴기의 성과와 한계",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN055OURaNzdDelc2NHdGaXJBOGVRdzRxUnc1NnA3NVpXdDlKZ1JlaEpoYXNkdmFHRkotbVNVUkNveTcxUlhyVjdpR0gzZEJmdWl2R0NPZ2w5ano0RDVWYklPTE5oeG1COTd0U1VXeHJZMzdMaU8xQlVwMlR5Mi05cXg1MVlrNV9RUzV3dmV3?oc=5",
+      "source": "조선일보",
+      "date": "Wed, 14 Oct 2026 18:00:00 GMT"
+    },
+    {
+      "title": "신압록강대교, 완공 12년 만에 개통…“북-중 경제협력 복원 신호”",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNeHk0WklqX1E5WEs0QWlXUGxKWjNneEI5N0tNZHZ6VjBIYnpaUVlpOVpuWGJEWUQ5TUxwVWIyZFNqd2xwb2lKcnlWZzF3RHdCa1R5US1aTFhYM09yN0hGSnVUZ1l2Njlld1o0UQ?oc=5",
+      "source": "한겨레",
+      "date": "Wed, 14 Oct 2026 11:34:00 GMT"
+    },
     {
       "title": "\"한국 수출 회복·인플레 압력 완화…中 성장둔화가 리스크\"",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WRTJmYm9RRVhlVzd2dm11NmNicTI1dDBYOHhkaFowdzhDdDNaSEU2OVdRbVZ2eXNMdGNHNHI2Z2FmR3NkMlFHa0hKaXRCZzNM?oc=5",
@@ -12,52 +24,34 @@
       "date": "Wed, 14 Oct 2026 10:09:32 GMT"
     },
     {
-      "title": "中부총리, 대중 무역조치 요구한 프랑스에 \"대화 지속 희망\"",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81enJXWWhtWkRlVkhKWlNadFMyWXRkMC1aSEQ2MkRsN2JGTGg3eVpzYXFCRDdPVDNDc01zTmxUMmpHV2NYN1BKUHBwV2FmOXZQRk4tNlNuOHc5Q0Q0YlJBTNIBeEFVX3lxTE5ZQnRIRGZJZDc2TkZmVU0tWnpUd1B4NFA5RGZpWmRNTkliaEJDaWJyMFE3U0ZJUzQtSGs0UHNBNkE4OU5oSE9Vbk8wTl9MMjNOeG42Mm82bmJqRmxZZUV5LXlNbHVfMlBhQUo0NjNvTnVGSUdncV9Pcg?oc=5",
-      "source": "뉴시스",
-      "date": "Wed, 14 Oct 2026 09:48:45 GMT"
+      "title": "Xinhua Silk Road: '마당 경제', 중국 중부 현의 농촌 문화관광 활성화",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSZVo2YTg0a3J2Tkl0WmEzM3kwVmFjTWNTcWUya1RIVDUyMERZdDRqRGc4RHJSRk1jaExtMUh2QWdhUDdwUDhMUTlFaUZoY0pMWW83UjF3?oc=5",
+      "source": "지디넷코리아",
+      "date": "Wed, 14 Oct 2026 08:10:03 GMT"
     },
     {
-      "title": "[Biz-inside,China] AI 시대의 새로운 발전소...中, ‘토큰 팩토리’ 보급 속도전",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SSEl1ZThVZGg3cXZYLWZnQ0FKR1ZMSVJyTktOMzQyTFFXeWk3bTJ6ejVCcktKdGkzZXotWV9hU251bDBmQlcweDlDd1RGeFFGSE5nQmZn?oc=5",
-      "source": "중앙일보",
-      "date": "Wed, 14 Oct 2026 05:59:25 GMT"
+      "title": "중국 9월 희토류 수출량 6.7% 증가, 올해 들어 누적 수출량은 9.6% 감소",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EZDFlX1NPWHk4b2ZhNUlYMjhyZE5wY2VwSUdZUDdTMzBxc2MwX1pIa0ljNDhUTWx3T25lYlNwVjNJaDFvMi1KVTZHNTJoWnZOQ0FLS0c1UkpHQVJPMDFneUR4SUlyaWFrUFRGMUhKZUJxeGc?oc=5",
+      "source": "비즈니스포스트",
+      "date": "Wed, 14 Oct 2026 08:06:51 GMT"
     },
     {
-      "title": "IMF가 분석한 중국의 과거, 현재, 그리고 미래",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWWdyNEo4N3MwVk1JbEZfSzFPbXVhb3lkNHpyeHFjRGdaYWZHZVotMFYxTHlFNDBTaDFrSlhZRUxkenJWRnFmSERBODJtVEM3dWF6NXFPdEdLX29HWmVSTURyMHlMUzROV3lWT3JDREhCU1dMOU1sb2hVSm1HdktUT3hGczFxMVF6dFE?oc=5",
-      "source": "OhmyNews",
-      "date": "Wed, 14 Oct 2026 05:59:00 GMT"
+      "title": "중국, 9월 생산자물가 5.0% 올라⋯4년여만 최고",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XTWZ4WjJjZzQzQ3lzbzJ0T3UtWTZEOWZLakdha1A5OE9vRERuQU1ZeE9URjhUWFpEc0FfUVR5Smc5MW5QSlFNZmM2Y3BKaFY2NGU2b0xEMDBEc1Y1YnZ1N1hYaUlELVlQYWU2ckMtSXFPWEtC?oc=5",
+      "source": "이투데이",
+      "date": "Wed, 14 Oct 2026 05:42:00 GMT"
     },
     {
-      "title": "[경제 포커스] 중국發 반도체 고점 우려 속에 IMF 韓 경제에 장밋빛 전망 - 조선비즈",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNajhmdWVaX1RvaEhGZUZlODFmZHhZVXRieG1DVnFueDFXR0R0cUtoOU5UbHJ2LU9pVWpKWVV5TmhCS0FfWXI5RGR1bmMycE5yb01vNnFwNEdJSGtaS21Pcm9JMDhPcHRUN0hmS3FSSDBQMklnZHFIR2JwOUgySzRaLS1MSWJWZ9IBmgFBVV95cUxPSU9kcHZmRWtqMEJhR1d3T2Noakw0Q1NXOThvNFZHU2RJWE9LUm1TaTVxSWVzYVJNTXIteklPakFybGRwNXpCQUFiUk96dENaQTVUX1M4d0xKMFZTY1ZMeV9Ea3phSnZ2Rm5YMURpMWRVRmxaSGtHcmxVODZocHpPWTRvX0xzREtoR0JfeFFDaXZUQWhvSDJjRHNB?oc=5",
-      "source": "Chosunbiz",
-      "date": "Wed, 14 Oct 2026 05:39:00 GMT"
+      "title": "[속보] 중국, 9월 수출 36.3% 급증",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jMGdBUkVuX2NMMWQzT2VIMHBOQ1d6SVI0ZGF4NHpuekYtR3hJOTBSNTF4MW8tMS1IdnpFVTlHV3J2X3VEazNOSW9wSnNhOVVod2V0eTZoUVFIZkU1ZGpiNnV4ZmVfTEZIcGZ6LXJn?oc=5",
+      "source": "국제뉴스",
+      "date": "Wed, 14 Oct 2026 03:18:24 GMT"
     },
     {
-      "title": "中 허리펑·팀 쿡 회동…대중국 협력 확대 논의",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96aG5UdzB1MTBHbXZBYUIxMXliSUxtVm1sNFNpd3NKWURXdWF5Um9YdkpGazdmUE94bTVnQlFPY190bURHTEZjM1BOY3VWSDJyeG5QZjhiT2RLa0NiTm90VVplZFVsdDNFNFlyVw?oc=5",
-      "source": "스페셜경제",
-      "date": "Wed, 14 Oct 2026 00:48:23 GMT"
-    },
-    {
-      "title": "AI 공포에 빅테크 감원까지… 중국 청년층 ‘잃어버린 세대’ 되나",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82YU5kZ2NMcVFvTHdzZElxZktpOGR1Si1mdGFBV29EejZOOFJvOHoySVRZRERIelBlbGZWa1dESEtEOHN5ZFFycWw3Q3ZvX0syaWE2bmNNTHhRN3RIV1RaaGNIcnhqaTg?oc=5",
-      "source": "M이코노미뉴스",
-      "date": "Wed, 14 Oct 2026 00:10:30 GMT"
-    },
-    {
-      "title": "[경제 이슈] 루이비통도 못 피한 '중국 한파'…중국 경기 침체에 루이비통 매출 '뚝'",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfcWRmNThmTGpkalQtUmxtdG4yT1ZOQTczZUVYNVJCT2NhSkZ1UEQwR3JjejdscFh2QkI1NWFPM1duaDZRbU1uQ3d6LWd6U2txQ2JqbDB5V0RvU0ZEdUkzM3FlLUk4NER2TXJOWA?oc=5",
-      "source": "프리진경제",
-      "date": "Wed, 14 Oct 2026 00:07:07 GMT"
-    },
-    {
-      "title": "[곽재원 컬럼]서구는 지금 중국을 어떻게 읽고 있는가",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91T0pYQkVKRUhzcnBwV3FvblRaQWhVc1htdEEzUlBiandiYU52WmQwelMwRUZmM0JWcXpLUFMwMkRzbXgxemUycHJjazIwQ1luQUlVV2oyOEtTRUxxb2Rn?oc=5",
-      "source": "저스트 이코노믹스",
-      "date": "Tue, 13 Oct 2026 20:27:00 GMT"
+      "title": "IMF, 중국 성장률 전망 4.5%로 하향…부동산 침체에 소비·투자 부진 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Od1BnQ1FaRm1EbkhRQXVzZ0ppbUZfeDBsMUMyS21XTlFqb0FCT0VkelRQUHIzUlFEN3BWbkg3aThwdzhyd2ZOd3lvQXpyTlplYU5vaUxBZm95bm1FSldPbTRfVVdUNzBv0gFuQVVfeXFMUHB3b0FjWVkxa0hBd3R5NXloTm1xWEZfVjM0STd1aXRHLW1nODJZLTZ2Y2VlbXBxenotSlVTRDJ6LXBZQ3dndktSS0JrOXFTcWJPc3o3UmJkaWdGTFR3VHNFXzFub2oyX09JbXFqd2c?oc=5",
+      "source": "머니투데이",
+      "date": "Tue, 13 Oct 2026 08:12:49 GMT"
     },
     {
       "title": "IMF 성장 전망 4.5% 낮추자...중국 \"경제 기초 좋다\"",
@@ -66,16 +60,22 @@
       "date": "Tue, 13 Oct 2026 08:12:00 GMT"
     },
     {
-      "title": "IMF, 올해 中성장률 전망 4.5%로 하향…내수침체 등 배경 지목",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LS2lzdkxkOVJQblh5eWxHY3MyU3ZDdHBlLVdldGdaV05WRXk3V2NMQWpGbjFNNjNpNjhSai1NdlZucjVqdEowcjM4b25XQUVZRXl0dVAyaXJoNXNWNVpLRdIBYEFVX3lxTE5LS2lzdkxkOVJQblh5eWxHY3MyU3ZDdHBlLVdldGdaV05WRXk3V2NMQWpGbjFNNjNpNjhSai1NdlZucjVqdEowcjM4b25XQUVZRXl0dVAyaXJoNXNWNVpLRQ?oc=5",
-      "source": "연합뉴스",
-      "date": "Tue, 13 Oct 2026 05:58:29 GMT"
+      "title": "퇴임한 애플 CEO 중국 경제 수장(허리펑)과 회동…협력 심화 강조",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80Q1NDRTZoVTZ2OVFxQ0RIRER3Q04wSEdTNjJYZllKSlg0WDRvMVc2SUo0cS1fMklBYWIxTlJDb3VFRkVqYlkyUTQ2SlU3VE56NXZ0QnZlbEN1UQ?oc=5",
+      "source": "파이낸셜뉴스",
+      "date": "Tue, 13 Oct 2026 01:05:13 GMT"
     },
     {
       "title": "중국 경제수장 허리펑, ‘퇴임’ 팀쿡과 회동…협력 심화 강조",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2LVpZX0wzRG1oLWR3c2VlNmxxNmFNTkxWd0VuQzdFazdzLTVGS3ROdTkwSzU3WkNvZGV5ZVEyd2JBN192Qk9PY0Z0Q3dYZTZWZEIydjlvV3J6X2M?oc=5",
       "source": "KBS 뉴스",
       "date": "Tue, 13 Oct 2026 00:50:00 GMT"
+    },
+    {
+      "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Mon, 12 Oct 2026 07:00:00 GMT"
     }
   ]
 }
