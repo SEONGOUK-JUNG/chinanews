@@ -1,57 +1,57 @@
 {
-  "run_at_kst": "2026-10-15T20:10:07+09:00",
+  "run_at_kst": "2026-10-16T07:08:34+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "임을출 교수 “신압록강대교 개통으로 북중 물동량 처리 3~5배 확대 전망” – RFA 자유아시아방송",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTW9NX2I1WHB0RTNlTXJqRWd6YTU4azZRWEU5azZOTHUyWHh6eGhYT2RLd1hyMy1LQ2tOVUhSaWp2aHFSMndWVFU3c1FEWElEQXRQZ3VfMzFWWG5rYVpReDVJZnA0TUJmdVRBS1NYT2ZUd3cxdV84dXpROGZULXY2U084Y00?oc=5",
-      "source": "Radio Free Asia",
-      "date": "Thu, 15 Oct 2026 07:48:42 GMT"
+      "title": "비자, 중국 내 국내 사업 준비 시작 승인 획득",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42R0FOQUlTTnRMQktxRGlfVTlCT2pZdl85aTFxZkpQekFMU3JPdl9HV3ZmOGFLdkxPYkY4MG1CUW5KRUhSa2g4TWNFckhtRFlJTEN0UFctQmlaSDZjZE94NTBscDF2czhKZEE?oc=5",
+      "source": "뉴스에이",
+      "date": "Thu, 15 Oct 2026 18:37:55 GMT"
     },
     {
-      "title": "北-中 신압록강대교 완공 12년만에 공식 개통...\"경제협력 촉진\"",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZTGY3aEV3NG5NQkdJTFFwVGpXc3VNWk4yNXNVbFNaQm9BSjdueG0zdDFBaUJWbnlVODhPQV9DOEZrSVlHZVowVm9SRlB5TkdqVDgtQXNaalVFSk9nOWRUeWJR?oc=5",
-      "source": "경기신문",
-      "date": "Thu, 15 Oct 2026 05:32:32 GMT"
-    },
-    {
-      "title": "[경제] 글로벌 투자자, 불확실성 속 中 자산으로 눈 돌려",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fOVhaTUt4b2JoSHpvM3hUVWhhRlRhNFVPZ3I2VFVOdzFKekZzSzNDbVF6Y29JTHAzNWVrZzdIVFNIZVBaMFpLS2NqaGVxWWs0Si1uektGbVFUYlRVXzgtUV91Q0IxTjdGa0J2N0xlZ2Zjdkk?oc=5",
-      "source": "동방일보",
-      "date": "Thu, 15 Oct 2026 04:57:39 GMT"
-    },
-    {
-      "title": "중국이 순환 경제의 '새로운 단계'에 진입했다.",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUjdGcHY1aFdsVURRWlNzZ3VwVHZUUXEtTWhZN29oS2ctQ3pPaWRWb1U2bTdTWGFBcWU5QUljb0M2dFo1bHhSTVZTS1otTGUwaUQ2MDVQQU5tX21pMDhMNXdIcVpxOXlyYVpOeF9xNXNqZjlPRzVENVFHRVhicjh0SGNUYUNGZC0x?oc=5",
-      "source": "Vietnam.vn",
-      "date": "Thu, 15 Oct 2026 04:07:31 GMT"
+      "title": "미 국채 보유량 4배로 쓸어 담은 캐나다…월가가 의심하는 ‘중국 변수’",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGU24za0JOMkltMWxQd0FsRGphb0dKWm9ER1VxU3pBRmVPNTJLMnhBSXRCOHVwNUVPUFlhZEhQcWJDQkVGLXcteFN5VjhFNUlzc0E?oc=5",
+      "source": "매일경제",
+      "date": "Thu, 15 Oct 2026 05:55:42 GMT"
     },
     {
       "title": "중국 경제 기적, 한계에 봉착 : 미제스 연구소",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vMGNHcTdla05BR0NjMzF3ajdEb2k5WUhwSjRlMnhJWTBCX3RtbXl6RWdYZGdlZm9aSU96ZVlpWEplbUdIbXZfUzNKc2VYZnUtbEJSUDZaVnVUNmtBdloyX1A2NGt3LVNhNGF0Sg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oWDJVN201V0t2cG9COHZudFktTXhRbVlFUGdsNFhndkVZNE1Nd0NUQk1mVEZXVzNvOEwyRmhUWC1jbGtyS1gzenpHczE4bVAwWi1LdFk3UkZpQzdmWEZrazhoVVRBTXJUTmp3VFBn?oc=5",
       "source": "뉴스타운",
       "date": "Thu, 15 Oct 2026 02:33:00 GMT"
     },
     {
-      "title": "[CMG중국통신] APEC 재무장관회의 20일 홍콩서 개막...21개 경제체 참석",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11Z3BIQlF1UGVmUzZPLWx2ODZHVkJ5UGswc1pLSmc4N2FmMVNEZzI5ck1CSFFSV2JUVGpXcDBmTFNJTWcwcWVZOUltek9qTzBrUzFEZzNB?oc=5",
-      "source": "중앙일보",
-      "date": "Thu, 15 Oct 2026 00:30:58 GMT"
+      "title": "중국, 이제는 원유 재고 확충…유가 상승 불붙나",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LeTVtczRQa2kwQWRQSXhHeVFuMzh2OElHcVowNkxNb1o0U3NlNTZINlhWVWZXcWV6czU1YmRiRkh0aFFyOTRUQzRaalRzbTNGaDVNRUFiZmFnUdIBWEFVX3lxTFA1U051b1RGQjBOYUpQQUpjUkdlZGJGUlk1WWRKX1YzaWF1V0ZxVG45THFUR1M5cTU5N1IzTDhxdWhzZmV0bG15YlYzWjJuNFV6ZlFSNVViMWo?oc=5",
+      "source": "아주경제",
+      "date": "Thu, 15 Oct 2026 00:27:08 GMT"
     },
     {
-      "title": "토큰으로 지어진 유령도시… 중국 AI 굴기의 성과와 한계",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN055OURaNzdDelc2NHdGaXJBOGVRdzRxUnc1NnA3NVpXdDlKZ1JlaEpoYXNkdmFHRkotbVNVUkNveTcxUlhyVjdpR0gzZEJmdWl2R0NPZ2w5ano0RDVWYklPTE5oeG1COTd0U1VXeHJZMzdMaU8xQlVwMlR5Mi05cXg1MVlrNV9RUzV3dmV3?oc=5",
-      "source": "조선일보",
-      "date": "Wed, 14 Oct 2026 18:00:00 GMT"
+      "title": "신압록강대교, 완공 12년 만에 개통…“북-중 경제협력 복원 신호”",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNeHk0WklqX1E5WEs0QWlXUGxKWjNneEI5N0tNZHZ6VjBIYnpaUVlpOVpuWGJEWUQ5TUxwVWIyZFNqd2xwb2lKcnlWZzF3RHdCa1R5US1aTFhYM09yN0hGSnVUZ1l2Njlld1o0UQ?oc=5",
+      "source": "한겨레",
+      "date": "Wed, 14 Oct 2026 11:34:00 GMT"
     },
     {
-      "title": "﻿IMF, 중국 올해 성장률 전망 4.5%로 하향",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LYjJzMTcxQ1FrM0JacjY3d0dLNTZWMDF6c0ZWS2J5WXNuRVFyamotaHpNeFdLRHlEblhqc3pXTWhNdkxwMjQtLTg2am1Ibm5MYks2N0p5TEh5R3RCR2UtaHFKYWZOWUV3RUlz0gFvQVVfeXFMTTlIU19ZZ2tMc1A1V0xmQUJST1dOQjktRVZjeHpjcUJYY2ZvUW5Ga2lkc2ZtSHExQlRvTVRiMFV3ci15andlaS1FYk1HZHBTQ1ZPUm96TG9hejV6eVBtamtOVW8wNkpqVXlweG10YVpj?oc=5",
-      "source": "서울일보",
-      "date": "Tue, 13 Oct 2026 08:27:43 GMT"
+      "title": "Xinhua Silk Road: '마당 경제', 중국 중부 현의 농촌 문화관광 활성화",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSZVo2YTg0a3J2Tkl0WmEzM3kwVmFjTWNTcWUya1RIVDUyMERZdDRqRGc4RHJSRk1jaExtMUh2QWdhUDdwUDhMUTlFaUZoY0pMWW83UjF3?oc=5",
+      "source": "지디넷코리아",
+      "date": "Wed, 14 Oct 2026 08:10:03 GMT"
+    },
+    {
+      "title": "[속보] 중국, 9월 수출 36.3% 급증",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jMGdBUkVuX2NMMWQzT2VIMHBOQ1d6SVI0ZGF4NHpuekYtR3hJOTBSNTF4MW8tMS1IdnpFVTlHV3J2X3VEazNOSW9wSnNhOVVod2V0eTZoUVFIZkU1ZGpiNnV4ZmVfTEZIcGZ6LXJn?oc=5",
+      "source": "국제뉴스",
+      "date": "Wed, 14 Oct 2026 03:18:24 GMT"
+    },
+    {
+      "title": "IMF, 중국 성장률 전망 4.5%로 하향…부동산 침체에 소비·투자 부진 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Od1BnQ1FaRm1EbkhRQXVzZ0ppbUZfeDBsMUMyS21XTlFqb0FCT0VkelRQUHIzUlFEN3BWbkg3aThwdzhyd2ZOd3lvQXpyTlplYU5vaUxBZm95bm1FSldPbTRfVVdUNzBv0gFuQVVfeXFMUHB3b0FjWVkxa0hBd3R5NXloTm1xWEZfVjM0STd1aXRHLW1nODJZLTZ2Y2VlbXBxenotSlVTRDJ6LXBZQ3dndktSS0JrOXFTcWJPc3o3UmJkaWdGTFR3VHNFXzFub2oyX09JbXFqd2c?oc=5",
+      "source": "머니투데이",
+      "date": "Tue, 13 Oct 2026 08:12:49 GMT"
     },
     {
       "title": "IMF 성장 전망 4.5% 낮추자...중국 \"경제 기초 좋다\"",
@@ -66,10 +66,10 @@
       "date": "Tue, 13 Oct 2026 05:58:29 GMT"
     },
     {
-      "title": "중국 경제수장 허리펑, ‘퇴임’ 팀쿡과 회동…협력 심화 강조",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2LVpZX0wzRG1oLWR3c2VlNmxxNmFNTkxWd0VuQzdFazdzLTVGS3ROdTkwSzU3WkNvZGV5ZVEyd2JBN192Qk9PY0Z0Q3dYZTZWZEIydjlvV3J6X2M?oc=5",
-      "source": "KBS 뉴스",
-      "date": "Tue, 13 Oct 2026 00:50:00 GMT"
+      "title": "퇴임한 애플 CEO 중국 경제 수장(허리펑)과 회동…협력 심화 강조",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80Q1NDRTZoVTZ2OVFxQ0RIRER3Q04wSEdTNjJYZllKSlg0WDRvMVc2SUo0cS1fMklBYWIxTlJDb3VFRkVqYlkyUTQ2SlU3VE56NXZ0QnZlbEN1UQ?oc=5",
+      "source": "파이낸셜뉴스",
+      "date": "Tue, 13 Oct 2026 01:05:13 GMT"
     },
     {
       "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
