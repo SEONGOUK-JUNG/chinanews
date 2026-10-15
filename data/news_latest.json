@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-15T10:08:23+09:00",
+  "run_at_kst": "2026-10-15T20:10:07+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "TotalEnergies Eyes Massive Profit Windfall as Refining Margins Soar",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-Eyes-Massive-Profit-Windfall-as-Refining-Margins-Soar.html",
+      "source": "OilPrice",
+      "date": "Thu, 15 Oct 2026 05:30:00 -0500"
+    },
+    {
+      "title": "Ukraine to Resume Russian Oil Refinery Strikes After Failed Energy Ceasefire",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-to-Resume-Russian-Oil-Refinery-Strikes-After-Failed-Energy-Ceasefire.html",
+      "source": "OilPrice",
+      "date": "Thu, 15 Oct 2026 04:30:00 -0500"
+    },
+    {
+      "title": "IMF Warns of Worldwide Fallout as Attacks on Saudi Arabia Escalate",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/IMF-Warns-of-Worldwide-Fallout-as-Attacks-on-Saudi-Arabia-Escalate.html",
+      "source": "OilPrice",
+      "date": "Thu, 15 Oct 2026 03:00:00 -0500"
+    },
+    {
+      "title": "Lithium Prices Plunge as EU-China Trade Deal Sparks Demand Fears",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Lithium-Prices-Plunge-as-EU-China-Trade-Deal-Sparks-Demand-Fears.html",
+      "source": "OilPrice",
+      "date": "Thu, 15 Oct 2026 02:00:00 -0500"
+    },
+    {
+      "title": "Oil Prices Fall as Trump Considers Easing Sanctions on Shadow Fleet Tankers",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Trump-Considers-Easing-Sanctions-on-Shadow-Fleet-Tankers.html",
+      "source": "OilPrice",
+      "date": "Thu, 15 Oct 2026 00:19:07 -0500"
+    },
     {
       "title": "Brookfield, NextEra to Build $100 Billion AI Hub on Cold War Nuclear Site",
       "link": "https://oilprice.com/Energy/Energy-General/Brookfield-NextEra-to-Build-100-Billion-AI-Hub-on-Cold-War-Nuclear-Site.html",
@@ -32,12 +62,6 @@
       "date": "Wed, 14 Oct 2026 17:00:00 -0500"
     },
     {
-      "title": "US Crude Oil Inventories See Massive Drop Off",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-See-Massive-Drop-Off.html",
-      "source": "OilPrice",
-      "date": "Wed, 14 Oct 2026 16:43:47 -0500"
-    },
-    {
       "title": "Canadian Chrome Company launches First Nations advisory committee",
       "link": "https://www.mining.com/canadian-chrome-company-launches-first-nations-advisory-committee/",
       "source": "mining.com",
@@ -50,34 +74,10 @@
       "date": "Wed, 14 Oct 2026 21:10:00 +0000"
     },
     {
-      "title": "Trump Announces $80 Billion Taiwan LNG Deal",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Trump-Announces-80-Billion-Taiwan-LNG-Deal.html",
-      "source": "OilPrice",
-      "date": "Wed, 14 Oct 2026 16:00:00 -0500"
-    },
-    {
       "title": "Hycroft hits bonanza gold grades at Nevada mine",
       "link": "https://www.mining.com/hycroft-hits-bonanza-gold-grades-at-nevada-mine/",
       "source": "mining.com",
       "date": "Wed, 14 Oct 2026 20:25:19 +0000"
-    },
-    {
-      "title": "Britain's $47 Billion North Sea Oil Decision Hangs in the Balance",
-      "link": "https://oilprice.com/Energy/Energy-General/Britains-47-Billion-North-Sea-Oil-Decision-Hangs-in-the-Balance.html",
-      "source": "OilPrice",
-      "date": "Wed, 14 Oct 2026 15:00:00 -0500"
-    },
-    {
-      "title": "Ship Sinks in Strait of Hormuz as Iran Escalates Maritime Attacks",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/Ship-Sinks-in-Strait-of-Hormuz-as-Iran-Escalates-Maritime-Attacks.html",
-      "source": "OilPrice",
-      "date": "Wed, 14 Oct 2026 14:00:00 -0500"
-    },
-    {
-      "title": "Putin Fights to Preserve Russia’s Fading Influence in Central Asia",
-      "link": "https://oilprice.com/Geopolitics/Asia/Putin-Fights-to-Preserve-Russias-Fading-Influence-in-Central-Asia.html",
-      "source": "OilPrice",
-      "date": "Wed, 14 Oct 2026 13:00:00 -0500"
     },
     {
       "title": "Equinox gold output jumps 34% after Orla merger",
