@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-15T07:08:21+09:00",
+  "run_at_kst": "2026-10-15T10:08:23+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,24 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Brookfield, NextEra to Build $100 Billion AI Hub on Cold War Nuclear Site",
+      "link": "https://oilprice.com/Energy/Energy-General/Brookfield-NextEra-to-Build-100-Billion-AI-Hub-on-Cold-War-Nuclear-Site.html",
+      "source": "OilPrice",
+      "date": "Wed, 14 Oct 2026 19:00:00 -0500"
+    },
+    {
+      "title": "Oil Market Tightens as Tanker Attacks and Inventory Draws Mount",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Market-Tightens-as-Tanker-Attacks-and-Inventory-Draws-Mount.html",
+      "source": "OilPrice",
+      "date": "Wed, 14 Oct 2026 18:00:00 -0500"
+    },
+    {
+      "title": "Tenaris produces new steel grade for Canadian energy operators",
+      "link": "https://www.mining.com/tenaris-produces-new-steel-grade-for-canadian-energy-operators/",
+      "source": "mining.com",
+      "date": "Wed, 14 Oct 2026 22:50:28 +0000"
+    },
     {
       "title": "White House Turns to Korean War-Era Law as Diesel Prices Stay Above $6",
       "link": "https://oilprice.com/Energy/Crude-Oil/White-House-Turns-to-Korean-War-Era-Law-as-Diesel-Prices-Stay-Above-6.html",
@@ -62,34 +80,16 @@
       "date": "Wed, 14 Oct 2026 13:00:00 -0500"
     },
     {
-      "title": "Houthis Vow More Attacks After Strike on Aramco Headquarters",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Vow-More-Attacks-After-Strike-on-Aramco-Headquarters.html",
-      "source": "OilPrice",
-      "date": "Wed, 14 Oct 2026 12:30:00 -0500"
-    },
-    {
       "title": "Equinox gold output jumps 34% after Orla merger",
       "link": "https://www.mining.com/equinox-gold-output-jumps-34-after-orla-merger/",
       "source": "mining.com",
       "date": "Wed, 14 Oct 2026 17:06:00 +0000"
     },
     {
-      "title": "5 Challenges Facing South America’s Copper Boom",
-      "link": "https://oilprice.com/Metals/Commodities/5-Challenges-Facing-South-Americas-Copper-Boom.html",
-      "source": "OilPrice",
-      "date": "Wed, 14 Oct 2026 12:00:00 -0500"
-    },
-    {
       "title": "Copper price forecasts lifted for 2026 but tariff “collapse” still on the table",
       "link": "https://www.mining.com/copper-price-forecasts-lifted-for-2026-but-tariff-collapse-still-on-the-table/",
       "source": "mining.com",
       "date": "Wed, 14 Oct 2026 16:31:08 +0000"
-    },
-    {
-      "title": "Former Rio Tinto, Anglo American executive named ICMM’s first woman CEO",
-      "link": "https://www.mining.com/former-rio-tinto-anglo-american-executive-named-icmms-first-woman-ceo/",
-      "source": "mining.com",
-      "date": "Wed, 14 Oct 2026 15:02:54 +0000"
     }
   ]
 }
