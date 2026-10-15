@@ -1,10 +1,22 @@
 {
-  "run_at_kst": "2026-10-15T10:08:23+09:00",
+  "run_at_kst": "2026-10-15T14:10:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "중국 경제 기적, 한계에 봉착 : 미제스 연구소",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oWDJVN201V0t2cG9COHZudFktTXhRbVlFUGdsNFhndkVZNE1Nd0NUQk1mVEZXVzNvOEwyRmhUWC1jbGtyS1gzenpHczE4bVAwWi1LdFk3UkZpQzdmWEZrazhoVVRBTXJUTmp3VFBn?oc=5",
+      "source": "뉴스타운",
+      "date": "Thu, 15 Oct 2026 02:33:00 GMT"
+    },
+    {
+      "title": "중국 경제 기적, 한계에 봉착 : 미제스 연구소",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vMGNHcTdla05BR0NjMzF3ajdEb2k5WUhwSjRlMnhJWTBCX3RtbXl6RWdYZGdlZm9aSU96ZVlpWEplbUdIbXZfUzNKc2VYZnUtbEJSUDZaVnVUNmtBdloyX1A2NGt3LVNhNGF0Sg?oc=5",
+      "source": "뉴스타운",
+      "date": "Thu, 15 Oct 2026 02:33:00 GMT"
+    },
     {
       "title": "[CMG중국통신] APEC 재무장관회의 20일 홍콩서 개막...21개 경제체 참석",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11Z3BIQlF1UGVmUzZPLWx2ODZHVkJ5UGswc1pLSmc4N2FmMVNEZzI5ck1CSFFSV2JUVGpXcDBmTFNJTWcwcWVZOUltek9qTzBrUzFEZzNB?oc=5",
@@ -12,10 +24,10 @@
       "date": "Thu, 15 Oct 2026 00:30:58 GMT"
     },
     {
-      "title": "'미국이 그렇게 막았는데'…중국 반도체 '잭팟' 터졌다 [차이나 워치]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5idGRNQ09LQjJ5X2s0UlVVaGxtWjJFVVNYeGZlT0RyaTU2bnhlVWZaSktLSldjaVBBQ3Q3M0pvek1tZVNpWmZKaDlSbkVzQV9Sb3RySkJiYWl5QQ?oc=5",
-      "source": "한국경제",
-      "date": "Wed, 14 Oct 2026 19:33:01 GMT"
+      "title": "중국, 이제는 원유 재고 확충…유가 상승 불붙나",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LeTVtczRQa2kwQWRQSXhHeVFuMzh2OElHcVowNkxNb1o0U3NlNTZINlhWVWZXcWV6czU1YmRiRkh0aFFyOTRUQzRaalRzbTNGaDVNRUFiZmFnUdIBWEFVX3lxTFA1U051b1RGQjBOYUpQQUpjUkdlZGJGUlk1WWRKX1YzaWF1V0ZxVG45THFUR1M5cTU5N1IzTDhxdWhzZmV0bG15YlYzWjJuNFV6ZlFSNVViMWo?oc=5",
+      "source": "아주경제",
+      "date": "Thu, 15 Oct 2026 00:27:08 GMT"
     },
     {
       "title": "토큰으로 지어진 유령도시… 중국 AI 굴기의 성과와 한계",
@@ -58,18 +70,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSbXViUTJ6ZkFGUXJacmlrdUxXTzZDWTFoZjkwamk5TTc1Qm9GWUlaTEJ2YnJRekFqclVTTWUtZ1AyLUZsRVR1cFQxcVg2THVwY1M4eVdzNmRLd2JmdFE?oc=5",
       "source": "YTN",
       "date": "Tue, 13 Oct 2026 08:12:00 GMT"
-    },
-    {
-      "title": "퇴임한 애플 CEO 중국 경제 수장(허리펑)과 회동…협력 심화 강조",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80Q1NDRTZoVTZ2OVFxQ0RIRER3Q04wSEdTNjJYZllKSlg0WDRvMVc2SUo0cS1fMklBYWIxTlJDb3VFRkVqYlkyUTQ2SlU3VE56NXZ0QnZlbEN1UQ?oc=5",
-      "source": "파이낸셜뉴스",
-      "date": "Tue, 13 Oct 2026 01:05:13 GMT"
-    },
-    {
-      "title": "중국 경제수장 허리펑, ‘퇴임’ 팀쿡과 회동…협력 심화 강조",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2LVpZX0wzRG1oLWR3c2VlNmxxNmFNTkxWd0VuQzdFazdzLTVGS3ROdTkwSzU3WkNvZGV5ZVEyd2JBN192Qk9PY0Z0Q3dYZTZWZEIydjlvV3J6X2M?oc=5",
-      "source": "KBS 뉴스",
-      "date": "Tue, 13 Oct 2026 00:50:00 GMT"
     },
     {
       "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
