@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-16T07:08:34+09:00",
+  "run_at_kst": "2026-10-16T10:10:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,24 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Standard Chartered: Trump's Russian Diesel Won't Add New Supply",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Standard-Chartered-Trumps-Russian-Diesel-Wont-Add-New-Supply.html",
+      "source": "OilPrice",
+      "date": "Thu, 15 Oct 2026 19:00:00 -0500"
+    },
+    {
+      "title": "Minnova maps $53M restart for Manitoba gold mine",
+      "link": "https://www.mining.com/minnova-maps-53m-restart-for-manitoba-gold-mine/",
+      "source": "mining.com",
+      "date": "Thu, 15 Oct 2026 23:24:00 +0000"
+    },
+    {
+      "title": "The Diesel Crunch Will Persist Well into 2027",
+      "link": "https://oilprice.com/Energy/Crude-Oil/The-Diesel-Crunch-Will-Persist-Well-into-2027.html",
+      "source": "OilPrice",
+      "date": "Thu, 15 Oct 2026 18:00:00 -0500"
+    },
     {
       "title": "Exxon’s Oil Boom Could Keep Guyana’s Gas at Home",
       "link": "https://oilprice.com/Energy/Natural-Gas/Exxons-Oil-Boom-Could-Keep-Guyanas-Gas-at-Home.html",
@@ -44,22 +62,10 @@
       "date": "Thu, 15 Oct 2026 14:00:00 -0500"
     },
     {
-      "title": "Britain’s Biggest Business Lobby Calls for Tax Cuts and Lower Energy Bills",
-      "link": "https://oilprice.com/Energy/Energy-General/Britains-Biggest-Business-Lobby-Calls-for-Tax-Cuts-and-Lower-Energy-Bills.html",
-      "source": "OilPrice",
-      "date": "Thu, 15 Oct 2026 13:00:00 -0500"
-    },
-    {
       "title": "Tech giants come knocking for a piece of Anglo American as copper scarcity bites, Wanblad tells  FT",
       "link": "https://www.mining.com/tech-giants-come-knocking-for-a-piece-of-anglo-american-as-copper-scarcity-bites-wanblad-tells-ft/",
       "source": "mining.com",
       "date": "Thu, 15 Oct 2026 17:55:45 +0000"
-    },
-    {
-      "title": "Venezuela's Oil Recovery Gains Momentum as New Drilling Rigs Arrive",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Recovery-Gains-Momentum-as-New-Drilling-Rigs-Arrive.html",
-      "source": "OilPrice",
-      "date": "Thu, 15 Oct 2026 12:00:00 -0500"
     },
     {
       "title": "Copper price falls for third day as US inflation shock, easing Chile strike risk spur selloff",
@@ -84,12 +90,6 @@
       "link": "https://www.mining.com/antofagasta-shares-sink-as-2027-copper-outlook-falls-flat/",
       "source": "mining.com",
       "date": "Thu, 15 Oct 2026 12:03:00 +0000"
-    },
-    {
-      "title": "Richemont, Signet weigh joining De Beers consortium bid",
-      "link": "https://www.mining.com/richemont-signet-weigh-joining-de-beers-consortium-bid/",
-      "source": "mining.com",
-      "date": "Thu, 15 Oct 2026 10:53:00 +0000"
     }
   ]
 }
