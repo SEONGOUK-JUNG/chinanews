@@ -1,27 +1,45 @@
 {
-  "run_at_kst": "2026-10-16T10:10:05+09:00",
+  "run_at_kst": "2026-10-16T14:08:19+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "중국 시장 대체 어떻길래…팀 쿡, 레이 달리오 줄줄이 중국행",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNlo3MFJwczFybUNhTTZOaDRSemppVTYxalplMTFYNVBNWEhLRHoxc2xoZmM2TmwxdW9NQ3dLRk9peFY1QjBuVXpMUm0xdzVtZ2NPcFFtYmdQbXZZTkRFWElyOTZSUThQSmF3OWlPc3pDQ2FCSGQweXFPdzl6bjhBaA?oc=5",
+      "source": "이데일리",
+      "date": "Fri, 16 Oct 2026 02:34:27 GMT"
+    },
+    {
+      "title": "중국 인구 14억 명, 숫자는 맞을까, 인구통계학자가 제기한 1억 3,000만 명의 의문",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MbjRUejl4aDVTUTEycG9ObllMWDZYTE5HNUMzUXV3MXBqMGw0ZmtwM2pROTF1STJybVVtX29FUzExb1RpLWNucUtObEthWjBYbEVJX1l0WjZkYXNpNV9oNFVxYTMxLThidmNoa3dB?oc=5",
+      "source": "캐어유 뉴스",
+      "date": "Fri, 16 Oct 2026 02:00:00 GMT"
+    },
+    {
+      "title": "“신압록강대교 대통으로 중국 단둥 ‘동북아경제협력거점’ 발전 가능성”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tbHJFLVQwa1N1eW1NR0tyaVlsUGdGNFEyWUVlLTF4UDFwdnlfeVJkcmtRN054cXNraWN2UHRSbXpjeVNvamozcm5rYjFPOTR6OEp5SE9iVkZRUmM?oc=5",
+      "source": "KBS 뉴스",
+      "date": "Fri, 16 Oct 2026 01:49:00 GMT"
+    },
+    {
+      "title": "북한, 신압록강대교 개통 공식 보도…’중국과 경제 연계 강화’",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GbEVDSXpiSnBxSVB4bzQwX0tEZnNwQ2hydXNnTG1YcEhORUxVaEh5Z3JNNmVZYjN6aGtwa1JkWHdndjNDWlZBMg?oc=5",
+      "source": "씬짜오베트남",
+      "date": "Fri, 16 Oct 2026 01:47:57 GMT"
+    },
+    {
+      "title": "북도 신압록강대교 개통 보도…\"중국과 경제적 연계 강화\"",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc3ZVSFU4OVNRdXY1RXBTQWhTNnBDa3UyZ0VEZzFiUTJ0TXhXNXBWNzFzSC1MRXR5MlRHQU1CcmxiX2preW0tRUI5bklITzlrYXVnNFNMZGd6NUtYbXUzQVZGZWhqYUtWVGJiNC1yaUFtdXJXWG1KcGZFaDZEZTZKLUU3aENTQQ?oc=5",
+      "source": "TBS 서울",
+      "date": "Fri, 16 Oct 2026 01:26:00 GMT"
+    },
+    {
       "title": "中 상무부장, 팀 쿡 접견…\"애플, 미중 가교 역할 기대\"",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9McDJ3ZDFFWlFGOGhuS0JZM3pEX0g5cUxDTHB6Zl9xVGRQVHA3VkthNENBanZrYm9reWNEV05UZGFxVlU3d244b2NOM1g1SURMUjJVSnhFSzdCYWFVVWJzWdIBeEFVX3lxTE5jNWtMTVdEYWZGcHNLVk8tX05HX3UycDlEOXNYcXZKblZRM0xXZ253aHlOUWM0YmNneTJZOGxnczVKU29OSlFySndHUUNmdTl6TXQyMWZ3ajEtX2dRdWtjYXhVQTg3Q1l6eDdwSllHdFJwQU1obFJ1cQ?oc=5",
       "source": "뉴시스",
       "date": "Fri, 16 Oct 2026 00:02:57 GMT"
-    },
-    {
-      "title": "[기 기자의 중국 리포트 ⑨] 중국은 한국에 어디까지 들어와 있나?",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nZzdEUmRUeWNJN0ZWVzNUeGJzbTVISGFiUFJOdEtyUzl3NzlyeFJNam9IUTBRQUctVXJ5dFg5cW1DdEdxUl96Y3p1N1k4VV81OWxUX0NkTGI0V25YSUR0bFFsN3JOYjRjeUlB?oc=5",
-      "source": "독립신문",
-      "date": "Thu, 15 Oct 2026 20:54:07 GMT"
-    },
-    {
-      "title": "'북중 단절의 상징' 신압록강대교 개통…김정은의 셈법은",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NX3lxbFNSdDFKb2dKSTdQNGNON25FU0FVZS1veDR3QnVGc3FXT3lydGtKRXZibmdMUVJmTmh2ZkFSdWxVS0lrUGxtZWpXYjJtVXc?oc=5",
-      "source": "노컷뉴스",
-      "date": "Thu, 15 Oct 2026 20:00:00 GMT"
     },
     {
       "title": "비자, 중국 내 국내 사업 준비 시작 승인 획득",
@@ -30,22 +48,10 @@
       "date": "Thu, 15 Oct 2026 18:37:55 GMT"
     },
     {
-      "title": "신압록강대교 열어 북·중 밀착…경제제재 무력화하며 트럼프 압박",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1yRXFHa0VOSThKZUNNb0lWakJiazhBdy1YUXppa25WQjBwdkZRYXhEcnJvcElYQTNQZUgtd2h6SlJ2TURlbVZpQVpSYnVKX0dOemRldHBjSXVwdUVTUHMyTGN0V0dwUllaR1g0SlFPcWpLdlk?oc=5",
-      "source": "마켓인",
-      "date": "Thu, 15 Oct 2026 07:39:00 GMT"
-    },
-    {
       "title": "중국 경제 기적, 한계에 봉착 : 미제스 연구소",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oWDJVN201V0t2cG9COHZudFktTXhRbVlFUGdsNFhndkVZNE1Nd0NUQk1mVEZXVzNvOEwyRmhUWC1jbGtyS1gzenpHczE4bVAwWi1LdFk3UkZpQzdmWEZrazhoVVRBTXJUTmp3VFBn?oc=5",
       "source": "뉴스타운",
       "date": "Thu, 15 Oct 2026 02:33:00 GMT"
-    },
-    {
-      "title": "토큰으로 지어진 유령도시… 중국 AI 굴기의 성과와 한계",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN055OURaNzdDelc2NHdGaXJBOGVRdzRxUnc1NnA3NVpXdDlKZ1JlaEpoYXNkdmFHRkotbVNVUkNveTcxUlhyVjdpR0gzZEJmdWl2R0NPZ2w5ano0RDVWYklPTE5oeG1COTd0U1VXeHJZMzdMaU8xQlVwMlR5Mi05cXg1MVlrNV9RUzV3dmV3?oc=5",
-      "source": "조선일보",
-      "date": "Wed, 14 Oct 2026 18:00:00 GMT"
     },
     {
       "title": "﻿IMF, 중국 올해 성장률 전망 4.5%로 하향",
@@ -64,12 +70,6 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LS2lzdkxkOVJQblh5eWxHY3MyU3ZDdHBlLVdldGdaV05WRXk3V2NMQWpGbjFNNjNpNjhSai1NdlZucjVqdEowcjM4b25XQUVZRXl0dVAyaXJoNXNWNVpLRdIBYEFVX3lxTE5LS2lzdkxkOVJQblh5eWxHY3MyU3ZDdHBlLVdldGdaV05WRXk3V2NMQWpGbjFNNjNpNjhSai1NdlZucjVqdEowcjM4b25XQUVZRXl0dVAyaXJoNXNWNVpLRQ?oc=5",
       "source": "연합뉴스",
       "date": "Tue, 13 Oct 2026 05:58:29 GMT"
-    },
-    {
-      "title": "중국 경제수장 허리펑, ‘퇴임’ 팀쿡과 회동…협력 심화 강조",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2LVpZX0wzRG1oLWR3c2VlNmxxNmFNTkxWd0VuQzdFazdzLTVGS3ROdTkwSzU3WkNvZGV5ZVEyd2JBN192Qk9PY0Z0Q3dYZTZWZEIydjlvV3J6X2M?oc=5",
-      "source": "KBS 뉴스",
-      "date": "Tue, 13 Oct 2026 00:50:00 GMT"
     },
     {
       "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",

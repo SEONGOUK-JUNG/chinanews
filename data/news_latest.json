@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-16T10:10:05+09:00",
+  "run_at_kst": "2026-10-16T14:08:19+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "WTI Outpaces Brent as U.S. Crude Draw Ignites Fresh Buying",
+      "link": "https://oilprice.com/Energy/Energy-General/WTI-Outpaces-Brent-as-US-Crude-Draw-Ignites-Fresh-Buying.html",
+      "source": "OilPrice",
+      "date": "Thu, 15 Oct 2026 22:10:00 -0500"
+    },
     {
       "title": "Standard Chartered: Trump's Russian Diesel Won't Add New Supply",
       "link": "https://oilprice.com/Energy/Crude-Oil/Standard-Chartered-Trumps-Russian-Diesel-Wont-Add-New-Supply.html",
@@ -52,12 +58,6 @@
     {
       "title": "U.S. Targets Central Asia's Energy and Critical Minerals in Major Trade Push",
       "link": "https://oilprice.com/Geopolitics/Asia/US-Targets-Central-Asias-Energy-and-Critical-Minerals-in-Major-Trade-Push.html",
-      "source": "OilPrice",
-      "date": "Thu, 15 Oct 2026 14:00:00 -0500"
-    },
-    {
-      "title": "IEA Speeds Emergency Oil Release",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Speeds-Emergency-Oil-Release.html",
       "source": "OilPrice",
       "date": "Thu, 15 Oct 2026 14:00:00 -0500"
     },
