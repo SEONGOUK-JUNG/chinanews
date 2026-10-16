@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-10-16T20:10:06+09:00",
+  "run_at_kst": "2026-10-17T07:08:28+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "\"증시 운명 걸렸다\"…테슬라·한은·중국에 쏠린 눈[다음주 변수 미리보기]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CQnhpX1MwU2tLcWczU3N2d2hJZng0RWI4Vl9tZDJlUFZZTjZfWXF0cTVfT2hSbnAySV9aOTJseDZwVW9OWVA5YTQtdjRqUE0yMUxGUlFQcmNJQQ?oc=5",
+      "source": "한국경제",
+      "date": "Fri, 16 Oct 2026 10:13:36 GMT"
+    },
     {
       "title": "추경호",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QZjU3N3I2d01nbGpLVDBHVXhpLXE1cnZPM3RoZmJWVGlnWmxPeEwxcEV0a0ctQ1dSQkFOMzVpRGVING5CUUgzU3RPclNpM1JN?oc=5",
@@ -12,10 +18,10 @@
       "date": "Fri, 16 Oct 2026 08:05:45 GMT"
     },
     {
-      "title": "[경제] ECLAC 사무총장 \"中 경제 활력, 라틴아메리카∙카리브해 국가에 시장 확대 기회 제공\"",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05eUtQN1p6UGRZcnFKXzBza0JsR3ktVVBHMHhUVkxaVXFFLWdTNmFjZWVjU20xZjlEYnR6elV1Nzd4Ullmb09pb19KNWVObEZRQkE2dUx5LUhqNUpGXzdLcUpPeTBpdjV2RjJV?oc=5",
-      "source": "서울뉴스통신",
-      "date": "Fri, 16 Oct 2026 07:41:54 GMT"
+      "title": "[경제] ECLAC 사무총장 \"中 경제 활력, 라틴아메리카∙카리브해 국가에 시장 확대 기회 제공\"-Xinhua",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Bd3ZwT2dtOGVHZ1JOMnVFdFlFbzNxcDRZRGRLYkd1ckNqeTR4Q0FvODhpallxU0lFSklrTTBYaVRNWWJkaXVPald5ZTZ1dDZ6Uzc0RVRJRFFKNkNqYmp3RnFJUHBZRER5R2NCVHQ0Nk1RRTJXWUE?oc=5",
+      "source": "신화망",
+      "date": "Fri, 16 Oct 2026 07:42:15 GMT"
     },
     {
       "title": "[올댓차이나] 3분기 中 성장률 4.4% 전망…내수 부진에 경기 둔화",
@@ -30,34 +36,28 @@
       "date": "Fri, 16 Oct 2026 05:00:00 GMT"
     },
     {
-      "title": "중국 인구 14억 명, 숫자는 맞을까, 인구통계학자가 제기한 1억 3,000만 명의 의문",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MbjRUejl4aDVTUTEycG9ObllMWDZYTE5HNUMzUXV3MXBqMGw0ZmtwM2pROTF1STJybVVtX29FUzExb1RpLWNucUtObEthWjBYbEVJX1l0WjZkYXNpNV9oNFVxYTMxLThidmNoa3dB?oc=5",
-      "source": "캐어유 뉴스",
-      "date": "Fri, 16 Oct 2026 02:00:00 GMT"
+      "title": "중국 경제 기적, 한계에 봉착 : 미제스 연구소",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oWDJVN201V0t2cG9COHZudFktTXhRbVlFUGdsNFhndkVZNE1Nd0NUQk1mVEZXVzNvOEwyRmhUWC1jbGtyS1gzenpHczE4bVAwWi1LdFk3UkZpQzdmWEZrazhoVVRBTXJUTmp3VFBn?oc=5",
+      "source": "뉴스타운",
+      "date": "Thu, 15 Oct 2026 02:33:00 GMT"
     },
     {
-      "title": "“신압록강대교 개통으로 중국 단둥 ‘동북아경제협력거점’ 발전 가능성”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tbHJFLVQwa1N1eW1NR0tyaVlsUGdGNFEyWUVlLTF4UDFwdnlfeVJkcmtRN054cXNraWN2UHRSbXpjeVNvamozcm5rYjFPOTR6OEp5SE9iVkZRUmM?oc=5",
-      "source": "KBS 뉴스",
-      "date": "Fri, 16 Oct 2026 01:49:00 GMT"
+      "title": "중국과 육상연결 강화한 북한…경제, 제재 전환점 맞을까",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5Mm1HQVkzMzNWN0ZVLXQ1YlI0TFl0LWRsRlhEWjEwM2tsNjVBY1FndUQ0WmpUUzJXRkltTEhSSTA2azQ1VWpaalRnaUxKb3hXa3hzaVJWbmRtZ9IBX0FVX3lxTE1NbGN2VGMzWXRfNU9aSmJ5d0Q1TFhpcjlKaEpSakJQMEhsX0dTVnNnR3IyblNPbmlRYWZoQm9ESjBRc09LdzZ2YlJHOFJONEFnSFVSY3JweXNSRG5aY0hV?oc=5",
+      "source": "경향신문",
+      "date": "Thu, 15 Oct 2026 02:29:00 GMT"
     },
     {
-      "title": "북도 신압록강대교 개통 보도…\"중국과 경제적 연계 강화\"",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc3ZVSFU4OVNRdXY1RXBTQWhTNnBDa3UyZ0VEZzFiUTJ0TXhXNXBWNzFzSC1MRXR5MlRHQU1CcmxiX2preW0tRUI5bklITzlrYXVnNFNMZGd6NUtYbXUzQVZGZWhqYUtWVGJiNC1yaUFtdXJXWG1KcGZFaDZEZTZKLUU3aENTQQ?oc=5",
-      "source": "TBS 서울",
-      "date": "Fri, 16 Oct 2026 01:26:00 GMT"
+      "title": "토큰으로 지어진 유령도시… 중국 AI 굴기의 성과와 한계",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN055OURaNzdDelc2NHdGaXJBOGVRdzRxUnc1NnA3NVpXdDlKZ1JlaEpoYXNkdmFHRkotbVNVUkNveTcxUlhyVjdpR0gzZEJmdWl2R0NPZ2w5ano0RDVWYklPTE5oeG1COTd0U1VXeHJZMzdMaU8xQlVwMlR5Mi05cXg1MVlrNV9RUzV3dmV3?oc=5",
+      "source": "조선일보",
+      "date": "Wed, 14 Oct 2026 18:00:00 GMT"
     },
     {
-      "title": "'중국이 또' 이번엔 인구 뻥튀기 논란…\"14억 사실 아니다\"",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuMXgyXzR4dktVQkY4ZGVSRzRQWHg5a3lYdXJ6TURUQW1OcEJTSG1KREI0VGt0TU9YR3k1cXAzRWtONURQYzlORkRsT2VTTUFtanpoZTZJMWpFUQ?oc=5",
-      "source": "한국경제",
-      "date": "Fri, 16 Oct 2026 00:06:39 GMT"
-    },
-    {
-      "title": "중국 ‘신신삼양' 세미나 개최… \"첨단산업 상생 모델 모색\"",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuOEJTWmR0MkxuTEFuYnRpLUFWbVdwV0xzQ01JVHBIdUZqc3Jic3VaNlIzci05cDl5bmxiZjR3MlA5TjE1VGxpaXpjMHRjOVRfRUV3b21tTjJQa3NoM1B5UmdXbw?oc=5",
-      "source": "CGTN",
-      "date": "Thu, 15 Oct 2026 18:09:45 GMT"
+      "title": "﻿IMF, 중국 올해 성장률 전망 4.5%로 하향",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LYjJzMTcxQ1FrM0JacjY3d0dLNTZWMDF6c0ZWS2J5WXNuRVFyamotaHpNeFdLRHlEblhqc3pXTWhNdkxwMjQtLTg2am1Ibm5MYks2N0p5TEh5R3RCR2UtaHFKYWZOWUV3RUlz0gFvQVVfeXFMTTlIU19ZZ2tMc1A1V0xmQUJST1dOQjktRVZjeHpjcUJYY2ZvUW5Ga2lkc2ZtSHExQlRvTVRiMFV3ci15andlaS1FYk1HZHBTQ1ZPUm96TG9hejV6eVBtamtOVW8wNkpqVXlweG10YVpj?oc=5",
+      "source": "서울일보",
+      "date": "Tue, 13 Oct 2026 08:27:43 GMT"
     },
     {
       "title": "IMF 성장 전망 4.5% 낮추자...중국 \"경제 기초 좋다\"",
@@ -66,10 +66,10 @@
       "date": "Tue, 13 Oct 2026 08:12:00 GMT"
     },
     {
-      "title": "IMF, 올해 中성장률 전망 4.5%로 하향…내수침체 등 배경 지목",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LS2lzdkxkOVJQblh5eWxHY3MyU3ZDdHBlLVdldGdaV05WRXk3V2NMQWpGbjFNNjNpNjhSai1NdlZucjVqdEowcjM4b25XQUVZRXl0dVAyaXJoNXNWNVpLRdIBYEFVX3lxTE5LS2lzdkxkOVJQblh5eWxHY3MyU3ZDdHBlLVdldGdaV05WRXk3V2NMQWpGbjFNNjNpNjhSai1NdlZucjVqdEowcjM4b25XQUVZRXl0dVAyaXJoNXNWNVpLRQ?oc=5",
-      "source": "연합뉴스",
-      "date": "Tue, 13 Oct 2026 05:58:29 GMT"
+      "title": "중국 경제수장 허리펑, ‘퇴임’ 팀쿡과 회동…협력 심화 강조",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2LVpZX0wzRG1oLWR3c2VlNmxxNmFNTkxWd0VuQzdFazdzLTVGS3ROdTkwSzU3WkNvZGV5ZVEyd2JBN192Qk9PY0Z0Q3dYZTZWZEIydjlvV3J6X2M?oc=5",
+      "source": "KBS 뉴스",
+      "date": "Tue, 13 Oct 2026 00:50:00 GMT"
     },
     {
       "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",

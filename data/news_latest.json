@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-16T20:10:06+09:00",
+  "run_at_kst": "2026-10-17T07:08:28+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,46 +8,76 @@
   "count": 14,
   "items": [
     {
-      "title": "South Korea Turns Back to Coal as LNG Crisis Deepens",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/South-Korea-Turns-Back-to-Coal-as-LNG-Crisis-Deepens.html",
+      "title": "Global Energy Import Dependence Set to Peak by 2034, Rystad Says",
+      "link": "https://oilprice.com/Energy/Energy-General/Global-Energy-Import-Dependence-Set-to-Peak-by-2034-Rystad-Says.html",
       "source": "OilPrice",
-      "date": "Fri, 16 Oct 2026 05:30:00 -0500"
+      "date": "Fri, 16 Oct 2026 17:00:00 -0500"
     },
     {
-      "title": "India Slashes Diesel Export Tax as Global Fuel Crunch Deepens",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Slashes-Diesel-Export-Tax-as-Global-Fuel-Crunch-Deepens.html",
+      "title": "Norway's Untapped Oil and Gas Frontier Is Drawing Renewed Interest",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Norways-Untapped-Oil-and-Gas-Frontier-Is-Drawing-Renewed-Interest.html",
       "source": "OilPrice",
-      "date": "Fri, 16 Oct 2026 04:30:00 -0500"
+      "date": "Fri, 16 Oct 2026 14:00:00 -0500"
     },
     {
-      "title": "Trump Condemns Ukraine’s Russian Refinery Strikes as a “Disgrace”",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Condemns-Ukraines-Russian-Refinery-Strikes-as-a-Disgrace.html",
-      "source": "OilPrice",
-      "date": "Fri, 16 Oct 2026 03:15:00 -0500"
+      "title": "Canada’s new foreign investment rules: What critical minerals miners need to know",
+      "link": "https://www.mining.com/canadas-new-foreign-investment-rules-what-critical-minerals-miners-need-to-know/",
+      "source": "mining.com",
+      "date": "Fri, 16 Oct 2026 18:57:02 +0000"
     },
     {
-      "title": "Global Fuel Oil Shortage Deepens as Middle East and Russia Supplies Collapse",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Global-Fuel-Oil-Shortage-Deepens-as-Middle-East-and-Russia-Supplies-Collapse.html",
+      "title": "U.S. Offers Another 17 Million SPR Barrels as Fuel Crisis Deepens",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Offers-Another-17-Million-SPR-Barrels-as-Fuel-Crisis-Deepens.html",
       "source": "OilPrice",
-      "date": "Fri, 16 Oct 2026 02:00:00 -0500"
+      "date": "Fri, 16 Oct 2026 13:30:00 -0500"
     },
     {
-      "title": "Oil Prices Head for Weekly Gain as Hormuz Attacks Rattle Markets",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-Weekly-Gain-as-Hormuz-Attacks-Rattle-Markets.html",
+      "title": "Wind Farm Approved in Victoria, Australia Would Be Largest in Southern Hemispher",
+      "link": "https://oilprice.com/Alternative-Energy/Wind-Power/Wind-Farm-Approved-in-Victoria-Australia-Would-Be-Largest-in-Southern-Hemispher.html",
       "source": "OilPrice",
-      "date": "Fri, 16 Oct 2026 00:30:00 -0500"
+      "date": "Fri, 16 Oct 2026 13:00:00 -0500"
     },
     {
-      "title": "WTI Outpaces Brent as U.S. Crude Draw Ignites Fresh Buying",
-      "link": "https://oilprice.com/Energy/Energy-General/WTI-Outpaces-Brent-as-US-Crude-Draw-Ignites-Fresh-Buying.html",
+      "title": "U.S. Oil Drillers Back Off Even As Prices Soar",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Oil-Drillers-Back-Off-Even-As-Prices-Soar.html",
       "source": "OilPrice",
-      "date": "Thu, 15 Oct 2026 22:10:00 -0500"
+      "date": "Fri, 16 Oct 2026 12:29:00 -0500"
     },
     {
-      "title": "Standard Chartered: Trump's Russian Diesel Won't Add New Supply",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Standard-Chartered-Trumps-Russian-Diesel-Wont-Add-New-Supply.html",
+      "title": "Equatorial Guinea Rewrites Oil Law After Production Collapses 85%",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Equatorial-Guinea-Rewrites-Oil-Law-After-Production-Collapses-85.html",
       "source": "OilPrice",
-      "date": "Thu, 15 Oct 2026 19:00:00 -0500"
+      "date": "Fri, 16 Oct 2026 11:30:00 -0500"
+    },
+    {
+      "title": "Oil Prices Are Stuck at $105 as Geopolitical Risks Mount",
+      "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Are-Stuck-at-105-as-Geopolitical-Risks-Mount.html",
+      "source": "OilPrice",
+      "date": "Fri, 16 Oct 2026 11:13:00 -0500"
+    },
+    {
+      "title": "IMF Sounds Alarm Over AI’s Threat to Government Tax Bases",
+      "link": "https://oilprice.com/Energy/Energy-General/IMF-Sounds-Alarm-Over-AIs-Threat-to-Government-Tax-Bases.html",
+      "source": "OilPrice",
+      "date": "Fri, 16 Oct 2026 11:00:00 -0500"
+    },
+    {
+      "title": "Exiro-led group takes control of Vale’s Manitoba nickel complex",
+      "link": "https://www.mining.com/exiro-led-group-takes-control-of-vales-manitoba-nickel-complex/",
+      "source": "mining.com",
+      "date": "Fri, 16 Oct 2026 15:06:00 +0000"
+    },
+    {
+      "title": "US Project Vault readies $1B loan blitz for industry",
+      "link": "https://www.mining.com/us-project-vault-readies-1b-loan-blitz-for-industry/",
+      "source": "mining.com",
+      "date": "Fri, 16 Oct 2026 12:39:00 +0000"
+    },
+    {
+      "title": "Vale says soaring costs put 10% of iron ore in the red",
+      "link": "https://www.mining.com/vale-says-soaring-costs-put-10-of-iron-ore-in-the-red/",
+      "source": "mining.com",
+      "date": "Fri, 16 Oct 2026 11:08:00 +0000"
     },
     {
       "title": "Minnova maps $53M restart for Manitoba gold mine",
@@ -56,40 +86,10 @@
       "date": "Thu, 15 Oct 2026 23:24:00 +0000"
     },
     {
-      "title": "The Diesel Crunch Will Persist Well into 2027",
-      "link": "https://oilprice.com/Energy/Crude-Oil/The-Diesel-Crunch-Will-Persist-Well-into-2027.html",
-      "source": "OilPrice",
-      "date": "Thu, 15 Oct 2026 18:00:00 -0500"
-    },
-    {
       "title": "Tech giants come knocking for a piece of Anglo American as copper scarcity bites, Wanblad tells  FT",
       "link": "https://www.mining.com/tech-giants-come-knocking-for-a-piece-of-anglo-american-as-copper-scarcity-bites-wanblad-tells-ft/",
       "source": "mining.com",
       "date": "Thu, 15 Oct 2026 17:55:45 +0000"
-    },
-    {
-      "title": "Copper price falls for third day as US inflation shock, easing Chile strike risk spur selloff",
-      "link": "https://www.mining.com/copper-price-falls-for-third-day-as-us-inflation-shock-easing-chile-strike-risk-spur-selloff/",
-      "source": "mining.com",
-      "date": "Thu, 15 Oct 2026 16:12:33 +0000"
-    },
-    {
-      "title": "Op-Ed: New investment could reshape US mining",
-      "link": "https://www.mining.com/op-ed-new-investment-could-reshape-us-mining/",
-      "source": "mining.com",
-      "date": "Thu, 15 Oct 2026 16:06:00 +0000"
-    },
-    {
-      "title": "Energy transition faces critical minerals crunch by 2035: report",
-      "link": "https://www.mining.com/energy-transition-faces-critical-minerals-crunch-by-2035-report/",
-      "source": "mining.com",
-      "date": "Thu, 15 Oct 2026 14:19:00 +0000"
-    },
-    {
-      "title": "Antofagasta shares sink as 2027 copper outlook falls flat",
-      "link": "https://www.mining.com/antofagasta-shares-sink-as-2027-copper-outlook-falls-flat/",
-      "source": "mining.com",
-      "date": "Thu, 15 Oct 2026 12:03:00 +0000"
     }
   ]
 }
