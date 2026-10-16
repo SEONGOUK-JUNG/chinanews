@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-16T14:08:19+09:00",
+  "run_at_kst": "2026-10-16T20:10:06+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "South Korea Turns Back to Coal as LNG Crisis Deepens",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/South-Korea-Turns-Back-to-Coal-as-LNG-Crisis-Deepens.html",
+      "source": "OilPrice",
+      "date": "Fri, 16 Oct 2026 05:30:00 -0500"
+    },
+    {
+      "title": "India Slashes Diesel Export Tax as Global Fuel Crunch Deepens",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Slashes-Diesel-Export-Tax-as-Global-Fuel-Crunch-Deepens.html",
+      "source": "OilPrice",
+      "date": "Fri, 16 Oct 2026 04:30:00 -0500"
+    },
+    {
+      "title": "Trump Condemns Ukraine’s Russian Refinery Strikes as a “Disgrace”",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Condemns-Ukraines-Russian-Refinery-Strikes-as-a-Disgrace.html",
+      "source": "OilPrice",
+      "date": "Fri, 16 Oct 2026 03:15:00 -0500"
+    },
+    {
+      "title": "Global Fuel Oil Shortage Deepens as Middle East and Russia Supplies Collapse",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Global-Fuel-Oil-Shortage-Deepens-as-Middle-East-and-Russia-Supplies-Collapse.html",
+      "source": "OilPrice",
+      "date": "Fri, 16 Oct 2026 02:00:00 -0500"
+    },
+    {
+      "title": "Oil Prices Head for Weekly Gain as Hormuz Attacks Rattle Markets",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-Weekly-Gain-as-Hormuz-Attacks-Rattle-Markets.html",
+      "source": "OilPrice",
+      "date": "Fri, 16 Oct 2026 00:30:00 -0500"
+    },
     {
       "title": "WTI Outpaces Brent as U.S. Crude Draw Ignites Fresh Buying",
       "link": "https://oilprice.com/Energy/Energy-General/WTI-Outpaces-Brent-as-US-Crude-Draw-Ignites-Fresh-Buying.html",
@@ -30,36 +60,6 @@
       "link": "https://oilprice.com/Energy/Crude-Oil/The-Diesel-Crunch-Will-Persist-Well-into-2027.html",
       "source": "OilPrice",
       "date": "Thu, 15 Oct 2026 18:00:00 -0500"
-    },
-    {
-      "title": "Exxon’s Oil Boom Could Keep Guyana’s Gas at Home",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Exxons-Oil-Boom-Could-Keep-Guyanas-Gas-at-Home.html",
-      "source": "OilPrice",
-      "date": "Thu, 15 Oct 2026 17:00:00 -0500"
-    },
-    {
-      "title": "U.S. Nuclear Fuel Independence Edges Closer as Urenco Expansion Hits 75%",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/US-Nuclear-Fuel-Independence-Edges-Closer-as-Urenco-Expansion-Hits-75.html",
-      "source": "OilPrice",
-      "date": "Thu, 15 Oct 2026 16:00:00 -0500"
-    },
-    {
-      "title": "6 Countries Pledge Faster Cargo Transfers on Eurasia-Europe Land Bridge",
-      "link": "https://oilprice.com/Geopolitics/International/6-Countries-Pledge-Faster-Cargo-Transfers-on-Eurasia-Europe-Land-Bridge.html",
-      "source": "OilPrice",
-      "date": "Thu, 15 Oct 2026 15:00:00 -0500"
-    },
-    {
-      "title": "Ukraine Strikes Major Russian Oil Refinery",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Strikes-Major-Russian-Oil-Refinery.html",
-      "source": "OilPrice",
-      "date": "Thu, 15 Oct 2026 14:30:00 -0500"
-    },
-    {
-      "title": "U.S. Targets Central Asia's Energy and Critical Minerals in Major Trade Push",
-      "link": "https://oilprice.com/Geopolitics/Asia/US-Targets-Central-Asias-Energy-and-Critical-Minerals-in-Major-Trade-Push.html",
-      "source": "OilPrice",
-      "date": "Thu, 15 Oct 2026 14:00:00 -0500"
     },
     {
       "title": "Tech giants come knocking for a piece of Anglo American as copper scarcity bites, Wanblad tells  FT",
