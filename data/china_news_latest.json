@@ -1,21 +1,21 @@
 {
-  "run_at_kst": "2026-10-17T20:10:06+09:00",
+  "run_at_kst": "2026-10-18T07:08:37+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "주북中대사, 신압록강대교 북중시설 방문…\"경제 협력 확대\"",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DUXhFRWtzSF8tZmZPaWo3ZHg4dkxNTXB3YUZwZzdHWjZWQ05NRmJoeWMzMER3Smo5T3FKR2llbzNWbjJZaWRrczNBbWdvY3ZfWnVuM3FMVmJNTmRaLUZlQWZQenpJT21GUmZxd2hXTFpRd09F?oc=5",
-      "source": "연합뉴스 한민족센터",
-      "date": "Sat, 17 Oct 2026 01:43:17 GMT"
+      "title": "북, 러시아 이어 중국과도 다리 개통...제재 무력화",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCTDZnbVdvbXhSOVFZdXNRQWp1eTRrNGRWbEN5blU4RlRWSVV3bzI3bGg2Nml6enpObko1UkRPc3J2RDVkdGxaMzV5V2NjMjBfalRydHpGbUlIYzVpclE?oc=5",
+      "source": "YTN",
+      "date": "Sat, 17 Oct 2026 21:01:00 GMT"
     },
     {
-      "title": "대구-쿤밍 직항 취항 계기, 중국 관광객 유치 본격화!",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11dWVPbWJDaENRTTFwUmxNWnJ4RW9LRGE4RXk1cmwzZFdudHI4ZVV1Ym45MndEV2s4OVpDT1RYbGhVbzhXWGZqVjVOMEs4YktjUEtiY0dxSTNIWVJHY014Vjg4b9IBZ0FVX3lxTFBmWFRkakNfZERuaXJtMF9zbkc1dUEzczVPTGRYSkQ4VGdBdmRJMlhzTVpuRHM2anBKSVFaWVBhWjhhdWZQS1JoZTBXRmJsbjB0VEtKV1pGenM2WnVwSHVMdW1ZNno2XzA?oc=5",
-      "source": "국민기자뉴스",
-      "date": "Sat, 17 Oct 2026 00:00:00 GMT"
+      "title": "[미중 경제전쟁] “미국은 핵심 광물의 중국 의존도가 너무 과하다” 폭스뉴스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oNkw0U1Q3X2hpSXYzV3lwNnNfd3JQX0NISzh5N2liRkg3NlhYYmZmbUxYYmV6anhfRzM2ZHBtT21jMEtSTTBfVlcwVHZIMkxUUjhtdUlMSUdEcDd3WjVMVHZQSDRNRHlTbC1BY2hXYjM?oc=5",
+      "source": "위키리크스한국",
+      "date": "Sat, 17 Oct 2026 20:43:20 GMT"
     },
     {
       "title": "중국, 경제 불균형에 대해 EU와 대화 시작",
@@ -24,10 +24,22 @@
       "date": "Fri, 16 Oct 2026 16:00:03 GMT"
     },
     {
-      "title": "[경제] ECLAC 사무총장 \"中 경제 활력, 라틴아메리카∙카리브해 국가에 시장 확대 기회 제공\"-Xinhua",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Bd3ZwT2dtOGVHZ1JOMnVFdFlFbzNxcDRZRGRLYkd1ckNqeTR4Q0FvODhpallxU0lFSklrTTBYaVRNWWJkaXVPald5ZTZ1dDZ6Uzc0RVRJRFFKNkNqYmp3RnFJUHBZRER5R2NCVHQ0Nk1RRTJXWUE?oc=5",
+      "title": "[경제+] 독일 대외무역협회장 \"유럽 경쟁력 저하, 中 때문 아냐...실용적 접근 필요\"-Xinhua",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oYTZjU0twN0s3VVp1R1hwc0paNV9PYW03MGp4U2ZmeU05Qlg1bUNTelp6YkhuelVuU1lrRDM4dzNTa0lZTkNXZzMyMElhVE51bThIZ3ZaRjRoRFAxM1FOekpMVmw4ZVp1eFp1aTd3RFl0Q1I0NkE?oc=5",
       "source": "신화망",
-      "date": "Fri, 16 Oct 2026 07:42:15 GMT"
+      "date": "Fri, 16 Oct 2026 08:42:15 GMT"
+    },
+    {
+      "title": "추경호",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QZjU3N3I2d01nbGpLVDBHVXhpLXE1cnZPM3RoZmJWVGlnWmxPeEwxcEV0a0ctQ1dSQkFOMzVpRGVING5CUUgzU3RPclNpM1JN?oc=5",
+      "source": "매일경제 마켓",
+      "date": "Fri, 16 Oct 2026 08:05:45 GMT"
+    },
+    {
+      "title": "중국, 전 충칭시장 이어 아들도 연행…‘국유기업에 민간자본 도입’ 개혁 주도",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rMG1NcjRUUS1Jb2hvc1MwZzlBVDUzY0Rmc3dBYzBpM2l2dlVGY2VLNDcwcmhZa1UwbUoxMkt6RVgtY0REMWhsOE9yQlUyRnotaUppcXZuUVpXd9IBX0FVX3lxTE5PbnVZSk52bjJMaERQSXBIdmpXUjlCWGd2c0ttWWxkVWFhc292UVJPeHNYa01LUExKeEhfWmM0UU5nNEduX1ZVbzBnRDZ2c0c2b2ptM3RFUm15dVBWbktj?oc=5",
+      "source": "경향신문",
+      "date": "Fri, 16 Oct 2026 04:10:00 GMT"
     },
     {
       "title": "중국 ‘신신삼양' 세미나 개최… \"첨단산업 상생 모델 모색\"",
@@ -42,12 +54,6 @@
       "date": "Thu, 15 Oct 2026 02:33:00 GMT"
     },
     {
-      "title": "중국과 육상연결 강화한 북한…경제, 제재 전환점 맞을까",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5Mm1HQVkzMzNWN0ZVLXQ1YlI0TFl0LWRsRlhEWjEwM2tsNjVBY1FndUQ0WmpUUzJXRkltTEhSSTA2azQ1VWpaalRnaUxKb3hXa3hzaVJWbmRtZ9IBX0FVX3lxTE1NbGN2VGMzWXRfNU9aSmJ5d0Q1TFhpcjlKaEpSakJQMEhsX0dTVnNnR3IyblNPbmlRYWZoQm9ESjBRc09LdzZ2YlJHOFJONEFnSFVSY3JweXNSRG5aY0hV?oc=5",
-      "source": "경향신문",
-      "date": "Thu, 15 Oct 2026 02:29:00 GMT"
-    },
-    {
       "title": "토큰으로 지어진 유령도시… 중국 AI 굴기의 성과와 한계",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN055OURaNzdDelc2NHdGaXJBOGVRdzRxUnc1NnA3NVpXdDlKZ1JlaEpoYXNkdmFHRkotbVNVUkNveTcxUlhyVjdpR0gzZEJmdWl2R0NPZ2w5ano0RDVWYklPTE5oeG1COTd0U1VXeHJZMzdMaU8xQlVwMlR5Mi05cXg1MVlrNV9RUzV3dmV3?oc=5",
       "source": "조선일보",
@@ -58,12 +64,6 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LYjJzMTcxQ1FrM0JacjY3d0dLNTZWMDF6c0ZWS2J5WXNuRVFyamotaHpNeFdLRHlEblhqc3pXTWhNdkxwMjQtLTg2am1Ibm5MYks2N0p5TEh5R3RCR2UtaHFKYWZOWUV3RUlz0gFvQVVfeXFMTTlIU19ZZ2tMc1A1V0xmQUJST1dOQjktRVZjeHpjcUJYY2ZvUW5Ga2lkc2ZtSHExQlRvTVRiMFV3ci15andlaS1FYk1HZHBTQ1ZPUm96TG9hejV6eVBtamtOVW8wNkpqVXlweG10YVpj?oc=5",
       "source": "서울일보",
       "date": "Tue, 13 Oct 2026 08:27:43 GMT"
-    },
-    {
-      "title": "IMF 성장 전망 4.5% 낮추자...중국 \"경제 기초 좋다\"",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSbXViUTJ6ZkFGUXJacmlrdUxXTzZDWTFoZjkwamk5TTc1Qm9GWUlaTEJ2YnJRekFqclVTTWUtZ1AyLUZsRVR1cFQxcVg2THVwY1M4eVdzNmRLd2JmdFE?oc=5",
-      "source": "YTN",
-      "date": "Tue, 13 Oct 2026 08:12:00 GMT"
     },
     {
       "title": "중국 경제수장 허리펑, ‘퇴임’ 팀쿡과 회동…협력 심화 강조",
