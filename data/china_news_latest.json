@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-10-17T10:10:05+09:00",
+  "run_at_kst": "2026-10-17T14:10:06+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "주북中대사, 신압록강대교 북중시설 방문…\"경제 협력 확대\"",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DUXhFRWtzSF8tZmZPaWo3ZHg4dkxNTXB3YUZwZzdHWjZWQ05NRmJoeWMzMER3Smo5T3FKR2llbzNWbjJZaWRrczNBbWdvY3ZfWnVuM3FMVmJNTmRaLUZlQWZQenpJT21GUmZxd2hXTFpRd09F?oc=5",
+      "source": "연합뉴스 한민족센터",
+      "date": "Sat, 17 Oct 2026 01:43:17 GMT"
+    },
     {
       "title": "대구-쿤밍 직항 취항 계기, 중국 관광객 유치 본격화!",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11dWVPbWJDaENRTTFwUmxNWnJ4RW9LRGE4RXk1cmwzZFdudHI4ZVV1Ym45MndEV2s4OVpDT1RYbGhVbzhXWGZqVjVOMEs4YktjUEtiY0dxSTNIWVJHY014Vjg4b9IBZ0FVX3lxTFBmWFRkakNfZERuaXJtMF9zbkc1dUEzczVPTGRYSkQ4VGdBdmRJMlhzTVpuRHM2anBKSVFaWVBhWjhhdWZQS1JoZTBXRmJsbjB0VEtKV1pGenM2WnVwSHVMdW1ZNno2XzA?oc=5",
@@ -16,6 +22,12 @@
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNNXBhamVmRWl5QUV0Uk5VcW9jbWIzMEVHWGMwUUNQa0ZyT2s2a1dpVnlLUGoxbV9OSHlRdnk0cHZESzNyN2tmaTRXb0JCODd1WG1WS1pLdUI1MzJCMkstS2Z0NHc3YWdNdEJMeTY0NzZDWGlBT1RuTFpfXzd2WVJKOUtlRDJZY2VPeUk4aFYtNUdVZFkzZ2JNc3FOdHEyamYyazJ2M1kyTGdKa0VuS1FBMjFIVG45YkdBT1hlc2t2clpOWl9ZM21rT3puTU4zV3loQTNaU2pfOTZ3enBZRTRTQXVoQkEzRjVGNEZMREtsU2dXY2FfREl3bWpuNzlINFZBSFhtSDRtbURxNUNaZjlhREN1R2hwdw?oc=5",
       "source": "IDNFinancials",
       "date": "Fri, 16 Oct 2026 16:00:03 GMT"
+    },
+    {
+      "title": "시진핑 주석 \"생태 우선·녹색 발전의 길을 확고하게 걸어가야\"…고품질 발전과 고수준 보호 병행 강조",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyZWN2TURXVlBTdGhUZ1NGemJ3UGdwTTVZWkhsc0ktYkdzU2NIRVAxakc0dXlxalgxd2hiR3FYNG9ZQUZKajZORUttNjZENk9NblNSNFhCWl92clVENXhHSE94Zw?oc=5",
+      "source": "CGTN",
+      "date": "Fri, 16 Oct 2026 11:56:28 GMT"
     },
     {
       "title": "\"증시 운명 걸렸다\"…테슬라·한은·중국에 쏠린 눈[다음주 변수 미리보기]",
@@ -36,12 +48,6 @@
       "date": "Fri, 16 Oct 2026 07:42:15 GMT"
     },
     {
-      "title": "[올댓차이나] 3분기 中 성장률 4.4% 전망…내수 부진에 경기 둔화",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PenVDb3d2T3JJYkpnc2VzQzluVE94UXBKbjB0XzZYdC1HOFo2YUhsRG5qOFVWeFpEcTQxTHlSR282U0NLZC1BeUdLM20yMmdXSHU3Mm16NE1NQUpPU0tTZw?oc=5",
-      "source": "뉴시스",
-      "date": "Fri, 16 Oct 2026 06:35:49 GMT"
-    },
-    {
       "title": "중국 경제 기적, 한계에 봉착 : 미제스 연구소",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oWDJVN201V0t2cG9COHZudFktTXhRbVlFUGdsNFhndkVZNE1Nd0NUQk1mVEZXVzNvOEwyRmhUWC1jbGtyS1gzenpHczE4bVAwWi1LdFk3UkZpQzdmWEZrazhoVVRBTXJUTmp3VFBn?oc=5",
       "source": "뉴스타운",
@@ -52,12 +58,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5Mm1HQVkzMzNWN0ZVLXQ1YlI0TFl0LWRsRlhEWjEwM2tsNjVBY1FndUQ0WmpUUzJXRkltTEhSSTA2azQ1VWpaalRnaUxKb3hXa3hzaVJWbmRtZ9IBX0FVX3lxTE1NbGN2VGMzWXRfNU9aSmJ5d0Q1TFhpcjlKaEpSakJQMEhsX0dTVnNnR3IyblNPbmlRYWZoQm9ESjBRc09LdzZ2YlJHOFJONEFnSFVSY3JweXNSRG5aY0hV?oc=5",
       "source": "경향신문",
       "date": "Thu, 15 Oct 2026 02:29:00 GMT"
-    },
-    {
-      "title": "﻿IMF, 중국 올해 성장률 전망 4.5%로 하향",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LYjJzMTcxQ1FrM0JacjY3d0dLNTZWMDF6c0ZWS2J5WXNuRVFyamotaHpNeFdLRHlEblhqc3pXTWhNdkxwMjQtLTg2am1Ibm5MYks2N0p5TEh5R3RCR2UtaHFKYWZOWUV3RUlz0gFvQVVfeXFMTTlIU19ZZ2tMc1A1V0xmQUJST1dOQjktRVZjeHpjcUJYY2ZvUW5Ga2lkc2ZtSHExQlRvTVRiMFV3ci15andlaS1FYk1HZHBTQ1ZPUm96TG9hejV6eVBtamtOVW8wNkpqVXlweG10YVpj?oc=5",
-      "source": "서울일보",
-      "date": "Tue, 13 Oct 2026 08:27:43 GMT"
     },
     {
       "title": "IMF 성장 전망 4.5% 낮추자...중국 \"경제 기초 좋다\"",
