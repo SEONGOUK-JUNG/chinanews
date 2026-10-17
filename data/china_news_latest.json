@@ -1,10 +1,22 @@
 {
-  "run_at_kst": "2026-10-17T07:08:28+09:00",
+  "run_at_kst": "2026-10-17T10:10:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "대구-쿤밍 직항 취항 계기, 중국 관광객 유치 본격화!",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11dWVPbWJDaENRTTFwUmxNWnJ4RW9LRGE4RXk1cmwzZFdudHI4ZVV1Ym45MndEV2s4OVpDT1RYbGhVbzhXWGZqVjVOMEs4YktjUEtiY0dxSTNIWVJHY014Vjg4b9IBZ0FVX3lxTFBmWFRkakNfZERuaXJtMF9zbkc1dUEzczVPTGRYSkQ4VGdBdmRJMlhzTVpuRHM2anBKSVFaWVBhWjhhdWZQS1JoZTBXRmJsbjB0VEtKV1pGenM2WnVwSHVMdW1ZNno2XzA?oc=5",
+      "source": "국민기자뉴스",
+      "date": "Sat, 17 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "중국, 경제 불균형에 대해 EU와 대화 시작",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNNXBhamVmRWl5QUV0Uk5VcW9jbWIzMEVHWGMwUUNQa0ZyT2s2a1dpVnlLUGoxbV9OSHlRdnk0cHZESzNyN2tmaTRXb0JCODd1WG1WS1pLdUI1MzJCMkstS2Z0NHc3YWdNdEJMeTY0NzZDWGlBT1RuTFpfXzd2WVJKOUtlRDJZY2VPeUk4aFYtNUdVZFkzZ2JNc3FOdHEyamYyazJ2M1kyTGdKa0VuS1FBMjFIVG45YkdBT1hlc2t2clpOWl9ZM21rT3puTU4zV3loQTNaU2pfOTZ3enBZRTRTQXVoQkEzRjVGNEZMREtsU2dXY2FfREl3bWpuNzlINFZBSFhtSDRtbURxNUNaZjlhREN1R2hwdw?oc=5",
+      "source": "IDNFinancials",
+      "date": "Fri, 16 Oct 2026 16:00:03 GMT"
+    },
     {
       "title": "\"증시 운명 걸렸다\"…테슬라·한은·중국에 쏠린 눈[다음주 변수 미리보기]",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CQnhpX1MwU2tLcWczU3N2d2hJZng0RWI4Vl9tZDJlUFZZTjZfWXF0cTVfT2hSbnAySV9aOTJseDZwVW9OWVA5YTQtdjRqUE0yMUxGUlFQcmNJQQ?oc=5",
@@ -30,12 +42,6 @@
       "date": "Fri, 16 Oct 2026 06:35:49 GMT"
     },
     {
-      "title": "노인 전용 쇼핑몰이 뜬다…중국 ‘실버 상권’이 커지는 이유",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PS1RsQ2VHbTA2VlhlbzBVWklOb2dzT2o0Sk1ueFMwUC1jMDhRMGFwS0JZTmlaZDZiQ0p2dGlicUJYMGFQcnY4TVFjS0g4WHlENDlUWG1MaGo4LUEyLVBIQnQ5N3lKTlBlbXpfOW9MNA?oc=5",
-      "source": "요양뉴스",
-      "date": "Fri, 16 Oct 2026 05:00:00 GMT"
-    },
-    {
       "title": "중국 경제 기적, 한계에 봉착 : 미제스 연구소",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oWDJVN201V0t2cG9COHZudFktTXhRbVlFUGdsNFhndkVZNE1Nd0NUQk1mVEZXVzNvOEwyRmhUWC1jbGtyS1gzenpHczE4bVAwWi1LdFk3UkZpQzdmWEZrazhoVVRBTXJUTmp3VFBn?oc=5",
       "source": "뉴스타운",
@@ -46,12 +52,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5Mm1HQVkzMzNWN0ZVLXQ1YlI0TFl0LWRsRlhEWjEwM2tsNjVBY1FndUQ0WmpUUzJXRkltTEhSSTA2azQ1VWpaalRnaUxKb3hXa3hzaVJWbmRtZ9IBX0FVX3lxTE1NbGN2VGMzWXRfNU9aSmJ5d0Q1TFhpcjlKaEpSakJQMEhsX0dTVnNnR3IyblNPbmlRYWZoQm9ESjBRc09LdzZ2YlJHOFJONEFnSFVSY3JweXNSRG5aY0hV?oc=5",
       "source": "경향신문",
       "date": "Thu, 15 Oct 2026 02:29:00 GMT"
-    },
-    {
-      "title": "토큰으로 지어진 유령도시… 중국 AI 굴기의 성과와 한계",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN055OURaNzdDelc2NHdGaXJBOGVRdzRxUnc1NnA3NVpXdDlKZ1JlaEpoYXNkdmFHRkotbVNVUkNveTcxUlhyVjdpR0gzZEJmdWl2R0NPZ2w5ano0RDVWYklPTE5oeG1COTd0U1VXeHJZMzdMaU8xQlVwMlR5Mi05cXg1MVlrNV9RUzV3dmV3?oc=5",
-      "source": "조선일보",
-      "date": "Wed, 14 Oct 2026 18:00:00 GMT"
     },
     {
       "title": "﻿IMF, 중국 올해 성장률 전망 4.5%로 하향",

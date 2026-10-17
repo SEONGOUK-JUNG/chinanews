@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-17T07:08:28+09:00",
+  "run_at_kst": "2026-10-17T10:10:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,18 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Buffalo clears potash permit hurdle in Saskatchewan",
+      "link": "https://www.mining.com/buffalo-clears-potash-permit-hurdle-in-saskatchewan/",
+      "source": "mining.com",
+      "date": "Fri, 16 Oct 2026 22:48:00 +0000"
+    },
+    {
+      "title": "Greenland to introduce ban on seabed mining",
+      "link": "https://www.mining.com/greenland-to-introduce-ban-on-seabed-mining/",
+      "source": "mining.com",
+      "date": "Fri, 16 Oct 2026 22:19:25 +0000"
+    },
     {
       "title": "Global Energy Import Dependence Set to Peak by 2034, Rystad Says",
       "link": "https://oilprice.com/Energy/Energy-General/Global-Energy-Import-Dependence-Set-to-Peak-by-2034-Rystad-Says.html",
@@ -78,18 +90,6 @@
       "link": "https://www.mining.com/vale-says-soaring-costs-put-10-of-iron-ore-in-the-red/",
       "source": "mining.com",
       "date": "Fri, 16 Oct 2026 11:08:00 +0000"
-    },
-    {
-      "title": "Minnova maps $53M restart for Manitoba gold mine",
-      "link": "https://www.mining.com/minnova-maps-53m-restart-for-manitoba-gold-mine/",
-      "source": "mining.com",
-      "date": "Thu, 15 Oct 2026 23:24:00 +0000"
-    },
-    {
-      "title": "Tech giants come knocking for a piece of Anglo American as copper scarcity bites, Wanblad tells  FT",
-      "link": "https://www.mining.com/tech-giants-come-knocking-for-a-piece-of-anglo-american-as-copper-scarcity-bites-wanblad-tells-ft/",
-      "source": "mining.com",
-      "date": "Thu, 15 Oct 2026 17:55:45 +0000"
     }
   ]
 }
