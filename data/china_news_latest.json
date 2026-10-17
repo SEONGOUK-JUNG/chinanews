@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-17T14:10:06+09:00",
+  "run_at_kst": "2026-10-17T20:10:06+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -24,28 +24,16 @@
       "date": "Fri, 16 Oct 2026 16:00:03 GMT"
     },
     {
-      "title": "시진핑 주석 \"생태 우선·녹색 발전의 길을 확고하게 걸어가야\"…고품질 발전과 고수준 보호 병행 강조",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyZWN2TURXVlBTdGhUZ1NGemJ3UGdwTTVZWkhsc0ktYkdzU2NIRVAxakc0dXlxalgxd2hiR3FYNG9ZQUZKajZORUttNjZENk9NblNSNFhCWl92clVENXhHSE94Zw?oc=5",
-      "source": "CGTN",
-      "date": "Fri, 16 Oct 2026 11:56:28 GMT"
-    },
-    {
-      "title": "\"증시 운명 걸렸다\"…테슬라·한은·중국에 쏠린 눈[다음주 변수 미리보기]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CQnhpX1MwU2tLcWczU3N2d2hJZng0RWI4Vl9tZDJlUFZZTjZfWXF0cTVfT2hSbnAySV9aOTJseDZwVW9OWVA5YTQtdjRqUE0yMUxGUlFQcmNJQQ?oc=5",
-      "source": "한국경제",
-      "date": "Fri, 16 Oct 2026 10:13:36 GMT"
-    },
-    {
-      "title": "추경호",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QZjU3N3I2d01nbGpLVDBHVXhpLXE1cnZPM3RoZmJWVGlnWmxPeEwxcEV0a0ctQ1dSQkFOMzVpRGVING5CUUgzU3RPclNpM1JN?oc=5",
-      "source": "매일경제 마켓",
-      "date": "Fri, 16 Oct 2026 08:05:45 GMT"
-    },
-    {
       "title": "[경제] ECLAC 사무총장 \"中 경제 활력, 라틴아메리카∙카리브해 국가에 시장 확대 기회 제공\"-Xinhua",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Bd3ZwT2dtOGVHZ1JOMnVFdFlFbzNxcDRZRGRLYkd1ckNqeTR4Q0FvODhpallxU0lFSklrTTBYaVRNWWJkaXVPald5ZTZ1dDZ6Uzc0RVRJRFFKNkNqYmp3RnFJUHBZRER5R2NCVHQ0Nk1RRTJXWUE?oc=5",
       "source": "신화망",
       "date": "Fri, 16 Oct 2026 07:42:15 GMT"
+    },
+    {
+      "title": "중국 ‘신신삼양' 세미나 개최… \"첨단산업 상생 모델 모색\"",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuOEJTWmR0MkxuTEFuYnRpLUFWbVdwV0xzQ01JVHBIdUZqc3Jic3VaNlIzci05cDl5bmxiZjR3MlA5TjE1VGxpaXpjMHRjOVRfRUV3b21tTjJQa3NoM1B5UmdXbw?oc=5",
+      "source": "CGTN",
+      "date": "Thu, 15 Oct 2026 18:09:45 GMT"
     },
     {
       "title": "중국 경제 기적, 한계에 봉착 : 미제스 연구소",
@@ -58,6 +46,18 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5Mm1HQVkzMzNWN0ZVLXQ1YlI0TFl0LWRsRlhEWjEwM2tsNjVBY1FndUQ0WmpUUzJXRkltTEhSSTA2azQ1VWpaalRnaUxKb3hXa3hzaVJWbmRtZ9IBX0FVX3lxTE1NbGN2VGMzWXRfNU9aSmJ5d0Q1TFhpcjlKaEpSakJQMEhsX0dTVnNnR3IyblNPbmlRYWZoQm9ESjBRc09LdzZ2YlJHOFJONEFnSFVSY3JweXNSRG5aY0hV?oc=5",
       "source": "경향신문",
       "date": "Thu, 15 Oct 2026 02:29:00 GMT"
+    },
+    {
+      "title": "토큰으로 지어진 유령도시… 중국 AI 굴기의 성과와 한계",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN055OURaNzdDelc2NHdGaXJBOGVRdzRxUnc1NnA3NVpXdDlKZ1JlaEpoYXNkdmFHRkotbVNVUkNveTcxUlhyVjdpR0gzZEJmdWl2R0NPZ2w5ano0RDVWYklPTE5oeG1COTd0U1VXeHJZMzdMaU8xQlVwMlR5Mi05cXg1MVlrNV9RUzV3dmV3?oc=5",
+      "source": "조선일보",
+      "date": "Wed, 14 Oct 2026 18:00:00 GMT"
+    },
+    {
+      "title": "﻿IMF, 중국 올해 성장률 전망 4.5%로 하향",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LYjJzMTcxQ1FrM0JacjY3d0dLNTZWMDF6c0ZWS2J5WXNuRVFyamotaHpNeFdLRHlEblhqc3pXTWhNdkxwMjQtLTg2am1Ibm5MYks2N0p5TEh5R3RCR2UtaHFKYWZOWUV3RUlz0gFvQVVfeXFMTTlIU19ZZ2tMc1A1V0xmQUJST1dOQjktRVZjeHpjcUJYY2ZvUW5Ga2lkc2ZtSHExQlRvTVRiMFV3ci15andlaS1FYk1HZHBTQ1ZPUm96TG9hejV6eVBtamtOVW8wNkpqVXlweG10YVpj?oc=5",
+      "source": "서울일보",
+      "date": "Tue, 13 Oct 2026 08:27:43 GMT"
     },
     {
       "title": "IMF 성장 전망 4.5% 낮추자...중국 \"경제 기초 좋다\"",
