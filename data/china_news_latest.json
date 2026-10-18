@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-19T07:08:49+09:00",
+  "run_at_kst": "2026-10-19T07:20:08+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -24,22 +24,28 @@
       "date": "Sun, 18 Oct 2026 10:16:00 GMT"
     },
     {
+      "title": "저수준 경제 개발 - 최종편: 중국에서 얻은 교훈",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTHM2Q1dYVlpIRjYwYVFVV21ZZVRLSHdYQVhpemYyeFptNFpzb2QyUnl4cWZoSzM5b0x1NnN5VTlaWmFkWUlIYkVoZU83S3hVRG9nMHp5WmZGREZWYmFhYzRpLUpmRm91dTNZd1N3SWNIWEFyX0RCaVhsZUxRX3FqbmVjU056WWhfdEs1dll2aWhTb3VuMEdDUXppWWk?oc=5",
+      "source": "Vietnam.vn",
+      "date": "Sun, 18 Oct 2026 08:03:15 GMT"
+    },
+    {
       "title": "수출은 호황인데 중국 경제의 전망이 엇갈리는 이유",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hejBHanVZVUpWcGxRc3FfZ05DQmYxcTU5SDE5MGNTWWdsUVlMdlR4NndRZHU4YmVJOVN5QTM2TTJ4VTR2cjZTUWtBb1BNZmVEMzRWYjRCb2JsbzZyQVRVNFFiVjF6UUk?oc=5",
       "source": "M이코노미뉴스",
       "date": "Sun, 18 Oct 2026 06:20:00 GMT"
     },
     {
-      "title": "중국, 경제 불균형에 대해 EU와 대화 시작",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNNXBhamVmRWl5QUV0Uk5VcW9jbWIzMEVHWGMwUUNQa0ZyT2s2a1dpVnlLUGoxbV9OSHlRdnk0cHZESzNyN2tmaTRXb0JCODd1WG1WS1pLdUI1MzJCMkstS2Z0NHc3YWdNdEJMeTY0NzZDWGlBT1RuTFpfXzd2WVJKOUtlRDJZY2VPeUk4aFYtNUdVZFkzZ2JNc3FOdHEyamYyazJ2M1kyTGdKa0VuS1FBMjFIVG45YkdBT1hlc2t2clpOWl9ZM21rT3puTU4zV3loQTNaU2pfOTZ3enBZRTRTQXVoQkEzRjVGNEZMREtsU2dXY2FfREl3bWpuNzlINFZBSFhtSDRtbURxNUNaZjlhREN1R2hwdw?oc=5",
-      "source": "IDNFinancials",
-      "date": "Fri, 16 Oct 2026 16:00:03 GMT"
-    },
-    {
       "title": "\"증시 운명 걸렸다\"…테슬라·한은·중국에 쏠린 눈[다음주 변수 미리보기]",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CQnhpX1MwU2tLcWczU3N2d2hJZng0RWI4Vl9tZDJlUFZZTjZfWXF0cTVfT2hSbnAySV9aOTJseDZwVW9OWVA5YTQtdjRqUE0yMUxGUlFQcmNJQQ?oc=5",
       "source": "한국경제",
       "date": "Fri, 16 Oct 2026 10:13:36 GMT"
+    },
+    {
+      "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Fri, 16 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "중국, 전 충칭시장 이어 아들도 연행…‘국유기업에 민간자본 도입’ 개혁 주도",
@@ -70,12 +76,6 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2LVpZX0wzRG1oLWR3c2VlNmxxNmFNTkxWd0VuQzdFazdzLTVGS3ROdTkwSzU3WkNvZGV5ZVEyd2JBN192Qk9PY0Z0Q3dYZTZWZEIydjlvV3J6X2M?oc=5",
       "source": "KBS 뉴스",
       "date": "Tue, 13 Oct 2026 00:50:00 GMT"
-    },
-    {
-      "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Mon, 12 Oct 2026 07:00:00 GMT"
     }
   ]
 }
