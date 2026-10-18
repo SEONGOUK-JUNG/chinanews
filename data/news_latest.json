@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-18T10:08:46+09:00",
+  "run_at_kst": "2026-10-19T07:08:49+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Hormuz Is Turning Shipping’s Fuel Bill Into a Supply Crisis",
+      "link": "https://oilprice.com/Geopolitics/Middle-East/Hormuz-Is-Turning-Shippings-Fuel-Bill-Into-a-Supply-Crisis.html",
+      "source": "OilPrice",
+      "date": "Sun, 18 Oct 2026 16:00:00 -0500"
+    },
+    {
+      "title": "The Nuclear Power Shortcut That Could Add Gigawatts to the U.S. Grid",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-Nuclear-Power-Shortcut-That-Could-Add-Gigawatts-to-the-US-Grid.html",
+      "source": "OilPrice",
+      "date": "Sun, 18 Oct 2026 14:00:00 -0500"
+    },
+    {
+      "title": "Mining’s future hinges on global cooperation: report",
+      "link": "https://www.mining.com/minings-future-hinges-on-global-cooperation-report/",
+      "source": "mining.com",
+      "date": "Sun, 18 Oct 2026 17:31:14 +0000"
+    },
+    {
+      "title": "Iran Faces Rising Threat From Within as Baluch Insurgency Escalates",
+      "link": "https://oilprice.com/Geopolitics/Middle-East/Iran-Faces-Rising-Threat-From-Within-as-Baluch-Insurgency-Escalates.html",
+      "source": "OilPrice",
+      "date": "Sun, 18 Oct 2026 12:00:00 -0500"
+    },
+    {
+      "title": "Electric Supercars Are Getting Faster, Smarter, and Harder to Ignore",
+      "link": "https://oilprice.com/Energy/Energy-General/Electric-Supercars-Are-Getting-Faster-Smarter-and-Harder-to-Ignore.html",
+      "source": "OilPrice",
+      "date": "Sun, 18 Oct 2026 10:00:00 -0500"
+    },
     {
       "title": "Oil Prices Stay High as War Keeps Supply Tight Into 2027",
       "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Stay-High-as-War-Keeps-Supply-Tight-Into-2027.html",
@@ -32,12 +62,6 @@
       "date": "Sat, 17 Oct 2026 12:00:00 -0500"
     },
     {
-      "title": "Bolivia’s Energy Crisis Deepens as Natural Gas Reserves Run Dry",
-      "link": "https://oilprice.com/Energy/Energy-General/Bolivias-Energy-Crisis-Deepens-as-Natural-Gas-Reserves-Run-Dry.html",
-      "source": "OilPrice",
-      "date": "Sat, 17 Oct 2026 10:00:00 -0500"
-    },
-    {
       "title": "Buffalo clears potash permit hurdle in Saskatchewan",
       "link": "https://www.mining.com/buffalo-clears-potash-permit-hurdle-in-saskatchewan/",
       "source": "mining.com",
@@ -50,28 +74,10 @@
       "date": "Fri, 16 Oct 2026 22:19:25 +0000"
     },
     {
-      "title": "Global Energy Import Dependence Set to Peak by 2034, Rystad Says",
-      "link": "https://oilprice.com/Energy/Energy-General/Global-Energy-Import-Dependence-Set-to-Peak-by-2034-Rystad-Says.html",
-      "source": "OilPrice",
-      "date": "Fri, 16 Oct 2026 17:00:00 -0500"
-    },
-    {
-      "title": "Norway's Untapped Oil and Gas Frontier Is Drawing Renewed Interest",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Norways-Untapped-Oil-and-Gas-Frontier-Is-Drawing-Renewed-Interest.html",
-      "source": "OilPrice",
-      "date": "Fri, 16 Oct 2026 14:00:00 -0500"
-    },
-    {
       "title": "Canada’s new foreign investment rules: What critical minerals miners need to know",
       "link": "https://www.mining.com/canadas-new-foreign-investment-rules-what-critical-minerals-miners-need-to-know/",
       "source": "mining.com",
       "date": "Fri, 16 Oct 2026 18:57:02 +0000"
-    },
-    {
-      "title": "U.S. Offers Another 17 Million SPR Barrels as Fuel Crisis Deepens",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Offers-Another-17-Million-SPR-Barrels-as-Fuel-Crisis-Deepens.html",
-      "source": "OilPrice",
-      "date": "Fri, 16 Oct 2026 13:30:00 -0500"
     },
     {
       "title": "Exiro-led group takes control of Vale’s Manitoba nickel complex",
@@ -84,12 +90,6 @@
       "link": "https://www.mining.com/us-project-vault-readies-1b-loan-blitz-for-industry/",
       "source": "mining.com",
       "date": "Fri, 16 Oct 2026 12:39:00 +0000"
-    },
-    {
-      "title": "Vale says soaring costs put 10% of iron ore in the red",
-      "link": "https://www.mining.com/vale-says-soaring-costs-put-10-of-iron-ore-in-the-red/",
-      "source": "mining.com",
-      "date": "Fri, 16 Oct 2026 11:08:00 +0000"
     }
   ]
 }

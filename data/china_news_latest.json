@@ -1,39 +1,33 @@
 {
-  "run_at_kst": "2026-10-18T20:11:31+09:00",
+  "run_at_kst": "2026-10-19T07:08:49+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "[아침을 열며]중국이 한국 제조업을 전부 삼키기 전에",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIZEhxQk1KdDg4dWZpd3p0Ylk5QkJmSkxtb1l0YXJ2X2FCUEd2UEw5MkhZQ3Y4cFNTc0wxdURnVDlMeE9MRjhyNmE0ZS1HTlpVZTR1WmZSblVyd9IBX0FVX3lxTE5fd29BMG9IdUl4Q05jMHk5cXllY1AtcUp4cloxeEpIM0lQNUpGTmU4LVVvUjJpWHp6dU9MdUluUzF1blhlUEx1ODh5ejJIRURsWG9VUFNnQ3d6TUlNTEVj?oc=5",
-      "source": "경향신문",
-      "date": "Sun, 18 Oct 2026 11:01:00 GMT"
+      "title": "전기차·무인경전철로 장악… 中, 중앙아시아 '소프트 침투' 가속",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVXlPSGc5cThwci1qMWhSaWxsUml0MDdad093OXlyR3hIUk5GQnFFUkEyZV9WTWZTZEMwZlFXbVcwVGxSTG45TFNBSl80am00M2RZa1JfeTlmNTc0SXBGLXlIc1ItbU1ydEtxc0d2RlA1SjdOSmU0NHZrYVkyM3UteTlNcTJxY0Nx?oc=5",
+      "source": "글로벌이코노믹",
+      "date": "Sun, 18 Oct 2026 20:45:00 GMT"
     },
     {
-      "title": "저수준 경제 개발 - 최종편: 중국에서 얻은 교훈",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTHM2Q1dYVlpIRjYwYVFVV21ZZVRLSHdYQVhpemYyeFptNFpzb2QyUnl4cWZoSzM5b0x1NnN5VTlaWmFkWUlIYkVoZU83S3hVRG9nMHp5WmZGREZWYmFhYzRpLUpmRm91dTNZd1N3SWNIWEFyX0RCaVhsZUxRX3FqbmVjU056WWhfdEs1dll2aWhTb3VuMEdDUXppWWk?oc=5",
-      "source": "Vietnam.vn",
-      "date": "Sun, 18 Oct 2026 08:03:15 GMT"
+      "title": "북, 러시아 이어 중국과도 다리 개통...제재 무력화",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lcVdzeFVEazRCVDhnS1oydUVFUFppUjFlczUyZ3Etcko3N04ySkhjNjN1VkU3X3lyNGVBQVNVMjJQTFVnb1BMcG44akRwakZSLVBJMnZTY0stNWRPYmc?oc=5",
+      "source": "YTN",
+      "date": "Sun, 18 Oct 2026 13:20:00 GMT"
+    },
+    {
+      "title": "[중국증시 주간 포인트] 中 3Q GDP∙9월 실물경제 지표, 금융가포럼, APEC 재무장관회의, 엔비디아 GTC, 자율주행∙AI칩 관련 행사, 미국&중국증시 어닝시즌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93VmVZNGxjVkdwRmxoMkdSYW5oaEF5UlZTOG1RZWw2U0NSY2lKZXZaLTV5RFczVmZ1UWwtWWQ3VkNaeXVrcWhzTnk4WVV2dmZyb3lnVy0tUkdkc3Ax?oc=5",
+      "source": "뉴스핌",
+      "date": "Sun, 18 Oct 2026 10:16:00 GMT"
     },
     {
       "title": "수출은 호황인데 중국 경제의 전망이 엇갈리는 이유",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hejBHanVZVUpWcGxRc3FfZ05DQmYxcTU5SDE5MGNTWWdsUVlMdlR4NndRZHU4YmVJOVN5QTM2TTJ4VTR2cjZTUWtBb1BNZmVEMzRWYjRCb2JsbzZyQVRVNFFiVjF6UUk?oc=5",
       "source": "M이코노미뉴스",
       "date": "Sun, 18 Oct 2026 06:20:00 GMT"
-    },
-    {
-      "title": "북, 러시아 이어 중국과도 다리 개통...제재 무력화",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HZVdGVzVxR29nMzNUSHpTb0t4c2NJV3VDX25saGxOTlVsSkRIUXkxakhlcmZFLXJnX19fWXVPZzhCelBrbXdoN29haGpVbDZ5bkNZNzVDQkY1NUN4Tk1MWGVXaG5JY3JJOWpRZG1PUQ?oc=5",
-      "source": "YTN",
-      "date": "Sat, 17 Oct 2026 21:01:00 GMT"
-    },
-    {
-      "title": "[미중 경제전쟁] “미국은 핵심 광물의 중국 의존도가 너무 과하다” 폭스뉴스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oNkw0U1Q3X2hpSXYzV3lwNnNfd3JQX0NISzh5N2liRkg3NlhYYmZmbUxYYmV6anhfRzM2ZHBtT21jMEtSTTBfVlcwVHZIMkxUUjhtdUlMSUdEcDd3WjVMVHZQSDRNRHlTbC1BY2hXYjM?oc=5",
-      "source": "위키리크스한국",
-      "date": "Sat, 17 Oct 2026 20:43:20 GMT"
     },
     {
       "title": "중국, 경제 불균형에 대해 EU와 대화 시작",
@@ -48,10 +42,10 @@
       "date": "Fri, 16 Oct 2026 10:13:36 GMT"
     },
     {
-      "title": "중국 ‘신신삼양' 세미나 개최… \"첨단산업 상생 모델 모색\"",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuOEJTWmR0MkxuTEFuYnRpLUFWbVdwV0xzQ01JVHBIdUZqc3Jic3VaNlIzci05cDl5bmxiZjR3MlA5TjE1VGxpaXpjMHRjOVRfRUV3b21tTjJQa3NoM1B5UmdXbw?oc=5",
-      "source": "CGTN",
-      "date": "Thu, 15 Oct 2026 18:09:45 GMT"
+      "title": "중국, 전 충칭시장 이어 아들도 연행…‘국유기업에 민간자본 도입’ 개혁 주도",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rMG1NcjRUUS1Jb2hvc1MwZzlBVDUzY0Rmc3dBYzBpM2l2dlVGY2VLNDcwcmhZa1UwbUoxMkt6RVgtY0REMWhsOE9yQlUyRnotaUppcXZuUVpXd9IBX0FVX3lxTE5PbnVZSk52bjJMaERQSXBIdmpXUjlCWGd2c0ttWWxkVWFhc292UVJPeHNYa01LUExKeEhfWmM0UU5nNEduX1ZVbzBnRDZ2c0c2b2ptM3RFUm15dVBWbktj?oc=5",
+      "source": "경향신문",
+      "date": "Fri, 16 Oct 2026 04:10:00 GMT"
     },
     {
       "title": "중국 경제 기적, 한계에 봉착 : 미제스 연구소",
@@ -60,10 +54,16 @@
       "date": "Thu, 15 Oct 2026 02:33:00 GMT"
     },
     {
-      "title": "토큰으로 지어진 유령도시… 중국 AI 굴기의 성과와 한계",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN055OURaNzdDelc2NHdGaXJBOGVRdzRxUnc1NnA3NVpXdDlKZ1JlaEpoYXNkdmFHRkotbVNVUkNveTcxUlhyVjdpR0gzZEJmdWl2R0NPZ2w5ano0RDVWYklPTE5oeG1COTd0U1VXeHJZMzdMaU8xQlVwMlR5Mi05cXg1MVlrNV9RUzV3dmV3?oc=5",
-      "source": "조선일보",
-      "date": "Wed, 14 Oct 2026 18:00:00 GMT"
+      "title": "IMF가 분석한 중국의 과거, 현재, 그리고 미래",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWWdyNEo4N3MwVk1JbEZfSzFPbXVhb3lkNHpyeHFjRGdaYWZHZVotMFYxTHlFNDBTaDFrSlhZRUxkenJWRnFmSERBODJtVEM3dWF6NXFPdEdLX29HWmVSTURyMHlMUzROV3lWT3JDREhCU1dMOU1sb2hVSm1HdktUT3hGczFxMVF6dFE?oc=5",
+      "source": "OhmyNews",
+      "date": "Wed, 14 Oct 2026 05:59:00 GMT"
+    },
+    {
+      "title": "﻿IMF, 중국 올해 성장률 전망 4.5%로 하향",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LYjJzMTcxQ1FrM0JacjY3d0dLNTZWMDF6c0ZWS2J5WXNuRVFyamotaHpNeFdLRHlEblhqc3pXTWhNdkxwMjQtLTg2am1Ibm5MYks2N0p5TEh5R3RCR2UtaHFKYWZOWUV3RUlz0gFvQVVfeXFMTTlIU19ZZ2tMc1A1V0xmQUJST1dOQjktRVZjeHpjcUJYY2ZvUW5Ga2lkc2ZtSHExQlRvTVRiMFV3ci15andlaS1FYk1HZHBTQ1ZPUm96TG9hejV6eVBtamtOVW8wNkpqVXlweG10YVpj?oc=5",
+      "source": "서울일보",
+      "date": "Tue, 13 Oct 2026 08:27:43 GMT"
     },
     {
       "title": "중국 경제수장 허리펑, ‘퇴임’ 팀쿡과 회동…협력 심화 강조",
