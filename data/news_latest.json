@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-18T07:08:37+09:00",
+  "run_at_kst": "2026-10-18T10:08:46+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Oil Prices Stay High as War Keeps Supply Tight Into 2027",
+      "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Stay-High-as-War-Keeps-Supply-Tight-Into-2027.html",
+      "source": "OilPrice",
+      "date": "Sat, 17 Oct 2026 18:00:00 -0500"
+    },
     {
       "title": "Middle East Chemicals Keep Their Cost Edge Despite Hormuz Crisis",
       "link": "https://oilprice.com/Energy/Natural-Gas/Middle-East-Chemicals-Keep-Their-Cost-Edge-Despite-Hormuz-Crisis.html",
@@ -66,12 +72,6 @@
       "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Offers-Another-17-Million-SPR-Barrels-as-Fuel-Crisis-Deepens.html",
       "source": "OilPrice",
       "date": "Fri, 16 Oct 2026 13:30:00 -0500"
-    },
-    {
-      "title": "Wind Farm Approved in Victoria, Australia Would Be Largest in Southern Hemispher",
-      "link": "https://oilprice.com/Alternative-Energy/Wind-Power/Wind-Farm-Approved-in-Victoria-Australia-Would-Be-Largest-in-Southern-Hemispher.html",
-      "source": "OilPrice",
-      "date": "Fri, 16 Oct 2026 13:00:00 -0500"
     },
     {
       "title": "Exiro-led group takes control of Vale’s Manitoba nickel complex",

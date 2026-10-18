@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-18T07:08:37+09:00",
+  "run_at_kst": "2026-10-18T10:08:46+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -7,7 +7,7 @@
   "items": [
     {
       "title": "북, 러시아 이어 중국과도 다리 개통...제재 무력화",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCTDZnbVdvbXhSOVFZdXNRQWp1eTRrNGRWbEN5blU4RlRWSVV3bzI3bGg2Nml6enpObko1UkRPc3J2RDVkdGxaMzV5V2NjMjBfalRydHpGbUlIYzVpclE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HZVdGVzVxR29nMzNUSHpTb0t4c2NJV3VDX25saGxOTlVsSkRIUXkxakhlcmZFLXJnX19fWXVPZzhCelBrbXdoN29haGpVbDZ5bkNZNzVDQkY1NUN4Tk1MWGVXaG5JY3JJOWpRZG1PUQ?oc=5",
       "source": "YTN",
       "date": "Sat, 17 Oct 2026 21:01:00 GMT"
     },
@@ -18,16 +18,10 @@
       "date": "Sat, 17 Oct 2026 20:43:20 GMT"
     },
     {
-      "title": "중국, 경제 불균형에 대해 EU와 대화 시작",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNNXBhamVmRWl5QUV0Uk5VcW9jbWIzMEVHWGMwUUNQa0ZyT2s2a1dpVnlLUGoxbV9OSHlRdnk0cHZESzNyN2tmaTRXb0JCODd1WG1WS1pLdUI1MzJCMkstS2Z0NHc3YWdNdEJMeTY0NzZDWGlBT1RuTFpfXzd2WVJKOUtlRDJZY2VPeUk4aFYtNUdVZFkzZ2JNc3FOdHEyamYyazJ2M1kyTGdKa0VuS1FBMjFIVG45YkdBT1hlc2t2clpOWl9ZM21rT3puTU4zV3loQTNaU2pfOTZ3enBZRTRTQXVoQkEzRjVGNEZMREtsU2dXY2FfREl3bWpuNzlINFZBSFhtSDRtbURxNUNaZjlhREN1R2hwdw?oc=5",
-      "source": "IDNFinancials",
-      "date": "Fri, 16 Oct 2026 16:00:03 GMT"
-    },
-    {
-      "title": "[경제+] 독일 대외무역협회장 \"유럽 경쟁력 저하, 中 때문 아냐...실용적 접근 필요\"-Xinhua",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oYTZjU0twN0s3VVp1R1hwc0paNV9PYW03MGp4U2ZmeU05Qlg1bUNTelp6YkhuelVuU1lrRDM4dzNTa0lZTkNXZzMyMElhVE51bThIZ3ZaRjRoRFAxM1FOekpMVmw4ZVp1eFp1aTd3RFl0Q1I0NkE?oc=5",
-      "source": "신화망",
-      "date": "Fri, 16 Oct 2026 08:42:15 GMT"
+      "title": "\"증시 운명 걸렸다\"…테슬라·한은·중국에 쏠린 눈[다음주 변수 미리보기]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CQnhpX1MwU2tLcWczU3N2d2hJZng0RWI4Vl9tZDJlUFZZTjZfWXF0cTVfT2hSbnAySV9aOTJseDZwVW9OWVA5YTQtdjRqUE0yMUxGUlFQcmNJQQ?oc=5",
+      "source": "한국경제",
+      "date": "Fri, 16 Oct 2026 10:13:36 GMT"
     },
     {
       "title": "추경호",
@@ -58,6 +52,12 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN055OURaNzdDelc2NHdGaXJBOGVRdzRxUnc1NnA3NVpXdDlKZ1JlaEpoYXNkdmFHRkotbVNVUkNveTcxUlhyVjdpR0gzZEJmdWl2R0NPZ2w5ano0RDVWYklPTE5oeG1COTd0U1VXeHJZMzdMaU8xQlVwMlR5Mi05cXg1MVlrNV9RUzV3dmV3?oc=5",
       "source": "조선일보",
       "date": "Wed, 14 Oct 2026 18:00:00 GMT"
+    },
+    {
+      "title": "자국에 무역조치 요구한 프랑스에 中 대화 희망",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90ZXY3bDh2TVZsWXdrcnVfVW1kRFVaN3ZLNTEzWFFaVUJILTExMWFIdUMtdG9icEhmdDJSTjlVeG9TY19sRVU0VFVoejBwN2pBbjBtMjZHdjJBNE5uYWZzakJwLVQxdTE4NWRaVW5n?oc=5",
+      "source": "아시아투데이",
+      "date": "Wed, 14 Oct 2026 12:55:00 GMT"
     },
     {
       "title": "﻿IMF, 중국 올해 성장률 전망 4.5%로 하향",
