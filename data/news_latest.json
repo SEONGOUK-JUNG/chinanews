@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-19T10:09:09+09:00",
+  "run_at_kst": "2026-10-19T20:10:11+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Japan’s Electricity Prices Surge 25% as LNG and Coal Costs Soar",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Electricity-Prices-Surge-25-as-LNG-and-Coal-Costs-Soar.html",
+      "source": "OilPrice",
+      "date": "Mon, 19 Oct 2026 05:30:00 -0500"
+    },
+    {
+      "title": "China's Coal Production Slumps 6.8% as Winter Supply Fears Grow",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Coal-Production-Slumps-68-as-Winter-Supply-Fears-Grow.html",
+      "source": "OilPrice",
+      "date": "Mon, 19 Oct 2026 04:30:00 -0500"
+    },
+    {
+      "title": "India's Crude Oil Import Bill Soars 46% as Middle East Crisis Drives Up Prices",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Crude-Oil-Import-Bill-Soars-46-as-Middle-East-Crisis-Drives-Up-Prices.html",
+      "source": "OilPrice",
+      "date": "Mon, 19 Oct 2026 03:35:00 -0500"
+    },
+    {
+      "title": "Greenpeace Protest Forces Shutdown at Woodside’s $12.5 Billion Gas Project",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Greenpeace-Protest-Forces-Shutdown-at-Woodsides-125-Billion-Gas-Project.html",
+      "source": "OilPrice",
+      "date": "Mon, 19 Oct 2026 02:00:00 -0500"
+    },
+    {
+      "title": "Oil Prices Slip as Trump-Putin Diesel Deal Raises Supply Hopes",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Slip-as-Trump-Putin-Diesel-Deal-Raises-Supply-Hopes.html",
+      "source": "OilPrice",
+      "date": "Mon, 19 Oct 2026 00:25:00 -0500"
+    },
     {
       "title": "America Needs 48,000 Tons of Rare Earth Magnets. It Only Makes 300",
       "link": "https://oilprice.com/Energy/Energy-General/America-Needs-48000-Tons-of-Rare-Earth-Magnets-It-Only-Makes-300.html",
@@ -26,40 +56,10 @@
       "date": "Sun, 18 Oct 2026 16:00:00 -0500"
     },
     {
-      "title": "The Nuclear Power Shortcut That Could Add Gigawatts to the U.S. Grid",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-Nuclear-Power-Shortcut-That-Could-Add-Gigawatts-to-the-US-Grid.html",
-      "source": "OilPrice",
-      "date": "Sun, 18 Oct 2026 14:00:00 -0500"
-    },
-    {
       "title": "Mining’s future hinges on global cooperation: report",
       "link": "https://www.mining.com/minings-future-hinges-on-global-cooperation-report/",
       "source": "mining.com",
       "date": "Sun, 18 Oct 2026 17:31:14 +0000"
-    },
-    {
-      "title": "Iran Faces Rising Threat From Within as Baluch Insurgency Escalates",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/Iran-Faces-Rising-Threat-From-Within-as-Baluch-Insurgency-Escalates.html",
-      "source": "OilPrice",
-      "date": "Sun, 18 Oct 2026 12:00:00 -0500"
-    },
-    {
-      "title": "Electric Supercars Are Getting Faster, Smarter, and Harder to Ignore",
-      "link": "https://oilprice.com/Energy/Energy-General/Electric-Supercars-Are-Getting-Faster-Smarter-and-Harder-to-Ignore.html",
-      "source": "OilPrice",
-      "date": "Sun, 18 Oct 2026 10:00:00 -0500"
-    },
-    {
-      "title": "Oil Prices Stay High as War Keeps Supply Tight Into 2027",
-      "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Stay-High-as-War-Keeps-Supply-Tight-Into-2027.html",
-      "source": "OilPrice",
-      "date": "Sat, 17 Oct 2026 18:00:00 -0500"
-    },
-    {
-      "title": "Middle East Chemicals Keep Their Cost Edge Despite Hormuz Crisis",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Middle-East-Chemicals-Keep-Their-Cost-Edge-Despite-Hormuz-Crisis.html",
-      "source": "OilPrice",
-      "date": "Sat, 17 Oct 2026 16:00:00 -0500"
     },
     {
       "title": "Buffalo clears potash permit hurdle in Saskatchewan",
