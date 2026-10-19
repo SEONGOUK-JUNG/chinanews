@@ -1,15 +1,57 @@
 {
-  "run_at_kst": "2026-10-19T10:09:09+09:00",
+  "run_at_kst": "2026-10-19T14:10:06+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "전기차·무인경전철로 장악… 中, 중앙아시아 '소프트 침투' 가속",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVXlPSGc5cThwci1qMWhSaWxsUml0MDdad093OXlyR3hIUk5GQnFFUkEyZV9WTWZTZEMwZlFXbVcwVGxSTG45TFNBSl80am00M2RZa1JfeTlmNTc0SXBGLXlIc1ItbU1ydEtxc0d2RlA1SjdOSmU0NHZrYVkyM3UteTlNcTJxY0Nx?oc=5",
-      "source": "글로벌이코노믹",
-      "date": "Sun, 18 Oct 2026 20:45:00 GMT"
+      "title": "中 3분기 경제성장률 4.5%·0.2%P↑…1~3분기는 4.6%(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51bW4tbFpLaTNEclBCN1R4b3hkcE42dlhCVERIMVhKbXlOUHZSWjBsZHBYWno4cE1sLTQ2N08tMG9GR0tqX19lYjlidUxHRWotQVh1ZUNjQTNRbHBlNk5vU9IBeEFVX3lxTFBWbC1aYmZ2UVlWTVk3eklxanFxZWtkQTNUSXZNRDJnOXptWDlaZVItdHd6a3hLWlNIOVJWaVYtLVg3RHJtZkV6TFJqYVBBZWlWLURwWnpaWjN3bGF5Q2VVODdXcmVPSDNLT0JaMkc3SzF6Nk14RjNueA?oc=5",
+      "source": "뉴시스",
+      "date": "Mon, 19 Oct 2026 04:41:28 GMT"
+    },
+    {
+      "title": "중국 3분기 GDP 4.5% 증가…올해 성장목표 달성 가시화(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tRFMyYlZic0JYX2RSbXYxRl81ekpvdVBNNWdyZU5Ob0publp0NFRnWndhVVZPLVhiaUdPdExGRDNJSE10NmwxSUEwd2lrMVVMRnc?oc=5",
+      "source": "매일경제 마켓",
+      "date": "Mon, 19 Oct 2026 03:40:08 GMT"
+    },
+    {
+      "title": "연휴 효과 먹혔나, 중국 경제 반등했는데…남은 4분기 관건은(종합)",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNclhRM2syTGE1WXdFOC0zY1VxRGNFblk5Nnc2enlQTlNhUHdXd3l0RE5fbnZ1MnFWQXN3Y0tHX3FRaF96QWc0TjNrZ3dldW1yUkZ6OE9wMy1ibWlTNGNTTmJzUjBaV2Q0bWlPdjg3eGZ5VkY2S3ZmUFFPOEFWOHFGaA?oc=5",
+      "source": "이데일리",
+      "date": "Mon, 19 Oct 2026 03:22:43 GMT"
+    },
+    {
+      "title": "중국 3분기 GDP 성장률 4.5%…시장 예상치 소폭 상회",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlQ2hqSjYwWm13RHY0LThScC0yLXZwQ1VwN3czZGFNc2VCeldYTFZ6cUVvcGlES0RSNkN4UXV4anJDaUxJbDlXTWxndC1jamNyeFRQdlY4ZzhaLUY4dkVIVHJSRFJkSlpGLVhtWVBn?oc=5",
+      "source": "서울이코노미뉴스",
+      "date": "Mon, 19 Oct 2026 02:45:24 GMT"
+    },
+    {
+      "title": "중국 3분기 GDP 4.5% 증가…1~3분기는 4.6%↑",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0SjI5ZHI4el9tSVNwNmdaV0dhNUdjcEpQaEJBanhHQmJySkxEa3FvS1FMbWlaQ0RHOE91UjZfcW1vT0tqSDBZWXlnYWsyTU1xMXpucDRKNVlicjh3YmltbdIBeEFVX3lxTE50SkU2XzF6WlNkdHRSZWl4eU1kZVQzU3MtUnNMckpfZkdCdkZlSnd1bkVEYnJ6VXgzWXcyRGJ1dkN5bGlXenR2ZkpiY01nMkVVQUhaRnVmMFB2dmlETDNzWTNibUQ5VVFQU2lvOTZxbTNCRjB5anIwXw?oc=5",
+      "source": "뉴시스",
+      "date": "Mon, 19 Oct 2026 02:44:18 GMT"
+    },
+    {
+      "title": "中 언론, '코리아비즈니스엑스포 선전' 호평…박종범·임혜 회장 '찰떡궁합' 빛났다",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OX2VYcmVfUkZFc3piWldHamFqU2FjcWlfRV9nd1UzcU1jNGtMVVRISXVXRnBXal9rTzU1RXJnUlpiZ2U5STJzWlZ6ODY3MUxDQ1NYa1dJXzk1MmdreWs5OUhkY3dwNl9GMFl1Zg?oc=5",
+      "source": "재외동포신문",
+      "date": "Mon, 19 Oct 2026 02:34:21 GMT"
+    },
+    {
+      "title": "[그래픽] 중국 경제성장률 추이",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DX2M2dlc3bG96YVdhN0Z1T0NJR3Fzb1B3ei0zSzNWMzNqZnY5ZHVqb0tQUVkyMVdFTjJGOVBsNjR2MTNTcW81U0RpeW03SFNXOTBLSnNoaDVfNjhTRkNWbUFobTBjQnB1c2JwUm1QLTNkWHgy?oc=5",
+      "source": "연합뉴스 한민족센터",
+      "date": "Mon, 19 Oct 2026 02:25:37 GMT"
+    },
+    {
+      "title": "中 3분기 성장률 4.5%로 반등…경제 반등에도 '속 빈 강정' [차이나 워치]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rMHRCOFlIMHlXeUk0a0hLTXNBZDIyNy1GWlRaS29MSWJ1YUQwOG1rSmx0UGRSSUJBNllGTndVRlN0QmpvS2dtU2g4Rk1zMlhWb0J0ejBTMmxzUQ?oc=5",
+      "source": "한국경제",
+      "date": "Mon, 19 Oct 2026 02:04:16 GMT"
     },
     {
       "title": "북, 러시아 이어 중국과도 다리 개통...제재 무력화",
@@ -30,52 +72,10 @@
       "date": "Sun, 18 Oct 2026 06:20:00 GMT"
     },
     {
-      "title": "[미중 경제전쟁] “미국은 핵심 광물의 중국 의존도가 너무 과하다” 폭스뉴스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oNkw0U1Q3X2hpSXYzV3lwNnNfd3JQX0NISzh5N2liRkg3NlhYYmZmbUxYYmV6anhfRzM2ZHBtT21jMEtSTTBfVlcwVHZIMkxUUjhtdUlMSUdEcDd3WjVMVHZQSDRNRHlTbC1BY2hXYjM?oc=5",
-      "source": "위키리크스한국",
-      "date": "Sat, 17 Oct 2026 20:43:20 GMT"
-    },
-    {
-      "title": "시진핑 주석 \"생태 우선·녹색 발전의 길을 확고하게 걸어가야\"…고품질 발전과 고수준 보호 병행 강조",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyZWN2TURXVlBTdGhUZ1NGemJ3UGdwTTVZWkhsc0ktYkdzU2NIRVAxakc0dXlxalgxd2hiR3FYNG9ZQUZKajZORUttNjZENk9NblNSNFhCWl92clVENXhHSE94Zw?oc=5",
-      "source": "CGTN",
-      "date": "Fri, 16 Oct 2026 11:56:28 GMT"
-    },
-    {
-      "title": "\"증시 운명 걸렸다\"…테슬라·한은·중국에 쏠린 눈[다음주 변수 미리보기]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CQnhpX1MwU2tLcWczU3N2d2hJZng0RWI4Vl9tZDJlUFZZTjZfWXF0cTVfT2hSbnAySV9aOTJseDZwVW9OWVA5YTQtdjRqUE0yMUxGUlFQcmNJQQ?oc=5",
-      "source": "한국경제",
-      "date": "Fri, 16 Oct 2026 10:13:36 GMT"
-    },
-    {
       "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
       "source": ":: 위즈경제 ::",
       "date": "Fri, 16 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "[올댓차이나] 3분기 中 성장률 4.4% 전망…내수 부진에 경기 둔화",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PenVDb3d2T3JJYkpnc2VzQzluVE94UXBKbjB0XzZYdC1HOFo2YUhsRG5qOFVWeFpEcTQxTHlSR282U0NLZC1BeUdLM20yMmdXSHU3Mm16NE1NQUpPU0tTZ9IBeEFVX3lxTE9kVVhJem1CUEZlb3cyZUhEYVZqQV9TYmtZdlh1TVVSVUtJTlUtZXU0b1ZEUTFZU2ZreWlSVjY2YlBwcUV5RUpjSmZraTZLUjBjaUlUSHFoTm1EY2lBcThaa181ODhpOG13TlFORUpUNGY1NTZVM1E2Wg?oc=5",
-      "source": "뉴시스",
-      "date": "Fri, 16 Oct 2026 06:35:49 GMT"
-    },
-    {
-      "title": "중국, 전 충칭시장 이어 아들도 연행…‘국유기업에 민간자본 도입’ 개혁 주도",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rMG1NcjRUUS1Jb2hvc1MwZzlBVDUzY0Rmc3dBYzBpM2l2dlVGY2VLNDcwcmhZa1UwbUoxMkt6RVgtY0REMWhsOE9yQlUyRnotaUppcXZuUVpXd9IBX0FVX3lxTE5PbnVZSk52bjJMaERQSXBIdmpXUjlCWGd2c0ttWWxkVWFhc292UVJPeHNYa01LUExKeEhfWmM0UU5nNEduX1ZVbzBnRDZ2c0c2b2ptM3RFUm15dVBWbktj?oc=5",
-      "source": "경향신문",
-      "date": "Fri, 16 Oct 2026 04:10:00 GMT"
-    },
-    {
-      "title": "“신압록강대교 개통으로 중국 단둥 ‘동북아경제협력거점’ 발전 가능성”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tbHJFLVQwa1N1eW1NR0tyaVlsUGdGNFEyWUVlLTF4UDFwdnlfeVJkcmtRN054cXNraWN2UHRSbXpjeVNvamozcm5rYjFPOTR6OEp5SE9iVkZRUmM?oc=5",
-      "source": "KBS 뉴스",
-      "date": "Fri, 16 Oct 2026 01:49:00 GMT"
-    },
-    {
-      "title": "중국 경제 기적, 한계에 봉착 : 미제스 연구소",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oWDJVN201V0t2cG9COHZudFktTXhRbVlFUGdsNFhndkVZNE1Nd0NUQk1mVEZXVzNvOEwyRmhUWC1jbGtyS1gzenpHczE4bVAwWi1LdFk3UkZpQzdmWEZrazhoVVRBTXJUTmp3VFBn?oc=5",
-      "source": "뉴스타운",
-      "date": "Thu, 15 Oct 2026 02:33:00 GMT"
     }
   ]
 }
