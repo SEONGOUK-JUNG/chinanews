@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-19T07:08:49+09:00",
+  "run_at_kst": "2026-10-19T10:09:09+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,18 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "America Needs 48,000 Tons of Rare Earth Magnets. It Only Makes 300",
+      "link": "https://oilprice.com/Energy/Energy-General/America-Needs-48000-Tons-of-Rare-Earth-Magnets-It-Only-Makes-300.html",
+      "source": "OilPrice",
+      "date": "Sun, 18 Oct 2026 20:00:00 -0500"
+    },
+    {
+      "title": "Record Shipping Costs Force Oil Producers to Slash Prices",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Record-Shipping-Costs-Force-Oil-Producers-to-Slash-Prices.html",
+      "source": "OilPrice",
+      "date": "Sun, 18 Oct 2026 18:00:00 -0500"
+    },
     {
       "title": "Hormuz Is Turning Shipping’s Fuel Bill Into a Supply Crisis",
       "link": "https://oilprice.com/Geopolitics/Middle-East/Hormuz-Is-Turning-Shippings-Fuel-Bill-Into-a-Supply-Crisis.html",
@@ -48,18 +60,6 @@
       "link": "https://oilprice.com/Energy/Natural-Gas/Middle-East-Chemicals-Keep-Their-Cost-Edge-Despite-Hormuz-Crisis.html",
       "source": "OilPrice",
       "date": "Sat, 17 Oct 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Texas Researchers Say Permian Wastewater Could Cool AI Data Centers",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Texas-Researchers-Say-Permian-Wastewater-Could-Cool-AI-Data-Centers.html",
-      "source": "OilPrice",
-      "date": "Sat, 17 Oct 2026 12:00:00 -0500"
-    },
-    {
-      "title": "Europe Braces for a Winter Energy Crisis as Gas Reserves Run Low",
-      "link": "https://oilprice.com/Energy/Energy-General/Europe-Braces-for-a-Winter-Energy-Crisis-as-Gas-Reserves-Run-Low.html",
-      "source": "OilPrice",
-      "date": "Sat, 17 Oct 2026 12:00:00 -0500"
     },
     {
       "title": "Buffalo clears potash permit hurdle in Saskatchewan",

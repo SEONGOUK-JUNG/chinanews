@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-19T07:20:08+09:00",
+  "run_at_kst": "2026-10-19T10:09:09+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -24,16 +24,22 @@
       "date": "Sun, 18 Oct 2026 10:16:00 GMT"
     },
     {
-      "title": "저수준 경제 개발 - 최종편: 중국에서 얻은 교훈",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTHM2Q1dYVlpIRjYwYVFVV21ZZVRLSHdYQVhpemYyeFptNFpzb2QyUnl4cWZoSzM5b0x1NnN5VTlaWmFkWUlIYkVoZU83S3hVRG9nMHp5WmZGREZWYmFhYzRpLUpmRm91dTNZd1N3SWNIWEFyX0RCaVhsZUxRX3FqbmVjU056WWhfdEs1dll2aWhTb3VuMEdDUXppWWk?oc=5",
-      "source": "Vietnam.vn",
-      "date": "Sun, 18 Oct 2026 08:03:15 GMT"
-    },
-    {
       "title": "수출은 호황인데 중국 경제의 전망이 엇갈리는 이유",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hejBHanVZVUpWcGxRc3FfZ05DQmYxcTU5SDE5MGNTWWdsUVlMdlR4NndRZHU4YmVJOVN5QTM2TTJ4VTR2cjZTUWtBb1BNZmVEMzRWYjRCb2JsbzZyQVRVNFFiVjF6UUk?oc=5",
       "source": "M이코노미뉴스",
       "date": "Sun, 18 Oct 2026 06:20:00 GMT"
+    },
+    {
+      "title": "[미중 경제전쟁] “미국은 핵심 광물의 중국 의존도가 너무 과하다” 폭스뉴스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oNkw0U1Q3X2hpSXYzV3lwNnNfd3JQX0NISzh5N2liRkg3NlhYYmZmbUxYYmV6anhfRzM2ZHBtT21jMEtSTTBfVlcwVHZIMkxUUjhtdUlMSUdEcDd3WjVMVHZQSDRNRHlTbC1BY2hXYjM?oc=5",
+      "source": "위키리크스한국",
+      "date": "Sat, 17 Oct 2026 20:43:20 GMT"
+    },
+    {
+      "title": "시진핑 주석 \"생태 우선·녹색 발전의 길을 확고하게 걸어가야\"…고품질 발전과 고수준 보호 병행 강조",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyZWN2TURXVlBTdGhUZ1NGemJ3UGdwTTVZWkhsc0ktYkdzU2NIRVAxakc0dXlxalgxd2hiR3FYNG9ZQUZKajZORUttNjZENk9NblNSNFhCWl92clVENXhHSE94Zw?oc=5",
+      "source": "CGTN",
+      "date": "Fri, 16 Oct 2026 11:56:28 GMT"
     },
     {
       "title": "\"증시 운명 걸렸다\"…테슬라·한은·중국에 쏠린 눈[다음주 변수 미리보기]",
@@ -48,34 +54,28 @@
       "date": "Fri, 16 Oct 2026 07:00:00 GMT"
     },
     {
+      "title": "[올댓차이나] 3분기 中 성장률 4.4% 전망…내수 부진에 경기 둔화",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PenVDb3d2T3JJYkpnc2VzQzluVE94UXBKbjB0XzZYdC1HOFo2YUhsRG5qOFVWeFpEcTQxTHlSR282U0NLZC1BeUdLM20yMmdXSHU3Mm16NE1NQUpPU0tTZ9IBeEFVX3lxTE9kVVhJem1CUEZlb3cyZUhEYVZqQV9TYmtZdlh1TVVSVUtJTlUtZXU0b1ZEUTFZU2ZreWlSVjY2YlBwcUV5RUpjSmZraTZLUjBjaUlUSHFoTm1EY2lBcThaa181ODhpOG13TlFORUpUNGY1NTZVM1E2Wg?oc=5",
+      "source": "뉴시스",
+      "date": "Fri, 16 Oct 2026 06:35:49 GMT"
+    },
+    {
       "title": "중국, 전 충칭시장 이어 아들도 연행…‘국유기업에 민간자본 도입’ 개혁 주도",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rMG1NcjRUUS1Jb2hvc1MwZzlBVDUzY0Rmc3dBYzBpM2l2dlVGY2VLNDcwcmhZa1UwbUoxMkt6RVgtY0REMWhsOE9yQlUyRnotaUppcXZuUVpXd9IBX0FVX3lxTE5PbnVZSk52bjJMaERQSXBIdmpXUjlCWGd2c0ttWWxkVWFhc292UVJPeHNYa01LUExKeEhfWmM0UU5nNEduX1ZVbzBnRDZ2c0c2b2ptM3RFUm15dVBWbktj?oc=5",
       "source": "경향신문",
       "date": "Fri, 16 Oct 2026 04:10:00 GMT"
     },
     {
+      "title": "“신압록강대교 개통으로 중국 단둥 ‘동북아경제협력거점’ 발전 가능성”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tbHJFLVQwa1N1eW1NR0tyaVlsUGdGNFEyWUVlLTF4UDFwdnlfeVJkcmtRN054cXNraWN2UHRSbXpjeVNvamozcm5rYjFPOTR6OEp5SE9iVkZRUmM?oc=5",
+      "source": "KBS 뉴스",
+      "date": "Fri, 16 Oct 2026 01:49:00 GMT"
+    },
+    {
       "title": "중국 경제 기적, 한계에 봉착 : 미제스 연구소",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oWDJVN201V0t2cG9COHZudFktTXhRbVlFUGdsNFhndkVZNE1Nd0NUQk1mVEZXVzNvOEwyRmhUWC1jbGtyS1gzenpHczE4bVAwWi1LdFk3UkZpQzdmWEZrazhoVVRBTXJUTmp3VFBn?oc=5",
       "source": "뉴스타운",
       "date": "Thu, 15 Oct 2026 02:33:00 GMT"
-    },
-    {
-      "title": "IMF가 분석한 중국의 과거, 현재, 그리고 미래",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWWdyNEo4N3MwVk1JbEZfSzFPbXVhb3lkNHpyeHFjRGdaYWZHZVotMFYxTHlFNDBTaDFrSlhZRUxkenJWRnFmSERBODJtVEM3dWF6NXFPdEdLX29HWmVSTURyMHlMUzROV3lWT3JDREhCU1dMOU1sb2hVSm1HdktUT3hGczFxMVF6dFE?oc=5",
-      "source": "OhmyNews",
-      "date": "Wed, 14 Oct 2026 05:59:00 GMT"
-    },
-    {
-      "title": "﻿IMF, 중국 올해 성장률 전망 4.5%로 하향",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LYjJzMTcxQ1FrM0JacjY3d0dLNTZWMDF6c0ZWS2J5WXNuRVFyamotaHpNeFdLRHlEblhqc3pXTWhNdkxwMjQtLTg2am1Ibm5MYks2N0p5TEh5R3RCR2UtaHFKYWZOWUV3RUlz0gFvQVVfeXFMTTlIU19ZZ2tMc1A1V0xmQUJST1dOQjktRVZjeHpjcUJYY2ZvUW5Ga2lkc2ZtSHExQlRvTVRiMFV3ci15andlaS1FYk1HZHBTQ1ZPUm96TG9hejV6eVBtamtOVW8wNkpqVXlweG10YVpj?oc=5",
-      "source": "서울일보",
-      "date": "Tue, 13 Oct 2026 08:27:43 GMT"
-    },
-    {
-      "title": "중국 경제수장 허리펑, ‘퇴임’ 팀쿡과 회동…협력 심화 강조",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2LVpZX0wzRG1oLWR3c2VlNmxxNmFNTkxWd0VuQzdFazdzLTVGS3ROdTkwSzU3WkNvZGV5ZVEyd2JBN192Qk9PY0Z0Q3dYZTZWZEIydjlvV3J6X2M?oc=5",
-      "source": "KBS 뉴스",
-      "date": "Tue, 13 Oct 2026 00:50:00 GMT"
     }
   ]
 }
