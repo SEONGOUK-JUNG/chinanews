@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-20T10:09:37+09:00",
+  "run_at_kst": "2026-10-20T14:19:25+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Brent Tops $110 as Tanker Attacks Threaten Persian Gulf Supply",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Tops-110-as-Tanker-Attacks-Threaten-Persian-Gulf-Supply.html",
+      "source": "OilPrice",
+      "date": "Mon, 19 Oct 2026 23:56:06 -0500"
+    },
     {
       "title": "Robot Wars – How China Has the Robotics Industry in Its Grip",
       "link": "https://oilprice.com/Energy/Energy-General/Robot-Wars-How-China-Has-the-Robotics-Industry-in-Its-Grip.html",
@@ -84,12 +90,6 @@
       "link": "https://www.mining.com/digital-gold-could-triple-by-2031-wgc-estimates/",
       "source": "mining.com",
       "date": "Mon, 19 Oct 2026 17:45:50 +0000"
-    },
-    {
-      "title": "Pakistan’s Growth Slows  as Hormuz Crisis Hits Industry",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistans-Growth-Slows-as-Hormuz-Crisis-Hits-Industry.html",
-      "source": "OilPrice",
-      "date": "Mon, 19 Oct 2026 12:30:00 -0500"
     }
   ]
 }
