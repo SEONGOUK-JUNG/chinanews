@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-20T07:10:07+09:00",
+  "run_at_kst": "2026-10-20T10:09:37+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,18 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Robot Wars – How China Has the Robotics Industry in Its Grip",
+      "link": "https://oilprice.com/Energy/Energy-General/Robot-Wars-How-China-Has-the-Robotics-Industry-in-Its-Grip.html",
+      "source": "OilPrice",
+      "date": "Mon, 19 Oct 2026 19:41:00 -0500"
+    },
+    {
+      "title": "Westwin Elements, Traxys eye $3.9 billion, 22 year nickel offtake extension",
+      "link": "https://www.mining.com/westwin-elements-traxys-eye-3-9-billion-22-year-nickel-offtake-extension/",
+      "source": "mining.com",
+      "date": "Mon, 19 Oct 2026 23:38:46 +0000"
+    },
     {
       "title": "UK Pays Record Sums to Balance Grid as Transmission Falls Behind",
       "link": "https://oilprice.com/Energy/Energy-General/UK-Pays-Record-Sums-to-Balance-Grid-as-Transmission-Falls-Behind.html",
@@ -78,18 +90,6 @@
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistans-Growth-Slows-as-Hormuz-Crisis-Hits-Industry.html",
       "source": "OilPrice",
       "date": "Mon, 19 Oct 2026 12:30:00 -0500"
-    },
-    {
-      "title": "Volvo to launch mining division to meet global equipment demand",
-      "link": "https://www.mining.com/volvo-to-launch-a-mining-division-to-meet-global-equipment-demand/",
-      "source": "mining.com",
-      "date": "Mon, 19 Oct 2026 17:13:20 +0000"
-    },
-    {
-      "title": "Why Canadian Oil Is Lagging Even As Global Crude Soars",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Why-Canadian-Oil-Is-Lagging-Even-As-Global-Crude-Soars.html",
-      "source": "OilPrice",
-      "date": "Mon, 19 Oct 2026 12:00:00 -0500"
     }
   ]
 }
