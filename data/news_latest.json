@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-20T14:19:25+09:00",
+  "run_at_kst": "2026-10-20T20:11:26+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "China Moves to Rein In Its Booming Hydrogen Industry",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Moves-to-Rein-In-Its-Booming-Hydrogen-Industry.html",
+      "source": "OilPrice",
+      "date": "Tue, 20 Oct 2026 05:30:00 -0500"
+    },
+    {
+      "title": "Oil-Rich Alberta Votes to Stay in Canada in Historic Referendum",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Rich-Alberta-Votes-to-Stay-in-Canada-in-Historic-Referendum.html",
+      "source": "OilPrice",
+      "date": "Tue, 20 Oct 2026 04:30:00 -0500"
+    },
+    {
+      "title": "Trump Announces $8 Billion in Emergency Diesel Relief for U.S. Farmers",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Announces-8-Billion-in-Emergency-Diesel-Relief-for-US-Farmers.html",
+      "source": "OilPrice",
+      "date": "Tue, 20 Oct 2026 03:15:00 -0500"
+    },
+    {
+      "title": "Asian LNG Prices Surge Past $30 as Middle East Shipping Risks Escalate",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Asian-LNG-Prices-Surge-Past-30-as-Middle-East-Shipping-Risks-Escalate.html",
+      "source": "OilPrice",
+      "date": "Tue, 20 Oct 2026 02:00:00 -0500"
+    },
     {
       "title": "Brent Tops $110 as Tanker Attacks Threaten Persian Gulf Supply",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Tops-110-as-Tanker-Attacks-Threaten-Persian-Gulf-Supply.html",
@@ -54,30 +78,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/Why-Invading-Iran-Could-Become-Americas-Biggest-Military-Mistake.html",
       "source": "OilPrice",
       "date": "Mon, 19 Oct 2026 16:00:00 -0500"
-    },
-    {
-      "title": "New Oil Fields Should Have to Build the Carbon Storage Market",
-      "link": "https://oilprice.com/Energy/Energy-General/New-Oil-Fields-Should-Have-to-Build-the-Carbon-Storage-Market.html",
-      "source": "OilPrice",
-      "date": "Mon, 19 Oct 2026 15:00:00 -0500"
-    },
-    {
-      "title": "Colombia’s Critical Minerals Could Be a Game Changer for America",
-      "link": "https://oilprice.com/Energy/Energy-General/Colombias-Critical-Minerals-Could-Be-a-Game-Changer-for-America.html",
-      "source": "OilPrice",
-      "date": "Mon, 19 Oct 2026 14:00:00 -0500"
-    },
-    {
-      "title": "The Sulfur Crisis Threatening the World's Food Supply",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Sulfur-Crisis-Threatening-the-Worlds-Food-Supply.html",
-      "source": "OilPrice",
-      "date": "Mon, 19 Oct 2026 13:30:00 -0500"
-    },
-    {
-      "title": "Qatar Offers Lebanon 2 Gas Plants and 20 Years of LNG Piped Through Syria",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Qatar-Offers-Lebanon-2-Gas-Plants-and-20-Years-of-LNG-Piped-Through-Syria.html",
-      "source": "OilPrice",
-      "date": "Mon, 19 Oct 2026 13:30:00 -0500"
     },
     {
       "title": "Ground View Pakistan: Same hall, different world",

@@ -1,21 +1,27 @@
 {
-  "run_at_kst": "2026-10-20T14:19:25+09:00",
+  "run_at_kst": "2026-10-20T20:11:26+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "성장률 4.6%로 반등…中 발목잡는 '내수·통상 암초'",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BdDZ3WWJ1TUh1dWlsSXZraXVKSmFwTmFTeVZvZlZ1QkVVMnFYYi1FZWRaUWpiSWtCd1cxMl9VRGZjSks1RDk0ZTBDYVlYODQ1RXBZ?oc=5",
-      "source": "경제타임스",
-      "date": "Tue, 20 Oct 2026 05:07:37 GMT"
+      "title": "김해시여성기업인협의회 중국 장가계시와 경제 교류",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iczBhOWNkX1BRbEJyZU9GRVF5TXZxblV0cDlSV3czXzJCT0QzbnRkR0UzNnc0cWswamEzTlhINEVzaE5Uc3RuSDV3N0t6eDBldUF5dF9PWWlWZUFyT2w0Nm1ZRjY2b1E3Wm1Z?oc=5",
+      "source": "경남일보",
+      "date": "Tue, 20 Oct 2026 10:07:05 GMT"
     },
     {
-      "title": "중국 경제 성장했지만 회복 모멘텀 약해: 국가발전개혁위원회 관계자 - 뉴스 및 통계",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSG1wbnRIUnhLN3F1T08tRDhtYWc3cUpYVHJoX1UzVXp1SWlaQkdLdEdVUlE1NGJtWUkzTzdFZV9oc29iNE1nTFlzRGp2ZG5Ua1FISHg2UHcxZURyMDIxeUJyWlBwUjNoam1NMUwwQ2RHU0YwSk00bUVUTjUtTndzNDBUWXlPR2phM0pjTUVkUWxBZkwyZjJHcGlldV9QcXdXSWVycEpTWjU2N1hqVFEwQkFPbk9jMHdMaGRVNQ?oc=5",
-      "source": "IndexBox",
-      "date": "Tue, 20 Oct 2026 04:30:25 GMT"
+      "title": "외로움 달래려 돈 쓰는 중국...‘정서경제’ 시장, 올해 3조위안 돌파",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0YUFCZll0MmlweVdIRTN2c2dPb0ZtQ0JDZlo5UjZYaEpmRHFNblRkQjZPR1BhSWRVaDdMWG9RTmVvQlJkRDAyQk9OelIxQzMwcmdUWVNUWDdPa3huM1VhWnlvSG1vUE9sTlhr?oc=5",
+      "source": "재외동포신문",
+      "date": "Tue, 20 Oct 2026 08:57:06 GMT"
+    },
+    {
+      "title": "대구시, 중국 3개 도시 기업인 초청…경제협력 확대 나서",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jQ0pKWmN0WmIxaHRueDdqM3A1M2RyUzFiZkRMNk1aZURSclY3UHh3TENJR01HdzAyZDdqN1VJYmFjLVdNNk4zU0dhbXFUNFJ2Y2xiUE8zcDdIUQ?oc=5",
+      "source": "경북매일",
+      "date": "Tue, 20 Oct 2026 07:30:00 GMT"
     },
     {
       "title": "김해시여성기업인협의회, 중국 장가계시와 경제·산업 교류 넓혀",
@@ -24,16 +30,16 @@
       "date": "Tue, 20 Oct 2026 04:23:16 GMT"
     },
     {
-      "title": "홍콩 최상급 사무실 공실률 20년만 최고…임대료 30%↓",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtM3c2V21ZNFRRMU9WRTRfa0lMSlk5T2N6cG80ckxuM0pqVEJnYjEwRWFDVzVNMmNoWFM1WW1LLXlaemJFdXJ1RDNLSUlBRFll?oc=5",
-      "source": "매일경제 마켓",
-      "date": "Tue, 20 Oct 2026 01:55:50 GMT"
-    },
-    {
       "title": "극심한 내수 부진에도 중국 17개월째 금리 동결",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xeEtHaEt3OEhPN25sSXo3R2tUYThsSG5WUFlNMUFERmpIcDItWDNlREQzc2ZMaHdGazBfTm45aE1vOThVdUFDU1haYkpMN0FHSG1Lb2ctRVByZ9IBWEFVX3lxTE1vZjFENDZrbmo1bU9NcEJNMEsxbGJWakRZOV9ZZngzYmZmdVp0eElGR0JxejJmcHJZeGRzUzY4NTNWeHJ2djVWUVVhLVdjVzU2LUpTNVZnc28?oc=5",
       "source": "아주경제",
       "date": "Tue, 20 Oct 2026 01:44:51 GMT"
+    },
+    {
+      "title": "경제 성장세 자신? 중국 사실상 기준금리 17개월째 동결",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0OU9jT0hLaTdlZ3ozR1Z2R01kTS0yM0xBTlVUc3BMdG12Ul91cmxBajdzMVQxcGFSX3NKcHhFTEVzNzhRaUhGOUN1LUNTNGY3d0JtdnZxVXgtMFJwcjdyQjNTOWt4Nll0WURWb3RiQ0lqX00?oc=5",
+      "source": "마켓인",
+      "date": "Tue, 20 Oct 2026 01:42:30 GMT"
     },
     {
       "title": "中 경제성장률 4.5% 반등…수출이 끌고 내수가 발목 잡았다",
@@ -52,12 +58,6 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TZEkxa293Si03U3VBRXdFbTRWQldrZV9LR2RYeWw0SUZTMnRrU0FaU3k5MlpqRmtsc2ZkNXZyNWtUUFhSajhMNnFjTzEzMDZMc2xad3pWV0oxZUZkamY4eW1WOA?oc=5",
       "source": "CGTN",
       "date": "Mon, 19 Oct 2026 12:06:23 GMT"
-    },
-    {
-      "title": "중국 경제 예상 밖 선전…3분기 4.5% 성장에 목표 달성 청신호",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pYTVYakJhNnJmME5kS1dXSjFScTA0WXVjb2lITXBKbVI2WDZVZkNsMlVZcTBGdWZUT2lwYmREbVAwY2twb1ZiN0hqa0VfYkJQSldFM0cwcmszZHJZOEdwdWwxRFpOenYzQW1NQjhnZw?oc=5",
-      "source": "진일보 | 전남일보",
-      "date": "Mon, 19 Oct 2026 07:58:30 GMT"
     },
     {
       "title": "중국 경제 3분기 4.5% 성장, 예상치 웃돌아",
