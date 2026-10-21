@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-21T10:10:23+09:00",
+  "run_at_kst": "2026-10-21T20:10:09+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "UK Approves Jackdaw Gas Field as Energy Crisis Deepens",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/UK-Approves-Jackdaw-Gas-Field-as-Energy-Crisis-Deepens.html",
+      "source": "OilPrice",
+      "date": "Wed, 21 Oct 2026 05:30:00 -0500"
+    },
+    {
+      "title": "Goldman Sachs Warns of New Oil Price Shock as Tanker Rates Soar",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Warns-of-New-Oil-Price-Shock-as-Tanker-Rates-Soar.html",
+      "source": "OilPrice",
+      "date": "Wed, 21 Oct 2026 04:30:00 -0500"
+    },
+    {
+      "title": "India’s Coal Crisis Deepens as Power Demand Surges",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Coal-Crisis-Deepens-as-Power-Demand-Surges.html",
+      "source": "OilPrice",
+      "date": "Wed, 21 Oct 2026 03:30:00 -0500"
+    },
+    {
+      "title": "Trump Administration Pushes Refiners to Boost Diesel Output as Prices Soar",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Administration-Pushes-Refiners-to-Boost-Diesel-Output-as-Prices-Soar.html",
+      "source": "OilPrice",
+      "date": "Wed, 21 Oct 2026 02:00:00 -0500"
+    },
+    {
+      "title": "Oil Prices Climb Above $110 as Middle East Supply Fears Persist",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-Above-110-as-Middle-East-Supply-Fears-Persist.html",
+      "source": "OilPrice",
+      "date": "Wed, 21 Oct 2026 00:11:27 -0500"
+    },
     {
       "title": "How Bad Would It Get If China Blocks Rare Earths to America?",
       "link": "https://oilprice.com/Energy/Energy-General/How-Bad-Would-It-Get-If-China-Blocks-Rare-Earths-to-America.html",
@@ -38,40 +68,10 @@
       "date": "Tue, 20 Oct 2026 22:20:00 +0000"
     },
     {
-      "title": "Europe’s Power Demand Returns to Growth",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Europes-Power-Demand-Returns-to-Growth.html",
-      "source": "OilPrice",
-      "date": "Tue, 20 Oct 2026 17:00:00 -0500"
-    },
-    {
-      "title": "Energy Costs Are Driving U.S. Inflation, and Wages Aren't Keeping Up",
-      "link": "https://oilprice.com/Energy/Energy-General/Energy-Costs-Are-Driving-US-Inflation-and-Wages-Arent-Keeping-Up.html",
-      "source": "OilPrice",
-      "date": "Tue, 20 Oct 2026 16:00:00 -0500"
-    },
-    {
       "title": "Mining industry entering largest investment supercycle in history, Canada’s energy minister says",
       "link": "https://www.mining.com/mining-industry-entering-largest-investment-supercycle-in-history-canadas-energy-minister-says/",
       "source": "mining.com",
       "date": "Tue, 20 Oct 2026 20:58:56 +0000"
-    },
-    {
-      "title": "API: Crude, Product Inventories Continue to Draw",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/API-Crude-Products-Continu-eto-Draw.html",
-      "source": "OilPrice",
-      "date": "Tue, 20 Oct 2026 15:56:00 -0500"
-    },
-    {
-      "title": "The Middle East's Next Energy Boom Has Nothing to Do With Oil",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Middle-Easts-Next-Energy-Boom-Has-Nothing-to-Do-With-Oil.html",
-      "source": "OilPrice",
-      "date": "Tue, 20 Oct 2026 15:00:00 -0500"
-    },
-    {
-      "title": "One Kurdish Peace Deal Could Ignite Another Middle Eastern Conflict",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/One-Kurdish-Peace-Deal-Could-Ignite-Another-Middle-Eastern-Conflict.html",
-      "source": "OilPrice",
-      "date": "Tue, 20 Oct 2026 14:00:00 -0500"
     },
     {
       "title": "Cornish Metals faces costly financing hurdle",
