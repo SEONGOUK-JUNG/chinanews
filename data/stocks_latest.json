@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-21T07:00:15.742805+09:00",
+  "run_at_kst": "2026-10-21T09:30:10.409006+09:00",
   "sources": {
     "a_stocks": "AkShare (Eastmoney via 中国证监会)",
     "hk_us_kr": "Yahoo Finance (yfinance)"
@@ -702,18 +702,18 @@
       "id": "kospi",
       "name": "KOSPI",
       "type": "index",
-      "price": 5552.74,
-      "prev_close": 5768.01,
-      "change_pct": -3.73,
+      "price": 5679.86,
+      "prev_close": 5529.17,
+      "change_pct": 2.73,
       "found": true
     },
     {
       "id": "kosdaq",
       "name": "KOSDAQ",
       "type": "index",
-      "price": 781.97,
-      "prev_close": 808.89,
-      "change_pct": -3.33,
+      "price": 798.07,
+      "prev_close": 783.02,
+      "change_pct": 1.92,
       "found": true
     },
     {

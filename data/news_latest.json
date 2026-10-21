@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-21T07:07:57+09:00",
+  "run_at_kst": "2026-10-21T10:10:23+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "How Bad Would It Get If China Blocks Rare Earths to America?",
+      "link": "https://oilprice.com/Energy/Energy-General/How-Bad-Would-It-Get-If-China-Blocks-Rare-Earths-to-America.html",
+      "source": "OilPrice",
+      "date": "Tue, 20 Oct 2026 19:00:00 -0500"
+    },
+    {
+      "title": "Vulcan Elements teams up with North Carolina researchers to advance rare earth magnets tech",
+      "link": "https://www.mining.com/vulcan-elements-teams-up-with-north-carolina-researchers-to-advance-rare-earth-magnets-tech/",
+      "source": "mining.com",
+      "date": "Tue, 20 Oct 2026 23:45:22 +0000"
+    },
+    {
+      "title": "Petrobras' Deepwater Push Sets Off a Race for Offshore Vessels",
+      "link": "https://oilprice.com/Energy/Energy-General/Petrobras-Deepwater-Push-Sets-Off-a-Race-for-Offshore-Vessels.html",
+      "source": "OilPrice",
+      "date": "Tue, 20 Oct 2026 18:30:00 -0500"
+    },
+    {
+      "title": "Mexico Poised to Approve $12.5 Billion in Renewable Energy Projects",
+      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Mexico-Poised-to-Approve-125-Billion-in-Renewable-Energy-Projects.html",
+      "source": "OilPrice",
+      "date": "Tue, 20 Oct 2026 18:00:00 -0500"
+    },
+    {
+      "title": "Mauritania’s first uranium mine comes into view despite funding, security issues",
+      "link": "https://www.mining.com/mauritanias-first-uranium-mine-comes-into-view-despite-funding-security-issues/",
+      "source": "mining.com",
+      "date": "Tue, 20 Oct 2026 22:20:00 +0000"
+    },
     {
       "title": "Europe’s Power Demand Returns to Growth",
       "link": "https://oilprice.com/Energy/Natural-Gas/Europes-Power-Demand-Returns-to-Growth.html",
@@ -50,24 +80,6 @@
       "date": "Tue, 20 Oct 2026 18:51:13 +0000"
     },
     {
-      "title": "Norway's Gas Production Plunges 12.6% as Europe Heads into Winter",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Gas-Production-Plunges-126-as-Europe-Heads-into-Winter.html",
-      "source": "OilPrice",
-      "date": "Tue, 20 Oct 2026 13:31:00 -0500"
-    },
-    {
-      "title": "Geothermal Just Proved It Can Compete With Solar-Plus-Storage on Price",
-      "link": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Geothermal-Just-Proved-It-Can-Compete-With-Solar-Plus-Storage-on-Price.html",
-      "source": "OilPrice",
-      "date": "Tue, 20 Oct 2026 13:00:00 -0500"
-    },
-    {
-      "title": "EU Stands Firm Against Arctic Oil and Gas Drilling Despite Energy Crisis",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Stands-Firm-Against-Arctic-Oil-and-Gas-Drilling-Despite-Energy-Crisis.html",
-      "source": "OilPrice",
-      "date": "Tue, 20 Oct 2026 12:45:00 -0500"
-    },
-    {
       "title": "Phoenix Tailings to build $375M rare earth plant in New York",
       "link": "https://www.mining.com/phoenix-tailings-to-build-375m-rare-earth-plant-in-new-york/",
       "source": "mining.com",
@@ -78,18 +90,6 @@
       "link": "https://www.mining.com/lithium-africa-weighs-60m-offer-for-springbok-lithium-project/",
       "source": "mining.com",
       "date": "Tue, 20 Oct 2026 16:37:18 +0000"
-    },
-    {
-      "title": "Glencore clears key hurdle for Peru copper expansion",
-      "link": "https://www.mining.com/glencore-clears-key-hurdle-for-peru-copper-expansion/",
-      "source": "mining.com",
-      "date": "Tue, 20 Oct 2026 16:18:00 +0000"
-    },
-    {
-      "title": "Copper surplus masks looming $332B mine shortfall",
-      "link": "https://www.mining.com/copper-surplus-masks-looming-332b-mine-shortfall/",
-      "source": "mining.com",
-      "date": "Tue, 20 Oct 2026 13:09:00 +0000"
     }
   ]
 }
