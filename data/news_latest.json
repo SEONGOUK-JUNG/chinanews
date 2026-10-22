@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-22T07:08:46+09:00",
+  "run_at_kst": "2026-10-22T14:10:06+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Aluminium Gives Up Its War Premium, Copper Stays Elevated",
+      "link": "https://oilprice.com/Metals/Commodities/Aluminium-Gives-Up-Its-War-Premium-Copper-Stays-Elevated.html",
+      "source": "OilPrice",
+      "date": "Wed, 21 Oct 2026 19:00:00 -0500"
+    },
+    {
+      "title": "Fortuna targets deeper Lindero pit after gold hits",
+      "link": "https://www.mining.com/fortuna-targets-deeper-lindero-pit-after-gold-hits/",
+      "source": "mining.com",
+      "date": "Wed, 21 Oct 2026 23:22:00 +0000"
+    },
+    {
+      "title": "Lithium’s $100B question: Who will build 134 new mines?",
+      "link": "https://www.mining.com/lithiums-100b-question-who-will-build-134-new-mines/",
+      "source": "mining.com",
+      "date": "Wed, 21 Oct 2026 23:01:00 +0000"
+    },
+    {
+      "title": "Big Oil Eyes Record Profits but Keeps Spending in Check",
+      "link": "https://oilprice.com/Energy/Energy-General/Big-Oil-Eyes-Record-Profits-but-Keeps-Spending-in-Check.html",
+      "source": "OilPrice",
+      "date": "Wed, 21 Oct 2026 18:00:00 -0500"
+    },
     {
       "title": "U.S. Energy Red Tape Gives China an Edge",
       "link": "https://oilprice.com/Energy/Energy-General/US-Energy-Red-Tape-Gives-China-an-Edge.html",
@@ -62,34 +86,10 @@
       "date": "Wed, 21 Oct 2026 12:30:00 -0500"
     },
     {
-      "title": "Why Are Rare Earth Stocks Falling When Prices Keep Rising?",
-      "link": "https://oilprice.com/Metals/Commodities/Why-Are-Rare-Earth-Stocks-Falling-When-Prices-Keep-Rising.html",
-      "source": "OilPrice",
-      "date": "Wed, 21 Oct 2026 12:00:00 -0500"
-    },
-    {
       "title": "US moves to unlock deep-sea minerals near American Samoa with massive auction",
       "link": "https://www.mining.com/us-moves-to-unlock-deep-sea-minerals-near-american-samoa-with-massive-auction/",
       "source": "mining.com",
       "date": "Wed, 21 Oct 2026 16:39:23 +0000"
-    },
-    {
-      "title": "Spain hunts hidden metals with $223M plan",
-      "link": "https://www.mining.com/spain-hunts-hidden-metals-with-223m-plan/",
-      "source": "mining.com",
-      "date": "Wed, 21 Oct 2026 16:33:15 +0000"
-    },
-    {
-      "title": "GM to Add Hybrids as U.S. Gasoline Holds Above $4",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/GM-to-Add-Hybrids-as-US-Gasoline-Holds-Above-4.html",
-      "source": "OilPrice",
-      "date": "Wed, 21 Oct 2026 11:30:00 -0500"
-    },
-    {
-      "title": "Endurance Gold expands zones at Reliance as PEA work ongoing",
-      "link": "https://www.mining.com/endurance-gold-expands-zones-at-reliance-as-pea-work-ongoing/",
-      "source": "mining.com",
-      "date": "Wed, 21 Oct 2026 15:24:29 +0000"
     }
   ]
 }
