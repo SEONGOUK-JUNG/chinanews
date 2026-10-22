@@ -1,10 +1,22 @@
 {
-  "run_at_kst": "2026-10-22T20:10:06+09:00",
+  "run_at_kst": "2026-10-23T07:20:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "[속보] \"중국 티베트에서 규모 6.7 지진\" [신화]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtZXpJTWFQOGpqWk9zcTY1eG1qUVBmZG1nZjRQbW5ERXI3UUFmWVEtXzUzalZkRzdwTFhUMlZaT0hGemEwVDJ6bzdScUFQeV9ELWJ3TEdOT0ExZw?oc=5",
+      "source": "한국경제",
+      "date": "Thu, 22 Oct 2026 15:01:15 GMT"
+    },
+    {
+      "title": "대구·중국 청두, 미래산업 경제협력 확대 나선다",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tZ0t3OGtrak5nbXBiZGE1MHgxMXJDVjVRa2RxeTJzNkwxQ3lXUGxRQTJrMjVTZWRQRFJydC01SzVVeEFsbDVoNTNQVHNEV3ZUeHZOUGlhdTJyQQ?oc=5",
+      "source": "경북매일",
+      "date": "Thu, 22 Oct 2026 11:29:00 GMT"
+    },
     {
       "title": "미 국방부, 중국과 ‘경제전쟁’ 대비 사업가 위장 첩보망 구축 추진",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HbE5rOHh1eS0wX3F1d2RlZHdfTFNuOF9ybW1yRFY4R3BlWFV2NzlWaWtPem5HN0l4S2FxQjhyRWxWaWdobmgybVlZVVdVOERfbXFiR3pNZTFsbTlBWUVud0ZhYTFpclZibGRxaGxfdw?oc=5",
@@ -12,22 +24,10 @@
       "date": "Thu, 22 Oct 2026 09:36:00 GMT"
     },
     {
-      "title": "중국서 올해 자연재해로만 1,162명 사망·실종…경제 손실 39.5조 원",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tUDNTN3BvVklyY21wVzVsVGtmZnVNSUF6S2U5cF8tUE4zSnV4Q2lnSFhJZ2pEcVJRNks5akljdFFKbVFFM052ZnhEOWVJZ1F2STYydkY5Ujc0NlU?oc=5",
-      "source": "KBS 뉴스",
-      "date": "Thu, 22 Oct 2026 07:33:00 GMT"
-    },
-    {
       "title": "“화려한 야경에 속았다”…중국 금융경제 중심지 ‘상하이’의 충격적 속사정",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVQlhMUU1jVEpNbHFiMEd4eHA1TzdZbk53LVlJU0xMQ0FxZzc4SDREd3BTQkYtMXE4TUUzZkcyZktWc1ZONmpsaVBxaDZ3a0NkMDlBazFMV3pMZw?oc=5",
       "source": "농민신문",
       "date": "Thu, 22 Oct 2026 05:56:00 GMT"
-    },
-    {
-      "title": "'APEC 재무장관회의' 폐막...공동성명으로 금융 협력 가이드라인 마련-Xinhua",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfVE5ZdG5mcVZZT2M5U0J6MzZFVEFyZ3UtN20wckJZNkV3RUpFdUtiTnZJMFFUNndIeDNsS3ZYRXVJZ1FyazZ1WlBCdWZEZzl5SnRnTi15VG42dDBsNXVQSVpGX0FSN2dTaGs0UnQ2RHUzanFI?oc=5",
-      "source": "신화망",
-      "date": "Thu, 22 Oct 2026 05:27:31 GMT"
     },
     {
       "title": "美, 대중국 경제전 위한 비밀 첩보 조직 추진…펜타곤은 사실무근",
@@ -42,16 +42,10 @@
       "date": "Wed, 21 Oct 2026 22:48:42 GMT"
     },
     {
-      "title": "\"이러다 일본처럼 무너지면 어쩌나\"…30년 전 악몽 소환한 中",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Jd2ZvaERNaWVzYXFoQlYxMzNmWVhYWEFjRFJwSUg0ZEJBME45YjRCVzZJcmNLVjZOcERXTG1ocjlOU0w2ekNSOVBFbEFMMFV3ckZZQ1ZOSzJXZw?oc=5",
-      "source": "한국경제",
-      "date": "Wed, 21 Oct 2026 08:59:24 GMT"
-    },
-    {
-      "title": "중국 상하이시 홍구구 대표단, 부산 동래구 방문… 문화·경제 교류 확대",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOXBKZFI2dV82dVlLN3hBakoyQlV0MWVSTkw3WGhVeHViSHFmZTZqSzgxZXR5V3lUZlNPV1dqMWItcmg2NE5TdkpBV08xYkhUTWV3TTVZTEFGcEcwMHNaT3h0SUpSZmxSUDk2bnVvc2xPSDZYNVc3UnZqUjNaWUFMVll3Tm5JdExfbnVR?oc=5",
-      "source": "국제신문",
-      "date": "Wed, 21 Oct 2026 07:07:00 GMT"
+      "title": "[곽재원 칼럼] 중국경제는 지금:첨단산업은 질주, 내수는 침체?",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MNHI1Sk02OWJ1RlZfZGx3elhiaFBTVVNFc202Nm9sMWdKRVdiWVExTXU4cEkxUFhiMGt3aVlud2V2amczRE1Za3pXR0Z3dXFqT1ZaUGZBWTBCQkU2enZqamZ0dTc0eWhuUXQxcg?oc=5",
+      "source": "https://www.climatepol.com/",
+      "date": "Wed, 21 Oct 2026 11:23:37 GMT"
     },
     {
       "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
@@ -66,16 +60,22 @@
       "date": "Mon, 19 Oct 2026 09:10:31 GMT"
     },
     {
-      "title": "수출 대박나면 뭐하나…중국 경제에 나타난 '이상 신호' [차이나 워치]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WWW1FNGVVTEp1eXFBN1hCQzIxM2U5OVRiTDk5VUZYd28zbU0zQ2Nid1ZxZDFZZi13a1dzUV8xdlZITjUwN29IeXgyY1R0emEtMllzM2hnR3NuUQ?oc=5",
-      "source": "한국경제",
-      "date": "Mon, 19 Oct 2026 05:50:55 GMT"
+      "title": "중국 경제 예상 밖 선전…3분기 4.5% 성장에 목표 달성 청신호",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pYTVYakJhNnJmME5kS1dXSjFScTA0WXVjb2lITXBKbVI2WDZVZkNsMlVZcTBGdWZUT2lwYmREbVAwY2twb1ZiN0hqa0VfYkJQSldFM0cwcmszZHJZOEdwdWwxRFpOenYzQW1NQjhnZw?oc=5",
+      "source": "전남일보",
+      "date": "Mon, 19 Oct 2026 07:58:30 GMT"
     },
     {
-      "title": "올해 1~3분기 중국 GDP, 전년 동기 대비 4.6% 성장",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uaUdIMndlcnFDMGdSclpEZWJma20tM29TU3FaVDhyVjB5QVFQeXE0OEd0U2JhT1R4MlNfWFFDc3pyWDF0N0l4eUZURUVVaFpTWC1SN0xOamR4cXM?oc=5",
-      "source": "KBS 뉴스",
-      "date": "Mon, 19 Oct 2026 02:34:00 GMT"
+      "title": "중국 경제 올 3분기 4.5% 성장 기록... 내수 부동산은 여전히 침체",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNVS1ub1A0OGtkRGFLcUJvWUd2YlZxdHc2bXNIR1RTd05zZ3dudVRhdS1iS2pKQ2FISWtuelRzczFjaGRyVExIMkJhRkVYYXA2LUlVQTJSdS1Mdw?oc=5",
+      "source": "파이낸셜뉴스",
+      "date": "Mon, 19 Oct 2026 05:19:41 GMT"
+    },
+    {
+      "title": "[그래픽] 중국 경제성장률 추이",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55Wk9rY1FZX2ZwcXMzSTV3T2l2Yk5zUy0zSjlYMnhaRnVwQXN2WFRpeEZ6WUF0VEVyeVY1SUxRbW93UjR1RXRfbmRaTXctaWZaZXVoTEtZLWZpdDTSAWBBVV95cUxPT1BJV3ZBQ0ZzLXdaVy1pT1JISEVTMDVMcjNMUDhKb3BCdklIUG1yWFVnSE9GSTBWa3VZZzY3ejZLc2h6dDU5eldadXd2a0N2endiX05yTmNOQ1pjZ19GWDM?oc=5",
+      "source": "연합뉴스",
+      "date": "Mon, 19 Oct 2026 02:25:37 GMT"
     }
   ]
 }
