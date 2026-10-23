@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-10-23T07:20:05+09:00",
+  "run_at_kst": "2026-10-23T10:10:27+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "박정주 홍성군수, 중국 전장시와 자매결연…글로벌 교류 확대",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCSjZfTS1ueVlOUjNfZEdkb0djR0dZSWprbDA0NktHUXRMeFcwcVJ6Z19KQ2FRakVGMDdxUGk0SjBXNzJIMlVqOHFlUlRScy1rOGtaekVQVFNGOTdDdFljMy1NYnFUdXZ0LS1kX2RlbFMtUEk1WXdaR3ln0gF_QVVfeXFMTkxZNmtQSVI4UXNQX1l0NGVUb0RDYW9KSmhHVm5JTTBDdUphdXAxcFJDR3prUTNhcXFWVnJxMUtBTXlEa1NhY1NxY19nYkhhWEhBbHlLQjJFclBHLWhlWkxDcWRGYnZqU3lZLWhvbDB3TXc4VGFYbnFHSzhOZlRTSQ?oc=5",
+      "source": "뉴데일리 충청세종",
+      "date": "Thu, 22 Oct 2026 22:01:00 GMT"
+    },
     {
       "title": "[속보] \"중국 티베트에서 규모 6.7 지진\" [신화]",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtZXpJTWFQOGpqWk9zcTY1eG1qUVBmZG1nZjRQbW5ERXI3UUFmWVEtXzUzalZkRzdwTFhUMlZaT0hGemEwVDJ6bzdScUFQeV9ELWJ3TEdOT0ExZw?oc=5",
@@ -30,14 +36,8 @@
       "date": "Thu, 22 Oct 2026 05:56:00 GMT"
     },
     {
-      "title": "美, 대중국 경제전 위한 비밀 첩보 조직 추진…펜타곤은 사실무근",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nUDlPOXlybEJxRkJkeENtMk9YcjhJMVNvX0xMaW9kVE10VTJZRzNoZU1MWTFIdURSdWNONGNFamluVjFTTE0wM2ZzSkYwam9rdVE5c1VtMWzSAVhBVV95cUxOZ1A5Tzl5cmxCcUZCZHhDbTJPWHI4STFTb19MTGlvZFRNdFUyWUczaGVNTFkxSHVEUnVjTjRjRWppblYxU0xNMDNmc0pGMGpva3VROXNVbTFs?oc=5",
-      "source": "아주경제",
-      "date": "Thu, 22 Oct 2026 02:15:01 GMT"
-    },
-    {
       "title": "﻿중국 경제 1∼9월 4.6% 성장…한국 수출시장에 어떤 신호인가",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSVmNWTkhQOHdFeDM5ZjRsU3hUNWFSMExqakVScHUwZldlUnlDUEVXQjYtbWNpbFdIcV85QmRvOVNVTVZDc3dZZkUwMmRLa2NrekV1aGkxNWZhc21RLWFqaG93WTNyajlkTHlkStIBb0FVX3lxTFBoekhpUzhDS19RMWpNejRrOURFT1hsd0FLQy1SRm5xZVFyVVVSNkVQNmxrajdrcWRYeFZMUm5aQ0JsZ25uVFpXdTBjT1MtOUZfMVpmV1dXaTVrNmoySmhuOV9qSHVaU3cwMERTdTF1SQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qMmhPc1dGc1hKeDhaallLQThkMTlfU1UzRm4tT1ZwSzBYdlh5cm82bk9hQ1RMeks3bUZmdElzOUhYYzRIZThyT2FTdWM5ZVFpZU5VNjYycGJIUERDXzVLYjZLNXJqemRUZm9N0gFvQVVfeXFMUGh6SGlTOENLX1Exak16NGs5REVPWGx3QUtDLVJGbnFlUXJVVVI2RVA2bGtqN2txZFh4VkxSblpDQmxnbm5UWld1MGNPUy05Rl8xWmZXV1dpNWs2ajJKaG45X2pIdVpTdzAwRFN1MXVJ?oc=5",
       "source": "서울일보",
       "date": "Wed, 21 Oct 2026 22:48:42 GMT"
     },

@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-23T07:20:05+09:00",
+  "run_at_kst": "2026-10-23T10:10:27+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "LNG Canada Doubles Capacity as Asia Looks Beyond the Gulf",
+      "link": "https://oilprice.com/Energy/Natural-Gas/LNG-Canada-Doubles-Capacity-as-Asia-Looks-Beyond-the-Gulf.html",
+      "source": "OilPrice",
+      "date": "Thu, 22 Oct 2026 19:00:00 -0500"
+    },
+    {
+      "title": "Mining Forum video: Majors are waking up to discoveries, fund manager says",
+      "link": "https://www.mining.com/mining-forum-video-majors-are-waking-up-to-discoveries-fund-manager-says/",
+      "source": "mining.com",
+      "date": "Thu, 22 Oct 2026 23:28:54 +0000"
+    },
+    {
+      "title": "Rising Crude Oil Imports Reduce China’s Need to Draw from Stocks",
+      "link": "https://oilprice.com/Energy/Energy-General/Rising-Crude-Oil-Imports-Reduce-Chinas-Need-to-Draw-from-Stocks.html",
+      "source": "OilPrice",
+      "date": "Thu, 22 Oct 2026 18:00:00 -0500"
+    },
+    {
+      "title": "Boroo signs $100M deal for Yukon Eagle gold mine",
+      "link": "https://www.mining.com/boroo-signs-100m-deal-for-yukon-eagle-gold-mine/",
+      "source": "mining.com",
+      "date": "Thu, 22 Oct 2026 22:06:00 +0000"
+    },
     {
       "title": "EU’s Arctic Strategy Excludes Oil and Gas",
       "link": "https://oilprice.com/Energy/Natural-Gas/EUs-Arctic-Strategy-Excludes-Oil-and-Gas.html",
@@ -50,12 +74,6 @@
       "date": "Thu, 22 Oct 2026 13:00:00 -0500"
     },
     {
-      "title": "Citi’s $60 Oil Call Meets $112 Brent",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Citis-60-Oil-Call-Meets-112-Brent.html",
-      "source": "OilPrice",
-      "date": "Thu, 22 Oct 2026 12:30:00 -0500"
-    },
-    {
       "title": "US permitting: Environmental review overhaul could speed mine approvals, but hurdles remain",
       "link": "https://www.mining.com/us-permitting-environmental-review-overhaul-could-speed-mine-approvals-but-hurdles-remain/",
       "source": "mining.com",
@@ -68,28 +86,10 @@
       "date": "Thu, 22 Oct 2026 17:11:57 +0000"
     },
     {
-      "title": "Tehran Turns to Central Asia for Trade as Conflict With U.S. Simmers",
-      "link": "https://oilprice.com/Geopolitics/International/Tehran-Turns-to-Central-Asia-for-Trade-as-Conflict-With-US-Simmers.html",
-      "source": "OilPrice",
-      "date": "Thu, 22 Oct 2026 12:00:00 -0500"
-    },
-    {
       "title": "Mining M&A wave set to lift juniors, investor predicts",
       "link": "https://www.mining.com/mining-ma-wave-set-to-lift-juniors-investor-predicts/",
       "source": "mining.com",
       "date": "Thu, 22 Oct 2026 16:30:33 +0000"
-    },
-    {
-      "title": "Southern Copper weighs $680M Cuajone mine expansion",
-      "link": "https://www.mining.com/southern-copper-weighs-680m-cuajone-mine-expansion/",
-      "source": "mining.com",
-      "date": "Thu, 22 Oct 2026 15:49:00 +0000"
-    },
-    {
-      "title": "Liberty Gold stretches Black Pine’s reach in Idaho",
-      "link": "https://www.mining.com/liberty-gold-stretches-black-pines-reach-in-idaho/",
-      "source": "mining.com",
-      "date": "Thu, 22 Oct 2026 14:54:51 +0000"
     }
   ]
 }
