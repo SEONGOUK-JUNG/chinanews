@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-23T14:10:06+09:00",
+  "run_at_kst": "2026-10-23T20:10:06+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,42 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "How Elon Musk’s SpaceX Became a Gatekeeper of Modern Warfare",
+      "link": "https://oilprice.com/Energy/Energy-General/How-Elon-Musks-SpaceX-Became-a-Gatekeeper-of-Modern-Warfare.html",
+      "source": "OilPrice",
+      "date": "Fri, 23 Oct 2026 06:00:00 -0500"
+    },
+    {
+      "title": "European Natural Gas Prices Surge to Highest Level Since 2022",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/European-Natural-Gas-Prices-Surge-to-Highest-Level-Since-2022.html",
+      "source": "OilPrice",
+      "date": "Fri, 23 Oct 2026 05:30:00 -0500"
+    },
+    {
+      "title": "Eni's Profits Soar 125% as Refining Boom Fuels Massive Investor Payouts",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Enis-Profits-Soar-125-as-Refining-Boom-Fuels-Massive-Investor-Payouts.html",
+      "source": "OilPrice",
+      "date": "Fri, 23 Oct 2026 04:29:00 -0500"
+    },
+    {
+      "title": "UK Rules Out Winter Energy Shortages as Gas Prices Soar",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/UK-Rules-Out-Winter-Energy-Shortages-as-Gas-Prices-Soar.html",
+      "source": "OilPrice",
+      "date": "Fri, 23 Oct 2026 03:30:00 -0500"
+    },
+    {
+      "title": "Japan Weighs Gasoline Subsidy Cuts as Energy Costs Soar",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Weighs-Gasoline-Subsidy-Cuts-as-Energy-Costs-Soar.html",
+      "source": "OilPrice",
+      "date": "Fri, 23 Oct 2026 02:00:00 -0500"
+    },
+    {
+      "title": "Brent Hits $114 as Houthi Attacks Threaten Saudi Energy Infrastructure",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Hits-114-as-Houthi-Attacks-Threaten-Saudi-Energy-Infrastructure.html",
+      "source": "OilPrice",
+      "date": "Fri, 23 Oct 2026 00:33:50 -0500"
+    },
     {
       "title": "Why Trump Can't Afford to Lose The Rare Earth Race",
       "link": "https://oilprice.com/Energy/Energy-General/Why-Trump-Cant-Afford-to-Lose-The-Rare-Earth-Race.html",
@@ -26,52 +62,16 @@
       "date": "Thu, 22 Oct 2026 23:28:54 +0000"
     },
     {
-      "title": "Rising Crude Oil Imports Reduce China’s Need to Draw from Stocks",
-      "link": "https://oilprice.com/Energy/Energy-General/Rising-Crude-Oil-Imports-Reduce-Chinas-Need-to-Draw-from-Stocks.html",
-      "source": "OilPrice",
-      "date": "Thu, 22 Oct 2026 18:00:00 -0500"
-    },
-    {
       "title": "Boroo signs $100M deal for Yukon Eagle gold mine",
       "link": "https://www.mining.com/boroo-signs-100m-deal-for-yukon-eagle-gold-mine/",
       "source": "mining.com",
       "date": "Thu, 22 Oct 2026 22:06:00 +0000"
     },
     {
-      "title": "EU’s Arctic Strategy Excludes Oil and Gas",
-      "link": "https://oilprice.com/Energy/Natural-Gas/EUs-Arctic-Strategy-Excludes-Oil-and-Gas.html",
-      "source": "OilPrice",
-      "date": "Thu, 22 Oct 2026 17:00:00 -0500"
-    },
-    {
       "title": "Vivox AI, beSirius partner on mining supply chain compliance",
       "link": "https://www.mining.com/vivox-ai-besirius-partner-on-mining-supply-chain-compliance/",
       "source": "mining.com",
       "date": "Thu, 22 Oct 2026 21:49:19 +0000"
-    },
-    {
-      "title": "Electric Giants Say They Already Have the Tools to Fix the AI Power Crunch",
-      "link": "https://oilprice.com/Energy/Energy-General/Electric-Giants-Say-They-Already-Have-the-Tools-to-Fix-the-AI-Power-Crunch.html",
-      "source": "OilPrice",
-      "date": "Thu, 22 Oct 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Why Fossil Fuel Demand Can Rise Even as Clean Energy Wins Terrain",
-      "link": "https://oilprice.com/Energy/Energy-General/Why-Fossil-Fuel-Demand-Can-Rise-Even-as-Clean-Energy-Wins-Terrain.html",
-      "source": "OilPrice",
-      "date": "Thu, 22 Oct 2026 15:00:00 -0500"
-    },
-    {
-      "title": "Asia Needs $1 Trillion a Year to Secure Energy Supplies",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Asia-Needs-1-Trillion-a-Year-to-Secure-Energy-Supplies.html",
-      "source": "OilPrice",
-      "date": "Thu, 22 Oct 2026 15:00:00 -0500"
-    },
-    {
-      "title": "Strathcona Pitches 250,000-Bpd Oil Export Route to Asia",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Strathcona-Pitches-250000-Bpd-Oil-Export-Route-to-Asia.html",
-      "source": "OilPrice",
-      "date": "Thu, 22 Oct 2026 14:00:00 -0500"
     },
     {
       "title": "US permitting: Environmental review overhaul could speed mine approvals, but hurdles remain",

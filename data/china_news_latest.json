@@ -1,21 +1,39 @@
 {
-  "run_at_kst": "2026-10-23T14:10:06+09:00",
+  "run_at_kst": "2026-10-23T20:10:06+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "양평군, 중국 조장시와 다분야 협력 협정 체결…경제·산업 교류 확대",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hNHJGcEktQzVnT0YzdXdENnE1LU1RT1pveTBxYkx3Uy1OYXY3Z1dpWmZoc3FoeUpLMGwyakEzZjRDMDJTZFZjd3VMRlp3QlYzTkJBRUh2NFhUdGNxOE1IZDc1Q1E?oc=5",
+      "source": "매일일보",
+      "date": "Fri, 23 Oct 2026 08:33:42 GMT"
+    },
+    {
+      "title": "양평군, 중국 조장시와 경제협력 확대…지역 기업 판로 개척",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hQ01nSkxnbFNyT0QtWERBT0RvVEpmLXFscHdRMjVwQ21WSzg0QVA0SFdjaUM2SGlvazNVYzYxY2dRd0ltTi1LTzBlODRpbkIyRFRwYi10NUE5UVVCS2xXVQ?oc=5",
+      "source": "아시아경제",
+      "date": "Fri, 23 Oct 2026 06:37:39 GMT"
+    },
+    {
       "title": "韓·中 경제학계, 서울대서 머리 맞대고 ‘경쟁적 협력’ 모색",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc2ZDdGJ5aEtGTnRNR3ZhUXNnX1dqeHZhN1RUTDlKazYtcUpqeHFsNncyYUF0enh3b1FyQ3hzZWxUOFRoVlFuMHRQS0VVWG9mWGstZ2tBUmw5OG80OUp3SzBadUlWNnlBc0NsNEppQVJldnRDNmRrMjF4MnNiVTRVNm5Vc1FJcW4zd3ZCcnQ3UFM?oc=5",
       "source": "조선일보",
-      "date": "Fri, 23 Oct 2026 04:40:00 GMT"
+      "date": "Fri, 23 Oct 2026 04:45:39 GMT"
     },
     {
-      "title": "중국, 1억달러 이상 해외투자 사전 보고 의무화⋯12월 1일 시행",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JMUxKQ19lUHZpaHc4cU5JWTNTZlpleXd1eDBZaW5EaUhPVFJ0WVYwczdlcFRnVmxMNEJsekZmMWhIaUU3N3pYcUdBNVhCZGxIRzJQWEFabmU5Z2tMcEE?oc=5",
-      "source": "포커스온경제",
-      "date": "Fri, 23 Oct 2026 04:31:06 GMT"
+      "title": "양평군, 중국 조장시와 경제협력 강화… 관내 기업 해외 진출 지원",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBKOWdJbzVkd2YwOF9GbFFmb1lSajZLY2dPRS1oNi1qR1B1cnl1LWJzdWFkdU1VSkJObUpTTTdfeTd1M0U2eTI1LXExOEM?oc=5",
+      "source": "시사일보",
+      "date": "Fri, 23 Oct 2026 04:38:00 GMT"
+    },
+    {
+      "title": "한국환경보전원, 국내 환경기업 중국 진출 지원",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iM29Pc2s0ZnBDcWs0UUJYajMwdTZ3Y0E3WFBrclJLRGZvZzM3bTZnbGdBOHdLNG4yMDZvbnhPTG96akp4VVFickk1d2RQZWtxbzNKVzYtSzZwam5pWjQ4bmpOV0twNklCMDU0?oc=5",
+      "source": "BBS불교방송",
+      "date": "Fri, 23 Oct 2026 04:37:19 GMT"
     },
     {
       "title": "안동시의회 경제도시위원회, `중국 허저시와 농업 계절근로자 협력` 강화",
@@ -24,32 +42,14 @@
       "date": "Fri, 23 Oct 2026 02:04:22 GMT"
     },
     {
-      "title": "\"중일관계 풀자\"...일 간사이 재계 대표단 12월 방중",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LZUpuN3RURk1sNVI3N1pDQ210dEk1M3AxUG1IbEIycGNpU0o0T2o1Qk5fcmVCVV8zQWZDTFN2TElJOV9hM1lfTmRPdHc1LUE2aHl4SjZqUGpQanNNQVE?oc=5",
-      "source": "YTN",
-      "date": "Fri, 23 Oct 2026 01:25:00 GMT"
-    },
-    {
-      "title": "박정주 홍성군수, 중국 전장시와 자매결연…글로벌 교류 확대",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCSjZfTS1ueVlOUjNfZEdkb0djR0dZSWprbDA0NktHUXRMeFcwcVJ6Z19KQ2FRakVGMDdxUGk0SjBXNzJIMlVqOHFlUlRScy1rOGtaekVQVFNGOTdDdFljMy1NYnFUdXZ0LS1kX2RlbFMtUEk1WXdaR3ln0gF_QVVfeXFMTkxZNmtQSVI4UXNQX1l0NGVUb0RDYW9KSmhHVm5JTTBDdUphdXAxcFJDR3prUTNhcXFWVnJxMUtBTXlEa1NhY1NxY19nYkhhWEhBbHlLQjJFclBHLWhlWkxDcWRGYnZqU3lZLWhvbDB3TXc4VGFYbnFHSzhOZlRTSQ?oc=5",
-      "source": "뉴데일리 충청세종",
-      "date": "Thu, 22 Oct 2026 22:01:00 GMT"
-    },
-    {
-      "title": "미 국방부, 중국과 ‘경제전쟁’ 대비 사업가 위장 첩보망 구축 추진",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HbE5rOHh1eS0wX3F1d2RlZHdfTFNuOF9ybW1yRFY4R3BlWFV2NzlWaWtPem5HN0l4S2FxQjhyRWxWaWdobmgybVlZVVdVOERfbXFiR3pNZTFsbTlBWUVud0ZhYTFpclZibGRxaGxfdw?oc=5",
-      "source": "한겨레",
-      "date": "Thu, 22 Oct 2026 09:36:00 GMT"
-    },
-    {
-      "title": "“화려한 야경에 속았다”…중국 금융경제 중심지 ‘상하이’의 충격적 속사정",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVQlhMUU1jVEpNbHFiMEd4eHA1TzdZbk53LVlJU0xMQ0FxZzc4SDREd3BTQkYtMXE4TUUzZkcyZktWc1ZONmpsaVBxaDZ3a0NkMDlBazFMV3pMZw?oc=5",
-      "source": "농민신문",
-      "date": "Thu, 22 Oct 2026 05:56:00 GMT"
+      "title": "스탠다드차타드 회장 \"中, 여전히 세계 주요 성장 엔진으로 활약\"-Xinhua",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHTmlTYWFDNmhaX2cwcWVqWDhudm1CNU95cG5SMG1DQU8xTldLZlVENkRaWFFhQ3RaalN1UzZZU25zTWlOUDF2UTBsM0szS0VaRmo5cEpOUUQ0RWNfYjgxQnpTcG80TkpKUWZYMXlCUmFqX3p2?oc=5",
+      "source": "신화망",
+      "date": "Thu, 22 Oct 2026 23:44:10 GMT"
     },
     {
       "title": "﻿중국 경제 1∼9월 4.6% 성장…한국 수출시장에 어떤 신호인가",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qMmhPc1dGc1hKeDhaallLQThkMTlfU1UzRm4tT1ZwSzBYdlh5cm82bk9hQ1RMeks3bUZmdElzOUhYYzRIZThyT2FTdWM5ZVFpZU5VNjYycGJIUERDXzVLYjZLNXJqemRUZm9N0gFvQVVfeXFMUGh6SGlTOENLX1Exak16NGs5REVPWGx3QUtDLVJGbnFlUXJVVVI2RVA2bGtqN2txZFh4VkxSblpDQmxnbm5UWld1MGNPUy05Rl8xWmZXV1dpNWs2ajJKaG45X2pIdVpTdzAwRFN1MXVJ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSVmNWTkhQOHdFeDM5ZjRsU3hUNWFSMExqakVScHUwZldlUnlDUEVXQjYtbWNpbFdIcV85QmRvOVNVTVZDc3dZZkUwMmRLa2NrekV1aGkxNWZhc21RLWFqaG93WTNyajlkTHlkStIBb0FVX3lxTFBoekhpUzhDS19RMWpNejRrOURFT1hsd0FLQy1SRm5xZVFyVVVSNkVQNmxrajdrcWRYeFZMUm5aQ0JsZ25uVFpXdTBjT1MtOUZfMVpmV1dXaTVrNmoySmhuOV9qSHVaU3cwMERTdTF1SQ?oc=5",
       "source": "서울일보",
       "date": "Wed, 21 Oct 2026 22:48:42 GMT"
     },
