@@ -1,27 +1,39 @@
 {
-  "run_at_kst": "2026-10-23T10:10:27+09:00",
+  "run_at_kst": "2026-10-23T14:10:06+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "韓·中 경제학계, 서울대서 머리 맞대고 ‘경쟁적 협력’ 모색",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc2ZDdGJ5aEtGTnRNR3ZhUXNnX1dqeHZhN1RUTDlKazYtcUpqeHFsNncyYUF0enh3b1FyQ3hzZWxUOFRoVlFuMHRQS0VVWG9mWGstZ2tBUmw5OG80OUp3SzBadUlWNnlBc0NsNEppQVJldnRDNmRrMjF4MnNiVTRVNm5Vc1FJcW4zd3ZCcnQ3UFM?oc=5",
+      "source": "조선일보",
+      "date": "Fri, 23 Oct 2026 04:40:00 GMT"
+    },
+    {
+      "title": "중국, 1억달러 이상 해외투자 사전 보고 의무화⋯12월 1일 시행",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JMUxKQ19lUHZpaHc4cU5JWTNTZlpleXd1eDBZaW5EaUhPVFJ0WVYwczdlcFRnVmxMNEJsekZmMWhIaUU3N3pYcUdBNVhCZGxIRzJQWEFabmU5Z2tMcEE?oc=5",
+      "source": "포커스온경제",
+      "date": "Fri, 23 Oct 2026 04:31:06 GMT"
+    },
+    {
+      "title": "안동시의회 경제도시위원회, `중국 허저시와 농업 계절근로자 협력` 강화",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PMXpMYm55VU93cjFlUi1ueGlBc25NSVpmRE04U0dpTG1MUUpZUjNRNU54OTUzQXVJR3lSY1pQRlJvUFVKVDJ3YzNjeW1Zc0FNZG9xVmlWR21SSjQzM1ZsVkl3?oc=5",
+      "source": "매일신문",
+      "date": "Fri, 23 Oct 2026 02:04:22 GMT"
+    },
+    {
+      "title": "\"중일관계 풀자\"...일 간사이 재계 대표단 12월 방중",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LZUpuN3RURk1sNVI3N1pDQ210dEk1M3AxUG1IbEIycGNpU0o0T2o1Qk5fcmVCVV8zQWZDTFN2TElJOV9hM1lfTmRPdHc1LUE2aHl4SjZqUGpQanNNQVE?oc=5",
+      "source": "YTN",
+      "date": "Fri, 23 Oct 2026 01:25:00 GMT"
+    },
+    {
       "title": "박정주 홍성군수, 중국 전장시와 자매결연…글로벌 교류 확대",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCSjZfTS1ueVlOUjNfZEdkb0djR0dZSWprbDA0NktHUXRMeFcwcVJ6Z19KQ2FRakVGMDdxUGk0SjBXNzJIMlVqOHFlUlRScy1rOGtaekVQVFNGOTdDdFljMy1NYnFUdXZ0LS1kX2RlbFMtUEk1WXdaR3ln0gF_QVVfeXFMTkxZNmtQSVI4UXNQX1l0NGVUb0RDYW9KSmhHVm5JTTBDdUphdXAxcFJDR3prUTNhcXFWVnJxMUtBTXlEa1NhY1NxY19nYkhhWEhBbHlLQjJFclBHLWhlWkxDcWRGYnZqU3lZLWhvbDB3TXc4VGFYbnFHSzhOZlRTSQ?oc=5",
       "source": "뉴데일리 충청세종",
       "date": "Thu, 22 Oct 2026 22:01:00 GMT"
-    },
-    {
-      "title": "[속보] \"중국 티베트에서 규모 6.7 지진\" [신화]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtZXpJTWFQOGpqWk9zcTY1eG1qUVBmZG1nZjRQbW5ERXI3UUFmWVEtXzUzalZkRzdwTFhUMlZaT0hGemEwVDJ6bzdScUFQeV9ELWJ3TEdOT0ExZw?oc=5",
-      "source": "한국경제",
-      "date": "Thu, 22 Oct 2026 15:01:15 GMT"
-    },
-    {
-      "title": "대구·중국 청두, 미래산업 경제협력 확대 나선다",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tZ0t3OGtrak5nbXBiZGE1MHgxMXJDVjVRa2RxeTJzNkwxQ3lXUGxRQTJrMjVTZWRQRFJydC01SzVVeEFsbDVoNTNQVHNEV3ZUeHZOUGlhdTJyQQ?oc=5",
-      "source": "경북매일",
-      "date": "Thu, 22 Oct 2026 11:29:00 GMT"
     },
     {
       "title": "미 국방부, 중국과 ‘경제전쟁’ 대비 사업가 위장 첩보망 구축 추진",
@@ -58,18 +70,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtNUZqQWFQc3g0WllieGV3dUJ6VUpVcmNfR2RsY3ZxNlo5TGRTTFBNRlBhQjhHLVdCaEdfSXM4bUpEaGpsY3RPRTBqQVM2ek1IMDV4LUtyNWcxXzJoRXfSAWNBVV95cUxQX2FDdGRvdHBNeTJOWXk5YWtxekYzZHdjTFBRbEhERURFek9YRTBkam96WGZVUlo3RTRKRGptZGlid1pucTZDMWRDMEdpcGpMTk9sWURmLWZ0QWVsNGZ4Z0pwY3M?oc=5",
       "source": "BBC",
       "date": "Mon, 19 Oct 2026 09:10:31 GMT"
-    },
-    {
-      "title": "중국 경제 예상 밖 선전…3분기 4.5% 성장에 목표 달성 청신호",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pYTVYakJhNnJmME5kS1dXSjFScTA0WXVjb2lITXBKbVI2WDZVZkNsMlVZcTBGdWZUT2lwYmREbVAwY2twb1ZiN0hqa0VfYkJQSldFM0cwcmszZHJZOEdwdWwxRFpOenYzQW1NQjhnZw?oc=5",
-      "source": "전남일보",
-      "date": "Mon, 19 Oct 2026 07:58:30 GMT"
-    },
-    {
-      "title": "중국 경제 올 3분기 4.5% 성장 기록... 내수 부동산은 여전히 침체",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNVS1ub1A0OGtkRGFLcUJvWUd2YlZxdHc2bXNIR1RTd05zZ3dudVRhdS1iS2pKQ2FISWtuelRzczFjaGRyVExIMkJhRkVYYXA2LUlVQTJSdS1Mdw?oc=5",
-      "source": "파이낸셜뉴스",
-      "date": "Mon, 19 Oct 2026 05:19:41 GMT"
     },
     {
       "title": "[그래픽] 중국 경제성장률 추이",

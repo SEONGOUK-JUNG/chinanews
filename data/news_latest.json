@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-23T10:10:27+09:00",
+  "run_at_kst": "2026-10-23T14:10:06+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Why Trump Can't Afford to Lose The Rare Earth Race",
+      "link": "https://oilprice.com/Energy/Energy-General/Why-Trump-Cant-Afford-to-Lose-The-Rare-Earth-Race.html",
+      "source": "OilPrice",
+      "date": "Thu, 22 Oct 2026 21:00:00 -0500"
+    },
     {
       "title": "LNG Canada Doubles Capacity as Asia Looks Beyond the Gulf",
       "link": "https://oilprice.com/Energy/Natural-Gas/LNG-Canada-Doubles-Capacity-as-Asia-Looks-Beyond-the-Gulf.html",
@@ -66,12 +72,6 @@
       "link": "https://oilprice.com/Energy/Crude-Oil/Strathcona-Pitches-250000-Bpd-Oil-Export-Route-to-Asia.html",
       "source": "OilPrice",
       "date": "Thu, 22 Oct 2026 14:00:00 -0500"
-    },
-    {
-      "title": "EU’s Proposed Shipping Subsidies Could Make BioLNG Cheaper Than Fuel Oil",
-      "link": "https://oilprice.com/Energy/Energy-General/EUs-Proposed-Shipping-Subsidies-Could-Make-BioLNG-Cheaper-Than-Fuel-Oil.html",
-      "source": "OilPrice",
-      "date": "Thu, 22 Oct 2026 13:00:00 -0500"
     },
     {
       "title": "US permitting: Environmental review overhaul could speed mine approvals, but hurdles remain",
