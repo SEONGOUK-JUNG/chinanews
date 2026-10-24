@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-24T10:10:04+09:00",
+  "run_at_kst": "2026-10-24T14:10:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -24,16 +24,10 @@
       "date": "Fri, 23 Oct 2026 08:33:42 GMT"
     },
     {
-      "title": "양평군, 중국 조장시와 경제협력 강화… 관내 기업 해외 진출 지원",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NZl82T1N3VURLd19NOE5GZ2dEdlYyY1dUZkViVUFqZnkyNU5yNlBOMERVRzg5YlJ6TTZhckprZElMVGtCMnMySk5kdGtCTUJ2MHlyczRyT3NWa2k3ZnpB?oc=5",
-      "source": "세계환경신문",
-      "date": "Fri, 23 Oct 2026 06:47:12 GMT"
-    },
-    {
-      "title": "20% 하락 후, 중국 CSI 300 지수 약세장 진입",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQN3ROdk1mOHJrTWVNZXRPdk1kN2RqTFlua0RqNVJnYlRXYmpCZ1g2cDBxNWZJSkw1Ulg2dVRPdkNOaDRwMkVmLVRBWE5Tdlc3a1MwMzR6MGtHTkdNYU1KeGthNXdGa2FwQWlLZFFBYWw2Z0ZIRHZ4MU1zVEp6ZWNWWHRZMFRBNko1eFJWYmJVdTZaa1RxQ3JEQUh1OEM3QkIxM08wdTNRbzhLdmRrQlZqQ01ORmg5RVJuX3k2d01sdWRRTWhtR1gzSHBpN2VvSVlFYTZYSjVzSWsteUNQdjRLSEllRmlybzlXM29GaFFxMHlROE9QOElGaUN5cW4?oc=5",
-      "source": "IDNFinancials",
-      "date": "Fri, 23 Oct 2026 05:00:00 GMT"
+      "title": "미 국방부, 중국과 ‘경제전쟁’ 대비 사업가 위장 첩보망 구축 추진",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HbE5rOHh1eS0wX3F1d2RlZHdfTFNuOF9ybW1yRFY4R3BlWFV2NzlWaWtPem5HN0l4S2FxQjhyRWxWaWdobmgybVlZVVdVOERfbXFiR3pNZTFsbTlBWUVud0ZhYTFpclZibGRxaGxfdw?oc=5",
+      "source": "한겨레",
+      "date": "Thu, 22 Oct 2026 09:36:00 GMT"
     },
     {
       "title": "“화려한 야경에 속았다”…중국 금융경제 중심지 ‘상하이’의 충격적 속사정",
@@ -70,6 +64,12 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pYTVYakJhNnJmME5kS1dXSjFScTA0WXVjb2lITXBKbVI2WDZVZkNsMlVZcTBGdWZUT2lwYmREbVAwY2twb1ZiN0hqa0VfYkJQSldFM0cwcmszZHJZOEdwdWwxRFpOenYzQW1NQjhnZw?oc=5",
       "source": "전남일보",
       "date": "Mon, 19 Oct 2026 07:58:30 GMT"
+    },
+    {
+      "title": "중국 경제 올 3분기 4.5% 성장 기록... 내수 부동산은 여전히 침체",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNVS1ub1A0OGtkRGFLcUJvWUd2YlZxdHc2bXNIR1RTd05zZ3dudVRhdS1iS2pKQ2FISWtuelRzczFjaGRyVExIMkJhRkVYYXA2LUlVQTJSdS1Mdw?oc=5",
+      "source": "파이낸셜뉴스",
+      "date": "Mon, 19 Oct 2026 05:19:41 GMT"
     },
     {
       "title": "[그래픽] 중국 경제성장률 추이",
