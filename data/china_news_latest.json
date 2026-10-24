@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-10-24T07:20:04+09:00",
+  "run_at_kst": "2026-10-24T10:10:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "박정주 홍성군수, 중국과 손잡고 홍성군 몸집 키운다!",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wdmJfTUtucUZHWVZoVl9LZ2djUHlpbXYycDVaaUJLLTZGeDVfOG1GUHRjc2F4aloweFdKUlVGdGw1UVdtZlpoQWhGSDc1VFphTkhITnpkZ1FIWnBmQm5vOU1Xa21kbDltbGV4UQ?oc=5",
+      "source": "이론경제",
+      "date": "Sat, 24 Oct 2026 00:43:50 GMT"
+    },
     {
       "title": "양평군, 중국 조장시와 경제협력 확대, 지역기업 해외시장 진출 ‘본격화’",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JRGprQ1pnb3RMZUNqRVQzR29nUXFWX21FNjR5enJNNFN5TndzWG1uX2NlWkxSTGdpYlhNcGpsVHpRMGFlZVlROVVzSkdNc0lBVHYwMnlWSllzMkxHMDI5UU90aFU4S3dseFE?oc=5",
@@ -24,22 +30,10 @@
       "date": "Fri, 23 Oct 2026 06:47:12 GMT"
     },
     {
-      "title": "양평군, 중국 조장시와 경제협력 확대…지역 기업 판로 개척",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hQ01nSkxnbFNyT0QtWERBT0RvVEpmLXFscHdRMjVwQ21WSzg0QVA0SFdjaUM2SGlvazNVYzYxY2dRd0ltTi1LTzBlODRpbkIyRFRwYi10NUE5UVVCS2xXVQ?oc=5",
-      "source": "아시아경제",
-      "date": "Fri, 23 Oct 2026 06:37:39 GMT"
-    },
-    {
       "title": "20% 하락 후, 중국 CSI 300 지수 약세장 진입",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQN3ROdk1mOHJrTWVNZXRPdk1kN2RqTFlua0RqNVJnYlRXYmpCZ1g2cDBxNWZJSkw1Ulg2dVRPdkNOaDRwMkVmLVRBWE5Tdlc3a1MwMzR6MGtHTkdNYU1KeGthNXdGa2FwQWlLZFFBYWw2Z0ZIRHZ4MU1zVEp6ZWNWWHRZMFRBNko1eFJWYmJVdTZaa1RxQ3JEQUh1OEM3QkIxM08wdTNRbzhLdmRrQlZqQ01ORmg5RVJuX3k2d01sdWRRTWhtR1gzSHBpN2VvSVlFYTZYSjVzSWsteUNQdjRLSEllRmlybzlXM29GaFFxMHlROE9QOElGaUN5cW4?oc=5",
       "source": "IDNFinancials",
       "date": "Fri, 23 Oct 2026 05:00:00 GMT"
-    },
-    {
-      "title": "韓·中 경제학계, 서울대서 머리 맞대고 ‘경쟁적 협력’ 모색",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc2ZDdGJ5aEtGTnRNR3ZhUXNnX1dqeHZhN1RUTDlKazYtcUpqeHFsNncyYUF0enh3b1FyQ3hzZWxUOFRoVlFuMHRQS0VVWG9mWGstZ2tBUmw5OG80OUp3SzBadUlWNnlBc0NsNEppQVJldnRDNmRrMjF4MnNiVTRVNm5Vc1FJcW4zd3ZCcnQ3UFM?oc=5",
-      "source": "조선일보",
-      "date": "Fri, 23 Oct 2026 04:45:39 GMT"
     },
     {
       "title": "“화려한 야경에 속았다”…중국 금융경제 중심지 ‘상하이’의 충격적 속사정",
@@ -70,6 +64,12 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtNUZqQWFQc3g0WllieGV3dUJ6VUpVcmNfR2RsY3ZxNlo5TGRTTFBNRlBhQjhHLVdCaEdfSXM4bUpEaGpsY3RPRTBqQVM2ek1IMDV4LUtyNWcxXzJoRXfSAWNBVV95cUxQX2FDdGRvdHBNeTJOWXk5YWtxekYzZHdjTFBRbEhERURFek9YRTBkam96WGZVUlo3RTRKRGptZGlid1pucTZDMWRDMEdpcGpMTk9sWURmLWZ0QWVsNGZ4Z0pwY3M?oc=5",
       "source": "BBC",
       "date": "Mon, 19 Oct 2026 09:10:31 GMT"
+    },
+    {
+      "title": "중국 경제 예상 밖 선전…3분기 4.5% 성장에 목표 달성 청신호",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pYTVYakJhNnJmME5kS1dXSjFScTA0WXVjb2lITXBKbVI2WDZVZkNsMlVZcTBGdWZUT2lwYmREbVAwY2twb1ZiN0hqa0VfYkJQSldFM0cwcmszZHJZOEdwdWwxRFpOenYzQW1NQjhnZw?oc=5",
+      "source": "전남일보",
+      "date": "Mon, 19 Oct 2026 07:58:30 GMT"
     },
     {
       "title": "[그래픽] 중국 경제성장률 추이",

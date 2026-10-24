@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-24T07:20:04+09:00",
+  "run_at_kst": "2026-10-24T10:10:04+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out",
+      "link": "https://oilprice.com/Energy/Energy-General/Trumps-Reverse-Nixon-Strategy-Bring-Russia-In-Shut-China-Out.html",
+      "source": "OilPrice",
+      "date": "Fri, 23 Oct 2026 18:00:00 -0500"
+    },
+    {
+      "title": "US Department of Energy names helium to critical materials list",
+      "link": "https://www.mining.com/us-department-of-energy-names-helium-to-critical-materials-list/",
+      "source": "mining.com",
+      "date": "Fri, 23 Oct 2026 22:50:19 +0000"
+    },
+    {
+      "title": "Bannerman pulls trigger on $353M uranium mine",
+      "link": "https://www.mining.com/bannerman-pulls-trigger-on-353m-uranium-mine/",
+      "source": "mining.com",
+      "date": "Fri, 23 Oct 2026 22:39:00 +0000"
+    },
+    {
+      "title": "U.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Dips-Into-Strategic-Oil-Reserve-Again-Amid-Supply-Disruptions.html",
+      "source": "OilPrice",
+      "date": "Fri, 23 Oct 2026 17:30:00 -0500"
+    },
     {
       "title": "Why Trump and Carney Haven’t Touched Energy in Their Tariff War",
       "link": "https://oilprice.com/Energy/Energy-General/Why-Trump-and-Carney-Havent-Touched-Energy-in-Their-Tariff-War.html",
@@ -18,6 +42,12 @@
       "link": "https://oilprice.com/Energy/Energy-General/NASAs-Freeze-Resistant-Moon-Battery-Could-Eventually-Reach-EVs.html",
       "source": "OilPrice",
       "date": "Fri, 23 Oct 2026 15:00:00 -0500"
+    },
+    {
+      "title": "Moon River lifts Davidson value to $879M, tungsten output jumps",
+      "link": "https://www.mining.com/moon-river-lifts-davidson-value-to-879m-tungsten-output-jumps/",
+      "source": "mining.com",
+      "date": "Fri, 23 Oct 2026 19:55:00 +0000"
     },
     {
       "title": "Op-Ed: Nicaragua mining – the golden bridgehead threatening US national security",
@@ -56,40 +86,10 @@
       "date": "Fri, 23 Oct 2026 11:00:00 -0500"
     },
     {
-      "title": "Middle East Physical Crude Slides While Brent Hits Five-Month High",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Middle-East-Physical-Crude-Slides-While-Brent-Hits-Five-Month-High.html",
-      "source": "OilPrice",
-      "date": "Fri, 23 Oct 2026 10:30:00 -0500"
-    },
-    {
-      "title": "Oil India Strikes Natural Gas in Shallow Offshore Basin",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-India-Strikes-Natural-Gas-in-Shallow-Offshore-Basin.html",
-      "source": "OilPrice",
-      "date": "Fri, 23 Oct 2026 09:30:00 -0500"
-    },
-    {
       "title": "Diesel price surge putting mining profits to test",
       "link": "https://www.mining.com/diesel-price-surge-putting-mining-profits-to-test/",
       "source": "mining.com",
       "date": "Fri, 23 Oct 2026 14:24:08 +0000"
-    },
-    {
-      "title": "New Found Gold doubles Queensway valuation to $1.2B",
-      "link": "https://www.mining.com/new-found-gold-doubles-queensway-valuation-to-1-2b/",
-      "source": "mining.com",
-      "date": "Fri, 23 Oct 2026 13:42:07 +0000"
-    },
-    {
-      "title": "Central banks pile into gold as China leads buying spree",
-      "link": "https://www.mining.com/central-banks-pile-into-gold-as-china-leads-buying-spree/",
-      "source": "mining.com",
-      "date": "Fri, 23 Oct 2026 13:10:00 +0000"
-    },
-    {
-      "title": "Halo Minerals clears key hurdle at Chile copper project",
-      "link": "https://www.mining.com/halo-minerals-clears-key-hurdle-at-chile-copper-project/",
-      "source": "mining.com",
-      "date": "Fri, 23 Oct 2026 11:53:00 +0000"
     }
   ]
 }
