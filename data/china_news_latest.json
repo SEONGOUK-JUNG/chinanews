@@ -1,33 +1,39 @@
 {
-  "run_at_kst": "2026-10-24T14:10:05+09:00",
+  "run_at_kst": "2026-10-24T20:10:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "박정주 홍성군수, 중국과 손잡고 홍성군 몸집 키운다!",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wdmJfTUtucUZHWVZoVl9LZ2djUHlpbXYycDVaaUJLLTZGeDVfOG1GUHRjc2F4aloweFdKUlVGdGw1UVdtZlpoQWhGSDc1VFphTkhITnpkZ1FIWnBmQm5vOU1Xa21kbDltbGV4UQ?oc=5",
-      "source": "이론경제",
-      "date": "Sat, 24 Oct 2026 00:43:50 GMT"
+      "title": "김정은, 방중서 '중국 경제 수장' 리창 만나…당일 귀국 전망",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WM3pJcWphSDVCQVpRb3liRzdvRVlHR2JFZ3FjZERoQ3VnSTBVMjZVZnI5a0xPUUdMU0JIck1aM3ZqbXdoN29xTktJRzRTeTdFcFIxc0l3?oc=5",
+      "source": "뉴스21 통신",
+      "date": "Sat, 24 Oct 2026 11:03:39 GMT"
     },
     {
-      "title": "양평군, 중국 조장시와 경제협력 확대, 지역기업 해외시장 진출 ‘본격화’",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JRGprQ1pnb3RMZUNqRVQzR29nUXFWX21FNjR5enJNNFN5TndzWG1uX2NlWkxSTGdpYlhNcGpsVHpRMGFlZVlROVVzSkdNc0lBVHYwMnlWSllzMkxHMDI5UU90aFU4S3dseFE?oc=5",
-      "source": "경기도민일보 미디어",
-      "date": "Fri, 23 Oct 2026 12:57:44 GMT"
+      "title": "北·中 경협 본격화?…’경제총괄’ 리창, 김정은 영접",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Wajc5ZlIxd0ZKQ1NxNjRaN0VqeGJsSUpVUkdINTR2bGhORjNUR1FQTHdveHktYUxxblBsaE1FdWlCclkybWFva2ZxTjQ0LS1aZkZhR0pRZUtJMnUtRlFoR1FXbXJMc0E?oc=5",
+      "source": "연합뉴스TV",
+      "date": "Sat, 24 Oct 2026 11:01:00 GMT"
     },
     {
-      "title": "양평군, 중국 조장시와 다분야 협력 협정 체결…경제·산업 교류 확대",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hNHJGcEktQzVnT0YzdXdENnE1LU1RT1pveTBxYkx3Uy1OYXY3Z1dpWmZoc3FoeUpLMGwyakEzZjRDMDJTZFZjd3VMRlp3QlYzTkJBRUh2NFhUdGNxOE1IZDc1Q1E?oc=5",
-      "source": "매일일보",
-      "date": "Fri, 23 Oct 2026 08:33:42 GMT"
+      "title": "중국 단둥 찾은 北 김정은…북중 경협 강화 논의할 듯",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81MmFzakFDZHFlQXNLanQ2dDluUURzTXNoVExodDhoVFlhMjA3alpNMFlPdW9YXzQxdFM0RVdIWWRjaTJHZk96ZnI5X0huSWFKSFcxM21WV0J4bjNPakI4cDFB?oc=5",
+      "source": "에너지경제신문",
+      "date": "Sat, 24 Oct 2026 10:57:56 GMT"
     },
     {
-      "title": "미 국방부, 중국과 ‘경제전쟁’ 대비 사업가 위장 첩보망 구축 추진",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HbE5rOHh1eS0wX3F1d2RlZHdfTFNuOF9ybW1yRFY4R3BlWFV2NzlWaWtPem5HN0l4S2FxQjhyRWxWaWdobmgybVlZVVdVOERfbXFiR3pNZTFsbTlBWUVud0ZhYTFpclZibGRxaGxfdw?oc=5",
-      "source": "한겨레",
-      "date": "Thu, 22 Oct 2026 09:36:00 GMT"
+      "title": "양평군, 중국 조장시와 경제협력 강화…기업 해외 진출 지원",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wVFcxMVVKNmlNcGhXWllWazhBQlRYUVliNG9ZNG9mdC1ySFBJc09zSU9WNmxjZHBTd0d3a1BJQkF6a1JuT2pTMkpTZS13NXhHRlJqanRDTHF5emdveGM0OGpqb0hyY1RNa3I5c3c2TVY5b3M?oc=5",
+      "source": "동방일보",
+      "date": "Sat, 24 Oct 2026 10:32:54 GMT"
+    },
+    {
+      "title": "김정은, 당일치기로 방중?... ‘中 경제수장’ 리창 총리 만나",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeFhFU19ucm9sOVdBbnhEc0wza1F1UFdNb2RDcTJVakREMEV3cVhvVkduXzFyWDVzZC1OZkVVWndXYjZRNFF5TjlPRjdfT0R5TlZCd2lHLUo0bFlMVE0zdWNoQ29GVVNKWV9zd1QtZ0c3VS1rRktjMG1mYzdnWUM0ZDRzUXhKZkk5TFE?oc=5",
+      "source": "조선일보",
+      "date": "Sat, 24 Oct 2026 08:57:54 GMT"
     },
     {
       "title": "“화려한 야경에 속았다”…중국 금융경제 중심지 ‘상하이’의 충격적 속사정",
@@ -37,7 +43,7 @@
     },
     {
       "title": "﻿중국 경제 1∼9월 4.6% 성장…한국 수출시장에 어떤 신호인가",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSVmNWTkhQOHdFeDM5ZjRsU3hUNWFSMExqakVScHUwZldlUnlDUEVXQjYtbWNpbFdIcV85QmRvOVNVTVZDc3dZZkUwMmRLa2NrekV1aGkxNWZhc21RLWFqaG93WTNyajlkTHlkStIBb0FVX3lxTFBoekhpUzhDS19RMWpNejRrOURFT1hsd0FLQy1SRm5xZVFyVVVSNkVQNmxrajdrcWRYeFZMUm5aQ0JsZ25uVFpXdTBjT1MtOUZfMVpmV1dXaTVrNmoySmhuOV9qSHVaU3cwMERTdTF1SQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qMmhPc1dGc1hKeDhaallLQThkMTlfU1UzRm4tT1ZwSzBYdlh5cm82bk9hQ1RMeks3bUZmdElzOUhYYzRIZThyT2FTdWM5ZVFpZU5VNjYycGJIUERDXzVLYjZLNXJqemRUZm9N0gFvQVVfeXFMUGh6SGlTOENLX1Exak16NGs5REVPWGx3QUtDLVJGbnFlUXJVVVI2RVA2bGtqN2txZFh4VkxSblpDQmxnbm5UWld1MGNPUy05Rl8xWmZXV1dpNWs2ajJKaG45X2pIdVpTdzAwRFN1MXVJ?oc=5",
       "source": "서울일보",
       "date": "Wed, 21 Oct 2026 22:48:42 GMT"
     },
@@ -58,12 +64,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtNUZqQWFQc3g0WllieGV3dUJ6VUpVcmNfR2RsY3ZxNlo5TGRTTFBNRlBhQjhHLVdCaEdfSXM4bUpEaGpsY3RPRTBqQVM2ek1IMDV4LUtyNWcxXzJoRXfSAWNBVV95cUxQX2FDdGRvdHBNeTJOWXk5YWtxekYzZHdjTFBRbEhERURFek9YRTBkam96WGZVUlo3RTRKRGptZGlid1pucTZDMWRDMEdpcGpMTk9sWURmLWZ0QWVsNGZ4Z0pwY3M?oc=5",
       "source": "BBC",
       "date": "Mon, 19 Oct 2026 09:10:31 GMT"
-    },
-    {
-      "title": "중국 경제 예상 밖 선전…3분기 4.5% 성장에 목표 달성 청신호",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pYTVYakJhNnJmME5kS1dXSjFScTA0WXVjb2lITXBKbVI2WDZVZkNsMlVZcTBGdWZUT2lwYmREbVAwY2twb1ZiN0hqa0VfYkJQSldFM0cwcmszZHJZOEdwdWwxRFpOenYzQW1NQjhnZw?oc=5",
-      "source": "전남일보",
-      "date": "Mon, 19 Oct 2026 07:58:30 GMT"
     },
     {
       "title": "중국 경제 올 3분기 4.5% 성장 기록... 내수 부동산은 여전히 침체",
