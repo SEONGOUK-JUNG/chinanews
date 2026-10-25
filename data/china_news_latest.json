@@ -1,10 +1,22 @@
 {
-  "run_at_kst": "2026-10-25T10:10:03+09:00",
+  "run_at_kst": "2026-10-25T14:10:08+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "러시아서 군사 실익, 중국서 경제 활로…김정은의 '양손잡이 외교'",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qYXlFN1FDbnhpNXc5RjRhSk54S0FxMWJ3b0g5cERpUE01T0VyOEFHejJNWEZQUEhDbkpZWGIxMFRsSE9VRVpqbEY5WFctdTBWOGo4N1dfdFBrRDcyaTUw?oc=5",
+      "source": "뉴스1",
+      "date": "Sun, 25 Oct 2026 04:59:09 GMT"
+    },
+    {
+      "title": "김정은, 당일치기 중국 방문…시진핑 회담 없이 왕후닝 만나 북중 경제협력 논의",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KTXctRE16dlNNcDJlRTloS0ZvcjhSeTFoaEdGZEdwejRkMGlUSi1sU2JwdWJ4NkVrZWprSmlFdFJHSFN0eGd0SjVlOWZrdXZ6LXljUE5EMEM5LTY5dlFnVU90T0xkcHZZOW5NSzdn?oc=5",
+      "source": "폴리뉴스 Polinews",
+      "date": "Sun, 25 Oct 2026 00:53:22 GMT"
+    },
     {
       "title": "[속보] 한국, ‘경제 대국’ 독일·일본 합계 넘었다…중국 이어 경상흑자 ‘2위’",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HenBJN0I3eXBwRWhPVjVBUE8yTUZuZlBlRzFLYU50ZG51Q3EwQmZsTXpDNjdsNDllZWFnVzhjWmxlOXE3WUNjajNrR2k3UmtJOXRWZHF0TEI1MGVmNG5aX3NB?oc=5",
@@ -18,26 +30,8 @@
       "date": "Sat, 24 Oct 2026 15:10:00 GMT"
     },
     {
-      "title": "[아주경제 오늘의 뉴스 종합] 김정은 방중, 중국 총리 아닌 왕후닝 정협주석 회담",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05OFdQYUNDbkp4UF85b3lLa24tckRrNk13OHJfc05MTmJuWkt3d3N6bDBiR2FjUEtkT1hJTE5xUkhhSF9aMUNHNWttR1FZUFlHZVFxZFA4OTNEQdIBWEFVX3lxTE93Vk95RkhxOEZ1UEU1QkN4SFZGM1czektBQ1BJcll0Z1MyRzJKTXlxa0duc3V5QmJHaGdXM1JHSGtKWk1HUHFnRDZsb3h6Rk5ITFJhM1Y1TVk?oc=5",
-      "source": "아주경제",
-      "date": "Sat, 24 Oct 2026 12:44:48 GMT"
-    },
-    {
-      "title": "김정은, 中 왕후닝 만나 경제협력 확대 논의…항미원조기념관 헌화",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BSzdJZXp1MzJMdUE3QVVOa0NNbXZtTjlVam5NdUdOM0xMQTB3NzVVc2VfQjdLODdFWjJTLXB4YXZQRGpXTjQxUkMyUmZ5YUFwb3ZPcTQ4UznSAVRBVV95cUxOZmZLRkZIT2gwMnJYVzJmbnB2bmpjOUpHa3dnWFlhNFV1Z0Fyb1M3SEVjWnh4VVFlb1JVa3gwRmdXZzE2XzZKRnktTndvVXpITkwyUFE?oc=5",
-      "source": "세계일보",
-      "date": "Sat, 24 Oct 2026 12:07:55 GMT"
-    },
-    {
-      "title": "김정은 “중국 협력 전망 매우 넓다”…‘中 서열 4위’ 만나 경제협력 강조",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9aUnhfbzAzaFBzNU1aVFExVk45UHVQY0stNkxDSjZkWkF6dGtodEg1dUY5SERGVmZuSVM2TTJMWGZIa25VZVc5aGRLM3JsYVdhWWJlb3ZyWkI3YkJQcGM0M3ZWTQ?oc=5",
-      "source": "헤럴드경제",
-      "date": "Sat, 24 Oct 2026 11:41:10 GMT"
-    },
-    {
       "title": "김정은, 방중서 '중국 경제 수장' 리창 만나…당일 귀국 전망",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBc3RDYWdfLUhoaXYwaDc4MXZzSHhkd3RCOHI5XzlGRktIUlNCcDFlTlFfR3hfZHVlYVlZbUw0T1R5U0pya3F2Tk9CNkhmRGhK?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WM3pJcWphSDVCQVpRb3liRzdvRVlHR2JFZ3FjZERoQ3VnSTBVMjZVZnI5a0xPUUdMU0JIck1aM3ZqbXdoN29xTktJRzRTeTdFcFIxc0l3?oc=5",
       "source": "뉴스21 통신",
       "date": "Sat, 24 Oct 2026 11:03:39 GMT"
     },
@@ -48,10 +42,10 @@
       "date": "Sat, 24 Oct 2026 11:01:00 GMT"
     },
     {
-      "title": "[속보] 김정은, ‘중국 경제총괄’ 리창 총리와 회동…북미정상회담 논의 여부도 관심",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VM3g5azl4cUxud0lKbVZOVHdBZVVKQ0g5WXMyVUdLN3FWSlBnRm5GX0ZtZWhFNDJyY3AtZDJ1ZHZRNXNvaV93aFgxcUNGUzZfd1F3d2t3?oc=5",
-      "source": "매일경제",
-      "date": "Sat, 24 Oct 2026 09:36:42 GMT"
+      "title": "중국 단둥 찾은 北 김정은…북중 경협 강화 논의할 듯",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wOGxhSkJMZkg1Wk9lQ05QbXBxRzFEaC1ZS3pGRWpIeTV3MUpMUW1KeDNLbUtYTTFsbzl4R2thUXRXOUIxZ1U0a3FxYkF1M1JmZTVpWFozaGMxaWM?oc=5",
+      "source": "에너지경제신문",
+      "date": "Sat, 24 Oct 2026 10:57:56 GMT"
     },
     {
       "title": "김정은 방중 당일치기 유력…중국 경제 수장 리창 국무원 총리 만나",
@@ -66,16 +60,22 @@
       "date": "Sat, 24 Oct 2026 09:06:00 GMT"
     },
     {
-      "title": "김정은 전격 방중…중국 경제 수장 리창 국무원 총리 만나",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LSWppaGpaNnh2cjFpbGhqSWduY0I5eTVyWEVDN0ViNjNIckZHVEFIb1M5d1hOaDZiS01sVFNpZXN6dDFxYlhYeUR6ZzJtZnFpVnNndEk2Y1plb2xzY1E?oc=5",
-      "source": "주간경향",
-      "date": "Sat, 24 Oct 2026 06:20:00 GMT"
-    },
-    {
       "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
       "source": ":: 위즈경제 ::",
       "date": "Fri, 23 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "﻿중국 경제 1∼9월 4.6% 성장…한국 수출시장에 어떤 신호인가",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qMmhPc1dGc1hKeDhaallLQThkMTlfU1UzRm4tT1ZwSzBYdlh5cm82bk9hQ1RMeks3bUZmdElzOUhYYzRIZThyT2FTdWM5ZVFpZU5VNjYycGJIUERDXzVLYjZLNXJqemRUZm9N0gFvQVVfeXFMUGh6SGlTOENLX1Exak16NGs5REVPWGx3QUtDLVJGbnFlUXJVVVI2RVA2bGtqN2txZFh4VkxSblpDQmxnbm5UWld1MGNPUy05Rl8xWmZXV1dpNWs2ajJKaG45X2pIdVpTdzAwRFN1MXVJ?oc=5",
+      "source": "서울일보",
+      "date": "Wed, 21 Oct 2026 22:48:42 GMT"
+    },
+    {
+      "title": "AI 붐에 수출 증대 … 중국 경제 성장세 가속화",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtNUZqQWFQc3g0WllieGV3dUJ6VUpVcmNfR2RsY3ZxNlo5TGRTTFBNRlBhQjhHLVdCaEdfSXM4bUpEaGpsY3RPRTBqQVM2ek1IMDV4LUtyNWcxXzJoRXfSAWNBVV95cUxQX2FDdGRvdHBNeTJOWXk5YWtxekYzZHdjTFBRbEhERURFek9YRTBkam96WGZVUlo3RTRKRGptZGlid1pucTZDMWRDMEdpcGpMTk9sWURmLWZ0QWVsNGZ4Z0pwY3M?oc=5",
+      "source": "BBC",
+      "date": "Mon, 19 Oct 2026 09:10:31 GMT"
     }
   ]
 }
