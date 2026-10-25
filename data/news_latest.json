@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-25T10:10:03+09:00",
+  "run_at_kst": "2026-10-26T07:20:04+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Britain's Renewable Energy Boom Is Hitting a Grid Bottleneck",
+      "link": "https://oilprice.com/Energy/Energy-General/Britains-Renewable-Energy-Boom-Is-Hitting-a-Grid-Bottleneck.html",
+      "source": "OilPrice",
+      "date": "Sun, 25 Oct 2026 14:00:00 -0500"
+    },
+    {
+      "title": "World Is on Track for Up to 2.8 Degrees of Warming Despite Clean Energy Boom",
+      "link": "https://oilprice.com/Energy/Energy-General/World-Is-on-Track-for-Up-to-28-Degrees-of-Warming-Despite-Clean-Energy-Boom.html",
+      "source": "OilPrice",
+      "date": "Sun, 25 Oct 2026 12:00:00 -0500"
+    },
+    {
+      "title": "COP31 Host Urges NATO Nations to Spend More on Climate Than Defense",
+      "link": "https://oilprice.com/Energy/Energy-General/COP31-Host-Urges-NATO-Nations-to-Spend-More-on-Climate-Than-Defense.html",
+      "source": "OilPrice",
+      "date": "Sun, 25 Oct 2026 10:00:00 -0500"
+    },
+    {
+      "title": "China’s Argentina mining footprint smaller than it looks",
+      "link": "https://www.mining.com/chinas-argentina-mining-footprint-smaller-than-it-looks/",
+      "source": "mining.com",
+      "date": "Sun, 25 Oct 2026 12:00:00 +0000"
+    },
     {
       "title": "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia",
       "link": "https://oilprice.com/Energy/Crude-Oil/Record-Tanker-Rates-Cripple-US-Crude-Oil-Flows-to-Asia.html",
@@ -38,12 +62,6 @@
       "date": "Sat, 24 Oct 2026 10:00:00 -0500"
     },
     {
-      "title": "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out",
-      "link": "https://oilprice.com/Energy/Energy-General/Trumps-Reverse-Nixon-Strategy-Bring-Russia-In-Shut-China-Out.html",
-      "source": "OilPrice",
-      "date": "Fri, 23 Oct 2026 18:00:00 -0500"
-    },
-    {
       "title": "US Department of Energy names helium to critical materials list",
       "link": "https://www.mining.com/us-department-of-energy-names-helium-to-critical-materials-list/",
       "source": "mining.com",
@@ -54,18 +72,6 @@
       "link": "https://www.mining.com/bannerman-pulls-trigger-on-353m-uranium-mine/",
       "source": "mining.com",
       "date": "Fri, 23 Oct 2026 22:39:00 +0000"
-    },
-    {
-      "title": "U.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Dips-Into-Strategic-Oil-Reserve-Again-Amid-Supply-Disruptions.html",
-      "source": "OilPrice",
-      "date": "Fri, 23 Oct 2026 17:30:00 -0500"
-    },
-    {
-      "title": "Why Trump and Carney Haven’t Touched Energy in Their Tariff War",
-      "link": "https://oilprice.com/Energy/Energy-General/Why-Trump-and-Carney-Havent-Touched-Energy-in-Their-Tariff-War.html",
-      "source": "OilPrice",
-      "date": "Fri, 23 Oct 2026 17:00:00 -0500"
     },
     {
       "title": "Moon River lifts Davidson value to $879M, tungsten output jumps",
@@ -84,12 +90,6 @@
       "link": "https://www.mining.com/newmont-prices-red-chris-expansion-at-up-to-4-8b/",
       "source": "mining.com",
       "date": "Fri, 23 Oct 2026 17:15:00 +0000"
-    },
-    {
-      "title": "Diesel price surge putting mining profits to test",
-      "link": "https://www.mining.com/diesel-price-surge-putting-mining-profits-to-test/",
-      "source": "mining.com",
-      "date": "Fri, 23 Oct 2026 14:24:08 +0000"
     }
   ]
 }
