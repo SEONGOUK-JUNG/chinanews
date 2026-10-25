@@ -1,10 +1,28 @@
 {
-  "run_at_kst": "2026-10-25T14:10:08+09:00",
+  "run_at_kst": "2026-10-25T20:10:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "재정 신뢰 흔들리는 中…'5중전회'서 해결책 나올까 [한상춘의 국제경제 읽기]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRT0JYZk9lRUtNUHVrVjhUV1JwVVZOU0NTUU1Idkdtb3BfVjR1Nkpqbkc3MjdlaVgyOHkwQkdRWWd0eGRkM2hWZUJpRDF1eE1vNWJZNFViTkpMUQ?oc=5",
+      "source": "한국경제",
+      "date": "Sun, 25 Oct 2026 09:25:15 GMT"
+    },
+    {
+      "title": "김정은, ‘피로 맺은 관계’ 중국에 경제협력 기대감 표출…대미 협상력 강화하려 했나",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaWRYdVFuSk9QcVVnXzlPdndLVklCVUJqTnpKaWp6M1d0OWdwMTV2U0tkRUgwZUxIZGthaXFMNVNZdkZSSjFxSm40UXQ0dGVRTnlBWmdvbzhaMHQxaHVycWpHNEJINWVPRWo1RnBJU2JYN0JjY2J2aVlnNll1Und4QXJrV0ZHR3hxZ0g3dU9pRHRaaDFUZjd5ejZEWGFJbEZXTk9WRUV3NzVJUdIBX0FVX3lxTE1DSlBpd1ZrcGVUM0M5eDVkYWxfR1ZySXBjQWNfMjkxanp4SnBjT1dGRDRvZkZEMDJMYzNEaUZRNzYtZHpQRFl4OU5GbFBWNGluaHFERUl3QVE3TWhWeWdr?oc=5",
+      "source": "경향신문",
+      "date": "Sun, 25 Oct 2026 09:23:00 GMT"
+    },
+    {
+      "title": "양평군, 중국 조장시와 경제협력 강화...관내 기업 해외 진출 지원",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QT3gzOHB2WmphZXhLNW1UQVlZa3NGZi1RdE82cG9WWmZ1NFB2OG1XSFNjUEtDTFpWY1R5VGdZaE56VW1EYlVOSVBIby1VdlpweWpVS0JnaktzeWNXTnU0ZV9n?oc=5",
+      "source": "경기신문",
+      "date": "Sun, 25 Oct 2026 05:58:47 GMT"
+    },
     {
       "title": "러시아서 군사 실익, 중국서 경제 활로…김정은의 '양손잡이 외교'",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qYXlFN1FDbnhpNXc5RjRhSk54S0FxMWJ3b0g5cERpUE01T0VyOEFHejJNWEZQUEhDbkpZWGIxMFRsSE9VRVpqbEY5WFctdTBWOGo4N1dfdFBrRDcyaTUw?oc=5",
@@ -12,10 +30,10 @@
       "date": "Sun, 25 Oct 2026 04:59:09 GMT"
     },
     {
-      "title": "김정은, 당일치기 중국 방문…시진핑 회담 없이 왕후닝 만나 북중 경제협력 논의",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KTXctRE16dlNNcDJlRTloS0ZvcjhSeTFoaEdGZEdwejRkMGlUSi1sU2JwdWJ4NkVrZWprSmlFdFJHSFN0eGd0SjVlOWZrdXZ6LXljUE5EMEM5LTY5dlFnVU90T0xkcHZZOW5NSzdn?oc=5",
-      "source": "폴리뉴스 Polinews",
-      "date": "Sun, 25 Oct 2026 00:53:22 GMT"
+      "title": "中, 美 첨단기술 해외투자 규제확대에 반발…\"정상간 합의 위배\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tNlphMU9ReHBZS2lNX1NPRk5MU1lkUktmalNYRzNuVURCRVRmT1QwLU40VG91cnkxUjdNR2lFUmgtNUJYbXEwS3Q2ZWpOa1A4TEI2clYxcWlUWGfSAWBBVV95cUxON0V3YUV4VWNjQ3pnRHIxRVcyTHNlX2tGT2hYQXBVckhGTWx4djR0eHBtbGdtOHAwVi1YUUwyZlotVlVaeDdkNVdfdk5FTjNCXy03SlNWYTcyc3U5N1hlU3Q?oc=5",
+      "source": "연합뉴스",
+      "date": "Sun, 25 Oct 2026 01:56:46 GMT"
     },
     {
       "title": "[속보] 한국, ‘경제 대국’ 독일·일본 합계 넘었다…중국 이어 경상흑자 ‘2위’",
@@ -25,33 +43,15 @@
     },
     {
       "title": "김정은, 중국 서열 4위 왕후닝과 회담…“경제 협력 강화”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11WmRscE50TXBDa3BWcm1GTU54LXRQd1Y2SDhmck9tcEhPVlBWdUtsVEJsaTlOQlZHRTFZRzJjVl9RazBXdXVtMkphRE1WU1lYcndWd1g3V2gtNG8?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10ZkFWcjROT0ppMVFDNlpWMnEwN0RGQ19UUTZOQWRIX2ZzUG81ckw3aFgtT3dSN08zc2dLaEUwVUpjTnVvckE3QlltY3lYQmowNkRvNk9ib1Z2RmM?oc=5",
       "source": "KBS 뉴스",
-      "date": "Sat, 24 Oct 2026 15:10:00 GMT"
-    },
-    {
-      "title": "김정은, 방중서 '중국 경제 수장' 리창 만나…당일 귀국 전망",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WM3pJcWphSDVCQVpRb3liRzdvRVlHR2JFZ3FjZERoQ3VnSTBVMjZVZnI5a0xPUUdMU0JIck1aM3ZqbXdoN29xTktJRzRTeTdFcFIxc0l3?oc=5",
-      "source": "뉴스21 통신",
-      "date": "Sat, 24 Oct 2026 11:03:39 GMT"
+      "date": "Sat, 24 Oct 2026 22:01:00 GMT"
     },
     {
       "title": "北·中 경협 본격화?…’경제총괄’ 리창, 김정은 영접",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Wajc5ZlIxd0ZKQ1NxNjRaN0VqeGJsSUpVUkdINTR2bGhORjNUR1FQTHdveHktYUxxblBsaE1FdWlCclkybWFva2ZxTjQ0LS1aZkZhR0pRZUtJMnUtRlFoR1FXbXJMc0E?oc=5",
       "source": "연합뉴스TV",
       "date": "Sat, 24 Oct 2026 11:01:00 GMT"
-    },
-    {
-      "title": "중국 단둥 찾은 北 김정은…북중 경협 강화 논의할 듯",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wOGxhSkJMZkg1Wk9lQ05QbXBxRzFEaC1ZS3pGRWpIeTV3MUpMUW1KeDNLbUtYTTFsbzl4R2thUXRXOUIxZ1U0a3FxYkF1M1JmZTVpWFozaGMxaWM?oc=5",
-      "source": "에너지경제신문",
-      "date": "Sat, 24 Oct 2026 10:57:56 GMT"
-    },
-    {
-      "title": "김정은 방중 당일치기 유력…중국 경제 수장 리창 국무원 총리 만나",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XOVRaNlM2ZFQwanhMQnh2dTdPVFNBOExlYVh3Y1RUSFNCdlNHY3ZxeXk0X0x4Q0FDX094VlZ0Zi1tamxrWTRGdUZmQmZ3WlZqTXpKMFNvQXJNQnJURlE?oc=5",
-      "source": "주간경향",
-      "date": "Sat, 24 Oct 2026 09:12:00 GMT"
     },
     {
       "title": "\"김정은, 방중서 ‘중국 경제 수장’ 리창 만나…당일 귀국 전망\"",
