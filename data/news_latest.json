@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-25T07:20:02+09:00",
+  "run_at_kst": "2026-10-25T10:10:03+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Record-Tanker-Rates-Cripple-US-Crude-Oil-Flows-to-Asia.html",
+      "source": "OilPrice",
+      "date": "Sat, 24 Oct 2026 18:00:00 -0500"
+    },
     {
       "title": "Fuel Oil Becomes Asia’s Next Cost Shock",
       "link": "https://oilprice.com/Energy/Crude-Oil/Fuel-Oil-Becomes-Asias-Next-Cost-Shock.html",
@@ -60,12 +66,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/Why-Trump-and-Carney-Havent-Touched-Energy-in-Their-Tariff-War.html",
       "source": "OilPrice",
       "date": "Fri, 23 Oct 2026 17:00:00 -0500"
-    },
-    {
-      "title": "NASA's Freeze-Resistant Moon Battery Could Eventually Reach EVs",
-      "link": "https://oilprice.com/Energy/Energy-General/NASAs-Freeze-Resistant-Moon-Battery-Could-Eventually-Reach-EVs.html",
-      "source": "OilPrice",
-      "date": "Fri, 23 Oct 2026 15:00:00 -0500"
     },
     {
       "title": "Moon River lifts Davidson value to $879M, tungsten output jumps",
