@@ -1,10 +1,40 @@
 {
-  "run_at_kst": "2026-10-26T14:10:09+09:00",
+  "run_at_kst": "2026-10-26T20:10:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "[엄태윤 칼럼] 동상이몽의 트럼프·시진핑... 무역전쟁, 장기전 돌입하나",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xOUpHTWZlWDFZVE5kZXlvY2Rmand5VHJWOXg5RUZEeWl1WTVPVUVNeWZSNHJvelFFLWFlMThCWmRfLWV0aWpYQjFvUmhzZENEWk1xVVJYeUdPd9IBWEFVX3lxTE5WS1NpZHNobXMydG1mMXlvOXJmNFVVV0xfQ3Jpa0M0MVdrMU9CSTRScXUyS290dUxmWEZPa0EwZS1vVUNtcnhOZzlQSUFKMHZjWGRtbDVJbW4?oc=5",
+      "source": "아주경제",
+      "date": "Mon, 26 Oct 2026 07:44:50 GMT"
+    },
+    {
+      "title": "'군사는 러시아·교역은 중국'···김정은, 단둥서 '안러경중' 다지기",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rYWJ3VTdiLUhyWDBJczBRaTl0emQ4M0N1NnlodzhyQ0tIOU1CWnZEdERMUXN1aTVRY1ZwR3RFZmxxbFhXR19DWkoyRDVibWNWQ1lfQkZWY3lHb1l5SXNKSEJ4YUt0LTRjc0Q4amJLZGo?oc=5",
+      "source": "인천투데이",
+      "date": "Mon, 26 Oct 2026 06:32:45 GMT"
+    },
+    {
+      "title": "중국 5중전회 ‘엄격한 당 관리’ 의제로…경제 정책 발표도 주목",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONGRlWnI3TFJfT0ExaTNnNTBvektQMWwyVmg1M0lJa0ljYWp0c1Zvbm1yMlM2dlZBamY1Z1FNd2Y2TUkyaXJFMUZDTm0xMFJTMm8zTjVPZzR0QWxwcm9qVDlGSmg0ZUpIRDRqU2xpcHJ5eFEzWEROLTBFajJEREc2dA?oc=5",
+      "source": "이데일리",
+      "date": "Mon, 26 Oct 2026 06:30:23 GMT"
+    },
+    {
+      "title": "대구상의, 중국 청두국제상회와 경제협력 업무협약 체결",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBT3c0dXNtSDBTQm9PbnBJUDRGTE5VTEhJaGZKLWdmcWpQNlBVamp6cXBBWUpiMnVyQkgwbzZNbmZZWGxPYW1iX19oRmM5M1NGZmdOSkIwcjB1dw?oc=5",
+      "source": "경북매일",
+      "date": "Mon, 26 Oct 2026 06:01:00 GMT"
+    },
+    {
+      "title": "[경제] 中 서비스업 경제 성장 핵심 동력 부상...2030년 약 2경원 규모 기대",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hWnpWVWtyS2ZJZGtCMmhodDhCcmJSNnl1X2lzM3VZV3o0UjlFMTFoTE5DWWpmQlJDVzB1Y1JUZmZsNi1yYUVlS0xISjNXRUNocnZBa2ZSS0djaWVLeE1oQVpyWV9GNTJrWVdLMkxmVDNuaVE?oc=5",
+      "source": "동방일보",
+      "date": "Mon, 26 Oct 2026 05:41:14 GMT"
+    },
     {
       "title": "[화요초대석-전병서] 반도체 돈벼락, 씨앗인가 독인가",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52d29aQTBGUURjQkZIWjNaTjczdmprdHVfVWN4TW1NUkRsMW96TThES0JFOGNDUFRDZUcxNjZFUUx1TDJiOXl0enV2YUFrNTVSVWE1VEJGZDNiZ1YtemRQczln?oc=5",
@@ -12,46 +42,16 @@
       "date": "Mon, 26 Oct 2026 03:23:18 GMT"
     },
     {
-      "title": "양평군, 중국 조장시와 경제·농업 등 교류 확대…협력 협정 체결",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93b2Zac0tVNGpEUDI3N05rR3JValBEdTYyN3RkMEhyRVdWMmlrV0VrQy1KeGFUYmpiOGxqLTJyN0lHSENyUHk5dWViRGJ2VkxtTERkQ0l3?oc=5",
-      "source": "뉴스1",
-      "date": "Mon, 26 Oct 2026 01:50:30 GMT"
-    },
-    {
       "title": "윤건영 “김정은 방중, ‘경제는 중국’ 기조... 美회담 가능성 닫힌 것 아냐”",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUExRN3ZYT1RNdEc0OUZjWnhMLVFTYTQzLXBNNHJEOFJwa1BhQW84dWgzSk9OVkt2ZXhjVTJ6VlF1Y0IxTmRFYmdkYU5mNUVhMmsybFFlZ19PZkYyVkEzVC0yUTA4QjJVVUFxbGV6UFkyYXI1VWx6eXp2OGJ2dzFyQzVJUkRoandtcHNXa2FUamQ?oc=5",
       "source": "조선일보",
-      "date": "Mon, 26 Oct 2026 01:15:00 GMT"
+      "date": "Mon, 26 Oct 2026 01:21:40 GMT"
     },
     {
-      "title": "중국이 판 깔아주는 북미회담? 전문가도 놀란 김정은의 시그널 [지금이뉴스]",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fS25KRnBCSmxOZU5iZ283aTZJb2NQQTUwemVSR3hXeXBjc25SYjlwdk03cjlmVUhQM0hzYlZOa1pvZ1BCTDFpY2pRZmFULVJkX05FOHhEODlmTXJyQlE?oc=5",
+      "title": "김정은, 새 압록강대교 건너 전격 방중...중국에 보낸 신호 [이슈톺]",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44LUJTc3RKV09ZS3pOZm9yYU4wOUZkdkV0bUFjTWI0ZjV3ajVUQjVTS292NHdZNy1sWGp0NklUVEwwNXFhaV95b0hfN1QzYWpmS1c5VGF2WHRYUzltRGc?oc=5",
       "source": "YTN",
-      "date": "Mon, 26 Oct 2026 01:04:00 GMT"
-    },
-    {
-      "title": "중국, 오늘 5중전회 개막…시진핑, 당내 통제 강화 주목",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ka29GWE5aNmpYRWpnV1o2TXRqTFNVVTBUQ05XU1IyQzZyNnRiUDByNlE2anlRUDcxSl9yaEtqSDVXdW91Vk9RYnNreGFzZnNzb1ZRUV9PYzkyQQ?oc=5",
-      "source": "한국경제",
-      "date": "Sun, 25 Oct 2026 22:27:19 GMT"
-    },
-    {
-      "title": "김정은, 신압록강대교로 단둥 당일치기‥경제 협력 물꼬 트이나",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DeWkzdFJFUG5yRFN1WlFPZ0NYSmxzNmp2OHV0cUNSTU01Zm44WmhlMi1EVFAzeVJtT1Z2dVZmN0V3NFNtQXVIdVpHX2tHNDVBNzJNcFNZNUlRNXRNLUg4Mkl1YlVEajNoTGtkTm12VWtDaDYxODIza9IBeEFVX3lxTE1vZlA4YXV6T0tuNE9fVndjZkpUdjcwTG9sVlFVbVAwMVl1eldUVE5HLWQtUHAwckl3c18yR1Q3S3BDUkNWWjZtRXFWbTMzbG8wc1lmU043UUtMTHJhRzJfclRQUk5taWVzLXBlTUVEeGJMeUVQenJjeg?oc=5",
-      "source": "MBC 뉴스",
-      "date": "Sun, 25 Oct 2026 11:10:23 GMT"
-    },
-    {
-      "title": "김정은, 방중서 '중국 경제 수장' 리창 만나…당일 귀국 전망",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WM3pJcWphSDVCQVpRb3liRzdvRVlHR2JFZ3FjZERoQ3VnSTBVMjZVZnI5a0xPUUdMU0JIck1aM3ZqbXdoN29xTktJRzRTeTdFcFIxc0l3?oc=5",
-      "source": "뉴스21 통신",
-      "date": "Sat, 24 Oct 2026 11:03:39 GMT"
-    },
-    {
-      "title": "北·中 경협 본격화?…’경제총괄’ 리창, 김정은 영접",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Wajc5ZlIxd0ZKQ1NxNjRaN0VqeGJsSUpVUkdINTR2bGhORjNUR1FQTHdveHktYUxxblBsaE1FdWlCclkybWFva2ZxTjQ0LS1aZkZhR0pRZUtJMnUtRlFoR1FXbXJMc0E?oc=5",
-      "source": "연합뉴스TV",
-      "date": "Sat, 24 Oct 2026 11:01:00 GMT"
+      "date": "Sun, 25 Oct 2026 23:20:00 GMT"
     },
     {
       "title": "\"김정은, 방중서 ‘중국 경제 수장’ 리창 만나…당일 귀국 전망\"",
