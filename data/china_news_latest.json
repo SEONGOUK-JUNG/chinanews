@@ -1,27 +1,27 @@
 {
-  "run_at_kst": "2026-10-26T20:10:04+09:00",
+  "run_at_kst": "2026-10-27T07:20:03+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "[엄태윤 칼럼] 동상이몽의 트럼프·시진핑... 무역전쟁, 장기전 돌입하나",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xOUpHTWZlWDFZVE5kZXlvY2Rmand5VHJWOXg5RUZEeWl1WTVPVUVNeWZSNHJvelFFLWFlMThCWmRfLWV0aWpYQjFvUmhzZENEWk1xVVJYeUdPd9IBWEFVX3lxTE5WS1NpZHNobXMydG1mMXlvOXJmNFVVV0xfQ3Jpa0M0MVdrMU9CSTRScXUyS290dUxmWEZPa0EwZS1vVUNtcnhOZzlQSUFKMHZjWGRtbDVJbW4?oc=5",
+      "title": "[박승찬 칼럼] 전면종엄치당 …黨을 수술대 올리는 중국의 속내",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZaTJTMUprX05nOUlCUDdCZWwzdUpHTG11OEJuOVBId1FzWmYwR0U2R0ZWLUhWY0NPbzJTZ1RORnhuTUxFZm5ZM1oxR0VsWDFYVWhkbjRUSnlZQdIBWEFVX3lxTE9xSzF2emJPZDF4SkZuTjFGOTR3clJNMkNZT3o0RTlSTzdnWk8xYU1zS24xQ2tQTkRXV21OSTI3QnJ4eGMyRlkxSldhWm1pY2J1VnhZcTkwMzg?oc=5",
       "source": "아주경제",
-      "date": "Mon, 26 Oct 2026 07:44:50 GMT"
+      "date": "Mon, 26 Oct 2026 21:00:00 GMT"
+    },
+    {
+      "title": "[매일 탑 리더스 아카데미] \"중국, 냉정하게 분석하고 이용해야\"",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MbTBGMzVHemI0NUVEZC05SUVVNDIxbmJjU25LX1ZibmdlLVF5d3B3VUFmYkdZRzUwRmlOMkdHQWhvUWtXc2xNMkNFcjZWWEZKa1l6bENBTF9wWUNhUHdWOW13?oc=5",
+      "source": "매일신문",
+      "date": "Mon, 26 Oct 2026 12:05:12 GMT"
     },
     {
       "title": "'군사는 러시아·교역은 중국'···김정은, 단둥서 '안러경중' 다지기",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rYWJ3VTdiLUhyWDBJczBRaTl0emQ4M0N1NnlodzhyQ0tIOU1CWnZEdERMUXN1aTVRY1ZwR3RFZmxxbFhXR19DWkoyRDVibWNWQ1lfQkZWY3lHb1l5SXNKSEJ4YUt0LTRjc0Q4amJLZGo?oc=5",
       "source": "인천투데이",
       "date": "Mon, 26 Oct 2026 06:32:45 GMT"
-    },
-    {
-      "title": "중국 5중전회 ‘엄격한 당 관리’ 의제로…경제 정책 발표도 주목",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONGRlWnI3TFJfT0ExaTNnNTBvektQMWwyVmg1M0lJa0ljYWp0c1Zvbm1yMlM2dlZBamY1Z1FNd2Y2TUkyaXJFMUZDTm0xMFJTMm8zTjVPZzR0QWxwcm9qVDlGSmg0ZUpIRDRqU2xpcHJ5eFEzWEROLTBFajJEREc2dA?oc=5",
-      "source": "이데일리",
-      "date": "Mon, 26 Oct 2026 06:30:23 GMT"
     },
     {
       "title": "대구상의, 중국 청두국제상회와 경제협력 업무협약 체결",
@@ -36,22 +36,16 @@
       "date": "Mon, 26 Oct 2026 05:41:14 GMT"
     },
     {
-      "title": "[화요초대석-전병서] 반도체 돈벼락, 씨앗인가 독인가",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52d29aQTBGUURjQkZIWjNaTjczdmprdHVfVWN4TW1NUkRsMW96TThES0JFOGNDUFRDZUcxNjZFUUx1TDJiOXl0enV2YUFrNTVSVWE1VEJGZDNiZ1YtemRQczln?oc=5",
-      "source": "매일신문",
-      "date": "Mon, 26 Oct 2026 03:23:18 GMT"
+      "title": "김정은, 방중서 '중국 경제 수장' 리창 만나…당일 귀국 전망",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBc3RDYWdfLUhoaXYwaDc4MXZzSHhkd3RCOHI5XzlGRktIUlNCcDFlTlFfR3hfZHVlYVlZbUw0T1R5U0pya3F2Tk9CNkhmRGhK?oc=5",
+      "source": "뉴스21 통신",
+      "date": "Sat, 24 Oct 2026 11:03:39 GMT"
     },
     {
-      "title": "윤건영 “김정은 방중, ‘경제는 중국’ 기조... 美회담 가능성 닫힌 것 아냐”",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUExRN3ZYT1RNdEc0OUZjWnhMLVFTYTQzLXBNNHJEOFJwa1BhQW84dWgzSk9OVkt2ZXhjVTJ6VlF1Y0IxTmRFYmdkYU5mNUVhMmsybFFlZ19PZkYyVkEzVC0yUTA4QjJVVUFxbGV6UFkyYXI1VWx6eXp2OGJ2dzFyQzVJUkRoandtcHNXa2FUamQ?oc=5",
-      "source": "조선일보",
-      "date": "Mon, 26 Oct 2026 01:21:40 GMT"
-    },
-    {
-      "title": "김정은, 새 압록강대교 건너 전격 방중...중국에 보낸 신호 [이슈톺]",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44LUJTc3RKV09ZS3pOZm9yYU4wOUZkdkV0bUFjTWI0ZjV3ajVUQjVTS292NHdZNy1sWGp0NklUVEwwNXFhaV95b0hfN1QzYWpmS1c5VGF2WHRYUzltRGc?oc=5",
-      "source": "YTN",
-      "date": "Sun, 25 Oct 2026 23:20:00 GMT"
+      "title": "北·中 경협 본격화?…’경제총괄’ 리창, 김정은 영접",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Wajc5ZlIxd0ZKQ1NxNjRaN0VqeGJsSUpVUkdINTR2bGhORjNUR1FQTHdveHktYUxxblBsaE1FdWlCclkybWFva2ZxTjQ0LS1aZkZhR0pRZUtJMnUtRlFoR1FXbXJMc0E?oc=5",
+      "source": "연합뉴스TV",
+      "date": "Sat, 24 Oct 2026 11:01:00 GMT"
     },
     {
       "title": "\"김정은, 방중서 ‘중국 경제 수장’ 리창 만나…당일 귀국 전망\"",
@@ -76,6 +70,12 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qMmhPc1dGc1hKeDhaallLQThkMTlfU1UzRm4tT1ZwSzBYdlh5cm82bk9hQ1RMeks3bUZmdElzOUhYYzRIZThyT2FTdWM5ZVFpZU5VNjYycGJIUERDXzVLYjZLNXJqemRUZm9N0gFvQVVfeXFMUGh6SGlTOENLX1Exak16NGs5REVPWGx3QUtDLVJGbnFlUXJVVVI2RVA2bGtqN2txZFh4VkxSblpDQmxnbm5UWld1MGNPUy05Rl8xWmZXV1dpNWs2ajJKaG45X2pIdVpTdzAwRFN1MXVJ?oc=5",
       "source": "서울일보",
       "date": "Wed, 21 Oct 2026 22:48:42 GMT"
+    },
+    {
+      "title": "中학자 \"중국 2035년까지 연 4.6% 성장…수출 주도 지속 불가능\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXTkRpSWw2YzE3RWpGa1BEbjBFN2o3U3B2bnBvd1FhVUJHY0V0Y1dENGNGeFRPejF6UVZiT3cyUkYwYlV2dnR6RG9ZQ1FIVEk2VENGbUtrbVc5Y03SAWBBVV95cUxOVHdTMXJOc0tIRzl0cWlpb1hIN0RGMjZXN0xFN1lwRGktLXNvVHI5R2gwZlQtSy1ReWpiNVY3T2lSTnJwXzY2MkxNTThSTVVIWC1WNHZJMXRYZ25GS0huRVQ?oc=5",
+      "source": "연합뉴스",
+      "date": "Wed, 30 Sep 2026 07:00:00 GMT"
     }
   ]
 }

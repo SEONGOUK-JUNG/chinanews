@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-26T20:10:04+09:00",
+  "run_at_kst": "2026-10-27T07:20:03+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
-      "title": "U.S. Army Says It Has Helped 1.5 Billion Barrels of Oil Out of Hormuz",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Army-Says-It-Has-Helped-15-Billion-Barrels-of-Oil-Out-of-Hormuz.html",
+      "title": "Alleged Russian Funding Prompts Executive Exodus at U.S. LNG Firm",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Alleged-Russian-Funding-Prompts-Executive-Exodus-at-US-LNG-Firm.html",
       "source": "OilPrice",
-      "date": "Mon, 26 Oct 2026 05:30:00 -0500"
+      "date": "Mon, 26 Oct 2026 17:00:00 -0500"
     },
     {
-      "title": "Europe's Natural Gas Prices Soar to Four-Year High as Winter Looms",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Natural-Gas-Prices-Soar-to-Four-Year-High-as-Winter-Looms.html",
-      "source": "OilPrice",
-      "date": "Mon, 26 Oct 2026 04:30:00 -0500"
-    },
-    {
-      "title": "India's Stock Market Feels the Heat From High Oil Prices",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Stock-Market-Feels-the-Heat-From-High-Oil-Prices.html",
-      "source": "OilPrice",
-      "date": "Mon, 26 Oct 2026 03:30:00 -0500"
-    },
-    {
-      "title": "Saudi Arabia Turns to Singapore for Oil Storage",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Turns-to-Singapore-for-Oil-Storage.html",
-      "source": "OilPrice",
-      "date": "Mon, 26 Oct 2026 02:15:00 -0500"
-    },
-    {
-      "title": "Oil Prices Dip but Hold Above $100 as Middle East Supply Threats Mount",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Dip-but-Hold-Above-100-as-Middle-East-Supply-Threats-Mount.html",
-      "source": "OilPrice",
-      "date": "Mon, 26 Oct 2026 01:03:45 -0500"
-    },
-    {
-      "title": "The Pentagon's Rare Earth Deadline Is Almost Here. Is Anyone Ready?",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Pentagons-Rare-Earth-Deadline-Is-Almost-Here-Is-Anyone-Ready.html",
-      "source": "OilPrice",
-      "date": "Sun, 25 Oct 2026 19:00:00 -0500"
-    },
-    {
-      "title": "Asia Is Building the World’s Next $15 Trillion Energy Market",
-      "link": "https://oilprice.com/Energy/Energy-General/Asia-Is-Building-the-Worlds-Next-15-Trillion-Energy-Market.html",
-      "source": "OilPrice",
-      "date": "Sun, 25 Oct 2026 18:00:00 -0500"
-    },
-    {
-      "title": "Oil Prices Rise Despite Middle East Export Recovery",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Rise-Despite-Middle-East-Export-Recovery.html",
-      "source": "OilPrice",
-      "date": "Sun, 25 Oct 2026 18:00:00 -0500"
-    },
-    {
-      "title": "China’s Argentina mining footprint smaller than it looks",
-      "link": "https://www.mining.com/chinas-argentina-mining-footprint-smaller-than-it-looks/",
+      "title": "British Columbia Conservative landslide raises mining hopes, Indigenous rights fears",
+      "link": "https://www.mining.com/bc-tory-landslide-raises-mining-hopes-rights-fears/",
       "source": "mining.com",
-      "date": "Sun, 25 Oct 2026 12:00:00 +0000"
+      "date": "Mon, 26 Oct 2026 21:35:00 +0000"
     },
     {
-      "title": "US Department of Energy names helium to critical materials list",
-      "link": "https://www.mining.com/us-department-of-energy-names-helium-to-critical-materials-list/",
-      "source": "mining.com",
-      "date": "Fri, 23 Oct 2026 22:50:19 +0000"
+      "title": "Asia Needs $1 Trillion a Year to Avoid the Next Energy Shock",
+      "link": "https://oilprice.com/Energy/Energy-General/Asia-Needs-1-Trillion-a-Year-to-Avoid-the-Next-Energy-Shock.html",
+      "source": "OilPrice",
+      "date": "Mon, 26 Oct 2026 16:00:00 -0500"
     },
     {
-      "title": "Bannerman pulls trigger on $353M uranium mine",
-      "link": "https://www.mining.com/bannerman-pulls-trigger-on-353m-uranium-mine/",
-      "source": "mining.com",
-      "date": "Fri, 23 Oct 2026 22:39:00 +0000"
+      "title": "Iran War Pushes Trump's Average Gasoline Prices Above Biden's",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Iran-War-Pushes-Trumps-Average-Gasoline-Prices-Above-Bidens.html",
+      "source": "OilPrice",
+      "date": "Mon, 26 Oct 2026 15:00:00 -0500"
     },
     {
-      "title": "Moon River lifts Davidson value to $879M, tungsten output jumps",
-      "link": "https://www.mining.com/moon-river-lifts-davidson-value-to-879m-tungsten-output-jumps/",
-      "source": "mining.com",
-      "date": "Fri, 23 Oct 2026 19:55:00 +0000"
+      "title": "Brussels Takes Aim at Chinese Imports as Europe's Industrial Crisis Deepens",
+      "link": "https://oilprice.com/Energy/Energy-General/Brussels-Takes-Aim-at-Chinese-Imports-as-Europes-Industrial-Crisis-Deepens.html",
+      "source": "OilPrice",
+      "date": "Mon, 26 Oct 2026 14:00:00 -0500"
     },
     {
-      "title": "Op-Ed: Nicaragua mining – the golden bridgehead threatening US national security",
-      "link": "https://www.mining.com/op-ed-nicaragua-mining-the-golden-bridgehead-threatening-us-national-security/",
-      "source": "mining.com",
-      "date": "Fri, 23 Oct 2026 19:09:48 +0000"
+      "title": "The Iran War Just Added $39 Billion to the World's LNG Bill",
+      "link": "https://oilprice.com/Energy/Natural-Gas/The-Iran-War-Just-Added-39-Billion-to-the-Worlds-LNG-Bill.html",
+      "source": "OilPrice",
+      "date": "Mon, 26 Oct 2026 13:00:00 -0500"
     },
     {
-      "title": "Newmont prices Red Chris expansion at up to $4.8B",
-      "link": "https://www.mining.com/newmont-prices-red-chris-expansion-at-up-to-4-8b/",
+      "title": "Egypt Votes to Defend Saudi Arabia, Risking Houthi Fire",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Egypt-Votes-to-Defend-Saudi-Arabia-Risking-Houthi-Fire.html",
+      "source": "OilPrice",
+      "date": "Mon, 26 Oct 2026 12:30:00 -0500"
+    },
+    {
+      "title": "Kazakhstan Faces $12 Billion Oil Setback as New Investment Plans Take Shape",
+      "link": "https://oilprice.com/Energy/Energy-General/Kazakhstan-Faces-12-Billion-Oil-Setback-as-New-Investment-Plans-Take-Shape.html",
+      "source": "OilPrice",
+      "date": "Mon, 26 Oct 2026 12:00:00 -0500"
+    },
+    {
+      "title": "Canada Nickel, Swiss Steel plan transatlantic partnership",
+      "link": "https://www.mining.com/canada-nickel-swiss-steel-plan-transatlantic-partnership/",
       "source": "mining.com",
-      "date": "Fri, 23 Oct 2026 17:15:00 +0000"
+      "date": "Mon, 26 Oct 2026 16:38:25 +0000"
+    },
+    {
+      "title": "EQT Bets on Record U.S. Gas Demand With $50 Billion Range Takeover",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/EQT-Bets-on-Record-US-Gas-Demand-With-50-Billion-Range-Takeover.html",
+      "source": "OilPrice",
+      "date": "Mon, 26 Oct 2026 11:30:00 -0500"
+    },
+    {
+      "title": "Local miner outbids Freeport for Colombia exploration",
+      "link": "https://www.mining.com/local-miner-outbids-freeport-for-colombia-exploration/",
+      "source": "mining.com",
+      "date": "Mon, 26 Oct 2026 15:21:20 +0000"
+    },
+    {
+      "title": "Codelco, BHP launch $40M copper hunt in northern Chile",
+      "link": "https://www.mining.com/codelco-bhp-launch-40m-copper-hunt-in-northern-chile/",
+      "source": "mining.com",
+      "date": "Mon, 26 Oct 2026 15:19:56 +0000"
+    },
+    {
+      "title": "Strike curbs output at Canada’s largest copper mine",
+      "link": "https://www.mining.com/strike-curbs-output-at-canadas-largest-copper-mine/",
+      "source": "mining.com",
+      "date": "Mon, 26 Oct 2026 14:53:12 +0000"
+    },
+    {
+      "title": "Lula’s Brazil win puts rare earths in Trump’s crosshairs",
+      "link": "https://www.mining.com/lulas-brazil-win-puts-rare-earths-in-trumps-crosshairs/",
+      "source": "mining.com",
+      "date": "Mon, 26 Oct 2026 12:08:00 +0000"
     }
   ]
 }
