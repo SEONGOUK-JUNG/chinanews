@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-26T07:20:04+09:00",
+  "run_at_kst": "2026-10-26T10:10:03+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,24 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "The Pentagon's Rare Earth Deadline Is Almost Here. Is Anyone Ready?",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Pentagons-Rare-Earth-Deadline-Is-Almost-Here-Is-Anyone-Ready.html",
+      "source": "OilPrice",
+      "date": "Sun, 25 Oct 2026 19:00:00 -0500"
+    },
+    {
+      "title": "Asia Is Building the World’s Next $15 Trillion Energy Market",
+      "link": "https://oilprice.com/Energy/Energy-General/Asia-Is-Building-the-Worlds-Next-15-Trillion-Energy-Market.html",
+      "source": "OilPrice",
+      "date": "Sun, 25 Oct 2026 18:00:00 -0500"
+    },
+    {
+      "title": "Oil Prices Rise Despite Middle East Export Recovery",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Rise-Despite-Middle-East-Export-Recovery.html",
+      "source": "OilPrice",
+      "date": "Sun, 25 Oct 2026 18:00:00 -0500"
+    },
     {
       "title": "Britain's Renewable Energy Boom Is Hitting a Grid Bottleneck",
       "link": "https://oilprice.com/Energy/Energy-General/Britains-Renewable-Energy-Boom-Is-Hitting-a-Grid-Bottleneck.html",
@@ -42,24 +60,6 @@
       "link": "https://oilprice.com/Energy/Crude-Oil/Fuel-Oil-Becomes-Asias-Next-Cost-Shock.html",
       "source": "OilPrice",
       "date": "Sat, 24 Oct 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Syria's Energy Comeback Could Reshape Middle East Oil and Gas",
-      "link": "https://oilprice.com/Energy/Energy-General/Syrias-Energy-Comeback-Could-Reshape-Middle-East-Oil-and-Gas.html",
-      "source": "OilPrice",
-      "date": "Sat, 24 Oct 2026 14:00:00 -0500"
-    },
-    {
-      "title": "Can Undersea Volcanoes Power Cities? A Seattle Startup Just Took the First Step",
-      "link": "https://oilprice.com/Energy/Energy-General/Can-Undersea-Volcanoes-Power-Cities-A-Seattle-Startup-Just-Took-the-First-Step.html",
-      "source": "OilPrice",
-      "date": "Sat, 24 Oct 2026 12:00:00 -0500"
-    },
-    {
-      "title": "Trump Targets $6.2 Billion Offshore Wind Project Nearing Completion",
-      "link": "https://oilprice.com/Alternative-Energy/Wind-Power/Trump-Targets-62-Billion-Offshore-Wind-Project-Nearing-Completion.html",
-      "source": "OilPrice",
-      "date": "Sat, 24 Oct 2026 10:00:00 -0500"
     },
     {
       "title": "US Department of Energy names helium to critical materials list",
