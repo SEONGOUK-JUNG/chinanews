@@ -1,10 +1,22 @@
 {
-  "run_at_kst": "2026-10-27T20:10:04+09:00",
+  "run_at_kst": "2026-10-28T07:20:03+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "“거창한 지원보다 공정 기회를”...의정부시 중국 경제교류단 기업 선정 공정성 논란",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xOVFjQnpHYVEzd25BaWMzV3ZRelVldGFnN3A1a2w0RXhxazVOakt4dXNPNG5lb29QNzJGb3dXYVk2ZGRpbE1mSVJXZko3MkdHMEhLWFQxd3VZWkJIYU9HVFFNUQ?oc=5",
+      "source": "쿠키뉴스",
+      "date": "Tue, 27 Oct 2026 18:17:17 GMT"
+    },
+    {
+      "title": "박현주 “미래에셋 M&A 추가 발표”…미국·중국 겨냥해 AI·로봇 확장",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nUl81U19aOVFJMW9BQkRoQzBRLTloenRYTndRS0RJb0JUVHFRRE1Ec3JmVkNUSk9WNjJfOU8xWjEwUWp0ZmhMNk5NcVN4bXBQcW5OUFRRTThyT2R2SVNJbVlJbUswYlhLcDAtcDdqVQ?oc=5",
+      "source": "진일보 | 전남일보",
+      "date": "Tue, 27 Oct 2026 17:30:00 GMT"
+    },
     {
       "title": "일본 게이단렌, 11월 중국 방문단 파견 연기...\"중국이 요청\"",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LQ0VDQ3JBQU5Zd3NPRVNoRTMtYzNUaDRjV1J2NDREeG5zQkN6Z2JMcGl3LUV4VVhUUF9ldlQ4X09wdEM0Ri1TZFJUZy1CNlFrOHFIVDVDZ24wWjJtV2c?oc=5",
@@ -12,14 +24,8 @@
       "date": "Tue, 27 Oct 2026 09:34:00 GMT"
     },
     {
-      "title": "[중국증시-마감] 경기 불확실성에 약세",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RWUhDNVdUUG1EbkRKRjBNUW1oSFJUcWpGd0VmNUprUzdwQXJRdklXVHN1bDFvTEt3R2dvVDBmWHpJS1FyNlJ0aE9YVUdlLXR6dnZEUFctM0lSdE90OU9KVWx0VWlvSHFPSWxOT1p1Qzc?oc=5",
-      "source": "연합인포맥스",
-      "date": "Tue, 27 Oct 2026 09:27:17 GMT"
-    },
-    {
       "title": "“중국에서 성공하면 세계에서도 통한다”…14개국 기업인들이 상하이서 본 것",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxUkh5S3pSTDdRazk5dnJGU2NtX3N4QTJkbDVXNEI4M0xJdUpNM0xDSThkbXJwQ0M3LVVLeWVOVmp4QWNMMklWZ1U5UDhzWkNkdFVsdzh0ZDZhdE9TNVd4LVEwN2xIZGFHWUE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Kelg3aG1TajE0eU1kclhZd1BOOXVPVEwzZFJwR0xiZVRGeXlpN3V0U3A0Y3RDWjhhSWJfZUtYMVdJS2d1ZzdrUGlGM0pLTGlfbmVUczZCR0dFdERZTl9jeGYxVmtPeEdCUmdV?oc=5",
       "source": "인민망",
       "date": "Tue, 27 Oct 2026 07:56:49 GMT"
     },
@@ -36,22 +42,10 @@
       "date": "Tue, 27 Oct 2026 05:10:01 GMT"
     },
     {
-      "title": "“거창한 지원보다 공정 기회를”...의정부시 중국 경제교류단 기업 선정 공정성 논란",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xOVFjQnpHYVEzd25BaWMzV3ZRelVldGFnN3A1a2w0RXhxazVOakt4dXNPNG5lb29QNzJGb3dXYVk2ZGRpbE1mSVJXZko3MkdHMEhLWFQxd3VZWkJIYU9HVFFNUQ?oc=5",
-      "source": "쿠키뉴스",
-      "date": "Tue, 27 Oct 2026 02:17:17 GMT"
-    },
-    {
       "title": "日 게이단렌, 내달 中방문단 파견 연기…\"중국이 요청\"",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nSWZJbVlUNEMyQUNfcTNwTHdRdFUxYUw2VDctdTBQd2lOVDVOcHRVbGlNbnpLc3ktaGd5d3FVSGp0cTFOSzJjTWlTWGZZOXhmUlJSYnZVdUpnaGfSAWBBVV95cUxOblpZR0xqRTZoQXN3bzRtU0tsR1ljcV9VeVo0Vkg4Y3JyNE44SzRtcHV5Y3c1eTVabnFRdXktZDZ4Y29WNk5WcThsaEhnRG12YVVEbnNSTjFIVEpvOGs3ek4?oc=5",
       "source": "연합뉴스",
       "date": "Tue, 27 Oct 2026 01:49:36 GMT"
-    },
-    {
-      "title": "中 서비스업 경제 성장 핵심 동력 부상...2030년 약 2경원 규모 기대-Xinhua",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nczgtcnpnQ0hUaWVrd0VEdVA2UG8wZDhCWHA4NUtneWtkWUthN1AxdG51VWt5OHYwWlUzU0pMREM2UFYwYnpfTjhZd1k3U0lSbEJmQUhSdjFFbmF2N1MzSW9tYzI0aGQ1c2daQ3J2elY0S2MwTUVjOWJ2YlE?oc=5",
-      "source": "신화망",
-      "date": "Mon, 26 Oct 2026 23:57:44 GMT"
     },
     {
       "title": "2026년 1~3분기 중국 경제동향...내수ㆍ수출 불균형 속 완만한 개선",
@@ -76,6 +70,12 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
       "source": ":: 위즈경제 ::",
       "date": "Fri, 23 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "중국 경제 기적, 한계에 봉착 : 미제스 연구소",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oWDJVN201V0t2cG9COHZudFktTXhRbVlFUGdsNFhndkVZNE1Nd0NUQk1mVEZXVzNvOEwyRmhUWC1jbGtyS1gzenpHczE4bVAwWi1LdFk3UkZpQzdmWEZrazhoVVRBTXJUTmp3VFBn?oc=5",
+      "source": "뉴스타운",
+      "date": "Thu, 15 Oct 2026 07:00:00 GMT"
     }
   ]
 }
