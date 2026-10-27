@@ -1,21 +1,45 @@
 {
-  "run_at_kst": "2026-10-27T14:10:04+09:00",
+  "run_at_kst": "2026-10-27T20:10:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "日게이단렌, 中요청에 11월 中방문단 파견 연기",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiQjBtQnpqbi16bmZVSnRLVGNGQ3pVTkhWeDlUV0d3NGlrZUh5T1U1ejFsa1ZRZkhDTzBxLVY5QmtfQ19hbzQ4S0NEaUJrbnpfb0N3YWVfMExrSHhpbTFvSdIBeEFVX3lxTE0xS3l0ZzdfV0RYVDR6SUtjdUFoUWJzM2Rha3g4NmdKTlROU3pfa0tJTVB6WjhCaG1ISlVETUJDY3ZlS0dNTjdiek0tcnNLNmtDc1d0dFBxVUxjVlZwN2RvekZEQ1pqM2FiLXVnQm9vdk4taUNxaFk1Sw?oc=5",
-      "source": "뉴시스",
-      "date": "Tue, 27 Oct 2026 04:19:52 GMT"
+      "title": "일본 게이단렌, 11월 중국 방문단 파견 연기...\"중국이 요청\"",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LQ0VDQ3JBQU5Zd3NPRVNoRTMtYzNUaDRjV1J2NDREeG5zQkN6Z2JMcGl3LUV4VVhUUF9ldlQ4X09wdEM0Ri1TZFJUZy1CNlFrOHFIVDVDZ24wWjJtV2c?oc=5",
+      "source": "YTN",
+      "date": "Tue, 27 Oct 2026 09:34:00 GMT"
     },
     {
-      "title": "AI가 살린 중국 제조업…9월 공업이익 3개월 만에 최대 증가",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pOGNoTlllVWk2VTBhQ3NnTjN0S25kVG96SEktMDRIUi1JQnY2VXp2dzJjdVp3TXMtVWR3QU5VUk1fZ2FxM20tU3NKaHZyUFFWZEdENjdEbnVod1o1V2lJNGY0b2d1RUtmT0xuUl96UlJsOU3SAXdBVV95cUxQQS10SG9wRTQ3YjI1WnBsQ05IWlk4VC11OEJXSlBqeEVVR1plN1F1U1ZIVjV6RDJqcDFKRXJmQ3VMNzlmTGxTWHZYN05iR2JGcUszX2t4SVZpdlBsb0FJbUNab0FSVDNkbEQ4Q0pkcDd1MVZMdWFSMA?oc=5",
-      "source": "핀포인트뉴스",
-      "date": "Tue, 27 Oct 2026 03:49:55 GMT"
+      "title": "[중국증시-마감] 경기 불확실성에 약세",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RWUhDNVdUUG1EbkRKRjBNUW1oSFJUcWpGd0VmNUprUzdwQXJRdklXVHN1bDFvTEt3R2dvVDBmWHpJS1FyNlJ0aE9YVUdlLXR6dnZEUFctM0lSdE90OU9KVWx0VWlvSHFPSWxOT1p1Qzc?oc=5",
+      "source": "연합인포맥스",
+      "date": "Tue, 27 Oct 2026 09:27:17 GMT"
+    },
+    {
+      "title": "“중국에서 성공하면 세계에서도 통한다”…14개국 기업인들이 상하이서 본 것",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxUkh5S3pSTDdRazk5dnJGU2NtX3N4QTJkbDVXNEI4M0xJdUpNM0xDSThkbXJwQ0M3LVVLeWVOVmp4QWNMMklWZ1U5UDhzWkNkdFVsdzh0ZDZhdE9TNVd4LVEwN2xIZGFHWUE?oc=5",
+      "source": "인민망",
+      "date": "Tue, 27 Oct 2026 07:56:49 GMT"
+    },
+    {
+      "title": "대구상의, 중국 청두국제상회 경제협력 MOU 체결",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPZnQ1R0VfSUtyMkdzMWU3eTEtUU5MdkNDZkF1R1hyQURyOW5JWXhRUEZfYjdXd3JydU05VE9ScEpWMHY1ck1vOGlwX3B1QVRfS1gyZnhZNFBvMF9KcUswV2JyVkNUOEFVNkZV?oc=5",
+      "source": "대구신문",
+      "date": "Tue, 27 Oct 2026 06:53:34 GMT"
+    },
+    {
+      "title": "AI 붐 탄 중국 9월 공업이익 3개월 만에 최고… 전년比 14.4%↑",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JNU9EX0VRY01ZblJyN0k0Q1pwdmdtRkpnbF9WSWJhT3R1eW5nVFJCcWF6dHQ1Z3I3YW1zZzhGRzN1QnNaUWVLYkU3T2NOemZPVHg2UHp1akpwQdIBWEFVX3lxTE1mR0N3eml3M1QtZ2tSaG9CdjRpWExrSkQwRzZxRTBzampvbFE1dDA5RWZJR1kwR3U4VHJhdjdzYXNFeVlaVWZzZ2NEdzlmRkIyOUNEaWtZS1Q?oc=5",
+      "source": "아주경제",
+      "date": "Tue, 27 Oct 2026 05:10:01 GMT"
+    },
+    {
+      "title": "“거창한 지원보다 공정 기회를”...의정부시 중국 경제교류단 기업 선정 공정성 논란",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xOVFjQnpHYVEzd25BaWMzV3ZRelVldGFnN3A1a2w0RXhxazVOakt4dXNPNG5lb29QNzJGb3dXYVk2ZGRpbE1mSVJXZko3MkdHMEhLWFQxd3VZWkJIYU9HVFFNUQ?oc=5",
+      "source": "쿠키뉴스",
+      "date": "Tue, 27 Oct 2026 02:17:17 GMT"
     },
     {
       "title": "日 게이단렌, 내달 中방문단 파견 연기…\"중국이 요청\"",
@@ -24,16 +48,10 @@
       "date": "Tue, 27 Oct 2026 01:49:36 GMT"
     },
     {
-      "title": "로봇이 청년 일자리 빼앗고 있다? 필요한 인재 확보 어려워",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IN0k1Q3ZFaURYa0x3VlFrSnNrTjdKQzdfOFhGaEtUcS1WaXZjaGo1RFJHZ2hHN2E0Ty1kM3VaYk5sc1FJM2w1b0xXRGdPRWYtSmIxNUc1cUs0aVY1cUltWjhsRmtfVEIzUWk0?oc=5",
-      "source": "프레시안",
-      "date": "Tue, 27 Oct 2026 01:06:59 GMT"
-    },
-    {
       "title": "中 서비스업 경제 성장 핵심 동력 부상...2030년 약 2경원 규모 기대-Xinhua",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UU1BvcEozeGxpVTktMm9LNTQ5ODhjNzNuSkl1MlY0Q2ZtYmVQYWx3NVRJWG16dWtDaTF0bVYtaWNEN2FGclU4cGNzUFNxM2tISFhqSmZnVzJOeDc5M3dRTXl0YXRoa1pfUi1UTDFNOE9LckVr?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nczgtcnpnQ0hUaWVrd0VEdVA2UG8wZDhCWHA4NUtneWtkWUthN1AxdG51VWt5OHYwWlUzU0pMREM2UFYwYnpfTjhZd1k3U0lSbEJmQUhSdjFFbmF2N1MzSW9tYzI0aGQ1c2daQ3J2elY0S2MwTUVjOWJ2YlE?oc=5",
       "source": "신화망",
-      "date": "Tue, 27 Oct 2026 00:57:44 GMT"
+      "date": "Mon, 26 Oct 2026 23:57:44 GMT"
     },
     {
       "title": "2026년 1~3분기 중국 경제동향...내수ㆍ수출 불균형 속 완만한 개선",
@@ -42,40 +60,22 @@
       "date": "Mon, 26 Oct 2026 22:37:27 GMT"
     },
     {
-      "title": "[매일 탑 리더스 아카데미] \"중국, 냉정하게 분석하고 이용해야\"",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MbTBGMzVHemI0NUVEZC05SUVVNDIxbmJjU25LX1ZibmdlLVF5d3B3VUFmYkdZRzUwRmlOMkdHQWhvUWtXc2xNMkNFcjZWWEZKa1l6bENBTF9wWUNhUHdWOW13?oc=5",
-      "source": "매일신문",
-      "date": "Mon, 26 Oct 2026 12:05:12 GMT"
+      "title": "윤건영 “김정은 방중, ‘경제는 중국’ 기조... 美회담 가능성 닫힌 것 아냐”",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUExRN3ZYT1RNdEc0OUZjWnhMLVFTYTQzLXBNNHJEOFJwa1BhQW84dWgzSk9OVkt2ZXhjVTJ6VlF1Y0IxTmRFYmdkYU5mNUVhMmsybFFlZ19PZkYyVkEzVC0yUTA4QjJVVUFxbGV6UFkyYXI1VWx6eXp2OGJ2dzFyQzVJUkRoandtcHNXa2FUamQ?oc=5",
+      "source": "조선일보",
+      "date": "Mon, 26 Oct 2026 01:21:40 GMT"
     },
     {
-      "title": "김정은, 방중서 '중국 경제 수장' 리창 만나…당일 귀국 전망",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WM3pJcWphSDVCQVpRb3liRzdvRVlHR2JFZ3FjZERoQ3VnSTBVMjZVZnI5a0xPUUdMU0JIck1aM3ZqbXdoN29xTktJRzRTeTdFcFIxc0l3?oc=5",
-      "source": "뉴스21 통신",
-      "date": "Sat, 24 Oct 2026 11:03:39 GMT"
-    },
-    {
-      "title": "北·中 경협 본격화?…’경제총괄’ 리창, 김정은 영접",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Wajc5ZlIxd0ZKQ1NxNjRaN0VqeGJsSUpVUkdINTR2bGhORjNUR1FQTHdveHktYUxxblBsaE1FdWlCclkybWFva2ZxTjQ0LS1aZkZhR0pRZUtJMnUtRlFoR1FXbXJMc0E?oc=5",
-      "source": "연합뉴스TV",
-      "date": "Sat, 24 Oct 2026 11:01:00 GMT"
-    },
-    {
-      "title": "김정은 전격 방중…중국 경제 수장 리창 국무원 총리 만나",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LSWppaGpaNnh2cjFpbGhqSWduY0I5eTVyWEVDN0ViNjNIckZHVEFIb1M5d1hOaDZiS01sVFNpZXN6dDFxYlhYeUR6ZzJtZnFpVnNndEk2Y1plb2xzY1E?oc=5",
-      "source": "주간경향",
-      "date": "Sat, 24 Oct 2026 06:20:00 GMT"
+      "title": "김정은, 중국 서열 4위 왕후닝과 회담…“경제 협력 강화”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10ZkFWcjROT0ppMVFDNlpWMnEwN0RGQ19UUTZOQWRIX2ZzUG81ckw3aFgtT3dSN08zc2dLaEUwVUpjTnVvckE3QlltY3lYQmowNkRvNk9ib1Z2RmM?oc=5",
+      "source": "KBS 뉴스",
+      "date": "Sat, 24 Oct 2026 22:01:00 GMT"
     },
     {
       "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
       "source": ":: 위즈경제 ::",
       "date": "Fri, 23 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "중국 경제 기적, 한계에 봉착 : 미제스 연구소",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oWDJVN201V0t2cG9COHZudFktTXhRbVlFUGdsNFhndkVZNE1Nd0NUQk1mVEZXVzNvOEwyRmhUWC1jbGtyS1gzenpHczE4bVAwWi1LdFk3UkZpQzdmWEZrazhoVVRBTXJUTmp3VFBn?oc=5",
-      "source": "뉴스타운",
-      "date": "Thu, 15 Oct 2026 07:00:00 GMT"
     }
   ]
 }

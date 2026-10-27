@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-27T14:10:04+09:00",
+  "run_at_kst": "2026-10-27T20:10:04+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "India Rejects Claims of U.S. Pressure Over Russian Oil Purchases",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Rejects-Claims-of-US-Pressure-Over-Russian-Oil-Purchases.html",
+      "source": "OilPrice",
+      "date": "Tue, 27 Oct 2026 05:30:00 -0500"
+    },
+    {
+      "title": "Trump Moves to Ease Methane Regulations for U.S. Oil Producers",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Moves-to-Ease-Methane-Regulations-for-US-Oil-Producers.html",
+      "source": "OilPrice",
+      "date": "Tue, 27 Oct 2026 04:35:00 -0500"
+    },
+    {
+      "title": "IEA Warns of Dangerous Concentration in Global Clean Energy Supply Chains",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Warns-of-Dangerous-Concentration-in-Global-Clean-Energy-Supply-Chains.html",
+      "source": "OilPrice",
+      "date": "Tue, 27 Oct 2026 03:30:00 -0500"
+    },
+    {
+      "title": "India’s Oil Buyers Squeezed by $123 Crude and Weak Rupee",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Oil-Buyers-Squeezed-by-123-Crude-and-Weak-Rupee.html",
+      "source": "OilPrice",
+      "date": "Tue, 27 Oct 2026 02:30:00 -0500"
+    },
+    {
+      "title": "Oil Prices Drop Despite Threat of New U.S. Strikes on Iran",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Drop-Despite-Threat-of-New-US-Strikes-on-Iran.html",
+      "source": "OilPrice",
+      "date": "Tue, 27 Oct 2026 01:15:57 -0500"
+    },
     {
       "title": "UK Weighs Scrapping Its Largest Untapped Oilfield With Oil Over $100",
       "link": "https://oilprice.com/Energy/Crude-Oil/UK-Weighs-Scrapping-Its-Largest-Untapped-Oilfield-With-Oil-Over-100.html",
@@ -36,36 +66,6 @@
       "link": "https://www.mining.com/bc-tory-landslide-raises-mining-hopes-rights-fears/",
       "source": "mining.com",
       "date": "Mon, 26 Oct 2026 21:35:00 +0000"
-    },
-    {
-      "title": "Asia Needs $1 Trillion a Year to Avoid the Next Energy Shock",
-      "link": "https://oilprice.com/Energy/Energy-General/Asia-Needs-1-Trillion-a-Year-to-Avoid-the-Next-Energy-Shock.html",
-      "source": "OilPrice",
-      "date": "Mon, 26 Oct 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Iran War Pushes Trump's Average Gasoline Prices Above Biden's",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Iran-War-Pushes-Trumps-Average-Gasoline-Prices-Above-Bidens.html",
-      "source": "OilPrice",
-      "date": "Mon, 26 Oct 2026 15:00:00 -0500"
-    },
-    {
-      "title": "Brussels Takes Aim at Chinese Imports as Europe's Industrial Crisis Deepens",
-      "link": "https://oilprice.com/Energy/Energy-General/Brussels-Takes-Aim-at-Chinese-Imports-as-Europes-Industrial-Crisis-Deepens.html",
-      "source": "OilPrice",
-      "date": "Mon, 26 Oct 2026 14:00:00 -0500"
-    },
-    {
-      "title": "The Iran War Just Added $39 Billion to the World's LNG Bill",
-      "link": "https://oilprice.com/Energy/Natural-Gas/The-Iran-War-Just-Added-39-Billion-to-the-Worlds-LNG-Bill.html",
-      "source": "OilPrice",
-      "date": "Mon, 26 Oct 2026 13:00:00 -0500"
-    },
-    {
-      "title": "Egypt Votes to Defend Saudi Arabia, Risking Houthi Fire",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Egypt-Votes-to-Defend-Saudi-Arabia-Risking-Houthi-Fire.html",
-      "source": "OilPrice",
-      "date": "Mon, 26 Oct 2026 12:30:00 -0500"
     },
     {
       "title": "Canada Nickel, Swiss Steel plan transatlantic partnership",
