@@ -1,15 +1,45 @@
 {
-  "run_at_kst": "2026-10-27T07:20:03+09:00",
+  "run_at_kst": "2026-10-27T14:10:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "[박승찬 칼럼] 전면종엄치당 …黨을 수술대 올리는 중국의 속내",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZaTJTMUprX05nOUlCUDdCZWwzdUpHTG11OEJuOVBId1FzWmYwR0U2R0ZWLUhWY0NPbzJTZ1RORnhuTUxFZm5ZM1oxR0VsWDFYVWhkbjRUSnlZQdIBWEFVX3lxTE9xSzF2emJPZDF4SkZuTjFGOTR3clJNMkNZT3o0RTlSTzdnWk8xYU1zS24xQ2tQTkRXV21OSTI3QnJ4eGMyRlkxSldhWm1pY2J1VnhZcTkwMzg?oc=5",
-      "source": "아주경제",
-      "date": "Mon, 26 Oct 2026 21:00:00 GMT"
+      "title": "日게이단렌, 中요청에 11월 中방문단 파견 연기",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiQjBtQnpqbi16bmZVSnRLVGNGQ3pVTkhWeDlUV0d3NGlrZUh5T1U1ejFsa1ZRZkhDTzBxLVY5QmtfQ19hbzQ4S0NEaUJrbnpfb0N3YWVfMExrSHhpbTFvSdIBeEFVX3lxTE0xS3l0ZzdfV0RYVDR6SUtjdUFoUWJzM2Rha3g4NmdKTlROU3pfa0tJTVB6WjhCaG1ISlVETUJDY3ZlS0dNTjdiek0tcnNLNmtDc1d0dFBxVUxjVlZwN2RvekZEQ1pqM2FiLXVnQm9vdk4taUNxaFk1Sw?oc=5",
+      "source": "뉴시스",
+      "date": "Tue, 27 Oct 2026 04:19:52 GMT"
+    },
+    {
+      "title": "AI가 살린 중국 제조업…9월 공업이익 3개월 만에 최대 증가",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pOGNoTlllVWk2VTBhQ3NnTjN0S25kVG96SEktMDRIUi1JQnY2VXp2dzJjdVp3TXMtVWR3QU5VUk1fZ2FxM20tU3NKaHZyUFFWZEdENjdEbnVod1o1V2lJNGY0b2d1RUtmT0xuUl96UlJsOU3SAXdBVV95cUxQQS10SG9wRTQ3YjI1WnBsQ05IWlk4VC11OEJXSlBqeEVVR1plN1F1U1ZIVjV6RDJqcDFKRXJmQ3VMNzlmTGxTWHZYN05iR2JGcUszX2t4SVZpdlBsb0FJbUNab0FSVDNkbEQ4Q0pkcDd1MVZMdWFSMA?oc=5",
+      "source": "핀포인트뉴스",
+      "date": "Tue, 27 Oct 2026 03:49:55 GMT"
+    },
+    {
+      "title": "日 게이단렌, 내달 中방문단 파견 연기…\"중국이 요청\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nSWZJbVlUNEMyQUNfcTNwTHdRdFUxYUw2VDctdTBQd2lOVDVOcHRVbGlNbnpLc3ktaGd5d3FVSGp0cTFOSzJjTWlTWGZZOXhmUlJSYnZVdUpnaGfSAWBBVV95cUxOblpZR0xqRTZoQXN3bzRtU0tsR1ljcV9VeVo0Vkg4Y3JyNE44SzRtcHV5Y3c1eTVabnFRdXktZDZ4Y29WNk5WcThsaEhnRG12YVVEbnNSTjFIVEpvOGs3ek4?oc=5",
+      "source": "연합뉴스",
+      "date": "Tue, 27 Oct 2026 01:49:36 GMT"
+    },
+    {
+      "title": "로봇이 청년 일자리 빼앗고 있다? 필요한 인재 확보 어려워",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IN0k1Q3ZFaURYa0x3VlFrSnNrTjdKQzdfOFhGaEtUcS1WaXZjaGo1RFJHZ2hHN2E0Ty1kM3VaYk5sc1FJM2w1b0xXRGdPRWYtSmIxNUc1cUs0aVY1cUltWjhsRmtfVEIzUWk0?oc=5",
+      "source": "프레시안",
+      "date": "Tue, 27 Oct 2026 01:06:59 GMT"
+    },
+    {
+      "title": "中 서비스업 경제 성장 핵심 동력 부상...2030년 약 2경원 규모 기대-Xinhua",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UU1BvcEozeGxpVTktMm9LNTQ5ODhjNzNuSkl1MlY0Q2ZtYmVQYWx3NVRJWG16dWtDaTF0bVYtaWNEN2FGclU4cGNzUFNxM2tISFhqSmZnVzJOeDc5M3dRTXl0YXRoa1pfUi1UTDFNOE9LckVr?oc=5",
+      "source": "신화망",
+      "date": "Tue, 27 Oct 2026 00:57:44 GMT"
+    },
+    {
+      "title": "2026년 1~3분기 중국 경제동향...내수ㆍ수출 불균형 속 완만한 개선",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kaDNidmY3ejRIU3NmUkowS3FGRXlGOVpNc2RsRGRnamRsdEo0Z1plTFRjSUdMR2hQak5PTFR3cUdadmxJTktjdmEzdnpTOS1WeTlHWnJycm1ReTBXSDAycWFyQWVVbExoa3VMX0FMTnJLWE0?oc=5",
+      "source": "쉬핑뉴스넷",
+      "date": "Mon, 26 Oct 2026 22:37:27 GMT"
     },
     {
       "title": "[매일 탑 리더스 아카데미] \"중국, 냉정하게 분석하고 이용해야\"",
@@ -18,26 +48,8 @@
       "date": "Mon, 26 Oct 2026 12:05:12 GMT"
     },
     {
-      "title": "'군사는 러시아·교역은 중국'···김정은, 단둥서 '안러경중' 다지기",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rYWJ3VTdiLUhyWDBJczBRaTl0emQ4M0N1NnlodzhyQ0tIOU1CWnZEdERMUXN1aTVRY1ZwR3RFZmxxbFhXR19DWkoyRDVibWNWQ1lfQkZWY3lHb1l5SXNKSEJ4YUt0LTRjc0Q4amJLZGo?oc=5",
-      "source": "인천투데이",
-      "date": "Mon, 26 Oct 2026 06:32:45 GMT"
-    },
-    {
-      "title": "대구상의, 중국 청두국제상회와 경제협력 업무협약 체결",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBT3c0dXNtSDBTQm9PbnBJUDRGTE5VTEhJaGZKLWdmcWpQNlBVamp6cXBBWUpiMnVyQkgwbzZNbmZZWGxPYW1iX19oRmM5M1NGZmdOSkIwcjB1dw?oc=5",
-      "source": "경북매일",
-      "date": "Mon, 26 Oct 2026 06:01:00 GMT"
-    },
-    {
-      "title": "[경제] 中 서비스업 경제 성장 핵심 동력 부상...2030년 약 2경원 규모 기대",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hWnpWVWtyS2ZJZGtCMmhodDhCcmJSNnl1X2lzM3VZV3o0UjlFMTFoTE5DWWpmQlJDVzB1Y1JUZmZsNi1yYUVlS0xISjNXRUNocnZBa2ZSS0djaWVLeE1oQVpyWV9GNTJrWVdLMkxmVDNuaVE?oc=5",
-      "source": "동방일보",
-      "date": "Mon, 26 Oct 2026 05:41:14 GMT"
-    },
-    {
       "title": "김정은, 방중서 '중국 경제 수장' 리창 만나…당일 귀국 전망",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBc3RDYWdfLUhoaXYwaDc4MXZzSHhkd3RCOHI5XzlGRktIUlNCcDFlTlFfR3hfZHVlYVlZbUw0T1R5U0pya3F2Tk9CNkhmRGhK?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WM3pJcWphSDVCQVpRb3liRzdvRVlHR2JFZ3FjZERoQ3VnSTBVMjZVZnI5a0xPUUdMU0JIck1aM3ZqbXdoN29xTktJRzRTeTdFcFIxc0l3?oc=5",
       "source": "뉴스21 통신",
       "date": "Sat, 24 Oct 2026 11:03:39 GMT"
     },
@@ -46,12 +58,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Wajc5ZlIxd0ZKQ1NxNjRaN0VqeGJsSUpVUkdINTR2bGhORjNUR1FQTHdveHktYUxxblBsaE1FdWlCclkybWFva2ZxTjQ0LS1aZkZhR0pRZUtJMnUtRlFoR1FXbXJMc0E?oc=5",
       "source": "연합뉴스TV",
       "date": "Sat, 24 Oct 2026 11:01:00 GMT"
-    },
-    {
-      "title": "\"김정은, 방중서 ‘중국 경제 수장’ 리창 만나…당일 귀국 전망\"",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQY2F0Rk95X2thaFpTOXJ4OW11bnN3aF9BanNlbjREcVl2UXJVejk0S1E4US05Wlk1VTR0cy1wR3pDVUVyalZBZFA0VkQ5andJVE0zZw?oc=5",
-      "source": "JTBC",
-      "date": "Sat, 24 Oct 2026 09:06:00 GMT"
     },
     {
       "title": "김정은 전격 방중…중국 경제 수장 리창 국무원 총리 만나",
@@ -66,16 +72,10 @@
       "date": "Fri, 23 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "﻿중국 경제 1∼9월 4.6% 성장…한국 수출시장에 어떤 신호인가",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qMmhPc1dGc1hKeDhaallLQThkMTlfU1UzRm4tT1ZwSzBYdlh5cm82bk9hQ1RMeks3bUZmdElzOUhYYzRIZThyT2FTdWM5ZVFpZU5VNjYycGJIUERDXzVLYjZLNXJqemRUZm9N0gFvQVVfeXFMUGh6SGlTOENLX1Exak16NGs5REVPWGx3QUtDLVJGbnFlUXJVVVI2RVA2bGtqN2txZFh4VkxSblpDQmxnbm5UWld1MGNPUy05Rl8xWmZXV1dpNWs2ajJKaG45X2pIdVpTdzAwRFN1MXVJ?oc=5",
-      "source": "서울일보",
-      "date": "Wed, 21 Oct 2026 22:48:42 GMT"
-    },
-    {
-      "title": "中학자 \"중국 2035년까지 연 4.6% 성장…수출 주도 지속 불가능\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXTkRpSWw2YzE3RWpGa1BEbjBFN2o3U3B2bnBvd1FhVUJHY0V0Y1dENGNGeFRPejF6UVZiT3cyUkYwYlV2dnR6RG9ZQ1FIVEk2VENGbUtrbVc5Y03SAWBBVV95cUxOVHdTMXJOc0tIRzl0cWlpb1hIN0RGMjZXN0xFN1lwRGktLXNvVHI5R2gwZlQtSy1ReWpiNVY3T2lSTnJwXzY2MkxNTThSTVVIWC1WNHZJMXRYZ25GS0huRVQ?oc=5",
-      "source": "연합뉴스",
-      "date": "Wed, 30 Sep 2026 07:00:00 GMT"
+      "title": "중국 경제 기적, 한계에 봉착 : 미제스 연구소",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oWDJVN201V0t2cG9COHZudFktTXhRbVlFUGdsNFhndkVZNE1Nd0NUQk1mVEZXVzNvOEwyRmhUWC1jbGtyS1gzenpHczE4bVAwWi1LdFk3UkZpQzdmWEZrazhoVVRBTXJUTmp3VFBn?oc=5",
+      "source": "뉴스타운",
+      "date": "Thu, 15 Oct 2026 07:00:00 GMT"
     }
   ]
 }
