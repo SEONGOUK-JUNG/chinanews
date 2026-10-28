@@ -1,21 +1,39 @@
 {
-  "run_at_kst": "2026-10-28T10:10:03+09:00",
+  "run_at_kst": "2026-10-28T14:10:03+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "중국 경제, ‘트럼프 관세 뛰어넘어’ 미국 앞질러",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4NWtuSUNiNTlnZnVxNmlDbmhQeFZLMGMzdXd3bWpDVE1WTVAta09CU3RCSkVBWk1ad25PS0FJd2txR043ZjBXXzFnb2xycFZUaXZLb3hvbHU1NDdvWVJTMmt5N0hDbEVzeGRObFRR?oc=5",
-      "source": "뉴스타운",
-      "date": "Wed, 28 Oct 2026 00:05:00 GMT"
+      "title": "제주 농촌융복합산업 인증 제품, 중국 상하이 시장 ‘공략’",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNTk5HZlg3NXROclRkeTl0bFEzZmlKclNDYWtzelU1OTdfM2xlNGZsZHAyelFlVHhPZDQtMmpWMl9MNjZPNEpXRktxd2d0UW1MTVU5R0ZPZXNMRzdzMG1sbndaUVA2LURnNVpv?oc=5",
+      "source": "제주의소리",
+      "date": "Wed, 28 Oct 2026 04:02:53 GMT"
+    },
+    {
+      "title": "주식은 국가가 사고, 시진핑은 4연임 다지고…中증시 11주 연속 하락",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KWmExUVRLbUlWV2FadkdsNkNxZ2N5UVRKNDlITzVDUFdYXzRoT2ZOMVlkcTZ5TjdqeERsNmk2Sm51bzZHSVJXYlMzQm5NcE90UnFEc09pcHUzTnJlMTZ2SNIBeEFVX3lxTFBNYWIwMkMySGJDVk95b2lGWTFvR2c0Z25Pck1YT3RxNUFmdHJyeWM2R3RpZTZEOW15dEpqbldBLTM4ZlhBSk10MXBaU3BMNENKVVB3dDJRMFlxSG1lVlZ1T2s0YnFBZkZWVXhHV2lWQ0UzM3hIZGtyTg?oc=5",
+      "source": "뉴시스",
+      "date": "Wed, 28 Oct 2026 02:43:42 GMT"
+    },
+    {
+      "title": "카자흐스탄·중국, 원유 공급 확대·송유관 증설 논의",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxWVFyRk91SGFQUVVYVlNCa1Y3WEtrVlJNVDZZSzdRdFJJZ0hoNDRCQ2IzU2JBSlUtTEctMGFNSlhoTW5DcXhVd3RlUXJXekJmU3p0MXBwQS02UdIBWEFVX3lxTE5BSHZOdXhER1ktMXRWNVRRNnd1R0FjZjJuRGhvY1phUTVFb3VTenJraG5iVE80MFJDeXNWYm5kd2FyVy0xZHVzSldMNjRBamItWGxMMUZkdXU?oc=5",
+      "source": "아주경제",
+      "date": "Wed, 28 Oct 2026 01:06:27 GMT"
     },
     {
       "title": "“거창한 지원보다 공정 기회를”...의정부시 중국 경제교류단 기업 선정 공정성 논란",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xOVFjQnpHYVEzd25BaWMzV3ZRelVldGFnN3A1a2w0RXhxazVOakt4dXNPNG5lb29QNzJGb3dXYVk2ZGRpbE1mSVJXZko3MkdHMEhLWFQxd3VZWkJIYU9HVFFNUQ?oc=5",
       "source": "쿠키뉴스",
-      "date": "Tue, 27 Oct 2026 18:17:17 GMT"
+      "date": "Wed, 28 Oct 2026 00:40:58 GMT"
+    },
+    {
+      "title": "중국 경제, ‘트럼프 관세 뛰어넘어’ 미국 앞질러",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4NWtuSUNiNTlnZnVxNmlDbmhQeFZLMGMzdXd3bWpDVE1WTVAta09CU3RCSkVBWk1ad25PS0FJd2txR043ZjBXXzFnb2xycFZUaXZLb3hvbHU1NDdvWVJTMmt5N0hDbEVzeGRObFRR?oc=5",
+      "source": "뉴스타운",
+      "date": "Wed, 28 Oct 2026 00:05:00 GMT"
     },
     {
       "title": "일본 게이단렌, 11월 중국 방문단 파견 연기...\"중국이 요청\"",
@@ -24,22 +42,10 @@
       "date": "Tue, 27 Oct 2026 09:34:00 GMT"
     },
     {
-      "title": "“중국에서 성공하면 세계에서도 통한다”…14개국 기업인들이 상하이서 본 것",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Kelg3aG1TajE0eU1kclhZd1BOOXVPVEwzZFJwR0xiZVRGeXlpN3V0U3A0Y3RDWjhhSWJfZUtYMVdJS2d1ZzdrUGlGM0pLTGlfbmVUczZCR0dFdERZTl9jeGYxVmtPeEdCUmdV?oc=5",
-      "source": "인민망",
-      "date": "Tue, 27 Oct 2026 07:56:49 GMT"
-    },
-    {
       "title": "대구상의, 중국 청두국제상회 경제협력 MOU 체결",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPZnQ1R0VfSUtyMkdzMWU3eTEtUU5MdkNDZkF1R1hyQURyOW5JWXhRUEZfYjdXd3JydU05VE9ScEpWMHY1ck1vOGlwX3B1QVRfS1gyZnhZNFBvMF9KcUswV2JyVkNUOEFVNkZV?oc=5",
       "source": "대구신문",
       "date": "Tue, 27 Oct 2026 06:53:34 GMT"
-    },
-    {
-      "title": "AI 붐 탄 중국 9월 공업이익 3개월 만에 최고… 전년比 14.4%↑",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JNU9EX0VRY01ZblJyN0k0Q1pwdmdtRkpnbF9WSWJhT3R1eW5nVFJCcWF6dHQ1Z3I3YW1zZzhGRzN1QnNaUWVLYkU3T2NOemZPVHg2UHp1akpwQdIBWEFVX3lxTE1mR0N3eml3M1QtZ2tSaG9CdjRpWExrSkQwRzZxRTBzampvbFE1dDA5RWZJR1kwR3U4VHJhdjdzYXNFeVlaVWZzZ2NEdzlmRkIyOUNEaWtZS1Q?oc=5",
-      "source": "아주경제",
-      "date": "Tue, 27 Oct 2026 05:10:01 GMT"
     },
     {
       "title": "日 게이단렌, 내달 中방문단 파견 연기…\"중국이 요청\"",
@@ -52,12 +58,6 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUExRN3ZYT1RNdEc0OUZjWnhMLVFTYTQzLXBNNHJEOFJwa1BhQW84dWgzSk9OVkt2ZXhjVTJ6VlF1Y0IxTmRFYmdkYU5mNUVhMmsybFFlZ19PZkYyVkEzVC0yUTA4QjJVVUFxbGV6UFkyYXI1VWx6eXp2OGJ2dzFyQzVJUkRoandtcHNXa2FUamQ?oc=5",
       "source": "조선일보",
       "date": "Mon, 26 Oct 2026 01:21:40 GMT"
-    },
-    {
-      "title": "김정은, ‘피로 맺은 관계’ 중국에 경제협력 기대감 표출…대미 협상력 강화하려 했나",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tX0stNFlkT3g4RUF4TlFQNlEyV1dOdWVrMWktRnlPV093Wm9Bc1VEMkpnbFhhRTd0LW84aGhtZDVZdW03RkNWUXhpY1pmSGpfZmVkZDdSR2FrZ9IBX0FVX3lxTE1DSlBpd1ZrcGVUM0M5eDVkYWxfR1ZySXBjQWNfMjkxanp4SnBjT1dGRDRvZkZEMDJMYzNEaUZRNzYtZHpQRFl4OU5GbFBWNGluaHFERUl3QVE3TWhWeWdr?oc=5",
-      "source": "경향신문",
-      "date": "Sun, 25 Oct 2026 09:23:00 GMT"
     },
     {
       "title": "김정은, 중국 서열 4위 왕후닝과 회담…“경제 협력 강화”",
