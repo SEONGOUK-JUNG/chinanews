@@ -2,8 +2,8 @@
   "id": "germanium",
   "name": "게르마늄",
   "unit": "CNY/kg",
-  "updated_at_kst": "2026-10-27T20:10:53+09:00",
-  "count": 40,
+  "updated_at_kst": "2026-10-28T20:10:55+09:00",
+  "count": 41,
   "candles": [
     {
       "time": "2026-09-02",
@@ -164,6 +164,10 @@
     {
       "time": "2026-10-27",
       "value": 28125.61
+    },
+    {
+      "time": "2026-10-28",
+      "value": 28225.82
     }
   ],
   "adjustment_applied": true

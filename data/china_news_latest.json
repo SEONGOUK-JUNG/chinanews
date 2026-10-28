@@ -1,10 +1,34 @@
 {
-  "run_at_kst": "2026-10-28T14:10:03+09:00",
+  "run_at_kst": "2026-10-28T20:10:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "[경제] 中국가개발은행, AI·디지털 경제 등에 정책금융 자금 집행...72조원 훌쩍",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BT2hKRVVIc0NEQzFVUU9NM0F0eDBlamhKR0ZMWnFBa2d5ZWgtemVLMFV0enhvTk9oMERMWW9ld2JYcjkyVm5YR3h3Y0twU0QtVGJTRFVWSlVmNWM5bDNfS2VXblgyT0piR2hZ?oc=5",
+      "source": "서울뉴스통신",
+      "date": "Wed, 28 Oct 2026 10:34:06 GMT"
+    },
+    {
+      "title": "[아주경제 와이드 사설] 애플도 거절당하는 반도체 시대, 한국은 무엇으로 승부할 것인가",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qMDNEMnBpZmtVaF9qYlJTckhLMVhlNDM5UFJZbEdTQTZFQXVNcEc3TzExZjVDbW40cUlDLTRsQnVucmQ0d3R1YkhsRER1dEVObW9fS0NIanpYQdIBWEFVX3lxTE9TWUx5TF9hb2pXdnh5Y21rZmJZbGhsU0ItcW11ZXpwMW5VTks0TFVzd1ZQSkZUYVFRU0lUVUJ2X1ZCWlltbEpVY0ZlSUlGTmNfYTJybXlDV28?oc=5",
+      "source": "아주경제",
+      "date": "Wed, 28 Oct 2026 08:31:30 GMT"
+    },
+    {
+      "title": "[한일경제연대]\"미국도 중국도 위험하다… 한일 기업에 싹트는 ‘동병상련’\"",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5VGJnVHpqR3JIRlE3RDRwRDEtWW9Ed2lKVXpoeVFZSjVLSUUzaVJrWDQxU210SnpqS3BNSzBZMEloNkhVZG1nUk80Rlg4SnNMVGdNd2xfTE5peEZ6bC1qVzVTQ0FTc2RHWmJ3WQ?oc=5",
+      "source": "월간조선",
+      "date": "Wed, 28 Oct 2026 07:18:42 GMT"
+    },
+    {
+      "title": "중국 경제는 일본이 걸었던 장기 침체의 길을 피할 수 있을까",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlRGx5YlNHZVhEVXhYQ3M0YmZEdktFT2JqcWZiSHFWVFZ6RGVFbVNpWkNhejhYZ3BvT0pucllYanI0bnFyb0I2VFV1ZUozam1tU2xFYTRVMFBoQnYtUzVSX25CWGg5bWJCUjVRZGJB?oc=5",
+      "source": "캐어유 뉴스",
+      "date": "Wed, 28 Oct 2026 06:00:00 GMT"
+    },
     {
       "title": "제주 농촌융복합산업 인증 제품, 중국 상하이 시장 ‘공략’",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNTk5HZlg3NXROclRkeTl0bFEzZmlKclNDYWtzelU1OTdfM2xlNGZsZHAyelFlVHhPZDQtMmpWMl9MNjZPNEpXRktxd2d0UW1MTVU5R0ZPZXNMRzdzMG1sbndaUVA2LURnNVpv?oc=5",
@@ -12,16 +36,16 @@
       "date": "Wed, 28 Oct 2026 04:02:53 GMT"
     },
     {
+      "title": "[경제포커스] 2026년 경상수지 흑자 상위 10개국…1위 중국, 2위 한국",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0bHpYMGVFZXdhTVBwcEd5TnJRM0lMRzI4QTZQMENOWjVrOXRlcHBEaW14eHZiV3dERHd5dzljVjV5d3RIc081RmY4VWxzbHNEeG1uNjU0X0ZkU3pwSTk1RjJFallock5ET2RoaVRB?oc=5",
+      "source": "미디어인뉴스",
+      "date": "Wed, 28 Oct 2026 03:40:43 GMT"
+    },
+    {
       "title": "주식은 국가가 사고, 시진핑은 4연임 다지고…中증시 11주 연속 하락",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KWmExUVRLbUlWV2FadkdsNkNxZ2N5UVRKNDlITzVDUFdYXzRoT2ZOMVlkcTZ5TjdqeERsNmk2Sm51bzZHSVJXYlMzQm5NcE90UnFEc09pcHUzTnJlMTZ2SNIBeEFVX3lxTFBNYWIwMkMySGJDVk95b2lGWTFvR2c0Z25Pck1YT3RxNUFmdHJyeWM2R3RpZTZEOW15dEpqbldBLTM4ZlhBSk10MXBaU3BMNENKVVB3dDJRMFlxSG1lVlZ1T2s0YnFBZkZWVXhHV2lWQ0UzM3hIZGtyTg?oc=5",
       "source": "뉴시스",
       "date": "Wed, 28 Oct 2026 02:43:42 GMT"
-    },
-    {
-      "title": "카자흐스탄·중국, 원유 공급 확대·송유관 증설 논의",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxWVFyRk91SGFQUVVYVlNCa1Y3WEtrVlJNVDZZSzdRdFJJZ0hoNDRCQ2IzU2JBSlUtTEctMGFNSlhoTW5DcXhVd3RlUXJXekJmU3p0MXBwQS02UdIBWEFVX3lxTE5BSHZOdXhER1ktMXRWNVRRNnd1R0FjZjJuRGhvY1phUTVFb3VTenJraG5iVE80MFJDeXNWYm5kd2FyVy0xZHVzSldMNjRBamItWGxMMUZkdXU?oc=5",
-      "source": "아주경제",
-      "date": "Wed, 28 Oct 2026 01:06:27 GMT"
     },
     {
       "title": "“거창한 지원보다 공정 기회를”...의정부시 중국 경제교류단 기업 선정 공정성 논란",
@@ -36,34 +60,10 @@
       "date": "Wed, 28 Oct 2026 00:05:00 GMT"
     },
     {
-      "title": "일본 게이단렌, 11월 중국 방문단 파견 연기...\"중국이 요청\"",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LQ0VDQ3JBQU5Zd3NPRVNoRTMtYzNUaDRjV1J2NDREeG5zQkN6Z2JMcGl3LUV4VVhUUF9ldlQ4X09wdEM0Ri1TZFJUZy1CNlFrOHFIVDVDZ24wWjJtV2c?oc=5",
-      "source": "YTN",
-      "date": "Tue, 27 Oct 2026 09:34:00 GMT"
-    },
-    {
-      "title": "대구상의, 중국 청두국제상회 경제협력 MOU 체결",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPZnQ1R0VfSUtyMkdzMWU3eTEtUU5MdkNDZkF1R1hyQURyOW5JWXhRUEZfYjdXd3JydU05VE9ScEpWMHY1ck1vOGlwX3B1QVRfS1gyZnhZNFBvMF9KcUswV2JyVkNUOEFVNkZV?oc=5",
-      "source": "대구신문",
-      "date": "Tue, 27 Oct 2026 06:53:34 GMT"
-    },
-    {
-      "title": "日 게이단렌, 내달 中방문단 파견 연기…\"중국이 요청\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nSWZJbVlUNEMyQUNfcTNwTHdRdFUxYUw2VDctdTBQd2lOVDVOcHRVbGlNbnpLc3ktaGd5d3FVSGp0cTFOSzJjTWlTWGZZOXhmUlJSYnZVdUpnaGfSAWBBVV95cUxOblpZR0xqRTZoQXN3bzRtU0tsR1ljcV9VeVo0Vkg4Y3JyNE44SzRtcHV5Y3c1eTVabnFRdXktZDZ4Y29WNk5WcThsaEhnRG12YVVEbnNSTjFIVEpvOGs3ek4?oc=5",
-      "source": "연합뉴스",
-      "date": "Tue, 27 Oct 2026 01:49:36 GMT"
-    },
-    {
-      "title": "윤건영 “김정은 방중, ‘경제는 중국’ 기조... 美회담 가능성 닫힌 것 아냐”",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUExRN3ZYT1RNdEc0OUZjWnhMLVFTYTQzLXBNNHJEOFJwa1BhQW84dWgzSk9OVkt2ZXhjVTJ6VlF1Y0IxTmRFYmdkYU5mNUVhMmsybFFlZ19PZkYyVkEzVC0yUTA4QjJVVUFxbGV6UFkyYXI1VWx6eXp2OGJ2dzFyQzVJUkRoandtcHNXa2FUamQ?oc=5",
-      "source": "조선일보",
-      "date": "Mon, 26 Oct 2026 01:21:40 GMT"
-    },
-    {
-      "title": "김정은, 중국 서열 4위 왕후닝과 회담…“경제 협력 강화”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10ZkFWcjROT0ppMVFDNlpWMnEwN0RGQ19UUTZOQWRIX2ZzUG81ckw3aFgtT3dSN08zc2dLaEUwVUpjTnVvckE3QlltY3lYQmowNkRvNk9ib1Z2RmM?oc=5",
-      "source": "KBS 뉴스",
-      "date": "Sat, 24 Oct 2026 22:01:00 GMT"
+      "title": "2026년 1~3분기 중국 경제동향...내수ㆍ수출 불균형 속 완만한 개선",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kaDNidmY3ejRIU3NmUkowS3FGRXlGOVpNc2RsRGRnamRsdEo0Z1plTFRjSUdMR2hQak5PTFR3cUdadmxJTktjdmEzdnpTOS1WeTlHWnJycm1ReTBXSDAycWFyQWVVbExoa3VMX0FMTnJLWE0?oc=5",
+      "source": "쉬핑뉴스넷",
+      "date": "Mon, 26 Oct 2026 22:37:27 GMT"
     },
     {
       "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",

@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-28T14:10:03+09:00",
+  "run_at_kst": "2026-10-28T20:10:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "China’s Wind and Solar Power Capacity Surpasses 2 Terawatts",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Wind-and-Solar-Power-Capacity-Surpasses-2-Terawatts.html",
+      "source": "OilPrice",
+      "date": "Wed, 28 Oct 2026 05:20:00 -0500"
+    },
+    {
+      "title": "Equinor Profits Triple as Oil and Gas Prices Surge",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-Profits-Triple-as-Oil-and-Gas-Prices-Surge.html",
+      "source": "OilPrice",
+      "date": "Wed, 28 Oct 2026 04:20:33 -0500"
+    },
+    {
+      "title": "Oil Traders Brace for Iran Escalation After U.S. Elections",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Traders-Brace-for-Iran-Escalation-After-US-Elections.html",
+      "source": "OilPrice",
+      "date": "Wed, 28 Oct 2026 02:50:00 -0500"
+    },
+    {
+      "title": "Sanctioned Oil Tankers Find a Lucrative New Trade in the Persian Gulf",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Sanctioned-Oil-Tankers-Find-a-Lucrative-New-Trade-in-the-Persian-Gulf.html",
+      "source": "OilPrice",
+      "date": "Wed, 28 Oct 2026 01:45:00 -0500"
+    },
     {
       "title": "Oil Prices Climb as Houthi Attacks Reignite Saudi Supply Fears",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-Houthi-Attacks-Reignite-Saudi-Supply-Fears.html",
@@ -44,34 +68,10 @@
       "date": "Tue, 27 Oct 2026 21:44:51 +0000"
     },
     {
-      "title": "Turkey’s Libya Deal Puts Oil Majors in a Bind",
-      "link": "https://oilprice.com/Energy/Energy-General/Turkeys-Libya-Deal-Puts-Oil-Majors-in-a-Bind.html",
-      "source": "OilPrice",
-      "date": "Tue, 27 Oct 2026 16:00:00 -0500"
-    },
-    {
-      "title": "US Crude Oil Inventories Buck Analyst Expectations",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Buck-Analyst-Expectations.html",
-      "source": "OilPrice",
-      "date": "Tue, 27 Oct 2026 15:56:11 -0500"
-    },
-    {
-      "title": "5 Data Center Power Stocks to Watch Before Earnings",
-      "link": "https://oilprice.com/Energy/Energy-General/5-Data-Center-Power-Stocks-to-Watch-Before-Earnings.html",
-      "source": "OilPrice",
-      "date": "Tue, 27 Oct 2026 15:00:00 -0500"
-    },
-    {
       "title": "Perpetua Resources receives $40M US Army funding to advance tungsten production",
       "link": "https://www.mining.com/perpetua-resources-gets-40m-us-army-funding-to-advance-tungsten-production-in-idaho/",
       "source": "mining.com",
       "date": "Tue, 27 Oct 2026 19:59:26 +0000"
-    },
-    {
-      "title": "The Diesel Crisis Is Here To Stay",
-      "link": "https://oilprice.com/Energy/Crude-Oil/The-Diesel-Crisis-Is-Here-To-Stay.html",
-      "source": "OilPrice",
-      "date": "Tue, 27 Oct 2026 14:00:00 -0500"
     },
     {
       "title": "FireFly finds copper-gold system near idle mill",
