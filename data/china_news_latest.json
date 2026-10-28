@@ -1,21 +1,21 @@
 {
-  "run_at_kst": "2026-10-28T07:20:03+09:00",
+  "run_at_kst": "2026-10-28T10:10:03+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "중국 경제, ‘트럼프 관세 뛰어넘어’ 미국 앞질러",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4NWtuSUNiNTlnZnVxNmlDbmhQeFZLMGMzdXd3bWpDVE1WTVAta09CU3RCSkVBWk1ad25PS0FJd2txR043ZjBXXzFnb2xycFZUaXZLb3hvbHU1NDdvWVJTMmt5N0hDbEVzeGRObFRR?oc=5",
+      "source": "뉴스타운",
+      "date": "Wed, 28 Oct 2026 00:05:00 GMT"
+    },
+    {
       "title": "“거창한 지원보다 공정 기회를”...의정부시 중국 경제교류단 기업 선정 공정성 논란",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xOVFjQnpHYVEzd25BaWMzV3ZRelVldGFnN3A1a2w0RXhxazVOakt4dXNPNG5lb29QNzJGb3dXYVk2ZGRpbE1mSVJXZko3MkdHMEhLWFQxd3VZWkJIYU9HVFFNUQ?oc=5",
       "source": "쿠키뉴스",
       "date": "Tue, 27 Oct 2026 18:17:17 GMT"
-    },
-    {
-      "title": "박현주 “미래에셋 M&A 추가 발표”…미국·중국 겨냥해 AI·로봇 확장",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nUl81U19aOVFJMW9BQkRoQzBRLTloenRYTndRS0RJb0JUVHFRRE1Ec3JmVkNUSk9WNjJfOU8xWjEwUWp0ZmhMNk5NcVN4bXBQcW5OUFRRTThyT2R2SVNJbVlJbUswYlhLcDAtcDdqVQ?oc=5",
-      "source": "진일보 | 전남일보",
-      "date": "Tue, 27 Oct 2026 17:30:00 GMT"
     },
     {
       "title": "일본 게이단렌, 11월 중국 방문단 파견 연기...\"중국이 요청\"",
@@ -48,16 +48,16 @@
       "date": "Tue, 27 Oct 2026 01:49:36 GMT"
     },
     {
-      "title": "2026년 1~3분기 중국 경제동향...내수ㆍ수출 불균형 속 완만한 개선",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kaDNidmY3ejRIU3NmUkowS3FGRXlGOVpNc2RsRGRnamRsdEo0Z1plTFRjSUdMR2hQak5PTFR3cUdadmxJTktjdmEzdnpTOS1WeTlHWnJycm1ReTBXSDAycWFyQWVVbExoa3VMX0FMTnJLWE0?oc=5",
-      "source": "쉬핑뉴스넷",
-      "date": "Mon, 26 Oct 2026 22:37:27 GMT"
-    },
-    {
       "title": "윤건영 “김정은 방중, ‘경제는 중국’ 기조... 美회담 가능성 닫힌 것 아냐”",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUExRN3ZYT1RNdEc0OUZjWnhMLVFTYTQzLXBNNHJEOFJwa1BhQW84dWgzSk9OVkt2ZXhjVTJ6VlF1Y0IxTmRFYmdkYU5mNUVhMmsybFFlZ19PZkYyVkEzVC0yUTA4QjJVVUFxbGV6UFkyYXI1VWx6eXp2OGJ2dzFyQzVJUkRoandtcHNXa2FUamQ?oc=5",
       "source": "조선일보",
       "date": "Mon, 26 Oct 2026 01:21:40 GMT"
+    },
+    {
+      "title": "김정은, ‘피로 맺은 관계’ 중국에 경제협력 기대감 표출…대미 협상력 강화하려 했나",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tX0stNFlkT3g4RUF4TlFQNlEyV1dOdWVrMWktRnlPV093Wm9Bc1VEMkpnbFhhRTd0LW84aGhtZDVZdW03RkNWUXhpY1pmSGpfZmVkZDdSR2FrZ9IBX0FVX3lxTE1DSlBpd1ZrcGVUM0M5eDVkYWxfR1ZySXBjQWNfMjkxanp4SnBjT1dGRDRvZkZEMDJMYzNEaUZRNzYtZHpQRFl4OU5GbFBWNGluaHFERUl3QVE3TWhWeWdr?oc=5",
+      "source": "경향신문",
+      "date": "Sun, 25 Oct 2026 09:23:00 GMT"
     },
     {
       "title": "김정은, 중국 서열 4위 왕후닝과 회담…“경제 협력 강화”",
@@ -72,10 +72,10 @@
       "date": "Fri, 23 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "중국 경제 기적, 한계에 봉착 : 미제스 연구소",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oWDJVN201V0t2cG9COHZudFktTXhRbVlFUGdsNFhndkVZNE1Nd0NUQk1mVEZXVzNvOEwyRmhUWC1jbGtyS1gzenpHczE4bVAwWi1LdFk3UkZpQzdmWEZrazhoVVRBTXJUTmp3VFBn?oc=5",
-      "source": "뉴스타운",
-      "date": "Thu, 15 Oct 2026 07:00:00 GMT"
+      "title": "수출 대박나면 뭐하나…중국 경제에 나타난 '이상 신호' [차이나 워치]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WWW1FNGVVTEp1eXFBN1hCQzIxM2U5OVRiTDk5VUZYd28zbU0zQ2Nid1ZxZDFZZi13a1dzUV8xdlZITjUwN29IeXgyY1R0emEtMllzM2hnR3NuUQ?oc=5",
+      "source": "한국경제",
+      "date": "Mon, 19 Oct 2026 05:50:55 GMT"
     }
   ]
 }
