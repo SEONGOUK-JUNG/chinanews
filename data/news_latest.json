@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-28T20:10:05+09:00",
+  "run_at_kst": "2026-10-29T07:20:03+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
-      "title": "China’s Wind and Solar Power Capacity Surpasses 2 Terawatts",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Wind-and-Solar-Power-Capacity-Surpasses-2-Terawatts.html",
-      "source": "OilPrice",
-      "date": "Wed, 28 Oct 2026 05:20:00 -0500"
-    },
-    {
-      "title": "Equinor Profits Triple as Oil and Gas Prices Surge",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-Profits-Triple-as-Oil-and-Gas-Prices-Surge.html",
-      "source": "OilPrice",
-      "date": "Wed, 28 Oct 2026 04:20:33 -0500"
-    },
-    {
-      "title": "Oil Traders Brace for Iran Escalation After U.S. Elections",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Traders-Brace-for-Iran-Escalation-After-US-Elections.html",
-      "source": "OilPrice",
-      "date": "Wed, 28 Oct 2026 02:50:00 -0500"
-    },
-    {
-      "title": "Sanctioned Oil Tankers Find a Lucrative New Trade in the Persian Gulf",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Sanctioned-Oil-Tankers-Find-a-Lucrative-New-Trade-in-the-Persian-Gulf.html",
-      "source": "OilPrice",
-      "date": "Wed, 28 Oct 2026 01:45:00 -0500"
-    },
-    {
-      "title": "Oil Prices Climb as Houthi Attacks Reignite Saudi Supply Fears",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-Houthi-Attacks-Reignite-Saudi-Supply-Fears.html",
-      "source": "OilPrice",
-      "date": "Tue, 27 Oct 2026 22:53:00 -0500"
-    },
-    {
-      "title": "America Produces Less Than 1% of the Rare Earth Magnets It Needs",
-      "link": "https://oilprice.com/Energy/Energy-General/America-Produces-Less-Than-1-of-the-Rare-Earth-Magnets-It-Needs.html",
-      "source": "OilPrice",
-      "date": "Tue, 27 Oct 2026 19:00:00 -0500"
-    },
-    {
-      "title": "Nova Minerals gets final approvals for Alaska antimony project",
-      "link": "https://www.mining.com/nova-minerals-gets-final-approvals-for-alaska-antimony-project/",
+      "title": "Green Manganese trials deliver high recovery rates alongside zinc extraction",
+      "link": "https://www.mining.com/green-manganese-trials-deliver-high-recovery-rates-alongside-zinc-extraction/",
       "source": "mining.com",
-      "date": "Tue, 27 Oct 2026 23:59:18 +0000"
+      "date": "Wed, 28 Oct 2026 22:06:46 +0000"
     },
     {
-      "title": "Americans Hit Hardest by War-Driven Oil Price Surge",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Americans-Hit-Hardest-by-War-Driven-Oil-Price-Surge.html",
+      "title": "U.S. Natural Gas Production Hits New Records as Demand Surges",
+      "link": "https://oilprice.com/Energy/Natural-Gas/US-Natural-Gas-Production-Hits-New-Records-as-Demand-Surges.html",
       "source": "OilPrice",
-      "date": "Tue, 27 Oct 2026 18:00:00 -0500"
+      "date": "Wed, 28 Oct 2026 17:00:00 -0500"
     },
     {
-      "title": "Will Rubio’s Jamnagar Move Permanently Break The Russia-India Oil Axis?",
-      "link": "https://oilprice.com/Energy/Energy-General/Will-Rubios-Jamnagar-Move-Permanently-Break-The-Russia-India-Oil-Axis.html",
+      "title": "Veramark launches platform for responsible metals sourcing",
+      "link": "https://www.mining.com/veramark-launches-platform-for-responsible-metals-sourcing/",
+      "source": "mining.com",
+      "date": "Wed, 28 Oct 2026 21:18:10 +0000"
+    },
+    {
+      "title": "World Bank lifts copper price outlook by 18%",
+      "link": "https://www.mining.com/world-bank-lifts-copper-price-outlook-by-18/",
+      "source": "mining.com",
+      "date": "Wed, 28 Oct 2026 21:00:00 +0000"
+    },
+    {
+      "title": "Solar Has Overtaken Nuclear in the Global Power Mix",
+      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Solar-Has-Overtaken-Nuclear-in-the-Global-Power-Mix.html",
       "source": "OilPrice",
-      "date": "Tue, 27 Oct 2026 17:00:00 -0500"
+      "date": "Wed, 28 Oct 2026 16:00:00 -0500"
     },
     {
-      "title": "Anfield Energy secures draft State approvals for Utah uranium mill",
-      "link": "https://www.mining.com/anfield-energy-secures-draft-state-approvals-for-utah-uranium-mill/",
-      "source": "mining.com",
-      "date": "Tue, 27 Oct 2026 21:44:51 +0000"
+      "title": "India’s Record LNG Buying Meets Record-High Prices",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Indias-Record-LNG-Buying-Meets-Record-High-Prices.html",
+      "source": "OilPrice",
+      "date": "Wed, 28 Oct 2026 15:00:00 -0500"
     },
     {
-      "title": "Perpetua Resources receives $40M US Army funding to advance tungsten production",
-      "link": "https://www.mining.com/perpetua-resources-gets-40m-us-army-funding-to-advance-tungsten-production-in-idaho/",
+      "title": "Mule Canyon gold resource advances restart plans",
+      "link": "https://www.mining.com/mule-canyon-gold-resource-advances-restart-plans/",
       "source": "mining.com",
-      "date": "Tue, 27 Oct 2026 19:59:26 +0000"
+      "date": "Wed, 28 Oct 2026 19:41:09 +0000"
     },
     {
-      "title": "FireFly finds copper-gold system near idle mill",
-      "link": "https://www.mining.com/firefly-finds-copper-gold-system-near-idle-mill/",
-      "source": "mining.com",
-      "date": "Tue, 27 Oct 2026 16:59:33 +0000"
+      "title": "Why the Shipping Industry Is Turning Its Attention to Nuclear Power",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Why-the-Shipping-Industry-Is-Turning-Its-Attention-to-Nuclear-Power.html",
+      "source": "OilPrice",
+      "date": "Wed, 28 Oct 2026 14:00:00 -0500"
     },
     {
-      "title": "Labour shortage hurts West Lake Gold output",
-      "link": "https://www.mining.com/labour-shortage-hurts-west-lake-gold-output/",
+      "title": "Oil exploration opens door to Brazil offshore potash",
+      "link": "https://www.mining.com/oil-exploration-opens-door-to-brazil-offshore-potash/",
       "source": "mining.com",
-      "date": "Tue, 27 Oct 2026 16:35:44 +0000"
+      "date": "Wed, 28 Oct 2026 18:02:17 +0000"
     },
     {
-      "title": "China Gold restarts CSH mine after five-month shutdown",
-      "link": "https://www.mining.com/china-gold-restarts-csh-mine-after-five-month-shutdown/",
+      "title": "China Secures Massive Discount on Russian Gas as Moscow’s Leverage Weakens",
+      "link": "https://oilprice.com/Energy/Natural-Gas/China-Secures-Massive-Discount-on-Russian-Gas-as-Moscows-Leverage-Weakens.html",
+      "source": "OilPrice",
+      "date": "Wed, 28 Oct 2026 13:00:00 -0500"
+    },
+    {
+      "title": "UBS Sees $110 Brent by Year-End as Gulf Flows Stay Below Prewar Levels",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/UBS-Sees-110-Brent-by-Year-End-as-Gulf-Flows-Stay-Below-Prewar-Levels.html",
+      "source": "OilPrice",
+      "date": "Wed, 28 Oct 2026 12:30:00 -0500"
+    },
+    {
+      "title": "Energy Crisis Shapes UK Budget as Chancellor Faces Pressure Over Defence Spendin",
+      "link": "https://oilprice.com/Energy/Energy-General/Energy-Crisis-Shapes-UK-Budget-as-Chancellor-Faces-Pressure-Over-Defence-Spendin.html",
+      "source": "OilPrice",
+      "date": "Wed, 28 Oct 2026 12:00:00 -0500"
+    },
+    {
+      "title": "Equinor Raises Oil and Gas Output Forecast as Operating Profit Doubles",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-Raises-Oil-and-Gas-Output-Forecast-as-Operating-Profit-Doubles.html",
+      "source": "OilPrice",
+      "date": "Wed, 28 Oct 2026 11:30:00 -0500"
+    },
+    {
+      "title": "US offers Constellation up to $5B nuclear loan",
+      "link": "https://www.mining.com/us-offers-constellation-up-to-5b-nuclear-loan/",
       "source": "mining.com",
-      "date": "Tue, 27 Oct 2026 16:18:20 +0000"
+      "date": "Wed, 28 Oct 2026 16:22:26 +0000"
     }
   ]
 }
