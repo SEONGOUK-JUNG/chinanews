@@ -1,10 +1,28 @@
 {
-  "run_at_kst": "2026-10-29T20:10:04+09:00",
+  "run_at_kst": "2026-10-30T07:20:03+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "2026년 9월 중국경제 동향과 전망",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbE8xbHF0UVdNZzllMXZ6SE9Cc2E5MnNMRV9QcUFrbmZ5VEUxSzYtV1VuZENiZnFOVjFxYWlfTVJSc1JrbjNWVkVNd3IzVHRfMzBVVTFYbzdUZnpvT3cxTm5CMHFBWlFRUlVLd09Wc0JHclI5RXkzemxnbnJlLUhJRg?oc=5",
+      "source": "KDI 경제교육·정보센터",
+      "date": "Thu, 29 Oct 2026 15:22:30 GMT"
+    },
+    {
+      "title": "시 주석 4연임 앞둔 중국 ‘강력한 반부패’ 예고, 경기 부양책은 없어",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbzJ3TDBtbmFLaW5HWG5Nc0RibHJhZUk1WjRwcldyYlFTTDd3MkVha1JPSkxVT2RHVHI2aEdFekdDN1FhQ2VtQU10U0l3cUotdjI0LVFvOEU2bExpZVV5VXpTTmdhR3hfQ1hCT0t5VGc5OS1vNHVuVWRmbnY4cXVESw?oc=5",
+      "source": "이데일리",
+      "date": "Thu, 29 Oct 2026 11:13:36 GMT"
+    },
+    {
+      "title": "[경제] 獨 모저 회장 \"중국 시장 발판 삼아 세계로...협력으로 혁신 성과 창출\"-Xinhua",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VMlJPLUdySkxYS0xHWTBwc29vejhfcFBkNWY0OHlPSDVTbXR5TmpoNXhza0YtbWdJN3djSnRMNkJuSUV0MGpxOW5nRXhXZGVxN2xiam9DdXBQdUI3STFqOWhFZGlKaEdTeVAxMWFSOE9DOU1VckE?oc=5",
+      "source": "신화망",
+      "date": "Thu, 29 Oct 2026 10:17:15 GMT"
+    },
     {
       "title": "경기·인천, 중국 교두부로 경제 활성화 꾀한다",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTSHZLbHg1SjRqU2NMTUlsNVBkRlVORUJSQUdBYkhfZzdxQjJTblNNcWFlTEJnQ05sQ3FuMVNURGRYYUNPTzdkMlhLaHhEcGxEVnl4eDVaUDRkS0NRWm5UYUxZT1J5RmRiNFFnNl9B?oc=5",
@@ -16,18 +34,6 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DY3JvckhkcnA2OVo3RU81YU5xUXhFRUp3R3pOb0hyQV90QU9iekt1V2FQZXh1RkhEYnlGNEd4RUdrNGJ6V0VrSk5aVTJnNEpkM3lyVktZMUxrZDlhS3l2YWo0T3JvWl9qcXRWUg?oc=5",
       "source": "인천in 시민의 손으로 만드는 인터넷신문",
       "date": "Thu, 29 Oct 2026 08:45:35 GMT"
-    },
-    {
-      "title": "[데스크 칼럼] '메이드 인 차이나'가 달라졌다",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOODVsWkNSaTdkRnA0Y3U5b2s0T2htOENkT1VzRDBsOU5fWWZ5bWFyR1E1ZEEtWEhiZTNHWlhLSUo0RnRHbkd1YVhRNnlkOUdxZENnWnIzM2pvdw?oc=5",
-      "source": "한국경제",
-      "date": "Thu, 29 Oct 2026 08:41:06 GMT"
-    },
-    {
-      "title": "인천시, 중국 웨이하이시와 11년 경제협력 확대...친환경 에너지·전자상거래 협력 강화",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZZTU4X0xRdDVQSTMtcFNqY003di1DZmZtdGszUGRmS0dNMkF0ZkFyR2NFUzNNNWdlNmV5SWVfcjNlV1pSZE1hVnE4dk5YNzFDMzhlM1BfYlRwZ1NqaW1FLXhmUVVGeEpE?oc=5",
-      "source": "경인매일",
-      "date": "Thu, 29 Oct 2026 08:36:31 GMT"
     },
     {
       "title": "중국 풍력-태양광 누적 설치용량 20억kW 돌파",
@@ -48,28 +54,22 @@
       "date": "Thu, 29 Oct 2026 05:06:00 GMT"
     },
     {
-      "title": "[최헌규의 오늘 중국] 북방 실용외교로 대미 협상력 키운 김정은의 선택은...",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBrQmoyR0RyZVB1SE5qa3V1ZWdQbVBHUFd6RnAzLTZ4cXZlZEFPZDEwdHZ0MkMyN1BNbnljWVNMb1lFTlJLd0dqc19nZXhFTVNPXzRTVGYyWlV4V3NH?oc=5",
-      "source": "뉴스핌",
-      "date": "Thu, 29 Oct 2026 03:15:00 GMT"
-    },
-    {
-      "title": "중국 바오터우, 고체수소저장 이륜차 2000대 보급",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DS1RWQzY2TndNQXd3Wk1PejYycWp1bGxrbG9zLWJRR1gweWpvMDNGaXE0SW94ZTMxZ19yZ3RHWkR3bVBYSGtBWXpMQUdHVGNKRlo4ZElYSWphSFYzRVN2ak1sTncxdw?oc=5",
-      "source": "월간수소경제",
-      "date": "Thu, 29 Oct 2026 01:21:55 GMT"
-    },
-    {
-      "title": "中국가개발은행, AI·디지털 경제 등에 정책금융 자금 집행...72조원 훌쩍-Xinhua",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0T0gyYUZTQUFYZEs3MWNseDU2Zk9lQ3doNXdtWlhIczd0Q19CZjU4WlFPZDBza3hCUnotTnEyZlZhYXc0aWZOLXdwREtHSElPSWY2RHhQbFJaZHRROFlWWF9YcV9GSjZ5b3VlNVpQbmo0OTM2Z2c?oc=5",
-      "source": "신화망",
-      "date": "Thu, 29 Oct 2026 01:07:07 GMT"
+      "title": "2026년 1~3분기 중국 경제동향...내수ㆍ수출 불균형 속 완만한 개선",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kaDNidmY3ejRIU3NmUkowS3FGRXlGOVpNc2RsRGRnamRsdEo0Z1plTFRjSUdMR2hQak5PTFR3cUdadmxJTktjdmEzdnpTOS1WeTlHWnJycm1ReTBXSDAycWFyQWVVbExoa3VMX0FMTnJLWE0?oc=5",
+      "source": "쉬핑뉴스넷",
+      "date": "Mon, 26 Oct 2026 22:37:27 GMT"
     },
     {
       "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
       "source": ":: 위즈경제 ::",
       "date": "Mon, 26 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "수출 대박나면 뭐하나…중국 경제에 나타난 '이상 신호' [차이나 워치]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WWW1FNGVVTEp1eXFBN1hCQzIxM2U5OVRiTDk5VUZYd28zbU0zQ2Nid1ZxZDFZZi13a1dzUV8xdlZITjUwN29IeXgyY1R0emEtMllzM2hnR3NuUQ?oc=5",
+      "source": "한국경제",
+      "date": "Mon, 19 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "AI 붐에 수출 증대 … 중국 경제 성장세 가속화",

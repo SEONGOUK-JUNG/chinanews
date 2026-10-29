@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-29T20:10:04+09:00",
+  "run_at_kst": "2026-10-30T07:20:03+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
-      "title": "Equinor Doubles Estimate for Major North Sea Gas Discovery",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-Doubles-Estimate-for-Major-North-Sea-Gas-Discovery.html",
+      "title": "China’s Battery Factories May Sit Atop Lithium Resources",
+      "link": "https://oilprice.com/Energy/Energy-General/Chinas-Battery-Factories-May-Sit-Atop-Lithium-Resources.html",
       "source": "OilPrice",
-      "date": "Thu, 29 Oct 2026 05:30:00 -0500"
+      "date": "Thu, 29 Oct 2026 17:00:00 -0500"
     },
     {
-      "title": "EU Rules Out New Climate Finance Pledges at COP31",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Rules-Out-New-Climate-Finance-Pledges-at-COP31.html",
-      "source": "OilPrice",
-      "date": "Thu, 29 Oct 2026 04:15:00 -0500"
-    },
-    {
-      "title": "EU Scrambles to Contain Energy Price Crisis Ahead of Winter",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Scrambles-to-Contain-Energy-Price-Crisis-Ahead-of-Winter.html",
-      "source": "OilPrice",
-      "date": "Thu, 29 Oct 2026 02:30:00 -0500"
-    },
-    {
-      "title": "Oil Prices Fall as Vance Moves to Restart Iran Peace Talks",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Vance-Moves-to-Restart-Iran-Peace-Talks.html",
-      "source": "OilPrice",
-      "date": "Thu, 29 Oct 2026 01:05:36 -0500"
-    },
-    {
-      "title": "Peace Talks Won’t Save Oil Buyers From $100-Plus Oil",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Peace-Talks-Wont-Save-Oil-Buyers-From-100-Plus-Oil.html",
-      "source": "OilPrice",
-      "date": "Wed, 28 Oct 2026 19:00:00 -0500"
-    },
-    {
-      "title": "HyProMag USA PFS outlines $2.1B upside from rare earth magnet platform expansion",
-      "link": "https://www.mining.com/hypromag-usa-pfs-outlines-2-1b-upside-from-rare-earth-magnet-platform-expansion/",
+      "title": "Critical One Energy, SICC ink $303 million antimony offtake deal for Howells Lake project in Ontario",
+      "link": "https://www.mining.com/critical-one-energy-sicc-ink-303-million-antimony-offtake-deal-for-howells-lake-project-in-ontario/",
       "source": "mining.com",
-      "date": "Wed, 28 Oct 2026 23:19:58 +0000"
+      "date": "Thu, 29 Oct 2026 21:59:40 +0000"
     },
     {
-      "title": "Oil Refineries Become Prime Targets as Global Fuel Shortage Worsens",
-      "link": "https://oilprice.com/Energy/Energy-General/Oil-Refineries-Become-Prime-Targets-as-Global-Fuel-Shortage-Worsens.html",
+      "title": "Trump's Russian Diesel Is a Legal Hot Potato With a Five-Year Fuse",
+      "link": "https://oilprice.com/Energy/Energy-General/Trumps-Russian-Diesel-Is-a-Legal-Hot-Potato-With-a-Five-Year-Fuse.html",
       "source": "OilPrice",
-      "date": "Wed, 28 Oct 2026 18:00:00 -0500"
+      "date": "Thu, 29 Oct 2026 16:00:00 -0500"
     },
     {
-      "title": "How Trump’s Russian Diesel Could End Up in Cuba Instead",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/How-Trumps-Russian-Diesel-Could-End-Up-in-Cuba-Instead.html",
+      "title": "World's First Permanent Nuclear Waste Site Wins License in Finland",
+      "link": "https://oilprice.com/Energy/Energy-General/Worlds-First-Permanent-Nuclear-Waste-Site-Wins-License-in-Finland.html",
       "source": "OilPrice",
-      "date": "Wed, 28 Oct 2026 17:28:57 -0500"
+      "date": "Thu, 29 Oct 2026 15:00:00 -0500"
     },
     {
-      "title": "Green Manganese trials deliver high recovery rates alongside zinc extraction",
-      "link": "https://www.mining.com/green-manganese-trials-deliver-high-recovery-rates-alongside-zinc-extraction/",
-      "source": "mining.com",
-      "date": "Wed, 28 Oct 2026 22:06:46 +0000"
-    },
-    {
-      "title": "U.S. Natural Gas Production Hits New Records as Demand Surges",
-      "link": "https://oilprice.com/Energy/Natural-Gas/US-Natural-Gas-Production-Hits-New-Records-as-Demand-Surges.html",
+      "title": "Exxon, Chevron Executives Cancel Gulf Visit Over Security Concerns",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Exxon-Chevron-Executives-Cancel-Gulf-Visit-Over-Security-Concerns.html",
       "source": "OilPrice",
-      "date": "Wed, 28 Oct 2026 17:00:00 -0500"
+      "date": "Thu, 29 Oct 2026 15:00:00 -0500"
     },
     {
-      "title": "Veramark launches platform for responsible metals sourcing",
-      "link": "https://www.mining.com/veramark-launches-platform-for-responsible-metals-sourcing/",
-      "source": "mining.com",
-      "date": "Wed, 28 Oct 2026 21:18:10 +0000"
+      "title": "BYD Earnings Miss Estimates as China's EV Price War Takes Its Toll",
+      "link": "https://oilprice.com/Energy/Energy-General/BYD-Earnings-Miss-Estimates-as-Chinas-EV-Price-War-Takes-Its-Toll.html",
+      "source": "OilPrice",
+      "date": "Thu, 29 Oct 2026 14:00:00 -0500"
     },
     {
-      "title": "World Bank lifts copper price outlook by 18%",
-      "link": "https://www.mining.com/world-bank-lifts-copper-price-outlook-by-18/",
+      "title": "Morton Salt ceases operations at Ohio mine after water breach",
+      "link": "https://www.mining.com/morton-salt-ceases-operations-at-ohio-mine-after-water-breach/",
       "source": "mining.com",
-      "date": "Wed, 28 Oct 2026 21:00:00 +0000"
+      "date": "Thu, 29 Oct 2026 18:55:16 +0000"
     },
     {
-      "title": "Mule Canyon gold resource advances restart plans",
-      "link": "https://www.mining.com/mule-canyon-gold-resource-advances-restart-plans/",
-      "source": "mining.com",
-      "date": "Wed, 28 Oct 2026 19:41:09 +0000"
+      "title": "U.S. Pushes Nuclear Energy Expansion in Central Asia and Caucasus",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/US-Pushes-Nuclear-Energy-Expansion-in-Central-Asia-and-Caucasus.html",
+      "source": "OilPrice",
+      "date": "Thu, 29 Oct 2026 13:00:00 -0500"
     },
     {
-      "title": "Oil exploration opens door to Brazil offshore potash",
-      "link": "https://www.mining.com/oil-exploration-opens-door-to-brazil-offshore-potash/",
+      "title": "Mexico’s Richest Man Sells $1.15 Billion in Oil Stocks",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Mexicos-Richest-Man-Sells-115-Billion-in-Oil-Stocks.html",
+      "source": "OilPrice",
+      "date": "Thu, 29 Oct 2026 12:30:00 -0500"
+    },
+    {
+      "title": "Europe to Release 42 Million Barrels of Oil",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europe-to-Release-42-Million-Barrels-of-Oil.html",
+      "source": "OilPrice",
+      "date": "Thu, 29 Oct 2026 12:30:00 -0500"
+    },
+    {
+      "title": "Copper, nickel at risk due to El Niño’s disruptions",
+      "link": "https://www.mining.com/copper-nickel-at-risk-due-to-el-ninos-disruptions/",
       "source": "mining.com",
-      "date": "Wed, 28 Oct 2026 18:02:17 +0000"
+      "date": "Thu, 29 Oct 2026 17:05:28 +0000"
+    },
+    {
+      "title": "Rio Tinto pumps $1.4 billion into lithium projects in Argentina",
+      "link": "https://www.mining.com/rio-tinto-pumps-1-4b-into-lithium-projects-in-argentina/",
+      "source": "mining.com",
+      "date": "Thu, 29 Oct 2026 15:10:00 +0000"
+    },
+    {
+      "title": "Eldorado drops as Skouries setbacks cut gold outlook 18%",
+      "link": "https://www.mining.com/eldorado-drops-as-skouries-setbacks-cut-gold-outlook-18/",
+      "source": "mining.com",
+      "date": "Thu, 29 Oct 2026 14:56:43 +0000"
+    },
+    {
+      "title": "Alamos delays Island Gold shaft as costs rise",
+      "link": "https://www.mining.com/alamos-delays-island-gold-shaft-as-costs-rise/",
+      "source": "mining.com",
+      "date": "Thu, 29 Oct 2026 13:40:45 +0000"
     }
   ]
 }
