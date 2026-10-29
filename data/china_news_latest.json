@@ -1,21 +1,21 @@
 {
-  "run_at_kst": "2026-10-29T07:20:03+09:00",
+  "run_at_kst": "2026-10-29T10:10:03+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "로봇 몸 만들던 시대 끝나나…中 투자금 몰리는 곳은 [차이나 워치]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vQnV6ZWVZSzFQUU94SFZYSkw1SHIzY3BxZ0x4XzhySGpSUXBIZGpRNzJaSmVpX0FhMEhoX0VlbHdQbGpUbU5DT1hpLU5aeFNwaHBzOTRNRko2UQ?oc=5",
+      "source": "한국경제",
+      "date": "Wed, 28 Oct 2026 22:39:01 GMT"
+    },
+    {
       "title": "틱톡 창업자 장이밍 재산 134조원…중국 최고 부자 등극",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvSmdwNFh6V1NuRmdiN2RhM1ZzT2NZWEtDaTc1bGtET19ra3RwMWtFMXdwRTJWXzVfUmdVWjMyemhJQWJ1ODJOS29HcUhJNDlvZVVBQm9MaDVIZFZtVFE?oc=5",
       "source": "포커스온경제",
       "date": "Wed, 28 Oct 2026 18:12:18 GMT"
-    },
-    {
-      "title": "국산 신품종 포도 ‘글로리스타’, 중국 첫 수출",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JeUFIYkVYQmFFeWdFQmVReml6SDlvcW9yTE5aOTE5S0tBVzNDVzkxZEZjcEVFUTVYaUhDdnFleTJZZ255VjRNN0JkSUZPRnBpTWtKanJMVExPVDFFQUlyYXBwN1M?oc=5",
-      "source": "https://www.entv.kr/",
-      "date": "Wed, 28 Oct 2026 16:27:12 GMT"
     },
     {
       "title": "[한일경제연대]\"미국도 중국도 위험하다… 한일 기업에 싹트는 ‘동병상련’\"",
@@ -36,12 +36,6 @@
       "date": "Wed, 28 Oct 2026 04:02:53 GMT"
     },
     {
-      "title": "“거창한 지원보다 공정 기회를”...의정부시 중국 경제교류단 기업 선정 공정성 논란",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xOVFjQnpHYVEzd25BaWMzV3ZRelVldGFnN3A1a2w0RXhxazVOakt4dXNPNG5lb29QNzJGb3dXYVk2ZGRpbE1mSVJXZko3MkdHMEhLWFQxd3VZWkJIYU9HVFFNUQ?oc=5",
-      "source": "쿠키뉴스",
-      "date": "Wed, 28 Oct 2026 00:40:58 GMT"
-    },
-    {
       "title": "중국 경제, ‘트럼프 관세 뛰어넘어’ 미국 앞질러",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4NWtuSUNiNTlnZnVxNmlDbmhQeFZLMGMzdXd3bWpDVE1WTVAta09CU3RCSkVBWk1ad25PS0FJd2txR043ZjBXXzFnb2xycFZUaXZLb3hvbHU1NDdvWVJTMmt5N0hDbEVzeGRObFRR?oc=5",
       "source": "뉴스타운",
@@ -60,6 +54,12 @@
       "date": "Mon, 26 Oct 2026 22:37:27 GMT"
     },
     {
+      "title": "\"김정은, 방중서 ‘중국 경제 수장’ 리창 만나…당일 귀국 전망\"",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQY2F0Rk95X2thaFpTOXJ4OW11bnN3aF9BanNlbjREcVl2UXJVejk0S1E4US05Wlk1VTR0cy1wR3pDVUVyalZBZFA0VkQ5andJVE0zZw?oc=5",
+      "source": "JTBC",
+      "date": "Sat, 24 Oct 2026 09:06:00 GMT"
+    },
+    {
       "title": "김정은 전격 방중…중국 경제 수장 리창 국무원 총리 만나",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LSWppaGpaNnh2cjFpbGhqSWduY0I5eTVyWEVDN0ViNjNIckZHVEFIb1M5d1hOaDZiS01sVFNpZXN6dDFxYlhYeUR6ZzJtZnFpVnNndEk2Y1plb2xzY1E?oc=5",
       "source": "주간경향",
@@ -72,10 +72,10 @@
       "date": "Fri, 23 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "수출 대박나면 뭐하나…중국 경제에 나타난 '이상 신호' [차이나 워치]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WWW1FNGVVTEp1eXFBN1hCQzIxM2U5OVRiTDk5VUZYd28zbU0zQ2Nid1ZxZDFZZi13a1dzUV8xdlZITjUwN29IeXgyY1R0emEtMllzM2hnR3NuUQ?oc=5",
-      "source": "한국경제",
-      "date": "Mon, 19 Oct 2026 05:50:55 GMT"
+      "title": "AI 붐에 수출 증대 … 중국 경제 성장세 가속화",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtNUZqQWFQc3g0WllieGV3dUJ6VUpVcmNfR2RsY3ZxNlo5TGRTTFBNRlBhQjhHLVdCaEdfSXM4bUpEaGpsY3RPRTBqQVM2ek1IMDV4LUtyNWcxXzJoRXfSAWNBVV95cUxQX2FDdGRvdHBNeTJOWXk5YWtxekYzZHdjTFBRbEhERURFek9YRTBkam96WGZVUlo3RTRKRGptZGlid1pucTZDMWRDMEdpcGpMTk9sWURmLWZ0QWVsNGZ4Z0pwY3M?oc=5",
+      "source": "BBC",
+      "date": "Mon, 19 Oct 2026 07:00:00 GMT"
     }
   ]
 }
