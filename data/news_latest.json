@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-29T10:10:03+09:00",
+  "run_at_kst": "2026-10-29T20:10:04+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Equinor Doubles Estimate for Major North Sea Gas Discovery",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-Doubles-Estimate-for-Major-North-Sea-Gas-Discovery.html",
+      "source": "OilPrice",
+      "date": "Thu, 29 Oct 2026 05:30:00 -0500"
+    },
+    {
+      "title": "EU Rules Out New Climate Finance Pledges at COP31",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Rules-Out-New-Climate-Finance-Pledges-at-COP31.html",
+      "source": "OilPrice",
+      "date": "Thu, 29 Oct 2026 04:15:00 -0500"
+    },
+    {
+      "title": "EU Scrambles to Contain Energy Price Crisis Ahead of Winter",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Scrambles-to-Contain-Energy-Price-Crisis-Ahead-of-Winter.html",
+      "source": "OilPrice",
+      "date": "Thu, 29 Oct 2026 02:30:00 -0500"
+    },
+    {
+      "title": "Oil Prices Fall as Vance Moves to Restart Iran Peace Talks",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Vance-Moves-to-Restart-Iran-Peace-Talks.html",
+      "source": "OilPrice",
+      "date": "Thu, 29 Oct 2026 01:05:36 -0500"
+    },
     {
       "title": "Peace Talks Won’t Save Oil Buyers From $100-Plus Oil",
       "link": "https://oilprice.com/Energy/Crude-Oil/Peace-Talks-Wont-Save-Oil-Buyers-From-100-Plus-Oil.html",
@@ -56,34 +80,10 @@
       "date": "Wed, 28 Oct 2026 21:00:00 +0000"
     },
     {
-      "title": "Solar Has Overtaken Nuclear in the Global Power Mix",
-      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Solar-Has-Overtaken-Nuclear-in-the-Global-Power-Mix.html",
-      "source": "OilPrice",
-      "date": "Wed, 28 Oct 2026 16:00:00 -0500"
-    },
-    {
-      "title": "GE Vernova Expands in High-Voltage Grid Gear With Trench Deal",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/GE-Vernova-Expands-in-High-Voltage-Grid-Gear-With-Trench-Deal.html",
-      "source": "OilPrice",
-      "date": "Wed, 28 Oct 2026 15:30:00 -0500"
-    },
-    {
-      "title": "India’s Record LNG Buying Meets Record-High Prices",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Indias-Record-LNG-Buying-Meets-Record-High-Prices.html",
-      "source": "OilPrice",
-      "date": "Wed, 28 Oct 2026 15:00:00 -0500"
-    },
-    {
       "title": "Mule Canyon gold resource advances restart plans",
       "link": "https://www.mining.com/mule-canyon-gold-resource-advances-restart-plans/",
       "source": "mining.com",
       "date": "Wed, 28 Oct 2026 19:41:09 +0000"
-    },
-    {
-      "title": "Why the Shipping Industry Is Turning Its Attention to Nuclear Power",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Why-the-Shipping-Industry-Is-Turning-Its-Attention-to-Nuclear-Power.html",
-      "source": "OilPrice",
-      "date": "Wed, 28 Oct 2026 14:00:00 -0500"
     },
     {
       "title": "Oil exploration opens door to Brazil offshore potash",
