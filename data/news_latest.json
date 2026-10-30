@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-30T20:10:05+09:00",
+  "run_at_kst": "2026-10-31T07:20:03+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
-      "title": "Wall Street Banks Raise Oil Price Forecasts as Supply Fears Deepen",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Wall-Street-Banks-Raise-Oil-Price-Forecasts-as-Supply-Fears-Deepen.html",
+      "title": "Gasoline Up 34% and Heating Oil Up 74% as Voters Head to the Midterms",
+      "link": "https://oilprice.com/Energy/Gas-Prices/Gasoline-Up-34-and-Heating-Oil-Up-74-as-Voters-Head-to-the-Midterms.html",
       "source": "OilPrice",
-      "date": "Fri, 30 Oct 2026 05:00:00 -0500"
+      "date": "Fri, 30 Oct 2026 17:00:00 -0500"
     },
     {
-      "title": "High Oil Prices Set to Trigger New Wave of North Sea Mergers",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/High-Oil-Prices-Set-to-Trigger-New-Wave-of-North-Sea-Mergers.html",
-      "source": "OilPrice",
-      "date": "Fri, 30 Oct 2026 03:45:00 -0500"
-    },
-    {
-      "title": "Houthis Claim Fresh Strikes on Saudi Oil Refineries and Aramco Facilities",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Claim-Fresh-Strikes-on-Saudi-Oil-Refineries-and-Aramco-Facilities.html",
-      "source": "OilPrice",
-      "date": "Fri, 30 Oct 2026 02:30:00 -0500"
-    },
-    {
-      "title": "Oil Prices Head for Fourth Monthly Gain as Middle East Tensions Escalate",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-Fourth-Monthly-Gain-as-Middle-East-Tensions-Escalate.html",
-      "source": "OilPrice",
-      "date": "Fri, 30 Oct 2026 01:20:00 -0500"
-    },
-    {
-      "title": "One World Lithium deploys DLCE equipment to UCI, UBC labs",
-      "link": "https://www.mining.com/one-world-lithium-deploys-dlce-equipment-to-uci-ubc-labs-for-rd/",
+      "title": "Uranium shares slide even as analysts see tighter supply",
+      "link": "https://www.mining.com/uranium-shares-slide-even-as-analysts-see-tighter-supply/",
       "source": "mining.com",
-      "date": "Fri, 30 Oct 2026 00:05:40 +0000"
+      "date": "Fri, 30 Oct 2026 21:11:00 +0000"
     },
     {
-      "title": "Critical minerals getting harder to mine as deposits age: EY",
-      "link": "https://www.mining.com/critical-minerals-getting-harder-to-mine-as-deposits-age-ey/",
+      "title": "Radical AI uses autonomous labs to accelerate alloy discovery",
+      "link": "https://www.mining.com/radical-ai-uses-autonomous-labs-to-accelerate-alloy-discovery/",
       "source": "mining.com",
-      "date": "Fri, 30 Oct 2026 00:01:00 +0000"
+      "date": "Fri, 30 Oct 2026 20:44:27 +0000"
     },
     {
-      "title": "Off-Grid Solar Is Now the Cheapest Power for Nearly 400 Million People",
-      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Off-Grid-Solar-Is-Now-the-Cheapest-Power-for-Nearly-400-Million-People.html",
+      "title": "Lynas locks in price floors as revenue jumps 55%",
+      "link": "https://www.mining.com/lynas-locks-in-price-floors-as-revenue-jumps-55/",
+      "source": "mining.com",
+      "date": "Fri, 30 Oct 2026 19:10:47 +0000"
+    },
+    {
+      "title": "Chevron Profits Nearly Triple to $9.9 Billion",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-Profits-Nearly-Triple-to-99-Billion.html",
       "source": "OilPrice",
-      "date": "Thu, 29 Oct 2026 19:00:00 -0500"
+      "date": "Fri, 30 Oct 2026 13:30:00 -0500"
     },
     {
-      "title": "What’s Next for Global Natural Gas Demand?",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Whats-Next-for-Global-Natural-Gas-Demand.html",
+      "title": "Water Tank Rupture Triggers Safety Concerns at Tajikistan’s Rogun Dam",
+      "link": "https://oilprice.com/Alternative-Energy/Hydroelectric/Water-Tank-Rupture-Triggers-Safety-Concerns-at-Tajikistans-Rogun-Dam.html",
       "source": "OilPrice",
-      "date": "Thu, 29 Oct 2026 18:00:00 -0500"
+      "date": "Fri, 30 Oct 2026 13:00:00 -0500"
     },
     {
-      "title": "China’s Battery Factories May Sit Atop Lithium Resources",
-      "link": "https://oilprice.com/Energy/Energy-General/Chinas-Battery-Factories-May-Sit-Atop-Lithium-Resources.html",
+      "title": "ExxonMobil Profits Double to $15.4 Billion",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/ExxonMobil-Profits-Double-to-154-Billion.html",
       "source": "OilPrice",
-      "date": "Thu, 29 Oct 2026 17:00:00 -0500"
+      "date": "Fri, 30 Oct 2026 12:27:04 -0500"
     },
     {
-      "title": "Critical One Energy, SICC ink $303 million antimony offtake deal for Howells Lake project in Ontario",
-      "link": "https://www.mining.com/critical-one-energy-sicc-ink-303-million-antimony-offtake-deal-for-howells-lake-project-in-ontario/",
-      "source": "mining.com",
-      "date": "Thu, 29 Oct 2026 21:59:40 +0000"
-    },
-    {
-      "title": "Trump's Russian Diesel Is a Legal Hot Potato With a Five-Year Fuse",
-      "link": "https://oilprice.com/Energy/Energy-General/Trumps-Russian-Diesel-Is-a-Legal-Hot-Potato-With-a-Five-Year-Fuse.html",
+      "title": "U.S. Oil, Gas Drillers Still on Hold",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Oil-Gas-Drillers-Still-on-Hold.html",
       "source": "OilPrice",
-      "date": "Thu, 29 Oct 2026 16:00:00 -0500"
+      "date": "Fri, 30 Oct 2026 12:09:57 -0500"
     },
     {
-      "title": "Morton Salt ceases operations at Ohio mine after water breach",
-      "link": "https://www.mining.com/morton-salt-ceases-operations-at-ohio-mine-after-water-breach/",
-      "source": "mining.com",
-      "date": "Thu, 29 Oct 2026 18:55:16 +0000"
+      "title": "Oil Traders Brace for a Wild Week as Brent Approaches $120",
+      "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Traders-Brace-for-a-Wild-Week-as-Brent-Approaches-120.html",
+      "source": "OilPrice",
+      "date": "Fri, 30 Oct 2026 11:51:00 -0500"
     },
     {
-      "title": "Copper, nickel at risk due to El Niño’s disruptions",
-      "link": "https://www.mining.com/copper-nickel-at-risk-due-to-el-ninos-disruptions/",
+      "title": "Gold price slumps to one-year low, silver price breaks $50 as mining stocks tank",
+      "link": "https://www.mining.com/gold-price-slumps-to-one-year-low-silver-price-breaks-50-as-mining-stocks-tank/",
       "source": "mining.com",
-      "date": "Thu, 29 Oct 2026 17:05:28 +0000"
+      "date": "Fri, 30 Oct 2026 16:31:19 +0000"
     },
     {
-      "title": "Rio Tinto pumps $1.4 billion into lithium projects in Argentina",
-      "link": "https://www.mining.com/rio-tinto-pumps-1-4b-into-lithium-projects-in-argentina/",
+      "title": "Perseus Mining secures backup power for Nyanzaga gold project",
+      "link": "https://www.mining.com/perseus-mining-secures-backup-power-for-nyanzaga-gold-project/",
       "source": "mining.com",
-      "date": "Thu, 29 Oct 2026 15:10:00 +0000"
+      "date": "Fri, 30 Oct 2026 16:22:09 +0000"
+    },
+    {
+      "title": "America’s LNG Boom Faces Its Biggest Test Yet",
+      "link": "https://oilprice.com/Energy/Energy-General/Americas-LNG-Boom-Faces-Its-Biggest-Test-Yet.html",
+      "source": "OilPrice",
+      "date": "Fri, 30 Oct 2026 11:00:00 -0500"
+    },
+    {
+      "title": "Japan to Overtake China As World’s Top LNG Importer This Year",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-to-Overtake-China-As-Worlds-Top-LNG-Importer-This-Year.html",
+      "source": "OilPrice",
+      "date": "Fri, 30 Oct 2026 10:30:00 -0500"
+    },
+    {
+      "title": "Codelco accounting scandal claims eight more employees",
+      "link": "https://www.mining.com/codelco-accounting-scandal-claims-eight-more-employees/",
+      "source": "mining.com",
+      "date": "Fri, 30 Oct 2026 12:50:00 +0000"
     }
   ]
 }

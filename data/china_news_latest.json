@@ -1,21 +1,21 @@
 {
-  "run_at_kst": "2026-10-30T20:10:05+09:00",
+  "run_at_kst": "2026-10-31T07:20:03+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "다이빙 대사, ‘2026 중한 경제발전포럼’ 참석",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWcXktOVhKeTBwLUlnR2I3ZzJsNXpoc2c2WEc3SWM4Rm9hSjJpYWZmdld5c2F3WmZhajVQbGM4MFVtWm9jUzBDMDNOLW5vbFNlQVgybW9tU2w2d3VURXNXZ1dUOVdGT2MyWkZqREN1V3FNQmd6ZXF2RFNn?oc=5",
-      "source": "中华人民共和国驻大韩民国大使馆",
-      "date": "Fri, 30 Oct 2026 09:05:58 GMT"
+      "title": "AI 반도체 수출 급증이 되레 악재…중국증시의 기묘한 역설",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoc1NwdWM4UzY3SUJUOGt6NndfVUNmV2VZLTI3elE3Q2l5TGV0ZEFpYzJrRGprSlJ2TkFYLWRteHR0TUpTd196cDdob0dncjB3UF9pSA?oc=5",
+      "source": "이투데이",
+      "date": "Fri, 30 Oct 2026 21:00:00 GMT"
     },
     {
-      "title": "[경제] 스위스 푸랄피나 CEO \"CIIE, 중국 시장 개척의 훌륭한 발판\"-Xinhua",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5STzM2dllzN0FTOThHYVFlY1pORkdJanJCTWpqck1mcXFuanNmTkNaQzg0M21id21VVkZEbFROM3ctNVBIQXZVT1FDbWxDUUdmcER1RktRZE53WFRVeEc5UzRxYkJLZHBKaDVoaFU1Uk52V0lXQlE?oc=5",
-      "source": "신화망",
-      "date": "Fri, 30 Oct 2026 06:56:15 GMT"
+      "title": "의왕시, 중국 윈청시와 경제교류 확대…민간기업 5곳 모집",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EcWk1TVR5MmlkZVNxMDBtUUNLTEZoajNlZXd0MG5OTUszWnVPSW1GRWxkMjBSWGcwSEF5WGVINERSSkNYTUxTeVR1NVA2VzhQZ2w1VHl1YmFCdThidDBRVXRDMkRqQllDaUhFOFRnRTQ?oc=5",
+      "source": "안전신문",
+      "date": "Fri, 30 Oct 2026 10:25:34 GMT"
     },
     {
       "title": "인천시-중국 웨이하이시 경제·관광 분야 협력 확대 논의",
@@ -48,16 +48,16 @@
       "date": "Fri, 30 Oct 2026 01:11:46 GMT"
     },
     {
+      "title": "2026년 9월 중국경제 동향과 전망",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbE8xbHF0UVdNZzllMXZ6SE9Cc2E5MnNMRV9QcUFrbmZ5VEUxSzYtV1VuZENiZnFOVjFxYWlfTVJSc1JrbjNWVkVNd3IzVHRfMzBVVTFYbzdUZnpvT3cxTm5CMHFBWlFRUlVLd09Wc0JHclI5RXkzemxnbnJlLUhJRg?oc=5",
+      "source": "KDI 경제교육·정보센터",
+      "date": "Thu, 29 Oct 2026 15:22:30 GMT"
+    },
+    {
       "title": "인천시-중국 웨이하이시, 경제·관광 교류 영역 확장",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWREh0bV83UUlpLW5VdmlxTkZjM1BXQTZhLW1aZHA1VUVLS0lkSjhjSWZzVG9NNVVLaU1ZUUFVNDZ0c0ZZM2dIWkJOYlN1VkVkLU9vWldB?oc=5",
       "source": "헤럴드경제",
       "date": "Thu, 29 Oct 2026 09:34:44 GMT"
-    },
-    {
-      "title": "인천시, 중국에서 열린 '제9회 인천-웨이하이 지방경제협력 공동위원회' 참석",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DY3JvckhkcnA2OVo3RU81YU5xUXhFRUp3R3pOb0hyQV90QU9iekt1V2FQZXh1RkhEYnlGNEd4RUdrNGJ6V0VrSk5aVTJnNEpkM3lyVktZMUxrZDlhS3l2YWo0T3JvWl9qcXRWUg?oc=5",
-      "source": "인천in 시민의 손으로 만드는 인터넷신문",
-      "date": "Thu, 29 Oct 2026 08:45:35 GMT"
     },
     {
       "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
