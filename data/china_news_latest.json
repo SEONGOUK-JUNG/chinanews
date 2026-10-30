@@ -1,10 +1,34 @@
 {
-  "run_at_kst": "2026-10-30T07:20:03+09:00",
+  "run_at_kst": "2026-10-30T10:10:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "의왕시, 중국 윈청시 경제교류를 위한 스카우터 모집",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZNVRnWVEwRk9LUlJ5elBsM0wtbGMzYzA4NVJUVldnblRHOWtwd1JCZ2ZqZWpWUUtMSXBIWW9aYnQ2dWJ3OGtrSDhQSGJYQVplSDdv?oc=5",
+      "source": "경기헤럴드",
+      "date": "Fri, 30 Oct 2026 01:09:32 GMT"
+    },
+    {
+      "title": "경기경제청, 중국 상하이에서 첨단산업 투자유치 활동 전개",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YSm15YTYteVRRRWNyeHNROGlGdnZhc0tCOWl0ZV83SjZRZ1AtNjNkUkxEdGlxczN0Z1dtNzkyQ0Vna0dWWWNLMHowVmJiWGV3ZHlLLVBzMGlCRnl2cXZBMlhlSVHSAWdBVV95cUxNME5iZTVGV1NXZ0J3czVnVWhtajRyb1FqT0FwazE5WjV6SHB5TUQwa0I2b1Z2RWFSWXZmQWhHRHljcFFSWFc2R095V1FCRGNSNW4zQ2dDdTZ6d2g3VFBZNk5ocS16NGpF?oc=5",
+      "source": "국민기자뉴스",
+      "date": "Fri, 30 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "title": "인천시·중국 웨이하이시, 경제·문화 협력 확대…미래 신산업 공동 대응",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IVHoyWURNWjZQOHFkNW1yaUZsZkEyN3NMcU9jMElUSUsxdHNqTmduM0g5NVJCZEZPVzZVNmhKNmtwWXFJRmZnMWlrbVFwTW16T1Jla2l0REpySFViWFdKdzZ3YVBsSHk5TWhpeU1UVC3SAXRBVV95cUxQdnVWV3hpS3ZOcVJXd2xoWnZFZW9vbjhuVmNyOWRsTW51bDlQTWszdzRvQXU1SXAxTF9yMjVJaTI4M2pwdlVHcWh0T3RmOE9xWkg2SzBzUWZyZjVPMThKVUVObzNvV3BNdkhPRWxfRHR3a0ZMOQ?oc=5",
+      "source": "포인트데일리",
+      "date": "Thu, 29 Oct 2026 23:57:28 GMT"
+    },
+    {
+      "title": "중국 지리차, 유럽 현지 생산 추진 속 내년 시장 역성장 경고",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWkwySFBpU3FMMno2RHNQNHlKUFhEQTJXMHpqb3BRSVllWlJzN2lmQXY1Wmc1T1RFeHlkV2k1X0dqalJTYzhobU9LSTVaTnVnOWFJcEpQT3NuWUExRVNDYVdqaGVycmtWLUVJUzRqOTNQeVFLby1EN3FGYkFnU09pZ1ZsbV9zQW5G?oc=5",
+      "source": "글로벌이코노믹",
+      "date": "Thu, 29 Oct 2026 22:42:54 GMT"
+    },
     {
       "title": "2026년 9월 중국경제 동향과 전망",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbE8xbHF0UVdNZzllMXZ6SE9Cc2E5MnNMRV9QcUFrbmZ5VEUxSzYtV1VuZENiZnFOVjFxYWlfTVJSc1JrbjNWVkVNd3IzVHRfMzBVVTFYbzdUZnpvT3cxTm5CMHFBWlFRUlVLd09Wc0JHclI5RXkzemxnbnJlLUhJRg?oc=5",
@@ -12,22 +36,10 @@
       "date": "Thu, 29 Oct 2026 15:22:30 GMT"
     },
     {
-      "title": "시 주석 4연임 앞둔 중국 ‘강력한 반부패’ 예고, 경기 부양책은 없어",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbzJ3TDBtbmFLaW5HWG5Nc0RibHJhZUk1WjRwcldyYlFTTDd3MkVha1JPSkxVT2RHVHI2aEdFekdDN1FhQ2VtQU10U0l3cUotdjI0LVFvOEU2bExpZVV5VXpTTmdhR3hfQ1hCT0t5VGc5OS1vNHVuVWRmbnY4cXVESw?oc=5",
-      "source": "이데일리",
-      "date": "Thu, 29 Oct 2026 11:13:36 GMT"
-    },
-    {
       "title": "[경제] 獨 모저 회장 \"중국 시장 발판 삼아 세계로...협력으로 혁신 성과 창출\"-Xinhua",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VMlJPLUdySkxYS0xHWTBwc29vejhfcFBkNWY0OHlPSDVTbXR5TmpoNXhza0YtbWdJN3djSnRMNkJuSUV0MGpxOW5nRXhXZGVxN2xiam9DdXBQdUI3STFqOWhFZGlKaEdTeVAxMWFSOE9DOU1VckE?oc=5",
       "source": "신화망",
       "date": "Thu, 29 Oct 2026 10:17:15 GMT"
-    },
-    {
-      "title": "경기·인천, 중국 교두부로 경제 활성화 꾀한다",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTSHZLbHg1SjRqU2NMTUlsNVBkRlVORUJSQUdBYkhfZzdxQjJTblNNcWFlTEJnQ05sQ3FuMVNURGRYYUNPTzdkMlhLaHhEcGxEVnl4eDVaUDRkS0NRWm5UYUxZT1J5RmRiNFFnNl9B?oc=5",
-      "source": "현대일보",
-      "date": "Thu, 29 Oct 2026 09:41:10 GMT"
     },
     {
       "title": "인천시, 중국에서 열린 '제9회 인천-웨이하이 지방경제협력 공동위원회' 참석",
@@ -40,18 +52,6 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90RGowRzFoNzBBWmY1d0d1RlZMRUdDWEFOTWs2c3E3OWhzTVFXME4xb0NwTmlNR2NmT0hpX1YyUk53dXFXTndSZC1UOHd1SmlWQ3dUM3pVcTdDR1NONFR2ZmVBb0NqUHkycGdF?oc=5",
       "source": "인민망",
       "date": "Thu, 29 Oct 2026 07:09:00 GMT"
-    },
-    {
-      "title": "중국도 유치원→요양원…노인부양비율, 아동부양비율 역전 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PZ3czTW1BTG9fQWVnajlQSzBKalNjTWVkVkc5WkFTWEtOTnNsSWNxRVZVQmdFZGVRSXlhSGlkM2V2M2l1dnJOQUVCVlNvdWtjbm5ZOExJbnE1Uzl5UGgtdTBiUDB3N0Zk0gFuQVVfeXFMTkpJY3NMSEJhUGZHc0F3V2F2UFBqM1Q1bk5laGtzUlA1a1hOU0pFLUxFbHJ5QkQ5UmE4cF9xWE41Tm9lMHdBQVdfamtRY1E5TkllTDdTQUZTNG1MeDFfUmQ4Q3Y1SDZ5dEZ6ZE03b0E?oc=5",
-      "source": "머니투데이",
-      "date": "Thu, 29 Oct 2026 05:51:26 GMT"
-    },
-    {
-      "title": "中 \"4.5% 성장\"에 의구심... 민간 \"연간 0~3%\" 전망 속 통계 불신 커져",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zVWw5YktLS292a2RfTXhpRTRxY2FOb1QteUtJa1hSR1QzMnJHMFNqdDhmdDQyLXU4N25DVkdLTDlzMzNsNkxqdkl3RDI0U0tENDZUbFFnVUxCa1pyOVZVN2RVeERzcmdaT0tKUDRB0gFzQVVfeXFMUHdBWlpzc0MxcURrdGo3UGs0WF96OHkta2c1cTNya21uNTVFcDQtTE81c2tzWjRWdlJGWlFSMTFHckVKYVRmM19IenBQQ0F3WEd1YzEwQmNSZWN1MXRYS2tMWTg3dndncmhlZEpQbUtHRWgxWQ?oc=5",
-      "source": "한국일보",
-      "date": "Thu, 29 Oct 2026 05:06:00 GMT"
     },
     {
       "title": "2026년 1~3분기 중국 경제동향...내수ㆍ수출 불균형 속 완만한 개선",

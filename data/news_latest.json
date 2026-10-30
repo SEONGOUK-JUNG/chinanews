@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-30T07:20:03+09:00",
+  "run_at_kst": "2026-10-30T10:10:04+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "One World Lithium deploys DLCE equipment to UCI, UBC labs",
+      "link": "https://www.mining.com/one-world-lithium-deploys-dlce-equipment-to-uci-ubc-labs-for-rd/",
+      "source": "mining.com",
+      "date": "Fri, 30 Oct 2026 00:05:40 +0000"
+    },
+    {
+      "title": "Critical minerals getting harder to mine as deposits age: EY",
+      "link": "https://www.mining.com/critical-minerals-getting-harder-to-mine-as-deposits-age-ey/",
+      "source": "mining.com",
+      "date": "Fri, 30 Oct 2026 00:01:00 +0000"
+    },
+    {
+      "title": "Off-Grid Solar Is Now the Cheapest Power for Nearly 400 Million People",
+      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Off-Grid-Solar-Is-Now-the-Cheapest-Power-for-Nearly-400-Million-People.html",
+      "source": "OilPrice",
+      "date": "Thu, 29 Oct 2026 19:00:00 -0500"
+    },
+    {
+      "title": "What’s Next for Global Natural Gas Demand?",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Whats-Next-for-Global-Natural-Gas-Demand.html",
+      "source": "OilPrice",
+      "date": "Thu, 29 Oct 2026 18:00:00 -0500"
+    },
     {
       "title": "China’s Battery Factories May Sit Atop Lithium Resources",
       "link": "https://oilprice.com/Energy/Energy-General/Chinas-Battery-Factories-May-Sit-Atop-Lithium-Resources.html",
@@ -56,18 +80,6 @@
       "date": "Thu, 29 Oct 2026 13:00:00 -0500"
     },
     {
-      "title": "Mexico’s Richest Man Sells $1.15 Billion in Oil Stocks",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Mexicos-Richest-Man-Sells-115-Billion-in-Oil-Stocks.html",
-      "source": "OilPrice",
-      "date": "Thu, 29 Oct 2026 12:30:00 -0500"
-    },
-    {
-      "title": "Europe to Release 42 Million Barrels of Oil",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europe-to-Release-42-Million-Barrels-of-Oil.html",
-      "source": "OilPrice",
-      "date": "Thu, 29 Oct 2026 12:30:00 -0500"
-    },
-    {
       "title": "Copper, nickel at risk due to El Niño’s disruptions",
       "link": "https://www.mining.com/copper-nickel-at-risk-due-to-el-ninos-disruptions/",
       "source": "mining.com",
@@ -78,18 +90,6 @@
       "link": "https://www.mining.com/rio-tinto-pumps-1-4b-into-lithium-projects-in-argentina/",
       "source": "mining.com",
       "date": "Thu, 29 Oct 2026 15:10:00 +0000"
-    },
-    {
-      "title": "Eldorado drops as Skouries setbacks cut gold outlook 18%",
-      "link": "https://www.mining.com/eldorado-drops-as-skouries-setbacks-cut-gold-outlook-18/",
-      "source": "mining.com",
-      "date": "Thu, 29 Oct 2026 14:56:43 +0000"
-    },
-    {
-      "title": "Alamos delays Island Gold shaft as costs rise",
-      "link": "https://www.mining.com/alamos-delays-island-gold-shaft-as-costs-rise/",
-      "source": "mining.com",
-      "date": "Thu, 29 Oct 2026 13:40:45 +0000"
     }
   ]
 }
