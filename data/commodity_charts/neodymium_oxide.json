@@ -2,8 +2,8 @@
   "id": "neodymium_oxide",
   "name": "산화네오디뮴",
   "unit": "CNY/t",
-  "updated_at_kst": "2026-10-29T20:10:46+09:00",
-  "count": 42,
+  "updated_at_kst": "2026-10-30T20:11:54+09:00",
+  "count": 43,
   "candles": [
     {
       "time": "2026-09-02",
@@ -172,6 +172,10 @@
     {
       "time": "2026-10-29",
       "value": 751575.0
+    },
+    {
+      "time": "2026-10-30",
+      "value": 746564.5
     }
   ],
   "adjustment_applied": true
