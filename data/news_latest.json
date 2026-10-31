@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-31T07:20:03+09:00",
+  "run_at_kst": "2026-10-31T10:10:03+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Europe Is Now Seriously Rethinking Its Oil Refinery Phase Down",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Europe-Is-Now-Seriously-Rethinking-Its-Oil-Refinery-Phase-Down.html",
+      "source": "OilPrice",
+      "date": "Fri, 30 Oct 2026 18:00:00 -0500"
+    },
     {
       "title": "Gasoline Up 34% and Heating Oil Up 74% as Voters Head to the Midterms",
       "link": "https://oilprice.com/Energy/Gas-Prices/Gasoline-Up-34-and-Heating-Oil-Up-74-as-Voters-Head-to-the-Midterms.html",
@@ -78,12 +84,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/Americas-LNG-Boom-Faces-Its-Biggest-Test-Yet.html",
       "source": "OilPrice",
       "date": "Fri, 30 Oct 2026 11:00:00 -0500"
-    },
-    {
-      "title": "Japan to Overtake China As World’s Top LNG Importer This Year",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-to-Overtake-China-As-Worlds-Top-LNG-Importer-This-Year.html",
-      "source": "OilPrice",
-      "date": "Fri, 30 Oct 2026 10:30:00 -0500"
     },
     {
       "title": "Codelco accounting scandal claims eight more employees",

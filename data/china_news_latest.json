@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-31T07:20:03+09:00",
+  "run_at_kst": "2026-10-31T10:10:03+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -42,12 +42,6 @@
       "date": "Fri, 30 Oct 2026 01:34:04 GMT"
     },
     {
-      "title": "국내에서는 싸게, 해외에서 비싸게 파는 중국 車업체",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WRWROdlcwM1JVMnRRTXpyLWtmRk9JcXZROUNwMTBScmhKWmkyTEZVekgwMkhsN3lONVdHS1diYXV4OUJCZ29SSTlua2paZFZ4X19MN3diSEp2UdIBWEFVX3lxTE9sUmtoTFd2SnlEdFk0azJXMXJqMnphcnZHQWJpUTZ2SFcxd2I4UjFUTGZMZDhWMHRHZV8yTUlpTnRQRk5VWU5hUzRXTkI5dWVLeExUYTdnUzM?oc=5",
-      "source": "아주경제",
-      "date": "Fri, 30 Oct 2026 01:11:46 GMT"
-    },
-    {
       "title": "2026년 9월 중국경제 동향과 전망",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbE8xbHF0UVdNZzllMXZ6SE9Cc2E5MnNMRV9QcUFrbmZ5VEUxSzYtV1VuZENiZnFOVjFxYWlfTVJSc1JrbjNWVkVNd3IzVHRfMzBVVTFYbzdUZnpvT3cxTm5CMHFBWlFRUlVLd09Wc0JHclI5RXkzemxnbnJlLUhJRg?oc=5",
       "source": "KDI 경제교육·정보센터",
@@ -58,6 +52,12 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWREh0bV83UUlpLW5VdmlxTkZjM1BXQTZhLW1aZHA1VUVLS0lkSjhjSWZzVG9NNVVLaU1ZUUFVNDZ0c0ZZM2dIWkJOYlN1VkVkLU9vWldB?oc=5",
       "source": "헤럴드경제",
       "date": "Thu, 29 Oct 2026 09:34:44 GMT"
+    },
+    {
+      "title": "인천시, 중국에서 열린 '제9회 인천-웨이하이 지방경제협력 공동위원회' 참석",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DY3JvckhkcnA2OVo3RU81YU5xUXhFRUp3R3pOb0hyQV90QU9iekt1V2FQZXh1RkhEYnlGNEd4RUdrNGJ6V0VrSk5aVTJnNEpkM3lyVktZMUxrZDlhS3l2YWo0T3JvWl9qcXRWUg?oc=5",
+      "source": "인천in 시민의 손으로 만드는 인터넷신문",
+      "date": "Thu, 29 Oct 2026 08:45:35 GMT"
     },
     {
       "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
