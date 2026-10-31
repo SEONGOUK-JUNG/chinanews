@@ -1,15 +1,21 @@
 {
-  "run_at_kst": "2026-10-31T10:10:03+09:00",
+  "run_at_kst": "2026-10-31T14:10:03+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "AI 반도체 수출 급증이 되레 악재…중국증시의 기묘한 역설",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoc1NwdWM4UzY3SUJUOGt6NndfVUNmV2VZLTI3elE3Q2l5TGV0ZEFpYzJrRGprSlJ2TkFYLWRteHR0TUpTd196cDdob0dncjB3UF9pSA?oc=5",
-      "source": "이투데이",
-      "date": "Fri, 30 Oct 2026 21:00:00 GMT"
+      "title": "“친구 결혼식에 10만원? 너무 많아요”…축의금 2만원 상한까지 등장한 中의 속사정",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01ODUyTzJtUmh5UjZVMmpmUkpmRUFDU2wyT2FPS1p3ZTFBRVF3MGFsZnBSMXJBN1YzdnJUZzFEbjN5aHBuTnc5MjJ6OFN5bkFWNmfSAVNBVV95cUxOaUw1Yl9tT0d0eEV4ZS05eDQxTERLa3RfdTk5UXNMYU1BYTZocGJKckNqQzFFSFd4QXNLaEdMVWQzbHkwNC0tRDJoSTBMLUc5cVp4Yw?oc=5",
+      "source": "서울경제",
+      "date": "Sat, 31 Oct 2026 02:41:32 GMT"
+    },
+    {
+      "title": "사회주의자 증가 미국, 극우 팽창하는 한국",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlRWlfYTlMOUNaUGE2VF8zOUM2a19wSVdhRE1IcXI2VFZWWHpfaGp3bklfTW9nM3lxUEExVzlzT1ZyY3RRa3FsZ3ZQRmExUWpRMzFNblMwYUlmY3NJc25BZk1STWhyM2Q3c3JN?oc=5",
+      "source": "제주의소리",
+      "date": "Sat, 31 Oct 2026 01:00:00 GMT"
     },
     {
       "title": "의왕시, 중국 윈청시와 경제교류 확대…민간기업 5곳 모집",
@@ -24,40 +30,34 @@
       "date": "Fri, 30 Oct 2026 02:37:03 GMT"
     },
     {
-      "title": "의왕시, 중국 윈청시 경제교류 참여기업 5개사 13일까지 모집",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wc0c4WUkwRmFWSWlEZVZuMk1BYWYwaGFIbk9mTDQ3SVJyT1lYeXBtak92REVtaTFQS1ZLazcyeVhSb19xWjBOV0hxSnhpR3JCZEZHYU02SWxZeU5nWDRfN0J3dXFVVnM0aWNn?oc=5",
-      "source": "프레시안",
-      "date": "Fri, 30 Oct 2026 02:16:30 GMT"
-    },
-    {
-      "title": "의왕시, 중국 윈청시 경제교류를 위한 스카우터 모집",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90SVVycjJUczZsT1dFT1JLNjFRdzh5bFN5NWUtSG9HQWc1UFJCZl9BQmZGZWNkQTZpQVVTMVRYRTVPeG9BSlo5N1hTU0ZmTUU4d0RRbVQxSDA3QXRHRmNmV242NmtEbHpjQWJPNXdqOTnSAXRBVV95cUxOWVBnQVpNMzV5QUhCTHpWRzZ6Y1hlamY0WVVOTW5VUFlEUHpnNFFMV3l6UFRUWWdwNmU4MVZjWlpOc0o3VDNUSmo5OHhUZVVwbEhEMG9jd1JHamoxTG8xZzhJMDM0QVBiVnpkZWFqWGNMYWQtSw?oc=5",
-      "source": "이뉴스투데이",
-      "date": "Fri, 30 Oct 2026 02:00:00 GMT"
-    },
-    {
       "title": "의왕시, 중국 경제교류 문턱 넓힌다…기업 지원금 없어",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JYWVwWjdqQTQwVFBydVZmNU1ZQ0RTaXRzN2NVOVF0ME02YXpZUE5XQS1HZFJiMU12TGVGMVJLZnFwbnM0a3d4Um5UTDNld3VzVGRZQ0dJcUxuQXBTdWZrQXprTEs?oc=5",
       "source": "서울경제TV",
       "date": "Fri, 30 Oct 2026 01:34:04 GMT"
     },
     {
-      "title": "2026년 9월 중국경제 동향과 전망",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbE8xbHF0UVdNZzllMXZ6SE9Cc2E5MnNMRV9QcUFrbmZ5VEUxSzYtV1VuZENiZnFOVjFxYWlfTVJSc1JrbjNWVkVNd3IzVHRfMzBVVTFYbzdUZnpvT3cxTm5CMHFBWlFRUlVLd09Wc0JHclI5RXkzemxnbnJlLUhJRg?oc=5",
-      "source": "KDI 경제교육·정보센터",
-      "date": "Thu, 29 Oct 2026 15:22:30 GMT"
+      "title": "中국가개발은행, AI·디지털 경제 등에 정책금융 자금 집행...72조원 훌쩍-Xinhua",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0T0gyYUZTQUFYZEs3MWNseDU2Zk9lQ3doNXdtWlhIczd0Q19CZjU4WlFPZDBza3hCUnotTnEyZlZhYXc0aWZOLXdwREtHSElPSWY2RHhQbFJaZHRROFlWWF9YcV9GSjZ5b3VlNVpQbmo0OTM2Z2c?oc=5",
+      "source": "신화망",
+      "date": "Thu, 29 Oct 2026 01:07:07 GMT"
     },
     {
-      "title": "인천시-중국 웨이하이시, 경제·관광 교류 영역 확장",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWREh0bV83UUlpLW5VdmlxTkZjM1BXQTZhLW1aZHA1VUVLS0lkSjhjSWZzVG9NNVVLaU1ZUUFVNDZ0c0ZZM2dIWkJOYlN1VkVkLU9vWldB?oc=5",
-      "source": "헤럴드경제",
-      "date": "Thu, 29 Oct 2026 09:34:44 GMT"
+      "title": "중국 경제는 일본이 걸었던 장기 침체의 길을 피할 수 있을까",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlRGx5YlNHZVhEVXhYQ3M0YmZEdktFT2JqcWZiSHFWVFZ6RGVFbVNpWkNhejhYZ3BvT0pucllYanI0bnFyb0I2VFV1ZUozam1tU2xFYTRVMFBoQnYtUzVSX25CWGg5bWJCUjVRZGJB?oc=5",
+      "source": "캐어유 뉴스",
+      "date": "Wed, 28 Oct 2026 06:00:00 GMT"
     },
     {
-      "title": "인천시, 중국에서 열린 '제9회 인천-웨이하이 지방경제협력 공동위원회' 참석",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DY3JvckhkcnA2OVo3RU81YU5xUXhFRUp3R3pOb0hyQV90QU9iekt1V2FQZXh1RkhEYnlGNEd4RUdrNGJ6V0VrSk5aVTJnNEpkM3lyVktZMUxrZDlhS3l2YWo0T3JvWl9qcXRWUg?oc=5",
-      "source": "인천in 시민의 손으로 만드는 인터넷신문",
-      "date": "Thu, 29 Oct 2026 08:45:35 GMT"
+      "title": "“중국에서 성공하면 세계에서도 통한다”…14개국 기업인들이 상하이서 본 것",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Kelg3aG1TajE0eU1kclhZd1BOOXVPVEwzZFJwR0xiZVRGeXlpN3V0U3A0Y3RDWjhhSWJfZUtYMVdJS2d1ZzdrUGlGM0pLTGlfbmVUczZCR0dFdERZTl9jeGYxVmtPeEdCUmdV?oc=5",
+      "source": "인민망",
+      "date": "Tue, 27 Oct 2026 07:56:49 GMT"
+    },
+    {
+      "title": "2026년 1~3분기 중국 경제동향...내수ㆍ수출 불균형 속 완만한 개선",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kaDNidmY3ejRIU3NmUkowS3FGRXlGOVpNc2RsRGRnamRsdEo0Z1plTFRjSUdMR2hQak5PTFR3cUdadmxJTktjdmEzdnpTOS1WeTlHWnJycm1ReTBXSDAycWFyQWVVbExoa3VMX0FMTnJLWE0?oc=5",
+      "source": "쉬핑뉴스넷",
+      "date": "Mon, 26 Oct 2026 22:37:27 GMT"
     },
     {
       "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
