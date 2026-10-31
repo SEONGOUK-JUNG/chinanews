@@ -1,27 +1,21 @@
 {
-  "run_at_kst": "2026-10-31T14:10:03+09:00",
+  "run_at_kst": "2026-10-31T20:10:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "“친구 결혼식에 10만원? 너무 많아요”…축의금 2만원 상한까지 등장한 中의 속사정",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01ODUyTzJtUmh5UjZVMmpmUkpmRUFDU2wyT2FPS1p3ZTFBRVF3MGFsZnBSMXJBN1YzdnJUZzFEbjN5aHBuTnc5MjJ6OFN5bkFWNmfSAVNBVV95cUxOaUw1Yl9tT0d0eEV4ZS05eDQxTERLa3RfdTk5UXNMYU1BYTZocGJKckNqQzFFSFd4QXNLaEdMVWQzbHkwNC0tRDJoSTBMLUc5cVp4Yw?oc=5",
-      "source": "서울경제",
-      "date": "Sat, 31 Oct 2026 02:41:32 GMT"
+      "title": "시진핑 국가주석, 무역 마찰 의식해 \"EU는 중국과 경제 글로벌화 추진을\"",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxSXlBaE05V0tfcU41anJFaXdQWV9BeVhyV0VVcm44Rk94cHVCV2hRS2RkbTBwSld6QkFoSDBHbTlkSWVfTG9FNHp1dnhzQTlvV0pzSnBMOXNrc0Y1NFJLTmtBYkJfVVU?oc=5",
+      "source": "NHKニュース",
+      "date": "Sat, 31 Oct 2026 01:33:57 GMT"
     },
     {
       "title": "사회주의자 증가 미국, 극우 팽창하는 한국",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlRWlfYTlMOUNaUGE2VF8zOUM2a19wSVdhRE1IcXI2VFZWWHpfaGp3bklfTW9nM3lxUEExVzlzT1ZyY3RRa3FsZ3ZQRmExUWpRMzFNblMwYUlmY3NJc25BZk1STWhyM2Q3c3JN?oc=5",
       "source": "제주의소리",
       "date": "Sat, 31 Oct 2026 01:00:00 GMT"
-    },
-    {
-      "title": "의왕시, 중국 윈청시와 경제교류 확대…민간기업 5곳 모집",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EcWk1TVR5MmlkZVNxMDBtUUNLTEZoajNlZXd0MG5OTUszWnVPSW1GRWxkMjBSWGcwSEF5WGVINERSSkNYTUxTeVR1NVA2VzhQZ2w1VHl1YmFCdThidDBRVXRDMkRqQllDaUhFOFRnRTQ?oc=5",
-      "source": "안전신문",
-      "date": "Fri, 30 Oct 2026 10:25:34 GMT"
     },
     {
       "title": "인천시-중국 웨이하이시 경제·관광 분야 협력 확대 논의",
@@ -36,22 +30,16 @@
       "date": "Fri, 30 Oct 2026 01:34:04 GMT"
     },
     {
+      "title": "2026년 9월 중국경제 동향과 전망",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbE8xbHF0UVdNZzllMXZ6SE9Cc2E5MnNMRV9QcUFrbmZ5VEUxSzYtV1VuZENiZnFOVjFxYWlfTVJSc1JrbjNWVkVNd3IzVHRfMzBVVTFYbzdUZnpvT3cxTm5CMHFBWlFRUlVLd09Wc0JHclI5RXkzemxnbnJlLUhJRg?oc=5",
+      "source": "KDI 경제교육·정보센터",
+      "date": "Thu, 29 Oct 2026 15:22:30 GMT"
+    },
+    {
       "title": "中국가개발은행, AI·디지털 경제 등에 정책금융 자금 집행...72조원 훌쩍-Xinhua",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0T0gyYUZTQUFYZEs3MWNseDU2Zk9lQ3doNXdtWlhIczd0Q19CZjU4WlFPZDBza3hCUnotTnEyZlZhYXc0aWZOLXdwREtHSElPSWY2RHhQbFJaZHRROFlWWF9YcV9GSjZ5b3VlNVpQbmo0OTM2Z2c?oc=5",
       "source": "신화망",
       "date": "Thu, 29 Oct 2026 01:07:07 GMT"
-    },
-    {
-      "title": "중국 경제는 일본이 걸었던 장기 침체의 길을 피할 수 있을까",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlRGx5YlNHZVhEVXhYQ3M0YmZEdktFT2JqcWZiSHFWVFZ6RGVFbVNpWkNhejhYZ3BvT0pucllYanI0bnFyb0I2VFV1ZUozam1tU2xFYTRVMFBoQnYtUzVSX25CWGg5bWJCUjVRZGJB?oc=5",
-      "source": "캐어유 뉴스",
-      "date": "Wed, 28 Oct 2026 06:00:00 GMT"
-    },
-    {
-      "title": "“중국에서 성공하면 세계에서도 통한다”…14개국 기업인들이 상하이서 본 것",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Kelg3aG1TajE0eU1kclhZd1BOOXVPVEwzZFJwR0xiZVRGeXlpN3V0U3A0Y3RDWjhhSWJfZUtYMVdJS2d1ZzdrUGlGM0pLTGlfbmVUczZCR0dFdERZTl9jeGYxVmtPeEdCUmdV?oc=5",
-      "source": "인민망",
-      "date": "Tue, 27 Oct 2026 07:56:49 GMT"
     },
     {
       "title": "2026년 1~3분기 중국 경제동향...내수ㆍ수출 불균형 속 완만한 개선",
@@ -66,6 +54,12 @@
       "date": "Mon, 26 Oct 2026 07:00:00 GMT"
     },
     {
+      "title": "부동산 거품 꺼진 자리 메우려 공장 돌리는 중국…세계 시장과 정면 충돌",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPODdsVDJqbFJZb1dibWlLWTFxeU1ydG1vZl9mcS1tRzFpakpoeTZZNVd4ekJoS3NNbmlOMDFQTEdYNWRiQ19zcVYtbExXN1FUOUlaNUhvUGlnWFlybHBmR0ZRZXBwVHZUTS1lZ1VBTTZNc2k2M0xMM3k1WWNzbEhOWnhFdE5Xdw?oc=5",
+      "source": "글로벌이코노믹",
+      "date": "Wed, 21 Oct 2026 18:35:00 GMT"
+    },
+    {
       "title": "수출 대박나면 뭐하나…중국 경제에 나타난 '이상 신호' [차이나 워치]",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WWW1FNGVVTEp1eXFBN1hCQzIxM2U5OVRiTDk5VUZYd28zbU0zQ2Nid1ZxZDFZZi13a1dzUV8xdlZITjUwN29IeXgyY1R0emEtMllzM2hnR3NuUQ?oc=5",
       "source": "한국경제",
@@ -76,6 +70,12 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtNUZqQWFQc3g0WllieGV3dUJ6VUpVcmNfR2RsY3ZxNlo5TGRTTFBNRlBhQjhHLVdCaEdfSXM4bUpEaGpsY3RPRTBqQVM2ek1IMDV4LUtyNWcxXzJoRXfSAWNBVV95cUxQX2FDdGRvdHBNeTJOWXk5YWtxekYzZHdjTFBRbEhERURFek9YRTBkam96WGZVUlo3RTRKRGptZGlid1pucTZDMWRDMEdpcGpMTk9sWURmLWZ0QWVsNGZ4Z0pwY3M?oc=5",
       "source": "BBC",
       "date": "Mon, 19 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "中학자 \"중국 2035년까지 연 4.6% 성장…수출 주도 지속 불가능\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXTkRpSWw2YzE3RWpGa1BEbjBFN2o3U3B2bnBvd1FhVUJHY0V0Y1dENGNGeFRPejF6UVZiT3cyUkYwYlV2dnR6RG9ZQ1FIVEk2VENGbUtrbVc5Y03SAWBBVV95cUxOVHdTMXJOc0tIRzl0cWlpb1hIN0RGMjZXN0xFN1lwRGktLXNvVHI5R2gwZlQtSy1ReWpiNVY3T2lSTnJwXzY2MkxNTThSTVVIWC1WNHZJMXRYZ25GS0huRVQ?oc=5",
+      "source": "연합뉴스",
+      "date": "Wed, 30 Sep 2026 07:00:00 GMT"
     }
   ]
 }
