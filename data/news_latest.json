@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-10-31T10:10:03+09:00",
+  "run_at_kst": "2026-11-01T07:20:03+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "U.S. Intelligence: China Could Put Laser Weapons in Space by 2030",
+      "link": "https://oilprice.com/Geopolitics/International/US-Intelligence-China-Could-Put-Laser-Weapons-in-Space-by-2030.html",
+      "source": "OilPrice",
+      "date": "Sat, 31 Oct 2026 16:00:00 -0500"
+    },
+    {
+      "title": "Jackdaw Approval Sparks Fierce Debate Over Britain's Energy Future",
+      "link": "https://oilprice.com/Energy/Energy-General/Jackdaw-Approval-Sparks-Fierce-Debate-Over-Britains-Energy-Future.html",
+      "source": "OilPrice",
+      "date": "Sat, 31 Oct 2026 14:00:00 -0500"
+    },
+    {
+      "title": "DARPA Backs Project to Measure AI Energy Use at Every Stage of the Workflow",
+      "link": "https://oilprice.com/Energy/Energy-General/DARPA-Backs-Project-to-Measure-AI-Energy-Use-at-Every-Stage-of-the-Workflow.html",
+      "source": "OilPrice",
+      "date": "Sat, 31 Oct 2026 12:00:00 -0500"
+    },
+    {
+      "title": "Senegal’s Ambitious Plan to Slash Electricity Costs and Boost Energy Security",
+      "link": "https://oilprice.com/Energy/Energy-General/Senegals-Ambitious-Plan-to-Slash-Electricity-Costs-and-Boost-Energy-Security.html",
+      "source": "OilPrice",
+      "date": "Sat, 31 Oct 2026 10:00:00 -0500"
+    },
     {
       "title": "Europe Is Now Seriously Rethinking Its Oil Refinery Phase Down",
       "link": "https://oilprice.com/Energy/Crude-Oil/Europe-Is-Now-Seriously-Rethinking-Its-Oil-Refinery-Phase-Down.html",
@@ -50,24 +74,6 @@
       "date": "Fri, 30 Oct 2026 13:00:00 -0500"
     },
     {
-      "title": "ExxonMobil Profits Double to $15.4 Billion",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/ExxonMobil-Profits-Double-to-154-Billion.html",
-      "source": "OilPrice",
-      "date": "Fri, 30 Oct 2026 12:27:04 -0500"
-    },
-    {
-      "title": "U.S. Oil, Gas Drillers Still on Hold",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Oil-Gas-Drillers-Still-on-Hold.html",
-      "source": "OilPrice",
-      "date": "Fri, 30 Oct 2026 12:09:57 -0500"
-    },
-    {
-      "title": "Oil Traders Brace for a Wild Week as Brent Approaches $120",
-      "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Traders-Brace-for-a-Wild-Week-as-Brent-Approaches-120.html",
-      "source": "OilPrice",
-      "date": "Fri, 30 Oct 2026 11:51:00 -0500"
-    },
-    {
       "title": "Gold price slumps to one-year low, silver price breaks $50 as mining stocks tank",
       "link": "https://www.mining.com/gold-price-slumps-to-one-year-low-silver-price-breaks-50-as-mining-stocks-tank/",
       "source": "mining.com",
@@ -78,12 +84,6 @@
       "link": "https://www.mining.com/perseus-mining-secures-backup-power-for-nyanzaga-gold-project/",
       "source": "mining.com",
       "date": "Fri, 30 Oct 2026 16:22:09 +0000"
-    },
-    {
-      "title": "America’s LNG Boom Faces Its Biggest Test Yet",
-      "link": "https://oilprice.com/Energy/Energy-General/Americas-LNG-Boom-Faces-Its-Biggest-Test-Yet.html",
-      "source": "OilPrice",
-      "date": "Fri, 30 Oct 2026 11:00:00 -0500"
     },
     {
       "title": "Codelco accounting scandal claims eight more employees",

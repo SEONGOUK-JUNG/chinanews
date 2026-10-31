@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-10-31T20:10:04+09:00",
+  "run_at_kst": "2026-11-01T07:20:03+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "中 상위 10개 성·시, 3분기 누적 호조로 국가 GDP 목표 '4.5~5%' 달성 견인",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWmRIR2NESXNSVGpsU21XQnM2QmhwbWRKZVhibVVKdjBQUEtjRU5ZYlBWN3pra3hjZkh3aE1BUm9xSE55N0NjQ21NeEVEbWNsTUhxbVltNENrSG9KWndHbjlyTkxnb1FFc29XTEtRdXRtdmFSZGN1bHBQQUxkUWhQUkVpVERDS1I4?oc=5",
+      "source": "글로벌이코노믹",
+      "date": "Sat, 31 Oct 2026 21:55:00 GMT"
+    },
     {
       "title": "시진핑 국가주석, 무역 마찰 의식해 \"EU는 중국과 경제 글로벌화 추진을\"",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxSXlBaE05V0tfcU41anJFaXdQWV9BeVhyV0VVcm44Rk94cHVCV2hRS2RkbTBwSld6QkFoSDBHbTlkSWVfTG9FNHp1dnhzQTlvV0pzSnBMOXNrc0Y1NFJLTmtBYkJfVVU?oc=5",
@@ -42,6 +48,12 @@
       "date": "Thu, 29 Oct 2026 01:07:07 GMT"
     },
     {
+      "title": "중국 경제는 일본이 걸었던 장기 침체의 길을 피할 수 있을까",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlRGx5YlNHZVhEVXhYQ3M0YmZEdktFT2JqcWZiSHFWVFZ6RGVFbVNpWkNhejhYZ3BvT0pucllYanI0bnFyb0I2VFV1ZUozam1tU2xFYTRVMFBoQnYtUzVSX25CWGg5bWJCUjVRZGJB?oc=5",
+      "source": "캐어유 뉴스",
+      "date": "Wed, 28 Oct 2026 06:00:00 GMT"
+    },
+    {
       "title": "2026년 1~3분기 중국 경제동향...내수ㆍ수출 불균형 속 완만한 개선",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kaDNidmY3ejRIU3NmUkowS3FGRXlGOVpNc2RsRGRnamRsdEo0Z1plTFRjSUdMR2hQak5PTFR3cUdadmxJTktjdmEzdnpTOS1WeTlHWnJycm1ReTBXSDAycWFyQWVVbExoa3VMX0FMTnJLWE0?oc=5",
       "source": "쉬핑뉴스넷",
@@ -54,12 +66,6 @@
       "date": "Mon, 26 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "부동산 거품 꺼진 자리 메우려 공장 돌리는 중국…세계 시장과 정면 충돌",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPODdsVDJqbFJZb1dibWlLWTFxeU1ydG1vZl9mcS1tRzFpakpoeTZZNVd4ekJoS3NNbmlOMDFQTEdYNWRiQ19zcVYtbExXN1FUOUlaNUhvUGlnWFlybHBmR0ZRZXBwVHZUTS1lZ1VBTTZNc2k2M0xMM3k1WWNzbEhOWnhFdE5Xdw?oc=5",
-      "source": "글로벌이코노믹",
-      "date": "Wed, 21 Oct 2026 18:35:00 GMT"
-    },
-    {
       "title": "수출 대박나면 뭐하나…중국 경제에 나타난 '이상 신호' [차이나 워치]",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WWW1FNGVVTEp1eXFBN1hCQzIxM2U5OVRiTDk5VUZYd28zbU0zQ2Nid1ZxZDFZZi13a1dzUV8xdlZITjUwN29IeXgyY1R0emEtMllzM2hnR3NuUQ?oc=5",
       "source": "한국경제",
@@ -70,12 +76,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtNUZqQWFQc3g0WllieGV3dUJ6VUpVcmNfR2RsY3ZxNlo5TGRTTFBNRlBhQjhHLVdCaEdfSXM4bUpEaGpsY3RPRTBqQVM2ek1IMDV4LUtyNWcxXzJoRXfSAWNBVV95cUxQX2FDdGRvdHBNeTJOWXk5YWtxekYzZHdjTFBRbEhERURFek9YRTBkam96WGZVUlo3RTRKRGptZGlid1pucTZDMWRDMEdpcGpMTk9sWURmLWZ0QWVsNGZ4Z0pwY3M?oc=5",
       "source": "BBC",
       "date": "Mon, 19 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "中학자 \"중국 2035년까지 연 4.6% 성장…수출 주도 지속 불가능\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXTkRpSWw2YzE3RWpGa1BEbjBFN2o3U3B2bnBvd1FhVUJHY0V0Y1dENGNGeFRPejF6UVZiT3cyUkYwYlV2dnR6RG9ZQ1FIVEk2VENGbUtrbVc5Y03SAWBBVV95cUxOVHdTMXJOc0tIRzl0cWlpb1hIN0RGMjZXN0xFN1lwRGktLXNvVHI5R2gwZlQtSy1ReWpiNVY3T2lSTnJwXzY2MkxNTThSTVVIWC1WNHZJMXRYZ25GS0huRVQ?oc=5",
-      "source": "연합뉴스",
-      "date": "Wed, 30 Sep 2026 07:00:00 GMT"
     }
   ]
 }
