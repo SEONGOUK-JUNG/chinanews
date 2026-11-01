@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-01T07:20:03+09:00",
+  "run_at_kst": "2026-11-01T10:10:03+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Chevron Raises Exploration Spending By 50%",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Chevron-Raises-Exploration-Spending-By-50.html",
+      "source": "OilPrice",
+      "date": "Sat, 31 Oct 2026 18:00:00 -0500"
+    },
     {
       "title": "U.S. Intelligence: China Could Put Laser Weapons in Space by 2030",
       "link": "https://oilprice.com/Geopolitics/International/US-Intelligence-China-Could-Put-Laser-Weapons-in-Space-by-2030.html",
@@ -66,12 +72,6 @@
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-Profits-Nearly-Triple-to-99-Billion.html",
       "source": "OilPrice",
       "date": "Fri, 30 Oct 2026 13:30:00 -0500"
-    },
-    {
-      "title": "Water Tank Rupture Triggers Safety Concerns at Tajikistan’s Rogun Dam",
-      "link": "https://oilprice.com/Alternative-Energy/Hydroelectric/Water-Tank-Rupture-Triggers-Safety-Concerns-at-Tajikistans-Rogun-Dam.html",
-      "source": "OilPrice",
-      "date": "Fri, 30 Oct 2026 13:00:00 -0500"
     },
     {
       "title": "Gold price slumps to one-year low, silver price breaks $50 as mining stocks tank",
