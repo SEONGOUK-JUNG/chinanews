@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-11-01T20:10:05+09:00",
+  "run_at_kst": "2026-11-02T07:20:03+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "울산 남구-중국 염성시, 경제·스포츠 교류 확대",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSMkI5T1lselFsQ1V1NmQyS1NPQ09RU1dPOERMRWJTZnRFR2poN3dISEdnY3BtaWc0RXJaazVydmZSbGVQVjFSREJoVk81Vk93N08zOGtYay13QmJPdWlnQVYtSlMxSlpZNWphdE9n0gFyQVVfeXFMT0kwZHRNTjIySnVGWTBnelBkakJiTlRGQ3JUTXVPWXRwN0FSZ3VZZDYycWwxcHFqenRaVzZMWVR1WFMxaVVIanJndzhfaXViZERfYTBZSEdoVWJsNzNhbzZFVmE0akw5Y281VzN2T3ZqZXpR?oc=5",
+      "source": "울산신문",
+      "date": "Sun, 01 Nov 2026 11:10:00 GMT"
+    },
     {
       "title": "“中제조업 탈중국... 韓도 베트남 쏠림 해소해야”",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sLXhkUlY2b1RVYnlHN0NPXzBZeWhNLUZJUnZIal9ieFRIdnBkZURSVndWcTktaURkVHZUcm9aeU5nSW42U3R4TVd0Y19RM3hBNW8wRjF3?oc=5",
@@ -12,16 +18,16 @@
       "date": "Sun, 01 Nov 2026 08:26:31 GMT"
     },
     {
+      "title": "의왕시, 중국 윈청시 경제교류 위한 스카우터 모집, 전자상거래 활성화 등 5개사 모집",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpRGV6S3BVRmJqY1RSNGNybTZkS2JSa0Rzc3J1R0czQUhwQ2g2MktpdnluWXozcm4tYU5Jd19nR0hNYzVSckJBeVRUVUp5bmp5VV8yYjQ0TWV0WnkybWhyRTRn?oc=5",
+      "source": "경기신문",
+      "date": "Sun, 01 Nov 2026 08:06:53 GMT"
+    },
+    {
       "title": "중·러에 ‘줄타기 외교’ 펼치는 北…APEC 앞두고 단둥 찾은 속내는",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVaG9WTm5adXE0VVhvRkJ0dTJybjNueXFZRURhV25SLW5GNXhnZGc1MUJXZ3JESTh3dTJQUUVJZG5VaEMwaXRhNzIxRzllZDd3dzdBbWRSUm1zazQ4NzVyakEyd2lMMFF5azh0WDZyMNIBc0FVX3lxTE1kYVA1N0huMnBSUjJPLWF2eHpsbHE2YVdZNmRVSDFTQjQycnFrZGNWVU1HQjBaaEI3ZmM1M1R2X2lGbnVGLVJHVXNJV3RBcG9rR01fU3NMb1J1TUkyTFZPcTZKU291N1RzakJfWThVaFM1UWc?oc=5",
       "source": "시사저널",
       "date": "Sun, 01 Nov 2026 07:00:00 GMT"
-    },
-    {
-      "title": "의왕시, 중국 윈청시 경제교류 스카우터 모집",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiQUQzdG5icWt4cmx5RnJlZUo3Tk1HcFF3YWZEbjV2M0xZWEF3cW4xeFN0OG1pYmJUVnJqX1NGTmZUb2xiZkhxcnRBUW5LNjFELVJmSjU2U3Z6OW85cmhxQzYxMTBHbWxf?oc=5",
-      "source": "환경일보",
-      "date": "Sun, 01 Nov 2026 06:40:00 GMT"
     },
     {
       "title": "확연한 디플레이션 조짐, 中 제조업 경기 원위치",
@@ -34,12 +40,6 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xaVBUUlVmenBnal84aldpYjJteldONFNaLVVkeTlOd0JPelhpN2U3a3ZMdjVsZXVTNjlGMEc1eWo3SjNJSkRRMjNiQ2JfR2NJeTc2eUpPX1h6TUVxbFliYnBFWERydkM5cFRBUXRtVQ?oc=5",
       "source": "기호일보",
       "date": "Sun, 01 Nov 2026 03:28:19 GMT"
-    },
-    {
-      "title": "중국 인민은행, 익일물 역레포 매일 실시…정책금리 전환",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44R3UwdFg3UEJyRVpkdzVkZEIxenRxLWtpVkNvSzVOV2hUOTNkMWQyRnhVdGs4THRKUnlZRzFSRzRPN2w3VGM3MnJLSmNsUFowRmswWERFN2VsZE1Kc1lpdFEwOERUWEtITTFFYg?oc=5",
-      "source": "스페셜경제",
-      "date": "Sun, 01 Nov 2026 02:32:50 GMT"
     },
     {
       "title": "의왕시, 중국 윈청시 경제교류 참여 기업 5곳 모집",

@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-01T10:10:03+09:00",
+  "run_at_kst": "2026-11-02T07:20:03+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Massive AI Data Center Sparks Backlash Despite Clean Energy Promises",
+      "link": "https://oilprice.com/Energy/Energy-General/Massive-AI-Data-Center-Sparks-Backlash-Despite-Clean-Energy-Promises.html",
+      "source": "OilPrice",
+      "date": "Sun, 01 Nov 2026 14:00:00 -0600"
+    },
+    {
+      "title": "U.S. Labs Look to New Materials to Close China's Nuclear Lead",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Labs-Look-to-New-Materials-to-Close-Chinas-Nuclear-Lead.html",
+      "source": "OilPrice",
+      "date": "Sun, 01 Nov 2026 12:00:00 -0600"
+    },
+    {
+      "title": "Global resource squeeze signals market shift: report",
+      "link": "https://www.mining.com/global-resource-squeeze-signals-market-shift-report/",
+      "source": "mining.com",
+      "date": "Sun, 01 Nov 2026 17:27:06 +0000"
+    },
+    {
+      "title": "Azerbaijan’s Renewable Energy Boom Is Transforming Its Power Sector",
+      "link": "https://oilprice.com/Energy/Energy-General/Azerbaijans-Renewable-Energy-Boom-Is-Transforming-Its-Power-Sector.html",
+      "source": "OilPrice",
+      "date": "Sun, 01 Nov 2026 10:00:00 -0600"
+    },
+    {
+      "title": "Cutifani warns mining sector’s failure to innovate opens door to takeovers",
+      "link": "https://www.mining.com/cutifani-warns-mining-sectors-failure-to-innovate-opens-door-to-takeovers/",
+      "source": "mining.com",
+      "date": "Sun, 01 Nov 2026 12:00:00 +0000"
+    },
     {
       "title": "Chevron Raises Exploration Spending By 50%",
       "link": "https://oilprice.com/Energy/Crude-Oil/Chevron-Raises-Exploration-Spending-By-50.html",
@@ -38,18 +68,6 @@
       "date": "Sat, 31 Oct 2026 10:00:00 -0500"
     },
     {
-      "title": "Europe Is Now Seriously Rethinking Its Oil Refinery Phase Down",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Europe-Is-Now-Seriously-Rethinking-Its-Oil-Refinery-Phase-Down.html",
-      "source": "OilPrice",
-      "date": "Fri, 30 Oct 2026 18:00:00 -0500"
-    },
-    {
-      "title": "Gasoline Up 34% and Heating Oil Up 74% as Voters Head to the Midterms",
-      "link": "https://oilprice.com/Energy/Gas-Prices/Gasoline-Up-34-and-Heating-Oil-Up-74-as-Voters-Head-to-the-Midterms.html",
-      "source": "OilPrice",
-      "date": "Fri, 30 Oct 2026 17:00:00 -0500"
-    },
-    {
       "title": "Uranium shares slide even as analysts see tighter supply",
       "link": "https://www.mining.com/uranium-shares-slide-even-as-analysts-see-tighter-supply/",
       "source": "mining.com",
@@ -68,28 +86,10 @@
       "date": "Fri, 30 Oct 2026 19:10:47 +0000"
     },
     {
-      "title": "Chevron Profits Nearly Triple to $9.9 Billion",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-Profits-Nearly-Triple-to-99-Billion.html",
-      "source": "OilPrice",
-      "date": "Fri, 30 Oct 2026 13:30:00 -0500"
-    },
-    {
       "title": "Gold price slumps to one-year low, silver price breaks $50 as mining stocks tank",
       "link": "https://www.mining.com/gold-price-slumps-to-one-year-low-silver-price-breaks-50-as-mining-stocks-tank/",
       "source": "mining.com",
       "date": "Fri, 30 Oct 2026 16:31:19 +0000"
-    },
-    {
-      "title": "Perseus Mining secures backup power for Nyanzaga gold project",
-      "link": "https://www.mining.com/perseus-mining-secures-backup-power-for-nyanzaga-gold-project/",
-      "source": "mining.com",
-      "date": "Fri, 30 Oct 2026 16:22:09 +0000"
-    },
-    {
-      "title": "Codelco accounting scandal claims eight more employees",
-      "link": "https://www.mining.com/codelco-accounting-scandal-claims-eight-more-employees/",
-      "source": "mining.com",
-      "date": "Fri, 30 Oct 2026 12:50:00 +0000"
     }
   ]
 }
