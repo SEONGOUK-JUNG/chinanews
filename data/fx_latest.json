@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-01T07:00:05.951744+09:00",
+  "run_at_kst": "2026-11-01T13:00:07.769465+09:00",
   "source": "Yahoo Finance (yfinance)",
   "source_url": "https://finance.yahoo.com/currencies",
   "delay": "15-20min",
@@ -45,9 +45,9 @@
     "usd_cny": {
       "name": "USD/CNY",
       "memo": "달러/위안 (Yahoo 직접)",
-      "value": 6.6449,
+      "value": 6.654,
       "prev_value": 6.6513,
-      "change_pct": -0.0962,
+      "change_pct": 0.0406,
       "source": "yfinance",
       "ticker": "USDCNY=X"
     }

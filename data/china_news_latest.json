@@ -1,27 +1,33 @@
 {
-  "run_at_kst": "2026-11-01T10:10:03+09:00",
+  "run_at_kst": "2026-11-01T14:10:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "의왕시, 중국 윈청시와 경제협력 물꼬 튼다",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xaVBUUlVmenBnal84aldpYjJteldONFNaLVVkeTlOd0JPelhpN2U3a3ZMdjVsZXVTNjlGMEc1eWo3SjNJSkRRMjNiQ2JfR2NJeTc2eUpPX1h6TUVxbFliYnBFWERydkM5cFRBUXRtVQ?oc=5",
+      "source": "기호일보",
+      "date": "Sun, 01 Nov 2026 03:28:19 GMT"
+    },
+    {
+      "title": "중국 10월 제조업 PMI 49.3, 숫자 하나로 경기를 단정할 수 없다",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYZVZJQVhSR2x0aGttRDdoTWVMemhEcGRETVQ0X2h0VUpHY3dtYWpob2liaTY0cm90MXRmUWIzM0M5dWxkLVJNTXV6SnJScFd4bmFr?oc=5",
+      "source": "유스연합",
+      "date": "Sun, 01 Nov 2026 03:12:08 GMT"
+    },
+    {
+      "title": "중국 인민은행, 익일물 역레포 매일 실시…정책금리 전환",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44R3UwdFg3UEJyRVpkdzVkZEIxenRxLWtpVkNvSzVOV2hUOTNkMWQyRnhVdGs4THRKUnlZRzFSRzRPN2w3VGM3MnJLSmNsUFowRmswWERFN2VsZE1Kc1lpdFEwOERUWEtITTFFYg?oc=5",
+      "source": "스페셜경제",
+      "date": "Sun, 01 Nov 2026 02:32:50 GMT"
+    },
+    {
       "title": "의왕시, 중국 윈청시 경제교류 참여 기업 5곳 모집",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PdUE1ZDRwQlpxOFVHRmpRX0pUTUlWWVU4bnVpcE9waHJRZDBCdGxhaWl4ckt5YndPckJPRF9oTlg0bFliX2RlOFBoVkFCODI0aG9zMXBtaVY0dXljVFd3SWdlT1F4b2Rud2ZBRGV3ZGx2TUNq?oc=5",
       "source": "대한경제",
       "date": "Sun, 01 Nov 2026 00:23:48 GMT"
-    },
-    {
-      "title": "中 상위 10개 성·시, 3분기 누적 호조로 국가 GDP 목표 '4.5~5%' 달성 견인",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWmRIR2NESXNSVGpsU21XQnM2QmhwbWRKZVhibVVKdjBQUEtjRU5ZYlBWN3pra3hjZkh3aE1BUm9xSE55N0NjQ21NeEVEbWNsTUhxbVltNENrSG9KWndHbjlyTkxnb1FFc29XTEtRdXRtdmFSZGN1bHBQQUxkUWhQUkVpVERDS1I4?oc=5",
-      "source": "글로벌이코노믹",
-      "date": "Sat, 31 Oct 2026 21:55:00 GMT"
-    },
-    {
-      "title": "인천시-중국 웨이하이시 경제·관광 분야 협력 확대 논의",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oZG5YU0EwUUR3QmRueWxfUEVfM2w3MjBCVV85SE5sUDlNeks4ZEs4X3dTZTlfTW81OWZ2eHV4d1p2RmN3c205ZHFJN09uLVYxSXhXaUdCdGFsSTQtYUI4Xy13?oc=5",
-      "source": "경기신문",
-      "date": "Fri, 30 Oct 2026 02:37:03 GMT"
     },
     {
       "title": "의왕시, 중국 경제교류 문턱 넓힌다…기업 지원금 없어",
@@ -36,16 +42,10 @@
       "date": "Thu, 29 Oct 2026 15:22:30 GMT"
     },
     {
-      "title": "중국 바오터우, 고체수소저장 이륜차 2000대 보급",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DS1RWQzY2TndNQXd3Wk1PejYycWp1bGxrbG9zLWJRR1gweWpvMDNGaXE0SW94ZTMxZ19yZ3RHWkR3bVBYSGtBWXpMQUdHVGNKRlo4ZElYSWphSFYzRVN2ak1sTncxdw?oc=5",
-      "source": "월간수소경제",
-      "date": "Thu, 29 Oct 2026 01:21:55 GMT"
-    },
-    {
-      "title": "중국 경제는 일본이 걸었던 장기 침체의 길을 피할 수 있을까",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlRGx5YlNHZVhEVXhYQ3M0YmZEdktFT2JqcWZiSHFWVFZ6RGVFbVNpWkNhejhYZ3BvT0pucllYanI0bnFyb0I2VFV1ZUozam1tU2xFYTRVMFBoQnYtUzVSX25CWGg5bWJCUjVRZGJB?oc=5",
-      "source": "캐어유 뉴스",
-      "date": "Wed, 28 Oct 2026 06:00:00 GMT"
+      "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Thu, 29 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "2026년 1~3분기 중국 경제동향...내수ㆍ수출 불균형 속 완만한 개선",
@@ -54,10 +54,10 @@
       "date": "Mon, 26 Oct 2026 22:37:27 GMT"
     },
     {
-      "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Mon, 26 Oct 2026 07:00:00 GMT"
+      "title": "부동산 거품 꺼진 자리 메우려 공장 돌리는 중국…세계 시장과 정면 충돌",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPODdsVDJqbFJZb1dibWlLWTFxeU1ydG1vZl9mcS1tRzFpakpoeTZZNVd4ekJoS3NNbmlOMDFQTEdYNWRiQ19zcVYtbExXN1FUOUlaNUhvUGlnWFlybHBmR0ZRZXBwVHZUTS1lZ1VBTTZNc2k2M0xMM3k1WWNzbEhOWnhFdE5Xdw?oc=5",
+      "source": "글로벌이코노믹",
+      "date": "Wed, 21 Oct 2026 18:35:00 GMT"
     },
     {
       "title": "수출 대박나면 뭐하나…중국 경제에 나타난 '이상 신호' [차이나 워치]",
@@ -72,10 +72,10 @@
       "date": "Mon, 19 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "[그래픽] 중국 경제성장률 추이",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55Wk9rY1FZX2ZwcXMzSTV3T2l2Yk5zUy0zSjlYMnhaRnVwQXN2WFRpeEZ6WUF0VEVyeVY1SUxRbW93UjR1RXRfbmRaTXctaWZaZXVoTEtZLWZpdDTSAWBBVV95cUxPT1BJV3ZBQ0ZzLXdaVy1pT1JISEVTMDVMcjNMUDhKb3BCdklIUG1yWFVnSE9GSTBWa3VZZzY3ejZLc2h6dDU5eldadXd2a0N2endiX05yTmNOQ1pjZ19GWDM?oc=5",
+      "title": "中학자 \"중국 2035년까지 연 4.6% 성장…수출 주도 지속 불가능\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXTkRpSWw2YzE3RWpGa1BEbjBFN2o3U3B2bnBvd1FhVUJHY0V0Y1dENGNGeFRPejF6UVZiT3cyUkYwYlV2dnR6RG9ZQ1FIVEk2VENGbUtrbVc5Y03SAWBBVV95cUxOVHdTMXJOc0tIRzl0cWlpb1hIN0RGMjZXN0xFN1lwRGktLXNvVHI5R2gwZlQtSy1ReWpiNVY3T2lSTnJwXzY2MkxNTThSTVVIWC1WNHZJMXRYZ25GS0huRVQ?oc=5",
       "source": "연합뉴스",
-      "date": "Mon, 19 Oct 2026 07:00:00 GMT"
+      "date": "Wed, 30 Sep 2026 07:00:00 GMT"
     }
   ]
 }
