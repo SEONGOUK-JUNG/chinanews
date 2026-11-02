@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-02T07:20:03+09:00",
+  "run_at_kst": "2026-11-02T14:10:04+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,18 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Why Is This Rare Earth Metal 346 Times More Expensive In America Than in China?",
+      "link": "https://oilprice.com/Energy/Energy-General/Why-Is-This-Rare-Earth-Metal-346-Times-More-Expensive-In-America-Than-in-China.html",
+      "source": "OilPrice",
+      "date": "Sun, 01 Nov 2026 19:00:00 -0600"
+    },
+    {
+      "title": "Oil Prices No Longer Follow Headlines",
+      "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-No-Longer-Follow-Headlines.html",
+      "source": "OilPrice",
+      "date": "Sun, 01 Nov 2026 18:00:00 -0600"
+    },
     {
       "title": "Massive AI Data Center Sparks Backlash Despite Clean Energy Promises",
       "link": "https://oilprice.com/Energy/Energy-General/Massive-AI-Data-Center-Sparks-Backlash-Despite-Clean-Energy-Promises.html",
@@ -54,18 +66,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/Jackdaw-Approval-Sparks-Fierce-Debate-Over-Britains-Energy-Future.html",
       "source": "OilPrice",
       "date": "Sat, 31 Oct 2026 14:00:00 -0500"
-    },
-    {
-      "title": "DARPA Backs Project to Measure AI Energy Use at Every Stage of the Workflow",
-      "link": "https://oilprice.com/Energy/Energy-General/DARPA-Backs-Project-to-Measure-AI-Energy-Use-at-Every-Stage-of-the-Workflow.html",
-      "source": "OilPrice",
-      "date": "Sat, 31 Oct 2026 12:00:00 -0500"
-    },
-    {
-      "title": "Senegal’s Ambitious Plan to Slash Electricity Costs and Boost Energy Security",
-      "link": "https://oilprice.com/Energy/Energy-General/Senegals-Ambitious-Plan-to-Slash-Electricity-Costs-and-Boost-Energy-Security.html",
-      "source": "OilPrice",
-      "date": "Sat, 31 Oct 2026 10:00:00 -0500"
     },
     {
       "title": "Uranium shares slide even as analysts see tighter supply",

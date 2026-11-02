@@ -1,21 +1,51 @@
 {
-  "run_at_kst": "2026-11-02T07:20:03+09:00",
+  "run_at_kst": "2026-11-02T14:10:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "[경제] 中 경제브리핑...1~9월 중국 국유∙국유홀딩스 기업, 총이윤 전년比 3% 증가 外",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XVkZYY2V3bXFBbFUzaUN1MVVrUHNFbDVVT3BsVEZGMlJmZ1lFX0FYZnBGZjZVMTJoWnJVLVlydU5iNk9PbVFoaUY0NU12NmlnYWlnNTU5eTdsUFJCRmRSVzRvei1JY2VSdXVDNE1aRHhpOXc?oc=5",
+      "source": "동방일보",
+      "date": "Mon, 02 Nov 2026 04:27:26 GMT"
+    },
+    {
+      "title": "\"공산당 통제가 경제 망친다고?\"…시진핑, 정면 반박 [차이나 워치]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkTDJ6T3U4NTR4Z2R1SGRjZ2xET201YV91eWdCU19Dd0cwSWhaXzQ5cHExeENlamNYN1dvX3hkOEsyeFJMVjJPajJ1WXBCQVQyWjVFd1RHYVc0QQ?oc=5",
+      "source": "한국경제",
+      "date": "Mon, 02 Nov 2026 04:18:31 GMT"
+    },
+    {
+      "title": "김원기 의정부시장, 중국 산둥성서 투자유치 성과 .... 현지 기업 입주의향서 5건 확보",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50N19YTlUzSjBISHliT193a1Z2NWVOSmVudmw5TzI3VWNFR1ZWeGc2WElwNG9Mdm5EaHZrdUswdF9hMHFBeVAwdFp2QzJpYnNuTzRDcWVwQlZLaWNqNjdfTw?oc=5",
+      "source": "메트로신문",
+      "date": "Mon, 02 Nov 2026 02:51:32 GMT"
+    },
+    {
+      "title": "편견을 걷어낸 중국의 정치.경제.산업.문화",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJNnFGSFQ1ZzNuLUpjTlpzTE1pSW1ISzZabkdFZjdXVmk5ZUtMR3RIbEUzMkQ4UC1xV1ZpWXl0MlQtaS1vc0VXVk5ReDdNR3hZNmtQNUZtenlKeGpIdnp6eVVfVmg?oc=5",
+      "source": "중도일보",
+      "date": "Mon, 02 Nov 2026 02:34:31 GMT"
+    },
+    {
+      "title": "“중국보다 빨라야 하는데” 인도 경전차, 장갑 강화에 ‘골머리’",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GM3RjT3c4Mlk2b0x1QjI0VmQ5ZHQ1VlVzUlpmQnM2UDlHYW53MUdVWE9QMFFkZ2liOTVEQ0RKZjZ0WHhGRFFRLVhFN0dqeFVpSmc?oc=5",
+      "source": "매일경제",
+      "date": "Mon, 02 Nov 2026 02:21:40 GMT"
+    },
+    {
+      "title": "김원기 의정부시장, 중국 산둥성에서 경제협력 발판 마련…투자 유치나서",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOVXZ2QW5GYkNiX1ZEZW9KUl9Sa1oyeFNVTnR1SXhBVWc2TC1YQnRKckRqMThFdUY5RDhTaTVHeE9Qblp0WDBVbFhFaVJNZ1BWTmRmMlNQTHZobmhoSUNfS0lKWnV1THhlQzlNSXl3U0R0bmw3dm5sM1RJM1cwUGh4VWZoUEtTdTR0c0Y3aVhhLTRsZjk0S08wS3c5bjJSZENMV09RU0pNZzhPbjBnRk45eDh4Y0pkRVVSR2JiWlYtaWJ2czZzSTIxWlZYYTE4VFM0SDVfSndPNEZzbmhEV2VRSzQtclVMcnVqVXlWdTg5U1Fickt6bTBxOTBZNF9XXzJwdFA4Y3o1LTRSNmJBaFlGa3RWZmFCOHA5eXliWG11T0ZGX3c?oc=5",
+      "source": "데일리안",
+      "date": "Mon, 02 Nov 2026 01:46:00 GMT"
+    },
+    {
       "title": "울산 남구-중국 염성시, 경제·스포츠 교류 확대",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSMkI5T1lselFsQ1V1NmQyS1NPQ09RU1dPOERMRWJTZnRFR2poN3dISEdnY3BtaWc0RXJaazVydmZSbGVQVjFSREJoVk81Vk93N08zOGtYay13QmJPdWlnQVYtSlMxSlpZNWphdE9n0gFyQVVfeXFMT0kwZHRNTjIySnVGWTBnelBkakJiTlRGQ3JUTXVPWXRwN0FSZ3VZZDYycWwxcHFqenRaVzZMWVR1WFMxaVVIanJndzhfaXViZERfYTBZSEdoVWJsNzNhbzZFVmE0akw5Y281VzN2T3ZqZXpR?oc=5",
       "source": "울산신문",
       "date": "Sun, 01 Nov 2026 11:10:00 GMT"
-    },
-    {
-      "title": "“中제조업 탈중국... 韓도 베트남 쏠림 해소해야”",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sLXhkUlY2b1RVYnlHN0NPXzBZeWhNLUZJUnZIal9ieFRIdnBkZURSVndWcTktaURkVHZUcm9aeU5nSW42U3R4TVd0Y19RM3hBNW8wRjF3?oc=5",
-      "source": "매일경제",
-      "date": "Sun, 01 Nov 2026 08:26:31 GMT"
     },
     {
       "title": "의왕시, 중국 윈청시 경제교류 위한 스카우터 모집, 전자상거래 활성화 등 5개사 모집",
@@ -24,28 +54,10 @@
       "date": "Sun, 01 Nov 2026 08:06:53 GMT"
     },
     {
-      "title": "중·러에 ‘줄타기 외교’ 펼치는 北…APEC 앞두고 단둥 찾은 속내는",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVaG9WTm5adXE0VVhvRkJ0dTJybjNueXFZRURhV25SLW5GNXhnZGc1MUJXZ3JESTh3dTJQUUVJZG5VaEMwaXRhNzIxRzllZDd3dzdBbWRSUm1zazQ4NzVyakEyd2lMMFF5azh0WDZyMNIBc0FVX3lxTE1kYVA1N0huMnBSUjJPLWF2eHpsbHE2YVdZNmRVSDFTQjQycnFrZGNWVU1HQjBaaEI3ZmM1M1R2X2lGbnVGLVJHVXNJV3RBcG9rR01fU3NMb1J1TUkyTFZPcTZKU291N1RzakJfWThVaFM1UWc?oc=5",
-      "source": "시사저널",
-      "date": "Sun, 01 Nov 2026 07:00:00 GMT"
-    },
-    {
       "title": "확연한 디플레이션 조짐, 中 제조업 경기 원위치",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xTDBtNXo3SmxVYmN4dVFncThIdlBXSDl2ZWhBaEZRWG5YZU83SWVCTkJkTUZGek5GZFFzNjYyVkRYclVCQ3hDcmFZdDdrVUlDbUlfSFVneWlaZHotLWhzNlNpWmR3eFpZVV9sYVN3?oc=5",
       "source": "아시아투데이",
       "date": "Sun, 01 Nov 2026 05:24:04 GMT"
-    },
-    {
-      "title": "의왕시, 중국 윈청시와 경제협력 물꼬 튼다",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xaVBUUlVmenBnal84aldpYjJteldONFNaLVVkeTlOd0JPelhpN2U3a3ZMdjVsZXVTNjlGMEc1eWo3SjNJSkRRMjNiQ2JfR2NJeTc2eUpPX1h6TUVxbFliYnBFWERydkM5cFRBUXRtVQ?oc=5",
-      "source": "기호일보",
-      "date": "Sun, 01 Nov 2026 03:28:19 GMT"
-    },
-    {
-      "title": "의왕시, 중국 윈청시 경제교류 참여 기업 5곳 모집",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PdUE1ZDRwQlpxOFVHRmpRX0pUTUlWWVU4bnVpcE9waHJRZDBCdGxhaWl4ckt5YndPckJPRF9oTlg0bFliX2RlOFBoVkFCODI0aG9zMXBtaVY0dXljVFd3SWdlT1F4b2Rud2ZBRGV3ZGx2TUNq?oc=5",
-      "source": "대한경제",
-      "date": "Sun, 01 Nov 2026 00:23:48 GMT"
     },
     {
       "title": "의왕시, 중국 경제교류 문턱 넓힌다…기업 지원금 없어",
@@ -54,28 +66,16 @@
       "date": "Fri, 30 Oct 2026 01:34:04 GMT"
     },
     {
-      "title": "2026년 9월 중국경제 동향과 전망",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbE8xbHF0UVdNZzllMXZ6SE9Cc2E5MnNMRV9QcUFrbmZ5VEUxSzYtV1VuZENiZnFOVjFxYWlfTVJSc1JrbjNWVkVNd3IzVHRfMzBVVTFYbzdUZnpvT3cxTm5CMHFBWlFRUlVLd09Wc0JHclI5RXkzemxnbnJlLUhJRg?oc=5",
-      "source": "KDI 경제교육·정보센터",
-      "date": "Thu, 29 Oct 2026 15:28:29 GMT"
-    },
-    {
-      "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Thu, 29 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "수출 대박나면 뭐하나…중국 경제에 나타난 '이상 신호' [차이나 워치]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WWW1FNGVVTEp1eXFBN1hCQzIxM2U5OVRiTDk5VUZYd28zbU0zQ2Nid1ZxZDFZZi13a1dzUV8xdlZITjUwN29IeXgyY1R0emEtMllzM2hnR3NuUQ?oc=5",
-      "source": "한국경제",
-      "date": "Mon, 19 Oct 2026 07:00:00 GMT"
-    },
-    {
       "title": "AI 붐에 수출 증대 … 중국 경제 성장세 가속화",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtNUZqQWFQc3g0WllieGV3dUJ6VUpVcmNfR2RsY3ZxNlo5TGRTTFBNRlBhQjhHLVdCaEdfSXM4bUpEaGpsY3RPRTBqQVM2ek1IMDV4LUtyNWcxXzJoRXfSAWNBVV95cUxQX2FDdGRvdHBNeTJOWXk5YWtxekYzZHdjTFBRbEhERURFek9YRTBkam96WGZVUlo3RTRKRGptZGlid1pucTZDMWRDMEdpcGpMTk9sWURmLWZ0QWVsNGZ4Z0pwY3M?oc=5",
       "source": "BBC",
       "date": "Mon, 19 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "中학자 \"중국 2035년까지 연 4.6% 성장…수출 주도 지속 불가능\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXTkRpSWw2YzE3RWpGa1BEbjBFN2o3U3B2bnBvd1FhVUJHY0V0Y1dENGNGeFRPejF6UVZiT3cyUkYwYlV2dnR6RG9ZQ1FIVEk2VENGbUtrbVc5Y03SAWBBVV95cUxOVHdTMXJOc0tIRzl0cWlpb1hIN0RGMjZXN0xFN1lwRGktLXNvVHI5R2gwZlQtSy1ReWpiNVY3T2lSTnJwXzY2MkxNTThSTVVIWC1WNHZJMXRYZ25GS0huRVQ?oc=5",
+      "source": "연합뉴스",
+      "date": "Wed, 30 Sep 2026 07:00:00 GMT"
     }
   ]
 }
