@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-02T14:10:04+09:00",
+  "run_at_kst": "2026-11-02T20:10:04+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "TotalEnergies to Acquire 30% Stake in Two Major Malaysian Gas Fields",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-to-Acquire-30-Stake-in-Two-Major-Malaysian-Gas-Fields.html",
+      "source": "OilPrice",
+      "date": "Mon, 02 Nov 2026 05:00:00 -0600"
+    },
+    {
+      "title": "Iraq's Oil Exports via Turkey Surge to 500,000 Bpd",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraqs-Oil-Exports-via-Turkey-Surge-to-500000-Bpd.html",
+      "source": "OilPrice",
+      "date": "Mon, 02 Nov 2026 04:00:00 -0600"
+    },
+    {
+      "title": "Goldman Sachs Raises December Brent Oil Price Forecast to $105",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Raises-Brent-Oil-Price-Forecast-to-105.html",
+      "source": "OilPrice",
+      "date": "Mon, 02 Nov 2026 03:00:00 -0600"
+    },
+    {
+      "title": "U.S. Pushes to Restore Russian Gas Flows to Europe",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Pushes-to-Restore-Russian-Gas-Flows-to-Europe.html",
+      "source": "OilPrice",
+      "date": "Mon, 02 Nov 2026 01:50:00 -0600"
+    },
+    {
+      "title": "Oil Prices Slide 3% as Hopes for Iran Peace Deal Grow",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Slide-3-as-Hopes-for-Iran-Peace-Deal-Grow.html",
+      "source": "OilPrice",
+      "date": "Mon, 02 Nov 2026 00:30:00 -0600"
+    },
     {
       "title": "Why Is This Rare Earth Metal 346 Times More Expensive In America Than in China?",
       "link": "https://oilprice.com/Energy/Energy-General/Why-Is-This-Rare-Earth-Metal-346-Times-More-Expensive-In-America-Than-in-China.html",
@@ -26,46 +56,16 @@
       "date": "Sun, 01 Nov 2026 14:00:00 -0600"
     },
     {
-      "title": "U.S. Labs Look to New Materials to Close China's Nuclear Lead",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Labs-Look-to-New-Materials-to-Close-Chinas-Nuclear-Lead.html",
-      "source": "OilPrice",
-      "date": "Sun, 01 Nov 2026 12:00:00 -0600"
-    },
-    {
       "title": "Global resource squeeze signals market shift: report",
       "link": "https://www.mining.com/global-resource-squeeze-signals-market-shift-report/",
       "source": "mining.com",
       "date": "Sun, 01 Nov 2026 17:27:06 +0000"
     },
     {
-      "title": "Azerbaijan’s Renewable Energy Boom Is Transforming Its Power Sector",
-      "link": "https://oilprice.com/Energy/Energy-General/Azerbaijans-Renewable-Energy-Boom-Is-Transforming-Its-Power-Sector.html",
-      "source": "OilPrice",
-      "date": "Sun, 01 Nov 2026 10:00:00 -0600"
-    },
-    {
       "title": "Cutifani warns mining sector’s failure to innovate opens door to takeovers",
       "link": "https://www.mining.com/cutifani-warns-mining-sectors-failure-to-innovate-opens-door-to-takeovers/",
       "source": "mining.com",
       "date": "Sun, 01 Nov 2026 12:00:00 +0000"
-    },
-    {
-      "title": "Chevron Raises Exploration Spending By 50%",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Chevron-Raises-Exploration-Spending-By-50.html",
-      "source": "OilPrice",
-      "date": "Sat, 31 Oct 2026 18:00:00 -0500"
-    },
-    {
-      "title": "U.S. Intelligence: China Could Put Laser Weapons in Space by 2030",
-      "link": "https://oilprice.com/Geopolitics/International/US-Intelligence-China-Could-Put-Laser-Weapons-in-Space-by-2030.html",
-      "source": "OilPrice",
-      "date": "Sat, 31 Oct 2026 16:00:00 -0500"
-    },
-    {
-      "title": "Jackdaw Approval Sparks Fierce Debate Over Britain's Energy Future",
-      "link": "https://oilprice.com/Energy/Energy-General/Jackdaw-Approval-Sparks-Fierce-Debate-Over-Britains-Energy-Future.html",
-      "source": "OilPrice",
-      "date": "Sat, 31 Oct 2026 14:00:00 -0500"
     },
     {
       "title": "Uranium shares slide even as analysts see tighter supply",
