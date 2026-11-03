@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-03T07:20:03+09:00",
+  "run_at_kst": "2026-11-03T10:10:04+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Questions Mount Over Venezuela’s Biggest Oil Deal",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Questions-Mount-Over-Venezuelas-Biggest-Oil-Deal.html",
+      "source": "OilPrice",
+      "date": "Mon, 02 Nov 2026 19:00:00 -0600"
+    },
+    {
+      "title": "Germany Misses Gas Storage Target as Prices Soar",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Germany-Misses-Gas-Storage-Target-as-Prices-Soar.html",
+      "source": "OilPrice",
+      "date": "Mon, 02 Nov 2026 18:00:00 -0600"
+    },
+    {
+      "title": "Gordon Mining acquires Tungsten Tail project in New Mexico",
+      "link": "https://www.mining.com/gordon-mining-acquires-tungsten-tail-project-in-new-mexico/",
+      "source": "mining.com",
+      "date": "Mon, 02 Nov 2026 23:15:51 +0000"
+    },
+    {
+      "title": "Africa Launches Its Own Oil Bank as Western Lenders Retreat",
+      "link": "https://oilprice.com/Energy/Energy-General/Africa-Launches-Its-Own-Oil-Bank-as-Western-Lenders-Retreat.html",
+      "source": "OilPrice",
+      "date": "Mon, 02 Nov 2026 17:00:00 -0600"
+    },
     {
       "title": "4 Energy Stocks for Midterm Elections That Could Go Either Way",
       "link": "https://oilprice.com/Energy/Energy-General/4-Energy-Stocks-for-Midterm-Elections-That-Could-Go-Either-Way.html",
@@ -50,24 +74,6 @@
       "date": "Mon, 02 Nov 2026 12:00:00 -0600"
     },
     {
-      "title": "TotalEnergies Now Sees Oil Demand Peaking Between 2035 and 2040",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-Now-Sees-Oil-Demand-Peaking-Between-2035-and-2040.html",
-      "source": "OilPrice",
-      "date": "Mon, 02 Nov 2026 11:30:00 -0600"
-    },
-    {
-      "title": "Central Asia’s Power Grid Faces a Major Test as Winter Approaches",
-      "link": "https://oilprice.com/Energy/Energy-General/Central-Asias-Power-Grid-Faces-a-Major-Test-as-Winter-Approaches.html",
-      "source": "OilPrice",
-      "date": "Mon, 02 Nov 2026 11:00:00 -0600"
-    },
-    {
-      "title": "Oil Prices Plunge 7% as U.S. and Iran Signal Room for Diplomacy",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-7-as-US-and-Iran-Signal-Room-for-Diplomacy.html",
-      "source": "OilPrice",
-      "date": "Mon, 02 Nov 2026 10:36:00 -0600"
-    },
-    {
       "title": "Nouveau Monde Graphite marks key regulatory milestone in Quebec",
       "link": "https://www.mining.com/nouveau-monde-graphite-marks-key-regulatory-milestone-in-quebec/",
       "source": "mining.com",
@@ -84,12 +90,6 @@
       "link": "https://www.mining.com/citi-slashes-lithium-price-forecast-by-40-on-lower-demand/",
       "source": "mining.com",
       "date": "Mon, 02 Nov 2026 16:03:32 +0000"
-    },
-    {
-      "title": "Hudbay leads $49.8M investment in Pecoy Copper",
-      "link": "https://www.mining.com/hudbay-leads-49-8m-investment-in-pecoy-copper/",
-      "source": "mining.com",
-      "date": "Mon, 02 Nov 2026 15:39:07 +0000"
     }
   ]
 }

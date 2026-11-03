@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-03T07:20:03+09:00",
+  "run_at_kst": "2026-11-03T10:10:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -24,28 +24,16 @@
       "date": "Mon, 02 Nov 2026 14:45:35 GMT"
     },
     {
+      "title": "크리에이티브 경제, 중국 시장 겨냥, 수출액 99억 9천만 달러 기록",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPMzNucWtTd0dPVGlQYkNIbERNdjhuSm1XeDRVWmhZZ3lhR0tCY1FwTzlFQjAyWG1sdnhXMDVaOHlRT3YxV0o2R1BWN1VMTXlwSFpQRTc3cHphSldlUXo3WHQ5Snh0ODBIaWw0ZS03Z3NNaWdTc2FsTXV6LXZ2Z3hPM0xjQlhUQTV6NURvZC12R2VGOWg4Qmd5TGI4VlJRc3laN1d4VlFxVGpZendmdklKVllEUTFnVm1MdzgzTzFTRnZ1Ukc1NFFoMkFwd1cxYTdzRFlEZHBWekVCYjJ2RktQdW9kNDl1WWJFREFzTnczcTF5SnpYNU00ZEpLdUNiOEpDRXN0VUd3WWFDVHJkSVNuSXg3Zk14YzVEempoNFBpejJfX3NjRlNvUTFBLTNIYXpQdmJzNjVSbnQ5QkNpM0pQODBUdE5UcEVmNWVYSF9NdXozTnZyTURxMkZJZnRHNXRDYi0zaHBmZWJlTTFNdzZVN1FYM241WU9wb3d5aXBfX2VWVGtFNHMw?oc=5",
+      "source": "IDNFinancials",
+      "date": "Mon, 02 Nov 2026 11:00:00 GMT"
+    },
+    {
       "title": "[아시아경제] 정지연 교수, 초저가 중국 관광 구조 관련 코멘트",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yRFdLQy1pNVdfdHNZdVRHQ0NrYUJBOGZUN25vdnEtREIweS1ZdW9iYTUtUzVMUXZ2X0xLeWNsNEI1dVQ3RlpXMTh2b0djY2VfX0tmcEVuZ3ZtQ1RPbksxbDRvV2QxXzZtVmc?oc=5",
       "source": "뉴스H",
       "date": "Mon, 02 Nov 2026 07:54:04 GMT"
-    },
-    {
-      "title": "중국 10월 제조업 PMI 49.3으로 하락, 그 원인은?",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQYUdmV25xTDB3bUVuaGZvUEhhOHMwUTNjUkNMX3JTR2tSOExmUzh3LVB1OXdrSTNJeWI1OWR3QkM1MnV6T2QxNmE3RW83NkpObVFESlY5Nk9GWjhXSVloZl9DdXJUWi1QYmhVYWNWNjI2SUhiRlNvTkI5Y2loVFc2eWR6MFFka25HcUdwZDRzTXB3V0hEZXpieVppN0JTa1BKc2RYUU5KZ3FBTHRWYWl6VjhXZTl1X1JXejdrUzN3eXYyN3NrNklTcHA2NWJ4YmFfNlhTYk5fcTAwVDB1Z1ZBYXpQalFZMnpmekxZdVZvOFd4OElSNEFTS3lUM0NLN0g3Sm1qWDNiODZFR3NuTGJ5WHBKY08?oc=5",
-      "source": "IDNFinancials",
-      "date": "Mon, 02 Nov 2026 07:00:00 GMT"
-    },
-    {
-      "title": "제주도, 중국과 미래산업·경제협력 확대 모색",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rY0RNWllvVFZXQmM1S3lmdkxLWUc1ZVU1OG1wQU1xQkdydVp4aXVuVGVfZERsQkNZVWtpakxJRElQWURYQW5WYXNjMV8zcEhEUmlEbV9uSXdyNXhCQkxBbEY4cEluYlNrSmNoQWRn?oc=5",
-      "source": "지금제주",
-      "date": "Mon, 02 Nov 2026 06:08:20 GMT"
-    },
-    {
-      "title": "\"공산당 통제가 경제 망친다고?\"…시진핑, 정면 반박 [차이나 워치]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkTDJ6T3U4NTR4Z2R1SGRjZ2xET201YV91eWdCU19Dd0cwSWhaXzQ5cHExeENlamNYN1dvX3hkOEsyeFJMVjJPajJ1WXBCQVQyWjVFd1RHYVc0QQ?oc=5",
-      "source": "한국경제",
-      "date": "Mon, 02 Nov 2026 04:18:31 GMT"
     },
     {
       "title": "편견을 걷어낸 중국의 정치.경제.산업.문화",
@@ -72,10 +60,22 @@
       "date": "Thu, 29 Oct 2026 07:00:00 GMT"
     },
     {
+      "title": "수출 대박나면 뭐하나…중국 경제에 나타난 '이상 신호' [차이나 워치]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WWW1FNGVVTEp1eXFBN1hCQzIxM2U5OVRiTDk5VUZYd28zbU0zQ2Nid1ZxZDFZZi13a1dzUV8xdlZITjUwN29IeXgyY1R0emEtMllzM2hnR3NuUQ?oc=5",
+      "source": "한국경제",
+      "date": "Mon, 19 Oct 2026 07:00:00 GMT"
+    },
+    {
       "title": "AI 붐에 수출 증대 … 중국 경제 성장세 가속화",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtNUZqQWFQc3g0WllieGV3dUJ6VUpVcmNfR2RsY3ZxNlo5TGRTTFBNRlBhQjhHLVdCaEdfSXM4bUpEaGpsY3RPRTBqQVM2ek1IMDV4LUtyNWcxXzJoRXfSAWNBVV95cUxQX2FDdGRvdHBNeTJOWXk5YWtxekYzZHdjTFBRbEhERURFek9YRTBkam96WGZVUlo3RTRKRGptZGlid1pucTZDMWRDMEdpcGpMTk9sWURmLWZ0QWVsNGZ4Z0pwY3M?oc=5",
       "source": "BBC",
       "date": "Mon, 19 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "중국 경제 기적, 한계에 봉착 : 미제스 연구소",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oWDJVN201V0t2cG9COHZudFktTXhRbVlFUGdsNFhndkVZNE1Nd0NUQk1mVEZXVzNvOEwyRmhUWC1jbGtyS1gzenpHczE4bVAwWi1LdFk3UkZpQzdmWEZrazhoVVRBTXJUTmp3VFBn?oc=5",
+      "source": "뉴스타운",
+      "date": "Thu, 15 Oct 2026 07:00:00 GMT"
     }
   ]
 }
