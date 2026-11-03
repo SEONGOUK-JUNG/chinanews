@@ -1,15 +1,21 @@
 {
-  "run_at_kst": "2026-11-03T20:10:05+09:00",
+  "run_at_kst": "2026-11-04T07:20:03+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "남양주시-중국 창저우시 중러우구, 경제교류 차담회…기업 협력 방안 모색",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DWEJpbVBFWGRDY05aLXdnU2Qycm9sd0JlcXBESnNfLXlaNGJHN0xBUHd4OERrMEhmRkRzYXFZZW5NNmlVV0k5Unk1MjB0bG16N2tCWXhVMzdBdDBIYnNHbg?oc=5",
-      "source": "한국글로벌뉴스",
-      "date": "Tue, 03 Nov 2026 10:30:02 GMT"
+      "title": "[루이스 루의 마켓 나우] 중국 ‘6대 네트워크’ 건설 효과 크지 않다",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EZlJfSFN4ZzFPWEZPeUh1SDlVM3dTc3FFTERpa2tTSTk1YVNfU2VzcGR0RDNXV1FCNDlJYU1WZUxidm83ZFpXVlFTdV9IY0FlYnI2N2txS2pMMURjRDU2QnVR?oc=5",
+      "source": "미주중앙일보",
+      "date": "Tue, 03 Nov 2026 15:04:00 GMT"
+    },
+    {
+      "title": "남양주 중국 중러우구와 손잡고 경제교류 초읽기 돌입 > 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhM3hraXpMTWxXalo4VGZIY0dhdmtaYnRvU3Y5SlhPYndIUXFnN3FlcFg2S1N3VlNvSWNuVlVsMFhMcnNjQUhTaDg4SE1tUjRjdnlVbGF0X1dENmZieEJibVlSVXB4ZmZROGdoNmNJMmZSdw?oc=5",
+      "source": "더코리아",
+      "date": "Tue, 03 Nov 2026 09:41:00 GMT"
     },
     {
       "title": "남양주시, 중국 창저우시 중러우구와 경제협력 확대 모색",
@@ -18,16 +24,10 @@
       "date": "Tue, 03 Nov 2026 09:28:38 GMT"
     },
     {
-      "title": "남양주시, 중국 창저우시와 경제협력 확대…기업 교류 본격 논의",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oUnpqNW5IVEd3OWZPaldTaGVKSUJXVS1EUU80eE1Ma3d5TkxvOFZPM1FRUXdZV1R2VEJicFppOEVvRVBHUFBOS1RIZ00wYm5XZEhsNnM3blFVWk0?oc=5",
-      "source": "선데이뉴스신문",
-      "date": "Tue, 03 Nov 2026 09:20:40 GMT"
-    },
-    {
-      "title": "“내년까지 6조원 갚아야”…중국 국유 부동산기업도 자금난",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQakR4MEtNRTN1TVZpa19EdVViX29zNm44OG1OLXBPQ2NxZHBwR3FKQ1Zxa1FRSlBXUWE5WWZUa21FVVMxejZVY2JHZUdkcWlhLVVza01hbDlsT1BUSk9NTDFLYm5rYXFhbGlvYVZSZmdZMlZybTJSbzNUZmRkdkxrMQ?oc=5",
-      "source": "이데일리",
-      "date": "Tue, 03 Nov 2026 07:38:26 GMT"
+      "title": "중국 태양광 빅4, 3분기 1조원 적자…2027년 말까지 회복 어렵다",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ib1pTdms5TjN6TDFQS29GeVJsZ3FpaVpjNEVBb0F1ZnhGbnJvNkEwZExtS0ptbTBCUXVEZF9mQVNuUXZOWDFNSGhhcUxFb2tMYlhieThBTmNWbEt2RHBtN2c0M280bVFfNUE?oc=5",
+      "source": "임팩트온",
+      "date": "Tue, 03 Nov 2026 07:58:17 GMT"
     },
     {
       "title": "중국, 위안화 유동성 강화 및 홍콩 금융 시장 지원",
@@ -42,28 +42,28 @@
       "date": "Tue, 03 Nov 2026 02:58:02 GMT"
     },
     {
-      "title": "[친절한 경제] 미국·중국·독일만 넘은 ‘수출 1조달러’…5200만 대한민국도 눈앞",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Fc2ptNEExM1RCWWNoNmFyS3hKV3BMTlYwR2tfOXQzRlBVd3lIUWNoZkNNZDY3UW1OR0Vwd3c4M1B4aGQ1TjFmSmpyVlpySVZvbHUtMlFoODdOUGNzS2kxMl9hZWkzWkdhM2VV?oc=5",
-      "source": "https://www.standingout.kr/",
-      "date": "Tue, 03 Nov 2026 02:32:10 GMT"
-    },
-    {
-      "title": "[중국 뉴스 브리핑] 2026년 11월 3일",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PWVRRX2ducUFPWHo1emVaajdxd252c2p5UEt1RkZkRjk5NVhfM3VhdXpaNVZwbFE0MlhvaktDLUxUdU1lV2hyTGV1ZUs4aEtCMGlqY0hnYjF0NF9vMEpkaDBKMmNxem5kQmc?oc=5",
-      "source": "인민망",
-      "date": "Tue, 03 Nov 2026 01:31:00 GMT"
-    },
-    {
-      "title": "중국 경제·문화 교류 확대.. 공동사업으로도 연결",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOVVhSlVFUTEwU0dXVEtsY3UycTNzaEg1Rmdyc3lkNE1udzFBU2ZvYnN4UWFLMlJTaFh1eWpNU3ZMUjUtMVFOQlFiV3djTElUdkhjUU9rMDN0RkNJRDlBUHNDN05jc3FsVVJod0VTSmFKbU9LYkRRQWp6V2lTRWluSmZndjBTNGJScFpabWRn?oc=5",
-      "source": "JIBS제주방송",
-      "date": "Mon, 02 Nov 2026 21:22:24 GMT"
-    },
-    {
       "title": "[곽재원 컬럼] 중국경제는 지금:첨단산업은 질주, 내수는 침체?",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGZXB0alVBMC1sMl95bzM1dXkzZ2FFc2VtQ1NpOE9LUi1QSUtpemdIbDQ5dC1YdzdwY1FmNnJOMGRiQ2pnamkybV9vQVZHTmxlY3dIWFZhcw?oc=5",
       "source": "https://technovalue.com/",
       "date": "Mon, 02 Nov 2026 15:10:08 GMT"
+    },
+    {
+      "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Fri, 30 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "의왕시, 중국 경제교류 문턱 넓힌다…기업 지원금 없어",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JYWVwWjdqQTQwVFBydVZmNU1ZQ0RTaXRzN2NVOVF0ME02YXpZUE5XQS1HZFJiMU12TGVGMVJLZnFwbnM0a3d4Um5UTDNld3VzVGRZQ0dJcUxuQXBTdWZrQXprTEs?oc=5",
+      "source": "서울경제TV",
+      "date": "Fri, 30 Oct 2026 01:34:04 GMT"
+    },
+    {
+      "title": "2026년 9월 중국경제 동향과 전망",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbE8xbHF0UVdNZzllMXZ6SE9Cc2E5MnNMRV9QcUFrbmZ5VEUxSzYtV1VuZENiZnFOVjFxYWlfTVJSc1JrbjNWVkVNd3IzVHRfMzBVVTFYbzdUZnpvT3cxTm5CMHFBWlFRUlVLd09Wc0JHclI5RXkzemxnbnJlLUhJRg?oc=5",
+      "source": "KDI 경제교육·정보센터",
+      "date": "Thu, 29 Oct 2026 15:28:29 GMT"
     },
     {
       "title": "수출 대박나면 뭐하나…중국 경제에 나타난 '이상 신호' [차이나 워치]",

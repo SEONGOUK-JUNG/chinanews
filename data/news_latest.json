@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-03T20:10:05+09:00",
+  "run_at_kst": "2026-11-04T07:20:03+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
-      "title": "Shell Sells North West Shelf LNG Stake to Abu Dhabi's XRG for $1.45 Billion",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Shell-Sells-North-West-Shelf-LNG-Stake-to-Abu-Dhabis-XRG-for-145-Billion.html",
+      "title": "US Crude Oil Inventories Still in Freefall",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Still-in-Freefall.html",
       "source": "OilPrice",
-      "date": "Tue, 03 Nov 2026 05:00:00 -0600"
+      "date": "Tue, 03 Nov 2026 16:00:47 -0600"
     },
     {
-      "title": "Saudi Aramco Profit Beats Expectations as Oil Prices Soar",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramco-Profit-Beats-Expectations-as-Oil-Prices-Soar.html",
+      "title": "Africa Launches $5 Billion Energy Bank as Western Lenders Retreat",
+      "link": "https://oilprice.com/Energy/Energy-General/Africa-Launches-5-Billion-Energy-Bank-as-Western-Lenders-Retreat.html",
       "source": "OilPrice",
-      "date": "Tue, 03 Nov 2026 03:45:00 -0600"
+      "date": "Tue, 03 Nov 2026 16:00:00 -0600"
     },
     {
-      "title": "CVR Energy Nears $4 Billion Refinery Deal With Marathon",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/CVR-Energy-Nears-4-Billion-Refinery-Deal-With-Marathon.html",
+      "title": "Why Supplying Europe With LNG Has a Best-Before Date",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Why-Supplying-Europe-With-LNG-Has-a-Best-Before-Date.html",
       "source": "OilPrice",
-      "date": "Tue, 03 Nov 2026 02:15:00 -0600"
+      "date": "Tue, 03 Nov 2026 15:00:00 -0600"
     },
     {
-      "title": "U.S. LNG Exports Near Record High as Europe Scrambles for Winter Supply",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-LNG-Exports-Near-Record-High-as-Europe-Scrambles-for-Winter-Supply.html",
-      "source": "OilPrice",
-      "date": "Tue, 03 Nov 2026 01:00:00 -0600"
-    },
-    {
-      "title": "Oil Prices Bounce Back Following Reports of U.S. Strikes on Iran",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Bounce-Back-Following-Reports-of-US-Strikes-on-Iran.html",
-      "source": "OilPrice",
-      "date": "Mon, 02 Nov 2026 23:25:00 -0600"
-    },
-    {
-      "title": "Questions Mount Over Venezuela’s Biggest Oil Deal",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Questions-Mount-Over-Venezuelas-Biggest-Oil-Deal.html",
-      "source": "OilPrice",
-      "date": "Mon, 02 Nov 2026 19:00:00 -0600"
-    },
-    {
-      "title": "Germany Misses Gas Storage Target as Prices Soar",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Germany-Misses-Gas-Storage-Target-as-Prices-Soar.html",
-      "source": "OilPrice",
-      "date": "Mon, 02 Nov 2026 18:00:00 -0600"
-    },
-    {
-      "title": "Gordon Mining acquires Tungsten Tail project in New Mexico",
-      "link": "https://www.mining.com/gordon-mining-acquires-tungsten-tail-project-in-new-mexico/",
+      "title": "I-80 Gold’s growth faces Nevada labour squeeze",
+      "link": "https://www.mining.com/i-80-golds-growth-faces-nevada-labour-squeeze/",
       "source": "mining.com",
-      "date": "Mon, 02 Nov 2026 23:15:51 +0000"
+      "date": "Tue, 03 Nov 2026 20:11:00 +0000"
     },
     {
-      "title": "Africa Launches Its Own Oil Bank as Western Lenders Retreat",
-      "link": "https://oilprice.com/Energy/Energy-General/Africa-Launches-Its-Own-Oil-Bank-as-Western-Lenders-Retreat.html",
+      "title": "Houthi Fighters Launch Ground Incursions Into Saudi Arabia",
+      "link": "https://oilprice.com/Geopolitics/Middle-East/Houthi-Fighters-Launch-Ground-Incursions-Into-Saudi-Arabia.html",
       "source": "OilPrice",
-      "date": "Mon, 02 Nov 2026 17:00:00 -0600"
+      "date": "Tue, 03 Nov 2026 14:00:00 -0600"
     },
     {
-      "title": "Chile copper outlook worsens as price forecast rises",
-      "link": "https://www.mining.com/chile-copper-outlook-worsens-as-price-forecast-rises/",
-      "source": "mining.com",
-      "date": "Mon, 02 Nov 2026 20:19:00 +0000"
+      "title": "Why Higher Oil Prices Aren't Solving Saudi Aramco's Biggest Problems",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Why-Higher-Oil-Prices-Arent-Solving-Saudi-Aramcos-Biggest-Problems.html",
+      "source": "OilPrice",
+      "date": "Tue, 03 Nov 2026 13:00:00 -0600"
     },
     {
-      "title": "$712 billion wiped off world’s biggest mining companies since start of Iran war",
-      "link": "https://www.mining.com/712-billion-wiped-off-worlds-biggest-mining-companies-since-the-start-of-the-iran-war/",
-      "source": "mining.com",
-      "date": "Mon, 02 Nov 2026 18:39:25 +0000"
+      "title": "Iran War Triples Logistics Costs for Oil Services Firms",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-War-Triples-Logistics-Costs-for-Oil-Services-Firms.html",
+      "source": "OilPrice",
+      "date": "Tue, 03 Nov 2026 12:30:00 -0600"
     },
     {
-      "title": "Nouveau Monde Graphite marks key regulatory milestone in Quebec",
-      "link": "https://www.mining.com/nouveau-monde-graphite-marks-key-regulatory-milestone-in-quebec/",
+      "title": "Canada gold output jumps 22% as global supply slips",
+      "link": "https://www.mining.com/canada-gold-output-jumps-22-as-global-supply-slips/",
       "source": "mining.com",
-      "date": "Mon, 02 Nov 2026 16:30:13 +0000"
+      "date": "Tue, 03 Nov 2026 18:07:00 +0000"
     },
     {
-      "title": "St Barbara to restart Touquoy amid federal review hurdle",
-      "link": "https://www.mining.com/st-barbara-to-restart-touquoy-amid-federal-review-hurdle/",
-      "source": "mining.com",
-      "date": "Mon, 02 Nov 2026 16:09:00 +0000"
+      "title": "Brazil's Data Center Push Hinges on Gas Rules, Grid Access and a New Congress",
+      "link": "https://oilprice.com/Energy/Energy-General/Brazils-Data-Center-Push-Hinges-on-Gas-Rules-Grid-Access-and-a-New-Congress.html",
+      "source": "OilPrice",
+      "date": "Tue, 03 Nov 2026 12:00:00 -0600"
     },
     {
-      "title": "Citi slashes lithium price forecast by 40% on lower demand",
-      "link": "https://www.mining.com/citi-slashes-lithium-price-forecast-by-40-on-lower-demand/",
+      "title": "MMG, Anglo American extend $500 million nickel deal deadline",
+      "link": "https://www.mining.com/mmg-anglo-american-extend-500-million-nickel-deal-deadline/",
       "source": "mining.com",
-      "date": "Mon, 02 Nov 2026 16:03:32 +0000"
+      "date": "Tue, 03 Nov 2026 17:43:38 +0000"
+    },
+    {
+      "title": "Hormuz Oil Flows Unlikely to Return to Pre-War Levels, Rystad Says",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Oil-Flows-Unlikely-to-Return-to-Pre-War-Levels-Rystad-Says.html",
+      "source": "OilPrice",
+      "date": "Tue, 03 Nov 2026 11:30:00 -0600"
+    },
+    {
+      "title": "Standard nears lithium investment decision",
+      "link": "https://www.mining.com/standard-nears-lithium-investment-decision/",
+      "source": "mining.com",
+      "date": "Tue, 03 Nov 2026 17:19:00 +0000"
+    },
+    {
+      "title": "JPMorgan sees US copper output more than doubling",
+      "link": "https://www.mining.com/jpmorgan-sees-us-copper-output-more-than-doubling/",
+      "source": "mining.com",
+      "date": "Tue, 03 Nov 2026 16:33:00 +0000"
+    },
+    {
+      "title": "Sunshine Silver weighs doubling mill capacity",
+      "link": "https://www.mining.com/sunshine-silver-weighs-doubling-mill-capacity/",
+      "source": "mining.com",
+      "date": "Tue, 03 Nov 2026 16:00:00 +0000"
     }
   ]
 }
