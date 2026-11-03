@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-03T10:10:04+09:00",
+  "run_at_kst": "2026-11-03T20:10:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Shell Sells North West Shelf LNG Stake to Abu Dhabi's XRG for $1.45 Billion",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Shell-Sells-North-West-Shelf-LNG-Stake-to-Abu-Dhabis-XRG-for-145-Billion.html",
+      "source": "OilPrice",
+      "date": "Tue, 03 Nov 2026 05:00:00 -0600"
+    },
+    {
+      "title": "Saudi Aramco Profit Beats Expectations as Oil Prices Soar",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramco-Profit-Beats-Expectations-as-Oil-Prices-Soar.html",
+      "source": "OilPrice",
+      "date": "Tue, 03 Nov 2026 03:45:00 -0600"
+    },
+    {
+      "title": "CVR Energy Nears $4 Billion Refinery Deal With Marathon",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/CVR-Energy-Nears-4-Billion-Refinery-Deal-With-Marathon.html",
+      "source": "OilPrice",
+      "date": "Tue, 03 Nov 2026 02:15:00 -0600"
+    },
+    {
+      "title": "U.S. LNG Exports Near Record High as Europe Scrambles for Winter Supply",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-LNG-Exports-Near-Record-High-as-Europe-Scrambles-for-Winter-Supply.html",
+      "source": "OilPrice",
+      "date": "Tue, 03 Nov 2026 01:00:00 -0600"
+    },
+    {
+      "title": "Oil Prices Bounce Back Following Reports of U.S. Strikes on Iran",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Bounce-Back-Following-Reports-of-US-Strikes-on-Iran.html",
+      "source": "OilPrice",
+      "date": "Mon, 02 Nov 2026 23:25:00 -0600"
+    },
     {
       "title": "Questions Mount Over Venezuela’s Biggest Oil Deal",
       "link": "https://oilprice.com/Energy/Crude-Oil/Questions-Mount-Over-Venezuelas-Biggest-Oil-Deal.html",
@@ -32,46 +62,16 @@
       "date": "Mon, 02 Nov 2026 17:00:00 -0600"
     },
     {
-      "title": "4 Energy Stocks for Midterm Elections That Could Go Either Way",
-      "link": "https://oilprice.com/Energy/Energy-General/4-Energy-Stocks-for-Midterm-Elections-That-Could-Go-Either-Way.html",
-      "source": "OilPrice",
-      "date": "Mon, 02 Nov 2026 16:00:00 -0600"
-    },
-    {
-      "title": "Trump’s Trillion-Dollar Oil Play: A Trap For Big Oil?",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Trumps-Trillion-Dollar-Oil-Play-A-Trap-For-Big-Oil.html",
-      "source": "OilPrice",
-      "date": "Mon, 02 Nov 2026 15:00:00 -0600"
-    },
-    {
       "title": "Chile copper outlook worsens as price forecast rises",
       "link": "https://www.mining.com/chile-copper-outlook-worsens-as-price-forecast-rises/",
       "source": "mining.com",
       "date": "Mon, 02 Nov 2026 20:19:00 +0000"
     },
     {
-      "title": "Sanctioned Iranian Tanker Slips Past U.S. Blockade, Delivers Cargo to China",
-      "link": "https://oilprice.com/Energy/Energy-General/Sanctioned-Iranian-Tanker-Slips-Past-US-Blockade-Delivers-Cargo-to-China.html",
-      "source": "OilPrice",
-      "date": "Mon, 02 Nov 2026 14:00:00 -0600"
-    },
-    {
-      "title": "The 50-Year-Old Microplastics Warning That Has Come Back to Haunt the Industry",
-      "link": "https://oilprice.com/Energy/Energy-General/The-50-Year-Old-Microplastics-Warning-That-Has-Come-Back-to-Haunt-the-Industry.html",
-      "source": "OilPrice",
-      "date": "Mon, 02 Nov 2026 13:00:00 -0600"
-    },
-    {
       "title": "$712 billion wiped off world’s biggest mining companies since start of Iran war",
       "link": "https://www.mining.com/712-billion-wiped-off-worlds-biggest-mining-companies-since-the-start-of-the-iran-war/",
       "source": "mining.com",
       "date": "Mon, 02 Nov 2026 18:39:25 +0000"
-    },
-    {
-      "title": "Rare Iranian Strike On Vessel Hundreds Of Miles From Strait Of Hormuz",
-      "link": "https://oilprice.com/Energy/Energy-General/Rare-Iranian-Strike-On-Vessel-Hundreds-Of-Miles-From-Strait-Of-Hormuz.html",
-      "source": "OilPrice",
-      "date": "Mon, 02 Nov 2026 12:00:00 -0600"
     },
     {
       "title": "Nouveau Monde Graphite marks key regulatory milestone in Quebec",

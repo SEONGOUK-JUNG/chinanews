@@ -1,10 +1,40 @@
 {
-  "run_at_kst": "2026-11-03T14:10:04+09:00",
+  "run_at_kst": "2026-11-03T20:10:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "남양주시-중국 창저우시 중러우구, 경제교류 차담회…기업 협력 방안 모색",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DWEJpbVBFWGRDY05aLXdnU2Qycm9sd0JlcXBESnNfLXlaNGJHN0xBUHd4OERrMEhmRkRzYXFZZW5NNmlVV0k5Unk1MjB0bG16N2tCWXhVMzdBdDBIYnNHbg?oc=5",
+      "source": "한국글로벌뉴스",
+      "date": "Tue, 03 Nov 2026 10:30:02 GMT"
+    },
+    {
+      "title": "남양주시, 중국 창저우시 중러우구와 경제협력 확대 모색",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGejd1bGhWYlpHekpJSXkxa0J1RlphOElNRkxMQVV3Y2wzOGFUS3ctQ0lhcW1HQ0o0a2JNbFNDekxRX29rZjZ4NFdyNUxIWXVabG9nbHlrZTBFVS1rLXVhSg?oc=5",
+      "source": "아시아경제",
+      "date": "Tue, 03 Nov 2026 09:28:38 GMT"
+    },
+    {
+      "title": "남양주시, 중국 창저우시와 경제협력 확대…기업 교류 본격 논의",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oUnpqNW5IVEd3OWZPaldTaGVKSUJXVS1EUU80eE1Ma3d5TkxvOFZPM1FRUXdZV1R2VEJicFppOEVvRVBHUFBOS1RIZ00wYm5XZEhsNnM3blFVWk0?oc=5",
+      "source": "선데이뉴스신문",
+      "date": "Tue, 03 Nov 2026 09:20:40 GMT"
+    },
+    {
+      "title": "“내년까지 6조원 갚아야”…중국 국유 부동산기업도 자금난",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQakR4MEtNRTN1TVZpa19EdVViX29zNm44OG1OLXBPQ2NxZHBwR3FKQ1Zxa1FRSlBXUWE5WWZUa21FVVMxejZVY2JHZUdkcWlhLVVza01hbDlsT1BUSk9NTDFLYm5rYXFhbGlvYVZSZmdZMlZybTJSbzNUZmRkdkxrMQ?oc=5",
+      "source": "이데일리",
+      "date": "Tue, 03 Nov 2026 07:38:26 GMT"
+    },
+    {
+      "title": "중국, 위안화 유동성 강화 및 홍콩 금융 시장 지원",
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOdkxzdlBMVG5qTDYwTERWTUNkZXlOV09keWpEeGpITHhxd1hVZzRCc1lMdU1jZ0ZCOV9jYVlPREhkZ2ROZnZQbS01NFJfSFpVaHlwa1NxUDd1UzRwM1VKY2pDX2FjcG1GVjRBR3NOUXlrbmI4czZhRlFfZFU3NlJrVGJlS2lrQkVhZzBveVlrcGZkQnJLT0xRVlE4QmVYeUluMVJoYVhrUUtlOXNPdWlUajAtbG9tNldoNVY2d2l3WUpUTjVmRW45bmNjb2MyeWhKd3dQWkJJNmNEOXd1cm9fQTZ1Nkc4Y2dmVVhmbXJJZ0tsajZZRWMtTXQtYjdDNkREOG1tYlVsTXl4anRicXNkSHcxMmtYU0NnajJRc2lDclZFUkw2TEVYcy11eTZrRjB0b1BvaEJ2V0tCaEoweVBITjhmTXRpZw?oc=5",
+      "source": "IDNFinancials",
+      "date": "Tue, 03 Nov 2026 07:20:00 GMT"
+    },
     {
       "title": "차이나 쇼크 2.0 시대의 중국 억만장자들",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1HUU1fQmNvbTVPRkoxWHdER1NYS0FZNlE4QzlRc2o2VTRqdW1BX3pvRmtmMEotak1JakE4TDZlckI5QQ?oc=5",
@@ -12,16 +42,16 @@
       "date": "Tue, 03 Nov 2026 02:58:02 GMT"
     },
     {
+      "title": "[친절한 경제] 미국·중국·독일만 넘은 ‘수출 1조달러’…5200만 대한민국도 눈앞",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Fc2ptNEExM1RCWWNoNmFyS3hKV3BMTlYwR2tfOXQzRlBVd3lIUWNoZkNNZDY3UW1OR0Vwd3c4M1B4aGQ1TjFmSmpyVlpySVZvbHUtMlFoODdOUGNzS2kxMl9hZWkzWkdhM2VV?oc=5",
+      "source": "https://www.standingout.kr/",
+      "date": "Tue, 03 Nov 2026 02:32:10 GMT"
+    },
+    {
       "title": "[중국 뉴스 브리핑] 2026년 11월 3일",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PWVRRX2ducUFPWHo1emVaajdxd252c2p5UEt1RkZkRjk5NVhfM3VhdXpaNVZwbFE0MlhvaktDLUxUdU1lV2hyTGV1ZUs4aEtCMGlqY0hnYjF0NF9vMEpkaDBKMmNxem5kQmc?oc=5",
       "source": "인민망",
       "date": "Tue, 03 Nov 2026 01:31:00 GMT"
-    },
-    {
-      "title": "레임덕 트럼프가 더 위험…중국, 중간선거에 촉각",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56TXJwWUM1RmFkLUY4WTFLdmhHVjZCUENFSHozajBfdHNqM2pabER1SE1TT1NFZndsWms3X1E4QU1UdnhDR1lCZUl4SXVFem9mc2djZEtYbDBrd9IBWEFVX3lxTE5LLXg1Q0dQY09sY2tuZUNuR0VoeFUxbmNjTzFiSFpqSHliUzdTcWx3cFc0LVVaaTVVdFRDQTU1aVRBWXRMbjhMYVEta2pHS2lIZjFubFVRWnY?oc=5",
-      "source": "아주경제",
-      "date": "Tue, 03 Nov 2026 00:19:17 GMT"
     },
     {
       "title": "중국 경제·문화 교류 확대.. 공동사업으로도 연결",
@@ -36,30 +66,6 @@
       "date": "Mon, 02 Nov 2026 15:10:08 GMT"
     },
     {
-      "title": "中 증시 폭락에 베이징 긴급 개입…150억 달러 투입",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04LVJuSlJFd1dfSkw3bEZyOXpXUVdEN240Q0ZGVHNWUTNKU01BQUM2NDhvUU1yN25ldWVEQnc2eVJFa194bXl6TFdlYXQwa1N3ZERPSjlYNmlReW1aSmo3V2xzNUtJVGFw?oc=5",
-      "source": "OBC 뉴스",
-      "date": "Mon, 02 Nov 2026 14:45:35 GMT"
-    },
-    {
-      "title": "크리에이티브 경제, 중국 시장 겨냥, 수출액 99억 9천만 달러 기록",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPMzNucWtTd0dPVGlQYkNIbERNdjhuSm1XeDRVWmhZZ3lhR0tCY1FwTzlFQjAyWG1sdnhXMDVaOHlRT3YxV0o2R1BWN1VMTXlwSFpQRTc3cHphSldlUXo3WHQ5Snh0ODBIaWw0ZS03Z3NNaWdTc2FsTXV6LXZ2Z3hPM0xjQlhUQTV6NURvZC12R2VGOWg4Qmd5TGI4VlJRc3laN1d4VlFxVGpZendmdklKVllEUTFnVm1MdzgzTzFTRnZ1Ukc1NFFoMkFwd1cxYTdzRFlEZHBWekVCYjJ2RktQdW9kNDl1WWJFREFzTnczcTF5SnpYNU00ZEpLdUNiOEpDRXN0VUd3WWFDVHJkSVNuSXg3Zk14YzVEempoNFBpejJfX3NjRlNvUTFBLTNIYXpQdmJzNjVSbnQ5QkNpM0pQODBUdE5UcEVmNWVYSF9NdXozTnZyTURxMkZJZnRHNXRDYi0zaHBmZWJlTTFNdzZVN1FYM241WU9wb3d5aXBfX2VWVGtFNHMw?oc=5",
-      "source": "IDNFinancials",
-      "date": "Mon, 02 Nov 2026 11:00:00 GMT"
-    },
-    {
-      "title": "[아시아경제] 정지연 교수, 초저가 중국 관광 구조 관련 코멘트",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yRFdLQy1pNVdfdHNZdVRHQ0NrYUJBOGZUN25vdnEtREIweS1ZdW9iYTUtUzVMUXZ2X0xLeWNsNEI1dVQ3RlpXMTh2b0djY2VfX0tmcEVuZ3ZtQ1RPbksxbDRvV2QxXzZtVmc?oc=5",
-      "source": "뉴스H",
-      "date": "Mon, 02 Nov 2026 07:54:04 GMT"
-    },
-    {
-      "title": "편견을 걷어낸 중국의 정치.경제.산업.문화",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJNnFGSFQ1ZzNuLUpjTlpzTE1pSW1ISzZabkdFZjdXVmk5ZUtMR3RIbEUzMkQ4UC1xV1ZpWXl0MlQtaS1vc0VXVk5ReDdNR3hZNmtQNUZtenlKeGpIdnp6eVVfVmg?oc=5",
-      "source": "중도일보",
-      "date": "Mon, 02 Nov 2026 02:34:31 GMT"
-    },
-    {
       "title": "수출 대박나면 뭐하나…중국 경제에 나타난 '이상 신호' [차이나 워치]",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WWW1FNGVVTEp1eXFBN1hCQzIxM2U5OVRiTDk5VUZYd28zbU0zQ2Nid1ZxZDFZZi13a1dzUV8xdlZITjUwN29IeXgyY1R0emEtMllzM2hnR3NuUQ?oc=5",
       "source": "한국경제",
@@ -70,12 +76,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtNUZqQWFQc3g0WllieGV3dUJ6VUpVcmNfR2RsY3ZxNlo5TGRTTFBNRlBhQjhHLVdCaEdfSXM4bUpEaGpsY3RPRTBqQVM2ek1IMDV4LUtyNWcxXzJoRXfSAWNBVV95cUxQX2FDdGRvdHBNeTJOWXk5YWtxekYzZHdjTFBRbEhERURFek9YRTBkam96WGZVUlo3RTRKRGptZGlid1pucTZDMWRDMEdpcGpMTk9sWURmLWZ0QWVsNGZ4Z0pwY3M?oc=5",
       "source": "BBC",
       "date": "Mon, 19 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "중국 경제 기적, 한계에 봉착 : 미제스 연구소",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oWDJVN201V0t2cG9COHZudFktTXhRbVlFUGdsNFhndkVZNE1Nd0NUQk1mVEZXVzNvOEwyRmhUWC1jbGtyS1gzenpHczE4bVAwWi1LdFk3UkZpQzdmWEZrazhoVVRBTXJUTmp3VFBn?oc=5",
-      "source": "뉴스타운",
-      "date": "Thu, 15 Oct 2026 07:00:00 GMT"
     }
   ]
 }
