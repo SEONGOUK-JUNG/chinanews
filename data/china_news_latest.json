@@ -1,10 +1,28 @@
 {
-  "run_at_kst": "2026-11-03T10:10:04+09:00",
+  "run_at_kst": "2026-11-03T14:10:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "차이나 쇼크 2.0 시대의 중국 억만장자들",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1HUU1fQmNvbTVPRkoxWHdER1NYS0FZNlE4QzlRc2o2VTRqdW1BX3pvRmtmMEotak1JakE4TDZlckI5QQ?oc=5",
+      "source": "참세상",
+      "date": "Tue, 03 Nov 2026 02:58:02 GMT"
+    },
+    {
+      "title": "[중국 뉴스 브리핑] 2026년 11월 3일",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PWVRRX2ducUFPWHo1emVaajdxd252c2p5UEt1RkZkRjk5NVhfM3VhdXpaNVZwbFE0MlhvaktDLUxUdU1lV2hyTGV1ZUs4aEtCMGlqY0hnYjF0NF9vMEpkaDBKMmNxem5kQmc?oc=5",
+      "source": "인민망",
+      "date": "Tue, 03 Nov 2026 01:31:00 GMT"
+    },
+    {
+      "title": "레임덕 트럼프가 더 위험…중국, 중간선거에 촉각",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56TXJwWUM1RmFkLUY4WTFLdmhHVjZCUENFSHozajBfdHNqM2pabER1SE1TT1NFZndsWms3X1E4QU1UdnhDR1lCZUl4SXVFem9mc2djZEtYbDBrd9IBWEFVX3lxTE5LLXg1Q0dQY09sY2tuZUNuR0VoeFUxbmNjTzFiSFpqSHliUzdTcWx3cFc0LVVaaTVVdFRDQTU1aVRBWXRMbjhMYVEta2pHS2lIZjFubFVRWnY?oc=5",
+      "source": "아주경제",
+      "date": "Tue, 03 Nov 2026 00:19:17 GMT"
+    },
     {
       "title": "중국 경제·문화 교류 확대.. 공동사업으로도 연결",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOVVhSlVFUTEwU0dXVEtsY3UycTNzaEg1Rmdyc3lkNE1udzFBU2ZvYnN4UWFLMlJTaFh1eWpNU3ZMUjUtMVFOQlFiV3djTElUdkhjUU9rMDN0RkNJRDlBUHNDN05jc3FsVVJod0VTSmFKbU9LYkRRQWp6V2lTRWluSmZndjBTNGJScFpabWRn?oc=5",
@@ -40,24 +58,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJNnFGSFQ1ZzNuLUpjTlpzTE1pSW1ISzZabkdFZjdXVmk5ZUtMR3RIbEUzMkQ4UC1xV1ZpWXl0MlQtaS1vc0VXVk5ReDdNR3hZNmtQNUZtenlKeGpIdnp6eVVfVmg?oc=5",
       "source": "중도일보",
       "date": "Mon, 02 Nov 2026 02:34:31 GMT"
-    },
-    {
-      "title": "의왕시, 중국 경제교류 문턱 넓힌다…기업 지원금 없어",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JYWVwWjdqQTQwVFBydVZmNU1ZQ0RTaXRzN2NVOVF0ME02YXpZUE5XQS1HZFJiMU12TGVGMVJLZnFwbnM0a3d4Um5UTDNld3VzVGRZQ0dJcUxuQXBTdWZrQXprTEs?oc=5",
-      "source": "서울경제TV",
-      "date": "Fri, 30 Oct 2026 01:34:04 GMT"
-    },
-    {
-      "title": "2026년 9월 중국경제 동향과 전망",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbE8xbHF0UVdNZzllMXZ6SE9Cc2E5MnNMRV9QcUFrbmZ5VEUxSzYtV1VuZENiZnFOVjFxYWlfTVJSc1JrbjNWVkVNd3IzVHRfMzBVVTFYbzdUZnpvT3cxTm5CMHFBWlFRUlVLd09Wc0JHclI5RXkzemxnbnJlLUhJRg?oc=5",
-      "source": "KDI 경제교육·정보센터",
-      "date": "Thu, 29 Oct 2026 15:28:29 GMT"
-    },
-    {
-      "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Thu, 29 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "수출 대박나면 뭐하나…중국 경제에 나타난 '이상 신호' [차이나 워치]",
