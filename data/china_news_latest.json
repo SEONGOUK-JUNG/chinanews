@@ -1,10 +1,28 @@
 {
-  "run_at_kst": "2026-11-04T20:10:13+09:00",
+  "run_at_kst": "2026-11-05T07:20:03+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "중국, 캐나다와의 무역 갈등 완화 의지 표명",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCYnNvLWE4eWwyUThzeVdoSWZPaEtjNER2cF9NR29XelRJMms5aHBfV296bjF3NlNWYjBWYW5qYU9aVkJHcVRaZ2gyQmMxa2lwaFRIM2VuRENUcnpGQ1lCSGpfNnR6Nk02VVE?oc=5",
+      "source": "Investing.com 한국어",
+      "date": "Wed, 04 Nov 2026 15:47:00 GMT"
+    },
+    {
+      "title": "강원 ‘미식·관광’ 중국 상하이서 세계시장 노크",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54WkplNGhNMjc0ejNibGctM25jbUtfTE4wNTdjOW1yQTBUM0g4Y1Ntbl91eVZqTmVxN3hwRVRVSEhPaDJZV2VrSFZaVndCUm5YN0xYMjRjSWdxSzFZWmgzN0YzM3lFOGc?oc=5",
+      "source": "강원도민일보",
+      "date": "Wed, 04 Nov 2026 15:02:01 GMT"
+    },
+    {
+      "title": "“中 휴머노이드 로봇업체, 3년 내 15% 이상 퇴출”",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYTzQzbUZHN0JyNklLOGI3cHNKS0pJbGFVdUJsVkhSdm44Y3JPd1BfZnJhMUFpc0hoa0pfLVRHdnJOeTFESURUeU5CcGZVZkNJNmfSAVNBVV95cUxOOGRvTWNYNjZ1a2Rpc3JFckVOb2EzZlhtaVpEekVfenNvb2RZaGJEWEFJaGJBTjdjRTBmS0xjalpzZElic3drM0FhdGNTREdabUJXVQ?oc=5",
+      "source": "서울경제",
+      "date": "Wed, 04 Nov 2026 09:08:11 GMT"
+    },
     {
       "title": "남양주시, 중국 창저우시 중러우구와 경제교류 차담회 개최",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBQjJ1ejJzYzZHQ1ZWbXlTTzJwTTNpRVNRWUJXR1U4aTBMY2FCamljNUZwUU0xUVJGa3ExYnBUZ2tVaHN1QmxxbDZGME5nVVFqaTFnOF93OW5RZnFPcC1sVjNR?oc=5",
@@ -12,14 +30,8 @@
       "date": "Wed, 04 Nov 2026 07:15:30 GMT"
     },
     {
-      "title": "중국이 다시 쓰는 글로벌 원자재 지형도",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vSVcxbVNPR3dOOE92RXhjRHAwX01CeWhTTjVDSDIzY1ExRDlfRDc4MDlrQk9WYk9EM0l5T1laNGZtODNUaTcxSGc4b2Fsb1N3SWcxc2hCUzZNUQ?oc=5",
-      "source": "네이버페이 머니스토리",
-      "date": "Wed, 04 Nov 2026 05:13:37 GMT"
-    },
-    {
       "title": "남양주시, 중국 창저우시 중러우구와 경제교류 확대 논의… 자매도시 교류 기반 기업 간 협력 모색",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CY0NEcVNWbE5pVFNncnJ6SmVuRzdhNlFKc1ltcHFFY2ZvTmhkYjRoamc1WHhSdXIwTnVyeTgzeEs5YzlyNDB0VDNJWWhheTlleUNPSC1pNTRHVVBMUUN2QllzemNrVW81R2pObVpn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiMUMzdzVEOTZYbXVoTHN5eEp5Y1RzUUdJX2dYRmlSajVaM0JHRWFqR2FrU3BsRzctYVBhMGk5M3pDUzE5ajAtWGt0RHczUlV0TlkxRHhUcjFtTXFzUU9UZVYxUnkwSGtKdm5CcVYyYw?oc=5",
       "source": "중부일보",
       "date": "Wed, 04 Nov 2026 04:31:00 GMT"
     },
@@ -36,22 +48,10 @@
       "date": "Wed, 04 Nov 2026 02:06:15 GMT"
     },
     {
-      "title": "中경제엔 양날의 검⋯관세 완화 기대 vs 기술규제 강화 우려 [美 중간선거]",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zNGp0Q1ZRNG9IMy1YWHNmSE5QdFRaVmNrOVI3bnZBN0hJVXc2Z3ZjamZHdFNNMXRudlM1WkxpWS1uQWpBS25YUjVITWRPcjQ5RDBLeg?oc=5",
-      "source": "이투데이",
-      "date": "Wed, 04 Nov 2026 01:45:00 GMT"
-    },
-    {
-      "title": "남양주시, 중국 중러우구와 기업 교류 확대…한·중 경제협력 물꼬",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Fczc0OGp2VWNxa1gyNG1oeFRwRDJfZHl1SnhhbkdGZUhSekJZSkFsRjEwT3Y3QVkyUk1oREc2WkI0bVU4VGkzaTZPWjRmcWRSaXBWaXJKV1lmQQ?oc=5",
-      "source": "브릿지경제",
-      "date": "Tue, 03 Nov 2026 23:38:00 GMT"
-    },
-    {
-      "title": "남양주시, 중국 창저우시 중러우구와 경제협력 확대 논의",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UR0otN3pYSlFzSldQTHdiMld5YkJRc0FINXdWTW1MZlN0LTZHcVVEREloUlN5UWF5Z05DbkUyVy11REpOS2gweXV1VXd6RFkteVdabkxWQ3Q5SVp1bVZtS0ExUUc3aUtxeVh1RUVkYTg?oc=5",
-      "source": "신아일보",
-      "date": "Tue, 03 Nov 2026 23:34:04 GMT"
+      "title": "중국이 다시 쓰는 글로벌 원자재 지형도",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vSVcxbVNPR3dOOE92RXhjRHAwX01CeWhTTjVDSDIzY1ExRDlfRDc4MDlrQk9WYk9EM0l5T1laNGZtODNUaTcxSGc4b2Fsb1N3SWcxc2hCUzZNUQ?oc=5",
+      "source": "네이버페이 머니스토리",
+      "date": "Wed, 04 Nov 2026 02:03:00 GMT"
     },
     {
       "title": "[곽재원 컬럼] 중국경제는 지금:첨단산업은 질주, 내수는 침체?",
