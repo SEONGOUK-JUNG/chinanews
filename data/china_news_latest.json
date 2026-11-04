@@ -1,10 +1,22 @@
 {
-  "run_at_kst": "2026-11-04T14:10:05+09:00",
+  "run_at_kst": "2026-11-04T20:10:13+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "남양주시, 중국 창저우시 중러우구와 경제교류 차담회 개최",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBQjJ1ejJzYzZHQ1ZWbXlTTzJwTTNpRVNRWUJXR1U4aTBMY2FCamljNUZwUU0xUVJGa3ExYnBUZ2tVaHN1QmxxbDZGME5nVVFqaTFnOF93OW5RZnFPcC1sVjNR?oc=5",
+      "source": "경기신문",
+      "date": "Wed, 04 Nov 2026 07:15:30 GMT"
+    },
+    {
+      "title": "중국이 다시 쓰는 글로벌 원자재 지형도",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vSVcxbVNPR3dOOE92RXhjRHAwX01CeWhTTjVDSDIzY1ExRDlfRDc4MDlrQk9WYk9EM0l5T1laNGZtODNUaTcxSGc4b2Fsb1N3SWcxc2hCUzZNUQ?oc=5",
+      "source": "네이버페이 머니스토리",
+      "date": "Wed, 04 Nov 2026 05:13:37 GMT"
+    },
     {
       "title": "남양주시, 중국 창저우시 중러우구와 경제교류 확대 논의… 자매도시 교류 기반 기업 간 협력 모색",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CY0NEcVNWbE5pVFNncnJ6SmVuRzdhNlFKc1ltcHFFY2ZvTmhkYjRoamc1WHhSdXIwTnVyeTgzeEs5YzlyNDB0VDNJWWhheTlleUNPSC1pNTRHVVBMUUN2QllzemNrVW81R2pObVpn?oc=5",
@@ -12,10 +24,10 @@
       "date": "Wed, 04 Nov 2026 04:31:00 GMT"
     },
     {
-      "title": "[중국 뉴스 브리핑] 2026년 11월 4일",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81ckNUUHVCcklmMnZTME1DNlNpUmo4OFp5OUhvQmRsQ1p6bGtVTllsYl9CZUViQnlEdFdfNXpqN2JVdDhseHNHcmxwQkdxSlc1UkNPRzVKQXd4SkQ2bFRlV2tLRnE4SmtJY2c?oc=5",
-      "source": "인민망",
-      "date": "Wed, 04 Nov 2026 02:10:00 GMT"
+      "title": "APEC 정상회의 앞둔 중국 “다자무역체제 수호·AI 기술 개방”",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lN3NnUHg3SnZYbVhKU2xQd21uMzJtbGJrOTZzLVRfcngwQUVFcGdmTm5JWTVCYmJSY1RpdE1zQTBrdTcwQWFvcFR0UnlmUl9mbldlZXB2cWJBajVuUlMxRGVYRFRNNVpxRXhpSl9jQ0NzY2c?oc=5",
+      "source": "마켓인",
+      "date": "Wed, 04 Nov 2026 03:11:55 GMT"
     },
     {
       "title": "[경제] 칠레-중국 상업∙공업∙관광회의소 회장 \"CIIE, 칠레 기업의 中 시장 개척 핵심 플랫폼\"-Xinhua",
@@ -30,12 +42,6 @@
       "date": "Wed, 04 Nov 2026 01:45:00 GMT"
     },
     {
-      "title": "중국이 다시 쓰는 글로벌 원자재 지형도",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oVDZ2ejJjWXJPWDdzeVNrU0I5VWx5d2FKV0lMcFUwTU5ENnVvNm1fUE9HSnh0SVlNMGZtT2ZCRlB0TzFjSU5ZX3FXX3V2TkdSaXc?oc=5",
-      "source": "네이버페이 머니스토리",
-      "date": "Tue, 03 Nov 2026 23:41:29 GMT"
-    },
-    {
       "title": "남양주시, 중국 중러우구와 기업 교류 확대…한·중 경제협력 물꼬",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Fczc0OGp2VWNxa1gyNG1oeFRwRDJfZHl1SnhhbkdGZUhSekJZSkFsRjEwT3Y3QVkyUk1oREc2WkI0bVU4VGkzaTZPWjRmcWRSaXBWaXJKV1lmQQ?oc=5",
       "source": "브릿지경제",
@@ -48,22 +54,16 @@
       "date": "Tue, 03 Nov 2026 23:34:04 GMT"
     },
     {
-      "title": "CSI300 지수 8.5% 하락, 중국 IPO 연기 지시",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZ3A1QWRRQU1WUHE0eTF5OWdHSGhsUTBGb2RkdklWZDJQZDd5UlNUSmI0N0V5TDNNTkNqUHNzUFdZQURzbE9mTV9fbVdzcU4tcTRJM0k5djcxY3ZYVDhNUTFMeEFKTUFEMTgzZHpVTjJOZFJxUjN2VWxpYW1YZnRqdFRneVZNMjl3clFSd1RlcGdfSVVVRUYyX3MwQVh0eEFmVl9FdGpQQXRQaEFpM0pNUWVSX0Zid2o1RjZoZm5nY3lvbXBIdnZhNmlIYjVjVmhTcmFjS2M2RGtjU2Z1X1I5bVhEdVVSZllo?oc=5",
-      "source": "IDNFinancials",
-      "date": "Tue, 03 Nov 2026 23:20:00 GMT"
+      "title": "[곽재원 컬럼] 중국경제는 지금:첨단산업은 질주, 내수는 침체?",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGZXB0alVBMC1sMl95bzM1dXkzZ2FFc2VtQ1NpOE9LUi1QSUtpemdIbDQ5dC1YdzdwY1FmNnJOMGRiQ2pnamkybV9vQVZHTmxlY3dIWFZhcw?oc=5",
+      "source": "https://technovalue.com/",
+      "date": "Mon, 02 Nov 2026 15:10:08 GMT"
     },
     {
       "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
       "source": ":: 위즈경제 ::",
       "date": "Fri, 30 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "2026년 9월 중국경제 동향과 전망",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbE8xbHF0UVdNZzllMXZ6SE9Cc2E5MnNMRV9QcUFrbmZ5VEUxSzYtV1VuZENiZnFOVjFxYWlfTVJSc1JrbjNWVkVNd3IzVHRfMzBVVTFYbzdUZnpvT3cxTm5CMHFBWlFRUlVLd09Wc0JHclI5RXkzemxnbnJlLUhJRg?oc=5",
-      "source": "KDI 경제교육·정보센터",
-      "date": "Thu, 29 Oct 2026 15:28:29 GMT"
     },
     {
       "title": "수출 대박나면 뭐하나…중국 경제에 나타난 '이상 신호' [차이나 워치]",

@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-04T14:10:05+09:00",
+  "run_at_kst": "2026-11-04T20:10:13+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Iran Says Four Oil Tankers Destroyed by Mines Near Strait of Hormuz",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-Four-Oil-Tankers-Destroyed-by-Mines-Near-Strait-of-Hormuz.html",
+      "source": "OilPrice",
+      "date": "Wed, 04 Nov 2026 04:15:00 -0600"
+    },
+    {
+      "title": "India Races to Triple Coal Stockpiles to Prevent Summer Blackouts",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Races-to-Triple-Coal-Stockpiles-to-Prevent-Summer-Blackouts.html",
+      "source": "OilPrice",
+      "date": "Wed, 04 Nov 2026 03:00:00 -0600"
+    },
+    {
+      "title": "China Now Home to Nearly Half of World's Clean Industrial Plants",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Now-Home-to-Nearly-Half-of-Worlds-Clean-Industrial-Plants.html",
+      "source": "OilPrice",
+      "date": "Wed, 04 Nov 2026 01:30:00 -0600"
+    },
+    {
+      "title": "Oil Prices Rebound as Middle East Supply Fears Return",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rebound-as-Middle-East-Supply-Fears-Return.html",
+      "source": "OilPrice",
+      "date": "Wed, 04 Nov 2026 00:15:00 -0600"
+    },
     {
       "title": "Pentagon Eyes Unprecedented 75-Year Deal to End China's Rare Earth Stranglehold",
       "link": "https://oilprice.com/Energy/Energy-General/Pentagon-Eyes-Unprecedented-75-Year-Deal-to-End-Chinas-Rare-Earth-Stranglehold.html",
@@ -38,34 +62,10 @@
       "date": "Tue, 03 Nov 2026 22:26:29 +0000"
     },
     {
-      "title": "US Crude Oil Inventories Still in Freefall",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Still-in-Freefall.html",
-      "source": "OilPrice",
-      "date": "Tue, 03 Nov 2026 16:00:47 -0600"
-    },
-    {
-      "title": "Africa Launches $5 Billion Energy Bank as Western Lenders Retreat",
-      "link": "https://oilprice.com/Energy/Energy-General/Africa-Launches-5-Billion-Energy-Bank-as-Western-Lenders-Retreat.html",
-      "source": "OilPrice",
-      "date": "Tue, 03 Nov 2026 16:00:00 -0600"
-    },
-    {
-      "title": "Why Supplying Europe With LNG Has a Best-Before Date",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Why-Supplying-Europe-With-LNG-Has-a-Best-Before-Date.html",
-      "source": "OilPrice",
-      "date": "Tue, 03 Nov 2026 15:00:00 -0600"
-    },
-    {
       "title": "I-80 Gold’s growth faces Nevada labour squeeze",
       "link": "https://www.mining.com/i-80-golds-growth-faces-nevada-labour-squeeze/",
       "source": "mining.com",
       "date": "Tue, 03 Nov 2026 20:11:00 +0000"
-    },
-    {
-      "title": "Houthi Fighters Launch Ground Incursions Into Saudi Arabia",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/Houthi-Fighters-Launch-Ground-Incursions-Into-Saudi-Arabia.html",
-      "source": "OilPrice",
-      "date": "Tue, 03 Nov 2026 14:00:00 -0600"
     },
     {
       "title": "Canada gold output jumps 22% as global supply slips",
