@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-04T10:10:05+09:00",
+  "run_at_kst": "2026-11-04T14:10:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Pentagon Eyes Unprecedented 75-Year Deal to End China's Rare Earth Stranglehold",
+      "link": "https://oilprice.com/Energy/Energy-General/Pentagon-Eyes-Unprecedented-75-Year-Deal-to-End-Chinas-Rare-Earth-Stranglehold.html",
+      "source": "OilPrice",
+      "date": "Tue, 03 Nov 2026 19:22:00 -0600"
+    },
     {
       "title": "Iran War Doubles Egypt’s LNG Bill as Gas Output Keeps Falling",
       "link": "https://oilprice.com/Energy/Natural-Gas/Iran-War-Doubles-Egypts-LNG-Bill-as-Gas-Output-Keeps-Falling.html",
@@ -60,12 +66,6 @@
       "link": "https://oilprice.com/Geopolitics/Middle-East/Houthi-Fighters-Launch-Ground-Incursions-Into-Saudi-Arabia.html",
       "source": "OilPrice",
       "date": "Tue, 03 Nov 2026 14:00:00 -0600"
-    },
-    {
-      "title": "Why Higher Oil Prices Aren't Solving Saudi Aramco's Biggest Problems",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Why-Higher-Oil-Prices-Arent-Solving-Saudi-Aramcos-Biggest-Problems.html",
-      "source": "OilPrice",
-      "date": "Tue, 03 Nov 2026 13:00:00 -0600"
     },
     {
       "title": "Canada gold output jumps 22% as global supply slips",

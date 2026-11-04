@@ -1,10 +1,34 @@
 {
-  "run_at_kst": "2026-11-04T10:10:05+09:00",
+  "run_at_kst": "2026-11-04T14:10:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "남양주시, 중국 창저우시 중러우구와 경제교류 확대 논의… 자매도시 교류 기반 기업 간 협력 모색",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CY0NEcVNWbE5pVFNncnJ6SmVuRzdhNlFKc1ltcHFFY2ZvTmhkYjRoamc1WHhSdXIwTnVyeTgzeEs5YzlyNDB0VDNJWWhheTlleUNPSC1pNTRHVVBMUUN2QllzemNrVW81R2pObVpn?oc=5",
+      "source": "중부일보",
+      "date": "Wed, 04 Nov 2026 04:31:00 GMT"
+    },
+    {
+      "title": "[중국 뉴스 브리핑] 2026년 11월 4일",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81ckNUUHVCcklmMnZTME1DNlNpUmo4OFp5OUhvQmRsQ1p6bGtVTllsYl9CZUViQnlEdFdfNXpqN2JVdDhseHNHcmxwQkdxSlc1UkNPRzVKQXd4SkQ2bFRlV2tLRnE4SmtJY2c?oc=5",
+      "source": "인민망",
+      "date": "Wed, 04 Nov 2026 02:10:00 GMT"
+    },
+    {
+      "title": "[경제] 칠레-중국 상업∙공업∙관광회의소 회장 \"CIIE, 칠레 기업의 中 시장 개척 핵심 플랫폼\"-Xinhua",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ocEZKa0FFbEhKX1o4TkpSWGtDNkxqUkFrcTBPUHJxZGhFV0JNb2ZOMFhNMU5TOFg0ZElPVEZwQXJFRzA4SFhEVTRYTEY4X2J5cnJuRFpzNzYwUGFkcmo1c19LY3VPdnBHSGg2X0JORVdneDB0VXc?oc=5",
+      "source": "신화망",
+      "date": "Wed, 04 Nov 2026 02:06:15 GMT"
+    },
+    {
+      "title": "中경제엔 양날의 검⋯관세 완화 기대 vs 기술규제 강화 우려 [美 중간선거]",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zNGp0Q1ZRNG9IMy1YWHNmSE5QdFRaVmNrOVI3bnZBN0hJVXc2Z3ZjamZHdFNNMXRudlM1WkxpWS1uQWpBS25YUjVITWRPcjQ5RDBLeg?oc=5",
+      "source": "이투데이",
+      "date": "Wed, 04 Nov 2026 01:45:00 GMT"
+    },
     {
       "title": "중국이 다시 쓰는 글로벌 원자재 지형도",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oVDZ2ejJjWXJPWDdzeVNrU0I5VWx5d2FKV0lMcFUwTU5ENnVvNm1fUE9HSnh0SVlNMGZtT2ZCRlB0TzFjSU5ZX3FXX3V2TkdSaXc?oc=5",
@@ -28,30 +52,6 @@
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZ3A1QWRRQU1WUHE0eTF5OWdHSGhsUTBGb2RkdklWZDJQZDd5UlNUSmI0N0V5TDNNTkNqUHNzUFdZQURzbE9mTV9fbVdzcU4tcTRJM0k5djcxY3ZYVDhNUTFMeEFKTUFEMTgzZHpVTjJOZFJxUjN2VWxpYW1YZnRqdFRneVZNMjl3clFSd1RlcGdfSVVVRUYyX3MwQVh0eEFmVl9FdGpQQXRQaEFpM0pNUWVSX0Zid2o1RjZoZm5nY3lvbXBIdnZhNmlIYjVjVmhTcmFjS2M2RGtjU2Z1X1I5bVhEdVVSZllo?oc=5",
       "source": "IDNFinancials",
       "date": "Tue, 03 Nov 2026 23:20:00 GMT"
-    },
-    {
-      "title": "[루이스 루의 마켓 나우] 중국 ‘6대 네트워크’ 건설 효과 크지 않다",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EZlJfSFN4ZzFPWEZPeUh1SDlVM3dTc3FFTERpa2tTSTk1YVNfU2VzcGR0RDNXV1FCNDlJYU1WZUxidm83ZFpXVlFTdV9IY0FlYnI2N2txS2pMMURjRDU2QnVR?oc=5",
-      "source": "미주중앙일보",
-      "date": "Tue, 03 Nov 2026 15:04:00 GMT"
-    },
-    {
-      "title": "남양주시, 중국 창저우시 중러우구와 경제협력 확대 모색",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGejd1bGhWYlpHekpJSXkxa0J1RlphOElNRkxMQVV3Y2wzOGFUS3ctQ0lhcW1HQ0o0a2JNbFNDekxRX29rZjZ4NFdyNUxIWXVabG9nbHlrZTBFVS1rLXVhSg?oc=5",
-      "source": "아시아경제",
-      "date": "Tue, 03 Nov 2026 09:28:38 GMT"
-    },
-    {
-      "title": "차이나 쇼크 2.0 시대의 중국 억만장자들",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1HUU1fQmNvbTVPRkoxWHdER1NYS0FZNlE4QzlRc2o2VTRqdW1BX3pvRmtmMEotak1JakE4TDZlckI5QQ?oc=5",
-      "source": "참세상",
-      "date": "Tue, 03 Nov 2026 02:58:02 GMT"
-    },
-    {
-      "title": "[곽재원 컬럼] 중국경제는 지금:첨단산업은 질주, 내수는 침체?",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGZXB0alVBMC1sMl95bzM1dXkzZ2FFc2VtQ1NpOE9LUi1QSUtpemdIbDQ5dC1YdzdwY1FmNnJOMGRiQ2pnamkybV9vQVZHTmxlY3dIWFZhcw?oc=5",
-      "source": "https://technovalue.com/",
-      "date": "Mon, 02 Nov 2026 15:10:08 GMT"
     },
     {
       "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
