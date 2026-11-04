@@ -1,10 +1,34 @@
 {
-  "run_at_kst": "2026-11-04T07:20:03+09:00",
+  "run_at_kst": "2026-11-04T10:10:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "중국이 다시 쓰는 글로벌 원자재 지형도",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oVDZ2ejJjWXJPWDdzeVNrU0I5VWx5d2FKV0lMcFUwTU5ENnVvNm1fUE9HSnh0SVlNMGZtT2ZCRlB0TzFjSU5ZX3FXX3V2TkdSaXc?oc=5",
+      "source": "네이버페이 머니스토리",
+      "date": "Tue, 03 Nov 2026 23:41:29 GMT"
+    },
+    {
+      "title": "남양주시, 중국 중러우구와 기업 교류 확대…한·중 경제협력 물꼬",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Fczc0OGp2VWNxa1gyNG1oeFRwRDJfZHl1SnhhbkdGZUhSekJZSkFsRjEwT3Y3QVkyUk1oREc2WkI0bVU4VGkzaTZPWjRmcWRSaXBWaXJKV1lmQQ?oc=5",
+      "source": "브릿지경제",
+      "date": "Tue, 03 Nov 2026 23:38:00 GMT"
+    },
+    {
+      "title": "남양주시, 중국 창저우시 중러우구와 경제협력 확대 논의",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UR0otN3pYSlFzSldQTHdiMld5YkJRc0FINXdWTW1MZlN0LTZHcVVEREloUlN5UWF5Z05DbkUyVy11REpOS2gweXV1VXd6RFkteVdabkxWQ3Q5SVp1bVZtS0ExUUc3aUtxeVh1RUVkYTg?oc=5",
+      "source": "신아일보",
+      "date": "Tue, 03 Nov 2026 23:34:04 GMT"
+    },
+    {
+      "title": "CSI300 지수 8.5% 하락, 중국 IPO 연기 지시",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZ3A1QWRRQU1WUHE0eTF5OWdHSGhsUTBGb2RkdklWZDJQZDd5UlNUSmI0N0V5TDNNTkNqUHNzUFdZQURzbE9mTV9fbVdzcU4tcTRJM0k5djcxY3ZYVDhNUTFMeEFKTUFEMTgzZHpVTjJOZFJxUjN2VWxpYW1YZnRqdFRneVZNMjl3clFSd1RlcGdfSVVVRUYyX3MwQVh0eEFmVl9FdGpQQXRQaEFpM0pNUWVSX0Zid2o1RjZoZm5nY3lvbXBIdnZhNmlIYjVjVmhTcmFjS2M2RGtjU2Z1X1I5bVhEdVVSZllo?oc=5",
+      "source": "IDNFinancials",
+      "date": "Tue, 03 Nov 2026 23:20:00 GMT"
+    },
     {
       "title": "[루이스 루의 마켓 나우] 중국 ‘6대 네트워크’ 건설 효과 크지 않다",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EZlJfSFN4ZzFPWEZPeUh1SDlVM3dTc3FFTERpa2tTSTk1YVNfU2VzcGR0RDNXV1FCNDlJYU1WZUxidm83ZFpXVlFTdV9IY0FlYnI2N2txS2pMMURjRDU2QnVR?oc=5",
@@ -12,28 +36,10 @@
       "date": "Tue, 03 Nov 2026 15:04:00 GMT"
     },
     {
-      "title": "남양주 중국 중러우구와 손잡고 경제교류 초읽기 돌입 > 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhM3hraXpMTWxXalo4VGZIY0dhdmtaYnRvU3Y5SlhPYndIUXFnN3FlcFg2S1N3VlNvSWNuVlVsMFhMcnNjQUhTaDg4SE1tUjRjdnlVbGF0X1dENmZieEJibVlSVXB4ZmZROGdoNmNJMmZSdw?oc=5",
-      "source": "더코리아",
-      "date": "Tue, 03 Nov 2026 09:41:00 GMT"
-    },
-    {
       "title": "남양주시, 중국 창저우시 중러우구와 경제협력 확대 모색",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGejd1bGhWYlpHekpJSXkxa0J1RlphOElNRkxMQVV3Y2wzOGFUS3ctQ0lhcW1HQ0o0a2JNbFNDekxRX29rZjZ4NFdyNUxIWXVabG9nbHlrZTBFVS1rLXVhSg?oc=5",
       "source": "아시아경제",
       "date": "Tue, 03 Nov 2026 09:28:38 GMT"
-    },
-    {
-      "title": "중국 태양광 빅4, 3분기 1조원 적자…2027년 말까지 회복 어렵다",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ib1pTdms5TjN6TDFQS29GeVJsZ3FpaVpjNEVBb0F1ZnhGbnJvNkEwZExtS0ptbTBCUXVEZF9mQVNuUXZOWDFNSGhhcUxFb2tMYlhieThBTmNWbEt2RHBtN2c0M280bVFfNUE?oc=5",
-      "source": "임팩트온",
-      "date": "Tue, 03 Nov 2026 07:58:17 GMT"
-    },
-    {
-      "title": "중국, 위안화 유동성 강화 및 홍콩 금융 시장 지원",
-      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOdkxzdlBMVG5qTDYwTERWTUNkZXlOV09keWpEeGpITHhxd1hVZzRCc1lMdU1jZ0ZCOV9jYVlPREhkZ2ROZnZQbS01NFJfSFpVaHlwa1NxUDd1UzRwM1VKY2pDX2FjcG1GVjRBR3NOUXlrbmI4czZhRlFfZFU3NlJrVGJlS2lrQkVhZzBveVlrcGZkQnJLT0xRVlE4QmVYeUluMVJoYVhrUUtlOXNPdWlUajAtbG9tNldoNVY2d2l3WUpUTjVmRW45bmNjb2MyeWhKd3dQWkJJNmNEOXd1cm9fQTZ1Nkc4Y2dmVVhmbXJJZ0tsajZZRWMtTXQtYjdDNkREOG1tYlVsTXl4anRicXNkSHcxMmtYU0NnajJRc2lDclZFUkw2TEVYcy11eTZrRjB0b1BvaEJ2V0tCaEoweVBITjhmTXRpZw?oc=5",
-      "source": "IDNFinancials",
-      "date": "Tue, 03 Nov 2026 07:20:00 GMT"
     },
     {
       "title": "차이나 쇼크 2.0 시대의 중국 억만장자들",
@@ -52,12 +58,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
       "source": ":: 위즈경제 ::",
       "date": "Fri, 30 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "의왕시, 중국 경제교류 문턱 넓힌다…기업 지원금 없어",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JYWVwWjdqQTQwVFBydVZmNU1ZQ0RTaXRzN2NVOVF0ME02YXpZUE5XQS1HZFJiMU12TGVGMVJLZnFwbnM0a3d4Um5UTDNld3VzVGRZQ0dJcUxuQXBTdWZrQXprTEs?oc=5",
-      "source": "서울경제TV",
-      "date": "Fri, 30 Oct 2026 01:34:04 GMT"
     },
     {
       "title": "2026년 9월 중국경제 동향과 전망",
