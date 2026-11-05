@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-05T07:20:03+09:00",
+  "run_at_kst": "2026-11-05T10:10:06+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Africa’s LNG Exports Set to Soar 175% as Buyers Flee Hormuz",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Africas-LNG-Exports-Set-to-Soar-175-as-Buyers-Flee-Hormuz.html",
+      "source": "OilPrice",
+      "date": "Wed, 04 Nov 2026 19:00:00 -0600"
+    },
+    {
+      "title": "Butane’s Perfect Storm Sends Prices to Decade Highs",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Butanes-Perfect-Storm-Sends-Prices-to-Decade-Highs.html",
+      "source": "OilPrice",
+      "date": "Wed, 04 Nov 2026 18:00:00 -0600"
+    },
+    {
+      "title": "Michigan mining push tests Lake Superior safeguards",
+      "link": "https://www.mining.com/michigan-mining-push-tests-lake-superior-safeguards/",
+      "source": "mining.com",
+      "date": "Wed, 04 Nov 2026 23:30:00 +0000"
+    },
+    {
+      "title": "Qatar Becomes Largest Buyer of U.S. LNG Amid Hormuz Crisis",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Qatar-Becomes-Largest-Buyer-of-US-LNG-Amid-Hormuz-Crisis.html",
+      "source": "OilPrice",
+      "date": "Wed, 04 Nov 2026 17:00:00 -0600"
+    },
+    {
+      "title": "Eagle Nuclear Energy to acquire Noble Plains Uranium",
+      "link": "https://www.mining.com/eagle-nuclear-energy-to-acquire-noble-plains-uranium/",
+      "source": "mining.com",
+      "date": "Wed, 04 Nov 2026 22:13:21 +0000"
+    },
     {
       "title": "Can Cheap Batteries Deliver COP31’s 35% Electrification Goal?",
       "link": "https://oilprice.com/Energy/Energy-General/Can-Cheap-Batteries-Deliver-COP31s-35-Electrification-Goal.html",
@@ -44,28 +74,10 @@
       "date": "Wed, 04 Nov 2026 18:03:00 +0000"
     },
     {
-      "title": "China's Rail Line Into Central Asia Is Set for 2031",
-      "link": "https://oilprice.com/Energy/Energy-General/Chinas-Rail-Line-Into-Central-Asia-Is-Set-for-2031.html",
-      "source": "OilPrice",
-      "date": "Wed, 04 Nov 2026 12:00:00 -0600"
-    },
-    {
-      "title": "Fire Shuts Equinor’s Visund Platform in Norwegian North Sea",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Fire-Shuts-Equinors-Visund-Platform-in-Norwegian-North-Sea.html",
-      "source": "OilPrice",
-      "date": "Wed, 04 Nov 2026 11:30:00 -0600"
-    },
-    {
       "title": "Western tungsten prices nearly quadruple China’s: report",
       "link": "https://www.mining.com/western-tungsten-prices-nearly-quadruple-chinas-report/",
       "source": "mining.com",
       "date": "Wed, 04 Nov 2026 17:18:21 +0000"
-    },
-    {
-      "title": "New Jersey Moves to Block Trump's Russian Diesel Imports",
-      "link": "https://oilprice.com/Energy/Energy-General/New-Jersey-Moves-to-Block-Trumps-Russian-Diesel-Imports.html",
-      "source": "OilPrice",
-      "date": "Wed, 04 Nov 2026 11:00:00 -0600"
     },
     {
       "title": "Copper’s biggest new mine stumbles again as costs soar",
@@ -78,18 +90,6 @@
       "link": "https://www.mining.com/freeport-approves-4-5-billion-bagdad-copper-expansion/",
       "source": "mining.com",
       "date": "Wed, 04 Nov 2026 15:57:49 +0000"
-    },
-    {
-      "title": "Democrats’ win puts US mining agenda under scrutiny",
-      "link": "https://www.mining.com/democrats-win-puts-us-mining-agenda-under-scrutiny/",
-      "source": "mining.com",
-      "date": "Wed, 04 Nov 2026 15:13:08 +0000"
-    },
-    {
-      "title": "B2Gold’s $740 million Gramalote faces key permit test",
-      "link": "https://www.mining.com/b2golds-740-million-gramalote-faces-key-permit-test/",
-      "source": "mining.com",
-      "date": "Wed, 04 Nov 2026 14:59:00 +0000"
     }
   ]
 }
