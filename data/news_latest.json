@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-05T20:10:06+09:00",
+  "run_at_kst": "2026-11-06T07:20:03+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
-      "title": "China’s Diesel Exports Set to Plunge as Domestic Inventories Run Low",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Diesel-Exports-Set-to-Plunge-as-Domestic-Inventories-Run-Low.html",
+      "title": "India's Renewables Have Saved $100 Billion in Fuel Imports, IEA Says",
+      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Indias-Renewables-Have-Saved-100-Billion-in-Fuel-Imports-IEA-Says.html",
       "source": "OilPrice",
-      "date": "Thu, 05 Nov 2026 04:15:00 -0600"
+      "date": "Thu, 05 Nov 2026 16:00:00 -0600"
     },
     {
-      "title": "SOCAR Bets $1.65 Billion on U.S. Shale Gas Boom",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/SOCAR-Bets-165-Billion-on-US-Shale-Gas-Boom.html",
+      "title": "Batteries Are Taking the Gas Peaker’s Best Hours",
+      "link": "https://oilprice.com/Energy/Energy-General/Batteries-Are-Taking-the-Gas-Peakers-Best-Hours.html",
       "source": "OilPrice",
-      "date": "Thu, 05 Nov 2026 03:00:00 -0600"
+      "date": "Thu, 05 Nov 2026 15:00:00 -0600"
     },
     {
-      "title": "EU Survey Reveals Massive Support for Renewable Energy Transition",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Survey-Reveals-Massive-Support-for-Renewable-Energy-Transition.html",
+      "title": "ConocoPhillips Doubles Profit to $4 Billion, Raises Dividend",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/ConocoPhillips-Doubles-Profit-to-4-Billion-Raises-Dividend.html",
       "source": "OilPrice",
-      "date": "Thu, 05 Nov 2026 01:45:00 -0600"
+      "date": "Thu, 05 Nov 2026 14:30:00 -0600"
     },
     {
-      "title": "Oil Prices Continue to Fall as Democratic Sweep Shakes Energy Markets",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Continue-to-Fall-as-Democratic-Sweep-Shakes-Energy-Markets.html",
+      "title": "France's Debt Crisis Could Trigger a Much Bigger European Meltdown",
+      "link": "https://oilprice.com/Geopolitics/Europe/Frances-Debt-Crisis-Could-Trigger-a-Much-Bigger-European-Meltdown.html",
       "source": "OilPrice",
-      "date": "Thu, 05 Nov 2026 00:30:00 -0600"
+      "date": "Thu, 05 Nov 2026 14:00:00 -0600"
     },
     {
-      "title": "Africa’s LNG Exports Set to Soar 175% as Buyers Flee Hormuz",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Africas-LNG-Exports-Set-to-Soar-175-as-Buyers-Flee-Hormuz.html",
+      "title": "Oil Prices Rebound Sharply After Brutal Midweek Rout",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rebound-Sharply-After-Brutal-Midweek-Rout.html",
       "source": "OilPrice",
-      "date": "Wed, 04 Nov 2026 19:00:00 -0600"
+      "date": "Thu, 05 Nov 2026 13:30:00 -0600"
     },
     {
-      "title": "Butane’s Perfect Storm Sends Prices to Decade Highs",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Butanes-Perfect-Storm-Sends-Prices-to-Decade-Highs.html",
+      "title": "US and Turkmenistan Explore New Gas Routes Across the Caspian",
+      "link": "https://oilprice.com/Energy/Energy-General/US-and-Turkmenistan-Explore-New-Gas-Routes-Across-the-Caspian.html",
       "source": "OilPrice",
-      "date": "Wed, 04 Nov 2026 18:00:00 -0600"
+      "date": "Thu, 05 Nov 2026 13:00:00 -0600"
     },
     {
-      "title": "Michigan mining push tests Lake Superior safeguards",
-      "link": "https://www.mining.com/michigan-mining-push-tests-lake-superior-safeguards/",
+      "title": "U.S. Refineries Make Dramatic Shift Away From Gasoline",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Refineries-Make-Dramatic-Shift-Away-From-Gasoline.html",
+      "source": "OilPrice",
+      "date": "Thu, 05 Nov 2026 12:00:00 -0600"
+    },
+    {
+      "title": "San Francisco Bay Area dominates mining tech startup funding worldwide",
+      "link": "https://www.mining.com/san-francisco-bay-area-dominates-mining-tech-startup-funding-worldwide/",
       "source": "mining.com",
-      "date": "Wed, 04 Nov 2026 23:30:00 +0000"
+      "date": "Thu, 05 Nov 2026 17:23:29 +0000"
     },
     {
-      "title": "Qatar Becomes Largest Buyer of U.S. LNG Amid Hormuz Crisis",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Qatar-Becomes-Largest-Buyer-of-US-LNG-Amid-Hormuz-Crisis.html",
+      "title": "Guyana’s Oil Boom Could Ease the Global Supply Crunch",
+      "link": "https://oilprice.com/Energy/Energy-General/Guyanas-Oil-Boom-Could-Ease-the-Global-Supply-Crunch.html",
       "source": "OilPrice",
-      "date": "Wed, 04 Nov 2026 17:00:00 -0600"
+      "date": "Thu, 05 Nov 2026 11:00:00 -0600"
     },
     {
-      "title": "Eagle Nuclear Energy to acquire Noble Plains Uranium",
-      "link": "https://www.mining.com/eagle-nuclear-energy-to-acquire-noble-plains-uranium/",
+      "title": "AngloGold plans $900 million mine expansion amid stronger profit",
+      "link": "https://www.mining.com/anglogold-plans-900-million-mine-expansion-amid-stronger-profit/",
       "source": "mining.com",
-      "date": "Wed, 04 Nov 2026 22:13:21 +0000"
+      "date": "Thu, 05 Nov 2026 16:55:19 +0000"
     },
     {
-      "title": "Can Cheap Batteries Deliver COP31’s 35% Electrification Goal?",
-      "link": "https://oilprice.com/Energy/Energy-General/Can-Cheap-Batteries-Deliver-COP31s-35-Electrification-Goal.html",
-      "source": "OilPrice",
-      "date": "Wed, 04 Nov 2026 16:00:00 -0600"
-    },
-    {
-      "title": "Rare Earths Norway OKs $27 million Fen pilot plant",
-      "link": "https://www.mining.com/rare-earths-norway-oks-e24m-fen-pilot-plant/",
+      "title": "Codelco halts Andina mine as tailings spill threatens river",
+      "link": "https://www.mining.com/codelco-halts-andina-mine-as-tailings-spill-threaten-river/",
       "source": "mining.com",
-      "date": "Wed, 04 Nov 2026 18:03:00 +0000"
+      "date": "Thu, 05 Nov 2026 16:09:00 +0000"
     },
     {
-      "title": "Western tungsten prices nearly quadruple China’s: report",
-      "link": "https://www.mining.com/western-tungsten-prices-nearly-quadruple-chinas-report/",
+      "title": "Chibougamau offers copper growth for Central Asia: BMO",
+      "link": "https://www.mining.com/chibougamau-offers-copper-growth-for-central-asia-bmo/",
       "source": "mining.com",
-      "date": "Wed, 04 Nov 2026 17:18:21 +0000"
+      "date": "Thu, 05 Nov 2026 15:40:08 +0000"
     },
     {
-      "title": "Copper’s biggest new mine stumbles again as costs soar",
-      "link": "https://www.mining.com/coppers-biggest-new-mine-stumbles-again-as-costs-soar/",
+      "title": "B2Gold cuts cost forecast as Goose faces crunch",
+      "link": "https://www.mining.com/b2gold-cuts-cost-forecast-as-goose-faces-crunch/",
       "source": "mining.com",
-      "date": "Wed, 04 Nov 2026 16:24:00 +0000"
+      "date": "Thu, 05 Nov 2026 15:00:04 +0000"
     },
     {
-      "title": "Freeport approves $4.5 billion Bagdad copper expansion",
-      "link": "https://www.mining.com/freeport-approves-4-5-billion-bagdad-copper-expansion/",
+      "title": "Rio Tinto injects $144 million into Resolution Copper after land battle win",
+      "link": "https://www.mining.com/rio-tinto-injects-144m-into-resolution-copper-after-land-battle-win/",
       "source": "mining.com",
-      "date": "Wed, 04 Nov 2026 15:57:49 +0000"
+      "date": "Thu, 05 Nov 2026 14:23:00 +0000"
     }
   ]
 }
