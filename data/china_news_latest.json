@@ -1,33 +1,51 @@
 {
-  "run_at_kst": "2026-11-05T14:10:05+09:00",
+  "run_at_kst": "2026-11-05T20:10:06+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "군산시·중국 옌타이, 녹색산업 협력 본격화…새만금 연계 모색",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kVTc4SVlNWG1WSHZ2ckVia1VsTmZKTGVNcnY5a21meTE3YTB2dXJnUGJmUE01dGt5ZzlBZUV0cVZUMGFfcUFld0EteFVtVU1FZGtwVHFCUWdwZ9IBWEFVX3lxTE5PZVQySWpJM2p2WVd4YkI3RUNWV2xHWmE1MjBJWGNUZmtTNDd3NzJFQ19RdDkwMmpubFRSVlAxNW9DOFpkUFliLUVuREhGRE9yZzM3VDFLUEs?oc=5",
-      "source": "아주경제",
-      "date": "Thu, 05 Nov 2026 04:17:29 GMT"
+      "title": "트럼프보다 세게 나온다…블루웨이브에 중국 '긴장'",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83WFFfTmRzY3ZfTl9kZE9LR2cyXzc5cVhHRnJ5QUJjNnlZaFJ1WWZYY2xzaWxYRGdkdkJaTU1tT2d2d0tQRS1EZmtGdkhuTTI3OGFyb2U4YzhhQQ?oc=5",
+      "source": "한국경제",
+      "date": "Thu, 05 Nov 2026 10:54:01 GMT"
     },
     {
-      "title": "경제무역 더 밀착하는 중국·캐나다, 관세 면제 연장하고 협력 확대",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbmttd0ZDakluQ3pHa1F2MjA3d1NhTHVlSGZmWjFaUlA3ZzBFTUtlQ0R2ZmZXeDZNRHpjalZ4RFdjUHdEUXFQSEVVTTFoaW5fTXl4X0lMdl8zbnR4VWtiUXBZZnFqbmVRX0NVUFYyallmRDZnS3RRRmtkVGxLY0J0Yw?oc=5",
-      "source": "이데일리",
-      "date": "Thu, 05 Nov 2026 03:40:03 GMT"
+      "title": "제주–칭다오 화물항로 활성화 속도…제주·중국 경제협력 확대",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85ZEdzVGkxR0hUVGZpbHg4TXVsamtHV29fbU1xZXlqbzZidXN4OXhkVkJiakt5N1Vhc0VFaVBtTEhMVDFZSlhOTEZCNGZhX1dpMGhGYmVXOVRnU0ZaUWlRUVdPclcyVG9uU2xN?oc=5",
+      "source": "해사신문",
+      "date": "Thu, 05 Nov 2026 08:02:37 GMT"
+    },
+    {
+      "title": "제주-중국, 미래산업으로 손잡다…지속 가능한 공동성장 모색",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00NGdBbE9YSVNIOHFoYy1HTDVlUXpiUWZKUUJNeW50Si0yQUtZWnplUEpqS1REZGFZdWdoaEVaMVh4MEo1azVuTFVkQmo1OG9RN1dlZGF6Z1RkVHQtcG5Ib09LRXJBd1h5Vm51bzJn?oc=5",
+      "source": "지금제주",
+      "date": "Thu, 05 Nov 2026 07:04:08 GMT"
+    },
+    {
+      "title": "강원도 경제진흥원, 중국수출입상품교역회에서 598만달러 수출 상담 실적",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kbTVsd2d2cno4UTlsV2o2QnA0VFZteHZJVVV6MG52MURtX04tbUd0eVdaeW5YVEJfMUY3cklYbDd2WFdhY3Zwb1BWbTl6X1VCZFNCLXdrQnN3NHFJOGtNNkl5dzRaeUU?oc=5",
+      "source": "강원도민일보",
+      "date": "Thu, 05 Nov 2026 06:44:43 GMT"
+    },
+    {
+      "title": "화성시 '26년 지기' 중국 우장구와 '경제·문화·교육' 교류 확대 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MdE03ZWtxenJnT2lqQzVGcXp1Y2JVTmNEYnI1bnZ2aEc2dV9acEVuNjlNZFV3MlZHV3RXRFdTZ28xYkNURjFsSkhSSS1YWUFfd3pTNUdnM0xGNGxwQi0xT2pEU0hTY0lqSlHSAW9BVV95cUxQWkhnejVLaFZrR1UwaXh1OG9VVWhyRUxKYkFBTGNZbTlZWnUwOTREbm9fbFlrZ05wSHdmUUIyajIxeUZtd3JXX3B5bU1XSlIzaXlkSW5aQkVpUncydHQ1Uy1ONTU2UnNJQTZXaG4xTXM?oc=5",
+      "source": "머니투데이",
+      "date": "Thu, 05 Nov 2026 05:58:28 GMT"
+    },
+    {
+      "title": "경북농기원 ‘글로리스타’, 중국 수출 개시·국내 프리미엄 유통망 진입",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TRi1zRlNxZ2M3TUJpQ1NGLVNrZnp2S1Q5YU5hVUlYTERYNDRSbThZMDF1dlpSSDQ3dDNVeXU1clV4ZjFCMzl2aHEwcmtYYklTMUdreUl5RVpWaGFOdEhhU28wZWpQREE?oc=5",
+      "source": "한경일보",
+      "date": "Thu, 05 Nov 2026 05:23:59 GMT"
     },
     {
       "title": "중국 청년들 ‘잃어버린 세대’ 되나",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1amdVWjZhWlpDdmF6T3ZOMHRCeE5pWF9fVXNjXzNSQ0RzWjRkTGhzekdONjQzYkdSbTQwcE1fY2lpMGNwLUVjS1Nhd3dCMHlSXzFlSWl3RTU0Slh4Q3BKVEdlT3JZMDFSRmg3cnNn?oc=5",
-      "source": "www.yonhapmidas.com",
+      "source": "https://www.yonhapmidas.com/",
       "date": "Thu, 05 Nov 2026 02:12:50 GMT"
-    },
-    {
-      "title": "[중국 뉴스 브리핑] 2026년 11월 5일",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42QWVCU1EwY1ZqeTNrYV82TFJubUtEa3JBNW1JTzlJWFd0STgwbkhnQXFkcEl2WmlwN0h6VHRJZ0pBSWl0RkFUWjhmVlFlYk13eU1WeV9Uc2Nzb1Rtb3dFclBiQ0ZkMnJFV2c?oc=5",
-      "source": "인민망",
-      "date": "Thu, 05 Nov 2026 02:05:00 GMT"
     },
     {
       "title": "제주-중국, 미래산업 공감대 형성…공동성장 모색",
@@ -36,22 +54,10 @@
       "date": "Thu, 05 Nov 2026 01:29:23 GMT"
     },
     {
-      "title": "중국 제외 전기차 인도량 733만대…전년比 30% 증가",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43WXdSbXl2aHZldjRQeWxaN0NqRjl0N0JxSXRmRFJJMEJzRHlzOXFuTmNBZGlacG4tbmRsNU1ScXMzU3Y3ak9ESkNQVFc0MXFpVUlNcmY5dS1rTEZqMWpiZlJ6TTNXUFBUeEl4VktNd04?oc=5",
-      "source": "리드경제",
-      "date": "Thu, 05 Nov 2026 00:17:00 GMT"
-    },
-    {
-      "title": "강원 ‘미식·관광’ 중국 상하이서 세계시장 노크",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54WkplNGhNMjc0ejNibGctM25jbUtfTE4wNTdjOW1yQTBUM0g4Y1Ntbl91eVZqTmVxN3hwRVRVSEhPaDJZV2VrSFZaVndCUm5YN0xYMjRjSWdxSzFZWmgzN0YzM3lFOGc?oc=5",
-      "source": "강원도민일보",
-      "date": "Wed, 04 Nov 2026 15:02:01 GMT"
-    },
-    {
-      "title": "“中 휴머노이드 로봇업체, 3년 내 15% 이상 퇴출”",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYTzQzbUZHN0JyNklLOGI3cHNKS0pJbGFVdUJsVkhSdm44Y3JPd1BfZnJhMUFpc0hoa0pfLVRHdnJOeTFESURUeU5CcGZVZkNJNmfSAVNBVV95cUxOOGRvTWNYNjZ1a2Rpc3JFckVOb2EzZlhtaVpEekVfenNvb2RZaGJEWEFJaGJBTjdjRTBmS0xjalpzZElic3drM0FhdGNTREdabUJXVQ?oc=5",
-      "source": "서울경제",
-      "date": "Wed, 04 Nov 2026 09:08:11 GMT"
+      "title": "[경제] 칠레-중국 상업∙공업∙관광회의소 회장 \"CIIE, 칠레 기업의 中 시장 개척 핵심 플랫폼\"-Xinhua",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ocEZKa0FFbEhKX1o4TkpSWGtDNkxqUkFrcTBPUHJxZGhFV0JNb2ZOMFhNMU5TOFg0ZElPVEZwQXJFRzA4SFhEVTRYTEY4X2J5cnJuRFpzNzYwUGFkcmo1c19LY3VPdnBHSGg2X0JORVdneDB0VXc?oc=5",
+      "source": "신화망",
+      "date": "Wed, 04 Nov 2026 02:06:15 GMT"
     },
     {
       "title": "중국이 다시 쓰는 글로벌 원자재 지형도",
@@ -64,12 +70,6 @@
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGZXB0alVBMC1sMl95bzM1dXkzZ2FFc2VtQ1NpOE9LUi1QSUtpemdIbDQ5dC1YdzdwY1FmNnJOMGRiQ2pnamkybV9vQVZHTmxlY3dIWFZhcw?oc=5",
       "source": "https://technovalue.com/",
       "date": "Mon, 02 Nov 2026 15:10:08 GMT"
-    },
-    {
-      "title": "수출 대박나면 뭐하나…중국 경제에 나타난 '이상 신호' [차이나 워치]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WWW1FNGVVTEp1eXFBN1hCQzIxM2U5OVRiTDk5VUZYd28zbU0zQ2Nid1ZxZDFZZi13a1dzUV8xdlZITjUwN29IeXgyY1R0emEtMllzM2hnR3NuUQ?oc=5",
-      "source": "한국경제",
-      "date": "Mon, 19 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "AI 붐에 수출 증대 … 중국 경제 성장세 가속화",
