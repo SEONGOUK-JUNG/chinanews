@@ -1,27 +1,21 @@
 {
-  "run_at_kst": "2026-11-07T20:10:06+09:00",
+  "run_at_kst": "2026-11-08T07:20:02+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "이재명 대통령의 중국 APEC, 무엇을 얻어야 하나?",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhVFR4R2ZtTldPTHFLcUhIV2ZfNlVhMEszUGRmcVl4bVZkY0c0Wjl6cVIwRlVpOVdpdjZDS3NGLXE4VU96WE9zeEFsM3YtZ3dObFhBclNQMFZNSEtXZC1OLXFTY1llQWVfNEtFUHJB0gFyQVVfeXFMTmZURGNCczNlNHN2VFlnMXlYY19rUnFFdWxJVzc1S2kwa0tBZWxobjgxMHFFdEZ5SE5zbFdQRkhRWmRMZW9zZGpUWU1qWVVYbXFLeW1jeGhaUHNScTlPRzM5bldXdVFudFo4ckw2ZE5lMFp3?oc=5",
+      "source": "강릉뉴스",
+      "date": "Sat, 07 Nov 2026 14:14:14 GMT"
+    },
+    {
       "title": "중국, 내수 부진 경고…당국, 2027년 성장 대책 마련 나서",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZEc5MmR6OW5KZnRYUWRrS0RiQTVFVHZVT0RQb3VLR0JEaUJRSWVjSkl3OFhPa3paU3J0T0lzNkZIeW1STEdQRDl4R2ZwZTZJTGhzYmZvcEdJQkJucTBmeE5BX3BpU3NialE?oc=5",
       "source": "Investing.com 한국어",
       "date": "Sat, 07 Nov 2026 09:54:00 GMT"
-    },
-    {
-      "title": "중국, “트럼프-시진핑-푸틴” 역사적 정상회담 진행 확인",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNSUJtMlF4Q2c0d0MtVmZVS1Z3WEhISk1OUlRoQjMwUnFxRjN1VFJLeERtNTc4dC0ydnVFaV9VejhjdDBReE5aRlZEaXI2OFJUQlltdUR2N2Vtc3pKN0FBQW5IRVNndWI1ckNPazJB?oc=5",
-      "source": "뉴스타운",
-      "date": "Sat, 07 Nov 2026 07:47:00 GMT"
-    },
-    {
-      "title": "경남도·창원시, 전국 최초로 중국에 단감 수출",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ERWNGU3BYcmJwZFJ6TF8xMF9Fbl9EUDRkVy1fazZPSTVNQ0tDUlpGOUJCREpuMlFtOUdULTVjRTFPeUgwTDByV1N1bTRPQXlxc1hOQUtTazZFcHdfejRwN0ZYZHdSLVNRRm5OWVViZUJhaGfSAXdBVV95cUxObm9FZ0RJRHFLR195MVRIbEc2bmstWEU1OU9qVFpuMjNxZjAyak84RGUwbi1vbEl3RU95dDFsQkVQN0h5aUhWQkdva21ZMV9RcEMxbVE0NVEyWExDakNaVHRIc2ZQQVAyS21PbklPb0JRUEdkV2N5Zw?oc=5",
-      "source": "핀포인트뉴스",
-      "date": "Sat, 07 Nov 2026 05:35:13 GMT"
     },
     {
       "title": "덩치만 커진 중국 증시…주가는 왜 제자리인가 [김학균의 시장읽기]",
@@ -36,16 +30,10 @@
       "date": "Fri, 06 Nov 2026 21:56:15 GMT"
     },
     {
-      "title": "[ESG 신간]중국의 녹색 패권부터 순환경제·식량안보까지",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMOW1mWFFFQzFnWHdaYk5GcGNZM1l3VDdQVHF1X3Z1anhMOW0xc0loOHE5Z050S21xZl9PYUJYN3BJdV8wNFJPeC1MX3V6YWpWRDlGN3ppbXNyb0Y5bS1ZUG00OGo3RHpnVUE?oc=5",
-      "source": "임팩트온",
-      "date": "Fri, 06 Nov 2026 14:18:50 GMT"
-    },
-    {
-      "title": "중국도 일본식 경제침체에 빠지나",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yVzVmNTBZSmZxNkR3SDU4cXZaQ0lkMm9BOWw2emJVQWpxXy1MMUlhTWZjMUVOSWpVeVUyREY2WXgzTl9ST1ZnQTdXZUhtczRRMVZJN1hwOG40QlE?oc=5",
-      "source": "https://www.pado.kr/",
-      "date": "Fri, 06 Nov 2026 09:37:26 GMT"
+      "title": "제주-중국 교류주간‥경제 문화 협력방안 논의",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Kc21aMzVDWGRqaFZNY0dla2xiZERkbkdnTVV2QUFCb1Iydk1RMERzeE5CZlpBbUE0QnZfYkpwVUEtWUFWbDFCRUx4Z2I2RnM?oc=5",
+      "source": "제주MBC",
+      "date": "Thu, 05 Nov 2026 22:30:00 GMT"
     },
     {
       "title": "노벨경제학상 수상자 \"중국 경제, 올바른 방향으로 발전\"",
@@ -58,6 +46,12 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85ZEdzVGkxR0hUVGZpbHg4TXVsamtHV29fbU1xZXlqbzZidXN4OXhkVkJiakt5N1Vhc0VFaVBtTEhMVDFZSlhOTEZCNGZhX1dpMGhGYmVXOVRnU0ZaUWlRUVdPclcyVG9uU2xN?oc=5",
       "source": "해사신문",
       "date": "Thu, 05 Nov 2026 08:02:37 GMT"
+    },
+    {
+      "title": "[경제] 칠레-중국 상업∙공업∙관광회의소 회장 \"CIIE, 칠레 기업의 中 시장 개척 핵심 플랫폼\"-Xinhua",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ocEZKa0FFbEhKX1o4TkpSWGtDNkxqUkFrcTBPUHJxZGhFV0JNb2ZOMFhNMU5TOFg0ZElPVEZwQXJFRzA4SFhEVTRYTEY4X2J5cnJuRFpzNzYwUGFkcmo1c19LY3VPdnBHSGg2X0JORVdneDB0VXc?oc=5",
+      "source": "신화망",
+      "date": "Wed, 04 Nov 2026 02:06:15 GMT"
     },
     {
       "title": "[곽재원 컬럼] 중국경제는 지금:첨단산업은 질주, 내수는 침체?",
@@ -76,6 +70,12 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtNUZqQWFQc3g0WllieGV3dUJ6VUpVcmNfR2RsY3ZxNlo5TGRTTFBNRlBhQjhHLVdCaEdfSXM4bUpEaGpsY3RPRTBqQVM2ek1IMDV4LUtyNWcxXzJoRXfSAWNBVV95cUxQX2FDdGRvdHBNeTJOWXk5YWtxekYzZHdjTFBRbEhERURFek9YRTBkam96WGZVUlo3RTRKRGptZGlid1pucTZDMWRDMEdpcGpMTk9sWURmLWZ0QWVsNGZ4Z0pwY3M?oc=5",
       "source": "BBC",
       "date": "Mon, 19 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "中학자 \"중국 2035년까지 연 4.6% 성장…수출 주도 지속 불가능\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXTkRpSWw2YzE3RWpGa1BEbjBFN2o3U3B2bnBvd1FhVUJHY0V0Y1dENGNGeFRPejF6UVZiT3cyUkYwYlV2dnR6RG9ZQ1FIVEk2VENGbUtrbVc5Y03SAWBBVV95cUxOVHdTMXJOc0tIRzl0cWlpb1hIN0RGMjZXN0xFN1lwRGktLXNvVHI5R2gwZlQtSy1ReWpiNVY3T2lSTnJwXzY2MkxNTThSTVVIWC1WNHZJMXRYZ25GS0huRVQ?oc=5",
+      "source": "연합뉴스",
+      "date": "Wed, 30 Sep 2026 07:00:00 GMT"
     }
   ]
 }

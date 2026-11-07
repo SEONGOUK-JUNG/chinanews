@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-07T15:45:09.205193+09:00",
+  "run_at_kst": "2026-11-08T07:00:09.971413+09:00",
   "sources": {
     "a_stocks": "AkShare (Eastmoney via 中国证监会)",
     "hk_us_kr": "Yahoo Finance (yfinance)"
@@ -12,11 +12,11 @@
       "sector": "Baijiu",
       "type": "a_stock",
       "price": 1453.0,
-      "change_pct": 0.14,
-      "prev_close": 1451.0,
+      "change_pct": 0.07,
+      "volume": 42848.0,
       "currency": "CNY",
-      "source": "yfinance",
-      "delay": "15~20min",
+      "source": "akshare_eastmoney",
+      "delay": "realtime",
       "found": true
     },
     {
@@ -26,11 +26,11 @@
       "sector": "Insurance",
       "type": "a_stock",
       "price": 54.5,
-      "change_pct": 0.31,
-      "prev_close": 54.33,
+      "change_pct": 0.28,
+      "volume": 556205.0,
       "currency": "CNY",
-      "source": "yfinance",
-      "delay": "15~20min",
+      "source": "akshare_eastmoney",
+      "delay": "realtime",
       "found": true
     },
     {
@@ -40,11 +40,11 @@
       "sector": "Battery",
       "type": "a_stock",
       "price": 254.22,
-      "change_pct": -3.92,
-      "prev_close": 264.58,
+      "change_pct": -3.73,
+      "volume": 571648.0,
       "currency": "CNY",
-      "source": "yfinance",
-      "delay": "15~20min",
+      "source": "akshare_eastmoney",
+      "delay": "realtime",
       "found": true
     },
     {
@@ -54,11 +54,11 @@
       "sector": "Financials",
       "type": "a_stock",
       "price": 8.44,
-      "change_pct": 1.32,
-      "prev_close": 8.33,
+      "change_pct": 1.08,
+      "volume": 4831672.0,
       "currency": "CNY",
-      "source": "yfinance",
-      "delay": "15~20min",
+      "source": "akshare_eastmoney",
+      "delay": "realtime",
       "found": true
     },
     {
@@ -68,11 +68,11 @@
       "sector": "Financials",
       "type": "a_stock",
       "price": 7.28,
-      "change_pct": 0.55,
-      "prev_close": 7.24,
+      "change_pct": 0.41,
+      "volume": 3531485.0,
       "currency": "CNY",
-      "source": "yfinance",
-      "delay": "15~20min",
+      "source": "akshare_eastmoney",
+      "delay": "realtime",
       "found": true
     },
     {
@@ -82,11 +82,11 @@
       "sector": "Energy",
       "type": "a_stock",
       "price": 12.7,
-      "change_pct": 1.44,
-      "prev_close": 12.52,
+      "change_pct": 1.28,
+      "volume": 2359688.0,
       "currency": "CNY",
-      "source": "yfinance",
-      "delay": "15~20min",
+      "source": "akshare_eastmoney",
+      "delay": "realtime",
       "found": true
     },
     {
@@ -96,11 +96,11 @@
       "sector": "Financials",
       "type": "a_stock",
       "price": 42.88,
-      "change_pct": 1.08,
-      "prev_close": 42.42,
+      "change_pct": 0.8,
+      "volume": 929543.0,
       "currency": "CNY",
-      "source": "yfinance",
-      "delay": "15~20min",
+      "source": "akshare_eastmoney",
+      "delay": "realtime",
       "found": true
     },
     {
@@ -110,11 +110,11 @@
       "sector": "Insurance",
       "type": "a_stock",
       "price": 35.51,
-      "change_pct": -0.89,
-      "prev_close": 35.83,
+      "change_pct": -0.95,
+      "volume": 147069.0,
       "currency": "CNY",
-      "source": "yfinance",
-      "delay": "15~20min",
+      "source": "akshare_eastmoney",
+      "delay": "realtime",
       "found": true
     },
     {
@@ -125,10 +125,10 @@
       "type": "a_stock",
       "price": 5.8,
       "change_pct": 1.75,
-      "prev_close": 5.7,
+      "volume": 2891135.0,
       "currency": "CNY",
-      "source": "yfinance",
-      "delay": "15~20min",
+      "source": "akshare_eastmoney",
+      "delay": "realtime",
       "found": true
     },
     {
@@ -139,10 +139,10 @@
       "type": "a_stock",
       "price": 6.85,
       "change_pct": 1.18,
-      "prev_close": 6.77,
+      "volume": 3165749.0,
       "currency": "CNY",
-      "source": "yfinance",
-      "delay": "15~20min",
+      "source": "akshare_eastmoney",
+      "delay": "realtime",
       "found": true
     },
     {
@@ -152,11 +152,11 @@
       "sector": "Baijiu",
       "type": "a_stock",
       "price": 75.34,
-      "change_pct": -0.65,
-      "prev_close": 75.83,
+      "change_pct": -0.63,
+      "volume": 228122.0,
       "currency": "CNY",
-      "source": "yfinance",
-      "delay": "15~20min",
+      "source": "akshare_eastmoney",
+      "delay": "realtime",
       "found": true
     },
     {
@@ -166,11 +166,11 @@
       "sector": "Pharma",
       "type": "a_stock",
       "price": 50.43,
-      "change_pct": 0.5,
-      "prev_close": 50.18,
+      "change_pct": 0.48,
+      "volume": 673990.0,
       "currency": "CNY",
-      "source": "yfinance",
-      "delay": "15~20min",
+      "source": "akshare_eastmoney",
+      "delay": "realtime",
       "found": true
     },
     {
@@ -181,10 +181,10 @@
       "type": "a_stock",
       "price": 89.6,
       "change_pct": 1.68,
-      "prev_close": 88.12,
+      "volume": 265068.0,
       "currency": "CNY",
-      "source": "yfinance",
-      "delay": "15~20min",
+      "source": "akshare_eastmoney",
+      "delay": "realtime",
       "found": true
     },
     {
@@ -195,10 +195,10 @@
       "type": "a_stock",
       "price": 24.71,
       "change_pct": -0.04,
-      "prev_close": 24.72,
+      "volume": 107855.0,
       "currency": "CNY",
-      "source": "yfinance",
-      "delay": "15~20min",
+      "source": "akshare_eastmoney",
+      "delay": "realtime",
       "found": true
     },
     {
@@ -208,11 +208,11 @@
       "sector": "Securities",
       "type": "a_stock",
       "price": 25.72,
-      "change_pct": -0.89,
-      "prev_close": 25.95,
+      "change_pct": -1.0,
+      "volume": 732181.0,
       "currency": "CNY",
-      "source": "yfinance",
-      "delay": "15~20min",
+      "source": "akshare_eastmoney",
+      "delay": "realtime",
       "found": true
     },
     {
@@ -223,10 +223,10 @@
       "type": "a_stock",
       "price": 85.23,
       "change_pct": -1.18,
-      "prev_close": 86.25,
+      "volume": 262267.0,
       "currency": "CNY",
-      "source": "yfinance",
-      "delay": "15~20min",
+      "source": "akshare_eastmoney",
+      "delay": "realtime",
       "found": true
     },
     {
@@ -236,11 +236,11 @@
       "sector": "Mining",
       "type": "a_stock",
       "price": 28.28,
-      "change_pct": -3.74,
-      "prev_close": 29.38,
+      "change_pct": -4.07,
+      "volume": 2499357.0,
       "currency": "CNY",
-      "source": "yfinance",
-      "delay": "15~20min",
+      "source": "akshare_eastmoney",
+      "delay": "realtime",
       "found": true
     },
     {
@@ -250,11 +250,11 @@
       "sector": "Utilities",
       "type": "a_stock",
       "price": 29.91,
-      "change_pct": 2.33,
-      "prev_close": 29.23,
+      "change_pct": 2.15,
+      "volume": 1696835.0,
       "currency": "CNY",
-      "source": "yfinance",
-      "delay": "15~20min",
+      "source": "akshare_eastmoney",
+      "delay": "realtime",
       "found": true
     },
     {
@@ -265,10 +265,10 @@
       "type": "a_stock",
       "price": 12.42,
       "change_pct": -0.4,
-      "prev_close": 12.47,
+      "volume": 1836503.0,
       "currency": "CNY",
-      "source": "yfinance",
-      "delay": "15~20min",
+      "source": "akshare_eastmoney",
+      "delay": "realtime",
       "found": true
     },
     {
@@ -279,10 +279,10 @@
       "type": "a_stock",
       "price": 35.25,
       "change_pct": -1.07,
-      "prev_close": 35.63,
+      "volume": 503992.0,
       "currency": "CNY",
-      "source": "yfinance",
-      "delay": "15~20min",
+      "source": "akshare_eastmoney",
+      "delay": "realtime",
       "found": true
     },
     {
@@ -292,11 +292,11 @@
       "sector": "Retail",
       "type": "a_stock",
       "price": 54.22,
-      "change_pct": -0.37,
-      "prev_close": 54.42,
+      "change_pct": -0.46,
+      "volume": 198755.0,
       "currency": "CNY",
-      "source": "yfinance",
-      "delay": "15~20min",
+      "source": "akshare_eastmoney",
+      "delay": "realtime",
       "found": true
     },
     {
@@ -306,11 +306,11 @@
       "sector": "Bank",
       "type": "a_stock",
       "price": 19.73,
-      "change_pct": 0.97,
-      "prev_close": 19.54,
+      "change_pct": 0.71,
+      "volume": 849287.0,
       "currency": "CNY",
-      "source": "yfinance",
-      "delay": "15~20min",
+      "source": "akshare_eastmoney",
+      "delay": "realtime",
       "found": true
     },
     {
@@ -320,11 +320,11 @@
       "sector": "Food & Bev",
       "type": "a_stock",
       "price": 31.45,
-      "change_pct": 1.19,
-      "prev_close": 31.08,
+      "change_pct": 1.29,
+      "volume": 732230.0,
       "currency": "CNY",
-      "source": "yfinance",
-      "delay": "15~20min",
+      "source": "akshare_eastmoney",
+      "delay": "realtime",
       "found": true
     },
     {
