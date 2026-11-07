@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-06T07:20:03+09:00",
+  "run_at_kst": "2026-11-07T20:10:06+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
-      "title": "India's Renewables Have Saved $100 Billion in Fuel Imports, IEA Says",
-      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Indias-Renewables-Have-Saved-100-Billion-in-Fuel-Imports-IEA-Says.html",
-      "source": "OilPrice",
-      "date": "Thu, 05 Nov 2026 16:00:00 -0600"
-    },
-    {
-      "title": "Batteries Are Taking the Gas Peaker’s Best Hours",
-      "link": "https://oilprice.com/Energy/Energy-General/Batteries-Are-Taking-the-Gas-Peakers-Best-Hours.html",
-      "source": "OilPrice",
-      "date": "Thu, 05 Nov 2026 15:00:00 -0600"
-    },
-    {
-      "title": "ConocoPhillips Doubles Profit to $4 Billion, Raises Dividend",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/ConocoPhillips-Doubles-Profit-to-4-Billion-Raises-Dividend.html",
-      "source": "OilPrice",
-      "date": "Thu, 05 Nov 2026 14:30:00 -0600"
-    },
-    {
-      "title": "France's Debt Crisis Could Trigger a Much Bigger European Meltdown",
-      "link": "https://oilprice.com/Geopolitics/Europe/Frances-Debt-Crisis-Could-Trigger-a-Much-Bigger-European-Meltdown.html",
-      "source": "OilPrice",
-      "date": "Thu, 05 Nov 2026 14:00:00 -0600"
-    },
-    {
-      "title": "Oil Prices Rebound Sharply After Brutal Midweek Rout",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rebound-Sharply-After-Brutal-Midweek-Rout.html",
-      "source": "OilPrice",
-      "date": "Thu, 05 Nov 2026 13:30:00 -0600"
-    },
-    {
-      "title": "US and Turkmenistan Explore New Gas Routes Across the Caspian",
-      "link": "https://oilprice.com/Energy/Energy-General/US-and-Turkmenistan-Explore-New-Gas-Routes-Across-the-Caspian.html",
-      "source": "OilPrice",
-      "date": "Thu, 05 Nov 2026 13:00:00 -0600"
-    },
-    {
-      "title": "U.S. Refineries Make Dramatic Shift Away From Gasoline",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Refineries-Make-Dramatic-Shift-Away-From-Gasoline.html",
-      "source": "OilPrice",
-      "date": "Thu, 05 Nov 2026 12:00:00 -0600"
-    },
-    {
-      "title": "San Francisco Bay Area dominates mining tech startup funding worldwide",
-      "link": "https://www.mining.com/san-francisco-bay-area-dominates-mining-tech-startup-funding-worldwide/",
+      "title": "Copper faces further slide after US vote: TD",
+      "link": "https://www.mining.com/copper-faces-further-slide-after-us-vote-td/",
       "source": "mining.com",
-      "date": "Thu, 05 Nov 2026 17:23:29 +0000"
+      "date": "Fri, 06 Nov 2026 23:54:00 +0000"
     },
     {
-      "title": "Guyana’s Oil Boom Could Ease the Global Supply Crunch",
-      "link": "https://oilprice.com/Energy/Energy-General/Guyanas-Oil-Boom-Could-Ease-the-Global-Supply-Crunch.html",
+      "title": "DLA commits $2 billion to acquire critical materials for National Defense Stockpile",
+      "link": "https://www.mining.com/us-dla-commits-2-billion-to-acquire-critical-materials-for-national-defense-stockpile/",
+      "source": "mining.com",
+      "date": "Fri, 06 Nov 2026 23:30:00 +0000"
+    },
+    {
+      "title": "Wall Street’s “Energy Transition” Funds Are Packed With Natural Gas",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Wall-Streets-Energy-Transition-Funds-Are-Packed-With-Natural-Gas.html",
       "source": "OilPrice",
-      "date": "Thu, 05 Nov 2026 11:00:00 -0600"
+      "date": "Fri, 06 Nov 2026 17:00:00 -0600"
     },
     {
-      "title": "AngloGold plans $900 million mine expansion amid stronger profit",
-      "link": "https://www.mining.com/anglogold-plans-900-million-mine-expansion-amid-stronger-profit/",
+      "title": "Canadian Uranium eyes acquisitions as Rook II exploration takes shape",
+      "link": "https://www.mining.com/canadian-uranium-eyes-acquisitions-as-rook-ii-exploration-takes-shape/",
       "source": "mining.com",
-      "date": "Thu, 05 Nov 2026 16:55:19 +0000"
+      "date": "Fri, 06 Nov 2026 22:55:41 +0000"
     },
     {
-      "title": "Codelco halts Andina mine as tailings spill threatens river",
-      "link": "https://www.mining.com/codelco-halts-andina-mine-as-tailings-spill-threaten-river/",
-      "source": "mining.com",
-      "date": "Thu, 05 Nov 2026 16:09:00 +0000"
+      "title": "America’s Nuclear Revival Is Running Into a Fuel Supply Wall",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Americas-Nuclear-Revival-Is-Running-Into-a-Fuel-Supply-Wall.html",
+      "source": "OilPrice",
+      "date": "Fri, 06 Nov 2026 15:00:00 -0600"
     },
     {
-      "title": "Chibougamau offers copper growth for Central Asia: BMO",
-      "link": "https://www.mining.com/chibougamau-offers-copper-growth-for-central-asia-bmo/",
-      "source": "mining.com",
-      "date": "Thu, 05 Nov 2026 15:40:08 +0000"
+      "title": "Oil Traders Want U.S. to Release Sanctioned Tankers as Freight Costs Soar",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Traders-Want-US-to-Release-Sanctioned-Tankers-as-Freight-Costs-Soar.html",
+      "source": "OilPrice",
+      "date": "Fri, 06 Nov 2026 14:30:00 -0600"
     },
     {
-      "title": "B2Gold cuts cost forecast as Goose faces crunch",
-      "link": "https://www.mining.com/b2gold-cuts-cost-forecast-as-goose-faces-crunch/",
-      "source": "mining.com",
-      "date": "Thu, 05 Nov 2026 15:00:04 +0000"
+      "title": "Energy Reliability Is Becoming More Important Than Energy Politics",
+      "link": "https://oilprice.com/Energy/Energy-General/Energy-Reliability-Is-Becoming-More-Important-Than-Energy-Politics.html",
+      "source": "OilPrice",
+      "date": "Fri, 06 Nov 2026 13:00:00 -0600"
     },
     {
-      "title": "Rio Tinto injects $144 million into Resolution Copper after land battle win",
-      "link": "https://www.mining.com/rio-tinto-injects-144m-into-resolution-copper-after-land-battle-win/",
+      "title": "U.S. Oil, Gas Drillers See Minor Uptick as Oil Prices Crash",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Oil-Gas-Drillers-See-Minor-Uptick-as-Oil-Prices-Crash.html",
+      "source": "OilPrice",
+      "date": "Fri, 06 Nov 2026 12:21:00 -0600"
+    },
+    {
+      "title": "MP Materials posts surprise adjusted profit",
+      "link": "https://www.mining.com/mp-materials-posts-surprise-adjusted-profit/",
       "source": "mining.com",
-      "date": "Thu, 05 Nov 2026 14:23:00 +0000"
+      "date": "Fri, 06 Nov 2026 18:09:29 +0000"
+    },
+    {
+      "title": "ONGC Moves to Take Over Venezuelan Oilfields, Recover $500 Million",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/ONGC-Moves-to-Take-Over-Venezuelan-Oilfields-Recover-500-Million.html",
+      "source": "OilPrice",
+      "date": "Fri, 06 Nov 2026 11:30:00 -0600"
+    },
+    {
+      "title": "Regis Resources reports fatal accident at Duketon South gold operation in Western Australia",
+      "link": "https://www.mining.com/regis-resources-reports-fatal-accident-at-duketon-south-gold-operation-in-western-australia/",
+      "source": "mining.com",
+      "date": "Fri, 06 Nov 2026 17:11:51 +0000"
+    },
+    {
+      "title": "Norway’s Oil and Gas Industry Faces a Major Decline Without New Discoveries",
+      "link": "https://oilprice.com/Energy/Energy-General/Norways-Oil-and-Gas-Industry-Faces-a-Major-Decline-Without-New-Discoveries.html",
+      "source": "OilPrice",
+      "date": "Fri, 06 Nov 2026 11:00:00 -0600"
+    },
+    {
+      "title": "Canada’s budget extends tax relief but leaves mineral explorers wanting",
+      "link": "https://www.mining.com/budget-extends-tax-relief-but-leaves-explorers-wanting/",
+      "source": "mining.com",
+      "date": "Fri, 06 Nov 2026 16:33:43 +0000"
+    },
+    {
+      "title": "IEA Sees 4,800 GW of New Renewables by 2031",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Sees-4800-GW-of-New-Renewables-by-2031.html",
+      "source": "OilPrice",
+      "date": "Fri, 06 Nov 2026 10:30:00 -0600"
     }
   ]
 }

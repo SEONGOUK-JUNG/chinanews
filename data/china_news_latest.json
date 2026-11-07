@@ -1,33 +1,57 @@
 {
-  "run_at_kst": "2026-11-06T07:20:03+09:00",
+  "run_at_kst": "2026-11-07T20:10:06+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "'밤 도깨비 여행'...금요일 퇴근 후 중국으로",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWX21oWlpEaXFJMmlPMk1zNmlQTl8xckR1RFZkMDktRjZmSmZjTnQ2blNYWWNVX3NyTTNnTmRCUXJHN21lemRYbmg1LVZPc3Y1N3R2ZUxMblNUeGxMSTVlWUp4clY4X3ZUVDZHYw?oc=5",
-      "source": "재외동포신문",
-      "date": "Thu, 05 Nov 2026 22:00:57 GMT"
+      "title": "중국, 내수 부진 경고…당국, 2027년 성장 대책 마련 나서",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZEc5MmR6OW5KZnRYUWRrS0RiQTVFVHZVT0RQb3VLR0JEaUJRSWVjSkl3OFhPa3paU3J0T0lzNkZIeW1STEdQRDl4R2ZwZTZJTGhzYmZvcEdJQkJucTBmeE5BX3BpU3NialE?oc=5",
+      "source": "Investing.com 한국어",
+      "date": "Sat, 07 Nov 2026 09:54:00 GMT"
     },
     {
-      "title": "중국 증시 꺾이니 반도체까지 발목…YMTC, 6.6조 IPO 보류",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRRC11QkJ6aGczLUdVWFBpM2dHc1o0eDctd3lYdklpc2pWZllnR1BEdEc3dWdRWWVQTnk3QWZ0anB4bFRmT1g0WFRBUlNpM21UdVB0azVR?oc=5",
-      "source": "중앙일보",
-      "date": "Thu, 05 Nov 2026 15:02:00 GMT"
+      "title": "중국, “트럼프-시진핑-푸틴” 역사적 정상회담 진행 확인",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNSUJtMlF4Q2c0d0MtVmZVS1Z3WEhISk1OUlRoQjMwUnFxRjN1VFJLeERtNTc4dC0ydnVFaV9VejhjdDBReE5aRlZEaXI2OFJUQlltdUR2N2Vtc3pKN0FBQW5IRVNndWI1ckNPazJB?oc=5",
+      "source": "뉴스타운",
+      "date": "Sat, 07 Nov 2026 07:47:00 GMT"
     },
     {
-      "title": "김정관 산업통상부 장관, 중국 복단대 교수 면담",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYSFZYUTBJUmRabzk1MTU1QVhfc2dsbDVMbUhUMzB5RDhVUUM4c3RPc0h3TkhjYnFCdEFTVjJ1WGdWYVktNTMxUndETnpPeTYtSUtMUDU5TmZ5VkZya21BbGJwWXYxVVdYcDJ4NGJ3T083M2Uy?oc=5",
-      "source": "연합뉴스 한민족센터",
-      "date": "Thu, 05 Nov 2026 12:40:23 GMT"
+      "title": "경남도·창원시, 전국 최초로 중국에 단감 수출",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ERWNGU3BYcmJwZFJ6TF8xMF9Fbl9EUDRkVy1fazZPSTVNQ0tDUlpGOUJCREpuMlFtOUdULTVjRTFPeUgwTDByV1N1bTRPQXlxc1hOQUtTazZFcHdfejRwN0ZYZHdSLVNRRm5OWVViZUJhaGfSAXdBVV95cUxObm9FZ0RJRHFLR195MVRIbEc2bmstWEU1OU9qVFpuMjNxZjAyak84RGUwbi1vbEl3RU95dDFsQkVQN0h5aUhWQkdva21ZMV9RcEMxbVE0NVEyWExDakNaVHRIc2ZQQVAyS21PbklPb0JRUEdkV2N5Zw?oc=5",
+      "source": "핀포인트뉴스",
+      "date": "Sat, 07 Nov 2026 05:35:13 GMT"
     },
     {
-      "title": "트럼프보다 세게 나온다…블루웨이브에 중국 '긴장'",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83WFFfTmRzY3ZfTl9kZE9LR2cyXzc5cVhHRnJ5QUJjNnlZaFJ1WWZYY2xzaWxYRGdkdkJaTU1tT2d2d0tQRS1EZmtGdkhuTTI3OGFyb2U4YzhhQQ?oc=5",
-      "source": "한국경제",
-      "date": "Thu, 05 Nov 2026 10:54:01 GMT"
+      "title": "덩치만 커진 중국 증시…주가는 왜 제자리인가 [김학균의 시장읽기]",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51U25jMEV1cmt5RzdCS0dFWnRKNTY4a1diUmxhdm9VTUhPa0Q3TEcyRzlqbTRpQnR1NjR6VjJGWW53ODBKRW8zWGhGTTlWazY4MnZZY3U0T3Q4ZWdVTmkwV0NhMUZXY2JVbko5aWZja9IBc0FVX3lxTE1XVlM2bFZBcWZzQ1Z0b1F5NkowXzhxNDduc2dDTmExazE1M3VDdEN5TEtmYnVobkpSZWhuS2lKdjFiNzBpTHpycDF1bW1QNzctNTFzYTVSdDltQ216cUFTdlNGd045amF1ZnVFaUNXNUJlY1E?oc=5",
+      "source": "시사저널",
+      "date": "Sat, 07 Nov 2026 03:00:00 GMT"
+    },
+    {
+      "title": "한국 - 중국, 경제·통상 분야 적극 협력! - 전체 | 카드/한컷 | 멀티미디어",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMmJYbXVGalF1alFpT0Znc0x3VHpOV3M1ZFlOZzVBVkNNNUNYemdIZXh0ckdkdDJpSHpBbGs1SzFIM2pSWEVERGFlWG5OX21ZRmRkN2pKMzhrNnNKbGg1Z0dyQnhMclZNbXRxc0lhY0FEczE0bFIwSDhSSFcyMkFCc2dJdmd3LURnbTZJ?oc=5",
+      "source": "대한민국 정책브리핑",
+      "date": "Fri, 06 Nov 2026 21:56:15 GMT"
+    },
+    {
+      "title": "[ESG 신간]중국의 녹색 패권부터 순환경제·식량안보까지",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMOW1mWFFFQzFnWHdaYk5GcGNZM1l3VDdQVHF1X3Z1anhMOW0xc0loOHE5Z050S21xZl9PYUJYN3BJdV8wNFJPeC1MX3V6YWpWRDlGN3ppbXNyb0Y5bS1ZUG00OGo3RHpnVUE?oc=5",
+      "source": "임팩트온",
+      "date": "Fri, 06 Nov 2026 14:18:50 GMT"
+    },
+    {
+      "title": "중국도 일본식 경제침체에 빠지나",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yVzVmNTBZSmZxNkR3SDU4cXZaQ0lkMm9BOWw2emJVQWpxXy1MMUlhTWZjMUVOSWpVeVUyREY2WXgzTl9ST1ZnQTdXZUhtczRRMVZJN1hwOG40QlE?oc=5",
+      "source": "https://www.pado.kr/",
+      "date": "Fri, 06 Nov 2026 09:37:26 GMT"
+    },
+    {
+      "title": "노벨경제학상 수상자 \"중국 경제, 올바른 방향으로 발전\"",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jQzJCWE5MQ0o5dTdEWDNyN3JyNGFBM1h2Rm1samlBRXlEVG8wWU1UNHlZb0xNRXlXQVd6VHEwQ0ZmYW1vQzdmZFFNYm5xeTFDMjZfVjhmRWJDNGd6RVlSa0IwOA?oc=5",
+      "source": "国际在线",
+      "date": "Thu, 05 Nov 2026 16:15:58 GMT"
     },
     {
       "title": "제주–칭다오 화물항로 활성화 속도…제주·중국 경제협력 확대",
@@ -36,40 +60,16 @@
       "date": "Thu, 05 Nov 2026 08:02:37 GMT"
     },
     {
-      "title": "화성시 '26년 지기' 중국 우장구와 '경제·문화·교육' 교류 확대 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MdE03ZWtxenJnT2lqQzVGcXp1Y2JVTmNEYnI1bnZ2aEc2dV9acEVuNjlNZFV3MlZHV3RXRFdTZ28xYkNURjFsSkhSSS1YWUFfd3pTNUdnM0xGNGxwQi0xT2pEU0hTY0lqSlHSAW9BVV95cUxQWkhnejVLaFZrR1UwaXh1OG9VVWhyRUxKYkFBTGNZbTlZWnUwOTREbm9fbFlrZ05wSHdmUUIyajIxeUZtd3JXX3B5bU1XSlIzaXlkSW5aQkVpUncydHQ1Uy1ONTU2UnNJQTZXaG4xTXM?oc=5",
-      "source": "머니투데이",
-      "date": "Thu, 05 Nov 2026 05:58:28 GMT"
-    },
-    {
-      "title": "'한중 미래발전 제주-중국 교류주간' 행사 4~5일 개최",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KcEVBdzIxTEhUdTJCVlQxYXZ2SktHVVc4ejBJaG9lak9TR2JSZTYwbUJxOVJnVnVEX0U3X25fclI4OUxqQWpWei1DZHF2SGhkQ0Jwa3UxWUFOcm5PTks0U016WE5mV2kweUh1V0NhdEJ5bVE?oc=5",
-      "source": "헤드라인제주",
-      "date": "Thu, 05 Nov 2026 05:40:37 GMT"
-    },
-    {
-      "title": "중국 청년들 ‘잃어버린 세대’ 되나",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1amdVWjZhWlpDdmF6T3ZOMHRCeE5pWF9fVXNjXzNSQ0RzWjRkTGhzekdONjQzYkdSbTQwcE1fY2lpMGNwLUVjS1Nhd3dCMHlSXzFlSWl3RTU0Slh4Q3BKVEdlT3JZMDFSRmg3cnNn?oc=5",
-      "source": "https://www.yonhapmidas.com/",
-      "date": "Thu, 05 Nov 2026 02:12:50 GMT"
-    },
-    {
-      "title": "중국이 다시 쓰는 글로벌 원자재 지형도",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vSVcxbVNPR3dOOE92RXhjRHAwX01CeWhTTjVDSDIzY1ExRDlfRDc4MDlrQk9WYk9EM0l5T1laNGZtODNUaTcxSGc4b2Fsb1N3SWcxc2hCUzZNUQ?oc=5",
-      "source": "네이버페이 머니스토리",
-      "date": "Wed, 04 Nov 2026 02:03:00 GMT"
-    },
-    {
       "title": "[곽재원 컬럼] 중국경제는 지금:첨단산업은 질주, 내수는 침체?",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGZXB0alVBMC1sMl95bzM1dXkzZ2FFc2VtQ1NpOE9LUi1QSUtpemdIbDQ5dC1YdzdwY1FmNnJOMGRiQ2pnamkybV9vQVZHTmxlY3dIWFZhcw?oc=5",
       "source": "https://technovalue.com/",
       "date": "Mon, 02 Nov 2026 15:10:08 GMT"
     },
     {
-      "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Fri, 30 Oct 2026 07:00:00 GMT"
+      "title": "수출 대박나면 뭐하나…중국 경제에 나타난 '이상 신호' [차이나 워치]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WWW1FNGVVTEp1eXFBN1hCQzIxM2U5OVRiTDk5VUZYd28zbU0zQ2Nid1ZxZDFZZi13a1dzUV8xdlZITjUwN29IeXgyY1R0emEtMllzM2hnR3NuUQ?oc=5",
+      "source": "한국경제",
+      "date": "Mon, 19 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "AI 붐에 수출 증대 … 중국 경제 성장세 가속화",
