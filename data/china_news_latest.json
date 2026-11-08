@@ -1,27 +1,33 @@
 {
-  "run_at_kst": "2026-11-08T14:10:04+09:00",
+  "run_at_kst": "2026-11-09T07:20:03+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "[경제] 케냐 수출기관 CEO \"CIIE, 정책 혜택과 對중국 수출 잇는 다리\"",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0MVdCSFg2QW92TVY3a29nMHQwdF9BNEtxYXVOMVo0MldfSktVMF8yTWVoMHpaQUVqRHYwYTBBdzBLX2pqSURmcC1PUmNHZXU1YlpIUFJHVDZETFk4S0VaM2ZCMmxRZWFET1ZR?oc=5",
-      "source": "서울뉴스통신",
-      "date": "Sun, 08 Nov 2026 00:53:23 GMT"
+      "title": "미중 경제 수장 6일 화상 통화…중국은 제한 조치, 미국은 합의 이행에 무게",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiRFg3ck5teTVTUThxZFNMLWVldjEwQnBuSXVoZ1I3MmtzbGh6Zy1XbEU2enlIMUJSQ0hpd251dGg2SlR1WThhZ1dXX3V1emJ1WC1n?oc=5",
+      "source": "유스연합",
+      "date": "Sun, 08 Nov 2026 17:16:48 GMT"
     },
     {
-      "title": "이재명 대통령의 중국 APEC, 무엇을 얻어야 하나?",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhVFR4R2ZtTldPTHFLcUhIV2ZfNlVhMEszUGRmcVl4bVZkY0c0Wjl6cVIwRlVpOVdpdjZDS3NGLXE4VU96WE9zeEFsM3YtZ3dObFhBclNQMFZNSEtXZC1OLXFTY1llQWVfNEtFUHJB0gFyQVVfeXFMTmZURGNCczNlNHN2VFlnMXlYY19rUnFFdWxJVzc1S2kwa0tBZWxobjgxMHFFdEZ5SE5zbFdQRkhRWmRMZW9zZGpUWU1qWVVYbXFLeW1jeGhaUHNScTlPRzM5bldXdVFudFo4ckw2ZE5lMFp3?oc=5",
-      "source": "강릉뉴스",
-      "date": "Sat, 07 Nov 2026 14:14:14 GMT"
-    },
-    {
-      "title": "중국, 내수 부진 경고…당국, 2027년 성장 대책 마련 나서",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ZEc5MmR6OW5KZnRYUWRrS0RiQTVFVHZVT0RQb3VLR0JEaUJRSWVjSkl3OFhPa3paU3J0T0lzNkZIeW1STEdQRDl4R2ZwZTZJTGhzYmZvcEdJQkJucTBmeE5BX3BpU3NialE?oc=5",
+      "title": "중국 AI 버블 붕괴, 시진핑의 ’동방 월스트리트’ 야망 위협",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jZHRXZEp1NlJSUDR3dEdFQWdBQTNXbTZpblhyeGw2a2pHemVValBtbEZ6OHVNSDJSYXRKUzVLX3hobUZ5a2EySE9PalctbkRVQkx5TmoySDgyNUdPMnc4WGQ1ZWlTdlRSa1RfdkpGbjU?oc=5",
       "source": "Investing.com 한국어",
-      "date": "Sat, 07 Nov 2026 09:54:00 GMT"
+      "date": "Sun, 08 Nov 2026 16:47:00 GMT"
+    },
+    {
+      "title": "[중국증시 주간 포인트] 미·중 물가 지표와 통화정책, 中 외화 지준율 인상, '미·러·우크라' 협상, G7 외교장관 회의, 中·캐나다 경제금융 대화, 앤스로픽 IPO, 바이두 월드 2026 등",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mX05CR1pndXJjM3ZnTGZqR3NuSXRDMkxkNUtOY09fT0ZJUzBYQnExdFVkWTdudGxtMWpJc0s3Ym00WFBEUm9NYlhlOG9JV1BOTVN2Y1R5VEFGNTZh?oc=5",
+      "source": "뉴스핌",
+      "date": "Sun, 08 Nov 2026 15:01:00 GMT"
+    },
+    {
+      "title": "AI를 심판하는 미국, AI를 출근시킨 중국",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90WDBzaUowOTZSTnNNYkVERG56OF9mc3NGNjVmX2JwQWZIQ2tTODB5bm9SZEc1UENqdVVZZklNV2x1NGdmU18zUE01VnpkYjlxV1Nfd2xzYXU2ZEVzLVZCbjEwTmd4T2Q1UlZVci1OUFdiNjhQSGJZ?oc=5",
+      "source": "OhmyNews",
+      "date": "Sun, 08 Nov 2026 04:58:00 GMT"
     },
     {
       "title": "덩치만 커진 중국 증시…주가는 왜 제자리인가 [김학균의 시장읽기]",
@@ -36,28 +42,22 @@
       "date": "Fri, 06 Nov 2026 21:56:15 GMT"
     },
     {
+      "title": "중국도 일본식 경제침체에 빠지나",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yVzVmNTBZSmZxNkR3SDU4cXZaQ0lkMm9BOWw2emJVQWpxXy1MMUlhTWZjMUVOSWpVeVUyREY2WXgzTl9ST1ZnQTdXZUhtczRRMVZJN1hwOG40QlE?oc=5",
+      "source": "https://www.pado.kr/",
+      "date": "Fri, 06 Nov 2026 09:37:26 GMT"
+    },
+    {
       "title": "정부는 소비재 수출 지원, 기업은 CCL 생산 증설…민관 중국 공략 박차",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WZU9TRnpoM1dBRFVsMkRsYUtWQko2Qm5NR09hNXBxUVN1ZlloWkk4UXZWVzlLOXpoS0tTN0dHMmw4SmhPaDhLWjQ0WndOLUdNbkgwV3cwdElDUdIBX0FVX3lxTE5ac1JSeHZ6aWFoSmxub1E1MzBXY1hCUlNYQ202cWQ5eGNtRDhIRFpMVHFJSHBfR1pJVXd4SXdmUVl5aDhiUENEWi1zRXhwM25zWFQ5aUJuRHlkYjRib1RB?oc=5",
       "source": "경향신문",
       "date": "Fri, 06 Nov 2026 05:00:00 GMT"
     },
     {
-      "title": "제주-중국 교류주간‥경제 문화 협력방안 논의",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Kc21aMzVDWGRqaFZNY0dla2xiZERkbkdnTVV2QUFCb1Iydk1RMERzeE5CZlpBbUE0QnZfYkpwVUEtWUFWbDFCRUx4Z2I2RnM?oc=5",
-      "source": "제주MBC",
-      "date": "Thu, 05 Nov 2026 22:30:00 GMT"
-    },
-    {
       "title": "제주–칭다오 화물항로 활성화 속도…제주·중국 경제협력 확대",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85ZEdzVGkxR0hUVGZpbHg4TXVsamtHV29fbU1xZXlqbzZidXN4OXhkVkJiakt5N1Vhc0VFaVBtTEhMVDFZSlhOTEZCNGZhX1dpMGhGYmVXOVRnU0ZaUWlRUVdPclcyVG9uU2xN?oc=5",
       "source": "해사신문",
       "date": "Thu, 05 Nov 2026 08:02:37 GMT"
-    },
-    {
-      "title": "[경제] 칠레-중국 상업∙공업∙관광회의소 회장 \"CIIE, 칠레 기업의 中 시장 개척 핵심 플랫폼\"-Xinhua",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ocEZKa0FFbEhKX1o4TkpSWGtDNkxqUkFrcTBPUHJxZGhFV0JNb2ZOMFhNMU5TOFg0ZElPVEZwQXJFRzA4SFhEVTRYTEY4X2J5cnJuRFpzNzYwUGFkcmo1c19LY3VPdnBHSGg2X0JORVdneDB0VXc?oc=5",
-      "source": "신화망",
-      "date": "Wed, 04 Nov 2026 02:06:15 GMT"
     },
     {
       "title": "수출 대박나면 뭐하나…중국 경제에 나타난 '이상 신호' [차이나 워치]",

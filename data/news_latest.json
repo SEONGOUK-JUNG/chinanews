@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-08T10:10:03+09:00",
+  "run_at_kst": "2026-11-09T07:20:03+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,42 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Democratic Win Set to Reshuffle U.S. Energy Policy",
+      "link": "https://oilprice.com/Energy/Energy-General/Democratic-Win-Set-to-Reshuffle-US-Energy-Policy.html",
+      "source": "OilPrice",
+      "date": "Sun, 08 Nov 2026 16:00:00 -0600"
+    },
+    {
+      "title": "The Global Race to Harness Solar Power From Space",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Global-Race-to-Harness-Solar-Power-From-Space.html",
+      "source": "OilPrice",
+      "date": "Sun, 08 Nov 2026 14:00:00 -0600"
+    },
+    {
+      "title": "Brazil picks 27 critical minerals in push for local supply chain",
+      "link": "https://www.mining.com/brazil-picks-27-critical-minerals-in-push-for-local-supply-chain/",
+      "source": "mining.com",
+      "date": "Sun, 08 Nov 2026 18:37:01 +0000"
+    },
+    {
+      "title": "How Big Oil Became the AI Industry's Favorite Customer",
+      "link": "https://oilprice.com/Energy/Energy-General/How-Big-Oil-Became-the-AI-Industrys-Favorite-Customer.html",
+      "source": "OilPrice",
+      "date": "Sun, 08 Nov 2026 12:00:00 -0600"
+    },
+    {
+      "title": "Australian miners rail against looming tax changes",
+      "link": "https://www.mining.com/australian-miners-rail-against-looming-tax-changes/",
+      "source": "mining.com",
+      "date": "Sun, 08 Nov 2026 16:00:00 +0000"
+    },
+    {
+      "title": "How New York Plans to Turn Waste Heat Into Clean Energy",
+      "link": "https://oilprice.com/Energy/Energy-General/How-New-York-Plans-to-Turn-Waste-Heat-Into-Clean-Energy.html",
+      "source": "OilPrice",
+      "date": "Sun, 08 Nov 2026 10:00:00 -0600"
+    },
     {
       "title": "Wars May Spur Faster Electrification",
       "link": "https://oilprice.com/Energy/Energy-General/Wars-May-Spur-Faster-Electrification.html",
@@ -32,12 +68,6 @@
       "date": "Sat, 07 Nov 2026 12:00:00 -0600"
     },
     {
-      "title": "America’s Hydrogen Revolution Stalls Amid Funding Cuts and Weak Demand",
-      "link": "https://oilprice.com/Energy/Energy-General/Americas-Hydrogen-Revolution-Stalls-Amid-Funding-Cuts-and-Weak-Demand.html",
-      "source": "OilPrice",
-      "date": "Sat, 07 Nov 2026 10:00:00 -0600"
-    },
-    {
       "title": "Copper faces further slide after US vote: TD",
       "link": "https://www.mining.com/copper-faces-further-slide-after-us-vote-td/",
       "source": "mining.com",
@@ -50,46 +80,16 @@
       "date": "Fri, 06 Nov 2026 23:30:00 +0000"
     },
     {
-      "title": "Wall Street’s “Energy Transition” Funds Are Packed With Natural Gas",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Wall-Streets-Energy-Transition-Funds-Are-Packed-With-Natural-Gas.html",
-      "source": "OilPrice",
-      "date": "Fri, 06 Nov 2026 17:00:00 -0600"
-    },
-    {
       "title": "Canadian Uranium eyes acquisitions as Rook II exploration takes shape",
       "link": "https://www.mining.com/canadian-uranium-eyes-acquisitions-as-rook-ii-exploration-takes-shape/",
       "source": "mining.com",
       "date": "Fri, 06 Nov 2026 22:55:41 +0000"
     },
     {
-      "title": "America’s Nuclear Revival Is Running Into a Fuel Supply Wall",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Americas-Nuclear-Revival-Is-Running-Into-a-Fuel-Supply-Wall.html",
-      "source": "OilPrice",
-      "date": "Fri, 06 Nov 2026 15:00:00 -0600"
-    },
-    {
-      "title": "Oil Traders Want U.S. to Release Sanctioned Tankers as Freight Costs Soar",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Traders-Want-US-to-Release-Sanctioned-Tankers-as-Freight-Costs-Soar.html",
-      "source": "OilPrice",
-      "date": "Fri, 06 Nov 2026 14:30:00 -0600"
-    },
-    {
       "title": "MP Materials posts surprise adjusted profit",
       "link": "https://www.mining.com/mp-materials-posts-surprise-adjusted-profit/",
       "source": "mining.com",
       "date": "Fri, 06 Nov 2026 18:09:29 +0000"
-    },
-    {
-      "title": "Regis Resources reports fatal accident at Duketon South gold operation in Western Australia",
-      "link": "https://www.mining.com/regis-resources-reports-fatal-accident-at-duketon-south-gold-operation-in-western-australia/",
-      "source": "mining.com",
-      "date": "Fri, 06 Nov 2026 17:11:51 +0000"
-    },
-    {
-      "title": "Canada’s budget extends tax relief but leaves mineral explorers wanting",
-      "link": "https://www.mining.com/budget-extends-tax-relief-but-leaves-explorers-wanting/",
-      "source": "mining.com",
-      "date": "Fri, 06 Nov 2026 16:33:43 +0000"
     }
   ]
 }
