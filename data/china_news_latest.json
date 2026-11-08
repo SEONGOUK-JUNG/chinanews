@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-08T07:20:02+09:00",
+  "run_at_kst": "2026-11-08T10:10:03+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -30,6 +30,12 @@
       "date": "Fri, 06 Nov 2026 21:56:15 GMT"
     },
     {
+      "title": "중국, 무역흑자 폭증 비판 속 '시장개방' 압력 확산",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UX1ctRlV1OFdBbVBmdEFQNzV3bXJpRHZXTk91bUl4VkZpWkx1c2pNTXBHR0pscWE5YlduSWxZV0xrUDI2Yjh6SUdIaUtZSGc5RnhKbTJpNXhOYTNldUIyclEweklHMFo0N2paVXBzY9IBc0FVX3lxTE9tVEE4d2NMNEFGNlZYa014WFVGRzRqRXE0NTljaVJ5Q01saXptOWNwQW5MUEpTd29YUW9OcFBOd1V0YndOYXBNYnl3Nnp1RE8zd2tHeUltc1VoM2huX0FUSnlnb3hnSTU5bkd5NWg0YVJHTnc?oc=5",
+      "source": "초이스경제",
+      "date": "Thu, 05 Nov 2026 23:48:43 GMT"
+    },
+    {
       "title": "제주-중국 교류주간‥경제 문화 협력방안 논의",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Kc21aMzVDWGRqaFZNY0dla2xiZERkbkdnTVV2QUFCb1Iydk1RMERzeE5CZlpBbUE0QnZfYkpwVUEtWUFWbDFCRUx4Z2I2RnM?oc=5",
       "source": "제주MBC",
@@ -52,12 +58,6 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ocEZKa0FFbEhKX1o4TkpSWGtDNkxqUkFrcTBPUHJxZGhFV0JNb2ZOMFhNMU5TOFg0ZElPVEZwQXJFRzA4SFhEVTRYTEY4X2J5cnJuRFpzNzYwUGFkcmo1c19LY3VPdnBHSGg2X0JORVdneDB0VXc?oc=5",
       "source": "신화망",
       "date": "Wed, 04 Nov 2026 02:06:15 GMT"
-    },
-    {
-      "title": "[곽재원 컬럼] 중국경제는 지금:첨단산업은 질주, 내수는 침체?",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGZXB0alVBMC1sMl95bzM1dXkzZ2FFc2VtQ1NpOE9LUi1QSUtpemdIbDQ5dC1YdzdwY1FmNnJOMGRiQ2pnamkybV9vQVZHTmxlY3dIWFZhcw?oc=5",
-      "source": "https://technovalue.com/",
-      "date": "Mon, 02 Nov 2026 15:10:08 GMT"
     },
     {
       "title": "수출 대박나면 뭐하나…중국 경제에 나타난 '이상 신호' [차이나 워치]",

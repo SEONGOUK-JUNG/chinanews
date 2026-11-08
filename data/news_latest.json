@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-08T07:20:02+09:00",
+  "run_at_kst": "2026-11-08T10:10:03+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Wars May Spur Faster Electrification",
+      "link": "https://oilprice.com/Energy/Energy-General/Wars-May-Spur-Faster-Electrification.html",
+      "source": "OilPrice",
+      "date": "Sat, 07 Nov 2026 18:00:00 -0600"
+    },
     {
       "title": "The U.S. Has $50 Billion for Nuclear Waste and Nowhere to Put It",
       "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-US-Has-50-Billion-for-Nuclear-Waste-and-Nowhere-to-Put-It.html",
@@ -66,12 +72,6 @@
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Traders-Want-US-to-Release-Sanctioned-Tankers-as-Freight-Costs-Soar.html",
       "source": "OilPrice",
       "date": "Fri, 06 Nov 2026 14:30:00 -0600"
-    },
-    {
-      "title": "Energy Reliability Is Becoming More Important Than Energy Politics",
-      "link": "https://oilprice.com/Energy/Energy-General/Energy-Reliability-Is-Becoming-More-Important-Than-Energy-Politics.html",
-      "source": "OilPrice",
-      "date": "Fri, 06 Nov 2026 13:00:00 -0600"
     },
     {
       "title": "MP Materials posts surprise adjusted profit",
