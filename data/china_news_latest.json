@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-11-08T10:10:03+09:00",
+  "run_at_kst": "2026-11-08T14:10:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "[경제] 케냐 수출기관 CEO \"CIIE, 정책 혜택과 對중국 수출 잇는 다리\"",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0MVdCSFg2QW92TVY3a29nMHQwdF9BNEtxYXVOMVo0MldfSktVMF8yTWVoMHpaQUVqRHYwYTBBdzBLX2pqSURmcC1PUmNHZXU1YlpIUFJHVDZETFk4S0VaM2ZCMmxRZWFET1ZR?oc=5",
+      "source": "서울뉴스통신",
+      "date": "Sun, 08 Nov 2026 00:53:23 GMT"
+    },
     {
       "title": "이재명 대통령의 중국 APEC, 무엇을 얻어야 하나?",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhVFR4R2ZtTldPTHFLcUhIV2ZfNlVhMEszUGRmcVl4bVZkY0c0Wjl6cVIwRlVpOVdpdjZDS3NGLXE4VU96WE9zeEFsM3YtZ3dObFhBclNQMFZNSEtXZC1OLXFTY1llQWVfNEtFUHJB0gFyQVVfeXFMTmZURGNCczNlNHN2VFlnMXlYY19rUnFFdWxJVzc1S2kwa0tBZWxobjgxMHFFdEZ5SE5zbFdQRkhRWmRMZW9zZGpUWU1qWVVYbXFLeW1jeGhaUHNScTlPRzM5bldXdVFudFo4ckw2ZE5lMFp3?oc=5",
@@ -30,22 +36,16 @@
       "date": "Fri, 06 Nov 2026 21:56:15 GMT"
     },
     {
-      "title": "중국, 무역흑자 폭증 비판 속 '시장개방' 압력 확산",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UX1ctRlV1OFdBbVBmdEFQNzV3bXJpRHZXTk91bUl4VkZpWkx1c2pNTXBHR0pscWE5YlduSWxZV0xrUDI2Yjh6SUdIaUtZSGc5RnhKbTJpNXhOYTNldUIyclEweklHMFo0N2paVXBzY9IBc0FVX3lxTE9tVEE4d2NMNEFGNlZYa014WFVGRzRqRXE0NTljaVJ5Q01saXptOWNwQW5MUEpTd29YUW9OcFBOd1V0YndOYXBNYnl3Nnp1RE8zd2tHeUltc1VoM2huX0FUSnlnb3hnSTU5bkd5NWg0YVJHTnc?oc=5",
-      "source": "초이스경제",
-      "date": "Thu, 05 Nov 2026 23:48:43 GMT"
+      "title": "정부는 소비재 수출 지원, 기업은 CCL 생산 증설…민관 중국 공략 박차",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WZU9TRnpoM1dBRFVsMkRsYUtWQko2Qm5NR09hNXBxUVN1ZlloWkk4UXZWVzlLOXpoS0tTN0dHMmw4SmhPaDhLWjQ0WndOLUdNbkgwV3cwdElDUdIBX0FVX3lxTE5ac1JSeHZ6aWFoSmxub1E1MzBXY1hCUlNYQ202cWQ5eGNtRDhIRFpMVHFJSHBfR1pJVXd4SXdmUVl5aDhiUENEWi1zRXhwM25zWFQ5aUJuRHlkYjRib1RB?oc=5",
+      "source": "경향신문",
+      "date": "Fri, 06 Nov 2026 05:00:00 GMT"
     },
     {
       "title": "제주-중국 교류주간‥경제 문화 협력방안 논의",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Kc21aMzVDWGRqaFZNY0dla2xiZERkbkdnTVV2QUFCb1Iydk1RMERzeE5CZlpBbUE0QnZfYkpwVUEtWUFWbDFCRUx4Z2I2RnM?oc=5",
       "source": "제주MBC",
       "date": "Thu, 05 Nov 2026 22:30:00 GMT"
-    },
-    {
-      "title": "노벨경제학상 수상자 \"중국 경제, 올바른 방향으로 발전\"",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jQzJCWE5MQ0o5dTdEWDNyN3JyNGFBM1h2Rm1samlBRXlEVG8wWU1UNHlZb0xNRXlXQVd6VHEwQ0ZmYW1vQzdmZFFNYm5xeTFDMjZfVjhmRWJDNGd6RVlSa0IwOA?oc=5",
-      "source": "国际在线",
-      "date": "Thu, 05 Nov 2026 16:15:58 GMT"
     },
     {
       "title": "제주–칭다오 화물항로 활성화 속도…제주·중국 경제협력 확대",
