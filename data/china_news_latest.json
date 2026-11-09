@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-11-09T07:20:03+09:00",
+  "run_at_kst": "2026-11-09T10:10:03+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "경남 단감, 중국시장 첫 진출…수출 판로 새 지평",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE53NUVtdjNiTFVJbUNZR2JtUk1QbXg3RlpRT0l5c1VFdVlWZXh6WmN3TF9zU1IzRE1ndzIyc2R2VURGd2JPRUJuYzBsZnRZR04zYVlkVEh1S0VnYjJQTnczYW8tRFVVWjFRSDk0eFE4ZkpRQQ?oc=5",
+      "source": "인더스트리뉴스",
+      "date": "Mon, 09 Nov 2026 00:53:00 GMT"
+    },
     {
       "title": "미중 경제 수장 6일 화상 통화…중국은 제한 조치, 미국은 합의 이행에 무게",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiRFg3ck5teTVTUThxZFNMLWVldjEwQnBuSXVoZ1I3MmtzbGh6Zy1XbEU2enlIMUJSQ0hpd251dGg2SlR1WThhZ1dXX3V1emJ1WC1n?oc=5",
@@ -24,10 +30,10 @@
       "date": "Sun, 08 Nov 2026 15:01:00 GMT"
     },
     {
-      "title": "AI를 심판하는 미국, AI를 출근시킨 중국",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90WDBzaUowOTZSTnNNYkVERG56OF9mc3NGNjVmX2JwQWZIQ2tTODB5bm9SZEc1UENqdVVZZklNV2x1NGdmU18zUE01VnpkYjlxV1Nfd2xzYXU2ZEVzLVZCbjEwTmd4T2Q1UlZVci1OUFdiNjhQSGJZ?oc=5",
-      "source": "OhmyNews",
-      "date": "Sun, 08 Nov 2026 04:58:00 GMT"
+      "title": "경남 단감, 전국 최초로 중국시장 밟는다",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWbXZQdHdzNUZySGEzczBzakhHNjNaOHFJZmluenJvcnUwT3VqV2ttdUFzQ0IwSzN5VVM4c0xYLUtWTVJIaFRGc3ZtaEtrblhZOG5mQ0ZETTBmTHl0UG82NzJtSDhhajAxTXR3?oc=5",
+      "source": "경남일보",
+      "date": "Sun, 08 Nov 2026 09:42:01 GMT"
     },
     {
       "title": "덩치만 커진 중국 증시…주가는 왜 제자리인가 [김학균의 시장읽기]",
@@ -70,12 +76,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtNUZqQWFQc3g0WllieGV3dUJ6VUpVcmNfR2RsY3ZxNlo5TGRTTFBNRlBhQjhHLVdCaEdfSXM4bUpEaGpsY3RPRTBqQVM2ek1IMDV4LUtyNWcxXzJoRXfSAWNBVV95cUxQX2FDdGRvdHBNeTJOWXk5YWtxekYzZHdjTFBRbEhERURFek9YRTBkam96WGZVUlo3RTRKRGptZGlid1pucTZDMWRDMEdpcGpMTk9sWURmLWZ0QWVsNGZ4Z0pwY3M?oc=5",
       "source": "BBC",
       "date": "Mon, 19 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "中학자 \"중국 2035년까지 연 4.6% 성장…수출 주도 지속 불가능\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXTkRpSWw2YzE3RWpGa1BEbjBFN2o3U3B2bnBvd1FhVUJHY0V0Y1dENGNGeFRPejF6UVZiT3cyUkYwYlV2dnR6RG9ZQ1FIVEk2VENGbUtrbVc5Y03SAWBBVV95cUxOVHdTMXJOc0tIRzl0cWlpb1hIN0RGMjZXN0xFN1lwRGktLXNvVHI5R2gwZlQtSy1ReWpiNVY3T2lSTnJwXzY2MkxNTThSTVVIWC1WNHZJMXRYZ25GS0huRVQ?oc=5",
-      "source": "연합뉴스",
-      "date": "Wed, 30 Sep 2026 07:00:00 GMT"
     }
   ]
 }

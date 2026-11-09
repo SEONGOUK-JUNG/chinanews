@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-09T07:20:03+09:00",
+  "run_at_kst": "2026-11-09T10:10:03+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Iraq’s 5 Million Bpd Oil Claim Complicates Its OPEC Quota Push",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Iraqs-5-Million-Bpd-Oil-Claim-Complicates-Its-OPEC-Quota-Push.html",
+      "source": "OilPrice",
+      "date": "Sun, 08 Nov 2026 18:00:00 -0600"
+    },
     {
       "title": "Democratic Win Set to Reshuffle U.S. Energy Policy",
       "link": "https://oilprice.com/Energy/Energy-General/Democratic-Win-Set-to-Reshuffle-US-Energy-Policy.html",
@@ -60,12 +66,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/Egypt-Eyes-Billions-in-New-Investment-to-Revive-Oil-and-Gas-Production.html",
       "source": "OilPrice",
       "date": "Sat, 07 Nov 2026 14:00:00 -0600"
-    },
-    {
-      "title": "Trump-Backed Trade Corridor Advances Despite Geopolitical Resistance",
-      "link": "https://oilprice.com/Geopolitics/Asia/Trump-Backed-Trade-Corridor-Advances-Despite-Geopolitical-Resistance.html",
-      "source": "OilPrice",
-      "date": "Sat, 07 Nov 2026 12:00:00 -0600"
     },
     {
       "title": "Copper faces further slide after US vote: TD",
