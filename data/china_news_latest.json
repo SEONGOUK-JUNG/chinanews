@@ -1,27 +1,33 @@
 {
-  "run_at_kst": "2026-11-09T20:10:05+09:00",
+  "run_at_kst": "2026-11-10T07:20:03+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "중국 자극한 다카이치, APEC에선 악수 기대…자민당 압승 뒤 일본 경제가 치르는 대가",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKWnNhLWQxQXVCVWo0d2IySHBydmxYRlVlbExjVWkxMGlJWDFHYjI5aC1pM0RYRklPVVFiN3pseXZ1ZUhqeDFJYmM5ZjQyNklnNlFEZkloQ0tjNGNRSXlKa1FIVV9wZ1o4amJQTEk3S21oQQ?oc=5",
+      "source": "톱스타뉴스",
+      "date": "Mon, 09 Nov 2026 12:35:25 GMT"
+    },
+    {
+      "title": "중국 생산자물가 5.7% 상승, 2022년 6월 이후 최고치",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNLXVsNVRWT3JHOEdYN1JoWGVfeWh4TGJkVGVTelhMZ1l6LTFOc3BqcGlUQ19fVVY5dGgyZ3hyVFQzWU94aTlZU2thUWpxSU9Oc0RIUnViWG9UdFd2T05Tdm5JYnFFWFBYSV83elMxdmhfNER6ZnRZakd1ZXVnR09aWWJSd1NNMXVuYjRBTXR3alNURTVBZk52LXlqN0N1dzRZUk83UWtKd2RfNUdLOHBqNDNIRnIybzFDdjc1UHpLZV9vNkZpcUN0NWxiMVA2NmNNSG55d2h2b3VDRVJmbF8tX284NkFhd0VSSnZocndKQkRvclVtdE1VUWhrVkNQTFo1bWNGT3ZDWnN3bWpkeURkU3VsS0FuUVNvRkU2RlB2WEpnR2RmZ3BrTnFscw?oc=5",
+      "source": "IDNFinancials",
+      "date": "Mon, 09 Nov 2026 12:20:00 GMT"
+    },
+    {
+      "title": "[중국증시-마감] 中정부의 시장 안정 노력에도 혼조",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rWk5xUHhqenhDS01razJIOXdyeko0R0J6UUc4Vks1bnVzY3VJM1BuaXoxekROS0lEbG9NczY3UGZkNTVyTXhVU1NLbHRiaGtzSzJBSDBuZ1I3NU04NHdwRVRQcW1vMFZoNkpDNzNubEI?oc=5",
+      "source": "연합인포맥스",
+      "date": "Mon, 09 Nov 2026 09:07:02 GMT"
+    },
+    {
       "title": "플랫폼 노동은 대세…중국 공산당, 배달원·인플루언서 대의원 나온다",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uczM1YmtoVFhBaWVpdEt5TjExQW9KcmU0Ynp3N0ViXzhsbGdZUklNQk9Ea1pLQ1F1azN1MjQ4d0h4R3ZCMHNxbF9oVnJ1V29fbUMwR2NlektlZ9IBX0FVX3lxTE9fUnlBU0lpY3ZpbF8tcTZGTFlCc1BXVHRVeUZ2bEhENjdiU1c5eEpTTEFqeDBvSERkSzVaSV9KSE9XcDlDd0RGY3RhcXZ6WjlMWDhTaUpobUM5eHlCUGNR?oc=5",
       "source": "경향신문",
       "date": "Mon, 09 Nov 2026 07:00:00 GMT"
-    },
-    {
-      "title": "충남경제진흥원, 중국 광저우 캔톤페어서 4,588만 달러 수출상담 성과",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zbkJHM2JqN043akw3NVhRQ00tbHF2UWRYblNpSV9Icjl2V3lmcEs2dDU1WWJPMG9qeTRRWjh1Z0d1YjBNOFUyTjA3RTZobHRwUzgtREpVN0EzMGVuLV9NYU0wWnJheVliTXE3Vw?oc=5",
-      "source": "백제뉴스",
-      "date": "Mon, 09 Nov 2026 06:31:03 GMT"
-    },
-    {
-      "title": "베트남, ‘중국·인니·대만’ 수입산 스테인리스강 반덤핑조사 착수…9개 품목 대상",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HdXJqcWt0M2JER3hqejFzLXhXRlF5S2ZhWWRBeDlOcUxmUnZWRWZiZWJFVTZSV1FNT1p4dllyazBRd1JfR2hPMmNCSDVYYk95b0R1TXVaZm1HZjZ0U0R4YXBpWFM1Umc5QUR2eQ?oc=5",
-      "source": "인사이드비나",
-      "date": "Mon, 09 Nov 2026 05:29:00 GMT"
     },
     {
       "title": "中 윈난, '2026 중국-베트남 변경경제무역관광교역회' 개막-Xinhua",
@@ -42,39 +48,33 @@
       "date": "Mon, 09 Nov 2026 03:22:18 GMT"
     },
     {
-      "title": "경남 단감, 중국시장 첫 진출…수출 판로 새 지평",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE53NUVtdjNiTFVJbUNZR2JtUk1QbXg3RlpRT0l5c1VFdVlWZXh6WmN3TF9zU1IzRE1ndzIyc2R2VURGd2JPRUJuYzBsZnRZR04zYVlkVEh1S0VnYjJQTnczYW8tRFVVWjFRSDk0eFE4ZkpRQQ?oc=5",
-      "source": "인더스트리뉴스",
-      "date": "Mon, 09 Nov 2026 00:53:00 GMT"
-    },
-    {
-      "title": "중국 AI 버블 붕괴, 시진핑의 ’동방 월스트리트’ 야망 위협",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jZHRXZEp1NlJSUDR3dEdFQWdBQTNXbTZpblhyeGw2a2pHemVValBtbEZ6OHVNSDJSYXRKUzVLX3hobUZ5a2EySE9PalctbkRVQkx5TmoySDgyNUdPMnc4WGQ1ZWlTdlRSa1RfdkpGbjU?oc=5",
-      "source": "Investing.com 한국어",
-      "date": "Sun, 08 Nov 2026 21:53:18 GMT"
-    },
-    {
-      "title": "[중국증시 주간 포인트] 미·중 물가 지표와 통화정책, 中 외화 지준율 인상, '미·러·우크라' 협상, G7 외교장관 회의, 中·캐나다 경제금융 대화, 앤스로픽 IPO, 바이두 월드 2026 등",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mX05CR1pndXJjM3ZnTGZqR3NuSXRDMkxkNUtOY09fT0ZJUzBYQnExdFVkWTdudGxtMWpJc0s3Ym00WFBEUm9NYlhlOG9JV1BOTVN2Y1R5VEFGNTZh?oc=5",
-      "source": "뉴스핌",
-      "date": "Sun, 08 Nov 2026 15:01:00 GMT"
+      "title": "덩치만 커진 중국 증시…주가는 왜 제자리인가 [김학균의 시장읽기]",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51U25jMEV1cmt5RzdCS0dFWnRKNTY4a1diUmxhdm9VTUhPa0Q3TEcyRzlqbTRpQnR1NjR6VjJGWW53ODBKRW8zWGhGTTlWazY4MnZZY3U0T3Q4ZWdVTmkwV0NhMUZXY2JVbko5aWZja9IBc0FVX3lxTE1XVlM2bFZBcWZzQ1Z0b1F5NkowXzhxNDduc2dDTmExazE1M3VDdEN5TEtmYnVobkpSZWhuS2lKdjFiNzBpTHpycDF1bW1QNzctNTFzYTVSdDltQ216cUFTdlNGd045amF1ZnVFaUNXNUJlY1E?oc=5",
+      "source": "시사저널",
+      "date": "Sat, 07 Nov 2026 03:00:00 GMT"
     },
     {
       "title": "한국 - 중국, 경제·통상 분야 적극 협력! - 전체 | 카드/한컷 | 멀티미디어",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMmJYbXVGalF1alFpT0Znc0x3VHpOV3M1ZFlOZzVBVkNNNUNYemdIZXh0ckdkdDJpSHpBbGs1SzFIM2pSWEVERGFlWG5OX21ZRmRkN2pKMzhrNnNKbGg1Z0dyQnhMclZNbXRxc0lhY0FEczE0bFIwSDhSSFcyMkFCc2dJdmd3LURnbTZJ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KWmVtSDZiNzRRYm5lcExGWHFnMlpaMllZX3IxNE5aRDlCQVl4UUQ3dXk3dldIMXZJQnlEZFBOaDJqQnN2NkpiQ1NUSVhEeDFCdEx6N0RJVUpLOUpoQ1B0NXdpQk1PMnlGVXdZVVlB?oc=5",
       "source": "대한민국 정책브리핑",
-      "date": "Fri, 06 Nov 2026 21:56:15 GMT"
+      "date": "Fri, 06 Nov 2026 06:26:28 GMT"
     },
     {
-      "title": "제주–칭다오 화물항로 활성화 속도…제주·중국 경제협력 확대",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85ZEdzVGkxR0hUVGZpbHg4TXVsamtHV29fbU1xZXlqbzZidXN4OXhkVkJiakt5N1Vhc0VFaVBtTEhMVDFZSlhOTEZCNGZhX1dpMGhGYmVXOVRnU0ZaUWlRUVdPclcyVG9uU2xN?oc=5",
-      "source": "해사신문",
-      "date": "Thu, 05 Nov 2026 08:02:37 GMT"
+      "title": "노벨경제학상 수상자 \"중국 경제, 올바른 방향으로 발전\"",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jQzJCWE5MQ0o5dTdEWDNyN3JyNGFBM1h2Rm1samlBRXlEVG8wWU1UNHlZb0xNRXlXQVd6VHEwQ0ZmYW1vQzdmZFFNYm5xeTFDMjZfVjhmRWJDNGd6RVlSa0IwOA?oc=5",
+      "source": "国际在线",
+      "date": "Thu, 05 Nov 2026 16:15:58 GMT"
     },
     {
       "title": "수출 대박나면 뭐하나…중국 경제에 나타난 '이상 신호' [차이나 워치]",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WWW1FNGVVTEp1eXFBN1hCQzIxM2U5OVRiTDk5VUZYd28zbU0zQ2Nid1ZxZDFZZi13a1dzUV8xdlZITjUwN29IeXgyY1R0emEtMllzM2hnR3NuUQ?oc=5",
       "source": "한국경제",
+      "date": "Mon, 19 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "AI 붐에 수출 증대 … 중국 경제 성장세 가속화",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtNUZqQWFQc3g0WllieGV3dUJ6VUpVcmNfR2RsY3ZxNlo5TGRTTFBNRlBhQjhHLVdCaEdfSXM4bUpEaGpsY3RPRTBqQVM2ek1IMDV4LUtyNWcxXzJoRXfSAWNBVV95cUxQX2FDdGRvdHBNeTJOWXk5YWtxekYzZHdjTFBRbEhERURFek9YRTBkam96WGZVUlo3RTRKRGptZGlid1pucTZDMWRDMEdpcGpMTk9sWURmLWZ0QWVsNGZ4Z0pwY3M?oc=5",
+      "source": "BBC",
       "date": "Mon, 19 Oct 2026 07:00:00 GMT"
     }
   ]

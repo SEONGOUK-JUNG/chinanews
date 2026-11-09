@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-09T20:10:05+09:00",
+  "run_at_kst": "2026-11-10T07:20:03+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
-      "title": "Nordic Power Prices Could Soar This Winter as Hydropower Reserves Plunge",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Nordic-Power-Prices-Could-Soar-This-Winter-as-Hydropower-Reserves-Plunge.html",
-      "source": "OilPrice",
-      "date": "Mon, 09 Nov 2026 04:20:00 -0600"
-    },
-    {
-      "title": "Iraq Strikes U.S. Deal to Boost Oil Exports Through Hormuz",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Strikes-US-Deal-to-Boost-Oil-Exports-Through-Hormuz.html",
-      "source": "OilPrice",
-      "date": "Mon, 09 Nov 2026 03:10:00 -0600"
-    },
-    {
-      "title": "China Cuts LNG Imports as Cheap Domestic Gas Undercuts Global Prices",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Cuts-LNG-Imports-as-Cheap-Domestic-Gas-Undercuts-Global-Prices.html",
-      "source": "OilPrice",
-      "date": "Mon, 09 Nov 2026 02:00:00 -0600"
-    },
-    {
-      "title": "Oil Prices Fall as Trump Signals No New Attacks on Iran",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Trump-Signals-No-New-Attacks-on-Iran.html",
-      "source": "OilPrice",
-      "date": "Sun, 08 Nov 2026 23:45:00 -0600"
-    },
-    {
-      "title": "Iraq’s 5 Million Bpd Oil Claim Complicates Its OPEC Quota Push",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Iraqs-5-Million-Bpd-Oil-Claim-Complicates-Its-OPEC-Quota-Push.html",
-      "source": "OilPrice",
-      "date": "Sun, 08 Nov 2026 18:00:00 -0600"
-    },
-    {
-      "title": "Democratic Win Set to Reshuffle U.S. Energy Policy",
-      "link": "https://oilprice.com/Energy/Energy-General/Democratic-Win-Set-to-Reshuffle-US-Energy-Policy.html",
-      "source": "OilPrice",
-      "date": "Sun, 08 Nov 2026 16:00:00 -0600"
-    },
-    {
-      "title": "The Global Race to Harness Solar Power From Space",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Global-Race-to-Harness-Solar-Power-From-Space.html",
-      "source": "OilPrice",
-      "date": "Sun, 08 Nov 2026 14:00:00 -0600"
-    },
-    {
-      "title": "Brazil picks 27 critical minerals in push for local supply chain",
-      "link": "https://www.mining.com/brazil-picks-27-critical-minerals-in-push-for-local-supply-chain/",
+      "title": "Vale Base Metals to triple earnings to $5B for 2026, CEO says",
+      "link": "https://www.mining.com/vale-base-metals-to-triple-earnings-to-5b-for-2026-ceo-says/",
       "source": "mining.com",
-      "date": "Sun, 08 Nov 2026 18:37:01 +0000"
+      "date": "Mon, 09 Nov 2026 21:56:00 +0000"
     },
     {
-      "title": "How Big Oil Became the AI Industry's Favorite Customer",
-      "link": "https://oilprice.com/Energy/Energy-General/How-Big-Oil-Became-the-AI-Industrys-Favorite-Customer.html",
+      "title": "Alphamin directs Congo tin to new US smelter",
+      "link": "https://www.mining.com/alphamin-directs-congo-tin-to-new-us-smelter/",
+      "source": "mining.com",
+      "date": "Mon, 09 Nov 2026 21:28:00 +0000"
+    },
+    {
+      "title": "Why Sudan's Civil War Is Becoming a U.S. National Security Threat",
+      "link": "https://oilprice.com/Geopolitics/Africa/Why-Sudans-Civil-War-Is-Becoming-a-US-National-Security-Threat.html",
       "source": "OilPrice",
-      "date": "Sun, 08 Nov 2026 12:00:00 -0600"
+      "date": "Mon, 09 Nov 2026 15:00:00 -0600"
     },
     {
-      "title": "Australian miners rail against looming tax changes",
-      "link": "https://www.mining.com/australian-miners-rail-against-looming-tax-changes/",
-      "source": "mining.com",
-      "date": "Sun, 08 Nov 2026 16:00:00 +0000"
+      "title": "Brent Crashes 7% on Iran Peace Hopes Despite Fresh Saudi Pipeline Attack",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Crashes-7-on-Iran-Peace-Hopes-Despite-Fresh-Saudi-Pipeline-Attack.html",
+      "source": "OilPrice",
+      "date": "Mon, 09 Nov 2026 14:10:55 -0600"
     },
     {
-      "title": "Copper faces further slide after US vote: TD",
-      "link": "https://www.mining.com/copper-faces-further-slide-after-us-vote-td/",
+      "title": "Blast at steel plant kills 16 in Turkey",
+      "link": "https://www.mining.com/blast-at-steel-plant-kills-16-in-turkey/",
       "source": "mining.com",
-      "date": "Fri, 06 Nov 2026 23:54:00 +0000"
+      "date": "Mon, 09 Nov 2026 20:01:08 +0000"
     },
     {
-      "title": "DLA commits $2 billion to acquire critical materials for National Defense Stockpile",
-      "link": "https://www.mining.com/us-dla-commits-2-billion-to-acquire-critical-materials-for-national-defense-stockpile/",
-      "source": "mining.com",
-      "date": "Fri, 06 Nov 2026 23:30:00 +0000"
+      "title": "Europe’s Raw Material Future Lies Next Door, If It Does Not Repeat the Past",
+      "link": "https://oilprice.com/Energy/Energy-General/Europes-Raw-Material-Future-Lies-Next-Door-If-It-Does-Not-Repeat-the-Past.html",
+      "source": "OilPrice",
+      "date": "Mon, 09 Nov 2026 14:00:00 -0600"
     },
     {
-      "title": "Canadian Uranium eyes acquisitions as Rook II exploration takes shape",
-      "link": "https://www.mining.com/canadian-uranium-eyes-acquisitions-as-rook-ii-exploration-takes-shape/",
+      "title": "Copper price bounces after worst week since March amid scramble for metal in China",
+      "link": "https://www.mining.com/copper-price-bounces-after-worst-week-since-march-amid-scramble-for-metal-in-china/",
       "source": "mining.com",
-      "date": "Fri, 06 Nov 2026 22:55:41 +0000"
+      "date": "Mon, 09 Nov 2026 19:39:48 +0000"
     },
     {
-      "title": "MP Materials posts surprise adjusted profit",
-      "link": "https://www.mining.com/mp-materials-posts-surprise-adjusted-profit/",
+      "title": "Central Asia Confronts Growing Threat of AI-Enabled Extremism",
+      "link": "https://oilprice.com/Energy/Energy-General/Central-Asia-Confronts-Growing-Threat-of-AI-Enabled-Extremism.html",
+      "source": "OilPrice",
+      "date": "Mon, 09 Nov 2026 13:00:00 -0600"
+    },
+    {
+      "title": "The AI Power Grab That Could Upend America's Electricity Industry",
+      "link": "https://oilprice.com/Energy/Energy-General/The-AI-Power-Grab-That-Could-Upend-Americas-Electricity-Industry.html",
+      "source": "OilPrice",
+      "date": "Mon, 09 Nov 2026 12:00:00 -0600"
+    },
+    {
+      "title": "Murphy Oil Bets on Israeli Gas Near Leviathan",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Murphy-Oil-Bets-on-Israeli-Gas-Near-Leviathan.html",
+      "source": "OilPrice",
+      "date": "Mon, 09 Nov 2026 11:30:00 -0600"
+    },
+    {
+      "title": "Saudi Pipeline Attacked as OPEC Output Climbs to 90% of Pre-War Levels",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Pipeline-Attacked-as-OPEC-Output-Climbs-to-90-of-Pre-War-Levels.html",
+      "source": "OilPrice",
+      "date": "Mon, 09 Nov 2026 11:16:00 -0600"
+    },
+    {
+      "title": "Eramet targets debt reset with lithium, nickel sales",
+      "link": "https://www.mining.com/eramet-targets-debt-reset-with-lithium-nickel-sales/",
       "source": "mining.com",
-      "date": "Fri, 06 Nov 2026 18:09:29 +0000"
+      "date": "Mon, 09 Nov 2026 17:08:27 +0000"
+    },
+    {
+      "title": "Global LNG Markets Face a Winter of Extreme Uncertainty",
+      "link": "https://oilprice.com/Energy/Energy-General/Global-LNG-Markets-Face-a-Winter-of-Extreme-Uncertainty.html",
+      "source": "OilPrice",
+      "date": "Mon, 09 Nov 2026 11:00:00 -0600"
+    },
+    {
+      "title": "Meridian weighs $400 million investment decision for Cabaçal mine",
+      "link": "https://www.mining.com/meridian-weighs-400-million-investment-decision-for-cabacal-mine/",
+      "source": "mining.com",
+      "date": "Mon, 09 Nov 2026 16:12:12 +0000"
     }
   ]
 }
