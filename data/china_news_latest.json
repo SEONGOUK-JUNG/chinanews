@@ -1,10 +1,34 @@
 {
-  "run_at_kst": "2026-11-09T14:10:03+09:00",
+  "run_at_kst": "2026-11-09T20:10:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "플랫폼 노동은 대세…중국 공산당, 배달원·인플루언서 대의원 나온다",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uczM1YmtoVFhBaWVpdEt5TjExQW9KcmU0Ynp3N0ViXzhsbGdZUklNQk9Ea1pLQ1F1azN1MjQ4d0h4R3ZCMHNxbF9oVnJ1V29fbUMwR2NlektlZ9IBX0FVX3lxTE9fUnlBU0lpY3ZpbF8tcTZGTFlCc1BXVHRVeUZ2bEhENjdiU1c5eEpTTEFqeDBvSERkSzVaSV9KSE9XcDlDd0RGY3RhcXZ6WjlMWDhTaUpobUM5eHlCUGNR?oc=5",
+      "source": "경향신문",
+      "date": "Mon, 09 Nov 2026 07:00:00 GMT"
+    },
+    {
+      "title": "충남경제진흥원, 중국 광저우 캔톤페어서 4,588만 달러 수출상담 성과",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zbkJHM2JqN043akw3NVhRQ00tbHF2UWRYblNpSV9Icjl2V3lmcEs2dDU1WWJPMG9qeTRRWjh1Z0d1YjBNOFUyTjA3RTZobHRwUzgtREpVN0EzMGVuLV9NYU0wWnJheVliTXE3Vw?oc=5",
+      "source": "백제뉴스",
+      "date": "Mon, 09 Nov 2026 06:31:03 GMT"
+    },
+    {
+      "title": "베트남, ‘중국·인니·대만’ 수입산 스테인리스강 반덤핑조사 착수…9개 품목 대상",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HdXJqcWt0M2JER3hqejFzLXhXRlF5S2ZhWWRBeDlOcUxmUnZWRWZiZWJFVTZSV1FNT1p4dllyazBRd1JfR2hPMmNCSDVYYk95b0R1TXVaZm1HZjZ0U0R4YXBpWFM1Umc5QUR2eQ?oc=5",
+      "source": "인사이드비나",
+      "date": "Mon, 09 Nov 2026 05:29:00 GMT"
+    },
+    {
+      "title": "中 윈난, '2026 중국-베트남 변경경제무역관광교역회' 개막-Xinhua",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkV29ja1Y5eC1fbE5HZGtibUlfRWtVTFAyLWNmTDNPdENrV2cxTFNYcC1xVktUZTdfWlJRMklpb1JvS2dseENQajdKZ05hQ0dlRDFfOXV1RzFMcENuVS1GelMxNUZfaUdhb2duX01SUHZLcURnSjhTc2d3N1E?oc=5",
+      "source": "신화망",
+      "date": "Mon, 09 Nov 2026 04:53:32 GMT"
+    },
     {
       "title": "중국 10월 생산자물가 5.7%↑…유가 급등에 4년 4개월 만에 최고",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Jd2tPUjRJMEVoTUNRb2VhVWtrLWxDQ0lnUjB1b05icV9MUW9Kd2lGNnRmTGE1UEFFYWNTb3RIM1Uwc18wQzdOMlFEQUNnYnZmbXd0R1J3clJ5Um8?oc=5",
@@ -16,18 +40,6 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OTzQyRU5RUnA0MGZyTzdib0ZZR0lSa0U4SEt3MS1uYl9Jb0pwcThOTkpoLUdDOW9RRHJuOVFqLW5vUzVKLVcxbng3V0lnTWhqTUplb1hHR3ZudzUxM1RDRS00ZUhGUElyYmNkTEc1eG9Vejh5?oc=5",
       "source": "연합뉴스 한민족센터",
       "date": "Mon, 09 Nov 2026 03:22:18 GMT"
-    },
-    {
-      "title": "[중국 뉴스 브리핑] 2026년 11월 9일",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjVzMyUE9ZWWE2M2xUOUpHYzNSQ1lWc0dRXzhVVzVSQ25VTWVtQUFpUUZOOGh0MlFSRGhOMjlfZEE3ZE42ZkFrcGNZeEFfbm9XSlhMVzNueF9IQzRGdDVTV0kzWTZmVUpIaWZR?oc=5",
-      "source": "인민망",
-      "date": "Mon, 09 Nov 2026 02:24:00 GMT"
-    },
-    {
-      "title": "[사진] 中 윈난, '2026 중국-베트남 변경경제무역관광교역회' 개막",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UcVlhTnhtN1A1TkVRbGx6TS1laXdJYkFVdXpxeEdVZTdGSXZlMG1waXU1cGlVUVY4ZDg3aDVGM0tyeXJiRmdTT1VuWmFJR2p1V2Y0T20yQWpTS2k4ZlV2UXFvdUxhUE10aEMxSE9qb0RVRDA?oc=5",
-      "source": "동방일보",
-      "date": "Mon, 09 Nov 2026 01:05:00 GMT"
     },
     {
       "title": "경남 단감, 중국시장 첫 진출…수출 판로 새 지평",
@@ -48,12 +60,6 @@
       "date": "Sun, 08 Nov 2026 15:01:00 GMT"
     },
     {
-      "title": "덩치만 커진 중국 증시…주가는 왜 제자리인가 [김학균의 시장읽기]",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51U25jMEV1cmt5RzdCS0dFWnRKNTY4a1diUmxhdm9VTUhPa0Q3TEcyRzlqbTRpQnR1NjR6VjJGWW53ODBKRW8zWGhGTTlWazY4MnZZY3U0T3Q4ZWdVTmkwV0NhMUZXY2JVbko5aWZja9IBc0FVX3lxTE1XVlM2bFZBcWZzQ1Z0b1F5NkowXzhxNDduc2dDTmExazE1M3VDdEN5TEtmYnVobkpSZWhuS2lKdjFiNzBpTHpycDF1bW1QNzctNTFzYTVSdDltQ216cUFTdlNGd045amF1ZnVFaUNXNUJlY1E?oc=5",
-      "source": "시사저널",
-      "date": "Sat, 07 Nov 2026 03:00:00 GMT"
-    },
-    {
       "title": "한국 - 중국, 경제·통상 분야 적극 협력! - 전체 | 카드/한컷 | 멀티미디어",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMmJYbXVGalF1alFpT0Znc0x3VHpOV3M1ZFlOZzVBVkNNNUNYemdIZXh0ckdkdDJpSHpBbGs1SzFIM2pSWEVERGFlWG5OX21ZRmRkN2pKMzhrNnNKbGg1Z0dyQnhMclZNbXRxc0lhY0FEczE0bFIwSDhSSFcyMkFCc2dJdmd3LURnbTZJ?oc=5",
       "source": "대한민국 정책브리핑",
@@ -69,12 +75,6 @@
       "title": "수출 대박나면 뭐하나…중국 경제에 나타난 '이상 신호' [차이나 워치]",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WWW1FNGVVTEp1eXFBN1hCQzIxM2U5OVRiTDk5VUZYd28zbU0zQ2Nid1ZxZDFZZi13a1dzUV8xdlZITjUwN29IeXgyY1R0emEtMllzM2hnR3NuUQ?oc=5",
       "source": "한국경제",
-      "date": "Mon, 19 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "AI 붐에 수출 증대 … 중국 경제 성장세 가속화",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtNUZqQWFQc3g0WllieGV3dUJ6VUpVcmNfR2RsY3ZxNlo5TGRTTFBNRlBhQjhHLVdCaEdfSXM4bUpEaGpsY3RPRTBqQVM2ek1IMDV4LUtyNWcxXzJoRXfSAWNBVV95cUxQX2FDdGRvdHBNeTJOWXk5YWtxekYzZHdjTFBRbEhERURFek9YRTBkam96WGZVUlo3RTRKRGptZGlid1pucTZDMWRDMEdpcGpMTk9sWURmLWZ0QWVsNGZ4Z0pwY3M?oc=5",
-      "source": "BBC",
       "date": "Mon, 19 Oct 2026 07:00:00 GMT"
     }
   ]

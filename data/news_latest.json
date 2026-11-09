@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-09T10:10:03+09:00",
+  "run_at_kst": "2026-11-09T20:10:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Nordic Power Prices Could Soar This Winter as Hydropower Reserves Plunge",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Nordic-Power-Prices-Could-Soar-This-Winter-as-Hydropower-Reserves-Plunge.html",
+      "source": "OilPrice",
+      "date": "Mon, 09 Nov 2026 04:20:00 -0600"
+    },
+    {
+      "title": "Iraq Strikes U.S. Deal to Boost Oil Exports Through Hormuz",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Strikes-US-Deal-to-Boost-Oil-Exports-Through-Hormuz.html",
+      "source": "OilPrice",
+      "date": "Mon, 09 Nov 2026 03:10:00 -0600"
+    },
+    {
+      "title": "China Cuts LNG Imports as Cheap Domestic Gas Undercuts Global Prices",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Cuts-LNG-Imports-as-Cheap-Domestic-Gas-Undercuts-Global-Prices.html",
+      "source": "OilPrice",
+      "date": "Mon, 09 Nov 2026 02:00:00 -0600"
+    },
+    {
+      "title": "Oil Prices Fall as Trump Signals No New Attacks on Iran",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Trump-Signals-No-New-Attacks-on-Iran.html",
+      "source": "OilPrice",
+      "date": "Sun, 08 Nov 2026 23:45:00 -0600"
+    },
     {
       "title": "Iraq’s 5 Million Bpd Oil Claim Complicates Its OPEC Quota Push",
       "link": "https://oilprice.com/Energy/Crude-Oil/Iraqs-5-Million-Bpd-Oil-Claim-Complicates-Its-OPEC-Quota-Push.html",
@@ -42,30 +66,6 @@
       "link": "https://www.mining.com/australian-miners-rail-against-looming-tax-changes/",
       "source": "mining.com",
       "date": "Sun, 08 Nov 2026 16:00:00 +0000"
-    },
-    {
-      "title": "How New York Plans to Turn Waste Heat Into Clean Energy",
-      "link": "https://oilprice.com/Energy/Energy-General/How-New-York-Plans-to-Turn-Waste-Heat-Into-Clean-Energy.html",
-      "source": "OilPrice",
-      "date": "Sun, 08 Nov 2026 10:00:00 -0600"
-    },
-    {
-      "title": "Wars May Spur Faster Electrification",
-      "link": "https://oilprice.com/Energy/Energy-General/Wars-May-Spur-Faster-Electrification.html",
-      "source": "OilPrice",
-      "date": "Sat, 07 Nov 2026 18:00:00 -0600"
-    },
-    {
-      "title": "The U.S. Has $50 Billion for Nuclear Waste and Nowhere to Put It",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-US-Has-50-Billion-for-Nuclear-Waste-and-Nowhere-to-Put-It.html",
-      "source": "OilPrice",
-      "date": "Sat, 07 Nov 2026 16:00:00 -0600"
-    },
-    {
-      "title": "Egypt Eyes Billions in New Investment to Revive Oil and Gas Production",
-      "link": "https://oilprice.com/Energy/Energy-General/Egypt-Eyes-Billions-in-New-Investment-to-Revive-Oil-and-Gas-Production.html",
-      "source": "OilPrice",
-      "date": "Sat, 07 Nov 2026 14:00:00 -0600"
     },
     {
       "title": "Copper faces further slide after US vote: TD",
