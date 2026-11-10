@@ -1,21 +1,15 @@
 {
-  "run_at_kst": "2026-11-10T20:10:04+09:00",
+  "run_at_kst": "2026-11-11T07:20:03+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "[오늘의글로벌PICK!] 中, 내수 부진 속 1조 달러 역대급 흑자의 속내는?",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EZGNuTEVRdGR6NmIyeUxaTzY4R3lLQ3Q4U0pGaVViN09HZWxld01TVkoweVdxNnFJVXZvS2M0Q29odkVuWXFya1pCUHJENVZaUVc0RHh5QlVReFFEVHJBQ29MdHV5Y1E2MjdzZE9B?oc=5",
-      "source": "코리아포스트 한글판",
-      "date": "Tue, 10 Nov 2026 10:06:47 GMT"
-    },
-    {
-      "title": "충북 디지털 기업, 중국 시장 진출 본격화",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SVlFQa1B0VkJqaUptOVRMajNpNXJ2UE5KUHNxSjhPUzNvOVg2bC1ZWEY5bEVWcHVPQTVyVldvejdmWDRPTkdYeTRQSE1qUzhBSmVuc2oweGxYdWNadERReDJvVTJaUjdUcUQ2eXBNUHU?oc=5",
-      "source": "모빅경제",
-      "date": "Tue, 10 Nov 2026 09:08:51 GMT"
+      "title": "미국 국방부, 우시앱텍 중국군사기업 지정 철회",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ILUtDdnVjZEhTQUdiRkQ2TjJIMzFaa0JISDFJMUcwZmlRUlVxXzNwSy1OV21MaGRoNDFoVmRaV05KZktuMDRYUnpFTnJKNVhVbnVyWFdmT1A3d0NHd3RHNTdrMlE?oc=5",
+      "source": "매일일보",
+      "date": "Tue, 10 Nov 2026 15:16:48 GMT"
     },
     {
       "title": "中, 내수 부진 속 역대급 흑자…APEC 앞두고 무역갈등은 '숙제'",
@@ -36,22 +30,16 @@
       "date": "Tue, 10 Nov 2026 07:51:09 GMT"
     },
     {
-      "title": "중국의 무역 흑자는 계속해서 1조 달러를 넘어서고 있다.",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORWxuSXZNcFpfeVBQWjV2MHBpRThjYV9BVEpYZ2RMUEVCY1dzM1ZfRC1QVUw2Z1o4dzN3TlZNcVN2bEt0cjlMQnc0ZHdFZ1V6Q1FNckpkeXBUWGxBSlhNVXFYekRBQVM4YnRfcjVTM3pWc1c1cEN4ZzlmNUN5VlFUWG5zZVhuelN0d0Jj?oc=5",
-      "source": "Vietnam.vn",
-      "date": "Tue, 10 Nov 2026 07:21:23 GMT"
-    },
-    {
       "title": "AI수출 호조에 中무역흑자, 2년 연속 1조달러↑… '사상최대' 전망",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CYVp2aDN3ZzhYekxZdVNaZGZxX25qZW8yZFNPX3EwVkhSckFmVUZGcUgteElzSVBIdUwxeTF3OVhKODl3bFhTNlloNkdMcUhDdUFSZHNibGJPb0Q0QlFyTHktNU0yaFJaVno0YtIBcEFVX3lxTE1tMGMxZmZJWlJ6VnJlY0lxVnNpQVZpampJdzFPSVZybENINnM5Vkw3eFZFU2VWTTNSamE5UG9nb0pHWm1ZajdVNm9YTld5T0pkdy1UNllSenpheXMwU3ZmNXBGY1Itc1JFVTJLY3JJdmk?oc=5",
       "source": "글로벌경제신문",
       "date": "Tue, 10 Nov 2026 07:03:18 GMT"
     },
     {
-      "title": "충남경제진흥원, 중국 광저우 캔톤페어서 4,588만 달러 수출상담 성과",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oRWxIeC1QNjhSNXc1a2UzdlBQc2kwOEc4TkJ6ZXEySXVQWFBfZXJzU3pGNWVWQ000LUxiN2UxcmpOeHZaenBzc09pcUZ1bnowM1B0V3FBd0puSFJSUVZVUDlyNkFWY3RLVEE?oc=5",
-      "source": "충청매일",
-      "date": "Tue, 10 Nov 2026 05:50:06 GMT"
+      "title": "中 무역흑자 1조 달러 돌파…AI·반도체 수출 호조에 사상 최대 전망",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JQTNoRWgwaWFIM3hRcWRsbHgwdlI3V0JfTVd5Z3JtNFJHaE1Oc0xzaWt6ODJvWG1IcTBlT3RPVUUtODd5SzRXZ1hyUWZkektBZEptQmliMmo1Z1plOC1uZnBGbXJoQkE?oc=5",
+      "source": "M이코노미뉴스",
+      "date": "Tue, 10 Nov 2026 06:44:28 GMT"
     },
     {
       "title": "[단독] 중국, 트럼프·시진핑 회담 앞두고 ‘5대 무역 요구안’ 준비…관세·반도체·투자 포함 – RFA 자유아시아방송",
@@ -66,16 +54,28 @@
       "date": "Tue, 10 Nov 2026 03:57:55 GMT"
     },
     {
-      "title": "강원 관광·식품, 일본·중국 시장 공략…지역경제 외연 넓혀",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13b0VMQmtiVl9zOVliYlBRbVFzQnZvT2VpWkxSaHBJSzMzTE5FRlk2N0VQakUyOVY1RDE1bE95Nk9COTVPLVNFSGt2ei1JRlJMTFdjbW9EcWJHM1VQaF9r?oc=5",
-      "source": "MTN 머니투데이방송",
-      "date": "Tue, 10 Nov 2026 00:52:48 GMT"
+      "title": "한국 - 중국, 경제·통상 분야 적극 협력! - 전체 | 카드/한컷 | 멀티미디어",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KWmVtSDZiNzRRYm5lcExGWHFnMlpaMllZX3IxNE5aRDlCQVl4UUQ3dXk3dldIMXZJQnlEZFBOaDJqQnN2NkpiQ1NUSVhEeDFCdEx6N0RJVUpLOUpoQ1B0NXdpQk1PMnlGVXdZVVlB?oc=5",
+      "source": "대한민국 정책브리핑",
+      "date": "Fri, 06 Nov 2026 06:26:28 GMT"
     },
     {
       "title": "수출 대박나면 뭐하나…중국 경제에 나타난 '이상 신호' [차이나 워치]",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WWW1FNGVVTEp1eXFBN1hCQzIxM2U5OVRiTDk5VUZYd28zbU0zQ2Nid1ZxZDFZZi13a1dzUV8xdlZITjUwN29IeXgyY1R0emEtMllzM2hnR3NuUQ?oc=5",
       "source": "한국경제",
       "date": "Mon, 19 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "AI 붐에 수출 증대 … 중국 경제 성장세 가속화",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtNUZqQWFQc3g0WllieGV3dUJ6VUpVcmNfR2RsY3ZxNlo5TGRTTFBNRlBhQjhHLVdCaEdfSXM4bUpEaGpsY3RPRTBqQVM2ek1IMDV4LUtyNWcxXzJoRXfSAWNBVV95cUxQX2FDdGRvdHBNeTJOWXk5YWtxekYzZHdjTFBRbEhERURFek9YRTBkam96WGZVUlo3RTRKRGptZGlid1pucTZDMWRDMEdpcGpMTk9sWURmLWZ0QWVsNGZ4Z0pwY3M?oc=5",
+      "source": "BBC",
+      "date": "Mon, 19 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "中학자 \"중국 2035년까지 연 4.6% 성장…수출 주도 지속 불가능\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXTkRpSWw2YzE3RWpGa1BEbjBFN2o3U3B2bnBvd1FhVUJHY0V0Y1dENGNGeFRPejF6UVZiT3cyUkYwYlV2dnR6RG9ZQ1FIVEk2VENGbUtrbVc5Y03SAWBBVV95cUxOVHdTMXJOc0tIRzl0cWlpb1hIN0RGMjZXN0xFN1lwRGktLXNvVHI5R2gwZlQtSy1ReWpiNVY3T2lSTnJwXzY2MkxNTThSTVVIWC1WNHZJMXRYZ25GS0huRVQ?oc=5",
+      "source": "연합뉴스",
+      "date": "Wed, 30 Sep 2026 07:00:00 GMT"
     }
   ]
 }
