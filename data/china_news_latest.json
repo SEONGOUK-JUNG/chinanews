@@ -1,15 +1,15 @@
 {
-  "run_at_kst": "2026-11-10T07:20:03+09:00",
+  "run_at_kst": "2026-11-10T10:10:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "중국 자극한 다카이치, APEC에선 악수 기대…자민당 압승 뒤 일본 경제가 치르는 대가",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKWnNhLWQxQXVCVWo0d2IySHBydmxYRlVlbExjVWkxMGlJWDFHYjI5aC1pM0RYRklPVVFiN3pseXZ1ZUhqeDFJYmM5ZjQyNklnNlFEZkloQ0tjNGNRSXlKa1FIVV9wZ1o4amJQTEk3S21oQQ?oc=5",
-      "source": "톱스타뉴스",
-      "date": "Mon, 09 Nov 2026 12:35:25 GMT"
+      "title": "\"200억 이득 보려다…\" 잘나가던 中 기업들 '날벼락' 공포 [차이나 워치]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQkpiSHltTXRCU3ZtR19KWm5wY0tpZk5tcmlTMkQ4bk5wX2pQN1drcUF2MkhNemRibThFRmhad0hyMlNBclpQR2lmRG9xcUNuZ2xmR3o4TUh4Zw?oc=5",
+      "source": "한국경제",
+      "date": "Mon, 09 Nov 2026 23:31:01 GMT"
     },
     {
       "title": "중국 생산자물가 5.7% 상승, 2022년 6월 이후 최고치",
@@ -48,6 +48,12 @@
       "date": "Mon, 09 Nov 2026 03:22:18 GMT"
     },
     {
+      "title": "[중국증시 주간 포인트] 미·중 물가 지표와 통화정책, 中 외화 지준율 인상, '미·러·우크라' 협상, G7 외교장관 회의, 中·캐나다 경제금융 대화, 앤스로픽 IPO, 바이두 월드 2026 등",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mX05CR1pndXJjM3ZnTGZqR3NuSXRDMkxkNUtOY09fT0ZJUzBYQnExdFVkWTdudGxtMWpJc0s3Ym00WFBEUm9NYlhlOG9JV1BOTVN2Y1R5VEFGNTZh?oc=5",
+      "source": "뉴스핌",
+      "date": "Sun, 08 Nov 2026 15:01:00 GMT"
+    },
+    {
       "title": "덩치만 커진 중국 증시…주가는 왜 제자리인가 [김학균의 시장읽기]",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51U25jMEV1cmt5RzdCS0dFWnRKNTY4a1diUmxhdm9VTUhPa0Q3TEcyRzlqbTRpQnR1NjR6VjJGWW53ODBKRW8zWGhGTTlWazY4MnZZY3U0T3Q4ZWdVTmkwV0NhMUZXY2JVbko5aWZja9IBc0FVX3lxTE1XVlM2bFZBcWZzQ1Z0b1F5NkowXzhxNDduc2dDTmExazE1M3VDdEN5TEtmYnVobkpSZWhuS2lKdjFiNzBpTHpycDF1bW1QNzctNTFzYTVSdDltQ216cUFTdlNGd045amF1ZnVFaUNXNUJlY1E?oc=5",
       "source": "시사저널",
@@ -64,12 +70,6 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jQzJCWE5MQ0o5dTdEWDNyN3JyNGFBM1h2Rm1samlBRXlEVG8wWU1UNHlZb0xNRXlXQVd6VHEwQ0ZmYW1vQzdmZFFNYm5xeTFDMjZfVjhmRWJDNGd6RVlSa0IwOA?oc=5",
       "source": "国际在线",
       "date": "Thu, 05 Nov 2026 16:15:58 GMT"
-    },
-    {
-      "title": "수출 대박나면 뭐하나…중국 경제에 나타난 '이상 신호' [차이나 워치]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WWW1FNGVVTEp1eXFBN1hCQzIxM2U5OVRiTDk5VUZYd28zbU0zQ2Nid1ZxZDFZZi13a1dzUV8xdlZITjUwN29IeXgyY1R0emEtMllzM2hnR3NuUQ?oc=5",
-      "source": "한국경제",
-      "date": "Mon, 19 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "AI 붐에 수출 증대 … 중국 경제 성장세 가속화",

@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-10T07:20:03+09:00",
+  "run_at_kst": "2026-11-10T10:10:04+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,24 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "U.S. Traders Weigh the Cost of Taking Trump’s Russian Diesel",
+      "link": "https://oilprice.com/Energy/Crude-Oil/US-Traders-Weigh-the-Cost-of-Taking-Trumps-Russian-Diesel.html",
+      "source": "OilPrice",
+      "date": "Mon, 09 Nov 2026 19:00:00 -0600"
+    },
+    {
+      "title": "China to Spend $940B on Energy Transition in 2026",
+      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/China-to-Spend-940B-on-Energy-Transition-in-2026.html",
+      "source": "OilPrice",
+      "date": "Mon, 09 Nov 2026 18:00:00 -0600"
+    },
+    {
+      "title": "Scientists Develop Cheap Filter That Could Slash Oil Refining Energy Use by 32%",
+      "link": "https://oilprice.com/Energy/Energy-General/Scientists-Develop-Cheap-Filter-That-Could-Slash-Oil-Refining-Energy-Use-by-32.html",
+      "source": "OilPrice",
+      "date": "Mon, 09 Nov 2026 17:00:00 -0600"
+    },
     {
       "title": "Vale Base Metals to triple earnings to $5B for 2026, CEO says",
       "link": "https://www.mining.com/vale-base-metals-to-triple-earnings-to-5b-for-2026-ceo-says/",
@@ -62,28 +80,10 @@
       "date": "Mon, 09 Nov 2026 12:00:00 -0600"
     },
     {
-      "title": "Murphy Oil Bets on Israeli Gas Near Leviathan",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Murphy-Oil-Bets-on-Israeli-Gas-Near-Leviathan.html",
-      "source": "OilPrice",
-      "date": "Mon, 09 Nov 2026 11:30:00 -0600"
-    },
-    {
-      "title": "Saudi Pipeline Attacked as OPEC Output Climbs to 90% of Pre-War Levels",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Pipeline-Attacked-as-OPEC-Output-Climbs-to-90-of-Pre-War-Levels.html",
-      "source": "OilPrice",
-      "date": "Mon, 09 Nov 2026 11:16:00 -0600"
-    },
-    {
       "title": "Eramet targets debt reset with lithium, nickel sales",
       "link": "https://www.mining.com/eramet-targets-debt-reset-with-lithium-nickel-sales/",
       "source": "mining.com",
       "date": "Mon, 09 Nov 2026 17:08:27 +0000"
-    },
-    {
-      "title": "Global LNG Markets Face a Winter of Extreme Uncertainty",
-      "link": "https://oilprice.com/Energy/Energy-General/Global-LNG-Markets-Face-a-Winter-of-Extreme-Uncertainty.html",
-      "source": "OilPrice",
-      "date": "Mon, 09 Nov 2026 11:00:00 -0600"
     },
     {
       "title": "Meridian weighs $400 million investment decision for Cabaçal mine",
