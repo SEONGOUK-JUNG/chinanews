@@ -1,21 +1,69 @@
 {
-  "run_at_kst": "2026-11-10T14:10:04+09:00",
+  "run_at_kst": "2026-11-10T20:10:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "[오늘의글로벌PICK!] 中, 내수 부진 속 1조 달러 역대급 흑자의 속내는?",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EZGNuTEVRdGR6NmIyeUxaTzY4R3lLQ3Q4U0pGaVViN09HZWxld01TVkoweVdxNnFJVXZvS2M0Q29odkVuWXFya1pCUHJENVZaUVc0RHh5QlVReFFEVHJBQ29MdHV5Y1E2MjdzZE9B?oc=5",
+      "source": "코리아포스트 한글판",
+      "date": "Tue, 10 Nov 2026 10:06:47 GMT"
+    },
+    {
+      "title": "충북 디지털 기업, 중국 시장 진출 본격화",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SVlFQa1B0VkJqaUptOVRMajNpNXJ2UE5KUHNxSjhPUzNvOVg2bC1ZWEY5bEVWcHVPQTVyVldvejdmWDRPTkdYeTRQSE1qUzhBSmVuc2oweGxYdWNadERReDJvVTJaUjdUcUQ2eXBNUHU?oc=5",
+      "source": "모빅경제",
+      "date": "Tue, 10 Nov 2026 09:08:51 GMT"
+    },
+    {
+      "title": "中, 내수 부진 속 역대급 흑자…APEC 앞두고 무역갈등은 '숙제'",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UbmdScDJiNF9vYUhZTGRZT1lGME90Z3YzelAtY1BCdW9nQkNPXzI1aU0zQ1c3dE5ONlJhWlZqczZXUWVrT2IxT2Z2cEprUlNzNFpsQWxtWWR6aGQ2bGVkeWRGTW1wZWMta21PNzhibS1JOUMz?oc=5",
+      "source": "연합뉴스 한민족센터",
+      "date": "Tue, 10 Nov 2026 08:47:37 GMT"
+    },
+    {
+      "title": "중국 무역 흑자 1조 4천억 달러 돌파, AI 수출 급증",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNN19UUzlfWExBdkdfbTlPUU1RcnBDLXhKa2NoR2ZOeXdXaUhGOTZQRGpCeDJ3d2M3WENvVEFfd2hyWWxaZkhGTThmU3dic0pZODRKTDBvUnBNOEY3bXB3d0xiNkNHRlp3X3ZGSEFpSWJndmh5VEpmaHRCd1ZUN0JNNXVaVy1nWjhHRWc4bWNWclFJalZsWENLcHd1NjJTN3JGdGRIN0hyMG1pMnFTejNjMFJEQWJJMXRES3VfMlF3d181UTdaYkZIQ1Z1RGMzNkRDOFg0dnVXZDl4bk1fQS1sUFI1UUpjWGtuT2dzeWRxNm9zU0ZEa2pZWXRmcUNXOWtQSVZaNzNYbllDQ0dyR1J6bkxXbmk4eHZBSThmT2FMOXA1bjRnR3UyV0xyNXFpaVUtOTNycQ?oc=5",
+      "source": "IDNFinancials",
+      "date": "Tue, 10 Nov 2026 08:40:00 GMT"
+    },
+    {
+      "title": "중국 '미인계' 그림자에 한국 경제 '덜덜' [이브닝 브리핑]",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wM3VpNmg4Mm5fcGJTZ2FkSk8wYVgzNnNJYURSRmRXY2laWDEwUE5XTE9KMUliOXJ6VW5TbEU5djFrc016VWYxbFF3bnZZd1NDYzhwX2pDLVlJQVlreEhsNklzb0FadzBIZXc?oc=5",
+      "source": "SBS 뉴스",
+      "date": "Tue, 10 Nov 2026 07:51:09 GMT"
+    },
+    {
+      "title": "중국의 무역 흑자는 계속해서 1조 달러를 넘어서고 있다.",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORWxuSXZNcFpfeVBQWjV2MHBpRThjYV9BVEpYZ2RMUEVCY1dzM1ZfRC1QVUw2Z1o4dzN3TlZNcVN2bEt0cjlMQnc0ZHdFZ1V6Q1FNckpkeXBUWGxBSlhNVXFYekRBQVM4YnRfcjVTM3pWc1c1cEN4ZzlmNUN5VlFUWG5zZVhuelN0d0Jj?oc=5",
+      "source": "Vietnam.vn",
+      "date": "Tue, 10 Nov 2026 07:21:23 GMT"
+    },
+    {
+      "title": "AI수출 호조에 中무역흑자, 2년 연속 1조달러↑… '사상최대' 전망",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CYVp2aDN3ZzhYekxZdVNaZGZxX25qZW8yZFNPX3EwVkhSckFmVUZGcUgteElzSVBIdUwxeTF3OVhKODl3bFhTNlloNkdMcUhDdUFSZHNibGJPb0Q0QlFyTHktNU0yaFJaVno0YtIBcEFVX3lxTE1tMGMxZmZJWlJ6VnJlY0lxVnNpQVZpampJdzFPSVZybENINnM5Vkw3eFZFU2VWTTNSamE5UG9nb0pHWm1ZajdVNm9YTld5T0pkdy1UNllSenpheXMwU3ZmNXBGY1Itc1JFVTJLY3JJdmk?oc=5",
+      "source": "글로벌경제신문",
+      "date": "Tue, 10 Nov 2026 07:03:18 GMT"
+    },
+    {
+      "title": "충남경제진흥원, 중국 광저우 캔톤페어서 4,588만 달러 수출상담 성과",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oRWxIeC1QNjhSNXc1a2UzdlBQc2kwOEc4TkJ6ZXEySXVQWFBfZXJzU3pGNWVWQ000LUxiN2UxcmpOeHZaenBzc09pcUZ1bnowM1B0V3FBd0puSFJSUVZVUDlyNkFWY3RLVEE?oc=5",
+      "source": "충청매일",
+      "date": "Tue, 10 Nov 2026 05:50:06 GMT"
+    },
+    {
+      "title": "[단독] 중국, 트럼프·시진핑 회담 앞두고 ‘5대 무역 요구안’ 준비…관세·반도체·투자 포함 – RFA 자유아시아방송",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbWpFcnU3TFduNjU3dkdLM0hGNHRGVWs3WVJsVjFCOXBQSjBlSGxHemlNMWUzakI1azFKNHRKbEZmMGdlSjF3TmNiQjVRVEx0ajVneGVBRDBhRzdtUVVFTHhpS2hhbC00VHZsakNlYVJYa1EwQ1VXU1NGNWJQeTIwNVkzQW1Ka3hM?oc=5",
+      "source": "Radio Free Asia",
+      "date": "Tue, 10 Nov 2026 05:12:01 GMT"
+    },
+    {
       "title": "의정부시,,중국 단둥와 자매결연 30주년... 경제.체육.문화교류 확대",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zMkd6RTNyTmNTV3BYYVo5MFdqekRqSWlEaV9pdUxURHpyOTJ0UlVJV1FWektLakMxelJCamNYSXZYQXBWQnhXdmhKdFB3bF9uMlEteF8xRllNLWVEYkp6Nw?oc=5",
       "source": "메트로신문",
       "date": "Tue, 10 Nov 2026 03:57:55 GMT"
-    },
-    {
-      "title": "중국, 올해 1~10월 무역 흑자 1조 달러 넘어서",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yVWl4TUY3UTN5MzREQTB0WXNsNldaTFJqZzhrWTBBSU9OcndJR1pidVhzYmJCdm53ZlZxZEYtbnRucUZ6dXE0Nl9mRmtXb3lpbEY5TWlLZkVRQkRtWFYwN2NKSzI3b1o1ak1lNVN3?oc=5",
-      "source": "국제뉴스",
-      "date": "Tue, 10 Nov 2026 03:11:01 GMT"
     },
     {
       "title": "강원 관광·식품, 일본·중국 시장 공략…지역경제 외연 넓혀",
@@ -24,57 +72,9 @@
       "date": "Tue, 10 Nov 2026 00:52:48 GMT"
     },
     {
-      "title": "\"200억 이득 보려다…\" 잘나가던 中 기업들 '날벼락' 공포 [차이나 워치]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yQkpiSHltTXRCU3ZtR19KWm5wY0tpZk5tcmlTMkQ4bk5wX2pQN1drcUF2MkhNemRibThFRmhad0hyMlNBclpQR2lmRG9xcUNuZ2xmR3o4TUh4Zw?oc=5",
+      "title": "수출 대박나면 뭐하나…중국 경제에 나타난 '이상 신호' [차이나 워치]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WWW1FNGVVTEp1eXFBN1hCQzIxM2U5OVRiTDk5VUZYd28zbU0zQ2Nid1ZxZDFZZi13a1dzUV8xdlZITjUwN29IeXgyY1R0emEtMllzM2hnR3NuUQ?oc=5",
       "source": "한국경제",
-      "date": "Mon, 09 Nov 2026 23:31:01 GMT"
-    },
-    {
-      "title": "중국 생산자물가 5.7% 상승, 2022년 6월 이후 최고치",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNLXVsNVRWT3JHOEdYN1JoWGVfeWh4TGJkVGVTelhMZ1l6LTFOc3BqcGlUQ19fVVY5dGgyZ3hyVFQzWU94aTlZU2thUWpxSU9Oc0RIUnViWG9UdFd2T05Tdm5JYnFFWFBYSV83elMxdmhfNER6ZnRZakd1ZXVnR09aWWJSd1NNMXVuYjRBTXR3alNURTVBZk52LXlqN0N1dzRZUk83UWtKd2RfNUdLOHBqNDNIRnIybzFDdjc1UHpLZV9vNkZpcUN0NWxiMVA2NmNNSG55d2h2b3VDRVJmbF8tX284NkFhd0VSSnZocndKQkRvclVtdE1VUWhrVkNQTFo1bWNGT3ZDWnN3bWpkeURkU3VsS0FuUVNvRkU2RlB2WEpnR2RmZ3BrTnFscw?oc=5",
-      "source": "IDNFinancials",
-      "date": "Mon, 09 Nov 2026 12:20:00 GMT"
-    },
-    {
-      "title": "[중국증시-마감] 中정부의 시장 안정 노력에도 혼조",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rWk5xUHhqenhDS01razJIOXdyeko0R0J6UUc4Vks1bnVzY3VJM1BuaXoxekROS0lEbG9NczY3UGZkNTVyTXhVU1NLbHRiaGtzSzJBSDBuZ1I3NU04NHdwRVRQcW1vMFZoNkpDNzNubEI?oc=5",
-      "source": "연합인포맥스",
-      "date": "Mon, 09 Nov 2026 09:07:02 GMT"
-    },
-    {
-      "title": "플랫폼 노동은 대세…중국 공산당, 배달원·인플루언서 대의원 나온다",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uczM1YmtoVFhBaWVpdEt5TjExQW9KcmU0Ynp3N0ViXzhsbGdZUklNQk9Ea1pLQ1F1azN1MjQ4d0h4R3ZCMHNxbF9oVnJ1V29fbUMwR2NlektlZ9IBX0FVX3lxTE9fUnlBU0lpY3ZpbF8tcTZGTFlCc1BXVHRVeUZ2bEhENjdiU1c5eEpTTEFqeDBvSERkSzVaSV9KSE9XcDlDd0RGY3RhcXZ6WjlMWDhTaUpobUM5eHlCUGNR?oc=5",
-      "source": "경향신문",
-      "date": "Mon, 09 Nov 2026 07:00:00 GMT"
-    },
-    {
-      "title": "중국 AI 버블 붕괴, 시진핑의 ’동방 월스트리트’ 야망 위협",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jZHRXZEp1NlJSUDR3dEdFQWdBQTNXbTZpblhyeGw2a2pHemVValBtbEZ6OHVNSDJSYXRKUzVLX3hobUZ5a2EySE9PalctbkRVQkx5TmoySDgyNUdPMnc4WGQ1ZWlTdlRSa1RfdkpGbjU?oc=5",
-      "source": "Investing.com 한국어",
-      "date": "Sun, 08 Nov 2026 21:53:18 GMT"
-    },
-    {
-      "title": "[중국증시 주간 포인트] 미·중 물가 지표와 통화정책, 中 외화 지준율 인상, '미·러·우크라' 협상, G7 외교장관 회의, 中·캐나다 경제금융 대화, 앤스로픽 IPO, 바이두 월드 2026 등",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mX05CR1pndXJjM3ZnTGZqR3NuSXRDMkxkNUtOY09fT0ZJUzBYQnExdFVkWTdudGxtMWpJc0s3Ym00WFBEUm9NYlhlOG9JV1BOTVN2Y1R5VEFGNTZh?oc=5",
-      "source": "뉴스핌",
-      "date": "Sun, 08 Nov 2026 15:01:00 GMT"
-    },
-    {
-      "title": "덩치만 커진 중국 증시…주가는 왜 제자리인가 [김학균의 시장읽기]",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51U25jMEV1cmt5RzdCS0dFWnRKNTY4a1diUmxhdm9VTUhPa0Q3TEcyRzlqbTRpQnR1NjR6VjJGWW53ODBKRW8zWGhGTTlWazY4MnZZY3U0T3Q4ZWdVTmkwV0NhMUZXY2JVbko5aWZja9IBc0FVX3lxTE1XVlM2bFZBcWZzQ1Z0b1F5NkowXzhxNDduc2dDTmExazE1M3VDdEN5TEtmYnVobkpSZWhuS2lKdjFiNzBpTHpycDF1bW1QNzctNTFzYTVSdDltQ216cUFTdlNGd045amF1ZnVFaUNXNUJlY1E?oc=5",
-      "source": "시사저널",
-      "date": "Sat, 07 Nov 2026 03:00:00 GMT"
-    },
-    {
-      "title": "노벨경제학상 수상자 \"중국 경제, 올바른 방향으로 발전\"",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jQzJCWE5MQ0o5dTdEWDNyN3JyNGFBM1h2Rm1samlBRXlEVG8wWU1UNHlZb0xNRXlXQVd6VHEwQ0ZmYW1vQzdmZFFNYm5xeTFDMjZfVjhmRWJDNGd6RVlSa0IwOA?oc=5",
-      "source": "国际在线",
-      "date": "Thu, 05 Nov 2026 16:15:58 GMT"
-    },
-    {
-      "title": "AI 붐에 수출 증대 … 중국 경제 성장세 가속화",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtNUZqQWFQc3g0WllieGV3dUJ6VUpVcmNfR2RsY3ZxNlo5TGRTTFBNRlBhQjhHLVdCaEdfSXM4bUpEaGpsY3RPRTBqQVM2ek1IMDV4LUtyNWcxXzJoRXfSAWNBVV95cUxQX2FDdGRvdHBNeTJOWXk5YWtxekYzZHdjTFBRbEhERURFek9YRTBkam96WGZVUlo3RTRKRGptZGlid1pucTZDMWRDMEdpcGpMTk9sWURmLWZ0QWVsNGZ4Z0pwY3M?oc=5",
-      "source": "BBC",
       "date": "Mon, 19 Oct 2026 07:00:00 GMT"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-10T14:10:04+09:00",
+  "run_at_kst": "2026-11-10T20:10:04+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Brent Crude Falls Below $90 for First Time Since August",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Crude-Falls-Below-90-for-First-Time-Since-August.html",
+      "source": "OilPrice",
+      "date": "Tue, 10 Nov 2026 04:06:35 -0600"
+    },
+    {
+      "title": "ADNOC Gas Posts Stunning Profit Recovery as Energy Exports Rebound",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Gas-Posts-Stunning-Profit-Recovery-as-Energy-Exports-Rebound.html",
+      "source": "OilPrice",
+      "date": "Tue, 10 Nov 2026 03:30:00 -0600"
+    },
+    {
+      "title": "LNG Traffic Through Hormuz Hits Highest Level Since Iran War Began",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/LNG-Traffic-Through-Hormuz-Hits-Highest-Level-Since-Iran-War-Began.html",
+      "source": "OilPrice",
+      "date": "Tue, 10 Nov 2026 00:45:00 -0600"
+    },
+    {
+      "title": "Oil Prices Plunge Below $92 as Trump Signals Restraint on Iran",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-Below-92-as-Trump-Signals-Restraint-on-Iran.html",
+      "source": "OilPrice",
+      "date": "Mon, 09 Nov 2026 23:20:00 -0600"
+    },
     {
       "title": "The 75-Year Army Deal That Could Reshape America's Rare Earth Supply",
       "link": "https://oilprice.com/Interviews/The-75-Year-Army-Deal-That-Could-Reshape-Americas-Rare-Earth-Supply.html",
@@ -44,40 +68,16 @@
       "date": "Mon, 09 Nov 2026 21:28:00 +0000"
     },
     {
-      "title": "Why Sudan's Civil War Is Becoming a U.S. National Security Threat",
-      "link": "https://oilprice.com/Geopolitics/Africa/Why-Sudans-Civil-War-Is-Becoming-a-US-National-Security-Threat.html",
-      "source": "OilPrice",
-      "date": "Mon, 09 Nov 2026 15:00:00 -0600"
-    },
-    {
-      "title": "Brent Crashes 7% on Iran Peace Hopes Despite Fresh Saudi Pipeline Attack",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Crashes-7-on-Iran-Peace-Hopes-Despite-Fresh-Saudi-Pipeline-Attack.html",
-      "source": "OilPrice",
-      "date": "Mon, 09 Nov 2026 14:10:55 -0600"
-    },
-    {
       "title": "Blast at steel plant kills 16 in Turkey",
       "link": "https://www.mining.com/blast-at-steel-plant-kills-16-in-turkey/",
       "source": "mining.com",
       "date": "Mon, 09 Nov 2026 20:01:08 +0000"
     },
     {
-      "title": "Europe’s Raw Material Future Lies Next Door, If It Does Not Repeat the Past",
-      "link": "https://oilprice.com/Energy/Energy-General/Europes-Raw-Material-Future-Lies-Next-Door-If-It-Does-Not-Repeat-the-Past.html",
-      "source": "OilPrice",
-      "date": "Mon, 09 Nov 2026 14:00:00 -0600"
-    },
-    {
       "title": "Copper price bounces after worst week since March amid scramble for metal in China",
       "link": "https://www.mining.com/copper-price-bounces-after-worst-week-since-march-amid-scramble-for-metal-in-china/",
       "source": "mining.com",
       "date": "Mon, 09 Nov 2026 19:39:48 +0000"
-    },
-    {
-      "title": "Central Asia Confronts Growing Threat of AI-Enabled Extremism",
-      "link": "https://oilprice.com/Energy/Energy-General/Central-Asia-Confronts-Growing-Threat-of-AI-Enabled-Extremism.html",
-      "source": "OilPrice",
-      "date": "Mon, 09 Nov 2026 13:00:00 -0600"
     },
     {
       "title": "Eramet targets debt reset with lithium, nickel sales",
