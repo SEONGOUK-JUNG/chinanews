@@ -1,10 +1,46 @@
 {
-  "run_at_kst": "2026-11-11T10:10:02+09:00",
+  "run_at_kst": "2026-11-11T14:10:03+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "글로벌 수출 '중국 싹쓸이' 심화, 무역 전쟁 위기감도 고조",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZdzlYOXVRU2pkMU04MXBBTEtKeDF6Q2J3YnVpSVZ5ajllczJsMFJIOVpXczJ0VXpmZS15ZFIzOUk2cXdNaEVwZ0NpYXF6MEVWbC1XaUV5bEpyclhiNUpxeC03QnRUNHRqR3ZITnExbw?oc=5",
+      "source": "이코리아",
+      "date": "Wed, 11 Nov 2026 04:31:35 GMT"
+    },
+    {
+      "title": "[경제] 6일간의 대장정 마무리...'제9회 중국국제수입박람회' 폐막",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qeXUtZ3RUSU5uWUFRVWk4bDZ4SFJjTlpmZ3hoc2tjYUNXckFFblU0RWVvQWxvd0NybHdpTHJIakVoamMtbmNsemJlVWFDSG4zMDRCR00yUVhpdm1xWWZvVFVfTk1DWVp1MjZBY1Y0VTZGUlE?oc=5",
+      "source": "동방일보",
+      "date": "Wed, 11 Nov 2026 03:57:37 GMT"
+    },
+    {
+      "title": "[APEC 도시 선전 미리 가보니] APEC 정상들이 보게될 미래, 천지개벽 선전",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FR082amFtZmpYdV9mWFBDSFpvbmRwU3J4OUZoenRwRFBPemdIZEVhU2FxUm5lWThZSDNlczVlYndlZkFyUlNvM1FoR0tBRXMybFpEUUZzS3ZKbUZl?oc=5",
+      "source": "뉴스핌",
+      "date": "Wed, 11 Nov 2026 03:43:00 GMT"
+    },
+    {
+      "title": "블룸버그, 중국 ‘세계 지배보다 질서’ 진단…20조달러 경제의 빈곤 역설",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NcGJNMkluQy1HWm8tS19vc3dqTExTZkJ3U0xNaFB1V3JxbnpYVHpmRTBYMjZRUWhBak1JTkNVcXJTX0F6YXNLRlFQWVc5N2RheVlZYTFLaWxDc2paLWFCZEZYU2xWeUhSeFNxNzFR?oc=5",
+      "source": "아시아투데이",
+      "date": "Wed, 11 Nov 2026 02:59:24 GMT"
+    },
+    {
+      "title": "\"앨리스 황, 中 증시규정 위반 금융인과 오랜 동업·연인\"",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5dVc0UWZiSVRRLVhqZTV2bUpFNThkVGMyd2h3TFBldXpOUGtoSVVwMnpEUVVhcHpWaWdlX1F2bXpvekItYWFQOWl3WEdzaFBlb0RtVEVMV0RuSlFRYlVDVVV2UFVJcDRfNFpjctIBcEFVX3lxTE9VR0pxanMxaDhfR215TjFxMFNvczFMTHNRUlBzOVRsUTVsT1l0UHNxM0wzR0otYXZlM0lZZWpGY04waXFGTmFCTEFsb2pKRUo1d0hNekk3Z0ZKMTdCck9TVzRGVGhhWTJLTkJFMTZFNFI?oc=5",
+      "source": "미디어제주",
+      "date": "Wed, 11 Nov 2026 01:47:58 GMT"
+    },
+    {
+      "title": "“젠슨 황, 불륜女에 당했나”…오랜 연인과 AI칩 10조원 우회 공급 의혹",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBucW4yUFB6bFEwX19WWk5XQXM3X1c4dS1pS3pjSHdhN29ieXJNakxNM25SbFVFeXFsZVdqQjc2MVFnS0RoUXd0bHNELVZFREpKSVgtZnJBMktIM05qMFRBYzBn?oc=5",
+      "source": "에너지경제신문",
+      "date": "Wed, 11 Nov 2026 01:22:23 GMT"
+    },
     {
       "title": "인하대, GBLA 중국 계림서 한·중 경제·역사 연계 교육",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wUXRNZXJ2U0JjbTh4ZUMtMTRKWU84elBubTJMS2Q2Qm5RanlKN1hINDJtbjhaWENBdE9TY0RrZTM0di0tQ1JkVEVpNEpxNldUX0JaM0wwNWtYbGxKRDc5R3ZR?oc=5",
@@ -30,36 +66,6 @@
       "date": "Tue, 10 Nov 2026 15:16:48 GMT"
     },
     {
-      "title": "中, 내수 부진 속 역대급 흑자…APEC 앞두고 무역갈등은 '숙제'",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UbmdScDJiNF9vYUhZTGRZT1lGME90Z3YzelAtY1BCdW9nQkNPXzI1aU0zQ1c3dE5ONlJhWlZqczZXUWVrT2IxT2Z2cEprUlNzNFpsQWxtWWR6aGQ2bGVkeWRGTW1wZWMta21PNzhibS1JOUMz?oc=5",
-      "source": "연합뉴스 한민족센터",
-      "date": "Tue, 10 Nov 2026 08:47:37 GMT"
-    },
-    {
-      "title": "중국 무역 흑자 1조 4천억 달러 돌파, AI 수출 급증",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNN19UUzlfWExBdkdfbTlPUU1RcnBDLXhKa2NoR2ZOeXdXaUhGOTZQRGpCeDJ3d2M3WENvVEFfd2hyWWxaZkhGTThmU3dic0pZODRKTDBvUnBNOEY3bXB3d0xiNkNHRlp3X3ZGSEFpSWJndmh5VEpmaHRCd1ZUN0JNNXVaVy1nWjhHRWc4bWNWclFJalZsWENLcHd1NjJTN3JGdGRIN0hyMG1pMnFTejNjMFJEQWJJMXRES3VfMlF3d181UTdaYkZIQ1Z1RGMzNkRDOFg0dnVXZDl4bk1fQS1sUFI1UUpjWGtuT2dzeWRxNm9zU0ZEa2pZWXRmcUNXOWtQSVZaNzNYbllDQ0dyR1J6bkxXbmk4eHZBSThmT2FMOXA1bjRnR3UyV0xyNXFpaVUtOTNycQ?oc=5",
-      "source": "IDNFinancials",
-      "date": "Tue, 10 Nov 2026 08:40:00 GMT"
-    },
-    {
-      "title": "중국 '미인계' 그림자에 한국 경제 '덜덜' [이브닝 브리핑]",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wM3VpNmg4Mm5fcGJTZ2FkSk8wYVgzNnNJYURSRmRXY2laWDEwUE5XTE9KMUliOXJ6VW5TbEU5djFrc016VWYxbFF3bnZZd1NDYzhwX2pDLVlJQVlreEhsNklzb0FadzBIZXc?oc=5",
-      "source": "SBS 뉴스",
-      "date": "Tue, 10 Nov 2026 07:51:09 GMT"
-    },
-    {
-      "title": "中 무역흑자 1조 달러 돌파…AI·반도체 수출 호조에 사상 최대 전망",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JQTNoRWgwaWFIM3hRcWRsbHgwdlI3V0JfTVd5Z3JtNFJHaE1Oc0xzaWt6ODJvWG1IcTBlT3RPVUUtODd5SzRXZ1hyUWZkektBZEptQmliMmo1Z1plOC1uZnBGbXJoQkE?oc=5",
-      "source": "M이코노미뉴스",
-      "date": "Tue, 10 Nov 2026 06:44:28 GMT"
-    },
-    {
-      "title": "[단독] 중국, 트럼프·시진핑 회담 앞두고 ‘5대 무역 요구안’ 준비…관세·반도체·투자 포함 – RFA 자유아시아방송",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbWpFcnU3TFduNjU3dkdLM0hGNHRGVWs3WVJsVjFCOXBQSjBlSGxHemlNMWUzakI1azFKNHRKbEZmMGdlSjF3TmNiQjVRVEx0ajVneGVBRDBhRzdtUVVFTHhpS2hhbC00VHZsakNlYVJYa1EwQ1VXU1NGNWJQeTIwNVkzQW1Ka3hM?oc=5",
-      "source": "Radio Free Asia",
-      "date": "Tue, 10 Nov 2026 05:12:01 GMT"
-    },
-    {
       "title": "한국 - 중국, 경제·통상 분야 적극 협력! - 전체 | 카드/한컷 | 멀티미디어",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KWmVtSDZiNzRRYm5lcExGWHFnMlpaMllZX3IxNE5aRDlCQVl4UUQ3dXk3dldIMXZJQnlEZFBOaDJqQnN2NkpiQ1NUSVhEeDFCdEx6N0RJVUpLOUpoQ1B0NXdpQk1PMnlGVXdZVVlB?oc=5",
       "source": "대한민국 정책브리핑",
@@ -69,12 +75,6 @@
       "title": "수출 대박나면 뭐하나…중국 경제에 나타난 '이상 신호' [차이나 워치]",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WWW1FNGVVTEp1eXFBN1hCQzIxM2U5OVRiTDk5VUZYd28zbU0zQ2Nid1ZxZDFZZi13a1dzUV8xdlZITjUwN29IeXgyY1R0emEtMllzM2hnR3NuUQ?oc=5",
       "source": "한국경제",
-      "date": "Mon, 19 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "AI 붐에 수출 증대 … 중국 경제 성장세 가속화",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtNUZqQWFQc3g0WllieGV3dUJ6VUpVcmNfR2RsY3ZxNlo5TGRTTFBNRlBhQjhHLVdCaEdfSXM4bUpEaGpsY3RPRTBqQVM2ek1IMDV4LUtyNWcxXzJoRXfSAWNBVV95cUxQX2FDdGRvdHBNeTJOWXk5YWtxekYzZHdjTFBRbEhERURFek9YRTBkam96WGZVUlo3RTRKRGptZGlid1pucTZDMWRDMEdpcGpMTk9sWURmLWZ0QWVsNGZ4Z0pwY3M?oc=5",
-      "source": "BBC",
       "date": "Mon, 19 Oct 2026 07:00:00 GMT"
     }
   ]
