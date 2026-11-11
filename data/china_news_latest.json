@@ -1,10 +1,28 @@
 {
-  "run_at_kst": "2026-11-11T07:20:03+09:00",
+  "run_at_kst": "2026-11-11T10:10:02+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "인하대, GBLA 중국 계림서 한·중 경제·역사 연계 교육",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wUXRNZXJ2U0JjbTh4ZUMtMTRKWU84elBubTJMS2Q2Qm5RanlKN1hINDJtbjhaWENBdE9TY0RrZTM0di0tQ1JkVEVpNEpxNldUX0JaM0wwNWtYbGxKRDc5R3ZR?oc=5",
+      "source": "경기신문",
+      "date": "Wed, 11 Nov 2026 00:49:19 GMT"
+    },
+    {
+      "title": "인하대, GBLA 중국 계림서 한·중 경제·역사 연계 교육",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5udWRKTmx2X0VKbUZQdDNmUUxSbkxJUlNUWDZSSThuaW5FVDA0UmUwUDVPeWR1SkZ5MUlvSDNicDIwN3owXzdPNktJV1dSSU84d2JoVmItbTg0N2ZjaVlNMzlmX01BbWV4SUpvUw?oc=5",
+      "source": "https://www.climatepol.com/",
+      "date": "Tue, 10 Nov 2026 23:45:38 GMT"
+    },
+    {
+      "title": "[한일경제연대] “중국 규모에 대응하기 위해 한일 조선산업 생태계가 협력해야”",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jcjRsWEFBc29Vc1EySFRRT3lZdkMwNm1ueG1EMTcwVGZUVEZMV2tMQ0ZVeVI1U3RuQVR6SEJwajI3WmlaVkliU3NJQ3Vxc05BM0ZlalNkekZuMnV6NUFWdmVsR0ZHaHBnYk1zNw?oc=5",
+      "source": "월간조선",
+      "date": "Tue, 10 Nov 2026 18:08:36 GMT"
+    },
     {
       "title": "미국 국방부, 우시앱텍 중국군사기업 지정 철회",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ILUtDdnVjZEhTQUdiRkQ2TjJIMzFaa0JISDFJMUcwZmlRUlVxXzNwSy1OV21MaGRoNDFoVmRaV05KZktuMDRYUnpFTnJKNVhVbnVyWFdmT1A3d0NHd3RHNTdrMlE?oc=5",
@@ -30,12 +48,6 @@
       "date": "Tue, 10 Nov 2026 07:51:09 GMT"
     },
     {
-      "title": "AI수출 호조에 中무역흑자, 2년 연속 1조달러↑… '사상최대' 전망",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CYVp2aDN3ZzhYekxZdVNaZGZxX25qZW8yZFNPX3EwVkhSckFmVUZGcUgteElzSVBIdUwxeTF3OVhKODl3bFhTNlloNkdMcUhDdUFSZHNibGJPb0Q0QlFyTHktNU0yaFJaVno0YtIBcEFVX3lxTE1tMGMxZmZJWlJ6VnJlY0lxVnNpQVZpampJdzFPSVZybENINnM5Vkw3eFZFU2VWTTNSamE5UG9nb0pHWm1ZajdVNm9YTld5T0pkdy1UNllSenpheXMwU3ZmNXBGY1Itc1JFVTJLY3JJdmk?oc=5",
-      "source": "글로벌경제신문",
-      "date": "Tue, 10 Nov 2026 07:03:18 GMT"
-    },
-    {
       "title": "中 무역흑자 1조 달러 돌파…AI·반도체 수출 호조에 사상 최대 전망",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JQTNoRWgwaWFIM3hRcWRsbHgwdlI3V0JfTVd5Z3JtNFJHaE1Oc0xzaWt6ODJvWG1IcTBlT3RPVUUtODd5SzRXZ1hyUWZkektBZEptQmliMmo1Z1plOC1uZnBGbXJoQkE?oc=5",
       "source": "M이코노미뉴스",
@@ -46,12 +58,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbWpFcnU3TFduNjU3dkdLM0hGNHRGVWs3WVJsVjFCOXBQSjBlSGxHemlNMWUzakI1azFKNHRKbEZmMGdlSjF3TmNiQjVRVEx0ajVneGVBRDBhRzdtUVVFTHhpS2hhbC00VHZsakNlYVJYa1EwQ1VXU1NGNWJQeTIwNVkzQW1Ka3hM?oc=5",
       "source": "Radio Free Asia",
       "date": "Tue, 10 Nov 2026 05:12:01 GMT"
-    },
-    {
-      "title": "의정부시,,중국 단둥와 자매결연 30주년... 경제.체육.문화교류 확대",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zMkd6RTNyTmNTV3BYYVo5MFdqekRqSWlEaV9pdUxURHpyOTJ0UlVJV1FWektLakMxelJCamNYSXZYQXBWQnhXdmhKdFB3bF9uMlEteF8xRllNLWVEYkp6Nw?oc=5",
-      "source": "메트로신문",
-      "date": "Tue, 10 Nov 2026 03:57:55 GMT"
     },
     {
       "title": "한국 - 중국, 경제·통상 분야 적극 협력! - 전체 | 카드/한컷 | 멀티미디어",
@@ -70,12 +76,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtNUZqQWFQc3g0WllieGV3dUJ6VUpVcmNfR2RsY3ZxNlo5TGRTTFBNRlBhQjhHLVdCaEdfSXM4bUpEaGpsY3RPRTBqQVM2ek1IMDV4LUtyNWcxXzJoRXfSAWNBVV95cUxQX2FDdGRvdHBNeTJOWXk5YWtxekYzZHdjTFBRbEhERURFek9YRTBkam96WGZVUlo3RTRKRGptZGlid1pucTZDMWRDMEdpcGpMTk9sWURmLWZ0QWVsNGZ4Z0pwY3M?oc=5",
       "source": "BBC",
       "date": "Mon, 19 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "中학자 \"중국 2035년까지 연 4.6% 성장…수출 주도 지속 불가능\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXTkRpSWw2YzE3RWpGa1BEbjBFN2o3U3B2bnBvd1FhVUJHY0V0Y1dENGNGeFRPejF6UVZiT3cyUkYwYlV2dnR6RG9ZQ1FIVEk2VENGbUtrbVc5Y03SAWBBVV95cUxOVHdTMXJOc0tIRzl0cWlpb1hIN0RGMjZXN0xFN1lwRGktLXNvVHI5R2gwZlQtSy1ReWpiNVY3T2lSTnJwXzY2MkxNTThSTVVIWC1WNHZJMXRYZ25GS0huRVQ?oc=5",
-      "source": "연합뉴스",
-      "date": "Wed, 30 Sep 2026 07:00:00 GMT"
     }
   ]
 }

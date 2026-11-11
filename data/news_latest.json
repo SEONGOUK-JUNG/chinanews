@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-11T07:20:03+09:00",
+  "run_at_kst": "2026-11-11T10:10:02+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,16 +8,46 @@
   "count": 14,
   "items": [
     {
+      "title": "Middle East Oil Flows Far from Normal Despite Signs of Oversupply",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Middle-East-Oil-Flows-Far-from-Normal-Despite-Signs-of-Oversupply.html",
+      "source": "OilPrice",
+      "date": "Tue, 10 Nov 2026 19:00:00 -0600"
+    },
+    {
+      "title": "South Sudan Courts Oil Investors as Sudan’s Warring Forces Take Their Share",
+      "link": "https://oilprice.com/Energy/Crude-Oil/South-Sudan-Courts-Oil-Investors-as-Sudans-Warring-Forces-Take-Their-Share.html",
+      "source": "OilPrice",
+      "date": "Tue, 10 Nov 2026 18:00:00 -0600"
+    },
+    {
+      "title": "US critical minerals funding to withstand congressional shift, advisers say",
+      "link": "https://www.mining.com/us-critical-minerals-funding-to-withstand-congressional-shift-advisers-say/",
+      "source": "mining.com",
+      "date": "Tue, 10 Nov 2026 23:16:18 +0000"
+    },
+    {
+      "title": "Midterm Results Could Trip Trump’s Energy Independence Plans",
+      "link": "https://oilprice.com/Energy/Energy-General/Midterm-Results-Could-Trip-Trumps-Energy-Independence-Plans.html",
+      "source": "OilPrice",
+      "date": "Tue, 10 Nov 2026 17:00:00 -0600"
+    },
+    {
       "title": "A ‘Geologic Freak’ in Arkansas Is Big Oil’s New Lithium Bet",
       "link": "https://oilprice.com/Metals/Commodities/A-Geologic-Freak-in-Arkansas-Is-Big-Oils-New-Lithium-Bet.html",
       "source": "OilPrice",
       "date": "Tue, 10 Nov 2026 16:00:00 -0600"
     },
     {
-      "title": "API Shows Sharp Drop in US Crude Oil, Distillate Inventories",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/API-Shows-Sharp-Drop-in-US-Crude-Oil-Distillate-Inventories.html",
+      "title": "API Shows Sharp Build in US Crude Oil, Distillate Inventories",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/API-Shows-Sharp-Build-in-US-Crude-Oil-Distillate-Inventories.html",
       "source": "OilPrice",
-      "date": "Tue, 10 Nov 2026 15:59:23 -0600"
+      "date": "Tue, 10 Nov 2026 15:59:00 -0600"
+    },
+    {
+      "title": "American Barrick files for proposed IPO",
+      "link": "https://www.mining.com/american-barrick-files-for-proposed-ipo/",
+      "source": "mining.com",
+      "date": "Tue, 10 Nov 2026 21:30:28 +0000"
     },
     {
       "title": "Houthis Launch Another Attack on Pumping Stations Along Crucial Saudi East-West",
@@ -36,24 +66,6 @@
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Turkey-Wants-COP31-to-Focus-on-Electrification-Instead-of-Fossil-Fuel-Cuts.html",
       "source": "OilPrice",
       "date": "Tue, 10 Nov 2026 13:30:00 -0600"
-    },
-    {
-      "title": "U.S. Midterm Shake-Up Could Reshape Global Oil and Gas Markets",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Midterm-Shake-Up-Could-Reshape-Global-Oil-and-Gas-Markets.html",
-      "source": "OilPrice",
-      "date": "Tue, 10 Nov 2026 13:00:00 -0600"
-    },
-    {
-      "title": "The Truth Behind Iraq’s Oil Rebound And The Secret Red Sea Plan",
-      "link": "https://oilprice.com/Energy/Crude-Oil/The-Truth-Behind-Iraqs-Oil-Rebound-And-The-Secret-Red-Sea-Plan.html",
-      "source": "OilPrice",
-      "date": "Tue, 10 Nov 2026 12:00:00 -0600"
-    },
-    {
-      "title": "Ukrainian Strikes Disrupt 30% of Russia's Oil Refining Capacity",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukrainian-Strikes-Disrupt-30-of-Russias-Oil-Refining-Capacity.html",
-      "source": "OilPrice",
-      "date": "Tue, 10 Nov 2026 12:00:00 -0600"
     },
     {
       "title": "Market volatility adds new hurdle to critical minerals investment: report",
@@ -78,18 +90,6 @@
       "link": "https://www.mining.com/op-ed-can-chagai-become-a-low-carbon-battery-minerals-hub/",
       "source": "mining.com",
       "date": "Tue, 10 Nov 2026 15:39:00 +0000"
-    },
-    {
-      "title": "Discovery beats forecasts despite higher gold costs",
-      "link": "https://www.mining.com/discovery-beats-forecasts-despite-higher-gold-costs/",
-      "source": "mining.com",
-      "date": "Tue, 10 Nov 2026 13:53:42 +0000"
-    },
-    {
-      "title": "Allied Gold pours first gold at Ethiopia’s Kurmuk mine",
-      "link": "https://www.mining.com/allied-gold-pours-first-gold-at-ethiopias-kurmuk-mine/",
-      "source": "mining.com",
-      "date": "Tue, 10 Nov 2026 11:02:00 +0000"
     }
   ]
 }
