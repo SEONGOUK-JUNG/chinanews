@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-11T10:10:02+09:00",
+  "run_at_kst": "2026-11-11T20:10:04+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Siemens Energy More Than Triples Dividend After Record Year",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Siemens-Energy-More-Than-Triples-Dividend-After-Record-Year.html",
+      "source": "OilPrice",
+      "date": "Wed, 11 Nov 2026 04:00:00 -0600"
+    },
+    {
+      "title": "Saudi Arabia and Turkey Sign Major 3 GW Wind Power Deal",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-and-Turkey-Sign-Major-3-GW-Wind-Power-Deal.html",
+      "source": "OilPrice",
+      "date": "Wed, 11 Nov 2026 02:45:00 -0600"
+    },
+    {
+      "title": "Poland's Orlen Becomes First Buyer to Cancel Long-Term Qatar LNG Deal",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Polands-Orlen-Becomes-First-Buyer-to-Cancel-Long-Term-Qatar-LNG-Deal.html",
+      "source": "OilPrice",
+      "date": "Wed, 11 Nov 2026 01:30:00 -0600"
+    },
+    {
+      "title": "Oil Prices Rise as Iran Peace Optimism Fades",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rise-as-Iran-Peace-Optimism-Fades.html",
+      "source": "OilPrice",
+      "date": "Tue, 10 Nov 2026 23:45:00 -0600"
+    },
     {
       "title": "Middle East Oil Flows Far from Normal Despite Signs of Oversupply",
       "link": "https://oilprice.com/Energy/Crude-Oil/Middle-East-Oil-Flows-Far-from-Normal-Despite-Signs-of-Oversupply.html",
@@ -38,34 +62,10 @@
       "date": "Tue, 10 Nov 2026 16:00:00 -0600"
     },
     {
-      "title": "API Shows Sharp Build in US Crude Oil, Distillate Inventories",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/API-Shows-Sharp-Build-in-US-Crude-Oil-Distillate-Inventories.html",
-      "source": "OilPrice",
-      "date": "Tue, 10 Nov 2026 15:59:00 -0600"
-    },
-    {
       "title": "American Barrick files for proposed IPO",
       "link": "https://www.mining.com/american-barrick-files-for-proposed-ipo/",
       "source": "mining.com",
       "date": "Tue, 10 Nov 2026 21:30:28 +0000"
-    },
-    {
-      "title": "Houthis Launch Another Attack on Pumping Stations Along Crucial Saudi East-West",
-      "link": "https://oilprice.com/Energy/Energy-General/Houthis-Launch-Another-Attack-on-Pumping-Stations-Along-Crucial-Saudi-East-West.html",
-      "source": "OilPrice",
-      "date": "Tue, 10 Nov 2026 15:00:00 -0600"
-    },
-    {
-      "title": "British Airways Owner Warns Green Fuel Mandates Could Kill European Aviation",
-      "link": "https://oilprice.com/Energy/Energy-General/British-Airways-Owner-Warns-Green-Fuel-Mandates-Could-Kill-European-Aviation.html",
-      "source": "OilPrice",
-      "date": "Tue, 10 Nov 2026 14:00:00 -0600"
-    },
-    {
-      "title": "Turkey Wants COP31 to Focus on Electrification Instead of Fossil Fuel Cuts",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Turkey-Wants-COP31-to-Focus-on-Electrification-Instead-of-Fossil-Fuel-Cuts.html",
-      "source": "OilPrice",
-      "date": "Tue, 10 Nov 2026 13:30:00 -0600"
     },
     {
       "title": "Market volatility adds new hurdle to critical minerals investment: report",

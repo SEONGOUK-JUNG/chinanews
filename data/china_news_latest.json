@@ -1,21 +1,51 @@
 {
-  "run_at_kst": "2026-11-11T14:10:03+09:00",
+  "run_at_kst": "2026-11-11T20:10:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "인하대, 중국 계림서 GBLA 한·중 경제·역사 연계 교육 진행",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sa1pXTFVtXzdFX216cG9ZQVQ4YXFVM0xXSnlNWUdNcWlpRnVFOENyZE9yRzhzT2pyUzdIdTRvUHJ1MWlQdkc5bXA0Y2JwMVVkQm1GZG10Qy13RllQUmk1VkNBRXJhWG8?oc=5",
+      "source": "교수신문",
+      "date": "Wed, 11 Nov 2026 09:19:15 GMT"
+    },
+    {
+      "title": "인하대, GBLA 중국 계림서 한·중 경제·역사 연계 교육",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3NWMyUkhoSHl1c3prbldkR1Zva1BqLWs3ZU9DQnY2SndmTkpwWW1tS04zU2NqSFF0QndWR196Y25vbEphbVRaWElLblV1QlJrWlpBd2FVbXRvZEhjaGlUanluNFJXc3hIWlhndGh3?oc=5",
+      "source": "전국매일신문",
+      "date": "Wed, 11 Nov 2026 08:48:21 GMT"
+    },
+    {
+      "title": "세계한상대회 경제교류, 중국 상하이로 확대…기업 상담 138건 성과",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlYjY2OWp5ZUd6Qkd0YlEwb20xLU5kTjBwTVFPWVBfeEJ0aEVmR2t6dG5hYmZlWDRSNUIyMHFTdjd0TDhiYWVfVjJtcklPSGVwYkNVbWRneDNXTG5WWFFXSmtoRndqYXNza0E3Q2ZB?oc=5",
+      "source": "뉴스코리아",
+      "date": "Wed, 11 Nov 2026 07:53:27 GMT"
+    },
+    {
+      "title": "구미시, 중국시장 공략·경제협력망 구축...글로벌 산업도시 도약 시동",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xVHJGRWQwbksxUUM0eGZoWDc3MElSdEpLN3d1R09IaXhrWk9MRTVaaU9UNmc5ekR0bXRQXzRRQkIyb21Pd3VWUGNwSm5qWjR2QzVvZzZ1WnpoaDZBc3lmSjg4Q2FhMVpJeGNz?oc=5",
+      "source": "프레시안",
+      "date": "Wed, 11 Nov 2026 07:20:23 GMT"
+    },
+    {
+      "title": "세계한상 경제교류, 중국 상하이서도 이어간다…한중 기업 협력 확대",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kYnVidHVLSU4yZUQ0T2ROQ0pPMm9sOXluc0J4NW5VLXFyX3lzVFR4YXFYc0NRY3Q5Rk5KemFYYzlEYjlOb3R0YnRWYy1fdEUxWXZTQ1NVaGNjYWIzSXBMZE0xVGhNUXVSRE1n?oc=5",
+      "source": "세계한인신문",
+      "date": "Wed, 11 Nov 2026 06:34:07 GMT"
+    },
+    {
+      "title": "인천항, 중국 르자오항과 새 바닷길 열었다",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tck9KNERMaGpBSjNtYWxTREc2U09QZHZJM1dLWGlMUzQ2RWRUZ3RxWVVZZ2lpM1dpRnczVE1yX3pfc1E4eDRzaGM1VV8tTm5CdHFER1dCZldHOUJjOGswZ1prak1BdXlvb2NpTTdxMA?oc=5",
+      "source": "기호일보",
+      "date": "Wed, 11 Nov 2026 05:24:44 GMT"
+    },
+    {
       "title": "글로벌 수출 '중국 싹쓸이' 심화, 무역 전쟁 위기감도 고조",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZdzlYOXVRU2pkMU04MXBBTEtKeDF6Q2J3YnVpSVZ5ajllczJsMFJIOVpXczJ0VXpmZS15ZFIzOUk2cXdNaEVwZ0NpYXF6MEVWbC1XaUV5bEpyclhiNUpxeC03QnRUNHRqR3ZITnExbw?oc=5",
       "source": "이코리아",
       "date": "Wed, 11 Nov 2026 04:31:35 GMT"
-    },
-    {
-      "title": "[경제] 6일간의 대장정 마무리...'제9회 중국국제수입박람회' 폐막",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qeXUtZ3RUSU5uWUFRVWk4bDZ4SFJjTlpmZ3hoc2tjYUNXckFFblU0RWVvQWxvd0NybHdpTHJIakVoamMtbmNsemJlVWFDSG4zMDRCR00yUVhpdm1xWWZvVFVfTk1DWVp1MjZBY1Y0VTZGUlE?oc=5",
-      "source": "동방일보",
-      "date": "Wed, 11 Nov 2026 03:57:37 GMT"
     },
     {
       "title": "[APEC 도시 선전 미리 가보니] APEC 정상들이 보게될 미래, 천지개벽 선전",
@@ -30,40 +60,10 @@
       "date": "Wed, 11 Nov 2026 02:59:24 GMT"
     },
     {
-      "title": "\"앨리스 황, 中 증시규정 위반 금융인과 오랜 동업·연인\"",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5dVc0UWZiSVRRLVhqZTV2bUpFNThkVGMyd2h3TFBldXpOUGtoSVVwMnpEUVVhcHpWaWdlX1F2bXpvekItYWFQOWl3WEdzaFBlb0RtVEVMV0RuSlFRYlVDVVV2UFVJcDRfNFpjctIBcEFVX3lxTE9VR0pxanMxaDhfR215TjFxMFNvczFMTHNRUlBzOVRsUTVsT1l0UHNxM0wzR0otYXZlM0lZZWpGY04waXFGTmFCTEFsb2pKRUo1d0hNekk3Z0ZKMTdCck9TVzRGVGhhWTJLTkJFMTZFNFI?oc=5",
-      "source": "미디어제주",
-      "date": "Wed, 11 Nov 2026 01:47:58 GMT"
-    },
-    {
-      "title": "“젠슨 황, 불륜女에 당했나”…오랜 연인과 AI칩 10조원 우회 공급 의혹",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBucW4yUFB6bFEwX19WWk5XQXM3X1c4dS1pS3pjSHdhN29ieXJNakxNM25SbFVFeXFsZVdqQjc2MVFnS0RoUXd0bHNELVZFREpKSVgtZnJBMktIM05qMFRBYzBn?oc=5",
-      "source": "에너지경제신문",
-      "date": "Wed, 11 Nov 2026 01:22:23 GMT"
-    },
-    {
       "title": "인하대, GBLA 중국 계림서 한·중 경제·역사 연계 교육",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wUXRNZXJ2U0JjbTh4ZUMtMTRKWU84elBubTJMS2Q2Qm5RanlKN1hINDJtbjhaWENBdE9TY0RrZTM0di0tQ1JkVEVpNEpxNldUX0JaM0wwNWtYbGxKRDc5R3ZR?oc=5",
       "source": "경기신문",
       "date": "Wed, 11 Nov 2026 00:49:19 GMT"
-    },
-    {
-      "title": "인하대, GBLA 중국 계림서 한·중 경제·역사 연계 교육",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5udWRKTmx2X0VKbUZQdDNmUUxSbkxJUlNUWDZSSThuaW5FVDA0UmUwUDVPeWR1SkZ5MUlvSDNicDIwN3owXzdPNktJV1dSSU84d2JoVmItbTg0N2ZjaVlNMzlmX01BbWV4SUpvUw?oc=5",
-      "source": "https://www.climatepol.com/",
-      "date": "Tue, 10 Nov 2026 23:45:38 GMT"
-    },
-    {
-      "title": "[한일경제연대] “중국 규모에 대응하기 위해 한일 조선산업 생태계가 협력해야”",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jcjRsWEFBc29Vc1EySFRRT3lZdkMwNm1ueG1EMTcwVGZUVEZMV2tMQ0ZVeVI1U3RuQVR6SEJwajI3WmlaVkliU3NJQ3Vxc05BM0ZlalNkekZuMnV6NUFWdmVsR0ZHaHBnYk1zNw?oc=5",
-      "source": "월간조선",
-      "date": "Tue, 10 Nov 2026 18:08:36 GMT"
-    },
-    {
-      "title": "미국 국방부, 우시앱텍 중국군사기업 지정 철회",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ILUtDdnVjZEhTQUdiRkQ2TjJIMzFaa0JISDFJMUcwZmlRUlVxXzNwSy1OV21MaGRoNDFoVmRaV05KZktuMDRYUnpFTnJKNVhVbnVyWFdmT1A3d0NHd3RHNTdrMlE?oc=5",
-      "source": "매일일보",
-      "date": "Tue, 10 Nov 2026 15:16:48 GMT"
     },
     {
       "title": "한국 - 중국, 경제·통상 분야 적극 협력! - 전체 | 카드/한컷 | 멀티미디어",
