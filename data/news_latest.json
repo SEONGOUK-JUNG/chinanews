@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-12T10:10:03+09:00",
+  "run_at_kst": "2026-11-12T20:10:04+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "China Targets Global Gas Turbine Market as AI Power Demand Explodes",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Targets-Global-Gas-Turbine-Market-as-AI-Power-Demand-Explodes.html",
+      "source": "OilPrice",
+      "date": "Thu, 12 Nov 2026 04:00:00 -0600"
+    },
+    {
+      "title": "Asian Oil Buyers Turn to Africa and Brazil as Tanker Rates Plunge",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Asian-Oil-Buyers-Turn-to-Africa-and-Brazil-as-Tanker-Rates-Plunge.html",
+      "source": "OilPrice",
+      "date": "Thu, 12 Nov 2026 02:30:00 -0600"
+    },
+    {
+      "title": "ASEAN Moves to Build Emergency Oil Reserves Amid Iran Supply Crisis",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/ASEAN-Moves-to-Build-Emergency-Oil-Reserves-Amid-Iran-Supply-Crisis.html",
+      "source": "OilPrice",
+      "date": "Thu, 12 Nov 2026 01:30:00 -0600"
+    },
+    {
+      "title": "Oil Prices Sink as Iran and Ukraine Peace Optimism Builds",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Sink-as-Iran-and-Ukraine-Peace-Optimism-Builds.html",
+      "source": "OilPrice",
+      "date": "Thu, 12 Nov 2026 00:35:00 -0600"
+    },
     {
       "title": "Who Will Buy Sable’s Oil if California Keeps Closing Refineries?",
       "link": "https://oilprice.com/Energy/Crude-Oil/Who-Will-Buy-Sables-Oil-if-California-Keeps-Closing-Refineries.html",
@@ -30,30 +54,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/Quantum-Computing-Is-Being-Pitched-as-the-Fix-for-AIs-Runaway-Power-Appetite.html",
       "source": "OilPrice",
       "date": "Wed, 11 Nov 2026 16:00:00 -0600"
-    },
-    {
-      "title": "Yttrium's 125-Fold Price Gap Looms Over Trump-Xi Talks in Shenzhen",
-      "link": "https://oilprice.com/Metals/Commodities/Yttriums-125-Fold-Price-Gap-Looms-Over-Trump-Xi-Talks-in-Shenzhen.html",
-      "source": "OilPrice",
-      "date": "Wed, 11 Nov 2026 15:00:00 -0600"
-    },
-    {
-      "title": "Burnham Heads to COP31 Torn Between Cheaper Power and Net Zero",
-      "link": "https://oilprice.com/Energy/Energy-General/Burnham-Heads-to-COP31-Torn-Between-Cheaper-Power-and-Net-Zero.html",
-      "source": "OilPrice",
-      "date": "Wed, 11 Nov 2026 14:00:00 -0600"
-    },
-    {
-      "title": "Murphy Oil Draws Boycott Call Over Israeli Gas Licenses",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Murphy-Oil-Draws-Boycott-Call-Over-Israeli-Gas-Licenses.html",
-      "source": "OilPrice",
-      "date": "Wed, 11 Nov 2026 13:30:00 -0600"
-    },
-    {
-      "title": "China Expands Its Central Asian Footprint Through Aviation, Energy, and Trade",
-      "link": "https://oilprice.com/Energy/Energy-General/China-Expands-Its-Central-Asian-Footprint-Through-Aviation-Energy-and-Trade.html",
-      "source": "OilPrice",
-      "date": "Wed, 11 Nov 2026 13:00:00 -0600"
     },
     {
       "title": "Minerals 260 lines up A$410M for gold project",

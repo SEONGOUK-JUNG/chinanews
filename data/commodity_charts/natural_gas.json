@@ -2,8 +2,8 @@
   "id": "natural_gas",
   "name": "천연가스",
   "unit": "CNY/t",
-  "updated_at_kst": "2026-11-11T20:10:58+09:00",
-  "count": 149,
+  "updated_at_kst": "2026-11-12T20:10:52+09:00",
+  "count": 150,
   "candles": [
     {
       "time": "2025-01-01",
@@ -600,6 +600,10 @@
     {
       "time": "2026-11-11",
       "value": 7041.03
+    },
+    {
+      "time": "2026-11-12",
+      "value": 7037.03
     }
   ],
   "history_note": "Pre-2026-05: monthly observations (month-start/end). From late May 2026: daily.",

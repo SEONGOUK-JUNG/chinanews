@@ -1,39 +1,45 @@
 {
-  "run_at_kst": "2026-11-12T14:10:06+09:00",
+  "run_at_kst": "2026-11-12T20:10:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "[올댓차이나] 인민은행, 내수·기술혁신 금융지원 확대…경기 대응 강화",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QdVlNWDFlTWdseVAycVpFbV8wVmhaaFVJQm9Id0pjODRseGtHYUFzZ0YwcTdkSWc3ajBpeHBIV2NORG5QZUZ2aUJxcVFKXzZYYTA4UjFZMFlpUTQ2VGJvTdIBeEFVX3lxTE1Xa0h4MnVjQnZMeVRSNHhnMEpJX0FrQkNWTEJFcHM3Mnp3YkJRd01aSHYyc1Bvb0xuQTA3OHprcElEa2xLb01laVB5VmVwZ25LWE5fUkZtWC1mSFhQUnRqb1FSTzdYVklCUEg1R1pPZkNNLVEyaTBsMA?oc=5",
-      "source": "뉴시스",
-      "date": "Thu, 12 Nov 2026 03:25:57 GMT"
+      "title": "남양주시, 중국 자매도시 창저우시 방문… 체육·경제 교류 확대",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xcV9XbXVadU15VS1GZnZpVUhmTWtybXc2UXNXTG5JTkhDdHpwRHVNQ0lnNGZ0Y0MwS0x1VzUxcWViZm11dVZWU1J4LXRscXU5QWZSOXRFR25PaUFuMjFzWXRGR0hJVS1PN0x6SmJIVGdHcm8?oc=5",
+      "source": "동방일보",
+      "date": "Thu, 12 Nov 2026 10:50:46 GMT"
     },
     {
-      "title": "젠슨 황 불륜녀 앨리스 황 중국 베이징 체류중",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtVTdXS1BBcG52bUtoT1pKdDZjcHVpdWFISThkY1dibUFLNURBWTZCZjhmRm5TS0hlQWdJd25sd3REYzdaQ1Z0YlB2cWtHQmY0Q283N3RwV2JHQdIBWEFVX3lxTE5sNlpjaXh3VUE5UHpUVV9IWWlMNHBURm9VcG14OVdLQm1oeFVQQmN1YVRpRlFNbUI3N19RSmJlNlptanJlSndZX25DVVEyMm1zalQzQUhlcXM?oc=5",
-      "source": "아주경제",
-      "date": "Thu, 12 Nov 2026 02:45:05 GMT"
+      "title": "의정부시, 중국 단둥시와 자매결연 30주년···경제·체육·문화 교류 확대",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGNlFTNnFZTGlib2tNZkl5cC10ZVNzcjVBUzFuMzdHOUJwTVE0NzUwZWpITF9EY00yaFY1eWdKdHlkWmY3T3pzSFI0STY3NGp0RzRLZ3piTU13dWozSXIyeHNZbERaM3Ew?oc=5",
+      "source": "경인매일",
+      "date": "Thu, 12 Nov 2026 08:09:34 GMT"
     },
     {
-      "title": "[헤럴드광장] 중국車 보안 논란…‘지경학적 위험’ 따져야",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1laFY3MDFfRjZtb0ZGVGlOaUxON0tpa19qWDlXSXVLOHJReWRnQUVuVG5XMzlUZllWOHhwUHJ3N3Y4T2c0V3BHSC10eW9LdWlpSnVDdzZn?oc=5",
-      "source": "헤럴드경제",
-      "date": "Thu, 12 Nov 2026 02:21:13 GMT"
+      "title": "CIIE에 모인 글로벌 기업들, 말 대신 ‘실제 투자’로 중국 시장에 베팅",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xUHFhS0JZRkk0aTY0QXlsdzVnaElJYTh0LUdqMjdkQmcxQ0pBbWgwcExFMFdMZE5zLWk5WFdiUHhhWWpGQnZxLUdUbkNfS096XzM3VGJn?oc=5",
+      "source": "중앙일보",
+      "date": "Thu, 12 Nov 2026 07:45:48 GMT"
     },
     {
-      "title": "“대만은 중국 땅” 발언 후폭풍…말레이 반도체 ‘비상’",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tdTh4V2hpVTd1NGhaWUdsR0ZWeURtcm1LcXhYc1BYZkY2OVBOWEFsalptLWRvQjRmZVpiZXppZzlfTW40Y183dWp0X0czQl9EN2c?oc=5",
-      "source": "매일경제",
-      "date": "Thu, 12 Nov 2026 01:50:18 GMT"
+      "title": "의정부시, 중국 단둥시와 자매결연 30주년…경제·체육·문화 교류 확대",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZYi02RHRMWVhxV0V1d2owNzZyMWhGelFUdzF1NldycWFPT0YwbzRWWXl2X3I2cktSb0FqVUhpSTNvSWJsSGZlelBUUDNCOUVOT085SnhYV1JoMS0wbnlNcHZhcWRQTTBVaVFFMQ?oc=5",
+      "source": "파이낸스투데이",
+      "date": "Thu, 12 Nov 2026 06:50:59 GMT"
     },
     {
-      "title": "李대통령, 16∼19일 아세안·APEC 참석…필리핀·중국 순방",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPOENkOHRvaEVWVzl3RTlNRzU3TEhnUHZCTzVhZEVhVXBmRUlBb0t4Nk9BQjJROFdBWFU2RTFPSlZKZW1DSFpXckJBUjZwVWpBVE1JVUtVODVYQ3IzTUtIOQ?oc=5",
-      "source": "KBC광주방송",
-      "date": "Thu, 12 Nov 2026 01:30:09 GMT"
+      "title": "[국제] 세계 전문가, 파리평화포럼서 中의 글로벌 영향력 조명",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vYWNoUDEwS1lUWDF6Tnp3dXNFN3V6S3lEM09rSFU0SVNtRGtJTWxZdHppR282QnFMdmlWc0ZGbVRKSXJ1dmZqLW1XWmNpTVdkYmdPUkFqLV9XV19EYkxqY0dSYXdLTVNwSkQ4?oc=5",
+      "source": "서울뉴스통신",
+      "date": "Thu, 12 Nov 2026 05:25:56 GMT"
+    },
+    {
+      "title": "[중국 뉴스 브리핑] 2026년 11월 12일",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02NHZ6bDh6RnI1OGJ0WkpGY09MVnVjQ0N6c0VuS25Qc0ZyUktBVXJBVnlmenotM0pDbEQxNmRMeF81WktCQlJHc0JKWkRIaVRacmZGck9COTRRWXdTd1ZsLVlmeXJ1MnV0blE?oc=5",
+      "source": "인민망",
+      "date": "Thu, 12 Nov 2026 02:39:00 GMT"
     },
     {
       "title": "이 대통령, 16일부터 필리핀·중국 순방…아세안·APEC 참석",
@@ -42,28 +48,22 @@
       "date": "Thu, 12 Nov 2026 01:25:00 GMT"
     },
     {
-      "title": "“美 - 中 전면대립은 파괴 불러… 통제된 경쟁해야”[차이나 쇼크 3.0]",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiT1Y5cTlEaWc1OUJvVnhCc2VvVEdqT1Q1RndxSDIwT3ZBUnRFNXo0cEJBdjRHYUpueWV1LUx4dExaUDgzQXRDSXU4SkM1dTdP?oc=5",
-      "source": "문화일보",
-      "date": "Thu, 12 Nov 2026 00:44:09 GMT"
-    },
-    {
       "title": "인천항-중국 르자오항 컨테이너 신규 항로 개설",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVNGhEaDBRQ2JRM1FzN2hMc3BONzZwU3hXNEQwWTdzZk5hRXNfUzF5bjRQdWppVkNMSzJfclNHTEdPdTJKSGlpdzd4bXZlRW9SNHNuSFVpT0M3NXpyTFlmRlJBNVjSAWhBVV95cUxNTEl2aUtMMFIwWlJ0M2duV3FJLWp1OUlxSG5TbWxRLW1qbU1RMFh2U09vMHFJZUk2WFNYeW5vbTc2UUE5dUlLLXFabmZadWZMUkNhSmVvdzhVV2g1Wl95dEpWWEozc29tZA?oc=5",
       "source": "경인방송 뉴스",
       "date": "Wed, 11 Nov 2026 23:49:47 GMT"
     },
     {
+      "title": "중국 주요 경제지표 발표 임박…내수 부진 돌파구?",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtR2VQM1BmQ0U3TFdvVm04d3gtN1Rfa2JuZ1lqTFFrSVB6Q1RqSmtNTl9RQko1bENVWkJ2aDc4bEkxMjNsTkMzVVZ4ZWpIaHJzWkVwaDEzTndDRUZxWWJHbDdkZEwyc0tSUzFCQmI5RdIBc0FVX3lxTFBiQTBabThHdVhuWWlrakxfcTBZSWVvNVFDMzZHeW9ZZEtLWGI2MWlEdFBPQU5pUEtCUkhBMlJNTEJPdFpkRkJ0SkZtRGJ5QUQ3WHRxS2J4Q09vSWNNZVhOMjAzWV9UYUhJeWU4MTBUR1lSb1U?oc=5",
+      "source": "초이스경제",
+      "date": "Wed, 11 Nov 2026 23:28:48 GMT"
+    },
+    {
       "title": "5중 전회, 전면적 종엄치당 추진…정치가 경제 지배할 듯 [조평규의 중국 본색]",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQVzlnMHNyOWpWbFJBTVo4XzRVVmtmUHRBX1Z2LWdsSDBfcWhKZllRTVJ4TzItSnJnZERlSEF4VEUzSXZmMXl5ZVRubUhxM2tjZGViVGs4V1lWZw?oc=5",
       "source": "한국경제",
       "date": "Wed, 11 Nov 2026 21:30:04 GMT"
-    },
-    {
-      "title": "인하대, 중국 계림서 GBLA 한·중 경제·역사 연계 교육 진행",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sa1pXTFVtXzdFX216cG9ZQVQ4YXFVM0xXSnlNWUdNcWlpRnVFOENyZE9yRzhzT2pyUzdIdTRvUHJ1MWlQdkc5bXA0Y2JwMVVkQm1GZG10Qy13RllQUmk1VkNBRXJhWG8?oc=5",
-      "source": "교수신문",
-      "date": "Wed, 11 Nov 2026 09:19:15 GMT"
     },
     {
       "title": "블룸버그, 중국 ‘세계 지배보다 질서’ 진단…20조달러 경제의 빈곤 역설",
