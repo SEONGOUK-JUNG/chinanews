@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-11-12T20:10:04+09:00",
+  "run_at_kst": "2026-11-13T07:20:02+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "세계한상대회 경제교류, 중국 상하이서도 이어간다",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14RHNLd2N3czNfeXhEZDZaNzIwakozZlB5WUxBTUtWemVtZEJGdHdrenJHelFYd1JSWmJiNm5VcDJlcVYyZ3ZPSDg0aFBMVEd6cEdWMG1kbWdMeUlQRnotLTJVby0yMlZx?oc=5",
+      "source": "아세안익스프레스",
+      "date": "Thu, 12 Nov 2026 21:50:59 GMT"
+    },
     {
       "title": "남양주시, 중국 자매도시 창저우시 방문… 체육·경제 교류 확대",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xcV9XbXVadU15VS1GZnZpVUhmTWtybXc2UXNXTG5JTkhDdHpwRHVNQ0lnNGZ0Y0MwS0x1VzUxcWViZm11dVZWU1J4LXRscXU5QWZSOXRFR25PaUFuMjFzWXRGR0hJVS1PN0x6SmJIVGdHcm8?oc=5",
@@ -12,46 +18,10 @@
       "date": "Thu, 12 Nov 2026 10:50:46 GMT"
     },
     {
-      "title": "의정부시, 중국 단둥시와 자매결연 30주년···경제·체육·문화 교류 확대",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGNlFTNnFZTGlib2tNZkl5cC10ZVNzcjVBUzFuMzdHOUJwTVE0NzUwZWpITF9EY00yaFY1eWdKdHlkWmY3T3pzSFI0STY3NGp0RzRLZ3piTU13dWozSXIyeHNZbERaM3Ew?oc=5",
-      "source": "경인매일",
-      "date": "Thu, 12 Nov 2026 08:09:34 GMT"
-    },
-    {
       "title": "CIIE에 모인 글로벌 기업들, 말 대신 ‘실제 투자’로 중국 시장에 베팅",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xUHFhS0JZRkk0aTY0QXlsdzVnaElJYTh0LUdqMjdkQmcxQ0pBbWgwcExFMFdMZE5zLWk5WFdiUHhhWWpGQnZxLUdUbkNfS096XzM3VGJn?oc=5",
       "source": "중앙일보",
       "date": "Thu, 12 Nov 2026 07:45:48 GMT"
-    },
-    {
-      "title": "의정부시, 중국 단둥시와 자매결연 30주년…경제·체육·문화 교류 확대",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZYi02RHRMWVhxV0V1d2owNzZyMWhGelFUdzF1NldycWFPT0YwbzRWWXl2X3I2cktSb0FqVUhpSTNvSWJsSGZlelBUUDNCOUVOT085SnhYV1JoMS0wbnlNcHZhcWRQTTBVaVFFMQ?oc=5",
-      "source": "파이낸스투데이",
-      "date": "Thu, 12 Nov 2026 06:50:59 GMT"
-    },
-    {
-      "title": "[국제] 세계 전문가, 파리평화포럼서 中의 글로벌 영향력 조명",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vYWNoUDEwS1lUWDF6Tnp3dXNFN3V6S3lEM09rSFU0SVNtRGtJTWxZdHppR282QnFMdmlWc0ZGbVRKSXJ1dmZqLW1XWmNpTVdkYmdPUkFqLV9XV19EYkxqY0dSYXdLTVNwSkQ4?oc=5",
-      "source": "서울뉴스통신",
-      "date": "Thu, 12 Nov 2026 05:25:56 GMT"
-    },
-    {
-      "title": "[중국 뉴스 브리핑] 2026년 11월 12일",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02NHZ6bDh6RnI1OGJ0WkpGY09MVnVjQ0N6c0VuS25Qc0ZyUktBVXJBVnlmenotM0pDbEQxNmRMeF81WktCQlJHc0JKWkRIaVRacmZGck9COTRRWXdTd1ZsLVlmeXJ1MnV0blE?oc=5",
-      "source": "인민망",
-      "date": "Thu, 12 Nov 2026 02:39:00 GMT"
-    },
-    {
-      "title": "이 대통령, 16일부터 필리핀·중국 순방…아세안·APEC 참석",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wdVlQbjZCU3cxUnAtRTBGemxKNlc0OVBKdU9ra3MzVE5HYnJKbWljaUdTSXkzRzZCUTI0N25iT1RXNGlJR0FNX2hpeFllZ3pJMVJ4MQ?oc=5",
-      "source": "JTBC",
-      "date": "Thu, 12 Nov 2026 01:25:00 GMT"
-    },
-    {
-      "title": "인천항-중국 르자오항 컨테이너 신규 항로 개설",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVNGhEaDBRQ2JRM1FzN2hMc3BONzZwU3hXNEQwWTdzZk5hRXNfUzF5bjRQdWppVkNMSzJfclNHTEdPdTJKSGlpdzd4bXZlRW9SNHNuSFVpT0M3NXpyTFlmRlJBNVjSAWhBVV95cUxNTEl2aUtMMFIwWlJ0M2duV3FJLWp1OUlxSG5TbWxRLW1qbU1RMFh2U09vMHFJZUk2WFNYeW5vbTc2UUE5dUlLLXFabmZadWZMUkNhSmVvdzhVV2g1Wl95dEpWWEozc29tZA?oc=5",
-      "source": "경인방송 뉴스",
-      "date": "Wed, 11 Nov 2026 23:49:47 GMT"
     },
     {
       "title": "중국 주요 경제지표 발표 임박…내수 부진 돌파구?",
@@ -66,16 +36,46 @@
       "date": "Wed, 11 Nov 2026 21:30:04 GMT"
     },
     {
+      "title": "인하대, 중국 계림서 GBLA 한·중 경제·역사 연계 교육 진행",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sa1pXTFVtXzdFX216cG9ZQVQ4YXFVM0xXSnlNWUdNcWlpRnVFOENyZE9yRzhzT2pyUzdIdTRvUHJ1MWlQdkc5bXA0Y2JwMVVkQm1GZG10Qy13RllQUmk1VkNBRXJhWG8?oc=5",
+      "source": "교수신문",
+      "date": "Wed, 11 Nov 2026 09:19:15 GMT"
+    },
+    {
+      "title": "중국 무역흑자 1조 달러 돌파…AI 반도체 수출 급증에 역대 최대 전망",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SVjMyZ0dzM3RnODduNm1ibjhyc0lhWmRPcVNPcTNNTzQxOEhCcWV5T09ST280THFNYnBuRXB5YWVUUnVEQnVtYzRRNmNpSUlZZnkyU0RxM2VLSEdjbU13?oc=5",
+      "source": "헬로티",
+      "date": "Wed, 11 Nov 2026 05:13:36 GMT"
+    },
+    {
       "title": "블룸버그, 중국 ‘세계 지배보다 질서’ 진단…20조달러 경제의 빈곤 역설",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NcGJNMkluQy1HWm8tS19vc3dqTExTZkJ3U0xNaFB1V3JxbnpYVHpmRTBYMjZRUWhBak1JTkNVcXJTX0F6YXNLRlFQWVc5N2RheVlZYTFLaWxDc2paLWFCZEZYU2xWeUhSeFNxNzFR?oc=5",
       "source": "아시아투데이",
       "date": "Wed, 11 Nov 2026 02:59:24 GMT"
     },
     {
+      "title": "인하대, GBLA 중국 계림서 한·중 경제·역사 연계 교육",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wUXRNZXJ2U0JjbTh4ZUMtMTRKWU84elBubTJMS2Q2Qm5RanlKN1hINDJtbjhaWENBdE9TY0RrZTM0di0tQ1JkVEVpNEpxNldUX0JaM0wwNWtYbGxKRDc5R3ZR?oc=5",
+      "source": "경기신문",
+      "date": "Wed, 11 Nov 2026 00:49:19 GMT"
+    },
+    {
+      "title": "중국 생산자물가 5.7% 상승, 2022년 6월 이후 최고치",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNLXVsNVRWT3JHOEdYN1JoWGVfeWh4TGJkVGVTelhMZ1l6LTFOc3BqcGlUQ19fVVY5dGgyZ3hyVFQzWU94aTlZU2thUWpxSU9Oc0RIUnViWG9UdFd2T05Tdm5JYnFFWFBYSV83elMxdmhfNER6ZnRZakd1ZXVnR09aWWJSd1NNMXVuYjRBTXR3alNURTVBZk52LXlqN0N1dzRZUk83UWtKd2RfNUdLOHBqNDNIRnIybzFDdjc1UHpLZV9vNkZpcUN0NWxiMVA2NmNNSG55d2h2b3VDRVJmbF8tX284NkFhd0VSSnZocndKQkRvclVtdE1VUWhrVkNQTFo1bWNGT3ZDWnN3bWpkeURkU3VsS0FuUVNvRkU2RlB2WEpnR2RmZ3BrTnFscw?oc=5",
+      "source": "IDNFinancials",
+      "date": "Mon, 09 Nov 2026 12:20:00 GMT"
+    },
+    {
       "title": "AI 붐에 수출 증대 … 중국 경제 성장세 가속화",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtNUZqQWFQc3g0WllieGV3dUJ6VUpVcmNfR2RsY3ZxNlo5TGRTTFBNRlBhQjhHLVdCaEdfSXM4bUpEaGpsY3RPRTBqQVM2ek1IMDV4LUtyNWcxXzJoRXfSAWNBVV95cUxQX2FDdGRvdHBNeTJOWXk5YWtxekYzZHdjTFBRbEhERURFek9YRTBkam96WGZVUlo3RTRKRGptZGlid1pucTZDMWRDMEdpcGpMTk9sWURmLWZ0QWVsNGZ4Z0pwY3M?oc=5",
       "source": "BBC",
       "date": "Mon, 19 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "中학자 \"중국 2035년까지 연 4.6% 성장…수출 주도 지속 불가능\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXTkRpSWw2YzE3RWpGa1BEbjBFN2o3U3B2bnBvd1FhVUJHY0V0Y1dENGNGeFRPejF6UVZiT3cyUkYwYlV2dnR6RG9ZQ1FIVEk2VENGbUtrbVc5Y03SAWBBVV95cUxOVHdTMXJOc0tIRzl0cWlpb1hIN0RGMjZXN0xFN1lwRGktLXNvVHI5R2gwZlQtSy1ReWpiNVY3T2lSTnJwXzY2MkxNTThSTVVIWC1WNHZJMXRYZ25GS0huRVQ?oc=5",
+      "source": "연합뉴스",
+      "date": "Wed, 30 Sep 2026 07:00:00 GMT"
     }
   ]
 }
