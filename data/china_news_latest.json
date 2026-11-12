@@ -1,27 +1,57 @@
 {
-  "run_at_kst": "2026-11-12T10:10:03+09:00",
+  "run_at_kst": "2026-11-12T14:10:06+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "미중 외교수장, APEC 앞두고 통화…양국 관계·정상간 교류 논의",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vdzBWM1pYVEN5U1l5V3hSRFhCcV81T0FfS1RPMER5anFyenRHTEVBczdmVjREN0hOb2Z2LVJ4YXpxTWxpTFFRd1c5OUc2ZVFKSUd5RGE3ZC1LMlJsNTZTQmtrdFBGZXFJU2l3UHJySzh3NzND?oc=5",
-      "source": "연합뉴스 한민족센터",
-      "date": "Wed, 11 Nov 2026 23:58:17 GMT"
+      "title": "[올댓차이나] 인민은행, 내수·기술혁신 금융지원 확대…경기 대응 강화",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QdVlNWDFlTWdseVAycVpFbV8wVmhaaFVJQm9Id0pjODRseGtHYUFzZ0YwcTdkSWc3ajBpeHBIV2NORG5QZUZ2aUJxcVFKXzZYYTA4UjFZMFlpUTQ2VGJvTdIBeEFVX3lxTE1Xa0h4MnVjQnZMeVRSNHhnMEpJX0FrQkNWTEJFcHM3Mnp3YkJRd01aSHYyc1Bvb0xuQTA3OHprcElEa2xLb01laVB5VmVwZ25LWE5fUkZtWC1mSFhQUnRqb1FSTzdYVklCUEg1R1pPZkNNLVEyaTBsMA?oc=5",
+      "source": "뉴시스",
+      "date": "Thu, 12 Nov 2026 03:25:57 GMT"
+    },
+    {
+      "title": "젠슨 황 불륜녀 앨리스 황 중국 베이징 체류중",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtVTdXS1BBcG52bUtoT1pKdDZjcHVpdWFISThkY1dibUFLNURBWTZCZjhmRm5TS0hlQWdJd25sd3REYzdaQ1Z0YlB2cWtHQmY0Q283N3RwV2JHQdIBWEFVX3lxTE5sNlpjaXh3VUE5UHpUVV9IWWlMNHBURm9VcG14OVdLQm1oeFVQQmN1YVRpRlFNbUI3N19RSmJlNlptanJlSndZX25DVVEyMm1zalQzQUhlcXM?oc=5",
+      "source": "아주경제",
+      "date": "Thu, 12 Nov 2026 02:45:05 GMT"
+    },
+    {
+      "title": "[헤럴드광장] 중국車 보안 논란…‘지경학적 위험’ 따져야",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1laFY3MDFfRjZtb0ZGVGlOaUxON0tpa19qWDlXSXVLOHJReWRnQUVuVG5XMzlUZllWOHhwUHJ3N3Y4T2c0V3BHSC10eW9LdWlpSnVDdzZn?oc=5",
+      "source": "헤럴드경제",
+      "date": "Thu, 12 Nov 2026 02:21:13 GMT"
+    },
+    {
+      "title": "“대만은 중국 땅” 발언 후폭풍…말레이 반도체 ‘비상’",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tdTh4V2hpVTd1NGhaWUdsR0ZWeURtcm1LcXhYc1BYZkY2OVBOWEFsalptLWRvQjRmZVpiZXppZzlfTW40Y183dWp0X0czQl9EN2c?oc=5",
+      "source": "매일경제",
+      "date": "Thu, 12 Nov 2026 01:50:18 GMT"
+    },
+    {
+      "title": "李대통령, 16∼19일 아세안·APEC 참석…필리핀·중국 순방",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPOENkOHRvaEVWVzl3RTlNRzU3TEhnUHZCTzVhZEVhVXBmRUlBb0t4Nk9BQjJROFdBWFU2RTFPSlZKZW1DSFpXckJBUjZwVWpBVE1JVUtVODVYQ3IzTUtIOQ?oc=5",
+      "source": "KBC광주방송",
+      "date": "Thu, 12 Nov 2026 01:30:09 GMT"
+    },
+    {
+      "title": "이 대통령, 16일부터 필리핀·중국 순방…아세안·APEC 참석",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wdVlQbjZCU3cxUnAtRTBGemxKNlc0OVBKdU9ra3MzVE5HYnJKbWljaUdTSXkzRzZCUTI0N25iT1RXNGlJR0FNX2hpeFllZ3pJMVJ4MQ?oc=5",
+      "source": "JTBC",
+      "date": "Thu, 12 Nov 2026 01:25:00 GMT"
+    },
+    {
+      "title": "“美 - 中 전면대립은 파괴 불러… 통제된 경쟁해야”[차이나 쇼크 3.0]",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiT1Y5cTlEaWc1OUJvVnhCc2VvVEdqT1Q1RndxSDIwT3ZBUnRFNXo0cEJBdjRHYUpueWV1LUx4dExaUDgzQXRDSXU4SkM1dTdP?oc=5",
+      "source": "문화일보",
+      "date": "Thu, 12 Nov 2026 00:44:09 GMT"
     },
     {
       "title": "인천항-중국 르자오항 컨테이너 신규 항로 개설",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVNGhEaDBRQ2JRM1FzN2hMc3BONzZwU3hXNEQwWTdzZk5hRXNfUzF5bjRQdWppVkNMSzJfclNHTEdPdTJKSGlpdzd4bXZlRW9SNHNuSFVpT0M3NXpyTFlmRlJBNVjSAWhBVV95cUxNTEl2aUtMMFIwWlJ0M2duV3FJLWp1OUlxSG5TbWxRLW1qbU1RMFh2U09vMHFJZUk2WFNYeW5vbTc2UUE5dUlLLXFabmZadWZMUkNhSmVvdzhVV2g1Wl95dEpWWEozc29tZA?oc=5",
       "source": "경인방송 뉴스",
       "date": "Wed, 11 Nov 2026 23:49:47 GMT"
-    },
-    {
-      "title": "남양주시 대표단, 중국 자매도시 창저우시 방문… 체육·경제 교류 확대 논의",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uMi1iZlp2djAtd2xzNDcxUkYxT0NOUmhldzFKaXBBOTlrSFNrbmg2VnZZYy02ekk0M0d4WVMyQTQzdm1lbXNqcnF1b1NYQy1R?oc=5",
-      "source": "문화일보",
-      "date": "Wed, 11 Nov 2026 21:58:32 GMT"
     },
     {
       "title": "5중 전회, 전면적 종엄치당 추진…정치가 경제 지배할 듯 [조평규의 중국 본색]",
@@ -34,36 +64,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sa1pXTFVtXzdFX216cG9ZQVQ4YXFVM0xXSnlNWUdNcWlpRnVFOENyZE9yRzhzT2pyUzdIdTRvUHJ1MWlQdkc5bXA0Y2JwMVVkQm1GZG10Qy13RllQUmk1VkNBRXJhWG8?oc=5",
       "source": "교수신문",
       "date": "Wed, 11 Nov 2026 09:19:15 GMT"
-    },
-    {
-      "title": "인하대, GBLA 중국 계림서 한·중 경제·역사 연계 교육",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3NWMyUkhoSHl1c3prbldkR1Zva1BqLWs3ZU9DQnY2SndmTkpwWW1tS04zU2NqSFF0QndWR196Y25vbEphbVRaWElLblV1QlJrWlpBd2FVbXRvZEhjaGlUanluNFJXc3hIWlhndGh3?oc=5",
-      "source": "전국매일신문",
-      "date": "Wed, 11 Nov 2026 08:48:21 GMT"
-    },
-    {
-      "title": "구미시, 중국시장 공략·경제협력망 구축...글로벌 산업도시 도약 시동",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xVHJGRWQwbksxUUM0eGZoWDc3MElSdEpLN3d1R09IaXhrWk9MRTVaaU9UNmc5ekR0bXRQXzRRQkIyb21Pd3VWUGNwSm5qWjR2QzVvZzZ1WnpoaDZBc3lmSjg4Q2FhMVpJeGNz?oc=5",
-      "source": "프레시안",
-      "date": "Wed, 11 Nov 2026 07:20:23 GMT"
-    },
-    {
-      "title": "세계한상 경제교류, 중국 상하이서도 이어간다…한중 기업 협력 확대",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kYnVidHVLSU4yZUQ0T2ROQ0pPMm9sOXluc0J4NW5VLXFyX3lzVFR4YXFYc0NRY3Q5Rk5KemFYYzlEYjlOb3R0YnRWYy1fdEUxWXZTQ1NVaGNjYWIzSXBMZE0xVGhNUXVSRE1n?oc=5",
-      "source": "세계한인신문",
-      "date": "Wed, 11 Nov 2026 06:34:07 GMT"
-    },
-    {
-      "title": "중국 무역흑자 1조 달러 돌파…AI 반도체 수출 급증에 역대 최대 전망",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SVjMyZ0dzM3RnODduNm1ibjhyc0lhWmRPcVNPcTNNTzQxOEhCcWV5T09ST280THFNYnBuRXB5YWVUUnVEQnVtYzRRNmNpSUlZZnkyU0RxM2VLSEdjbU13?oc=5",
-      "source": "헬로티",
-      "date": "Wed, 11 Nov 2026 05:13:36 GMT"
-    },
-    {
-      "title": "글로벌 수출 '중국 싹쓸이' 심화, 무역 전쟁 위기감도 고조",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZdzlYOXVRU2pkMU04MXBBTEtKeDF6Q2J3YnVpSVZ5ajllczJsMFJIOVpXczJ0VXpmZS15ZFIzOUk2cXdNaEVwZ0NpYXF6MEVWbC1XaUV5bEpyclhiNUpxeC03QnRUNHRqR3ZITnExbw?oc=5",
-      "source": "이코리아",
-      "date": "Wed, 11 Nov 2026 04:31:35 GMT"
     },
     {
       "title": "블룸버그, 중국 ‘세계 지배보다 질서’ 진단…20조달러 경제의 빈곤 역설",
