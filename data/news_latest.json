@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-13T07:20:02+09:00",
+  "run_at_kst": "2026-11-13T14:10:04+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Rare Earth Wars: U.S. General Sounds Alarm Over China's Military Leverage",
+      "link": "https://oilprice.com/Energy/Energy-General/Rare-Earth-Wars-US-General-Sounds-Alarm-Over-Chinas-Military-Leverage.html",
+      "source": "OilPrice",
+      "date": "Thu, 12 Nov 2026 19:00:00 -0600"
+    },
+    {
+      "title": "Oil Prices Squeezed Between Peace Hopes and Iran Escalation Risk",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Squeezed-Between-Peace-Hopes-and-Iran-Escalation-Risk.html",
+      "source": "OilPrice",
+      "date": "Thu, 12 Nov 2026 18:00:00 -0600"
+    },
+    {
+      "title": "Venezuela Ends 19-Year Power Monopoly, With Oil Fields First in Line",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Venezuela-Ends-19-Year-Power-Monopoly-With-Oil-Fields-First-in-Line.html",
+      "source": "OilPrice",
+      "date": "Thu, 12 Nov 2026 17:00:00 -0600"
+    },
+    {
+      "title": "Rare Earths Americas doubles mineralized zone at Homer project in Brazil",
+      "link": "https://www.mining.com/rare-earths-americas-doubles-mineralized-zone-at-homer-project-in-brazil/",
+      "source": "mining.com",
+      "date": "Thu, 12 Nov 2026 22:58:35 +0000"
+    },
+    {
+      "title": "Nemaska pause clouds Rio Tinto’s Quebec lithium plans",
+      "link": "https://www.mining.com/nemaska-pause-clouds-quebec-lithium-plans/",
+      "source": "mining.com",
+      "date": "Thu, 12 Nov 2026 22:25:00 +0000"
+    },
     {
       "title": "Hudbay cuts cost outlook as Copper Mountain improves",
       "link": "https://www.mining.com/hudbay-cuts-cost-outlook-as-copper-mountain-improves/",
@@ -56,40 +86,10 @@
       "date": "Thu, 12 Nov 2026 18:29:00 +0000"
     },
     {
-      "title": "Argentina Could Overtake Chile as South America’s Top Lithium Producer by 2035",
-      "link": "https://oilprice.com/Metals/Commodities/Argentina-Could-Overtake-Chile-as-South-Americas-Top-Lithium-Producer-by-2035.html",
-      "source": "OilPrice",
-      "date": "Thu, 12 Nov 2026 12:00:00 -0600"
-    },
-    {
       "title": "Mining in Canada pays well but wage growth has sunk to near the bottom",
       "link": "https://www.mining.com/mining-in-canada-pays-well-but-wage-growth-has-sunk-to-near-the-bottom/",
       "source": "mining.com",
       "date": "Thu, 12 Nov 2026 17:49:14 +0000"
-    },
-    {
-      "title": "EIA Data Shows Builds in Crude, Gasoline and Distillates",
-      "link": "https://oilprice.com/Energy/Crude-Oil/EIA-Data-Shows-Builds-in-Crude-Gasoline-and-Distillates.html",
-      "source": "OilPrice",
-      "date": "Thu, 12 Nov 2026 11:46:04 -0600"
-    },
-    {
-      "title": "Tighter regulation not enough to stop importing illicit gold to UAE: report",
-      "link": "https://www.mining.com/tighter-regulation-not-enough-to-stop-importing-illicit-gold-to-uae-report/",
-      "source": "mining.com",
-      "date": "Thu, 12 Nov 2026 17:40:41 +0000"
-    },
-    {
-      "title": "Brent Briefly Hits $96 After Trump Says U.S. Has No Need for Iran Deal",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Briefly-Hits-94-After-Trump-Says-US-Has-No-Need-for-Iran-Deal.html",
-      "source": "OilPrice",
-      "date": "Thu, 12 Nov 2026 11:30:00 -0600"
-    },
-    {
-      "title": "Nvidia turmoil tests metals demand boom",
-      "link": "https://www.mining.com/nvidia-turmoil-tests-metals-demand-boom/",
-      "source": "mining.com",
-      "date": "Thu, 12 Nov 2026 14:23:32 +0000"
     }
   ]
 }
