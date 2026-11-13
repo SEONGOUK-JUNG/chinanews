@@ -1,21 +1,27 @@
 {
-  "run_at_kst": "2026-11-13T20:10:05+09:00",
+  "run_at_kst": "2026-11-14T07:20:03+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "조현 “중국, APEC에 북한 초청할 가능성 크지 않은 듯”",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UbURqdk5tRlBmSDdfMnhjYXo1NHdtYldZUFJic2xlWExDal84TFJndS1ZQmdzTkRmRUdjaDNmamFFN0tWejk4MXpDSmlhTkRDajRRZjRMTDdTRFdhRnp1eTBPSXQxaU1QSHV2czE4NHJMU0Q0?oc=5",
-      "source": "한겨레",
-      "date": "Fri, 13 Nov 2026 09:15:00 GMT"
+      "title": "한중 외교장관, 한반도 문제·경제협력 논의…중국 발표엔 비핵화 빠져",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OWWpyZ1BMSXdCazZLRUFCWnloQmJXdEF0bUJNWjNldjhlS0FZMXc5NXU5eHlUbENodzNscmh4RkhWd3lndGR1MUR3cnN5SWtoWWRNMEhuMklwa0VROHE1endpRDkwbFVobnR1cENR?oc=5",
+      "source": "국제뉴스",
+      "date": "Fri, 13 Nov 2026 19:28:08 GMT"
+    },
+    {
+      "title": "미중 경제 수장 6일 화상 통화…중국은 제한 조치, 미국은 합의 이행에 무게",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42RGlIY1hKSElCdFpXRno5NlQ1VjN5M0Qyb3NOSU1oUUFQb0VEeHBOcTZMTl9Ta3BOVkJSekg5WGNOWG1aWEx6ajRSWTF5ejg?oc=5",
+      "source": "뉴스N연합",
+      "date": "Fri, 13 Nov 2026 18:57:22 GMT"
     },
     {
       "title": "[경제] 베이더우 탑재∙스마트 운전...中 중국이퉈, 농기계 고도화 가속",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlV0wyN1pWSUt5NDZ1UmJDRUExYW41aVpSOEMzMXIyN2dJc3p0OVViR2t0NGdPRVYxY20yLTBmeC1NOUhkS2cwcllUak9FeUxwYjVlREpPTmQ4TkNGd1JfMkE3RUw5bzhpMFhF?oc=5",
-      "source": "서울뉴스통신",
-      "date": "Fri, 13 Nov 2026 08:45:27 GMT"
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xTVFYRy1nUEloSWxnM3pYRHllOVUwWnVLcFNGMk9QNnpYbFB3MTRXZENwWnhtVzZIazBQdndpbFprdTNUU3p1RWpYU0JkT3BqQWJRVDJSMWNLM2JPb2FMY3R3QXBtUVZxQWYzZtIBcEFVX3lxTE10NFlmTjVUaFRsYWpEWkdPRmlRMWdKZmpFWkNpQ0VuV0ZweHJuejFtX3U2T1ZvbXlwZUx4Ty0wNnIzeGU5bkloLWlpbFZjdk1uVm5KQV9fdDJ3WnFLeml4R3lPSEd3aHlhV29UdENFTGI?oc=5",
+      "source": "내외뉴스통신",
+      "date": "Fri, 13 Nov 2026 11:26:16 GMT"
     },
     {
       "title": "日 다카이치, 취임 후 첫 중국 방문…APEC 참석",
@@ -24,22 +30,10 @@
       "date": "Fri, 13 Nov 2026 03:47:23 GMT"
     },
     {
-      "title": "중국내 상속세 도입 여론…전직 장관급 인사 공개 제안",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlalZBcHNFVGFlMk9vNklta19RUEtwUFRldHdZVVNHZHJteTU0eGxCeTdwS3V3TDBhREJqbkVpMjJHX09hanFlZk4zaE5ySDhRN3RvX3N2TUpGQdIBWEFVX3lxTFA2clpucWdkNlNjcGZKNU1iRmQ2NmF2eXNuMlVpc3NoSWc5VVRuMk5zYVdraWx3S0x5UnZNTXVxekdrSnY4ejIwNXJXM0ZjWWNrMHkwd1BleDY?oc=5",
-      "source": "아주경제",
-      "date": "Fri, 13 Nov 2026 02:15:09 GMT"
-    },
-    {
       "title": "中 2027년 4.5% 성장 전망, A주 증시 N자형 수렴",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lbHFsWkN6VDhCWC1zLXpTOXVTQ1U5anU4NFVDaHF0d3ZPQTJ0S2poQndTbFRDV3hGaEZvalZvcDNQdzE1QW4zNFhnT2xIdmhLVGc1MFBxR0pyd3pv?oc=5",
       "source": "뉴스핌",
       "date": "Fri, 13 Nov 2026 01:25:00 GMT"
-    },
-    {
-      "title": "세계한상대회 경제교류, 중국 상하이서도 이어간다",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14RHNLd2N3czNfeXhEZDZaNzIwakozZlB5WUxBTUtWemVtZEJGdHdrenJHelFYd1JSWmJiNm5VcDJlcVYyZ3ZPSDg0aFBMVEd6cEdWMG1kbWdMeUlQRnotLTJVby0yMlZx?oc=5",
-      "source": "아세안익스프레스",
-      "date": "Thu, 12 Nov 2026 21:50:59 GMT"
     },
     {
       "title": "김동찬 연세대 교수 \"중국, 2027년 당대회 앞두고 정치·경제 안정 추구\"",
@@ -48,10 +42,10 @@
       "date": "Thu, 12 Nov 2026 16:14:48 GMT"
     },
     {
-      "title": "[세종로의 아침] 절박함의 크기, 중국에 뒤져서야",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMFROMTlEamFCWUlXRFZMaUthN0xESFVPblY5V1NySjh4bTNGUVZRbFpNR2doaHVOZ21QazhkR0F6a1NWUnE5SkpNSDJWNXdfcGZ5SU9FR0ZrZ2R5V3A2MHJBR1dFellsUktkTXVyMDBFdGVrbm95YURpSldJUTZiX0g1Q3hxRVF1MEMwQlVWcG1ZZw?oc=5",
-      "source": "서울신문",
-      "date": "Thu, 12 Nov 2026 15:24:16 GMT"
+      "title": "중국 주요 경제지표 발표 임박…내수 부진 돌파구?",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtR2VQM1BmQ0U3TFdvVm04d3gtN1Rfa2JuZ1lqTFFrSVB6Q1RqSmtNTl9RQko1bENVWkJ2aDc4bEkxMjNsTkMzVVZ4ZWpIaHJzWkVwaDEzTndDRUZxWWJHbDdkZEwyc0tSUzFCQmI5RdIBc0FVX3lxTFBiQTBabThHdVhuWWlrakxfcTBZSWVvNVFDMzZHeW9ZZEtLWGI2MWlEdFBPQU5pUEtCUkhBMlJNTEJPdFpkRkJ0SkZtRGJ5QUQ3WHRxS2J4Q09vSWNNZVhOMjAzWV9UYUhJeWU4MTBUR1lSb1U?oc=5",
+      "source": "초이스경제",
+      "date": "Wed, 11 Nov 2026 23:28:48 GMT"
     },
     {
       "title": "5중 전회, 전면적 종엄치당 추진…정치가 경제 지배할 듯 [조평규의 중국 본색]",
@@ -72,10 +66,16 @@
       "date": "Wed, 11 Nov 2026 05:13:36 GMT"
     },
     {
-      "title": "블룸버그, 중국 ‘세계 지배보다 질서’ 진단…20조달러 경제의 빈곤 역설",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NcGJNMkluQy1HWm8tS19vc3dqTExTZkJ3U0xNaFB1V3JxbnpYVHpmRTBYMjZRUWhBak1JTkNVcXJTX0F6YXNLRlFQWVc5N2RheVlZYTFLaWxDc2paLWFCZEZYU2xWeUhSeFNxNzFR?oc=5",
-      "source": "아시아투데이",
-      "date": "Wed, 11 Nov 2026 02:59:24 GMT"
+      "title": "인하대, GBLA 중국 계림서 한·중 경제·역사 연계 교육",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mWTFiZEcySFg5blNBcHBfckNYT01DMjdURE5VWEc2ZkpEeDg5NVZmdVpYMjVMUzluWGxCSlFJVGROY1R5UDBUMnNqVklITDNnXzdiVWJncklSQnFLcXB2NnVxTzMtYy1pRmkyOFIwMA?oc=5",
+      "source": "인천뉴스",
+      "date": "Wed, 11 Nov 2026 03:42:16 GMT"
+    },
+    {
+      "title": "중국 생산자물가 5.7% 상승, 2022년 6월 이후 최고치",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNLXVsNVRWT3JHOEdYN1JoWGVfeWh4TGJkVGVTelhMZ1l6LTFOc3BqcGlUQ19fVVY5dGgyZ3hyVFQzWU94aTlZU2thUWpxSU9Oc0RIUnViWG9UdFd2T05Tdm5JYnFFWFBYSV83elMxdmhfNER6ZnRZakd1ZXVnR09aWWJSd1NNMXVuYjRBTXR3alNURTVBZk52LXlqN0N1dzRZUk83UWtKd2RfNUdLOHBqNDNIRnIybzFDdjc1UHpLZV9vNkZpcUN0NWxiMVA2NmNNSG55d2h2b3VDRVJmbF8tX284NkFhd0VSSnZocndKQkRvclVtdE1VUWhrVkNQTFo1bWNGT3ZDWnN3bWpkeURkU3VsS0FuUVNvRkU2RlB2WEpnR2RmZ3BrTnFscw?oc=5",
+      "source": "IDNFinancials",
+      "date": "Mon, 09 Nov 2026 12:20:00 GMT"
     }
   ]
 }

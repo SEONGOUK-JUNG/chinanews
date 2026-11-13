@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-13T20:10:05+09:00",
+  "run_at_kst": "2026-11-14T07:20:03+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,88 +8,88 @@
   "count": 14,
   "items": [
     {
-      "title": "India Seeks Private Investors for $910 Million Oil Reserve",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Seeks-Private-Investors-for-910-Million-Oil-Reserve.html",
+      "title": "Will the Senate's BAAJA Bill Let AI Giants Outmuscle Utilities?",
+      "link": "https://oilprice.com/Energy/Energy-General/Will-the-Senates-BAAJA-Bill-Let-AI-Giants-Outmuscle-Utilities.html",
       "source": "OilPrice",
-      "date": "Fri, 13 Nov 2026 04:15:00 -0600"
+      "date": "Fri, 13 Nov 2026 15:00:00 -0600"
     },
     {
-      "title": "Asian Airlines Face a $148-a-Barrel Fuel Gamble",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Asian-Airlines-Face-a-148-a-Barrel-Fuel-Gamble.html",
-      "source": "OilPrice",
-      "date": "Fri, 13 Nov 2026 02:50:00 -0600"
+      "title": "Modern Mining makes NYSE American debut",
+      "link": "https://www.mining.com/modern-mining-makes-nyse-american-debut/",
+      "source": "mining.com",
+      "date": "Fri, 13 Nov 2026 20:46:29 +0000"
     },
     {
-      "title": "Oil Prices Head for Second Weekly Loss Despite Fresh Middle East Attacks",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-Second-Weekly-Loss-Despite-Fresh-Middle-East-Attacks.html",
-      "source": "OilPrice",
-      "date": "Thu, 12 Nov 2026 23:45:00 -0600"
+      "title": "Op-Ed: Europe is stockpiling critical minerals. Wonderful. Can anyone actually use them?",
+      "link": "https://www.mining.com/op-ed-europe-is-stockpiling-critical-minerals-wonderful-can-anyone-actually-use-them/",
+      "source": "mining.com",
+      "date": "Fri, 13 Nov 2026 19:43:07 +0000"
     },
     {
-      "title": "Rare Earth Wars: U.S. General Sounds Alarm Over China's Military Leverage",
-      "link": "https://oilprice.com/Energy/Energy-General/Rare-Earth-Wars-US-General-Sounds-Alarm-Over-Chinas-Military-Leverage.html",
+      "title": "Trump Extends Jones Act Waiver For Another 90 Days",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Extends-Jones-Act-Waiver-For-Another-90-Days.html",
       "source": "OilPrice",
-      "date": "Thu, 12 Nov 2026 19:00:00 -0600"
+      "date": "Fri, 13 Nov 2026 13:30:00 -0600"
     },
     {
-      "title": "Oil Prices Squeezed Between Peace Hopes and Iran Escalation Risk",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Squeezed-Between-Peace-Hopes-and-Iran-Escalation-Risk.html",
+      "title": "Beijing Turns to Soft Power as Washington Expands Central Asia Ties",
+      "link": "https://oilprice.com/Geopolitics/Asia/Beijing-Turns-to-Soft-Power-as-Washington-Expands-Central-Asia-Ties.html",
       "source": "OilPrice",
-      "date": "Thu, 12 Nov 2026 18:00:00 -0600"
+      "date": "Fri, 13 Nov 2026 13:00:00 -0600"
     },
     {
-      "title": "Venezuela Ends 19-Year Power Monopoly, With Oil Fields First in Line",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Venezuela-Ends-19-Year-Power-Monopoly-With-Oil-Fields-First-in-Line.html",
+      "title": "Germany Eyes €4 Billion Buyout of RWE and E.ON’s Urenco Stake",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Germany-Eyes-4-Billion-Buyout-of-RWE-and-EONs-Urenco-Stake.html",
       "source": "OilPrice",
-      "date": "Thu, 12 Nov 2026 17:00:00 -0600"
+      "date": "Fri, 13 Nov 2026 12:30:00 -0600"
+    },
+    {
+      "title": "U.S. Oil Rig Count Holds at 463 as Crude Output Hits Another Record",
+      "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Rigs-Hold-at-463-as-Crude-Output-Hits-Another-Record.html",
+      "source": "OilPrice",
+      "date": "Fri, 13 Nov 2026 12:11:00 -0600"
+    },
+    {
+      "title": "Iraq’s Oil Production Soars to 2019 High as Hormuz Flows Surge",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraqs-Oil-Production-Soars-to-2019-High-as-Hormuz-Flows-Surge.html",
+      "source": "OilPrice",
+      "date": "Fri, 13 Nov 2026 11:30:00 -0600"
+    },
+    {
+      "title": "Brent Crude Climbs Back Above $96 as Iran Tensions Escalate",
+      "link": "https://oilprice.com/Energy/Energy-General/Brent-Crude-Climbs-Back-Above-96-as-Iran-Tensions-Escalate.html",
+      "source": "OilPrice",
+      "date": "Fri, 13 Nov 2026 11:00:00 -0600"
+    },
+    {
+      "title": "India's Road Fuel Demand Won't Peak Until 2034",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Road-Fuel-Demand-Wont-Peak-Until-2034.html",
+      "source": "OilPrice",
+      "date": "Fri, 13 Nov 2026 10:30:00 -0600"
+    },
+    {
+      "title": "Anglo American’s Australia exit marks end of an era",
+      "link": "https://www.mining.com/anglo-americans-australia-exit-marks-end-of-an-era/",
+      "source": "mining.com",
+      "date": "Fri, 13 Nov 2026 15:34:42 +0000"
+    },
+    {
+      "title": "Copper shortage or surplus? Banks split on 2027 outlook",
+      "link": "https://www.mining.com/copper-shortage-or-surplus-banks-split-on-2027-outlook/",
+      "source": "mining.com",
+      "date": "Fri, 13 Nov 2026 14:40:09 +0000"
+    },
+    {
+      "title": "Guinea gold mining crackdown leaves 10 dead, sparks exodus",
+      "link": "https://www.mining.com/guinea-gold-mining-crackdown-leaves-10-dead-sparks-exodus/",
+      "source": "mining.com",
+      "date": "Fri, 13 Nov 2026 10:53:00 +0000"
     },
     {
       "title": "Rare Earths Americas doubles mineralized zone at Homer project in Brazil",
       "link": "https://www.mining.com/rare-earths-americas-doubles-mineralized-zone-at-homer-project-in-brazil/",
       "source": "mining.com",
       "date": "Thu, 12 Nov 2026 22:58:35 +0000"
-    },
-    {
-      "title": "Nemaska pause clouds Rio Tinto’s Quebec lithium plans",
-      "link": "https://www.mining.com/nemaska-pause-clouds-quebec-lithium-plans/",
-      "source": "mining.com",
-      "date": "Thu, 12 Nov 2026 22:25:00 +0000"
-    },
-    {
-      "title": "Hudbay cuts cost outlook as Copper Mountain improves",
-      "link": "https://www.mining.com/hudbay-cuts-cost-outlook-as-copper-mountain-improves/",
-      "source": "mining.com",
-      "date": "Thu, 12 Nov 2026 22:10:00 +0000"
-    },
-    {
-      "title": "More Drilling Won’t Shield U.S. Consumers From Oil Price Shocks",
-      "link": "https://oilprice.com/Energy/Crude-Oil/More-Drilling-Wont-Shield-US-Consumers-From-Oil-Price-Shocks.html",
-      "source": "OilPrice",
-      "date": "Thu, 12 Nov 2026 16:00:00 -0600"
-    },
-    {
-      "title": "Europe Enters Winter With Its Lowest Gas Inventory of the 2020s",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Europe-Enters-Winter-With-Its-Lowest-Gas-Inventory-of-the-2020s.html",
-      "source": "OilPrice",
-      "date": "Thu, 12 Nov 2026 15:00:00 -0600"
-    },
-    {
-      "title": "Armenia’s mining revival hinges on more than minerals",
-      "link": "https://www.mining.com/armenias-mining-revival-hinges-on-more-than-minerals/",
-      "source": "mining.com",
-      "date": "Thu, 12 Nov 2026 19:00:47 +0000"
-    },
-    {
-      "title": "Titan, US military team up on graphite",
-      "link": "https://www.mining.com/titan-us-military-team-up-on-graphite/",
-      "source": "mining.com",
-      "date": "Thu, 12 Nov 2026 18:29:00 +0000"
-    },
-    {
-      "title": "Mining in Canada pays well but wage growth has sunk to near the bottom",
-      "link": "https://www.mining.com/mining-in-canada-pays-well-but-wage-growth-has-sunk-to-near-the-bottom/",
-      "source": "mining.com",
-      "date": "Thu, 12 Nov 2026 17:49:14 +0000"
     }
   ]
 }
