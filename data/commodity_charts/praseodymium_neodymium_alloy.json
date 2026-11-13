@@ -2,8 +2,8 @@
   "id": "praseodymium_neodymium_alloy",
   "name": "프라세오디뮴네오디뮴합금",
   "unit": "CNY/t",
-  "updated_at_kst": "2026-11-12T20:10:52+09:00",
-  "count": 52,
+  "updated_at_kst": "2026-11-13T20:10:58+09:00",
+  "count": 53,
   "candles": [
     {
       "time": "2026-09-02",
@@ -211,6 +211,10 @@
     },
     {
       "time": "2026-11-12",
+      "value": 876837.5
+    },
+    {
+      "time": "2026-11-13",
       "value": 876837.5
     }
   ],

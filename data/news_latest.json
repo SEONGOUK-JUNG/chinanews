@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-13T14:10:04+09:00",
+  "run_at_kst": "2026-11-13T20:10:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,24 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "India Seeks Private Investors for $910 Million Oil Reserve",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Seeks-Private-Investors-for-910-Million-Oil-Reserve.html",
+      "source": "OilPrice",
+      "date": "Fri, 13 Nov 2026 04:15:00 -0600"
+    },
+    {
+      "title": "Asian Airlines Face a $148-a-Barrel Fuel Gamble",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Asian-Airlines-Face-a-148-a-Barrel-Fuel-Gamble.html",
+      "source": "OilPrice",
+      "date": "Fri, 13 Nov 2026 02:50:00 -0600"
+    },
+    {
+      "title": "Oil Prices Head for Second Weekly Loss Despite Fresh Middle East Attacks",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-Second-Weekly-Loss-Despite-Fresh-Middle-East-Attacks.html",
+      "source": "OilPrice",
+      "date": "Thu, 12 Nov 2026 23:45:00 -0600"
+    },
     {
       "title": "Rare Earth Wars: U.S. General Sounds Alarm Over China's Military Leverage",
       "link": "https://oilprice.com/Energy/Energy-General/Rare-Earth-Wars-US-General-Sounds-Alarm-Over-Chinas-Military-Leverage.html",
@@ -56,28 +74,10 @@
       "date": "Thu, 12 Nov 2026 15:00:00 -0600"
     },
     {
-      "title": "$7 Billion in Oil Debt Has Nigerian Banks Holding Back Lending",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/7-Billion-in-Oil-Debt-Has-Nigerian-Banks-Holding-Back-Lending.html",
-      "source": "OilPrice",
-      "date": "Thu, 12 Nov 2026 14:30:00 -0600"
-    },
-    {
-      "title": "Central Asia’s B20 Message to Washington: Let’s Make Deals",
-      "link": "https://oilprice.com/Geopolitics/International/Central-Asias-B20-Message-to-Washington-Lets-Make-Deals.html",
-      "source": "OilPrice",
-      "date": "Thu, 12 Nov 2026 14:00:00 -0600"
-    },
-    {
       "title": "Armenia’s mining revival hinges on more than minerals",
       "link": "https://www.mining.com/armenias-mining-revival-hinges-on-more-than-minerals/",
       "source": "mining.com",
       "date": "Thu, 12 Nov 2026 19:00:47 +0000"
-    },
-    {
-      "title": "Record Car Prices Are Pushing American Drivers Deeper Into Debt",
-      "link": "https://oilprice.com/Energy/Energy-General/Record-Car-Prices-Are-Pushing-American-Drivers-Deeper-Into-Debt.html",
-      "source": "OilPrice",
-      "date": "Thu, 12 Nov 2026 13:00:00 -0600"
     },
     {
       "title": "Titan, US military team up on graphite",
