@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-14T07:20:03+09:00",
+  "run_at_kst": "2026-11-14T10:10:03+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,24 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Freeport strikes $77M deal for BC copper stake",
+      "link": "https://www.mining.com/freeport-strikes-110m-deal-for-bc-copper-stake/",
+      "source": "mining.com",
+      "date": "Fri, 13 Nov 2026 23:00:00 +0000"
+    },
+    {
+      "title": "Iran Braces for a Budget Without Oil Revenue",
+      "link": "https://oilprice.com/Energy/Energy-General/Iran-Braces-for-a-Budget-Without-Oil-Revenue.html",
+      "source": "OilPrice",
+      "date": "Fri, 13 Nov 2026 17:00:00 -0600"
+    },
+    {
+      "title": "Capstone cuts copper outlook as restart slips",
+      "link": "https://www.mining.com/capstone-cuts-copper-outlook-as-restart-slips/",
+      "source": "mining.com",
+      "date": "Fri, 13 Nov 2026 22:36:00 +0000"
+    },
     {
       "title": "Will the Senate's BAAJA Bill Let AI Giants Outmuscle Utilities?",
       "link": "https://oilprice.com/Energy/Energy-General/Will-the-Senates-BAAJA-Bill-Let-AI-Giants-Outmuscle-Utilities.html",
@@ -18,6 +36,18 @@
       "link": "https://www.mining.com/modern-mining-makes-nyse-american-debut/",
       "source": "mining.com",
       "date": "Fri, 13 Nov 2026 20:46:29 +0000"
+    },
+    {
+      "title": "Komatsu to acquire Roadtec and Carlson construction equipment brands",
+      "link": "https://www.mining.com/komatsu-to-acquire-roadtec-and-carlson-construction-equipment-brands/",
+      "source": "mining.com",
+      "date": "Fri, 13 Nov 2026 20:22:00 +0000"
+    },
+    {
+      "title": "Mineros’ gold bet raises cash and collateral risks",
+      "link": "https://www.mining.com/mineros-gold-bet-raises-cash-and-collateral-risks/",
+      "source": "mining.com",
+      "date": "Fri, 13 Nov 2026 19:58:00 +0000"
     },
     {
       "title": "Op-Ed: Europe is stockpiling critical minerals. Wonderful. Can anyone actually use them?",
@@ -60,36 +90,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/Brent-Crude-Climbs-Back-Above-96-as-Iran-Tensions-Escalate.html",
       "source": "OilPrice",
       "date": "Fri, 13 Nov 2026 11:00:00 -0600"
-    },
-    {
-      "title": "India's Road Fuel Demand Won't Peak Until 2034",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Road-Fuel-Demand-Wont-Peak-Until-2034.html",
-      "source": "OilPrice",
-      "date": "Fri, 13 Nov 2026 10:30:00 -0600"
-    },
-    {
-      "title": "Anglo American’s Australia exit marks end of an era",
-      "link": "https://www.mining.com/anglo-americans-australia-exit-marks-end-of-an-era/",
-      "source": "mining.com",
-      "date": "Fri, 13 Nov 2026 15:34:42 +0000"
-    },
-    {
-      "title": "Copper shortage or surplus? Banks split on 2027 outlook",
-      "link": "https://www.mining.com/copper-shortage-or-surplus-banks-split-on-2027-outlook/",
-      "source": "mining.com",
-      "date": "Fri, 13 Nov 2026 14:40:09 +0000"
-    },
-    {
-      "title": "Guinea gold mining crackdown leaves 10 dead, sparks exodus",
-      "link": "https://www.mining.com/guinea-gold-mining-crackdown-leaves-10-dead-sparks-exodus/",
-      "source": "mining.com",
-      "date": "Fri, 13 Nov 2026 10:53:00 +0000"
-    },
-    {
-      "title": "Rare Earths Americas doubles mineralized zone at Homer project in Brazil",
-      "link": "https://www.mining.com/rare-earths-americas-doubles-mineralized-zone-at-homer-project-in-brazil/",
-      "source": "mining.com",
-      "date": "Thu, 12 Nov 2026 22:58:35 +0000"
     }
   ]
 }

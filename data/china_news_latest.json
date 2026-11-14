@@ -1,21 +1,21 @@
 {
-  "run_at_kst": "2026-11-14T07:20:03+09:00",
+  "run_at_kst": "2026-11-14T10:10:03+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "광양경자청, 중국 기업 200억 투자 협약 체결",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Fa1NUR0dpRGgzWndWdDhndjZOZzV6OUtRMHF6YU1MNEZ1bmpTWkFvWGx5Z0tHdjk1WmNzOHZ4T1oxT1ZJUGRLWUVpV01rY3RzX3B1c1JyTzN2QnBaZGROSTRYLUJtREpxY0E?oc=5",
+      "source": "굿모닝투데이",
+      "date": "Fri, 13 Nov 2026 23:00:09 GMT"
+    },
+    {
       "title": "한중 외교장관, 한반도 문제·경제협력 논의…중국 발표엔 비핵화 빠져",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OWWpyZ1BMSXdCazZLRUFCWnloQmJXdEF0bUJNWjNldjhlS0FZMXc5NXU5eHlUbENodzNscmh4RkhWd3lndGR1MUR3cnN5SWtoWWRNMEhuMklwa0VROHE1endpRDkwbFVobnR1cENR?oc=5",
       "source": "국제뉴스",
       "date": "Fri, 13 Nov 2026 19:28:08 GMT"
-    },
-    {
-      "title": "미중 경제 수장 6일 화상 통화…중국은 제한 조치, 미국은 합의 이행에 무게",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42RGlIY1hKSElCdFpXRno5NlQ1VjN5M0Qyb3NOSU1oUUFQb0VEeHBOcTZMTl9Ta3BOVkJSekg5WGNOWG1aWEx6ajRSWTF5ejg?oc=5",
-      "source": "뉴스N연합",
-      "date": "Fri, 13 Nov 2026 18:57:22 GMT"
     },
     {
       "title": "[경제] 베이더우 탑재∙스마트 운전...中 중국이퉈, 농기계 고도화 가속",
@@ -66,16 +66,16 @@
       "date": "Wed, 11 Nov 2026 05:13:36 GMT"
     },
     {
-      "title": "인하대, GBLA 중국 계림서 한·중 경제·역사 연계 교육",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mWTFiZEcySFg5blNBcHBfckNYT01DMjdURE5VWEc2ZkpEeDg5NVZmdVpYMjVMUzluWGxCSlFJVGROY1R5UDBUMnNqVklITDNnXzdiVWJncklSQnFLcXB2NnVxTzMtYy1pRmkyOFIwMA?oc=5",
-      "source": "인천뉴스",
-      "date": "Wed, 11 Nov 2026 03:42:16 GMT"
+      "title": "AI 붐에 수출 증대 … 중국 경제 성장세 가속화",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtNUZqQWFQc3g0WllieGV3dUJ6VUpVcmNfR2RsY3ZxNlo5TGRTTFBNRlBhQjhHLVdCaEdfSXM4bUpEaGpsY3RPRTBqQVM2ek1IMDV4LUtyNWcxXzJoRXfSAWNBVV95cUxQX2FDdGRvdHBNeTJOWXk5YWtxekYzZHdjTFBRbEhERURFek9YRTBkam96WGZVUlo3RTRKRGptZGlid1pucTZDMWRDMEdpcGpMTk9sWURmLWZ0QWVsNGZ4Z0pwY3M?oc=5",
+      "source": "BBC",
+      "date": "Mon, 19 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "중국 생산자물가 5.7% 상승, 2022년 6월 이후 최고치",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNLXVsNVRWT3JHOEdYN1JoWGVfeWh4TGJkVGVTelhMZ1l6LTFOc3BqcGlUQ19fVVY5dGgyZ3hyVFQzWU94aTlZU2thUWpxSU9Oc0RIUnViWG9UdFd2T05Tdm5JYnFFWFBYSV83elMxdmhfNER6ZnRZakd1ZXVnR09aWWJSd1NNMXVuYjRBTXR3alNURTVBZk52LXlqN0N1dzRZUk83UWtKd2RfNUdLOHBqNDNIRnIybzFDdjc1UHpLZV9vNkZpcUN0NWxiMVA2NmNNSG55d2h2b3VDRVJmbF8tX284NkFhd0VSSnZocndKQkRvclVtdE1VUWhrVkNQTFo1bWNGT3ZDWnN3bWpkeURkU3VsS0FuUVNvRkU2RlB2WEpnR2RmZ3BrTnFscw?oc=5",
-      "source": "IDNFinancials",
-      "date": "Mon, 09 Nov 2026 12:20:00 GMT"
+      "title": "中학자 \"중국 2035년까지 연 4.6% 성장…수출 주도 지속 불가능\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXTkRpSWw2YzE3RWpGa1BEbjBFN2o3U3B2bnBvd1FhVUJHY0V0Y1dENGNGeFRPejF6UVZiT3cyUkYwYlV2dnR6RG9ZQ1FIVEk2VENGbUtrbVc5Y03SAWBBVV95cUxOVHdTMXJOc0tIRzl0cWlpb1hIN0RGMjZXN0xFN1lwRGktLXNvVHI5R2gwZlQtSy1ReWpiNVY3T2lSTnJwXzY2MkxNTThSTVVIWC1WNHZJMXRYZ25GS0huRVQ?oc=5",
+      "source": "연합뉴스",
+      "date": "Wed, 30 Sep 2026 07:00:00 GMT"
     }
   ]
 }
