@@ -1,10 +1,34 @@
 {
-  "run_at_kst": "2026-11-14T10:10:03+09:00",
+  "run_at_kst": "2026-11-14T20:10:06+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "한국, 중국 수입 시장에서 6개월째 1위 유지",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SUDVwN29LSUx6bElCeEVMNHdqTWs3Tk9FdjFuZnJobVp3VWV3S3MyS2VOQjd0YnlZX0hKdl9PbGNWLXM3aERrdUR5QXYtS3BWSVk3UzJpTGVydE1nc2Q2YTJfSkQwOFUtalp6TUJR?oc=5",
+      "source": "OBS경인TV",
+      "date": "Sat, 14 Nov 2026 06:42:33 GMT"
+    },
+    {
+      "title": "[경제] 오스트리아 초콜릿 기업 CEO \"中 시장 전망 밝아...CIIE서 기회 포착\"",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5QlRldnVJMDRNRW5vSVBpZjltMzM3Ny1oUUJIYmJVeDdRQlFTQkpmcEJVTmZna0dyVzBRYkFSaXF4Y3ZtYnA2ZFFKQW5taVp1V3FKU3JJbzh3M1ZxZmNObXVrOTI3U2hsTDgxbm1kNWp6Zk0?oc=5",
+      "source": "동방일보",
+      "date": "Sat, 14 Nov 2026 05:40:17 GMT"
+    },
+    {
+      "title": "경북 안동소주, 상하이서 중국시장 진출 교두보 마련",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqeXYtVmU5SlNoMmFrQTVqZk1sQXp4M3hfaVcyOWg3TzRsNTFHSENJUUlvbno0M1pLUlREQmZjLThRdDNuNUNKS0hpZFJEdmlraFB2MUR1ZHdnWTRwRzVGVkpkQXk?oc=5",
+      "source": "OMATE 시니어",
+      "date": "Sat, 14 Nov 2026 05:14:42 GMT"
+    },
+    {
+      "title": "흔들리는 트럼프, 4연임 채비 나선 시진핑…한반도에 미칠 파장은",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCd05DRks1MVJ6WjIzOWNfSXY1cWFwQlNpcDF0dUF1NjVfd25kcWw2UXVGTmxGSUtjdUw5Nlh1bkVMd0otcEpSS0kwOVZFOVRsYmtvYlY1UTVOV040MFBKMjFXanptQmlNYUVaOHJ4d9IBc0FVX3lxTE5jckF3bFhvRjdOUndDVTVXZk8wZHlRMGtnaFdJaXdqb0dQS2hLeVpiTTItVktlZTBQb09IV29maEJuQkx5amtZMDRQdXNyNkQ4R21WVjFFOV9aczFfTHA3ZzVvajU4RmxpVVJjcmVMMHJOd2M?oc=5",
+      "source": "시사저널",
+      "date": "Sat, 14 Nov 2026 03:00:00 GMT"
+    },
     {
       "title": "광양경자청, 중국 기업 200억 투자 협약 체결",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Fa1NUR0dpRGgzWndWdDhndjZOZzV6OUtRMHF6YU1MNEZ1bmpTWkFvWGx5Z0tHdjk1WmNzOHZ4T1oxT1ZJUGRLWUVpV01rY3RzX3B1c1JyTzN2QnBaZGROSTRYLUJtREpxY0E?oc=5",
@@ -12,28 +36,10 @@
       "date": "Fri, 13 Nov 2026 23:00:09 GMT"
     },
     {
-      "title": "한중 외교장관, 한반도 문제·경제협력 논의…중국 발표엔 비핵화 빠져",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OWWpyZ1BMSXdCazZLRUFCWnloQmJXdEF0bUJNWjNldjhlS0FZMXc5NXU5eHlUbENodzNscmh4RkhWd3lndGR1MUR3cnN5SWtoWWRNMEhuMklwa0VROHE1endpRDkwbFVobnR1cENR?oc=5",
-      "source": "국제뉴스",
-      "date": "Fri, 13 Nov 2026 19:28:08 GMT"
-    },
-    {
-      "title": "[경제] 베이더우 탑재∙스마트 운전...中 중국이퉈, 농기계 고도화 가속",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xTVFYRy1nUEloSWxnM3pYRHllOVUwWnVLcFNGMk9QNnpYbFB3MTRXZENwWnhtVzZIazBQdndpbFprdTNUU3p1RWpYU0JkT3BqQWJRVDJSMWNLM2JPb2FMY3R3QXBtUVZxQWYzZtIBcEFVX3lxTE10NFlmTjVUaFRsYWpEWkdPRmlRMWdKZmpFWkNpQ0VuV0ZweHJuejFtX3U2T1ZvbXlwZUx4Ty0wNnIzeGU5bkloLWlpbFZjdk1uVm5KQV9fdDJ3WnFLeml4R3lPSEd3aHlhV29UdENFTGI?oc=5",
-      "source": "내외뉴스통신",
-      "date": "Fri, 13 Nov 2026 11:26:16 GMT"
-    },
-    {
-      "title": "日 다카이치, 취임 후 첫 중국 방문…APEC 참석",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5waGpHZG55VGRHZ092VG10ZWU0dzQzeFBsY3R2SVVJYWJnY1RRTXlDeEk3UFNDdXVNeUU1RHR3cVJZenRCdXNlM044YU1WbHhhWGtTYXdMc2hyMDBTTVQ2ZUUxcy16TFRaMVU2TWVtUFQ?oc=5",
-      "source": "연합인포맥스",
-      "date": "Fri, 13 Nov 2026 03:47:23 GMT"
-    },
-    {
-      "title": "中 2027년 4.5% 성장 전망, A주 증시 N자형 수렴",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lbHFsWkN6VDhCWC1zLXpTOXVTQ1U5anU4NFVDaHF0d3ZPQTJ0S2poQndTbFRDV3hGaEZvalZvcDNQdzE1QW4zNFhnT2xIdmhLVGc1MFBxR0pyd3pv?oc=5",
-      "source": "뉴스핌",
-      "date": "Fri, 13 Nov 2026 01:25:00 GMT"
+      "title": "“중국 가전은 ‘싸구려’ 낙인에서 탈출하고 있다” 중국 전문가들의 경고",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT0JrRmVmZzhfemlpYTNDN3h4UjFfajFoYTlxcFdwOWhEc19TNW5JeXE1cmRQT1hCOGxEUFlBRXBRZktXWnRxSjc0Z3cwLWxkY1hic1RwT1BWREIxZk9TZ09sUm5CME56Vi1oNEg1by1QU2V2Z0QxWWxvekJOeGhoeU85MU9YTVYx?oc=5",
+      "source": "조선일보",
+      "date": "Fri, 13 Nov 2026 21:02:35 GMT"
     },
     {
       "title": "김동찬 연세대 교수 \"중국, 2027년 당대회 앞두고 정치·경제 안정 추구\"",
@@ -54,28 +60,22 @@
       "date": "Wed, 11 Nov 2026 21:30:04 GMT"
     },
     {
-      "title": "인하대, 중국 계림서 GBLA 한·중 경제·역사 연계 교육 진행",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sa1pXTFVtXzdFX216cG9ZQVQ4YXFVM0xXSnlNWUdNcWlpRnVFOENyZE9yRzhzT2pyUzdIdTRvUHJ1MWlQdkc5bXA0Y2JwMVVkQm1GZG10Qy13RllQUmk1VkNBRXJhWG8?oc=5",
-      "source": "교수신문",
-      "date": "Wed, 11 Nov 2026 09:19:15 GMT"
-    },
-    {
       "title": "중국 무역흑자 1조 달러 돌파…AI 반도체 수출 급증에 역대 최대 전망",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SVjMyZ0dzM3RnODduNm1ibjhyc0lhWmRPcVNPcTNNTzQxOEhCcWV5T09ST280THFNYnBuRXB5YWVUUnVEQnVtYzRRNmNpSUlZZnkyU0RxM2VLSEdjbU13?oc=5",
       "source": "헬로티",
       "date": "Wed, 11 Nov 2026 05:13:36 GMT"
     },
     {
+      "title": "블룸버그, 중국 ‘세계 지배보다 질서’ 진단…20조달러 경제의 빈곤 역설",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NcGJNMkluQy1HWm8tS19vc3dqTExTZkJ3U0xNaFB1V3JxbnpYVHpmRTBYMjZRUWhBak1JTkNVcXJTX0F6YXNLRlFQWVc5N2RheVlZYTFLaWxDc2paLWFCZEZYU2xWeUhSeFNxNzFR?oc=5",
+      "source": "아시아투데이",
+      "date": "Wed, 11 Nov 2026 02:59:24 GMT"
+    },
+    {
       "title": "AI 붐에 수출 증대 … 중국 경제 성장세 가속화",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtNUZqQWFQc3g0WllieGV3dUJ6VUpVcmNfR2RsY3ZxNlo5TGRTTFBNRlBhQjhHLVdCaEdfSXM4bUpEaGpsY3RPRTBqQVM2ek1IMDV4LUtyNWcxXzJoRXfSAWNBVV95cUxQX2FDdGRvdHBNeTJOWXk5YWtxekYzZHdjTFBRbEhERURFek9YRTBkam96WGZVUlo3RTRKRGptZGlid1pucTZDMWRDMEdpcGpMTk9sWURmLWZ0QWVsNGZ4Z0pwY3M?oc=5",
       "source": "BBC",
       "date": "Mon, 19 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "中학자 \"중국 2035년까지 연 4.6% 성장…수출 주도 지속 불가능\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXTkRpSWw2YzE3RWpGa1BEbjBFN2o3U3B2bnBvd1FhVUJHY0V0Y1dENGNGeFRPejF6UVZiT3cyUkYwYlV2dnR6RG9ZQ1FIVEk2VENGbUtrbVc5Y03SAWBBVV95cUxOVHdTMXJOc0tIRzl0cWlpb1hIN0RGMjZXN0xFN1lwRGktLXNvVHI5R2gwZlQtSy1ReWpiNVY3T2lSTnJwXzY2MkxNTThSTVVIWC1WNHZJMXRYZ25GS0huRVQ?oc=5",
-      "source": "연합뉴스",
-      "date": "Wed, 30 Sep 2026 07:00:00 GMT"
     }
   ]
 }
