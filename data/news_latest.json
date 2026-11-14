@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-14T10:10:03+09:00",
+  "run_at_kst": "2026-11-15T07:20:03+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Nvidia Without Huang: What a Pause in AI Deals Means for Metals",
+      "link": "https://oilprice.com/Metals/Commodities/Nvidia-Without-Huang-What-a-Pause-in-AI-Deals-Means-for-Metals.html",
+      "source": "OilPrice",
+      "date": "Sat, 14 Nov 2026 16:00:00 -0600"
+    },
+    {
+      "title": "Iran War Accelerates Southeast Asia’s Renewable Energy Push",
+      "link": "https://oilprice.com/Energy/Energy-General/Iran-War-Accelerates-Southeast-Asias-Renewable-Energy-Push.html",
+      "source": "OilPrice",
+      "date": "Sat, 14 Nov 2026 14:00:00 -0600"
+    },
+    {
+      "title": "Singapore Makes a $65 Billion Bet on the Future of Gold",
+      "link": "https://oilprice.com/Metals/Gold/Singapore-Makes-a-65-Billion-Bet-on-the-Future-of-Gold.html",
+      "source": "OilPrice",
+      "date": "Sat, 14 Nov 2026 12:00:00 -0600"
+    },
+    {
+      "title": "America’s Offshore Wind Industry Is Growing Despite Trump’s Crackdown",
+      "link": "https://oilprice.com/Alternative-Energy/Wind-Power/Americas-Offshore-Wind-Industry-Is-Growing-Despite-Trumps-Crackdown.html",
+      "source": "OilPrice",
+      "date": "Sat, 14 Nov 2026 10:00:00 -0600"
+    },
     {
       "title": "Freeport strikes $77M deal for BC copper stake",
       "link": "https://www.mining.com/freeport-strikes-110m-deal-for-bc-copper-stake/",
@@ -66,30 +90,6 @@
       "link": "https://oilprice.com/Geopolitics/Asia/Beijing-Turns-to-Soft-Power-as-Washington-Expands-Central-Asia-Ties.html",
       "source": "OilPrice",
       "date": "Fri, 13 Nov 2026 13:00:00 -0600"
-    },
-    {
-      "title": "Germany Eyes €4 Billion Buyout of RWE and E.ON’s Urenco Stake",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Germany-Eyes-4-Billion-Buyout-of-RWE-and-EONs-Urenco-Stake.html",
-      "source": "OilPrice",
-      "date": "Fri, 13 Nov 2026 12:30:00 -0600"
-    },
-    {
-      "title": "U.S. Oil Rig Count Holds at 463 as Crude Output Hits Another Record",
-      "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Rigs-Hold-at-463-as-Crude-Output-Hits-Another-Record.html",
-      "source": "OilPrice",
-      "date": "Fri, 13 Nov 2026 12:11:00 -0600"
-    },
-    {
-      "title": "Iraq’s Oil Production Soars to 2019 High as Hormuz Flows Surge",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraqs-Oil-Production-Soars-to-2019-High-as-Hormuz-Flows-Surge.html",
-      "source": "OilPrice",
-      "date": "Fri, 13 Nov 2026 11:30:00 -0600"
-    },
-    {
-      "title": "Brent Crude Climbs Back Above $96 as Iran Tensions Escalate",
-      "link": "https://oilprice.com/Energy/Energy-General/Brent-Crude-Climbs-Back-Above-96-as-Iran-Tensions-Escalate.html",
-      "source": "OilPrice",
-      "date": "Fri, 13 Nov 2026 11:00:00 -0600"
     }
   ]
 }

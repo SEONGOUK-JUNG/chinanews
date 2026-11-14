@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-11-14T20:10:06+09:00",
+  "run_at_kst": "2026-11-15T07:20:03+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "‘중국차 침공’으로 바뀌는 유럽 항만 지도…북해 항만 포화에 지중해도 북적",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdG9faFNHUTQ3akJ6OHFpeEJNRzlTa0h6aVNtb1o2Q0FWTzAzM2pXTEZJUTQwTWRfZDVhOHpmdEpIUm5hWnNtaUVTRDU1ZkRRdkRLNlJJVm9wMXRzUm1WSGVKdjQzN3NqUWEza2hoRGdXN2NxbERGa0ZHWHg5Q1YyMHZWZU1hNmcxNTRteUtScw?oc=5",
+      "source": "조선일보",
+      "date": "Sat, 14 Nov 2026 22:04:59 GMT"
+    },
     {
       "title": "한국, 중국 수입 시장에서 6개월째 1위 유지",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SUDVwN29LSUx6bElCeEVMNHdqTWs3Tk9FdjFuZnJobVp3VWV3S3MyS2VOQjd0YnlZX0hKdl9PbGNWLXM3aERrdUR5QXYtS3BWSVk3UzJpTGVydE1nc2Q2YTJfSkQwOFUtalp6TUJR?oc=5",
@@ -24,6 +30,12 @@
       "date": "Sat, 14 Nov 2026 05:14:42 GMT"
     },
     {
+      "title": "젠슨 황 여파에 美 '칩 규제' 칼바람…중국 \"희토류 맞불\"",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PZUFzSXJ4cmY1cVdnbk15aUx4cno3VUhlcWsxTERjeXhQTkRhZXNPX2RBLUVvN0UtZWJxWUtCeGxTTWF0a0lLbGVlcU9nVE41aUhrYTdWc2Jvdw?oc=5",
+      "source": "한국경제",
+      "date": "Sat, 14 Nov 2026 05:07:16 GMT"
+    },
+    {
       "title": "흔들리는 트럼프, 4연임 채비 나선 시진핑…한반도에 미칠 파장은",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCd05DRks1MVJ6WjIzOWNfSXY1cWFwQlNpcDF0dUF1NjVfd25kcWw2UXVGTmxGSUtjdUw5Nlh1bkVMd0otcEpSS0kwOVZFOVRsYmtvYlY1UTVOV040MFBKMjFXanptQmlNYUVaOHJ4d9IBc0FVX3lxTE5jckF3bFhvRjdOUndDVTVXZk8wZHlRMGtnaFdJaXdqb0dQS2hLeVpiTTItVktlZTBQb09IV29maEJuQkx5amtZMDRQdXNyNkQ4R21WVjFFOV9aczFfTHA3ZzVvajU4RmxpVVJjcmVMMHJOd2M?oc=5",
       "source": "시사저널",
@@ -36,28 +48,16 @@
       "date": "Fri, 13 Nov 2026 23:00:09 GMT"
     },
     {
-      "title": "“중국 가전은 ‘싸구려’ 낙인에서 탈출하고 있다” 중국 전문가들의 경고",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT0JrRmVmZzhfemlpYTNDN3h4UjFfajFoYTlxcFdwOWhEc19TNW5JeXE1cmRQT1hCOGxEUFlBRXBRZktXWnRxSjc0Z3cwLWxkY1hic1RwT1BWREIxZk9TZ09sUm5CME56Vi1oNEg1by1QU2V2Z0QxWWxvekJOeGhoeU85MU9YTVYx?oc=5",
-      "source": "조선일보",
-      "date": "Fri, 13 Nov 2026 21:02:35 GMT"
-    },
-    {
-      "title": "김동찬 연세대 교수 \"중국, 2027년 당대회 앞두고 정치·경제 안정 추구\"",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vNmY1ZzgxdExyR3dJNUdLV0JocjVRZklUR3RIZUN5azlNWGkxSEExaXRBaW5IQ2lMaHpjR3NPdHBjSFdyek9nMVpRNzY3SkJPT0NRaF92WWxMa3cyNnpZQzRVaw?oc=5",
-      "source": "CGTN",
-      "date": "Thu, 12 Nov 2026 16:14:48 GMT"
+      "title": "日 다카이치, 취임 후 첫 중국 방문…APEC 참석",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5waGpHZG55VGRHZ092VG10ZWU0dzQzeFBsY3R2SVVJYWJnY1RRTXlDeEk3UFNDdXVNeUU1RHR3cVJZenRCdXNlM044YU1WbHhhWGtTYXdMc2hyMDBTTVQ2ZUUxcy16TFRaMVU2TWVtUFQ?oc=5",
+      "source": "연합인포맥스",
+      "date": "Fri, 13 Nov 2026 03:47:23 GMT"
     },
     {
       "title": "중국 주요 경제지표 발표 임박…내수 부진 돌파구?",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtR2VQM1BmQ0U3TFdvVm04d3gtN1Rfa2JuZ1lqTFFrSVB6Q1RqSmtNTl9RQko1bENVWkJ2aDc4bEkxMjNsTkMzVVZ4ZWpIaHJzWkVwaDEzTndDRUZxWWJHbDdkZEwyc0tSUzFCQmI5RdIBc0FVX3lxTFBiQTBabThHdVhuWWlrakxfcTBZSWVvNVFDMzZHeW9ZZEtLWGI2MWlEdFBPQU5pUEtCUkhBMlJNTEJPdFpkRkJ0SkZtRGJ5QUQ3WHRxS2J4Q09vSWNNZVhOMjAzWV9UYUhJeWU4MTBUR1lSb1U?oc=5",
       "source": "초이스경제",
       "date": "Wed, 11 Nov 2026 23:28:48 GMT"
-    },
-    {
-      "title": "5중 전회, 전면적 종엄치당 추진…정치가 경제 지배할 듯 [조평규의 중국 본색]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQVzlnMHNyOWpWbFJBTVo4XzRVVmtmUHRBX1Z2LWdsSDBfcWhKZllRTVJ4TzItSnJnZERlSEF4VEUzSXZmMXl5ZVRubUhxM2tjZGViVGs4V1lWZw?oc=5",
-      "source": "한국경제",
-      "date": "Wed, 11 Nov 2026 21:30:04 GMT"
     },
     {
       "title": "중국 무역흑자 1조 달러 돌파…AI 반도체 수출 급증에 역대 최대 전망",
