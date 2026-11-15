@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-15T10:10:03+09:00",
+  "run_at_kst": "2026-11-15T14:10:03+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
@@ -12,28 +12,10 @@
       "date": "Sat, 14 Nov 2026 23:45:00 GMT"
     },
     {
-      "title": "[블루웨이브 이후 AI] ④중국 AI에 따라잡힐 위험은 민주당에도 부담",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YZ21vUzIySnhodXRsd0c1ZVl5bWJaNXpRR1E4Nm40bXNEQ29ITGp3YkxaZDlIcG5uMmZseFg3dUxaSWJYeE1HZ2Vic2RzbWJRUnRxa0VVUzRGUThI?oc=5",
-      "source": "뉴스핌",
-      "date": "Sat, 14 Nov 2026 23:00:00 GMT"
-    },
-    {
       "title": "[경제] 오스트리아 초콜릿 기업 CEO \"中 시장 전망 밝아...CIIE서 기회 포착\"",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5QlRldnVJMDRNRW5vSVBpZjltMzM3Ny1oUUJIYmJVeDdRQlFTQkpmcEJVTmZna0dyVzBRYkFSaXF4Y3ZtYnA2ZFFKQW5taVp1V3FKU3JJbzh3M1ZxZmNObXVrOTI3U2hsTDgxbm1kNWp6Zk0?oc=5",
       "source": "동방일보",
       "date": "Sat, 14 Nov 2026 05:40:17 GMT"
-    },
-    {
-      "title": "왕이, 한국에 북중 교류 설명…경제협력이 중심",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvWEpTYWZqWnl3QWY1aTd6YmxBZmdfUGc0Qzdxelowc1RTa2NzNnRnaF93NE5FN1VUSEZtLWtPLUZBVEdfM1gxdVN2aXNXVjM0VjdzQ21OX2lQZ9IBWEFVX3lxTE80aldiejlSaWpsRE9yTnJYWjB5cjFXa3daR01KX01VYWRaRER4SENHWjM3aWhHU1ZGRUZKYU14R0N2UEdYWnFzdGlZLXNqMkYwV2xWNVRrMUs?oc=5",
-      "source": "아주경제",
-      "date": "Sat, 14 Nov 2026 05:18:39 GMT"
-    },
-    {
-      "title": "경북 안동소주, 상하이서 중국시장 진출 교두보 마련",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqeXYtVmU5SlNoMmFrQTVqZk1sQXp4M3hfaVcyOWg3TzRsNTFHSENJUUlvbno0M1pLUlREQmZjLThRdDNuNUNKS0hpZFJEdmlraFB2MUR1ZHdnWTRwRzVGVkpkQXk?oc=5",
-      "source": "OMATE 시니어",
-      "date": "Sat, 14 Nov 2026 05:14:42 GMT"
     },
     {
       "title": "흔들리는 트럼프, 4연임 채비 나선 시진핑…한반도에 미칠 파장은",
@@ -46,6 +28,12 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT0JrRmVmZzhfemlpYTNDN3h4UjFfajFoYTlxcFdwOWhEc19TNW5JeXE1cmRQT1hCOGxEUFlBRXBRZktXWnRxSjc0Z3cwLWxkY1hic1RwT1BWREIxZk9TZ09sUm5CME56Vi1oNEg1by1QU2V2Z0QxWWxvekJOeGhoeU85MU9YTVYx?oc=5",
       "source": "조선일보",
       "date": "Fri, 13 Nov 2026 21:02:35 GMT"
+    },
+    {
+      "title": "日 다카이치, 취임 후 첫 중국 방문…APEC 참석",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5waGpHZG55VGRHZ092VG10ZWU0dzQzeFBsY3R2SVVJYWJnY1RRTXlDeEk3UFNDdXVNeUU1RHR3cVJZenRCdXNlM044YU1WbHhhWGtTYXdMc2hyMDBTTVQ2ZUUxcy16TFRaMVU2TWVtUFQ?oc=5",
+      "source": "연합인포맥스",
+      "date": "Fri, 13 Nov 2026 03:47:23 GMT"
     },
     {
       "title": "CIIE에 모인 글로벌 기업들, 말 대신 ‘실제 투자’로 중국 시장에 베팅",
@@ -76,6 +64,18 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtNUZqQWFQc3g0WllieGV3dUJ6VUpVcmNfR2RsY3ZxNlo5TGRTTFBNRlBhQjhHLVdCaEdfSXM4bUpEaGpsY3RPRTBqQVM2ek1IMDV4LUtyNWcxXzJoRXfSAWNBVV95cUxQX2FDdGRvdHBNeTJOWXk5YWtxekYzZHdjTFBRbEhERURFek9YRTBkam96WGZVUlo3RTRKRGptZGlid1pucTZDMWRDMEdpcGpMTk9sWURmLWZ0QWVsNGZ4Z0pwY3M?oc=5",
       "source": "BBC",
       "date": "Mon, 19 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Wed, 05 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "title": "[열린세상] ‘기술 혁신’ 중국 경제의 역설",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVpiQTJsR21nVklIcG5XR1NxR2tBNG9iZ1JfVkVmaWNxUkprY3FteW1WNG1xeDZXNi1CellROVc0NFhPd0l6MnBUdldjWG03NnA2VkdUd1pOXzd1M2FxQU1vYkFYR0FqdUdLWkU2N1p3aEFRZ2oxRkJYTW5VaVpTcGhralgxbkk?oc=5",
+      "source": "서울신문",
+      "date": "Fri, 24 Jul 2026 07:00:00 GMT"
     }
   ]
 }
