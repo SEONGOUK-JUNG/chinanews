@@ -1,15 +1,27 @@
 {
-  "run_at_kst": "2026-11-15T20:10:04+09:00",
+  "run_at_kst": "2026-11-16T07:20:03+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "광양경자청, 중국 밀착 투자유치 활동 ‘눈길’",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KVHJ1SDdrcWlUdjJBTWlZWG42NmRlZjJBaTFYdlVfSDdGbG1rcHlsZE9LY2FKYnFTVVNqMnVNM0s4T2kwcE5oSmE1a2NibTZVSF9LTThJQUdHRW84cG9DQW5MWkFaZGhpeFpZ?oc=5",
-      "source": "남도닷컴",
-      "date": "Sun, 15 Nov 2026 09:52:00 GMT"
+      "title": "미국·독일·중국과 다른 한국의 수출 1조…가야 할 길은 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJeWVyOXpTdlFTVjlpdWk4aFZJckkyVE1Qcm9BS1lialJQejEwcTdqTzZ2MTVoZUlUd2twQ3hWMHFEYV9CeUhHUmctY0tJUTFJRXJ0X3J4cXhFd2lqUlo4RHJhajQySnh5enJj0gFwQVVfeXFMUDJuQ2hONlJKSEZDQ3E1bEVqdS03VmxncW1kTjV5ZEx3cU1Vc2hOa0pZc2Y5b2xyaGlCMjg5VzV5TW9hbGZYLVdXajc1ZU9NTTVFUmV2Yi1IV1ZpOFRVT3NCNV90eVQzWUQ2Z2paa0hFUQ?oc=5",
+      "source": "머니투데이",
+      "date": "Sun, 15 Nov 2026 16:33:20 GMT"
+    },
+    {
+      "title": "“200만원 줄 테니 집 비워라” 살벌한 중국 APEC 경비",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oS0lReU5PX19GOUxLMnpwQ3NhcDNzQVU2ZlZ5c2hGM2RlSk9SUFp3MVhXWm81Y2N6eEhWNW5oeFlNaHZQOG5VNUFWZHVHVGZMOW4xQUln?oc=5",
+      "source": "중앙일보",
+      "date": "Sun, 15 Nov 2026 12:26:58 GMT"
+    },
+    {
+      "title": "APEC 앞둔 中선전 경비 강화…주민에 '집 비워달라' 요청도",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95a3YxSHptcERPWUo5RFlXOWZsaVFnWXNJSlprdDdaX240RHlYbVdSMS1EdkFuUWxPYlFjdEN2NDdUWWU2ZmgyMk5ObWdXRHpEUjhNV2hpRWk0MTTSAWBBVV95cUxQUVdiblZmWnlXUW9RZUMyUHppMW12X28zLVhjZkdSanJIQ1ZlcDlIWFpDTXA3MjEwZF9Xb3VyekhramRPV3AyWWt3bElKRElxRkdqamZSdzVhZW0xRlBoTXc?oc=5",
+      "source": "연합뉴스",
+      "date": "Sun, 15 Nov 2026 10:00:09 GMT"
     },
     {
       "title": "\"젠슨 황 사태에…美, 對中규제 더 강화할것\"",
@@ -24,52 +36,40 @@
       "date": "Sun, 15 Nov 2026 07:28:31 GMT"
     },
     {
-      "title": "중국, 동남아 서버 빌려 첨단 AI칩 이용…120억달러 ‘중국행’ 거래 기록도",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT0V3NTNqVTJfdVNMZGs5eGpwN3ZLa1pEczBGTEFQaW1fRUZNa3YzTmU0V0k2TjNoWFNwQWlLclc5aFZPOGxfVFI4NWl4VExGb3MwVFVDN2s2WkhqTnJ5TmJGa1p3WU5KaURjamF5Q2JrSVhZQ1pSWGZrYmV2R0VkdnVyYw?oc=5",
+      "title": "한중 관계 복원 속 협력 확대…중국 동포사회에도 변화 주목",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iMHVKVnB6VlZmeThuZWkzVkZwbGhGTXFRTGQ3cUMzdkZ5TEYzbnJQbnZGUVIyLWxMVG1TNDk0YnF0Um0wbnVrWVF4TlRyV3Jwb0tidHFTa1dRSlRwU2lldkNPSy1rQjNrX1dheQ?oc=5",
+      "source": "재외동포신문",
+      "date": "Sat, 14 Nov 2026 23:18:41 GMT"
+    },
+    {
+      "title": "흔들리는 트럼프, 4연임 채비 나선 시진핑…한반도에 미칠 파장은",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCd05DRks1MVJ6WjIzOWNfSXY1cWFwQlNpcDF0dUF1NjVfd25kcWw2UXVGTmxGSUtjdUw5Nlh1bkVMd0otcEpSS0kwOVZFOVRsYmtvYlY1UTVOV040MFBKMjFXanptQmlNYUVaOHJ4d9IBc0FVX3lxTE5jckF3bFhvRjdOUndDVTVXZk8wZHlRMGtnaFdJaXdqb0dQS2hLeVpiTTItVktlZTBQb09IV29maEJuQkx5amtZMDRQdXNyNkQ4R21WVjFFOV9aczFfTHA3ZzVvajU4RmxpVVJjcmVMMHJOd2M?oc=5",
+      "source": "시사저널",
+      "date": "Sat, 14 Nov 2026 03:00:00 GMT"
+    },
+    {
+      "title": "“중국 가전은 ‘싸구려’ 낙인에서 탈출하고 있다” 중국 전문가들의 경고",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT0JrRmVmZzhfemlpYTNDN3h4UjFfajFoYTlxcFdwOWhEc19TNW5JeXE1cmRQT1hCOGxEUFlBRXBRZktXWnRxSjc0Z3cwLWxkY1hic1RwT1BWREIxZk9TZ09sUm5CME56Vi1oNEg1by1QU2V2Z0QxWWxvekJOeGhoeU85MU9YTVYx?oc=5",
       "source": "조선일보",
-      "date": "Sun, 15 Nov 2026 06:51:00 GMT"
+      "date": "Fri, 13 Nov 2026 21:02:35 GMT"
     },
     {
-      "title": "미국·독일·중국과 다른 한국의 수출 1조…가야 할 길은 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJeWVyOXpTdlFTVjlpdWk4aFZJckkyVE1Qcm9BS1lialJQejEwcTdqTzZ2MTVoZUlUd2twQ3hWMHFEYV9CeUhHUmctY0tJUTFJRXJ0X3J4cXhFd2lqUlo4RHJhajQySnh5enJj0gFwQVVfeXFMUDJuQ2hONlJKSEZDQ3E1bEVqdS03VmxncW1kTjV5ZEx3cU1Vc2hOa0pZc2Y5b2xyaGlCMjg5VzV5TW9hbGZYLVdXajc1ZU9NTTVFUmV2Yi1IV1ZpOFRVT3NCNV90eVQzWUQ2Z2paa0hFUQ?oc=5",
-      "source": "머니투데이",
-      "date": "Sat, 14 Nov 2026 23:45:00 GMT"
+      "title": "김동찬 연세대 교수 \"중국, 2027년 당대회 앞두고 정치·경제 안정 추구\"",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vNmY1ZzgxdExyR3dJNUdLV0JocjVRZklUR3RIZUN5azlNWGkxSEExaXRBaW5IQ2lMaHpjR3NPdHBjSFdyek9nMVpRNzY3SkJPT0NRaF92WWxMa3cyNnpZQzRVaw?oc=5",
+      "source": "CGTN",
+      "date": "Thu, 12 Nov 2026 16:14:48 GMT"
     },
     {
-      "title": "[경제] 오스트리아 초콜릿 기업 CEO \"中 시장 전망 밝아...CIIE서 기회 포착\"",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5QlRldnVJMDRNRW5vSVBpZjltMzM3Ny1oUUJIYmJVeDdRQlFTQkpmcEJVTmZna0dyVzBRYkFSaXF4Y3ZtYnA2ZFFKQW5taVp1V3FKU3JJbzh3M1ZxZmNObXVrOTI3U2hsTDgxbm1kNWp6Zk0?oc=5",
-      "source": "동방일보",
-      "date": "Sat, 14 Nov 2026 05:40:17 GMT"
+      "title": "중국 주요 경제지표 발표 임박…내수 부진 돌파구?",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtR2VQM1BmQ0U3TFdvVm04d3gtN1Rfa2JuZ1lqTFFrSVB6Q1RqSmtNTl9RQko1bENVWkJ2aDc4bEkxMjNsTkMzVVZ4ZWpIaHJzWkVwaDEzTndDRUZxWWJHbDdkZEwyc0tSUzFCQmI5RdIBc0FVX3lxTFBiQTBabThHdVhuWWlrakxfcTBZSWVvNVFDMzZHeW9ZZEtLWGI2MWlEdFBPQU5pUEtCUkhBMlJNTEJPdFpkRkJ0SkZtRGJ5QUQ3WHRxS2J4Q09vSWNNZVhOMjAzWV9UYUhJeWU4MTBUR1lSb1U?oc=5",
+      "source": "초이스경제",
+      "date": "Wed, 11 Nov 2026 23:28:48 GMT"
     },
     {
-      "title": "경북 안동소주, 상하이서 중국시장 진출 교두보 마련",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqeXYtVmU5SlNoMmFrQTVqZk1sQXp4M3hfaVcyOWg3TzRsNTFHSENJUUlvbno0M1pLUlREQmZjLThRdDNuNUNKS0hpZFJEdmlraFB2MUR1ZHdnWTRwRzVGVkpkQXk?oc=5",
-      "source": "OMATE 시니어",
-      "date": "Sat, 14 Nov 2026 05:14:42 GMT"
-    },
-    {
-      "title": "광양경자청, 중국 기업 200억 투자 협약 체결",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Fa1NUR0dpRGgzWndWdDhndjZOZzV6OUtRMHF6YU1MNEZ1bmpTWkFvWGx5Z0tHdjk1WmNzOHZ4T1oxT1ZJUGRLWUVpV01rY3RzX3B1c1JyTzN2QnBaZGROSTRYLUJtREpxY0E?oc=5",
-      "source": "굿모닝투데이",
-      "date": "Fri, 13 Nov 2026 23:00:09 GMT"
-    },
-    {
-      "title": "日 다카이치, 취임 후 첫 중국 방문…APEC 참석",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5waGpHZG55VGRHZ092VG10ZWU0dzQzeFBsY3R2SVVJYWJnY1RRTXlDeEk3UFNDdXVNeUU1RHR3cVJZenRCdXNlM044YU1WbHhhWGtTYXdMc2hyMDBTTVQ2ZUUxcy16TFRaMVU2TWVtUFQ?oc=5",
-      "source": "연합인포맥스",
-      "date": "Fri, 13 Nov 2026 03:47:23 GMT"
-    },
-    {
-      "title": "CIIE에 모인 글로벌 기업들, 말 대신 ‘실제 투자’로 중국 시장에 베팅",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xUHFhS0JZRkk0aTY0QXlsdzVnaElJYTh0LUdqMjdkQmcxQ0pBbWgwcExFMFdMZE5zLWk5WFdiUHhhWWpGQnZxLUdUbkNfS096XzM3VGJn?oc=5",
-      "source": "중앙일보",
-      "date": "Thu, 12 Nov 2026 07:45:48 GMT"
-    },
-    {
-      "title": "수출 대박나면 뭐하나…중국 경제에 나타난 '이상 신호' [차이나 워치]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WWW1FNGVVTEp1eXFBN1hCQzIxM2U5OVRiTDk5VUZYd28zbU0zQ2Nid1ZxZDFZZi13a1dzUV8xdlZITjUwN29IeXgyY1R0emEtMllzM2hnR3NuUQ?oc=5",
+      "title": "5중 전회, 전면적 종엄치당 추진…정치가 경제 지배할 듯 [조평규의 중국 본색]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQVzlnMHNyOWpWbFJBTVo4XzRVVmtmUHRBX1Z2LWdsSDBfcWhKZllRTVJ4TzItSnJnZERlSEF4VEUzSXZmMXl5ZVRubUhxM2tjZGViVGs4V1lWZw?oc=5",
       "source": "한국경제",
-      "date": "Mon, 19 Oct 2026 07:00:00 GMT"
+      "date": "Wed, 11 Nov 2026 21:30:04 GMT"
     },
     {
       "title": "AI 붐에 수출 증대 … 중국 경제 성장세 가속화",

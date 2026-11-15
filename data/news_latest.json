@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-15T10:10:03+09:00",
+  "run_at_kst": "2026-11-16T07:20:03+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,24 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Asia Is Building 73% of the World's New Nuclear Capacity",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Asia-Is-Building-73-of-the-Worlds-New-Nuclear-Capacity.html",
+      "source": "OilPrice",
+      "date": "Sun, 15 Nov 2026 16:00:00 -0600"
+    },
+    {
+      "title": "The $130 Billion Oil Boom Fueled by the Iran War",
+      "link": "https://oilprice.com/Energy/Crude-Oil/The-130-Billion-Oil-Boom-Fueled-by-the-Iran-War.html",
+      "source": "OilPrice",
+      "date": "Sun, 15 Nov 2026 14:00:00 -0600"
+    },
+    {
+      "title": "How Brazil Plans to Accelerate the Global Shift Away From Fossil Fuels",
+      "link": "https://oilprice.com/Energy/Energy-General/How-Brazil-Plans-to-Accelerate-the-Global-Shift-Away-From-Fossil-Fuels.html",
+      "source": "OilPrice",
+      "date": "Sun, 15 Nov 2026 10:00:00 -0600"
+    },
     {
       "title": "Electrifying Ambitions Meet Tough Reality in Europe",
       "link": "https://oilprice.com/Energy/Energy-General/Electrifying-Ambitions-Meet-Tough-Reality-in-Europe.html",
@@ -44,22 +62,10 @@
       "date": "Fri, 13 Nov 2026 23:00:00 +0000"
     },
     {
-      "title": "Iran Braces for a Budget Without Oil Revenue",
-      "link": "https://oilprice.com/Energy/Energy-General/Iran-Braces-for-a-Budget-Without-Oil-Revenue.html",
-      "source": "OilPrice",
-      "date": "Fri, 13 Nov 2026 17:00:00 -0600"
-    },
-    {
       "title": "Capstone cuts copper outlook as restart slips",
       "link": "https://www.mining.com/capstone-cuts-copper-outlook-as-restart-slips/",
       "source": "mining.com",
       "date": "Fri, 13 Nov 2026 22:36:00 +0000"
-    },
-    {
-      "title": "Will the Senate's BAAJA Bill Let AI Giants Outmuscle Utilities?",
-      "link": "https://oilprice.com/Energy/Energy-General/Will-the-Senates-BAAJA-Bill-Let-AI-Giants-Outmuscle-Utilities.html",
-      "source": "OilPrice",
-      "date": "Fri, 13 Nov 2026 15:00:00 -0600"
     },
     {
       "title": "Modern Mining makes NYSE American debut",
@@ -84,12 +90,6 @@
       "link": "https://www.mining.com/op-ed-europe-is-stockpiling-critical-minerals-wonderful-can-anyone-actually-use-them/",
       "source": "mining.com",
       "date": "Fri, 13 Nov 2026 19:43:07 +0000"
-    },
-    {
-      "title": "Trump Extends Jones Act Waiver For Another 90 Days",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Extends-Jones-Act-Waiver-For-Another-90-Days.html",
-      "source": "OilPrice",
-      "date": "Fri, 13 Nov 2026 13:30:00 -0600"
     }
   ]
 }
