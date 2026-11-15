@@ -1,10 +1,34 @@
 {
-  "run_at_kst": "2026-11-15T14:10:03+09:00",
+  "run_at_kst": "2026-11-15T20:10:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "광양경자청, 중국 밀착 투자유치 활동 ‘눈길’",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KVHJ1SDdrcWlUdjJBTWlZWG42NmRlZjJBaTFYdlVfSDdGbG1rcHlsZE9LY2FKYnFTVVNqMnVNM0s4T2kwcE5oSmE1a2NibTZVSF9LTThJQUdHRW84cG9DQW5MWkFaZGhpeFpZ?oc=5",
+      "source": "남도닷컴",
+      "date": "Sun, 15 Nov 2026 09:52:00 GMT"
+    },
+    {
+      "title": "\"젠슨 황 사태에…美, 對中규제 더 강화할것\"",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZU1pVTNRODNHTXQteFV6b0xGamhvM0t4eXl5czRIYzN4X0pYZEpaS1ZrbTN2UDlmSE5hSy1sUkdSY1JhSUk2R09BNnBiNzI2Y0NjYjVCQ3k3NVp3MUM2VGgxVExFVlN6YUNxd3czM3BVc2hJQklyVG5fS01DRVRNag?oc=5",
+      "source": "이데일리",
+      "date": "Sun, 15 Nov 2026 09:03:45 GMT"
+    },
+    {
+      "title": "[아침광장] 선전 APEC과 중국의 노림수",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NSC1CaHRYU2hqV2Uybk1yMmhGOUx1TU8wZXFmZ1EyaEZlRWJSYVZCYVBueUtpUlJSZkdzaU53RVhmb0FBdzFjWDZtYTBsRDdBR3hKazZBNFg2dmk0VkRLUDFScFRXTm11LXBwajhxaw?oc=5",
+      "source": "경북일보",
+      "date": "Sun, 15 Nov 2026 07:28:31 GMT"
+    },
+    {
+      "title": "중국, 동남아 서버 빌려 첨단 AI칩 이용…120억달러 ‘중국행’ 거래 기록도",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT0V3NTNqVTJfdVNMZGs5eGpwN3ZLa1pEczBGTEFQaW1fRUZNa3YzTmU0V0k2TjNoWFNwQWlLclc5aFZPOGxfVFI4NWl4VExGb3MwVFVDN2s2WkhqTnJ5TmJGa1p3WU5KaURjamF5Q2JrSVhZQ1pSWGZrYmV2R0VkdnVyYw?oc=5",
+      "source": "조선일보",
+      "date": "Sun, 15 Nov 2026 06:51:00 GMT"
+    },
     {
       "title": "미국·독일·중국과 다른 한국의 수출 1조…가야 할 길은 - 머니투데이",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJeWVyOXpTdlFTVjlpdWk4aFZJckkyVE1Qcm9BS1lialJQejEwcTdqTzZ2MTVoZUlUd2twQ3hWMHFEYV9CeUhHUmctY0tJUTFJRXJ0X3J4cXhFd2lqUlo4RHJhajQySnh5enJj0gFwQVVfeXFMUDJuQ2hONlJKSEZDQ3E1bEVqdS03VmxncW1kTjV5ZEx3cU1Vc2hOa0pZc2Y5b2xyaGlCMjg5VzV5TW9hbGZYLVdXajc1ZU9NTTVFUmV2Yi1IV1ZpOFRVT3NCNV90eVQzWUQ2Z2paa0hFUQ?oc=5",
@@ -18,16 +42,16 @@
       "date": "Sat, 14 Nov 2026 05:40:17 GMT"
     },
     {
-      "title": "흔들리는 트럼프, 4연임 채비 나선 시진핑…한반도에 미칠 파장은",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCd05DRks1MVJ6WjIzOWNfSXY1cWFwQlNpcDF0dUF1NjVfd25kcWw2UXVGTmxGSUtjdUw5Nlh1bkVMd0otcEpSS0kwOVZFOVRsYmtvYlY1UTVOV040MFBKMjFXanptQmlNYUVaOHJ4d9IBc0FVX3lxTE5jckF3bFhvRjdOUndDVTVXZk8wZHlRMGtnaFdJaXdqb0dQS2hLeVpiTTItVktlZTBQb09IV29maEJuQkx5amtZMDRQdXNyNkQ4R21WVjFFOV9aczFfTHA3ZzVvajU4RmxpVVJjcmVMMHJOd2M?oc=5",
-      "source": "시사저널",
-      "date": "Sat, 14 Nov 2026 03:00:00 GMT"
+      "title": "경북 안동소주, 상하이서 중국시장 진출 교두보 마련",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqeXYtVmU5SlNoMmFrQTVqZk1sQXp4M3hfaVcyOWg3TzRsNTFHSENJUUlvbno0M1pLUlREQmZjLThRdDNuNUNKS0hpZFJEdmlraFB2MUR1ZHdnWTRwRzVGVkpkQXk?oc=5",
+      "source": "OMATE 시니어",
+      "date": "Sat, 14 Nov 2026 05:14:42 GMT"
     },
     {
-      "title": "“중국 가전은 ‘싸구려’ 낙인에서 탈출하고 있다” 중국 전문가들의 경고",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT0JrRmVmZzhfemlpYTNDN3h4UjFfajFoYTlxcFdwOWhEc19TNW5JeXE1cmRQT1hCOGxEUFlBRXBRZktXWnRxSjc0Z3cwLWxkY1hic1RwT1BWREIxZk9TZ09sUm5CME56Vi1oNEg1by1QU2V2Z0QxWWxvekJOeGhoeU85MU9YTVYx?oc=5",
-      "source": "조선일보",
-      "date": "Fri, 13 Nov 2026 21:02:35 GMT"
+      "title": "광양경자청, 중국 기업 200억 투자 협약 체결",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Fa1NUR0dpRGgzWndWdDhndjZOZzV6OUtRMHF6YU1MNEZ1bmpTWkFvWGx5Z0tHdjk1WmNzOHZ4T1oxT1ZJUGRLWUVpV01rY3RzX3B1c1JyTzN2QnBaZGROSTRYLUJtREpxY0E?oc=5",
+      "source": "굿모닝투데이",
+      "date": "Fri, 13 Nov 2026 23:00:09 GMT"
     },
     {
       "title": "日 다카이치, 취임 후 첫 중국 방문…APEC 참석",
@@ -42,18 +66,6 @@
       "date": "Thu, 12 Nov 2026 07:45:48 GMT"
     },
     {
-      "title": "중국 주요 경제지표 발표 임박…내수 부진 돌파구?",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtR2VQM1BmQ0U3TFdvVm04d3gtN1Rfa2JuZ1lqTFFrSVB6Q1RqSmtNTl9RQko1bENVWkJ2aDc4bEkxMjNsTkMzVVZ4ZWpIaHJzWkVwaDEzTndDRUZxWWJHbDdkZEwyc0tSUzFCQmI5RdIBc0FVX3lxTFBiQTBabThHdVhuWWlrakxfcTBZSWVvNVFDMzZHeW9ZZEtLWGI2MWlEdFBPQU5pUEtCUkhBMlJNTEJPdFpkRkJ0SkZtRGJ5QUQ3WHRxS2J4Q09vSWNNZVhOMjAzWV9UYUhJeWU4MTBUR1lSb1U?oc=5",
-      "source": "초이스경제",
-      "date": "Wed, 11 Nov 2026 23:28:48 GMT"
-    },
-    {
-      "title": "중국 무역흑자 1조 달러 돌파…AI 반도체 수출 급증에 역대 최대 전망",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SVjMyZ0dzM3RnODduNm1ibjhyc0lhWmRPcVNPcTNNTzQxOEhCcWV5T09ST280THFNYnBuRXB5YWVUUnVEQnVtYzRRNmNpSUlZZnkyU0RxM2VLSEdjbU13?oc=5",
-      "source": "헬로티",
-      "date": "Wed, 11 Nov 2026 05:13:36 GMT"
-    },
-    {
       "title": "수출 대박나면 뭐하나…중국 경제에 나타난 '이상 신호' [차이나 워치]",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WWW1FNGVVTEp1eXFBN1hCQzIxM2U5OVRiTDk5VUZYd28zbU0zQ2Nid1ZxZDFZZi13a1dzUV8xdlZITjUwN29IeXgyY1R0emEtMllzM2hnR3NuUQ?oc=5",
       "source": "한국경제",
@@ -64,18 +76,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtNUZqQWFQc3g0WllieGV3dUJ6VUpVcmNfR2RsY3ZxNlo5TGRTTFBNRlBhQjhHLVdCaEdfSXM4bUpEaGpsY3RPRTBqQVM2ek1IMDV4LUtyNWcxXzJoRXfSAWNBVV95cUxQX2FDdGRvdHBNeTJOWXk5YWtxekYzZHdjTFBRbEhERURFek9YRTBkam96WGZVUlo3RTRKRGptZGlid1pucTZDMWRDMEdpcGpMTk9sWURmLWZ0QWVsNGZ4Z0pwY3M?oc=5",
       "source": "BBC",
       "date": "Mon, 19 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Wed, 05 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "title": "[열린세상] ‘기술 혁신’ 중국 경제의 역설",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVpiQTJsR21nVklIcG5XR1NxR2tBNG9iZ1JfVkVmaWNxUkprY3FteW1WNG1xeDZXNi1CellROVc0NFhPd0l6MnBUdldjWG03NnA2VkdUd1pOXzd1M2FxQU1vYkFYR0FqdUdLWkU2N1p3aEFRZ2oxRkJYTW5VaVpTcGhralgxbkk?oc=5",
-      "source": "서울신문",
-      "date": "Fri, 24 Jul 2026 07:00:00 GMT"
     }
   ]
 }
