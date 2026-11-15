@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-15T07:20:03+09:00",
+  "run_at_kst": "2026-11-15T10:10:03+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Electrifying Ambitions Meet Tough Reality in Europe",
+      "link": "https://oilprice.com/Energy/Energy-General/Electrifying-Ambitions-Meet-Tough-Reality-in-Europe.html",
+      "source": "OilPrice",
+      "date": "Sat, 14 Nov 2026 18:00:00 -0600"
+    },
     {
       "title": "Nvidia Without Huang: What a Pause in AI Deals Means for Metals",
       "link": "https://oilprice.com/Metals/Commodities/Nvidia-Without-Huang-What-a-Pause-in-AI-Deals-Means-for-Metals.html",
@@ -84,12 +90,6 @@
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Extends-Jones-Act-Waiver-For-Another-90-Days.html",
       "source": "OilPrice",
       "date": "Fri, 13 Nov 2026 13:30:00 -0600"
-    },
-    {
-      "title": "Beijing Turns to Soft Power as Washington Expands Central Asia Ties",
-      "link": "https://oilprice.com/Geopolitics/Asia/Beijing-Turns-to-Soft-Power-as-Washington-Expands-Central-Asia-Ties.html",
-      "source": "OilPrice",
-      "date": "Fri, 13 Nov 2026 13:00:00 -0600"
     }
   ]
 }
