@@ -1,33 +1,45 @@
 {
-  "run_at_kst": "2026-11-16T07:20:03+09:00",
+  "run_at_kst": "2026-11-16T10:10:03+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "미국·독일·중국과 다른 한국의 수출 1조…가야 할 길은 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJeWVyOXpTdlFTVjlpdWk4aFZJckkyVE1Qcm9BS1lialJQejEwcTdqTzZ2MTVoZUlUd2twQ3hWMHFEYV9CeUhHUmctY0tJUTFJRXJ0X3J4cXhFd2lqUlo4RHJhajQySnh5enJj0gFwQVVfeXFMUDJuQ2hONlJKSEZDQ3E1bEVqdS03VmxncW1kTjV5ZEx3cU1Vc2hOa0pZc2Y5b2xyaGlCMjg5VzV5TW9hbGZYLVdXajc1ZU9NTTVFUmV2Yi1IV1ZpOFRVT3NCNV90eVQzWUQ2Z2paa0hFUQ?oc=5",
-      "source": "머니투데이",
-      "date": "Sun, 15 Nov 2026 16:33:20 GMT"
+      "title": "인천항~중국 르자오항 신규 항로 개설…주 2회 운항",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fbzZCQVhNQmxGOHQ5VEg5eEZUOHpTODdsN3E5SDJ3bVpCdmZYR20tTWNEdkFBR2NpNjN1aW5KVWtHSUJNTUEtSV9VS3JHRjB1bkZnNXA2VjlkYzNmeEptaWVrWENTVlJRTGkxcVhZUHg?oc=5",
+      "source": "SK브로드밴드 회사소개",
+      "date": "Sun, 15 Nov 2026 23:26:55 GMT"
+    },
+    {
+      "title": "중국, 선전 APEC서 정상 간 자유교류 축소…미중러 첫 회담에 ‘신얄타’ 우려",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBydjBuem4tYjJ1LTdJUUxPMjU3UFV4T1R2c2I4ZWR1YzhySU1GSnNKRUFhdnE1R3p0cF9helVZX2hrTW1fRVNBS2RjYm1hb1I0Mk8xWllodHN1eGdoOEhPdFY1d0w5RXR1SFJJWWRR?oc=5",
+      "source": "아시아투데이",
+      "date": "Sun, 15 Nov 2026 23:10:23 GMT"
+    },
+    {
+      "title": "[AI MY 뉴스] 16일 중국증시 'APEC·엔비디아가 가를 투심, AI·경기 변수 주목'",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sRTNUNmhwWlB3WjZEQ3c4cERXY2lvb29jLXNaaUg5UzJIZHM5OVQ1NGQxTEdyX3JFQ3l4R3JuXzZzOG1KNW1zWXQtMmRQTlJVb2NTakJNTmhablRm?oc=5",
+      "source": "뉴스핌",
+      "date": "Sun, 15 Nov 2026 22:55:00 GMT"
+    },
+    {
+      "title": "李대통령, 아세안·APEC 다자외교 출국…필리핀·중국 순방길",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96RkN6U0x0TjZfQ0I5bnE4ZHNmNWYwaUNGWlVfY2JaNzFjWDRPQmNqQ1RqcUxaYlR2aVZHU2szbW9SVUNGeHdFU0k1SjZfN0R5Vk15M3dlby1kRjhzZzBBUw?oc=5",
+      "source": "KBC광주방송",
+      "date": "Sun, 15 Nov 2026 22:25:01 GMT"
+    },
+    {
+      "title": "\"공장에 투입했더니 이럴 수가\"…中 로봇 줄줄이 '굴욕' [차이나 워치]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0WXRzelFKS3VYbkJ5WVBwV0M0SVpQWGRfQWd1blBfb1ZGQ1N6R2RjZWdzTWRFNE14dkxDT2NlTkt4VXQtbjQyMjdRalBwTlQwTzhFbmJmNXpyQQ?oc=5",
+      "source": "한국경제",
+      "date": "Sun, 15 Nov 2026 22:16:01 GMT"
     },
     {
       "title": "“200만원 줄 테니 집 비워라” 살벌한 중국 APEC 경비",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oS0lReU5PX19GOUxLMnpwQ3NhcDNzQVU2ZlZ5c2hGM2RlSk9SUFp3MVhXWm81Y2N6eEhWNW5oeFlNaHZQOG5VNUFWZHVHVGZMOW4xQUln?oc=5",
       "source": "중앙일보",
       "date": "Sun, 15 Nov 2026 12:26:58 GMT"
-    },
-    {
-      "title": "APEC 앞둔 中선전 경비 강화…주민에 '집 비워달라' 요청도",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95a3YxSHptcERPWUo5RFlXOWZsaVFnWXNJSlprdDdaX240RHlYbVdSMS1EdkFuUWxPYlFjdEN2NDdUWWU2ZmgyMk5ObWdXRHpEUjhNV2hpRWk0MTTSAWBBVV95cUxQUVdiblZmWnlXUW9RZUMyUHppMW12X28zLVhjZkdSanJIQ1ZlcDlIWFpDTXA3MjEwZF9Xb3VyekhramRPV3AyWWt3bElKRElxRkdqamZSdzVhZW0xRlBoTXc?oc=5",
-      "source": "연합뉴스",
-      "date": "Sun, 15 Nov 2026 10:00:09 GMT"
-    },
-    {
-      "title": "\"젠슨 황 사태에…美, 對中규제 더 강화할것\"",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZU1pVTNRODNHTXQteFV6b0xGamhvM0t4eXl5czRIYzN4X0pYZEpaS1ZrbTN2UDlmSE5hSy1sUkdSY1JhSUk2R09BNnBiNzI2Y0NjYjVCQ3k3NVp3MUM2VGgxVExFVlN6YUNxd3czM3BVc2hJQklyVG5fS01DRVRNag?oc=5",
-      "source": "이데일리",
-      "date": "Sun, 15 Nov 2026 09:03:45 GMT"
     },
     {
       "title": "[아침광장] 선전 APEC과 중국의 노림수",
@@ -58,18 +70,6 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vNmY1ZzgxdExyR3dJNUdLV0JocjVRZklUR3RIZUN5azlNWGkxSEExaXRBaW5IQ2lMaHpjR3NPdHBjSFdyek9nMVpRNzY3SkJPT0NRaF92WWxMa3cyNnpZQzRVaw?oc=5",
       "source": "CGTN",
       "date": "Thu, 12 Nov 2026 16:14:48 GMT"
-    },
-    {
-      "title": "중국 주요 경제지표 발표 임박…내수 부진 돌파구?",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtR2VQM1BmQ0U3TFdvVm04d3gtN1Rfa2JuZ1lqTFFrSVB6Q1RqSmtNTl9RQko1bENVWkJ2aDc4bEkxMjNsTkMzVVZ4ZWpIaHJzWkVwaDEzTndDRUZxWWJHbDdkZEwyc0tSUzFCQmI5RdIBc0FVX3lxTFBiQTBabThHdVhuWWlrakxfcTBZSWVvNVFDMzZHeW9ZZEtLWGI2MWlEdFBPQU5pUEtCUkhBMlJNTEJPdFpkRkJ0SkZtRGJ5QUQ3WHRxS2J4Q09vSWNNZVhOMjAzWV9UYUhJeWU4MTBUR1lSb1U?oc=5",
-      "source": "초이스경제",
-      "date": "Wed, 11 Nov 2026 23:28:48 GMT"
-    },
-    {
-      "title": "5중 전회, 전면적 종엄치당 추진…정치가 경제 지배할 듯 [조평규의 중국 본색]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQVzlnMHNyOWpWbFJBTVo4XzRVVmtmUHRBX1Z2LWdsSDBfcWhKZllRTVJ4TzItSnJnZERlSEF4VEUzSXZmMXl5ZVRubUhxM2tjZGViVGs4V1lWZw?oc=5",
-      "source": "한국경제",
-      "date": "Wed, 11 Nov 2026 21:30:04 GMT"
     },
     {
       "title": "AI 붐에 수출 증대 … 중국 경제 성장세 가속화",
