@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-16T07:20:03+09:00",
+  "run_at_kst": "2026-11-16T20:10:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Iran Claims Two More Oil Tankers Hit Mines in Strait of Hormuz",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Claims-Two-More-Oil-Tankers-Hit-Mines-in-Strait-of-Hormuz.html",
+      "source": "OilPrice",
+      "date": "Mon, 16 Nov 2026 04:00:00 -0600"
+    },
+    {
+      "title": "Goldman Sachs Warns of Massive Oil Glut in 2027",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Warns-of-Massive-Oil-Glut-in-2027.html",
+      "source": "OilPrice",
+      "date": "Mon, 16 Nov 2026 02:30:00 -0600"
+    },
+    {
+      "title": "China Turns to Iraqi Oil as U.S. Blockade Chokes Iranian Supply",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Turns-to-Iraqi-Oil-as-US-Blockade-Chokes-Iranian-Supply.html",
+      "source": "OilPrice",
+      "date": "Mon, 16 Nov 2026 01:30:00 -0600"
+    },
+    {
+      "title": "Oil Prices Fall as Fears of a Global Supply Glut Return",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Fears-of-a-Global-Supply-Glut-Return.html",
+      "source": "OilPrice",
+      "date": "Sun, 15 Nov 2026 23:25:32 -0600"
+    },
     {
       "title": "Asia Is Building 73% of the World's New Nuclear Capacity",
       "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Asia-Is-Building-73-of-the-Worlds-New-Nuclear-Capacity.html",
@@ -30,30 +54,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/Electrifying-Ambitions-Meet-Tough-Reality-in-Europe.html",
       "source": "OilPrice",
       "date": "Sat, 14 Nov 2026 18:00:00 -0600"
-    },
-    {
-      "title": "Nvidia Without Huang: What a Pause in AI Deals Means for Metals",
-      "link": "https://oilprice.com/Metals/Commodities/Nvidia-Without-Huang-What-a-Pause-in-AI-Deals-Means-for-Metals.html",
-      "source": "OilPrice",
-      "date": "Sat, 14 Nov 2026 16:00:00 -0600"
-    },
-    {
-      "title": "Iran War Accelerates Southeast Asia’s Renewable Energy Push",
-      "link": "https://oilprice.com/Energy/Energy-General/Iran-War-Accelerates-Southeast-Asias-Renewable-Energy-Push.html",
-      "source": "OilPrice",
-      "date": "Sat, 14 Nov 2026 14:00:00 -0600"
-    },
-    {
-      "title": "Singapore Makes a $65 Billion Bet on the Future of Gold",
-      "link": "https://oilprice.com/Metals/Gold/Singapore-Makes-a-65-Billion-Bet-on-the-Future-of-Gold.html",
-      "source": "OilPrice",
-      "date": "Sat, 14 Nov 2026 12:00:00 -0600"
-    },
-    {
-      "title": "America’s Offshore Wind Industry Is Growing Despite Trump’s Crackdown",
-      "link": "https://oilprice.com/Alternative-Energy/Wind-Power/Americas-Offshore-Wind-Industry-Is-Growing-Despite-Trumps-Crackdown.html",
-      "source": "OilPrice",
-      "date": "Sat, 14 Nov 2026 10:00:00 -0600"
     },
     {
       "title": "Freeport strikes $77M deal for BC copper stake",
