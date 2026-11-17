@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-17T10:10:05+09:00",
+  "run_at_kst": "2026-11-17T14:10:07+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "The Army Just Did Something Extraordinary To Break China’s Rare Earth Monopoly",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Army-Just-Did-Something-Extraordinary-To-Break-Chinas-Rare-Earth-Monopoly.html",
+      "source": "OilPrice",
+      "date": "Mon, 16 Nov 2026 20:00:00 -0600"
+    },
     {
       "title": "Why Iraq Just Fast-Tracked Chevron’s Takeover Of A 14-Billion-Barrel Supergiant",
       "link": "https://oilprice.com/Energy/Energy-General/Why-Iraq-Just-Fast-Tracked-Chevrons-Takeover-Of-A-14-Billion-Barrel-Supergiant.html",
@@ -26,8 +32,8 @@
       "date": "Mon, 16 Nov 2026 17:00:00 -0600"
     },
     {
-      "title": "Perenti inks $67 million contract with AngloGold Ashanti at Geita gold mine",
-      "link": "https://www.mining.com/perenti-inks-67-million-contract-with-anglogold-ashanti-at-geita-gold-mine/",
+      "title": "Perenti inks $670 million contract with AngloGold Ashanti at Geita gold mine",
+      "link": "https://www.mining.com/perenti-inks-670-million-contract-with-anglogold-ashanti-at-geita-gold-mine/",
       "source": "mining.com",
       "date": "Mon, 16 Nov 2026 22:38:02 +0000"
     },
@@ -60,12 +66,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/Turkmenistan-Races-to-Complete-Key-TAPI-Pipeline-Section-by-Year-End.html",
       "source": "OilPrice",
       "date": "Mon, 16 Nov 2026 13:00:00 -0600"
-    },
-    {
-      "title": "Diamondback to Buy Double Eagle’s Midland Stake for $5 Billion",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Diamondback-to-Buy-Double-Eagles-Midland-Stake-for-5-Billion.html",
-      "source": "OilPrice",
-      "date": "Mon, 16 Nov 2026 12:30:00 -0600"
     },
     {
       "title": "Rio pledges $250 million to address Panguna damage",
