@@ -1,21 +1,33 @@
 {
-  "run_at_kst": "2026-11-17T20:10:04+09:00",
+  "run_at_kst": "2026-11-18T07:20:07+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "트럼프 “중국서 김정은 만날 수 있어”…또 깜짝카드 띄웠다",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04VlhjTnBFRTI1ZnRpSWdDZ0xnQksybUxjMEloMzI3UURmMUE3RnFDM2pDaGtrNE9QNnF0SkRuQmpDWmJqZDNHOUtRbXRWTGh0ZnVCR2tkcmZrcG1zVXphSDk5dHE2WWNnVEtSZ19BeUpMRXN1?oc=5",
-      "source": "한겨레",
-      "date": "Tue, 17 Nov 2026 10:57:00 GMT"
+      "title": "中선전 APEC 정상회의 오늘 돌입…사상 첫 미중러 3자회담 주목",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tVzB3bXlydGVPenJmS3BIQmtLQi1KOTQ4R2sybDluRG9KWmhvdTVJVjVFWno1WmlfU0h0d3BUUjJ1c1lHRWNCMXBTV0d4b3BVeGFLMzFpeXh0cnJQSGtGVHpISmI1dEQtdTNOVzJTU2w4OER3?oc=5",
+      "source": "연합뉴스 한민족센터",
+      "date": "Tue, 17 Nov 2026 21:10:03 GMT"
     },
     {
-      "title": "시진핑, 캐나다·베트남 정상과 연쇄 회담…경협·다자주의 강조",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52MkRXaWVlUU9sX3lkN1I3ZnVIb1FTOUJyUkFjLWltRzJmNjhaT1NCbjVKdU9qc00zVWRtVk9hcGsxQXRtdllISzYyWTB6bGJ3OUNaNnlrVmxUc3NPTHlKbEpnYm1JS2lDaXQyNGxuN3ZWM3VF?oc=5",
-      "source": "연합뉴스 한민족센터",
-      "date": "Tue, 17 Nov 2026 08:03:53 GMT"
+      "title": "美, 중국 AI 반도체 ‘클라우드 우회로’ 차단",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZmd5UTR6Z0pha2g4WTRQMl9TUGNMZU44ZUlsRDJlNEJKcGx5RlNsejRqRS1pd2VWX0tiUUpqWWJTakRCUzJMNVhaMURmYzRySXF3cnRYVWZwOHVHdktwSmUybXFpYlJPSllFNlhlWjFkbjhsd2x6aTlmUmlLZ3J1aEZrTQ?oc=5",
+      "source": "조선일보",
+      "date": "Tue, 17 Nov 2026 15:32:00 GMT"
+    },
+    {
+      "title": "중국 주식 환매, 증시 하락세 막기엔 아직 미흡",
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNVWZ2cUw4V1laeFpvVV9Ub1JTQ0UxbVRKVHB4bWw1OWdGazVUTVFCYjU1WFJ3SzgwQ0s0UW1ablluTlo4SXNzQjJnemVnOUU0RWVad2k3a2VvTmI2MTF5dkdCMXM3RVNZaGlYRExiYWU0R0M2eUhFRVdqeDZKOV9IWmZMWGlOWVg2MWVkSm1vSERhNHJnQ1ZBVWl6Q3I4UmVUUTlEbTRKTERtN1dSakRmUXdpem13bG9fakpmNklnMmJRdTBuNnMxWmhCcndtdjRFb1NXMG9TSnpLbnBvMFE0Ul9hRTNTVGdNZ0V4YzdmTWFBZE1tWjQ4SWRqSEg5blFpWGszSWRjNVVNWlpwLTdYbURKMUEwUVB3Q0k2dlNSOS1lUWl5a0FxMjVRaUxpUl9KMVRSNUs1eks?oc=5",
+      "source": "IDNFinancials",
+      "date": "Tue, 17 Nov 2026 12:40:00 GMT"
+    },
+    {
+      "title": "선전미디어그룹 '선전에 모이다--APEC 중국의 해 멀티플랫폼 특집' 화제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXOHlhNjBkc3J1T3pzMFctdFR1V0NYREdzb2h0VTRHMnlxVHFjRU9TUDAyMWhkdHkwQWFLUS1qZXdQZWtZd3Exc3J3VG1pbDd5YV9wc3N3?oc=5",
+      "source": "지디넷코리아",
+      "date": "Tue, 17 Nov 2026 10:10:12 GMT"
     },
     {
       "title": "대구 남구, 중국 허난성과 경제협력 넓힌다…관광 넘어 기업 진출 교두보 구축",
@@ -24,10 +36,10 @@
       "date": "Tue, 17 Nov 2026 07:22:00 GMT"
     },
     {
-      "title": "중국 연태항로 운영선사·부두 대표단 인천항 방문",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnQ2dXVFZfOEs3S1A4X3dhX2lQUXlJZE1SMkM1bkRyNlNaRTBEQmdIam1qM0JfZjFhbXFtTktlVmhIVWhWT1N3dzY4bTNyc0dnNHJFV0k3WXJXLTJrdjZ3ZGhFU0J1TDIzWXFDWXY1cw?oc=5",
-      "source": "기호일보",
-      "date": "Tue, 17 Nov 2026 06:47:23 GMT"
+      "title": "​​​​​​​[中 증시 마감] 美 규제우려에 하락...화웨이 테마주 강세",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0UmkzSHpMRDNhVU9laU9yNWtuc1d1eW1SVEozN1cta0pFODZqZjQ0TVRDLURwRGZaY0gxVmxEQ1kxVUVKcVZTQWdOQ0ZlMG9SZDFodG9aaG5zZ9IBWEFVX3lxTE5QZjBUV29NNlI3N2NnOVNoc3o4cUJRcXYzLVFjOTBwaXAzZDA5M1B4NGpwRkRMZmdvM0E1WUJYVUJQamFOUmg5Z0lMZkg4cnhPU0xvOHNqbEs?oc=5",
+      "source": "아주경제",
+      "date": "Tue, 17 Nov 2026 07:18:17 GMT"
     },
     {
       "title": "APEC 개최되는 중국 선전, 가장 앞선 'AI 원더랜드'의 명과 암",
@@ -36,16 +48,16 @@
       "date": "Tue, 17 Nov 2026 05:53:27 GMT"
     },
     {
-      "title": "중국 10월 경제 전반적 안정세…첨단제조·신산업 성장 두드러져",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tLVdYdjFqczFLOGFtU3JWb2txYVpsUmRGQ01OU3ZQVVY1LWZPYzBaT1cyN2FubEtMU1lGdkFsWmFfMnpJRGsxUUJENUlDTC1UMWxWVkJtUm4xX0k?oc=5",
-      "source": "일간스포츠",
-      "date": "Tue, 17 Nov 2026 01:34:00 GMT"
+      "title": "중국과 ASEAN 정상회의, 중국은 경제 무역 분야의 협력 추진 호소",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QdUZPRXFBNk9heEMwdjl6Y1ltckVhRU84LVBoWVJ0MG9TVGF6UlVNMWlWV3kzSWhSUlZMNFZ5N0dBb2V1SXkzbVJzVExxeGRrTWdla25keVJKRWtJRTFJbWUtbHJDVlE?oc=5",
+      "source": "NHKニュース",
+      "date": "Tue, 17 Nov 2026 02:59:28 GMT"
     },
     {
-      "title": "중국, APEC 경제협력 성과 50건 육박…AI·디지털 무역이 절반",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83Q09QLXVFblBQc2hKWEZxWGlNREdIenYtcGNhSWtGZ1hRd1J3YmxoeEZwd1RGWnA4UXVlM0drSGlPNzl4aEtXNGo5LXBTbGV5TFNsUXNn?oc=5",
-      "source": "인터내셔널포커스",
-      "date": "Tue, 17 Nov 2026 00:32:39 GMT"
+      "title": "하나의 대양 · 하나의 미래",
+      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNTmlOby1nNHpEWDdDM0U1NzZpV0JYUHZCS19IMGc1SVFZblFSc01yZ1ZVeDVjOXRMTUZ1TmxOODljUUFzLWxKU0Nxa0NsMGdkZmhEQkRhc3hIUTlKYjJIbjlHc1J5RFFySUppaTJlb25neXl3cHJXTnlsZXNMU1BPN3dpQ0VqdVFYSEVQVXVWMUtqRXhGVUpvZ2NTWFNKQUZSWXFkWUxvN0Y5eDlFR0MzYWdTVlV6bmNVLXVyX1NIYVNmbURaYVRRbnlQYnJITmNUdWZwZ1RFcHEwWWgxTWdWWFZXMzcwOU8wei1Namw1VDA4VzZLcWRBQk56NUdDWi04ZkJsU29qdE52YVFBUVpSa3k2THBqeXp5OGNwYnNuaWY0UkFmblkwZ0FDcmIwbWhjMXdwVW9fdUhtWk9YTkdFak1TUVB6SGhjeVJJR245NFRyWnBDNFRpRUY1dU45NEhFQzVSbkpFOVpVM0U?oc=5",
+      "source": "Thông tấn xã Việt Nam",
+      "date": "Tue, 17 Nov 2026 01:22:55 GMT"
     },
     {
       "title": "[CMG중국통신] 10월 중국 경제 전반적 안정 속 ‘신(新)동력 고도화’",
@@ -60,22 +72,10 @@
       "date": "Tue, 17 Nov 2026 00:16:00 GMT"
     },
     {
-      "title": "[구리 가격] AI 투자 우려에 4개월 만의 최저…중국 현물 프리미엄 290달러",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5JUkpFU0xLRENoM3I4ZmNKU1NIUTU5QnhUMUpwVnBoOUJ4NmdVMVQwZ0hBbi1faXpPaTM1ajBjTVlWRTlk?oc=5",
-      "source": "산업일보",
-      "date": "Mon, 16 Nov 2026 23:03:16 GMT"
-    },
-    {
-      "title": "“최근 중국 경제 어려움, 탈북민 강제북송과 무관하지 않아” : 사회",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jVXNyU25DWVJyeHluUGhMczJsbWVWNXZKbi04WVJsMUdRaFFLU0QwMWlfMEZQTEtSSGR2emk0c3hPZUtka0ROejg1SUEwUTU4Y2luajMzNA?oc=5",
-      "source": "크리스천투데이",
-      "date": "Mon, 16 Nov 2026 21:08:26 GMT"
-    },
-    {
-      "title": "2026년 9월 중국경제 동향과 전망",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWXZOcXR6YTdmT0ZRR24tbUFJRmNhOFEwQ2cwajRBMWdxaVp4WW1USm9oSF81bUtlelhJNnl0czhuN213YzR6U040eGVNbEE1NWZFMEg0dm5qMFFKcWxwUWdIaURGaVJUUnBwVm9uUGIySmFnSUJCNUI4a3RSRWRiMFRmY01scFpSMGJseEZhYVhNOWxYMnFfeUVUSFdyMnN0NEE?oc=5",
-      "source": "KDI 경제교육·정보센터",
-      "date": "Thu, 12 Nov 2026 10:48:17 GMT"
+      "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Fri, 13 Nov 2026 08:00:00 GMT"
     }
   ]
 }
