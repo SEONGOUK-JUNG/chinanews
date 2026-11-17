@@ -1,10 +1,46 @@
 {
-  "run_at_kst": "2026-11-17T10:10:05+09:00",
+  "run_at_kst": "2026-11-17T20:10:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "트럼프 “중국서 김정은 만날 수 있어”…또 깜짝카드 띄웠다",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04VlhjTnBFRTI1ZnRpSWdDZ0xnQksybUxjMEloMzI3UURmMUE3RnFDM2pDaGtrNE9QNnF0SkRuQmpDWmJqZDNHOUtRbXRWTGh0ZnVCR2tkcmZrcG1zVXphSDk5dHE2WWNnVEtSZ19BeUpMRXN1?oc=5",
+      "source": "한겨레",
+      "date": "Tue, 17 Nov 2026 10:57:00 GMT"
+    },
+    {
+      "title": "시진핑, 캐나다·베트남 정상과 연쇄 회담…경협·다자주의 강조",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52MkRXaWVlUU9sX3lkN1I3ZnVIb1FTOUJyUkFjLWltRzJmNjhaT1NCbjVKdU9qc00zVWRtVk9hcGsxQXRtdllISzYyWTB6bGJ3OUNaNnlrVmxUc3NPTHlKbEpnYm1JS2lDaXQyNGxuN3ZWM3VF?oc=5",
+      "source": "연합뉴스 한민족센터",
+      "date": "Tue, 17 Nov 2026 08:03:53 GMT"
+    },
+    {
+      "title": "대구 남구, 중국 허난성과 경제협력 넓힌다…관광 넘어 기업 진출 교두보 구축",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iX1BUbFk3V1BaRDJ3SmZ2dTNQN3BZUUxqalJGd0FDU1FIb2g2bl9nZXJJQW91X1lsR2Q0MUVPQmVzYlBCTzVMVG5ySmtRbkE0OUo5SkExeEp5QkdfRFlNVjFxSTc2dFNRX3c?oc=5",
+      "source": "www.hidomin.com",
+      "date": "Tue, 17 Nov 2026 07:22:00 GMT"
+    },
+    {
+      "title": "중국 연태항로 운영선사·부두 대표단 인천항 방문",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnQ2dXVFZfOEs3S1A4X3dhX2lQUXlJZE1SMkM1bkRyNlNaRTBEQmdIam1qM0JfZjFhbXFtTktlVmhIVWhWT1N3dzY4bTNyc0dnNHJFV0k3WXJXLTJrdjZ3ZGhFU0J1TDIzWXFDWXY1cw?oc=5",
+      "source": "기호일보",
+      "date": "Tue, 17 Nov 2026 06:47:23 GMT"
+    },
+    {
+      "title": "APEC 개최되는 중국 선전, 가장 앞선 'AI 원더랜드'의 명과 암",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aZjF5Yi0teGQtdDRaYmZ6YTRoeE1lOTFEUU9kNEVSSTlXenllLUxyNUpFUy0wUm5OaDhPekg3d3VwX2pwUGRiM19LQzFQMG5IRnhJcjZjVkFiU1lnRHfSAWNBVV95cUxOMHJiQXJXcGpDT2NQVXVNdWZVWlhBQkJkbXBJLXNrNThBYXh2aUhXOVBrWnpBbGJLQ0JMcFB2SDdIcVZwdXduU2xoWTAtZmpMZVZKNkFoVG1tWkk1MS1EMVJwQzg?oc=5",
+      "source": "BBC",
+      "date": "Tue, 17 Nov 2026 05:53:27 GMT"
+    },
+    {
+      "title": "중국 10월 경제 전반적 안정세…첨단제조·신산업 성장 두드러져",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tLVdYdjFqczFLOGFtU3JWb2txYVpsUmRGQ01OU3ZQVVY1LWZPYzBaT1cyN2FubEtMU1lGdkFsWmFfMnpJRGsxUUJENUlDTC1UMWxWVkJtUm4xX0k?oc=5",
+      "source": "일간스포츠",
+      "date": "Tue, 17 Nov 2026 01:34:00 GMT"
+    },
     {
       "title": "중국, APEC 경제협력 성과 50건 육박…AI·디지털 무역이 절반",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83Q09QLXVFblBQc2hKWEZxWGlNREdIenYtcGNhSWtGZ1hRd1J3YmxoeEZwd1RGWnA4UXVlM0drSGlPNzl4aEtXNGo5LXBTbGV5TFNsUXNn?oc=5",
@@ -24,10 +60,10 @@
       "date": "Tue, 17 Nov 2026 00:16:00 GMT"
     },
     {
-      "title": "'아파트 대신 지어야 돈 번다'…요즘 뭉칫돈 몰리는 곳이 [차이나 워치]",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BVUh1Q29hWDQzOGVnV09jeXJkckpsd2Q3cngyQ2JSNU84V244ZFU1RlQtY054M1V2ZGtTZ0VuamYzamRPa3ZGYzc0bzMyM0hkdGxuNkt1QXRtUQ?oc=5",
-      "source": "한국경제",
-      "date": "Mon, 16 Nov 2026 22:51:02 GMT"
+      "title": "[구리 가격] AI 투자 우려에 4개월 만의 최저…중국 현물 프리미엄 290달러",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5JUkpFU0xLRENoM3I4ZmNKU1NIUTU5QnhUMUpwVnBoOUJ4NmdVMVQwZ0hBbi1faXpPaTM1ajBjTVlWRTlk?oc=5",
+      "source": "산업일보",
+      "date": "Mon, 16 Nov 2026 23:03:16 GMT"
     },
     {
       "title": "“최근 중국 경제 어려움, 탈북민 강제북송과 무관하지 않아” : 사회",
@@ -36,46 +72,10 @@
       "date": "Mon, 16 Nov 2026 21:08:26 GMT"
     },
     {
-      "title": "트럼프 \"중국서 김정은 만날 수도…김정은 방중 시진핑에 달려\"",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Sc2tsRldhUFp2LS02RDBWM1pnQVl3SzBLNXBIVC1LRXlGaS1MS3NLRWQ4NEF6cTBQSjZuc2RNaTJvdzg4dHYyVDctWU9qdzRydGUzc3VvdzJqVHBFX1IxOXJnQQ?oc=5",
-      "source": "조세금융신문",
-      "date": "Mon, 16 Nov 2026 16:02:26 GMT"
-    },
-    {
-      "title": "트럼프 “중국서 김정은 만날 수도…시진핑·푸틴과 함께”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nLWNiTGRmeUg4T0NQYktzUkllUFl0NjlrbGVzSjJwVGlMSklZWUtCUEdHanpSNlY4bXpUcnZ0MmFHT0d2OGJXOHVocUVudmh3UUhZUG1VYlBKNWM?oc=5",
-      "source": "에너지경제신문",
-      "date": "Mon, 16 Nov 2026 15:47:29 GMT"
-    },
-    {
-      "title": "트럼프 “중국에서 김정은 만날 수도 있어”",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSN3hFWTV4MlBpYkR2cnc1SmJLckZlMHdCTncwQjlva3ZkYndMMFlpNHp1WmNYQ2hKVmlWYXluZ3RwYm8yNG01Y3FQeW9SR2dNWFE?oc=5",
-      "source": "매일경제",
-      "date": "Mon, 16 Nov 2026 14:33:53 GMT"
-    },
-    {
-      "title": "중국 경제는 내수 부진으로 압박을 받고 있다.",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcGQ3a1p4UDBSdXBkbElJQ1Iyd09jZDI3QTliUmVXU2Vucm91QklEdjBXdUtjMHJPYmpPMjlmWFlXS09MT1VVOFkwd3I1UHJwcjM2eGoyUU5UcWRRdng2dlYzeHhxVHI5MnE2b2VISC0wWE04M3d0MlVoWHJ6eV9kbkc2OUF6dw?oc=5",
-      "source": "Vietnam.vn",
-      "date": "Mon, 16 Nov 2026 10:13:27 GMT"
-    },
-    {
-      "title": "중국 10월 소비ㆍ투자ㆍ생산 부진⋯부양책 효과 아직",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oVXE1WXNJbkdSb1B5dHVPOWdvVzFzSDhIczFfTWY0WGtMZzJMM0Fhejdyb1ZoQlFkU25Ecm5iWnpZMlJERjFPTy1jUVhwMjJuOEZWNQ?oc=5",
-      "source": "이투데이",
-      "date": "Mon, 16 Nov 2026 08:48:00 GMT"
-    },
-    {
-      "title": "경제｜중국 경제 '내수 절벽'…소비 0.4%·투자 -8.1%, 경기 둔화 심화",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zMlZmd0l4eWJTUWpTcjRNXzBrcnZsT05BbERvQzE0dzhPamExZF9RdGVYUmFoS2NqX291Vk9zZXhUblM5Sm9MdVA0dkVSaXhSdjVZLTZGNWhVSFdMYU5IQ05nV20zZFREX2c?oc=5",
-      "source": "OBC 뉴스",
-      "date": "Mon, 16 Nov 2026 08:16:01 GMT"
-    },
-    {
-      "title": "中경제, 부양 조치에도 둔화…10월 생산·소비·투자지표 부진",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsT2o2elRoSVJVSlVXZl9sZFZPZ2JUekhjM2JCTkRNX1d5WE9TTXRrNWlyY2NGa0doOHVkT3FjZ29MU29vTzE1QUpsVktGSzk4YUhZVlJsOHo5REHSAWBBVV95cUxOS1Q4aUlFdTUwZzc4emNjOEQzc21RbzAxWGREblN3Y0tFRDdVc19xOHlFTDhkclRPdUU4bmtDSHB3QXNmeVBQbWlKeTU1SWIyV2x1N25Wa0hVRkZuU3VXVVE?oc=5",
-      "source": "연합뉴스",
-      "date": "Mon, 16 Nov 2026 05:32:44 GMT"
+      "title": "2026년 9월 중국경제 동향과 전망",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWXZOcXR6YTdmT0ZRR24tbUFJRmNhOFEwQ2cwajRBMWdxaVp4WW1USm9oSF81bUtlelhJNnl0czhuN213YzR6U040eGVNbEE1NWZFMEg0dm5qMFFKcWxwUWdIaURGaVJUUnBwVm9uUGIySmFnSUJCNUI4a3RSRWRiMFRmY01scFpSMGJseEZhYVhNOWxYMnFfeUVUSFdyMnN0NEE?oc=5",
+      "source": "KDI 경제교육·정보센터",
+      "date": "Thu, 12 Nov 2026 10:48:17 GMT"
     }
   ]
 }
