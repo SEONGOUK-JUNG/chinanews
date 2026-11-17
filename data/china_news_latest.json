@@ -1,10 +1,34 @@
 {
-  "run_at_kst": "2026-11-17T07:20:03+09:00",
+  "run_at_kst": "2026-11-17T10:10:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "중국, APEC 경제협력 성과 50건 육박…AI·디지털 무역이 절반",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83Q09QLXVFblBQc2hKWEZxWGlNREdIenYtcGNhSWtGZ1hRd1J3YmxoeEZwd1RGWnA4UXVlM0drSGlPNzl4aEtXNGo5LXBTbGV5TFNsUXNn?oc=5",
+      "source": "인터내셔널포커스",
+      "date": "Tue, 17 Nov 2026 00:32:39 GMT"
+    },
+    {
+      "title": "[CMG중국통신] 10월 중국 경제 전반적 안정 속 ‘신(新)동력 고도화’",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rM0dicXFMZ3c4ZE9Bay00b1lmeTVBRXpSRm1RQTJtOHJRMkp0a1JFd3ozcjFLRWlqdVlFQXVvdFd4X2xVTmkxU2wxUE4xQWtGUHZEY2N3?oc=5",
+      "source": "중앙일보",
+      "date": "Tue, 17 Nov 2026 00:19:10 GMT"
+    },
+    {
+      "title": "\"중국 경제회복 부담 누적…정부 지원책 나올 듯\"",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ITVpzY0FPaEwzYjFQd2FZNkFtRzg2bHo1TzYxbmxPclR0TjJjZHlYQy1ocWU3Q1FSS2xrb1ppZWYycVNmV1oxeEhmQmltdkhVa3FsMmNQRkItVnRTc2c?oc=5",
+      "source": "뉴스투데이",
+      "date": "Tue, 17 Nov 2026 00:16:00 GMT"
+    },
+    {
+      "title": "'아파트 대신 지어야 돈 번다'…요즘 뭉칫돈 몰리는 곳이 [차이나 워치]",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BVUh1Q29hWDQzOGVnV09jeXJkckpsd2Q3cngyQ2JSNU84V244ZFU1RlQtY054M1V2ZGtTZ0VuamYzamRPa3ZGYzc0bzMyM0hkdGxuNkt1QXRtUQ?oc=5",
+      "source": "한국경제",
+      "date": "Mon, 16 Nov 2026 22:51:02 GMT"
+    },
     {
       "title": "“최근 중국 경제 어려움, 탈북민 강제북송과 무관하지 않아” : 사회",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jVXNyU25DWVJyeHluUGhMczJsbWVWNXZKbi04WVJsMUdRaFFLU0QwMWlfMEZQTEtSSGR2emk0c3hPZUtka0ROejg1SUEwUTU4Y2luajMzNA?oc=5",
@@ -12,22 +36,16 @@
       "date": "Mon, 16 Nov 2026 21:08:26 GMT"
     },
     {
-      "title": "美, 중국의 AI 반도체 ‘클라우드 우회로’ 차단…해외 서버 빌려 써도 허가받아야",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWGFpcUZqNDgxWi0wRkhVVGhKR21DREN1SFd1UFVtWGxGUjFnZTkxeWVoMGpaaElyN09uOUJOQUVQd0dkT01hUHQ4LWlSV1g3eXN5MHJqelBFa25odkFlWEJJcHpuLWROVkNvQ1dKTlJWdVZoclNYODdERkp0aW5qQ2xVcw?oc=5",
-      "source": "조선일보",
-      "date": "Mon, 16 Nov 2026 19:28:00 GMT"
-    },
-    {
       "title": "트럼프 \"중국서 김정은 만날 수도…김정은 방중 시진핑에 달려\"",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Sc2tsRldhUFp2LS02RDBWM1pnQVl3SzBLNXBIVC1LRXlGaS1MS3NLRWQ4NEF6cTBQSjZuc2RNaTJvdzg4dHYyVDctWU9qdzRydGUzc3VvdzJqVHBFX1IxOXJnQQ?oc=5",
       "source": "조세금융신문",
-      "date": "Mon, 16 Nov 2026 17:03:54 GMT"
+      "date": "Mon, 16 Nov 2026 16:02:26 GMT"
     },
     {
-      "title": "트럼프 \"중국서 김정은 만날 수도\"…북미회담 가능성 언급",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80U2ozbG4yS2pzbUcyLVlQb3V6d3hjczhVUVNxb3Y0dWpjX2pLc0o4elF6Si1QQnZqZlNwX3RXXzVWLXJBU0F2TXpwd3R3dElMaEFveGI4aktZUQ?oc=5",
-      "source": "한국경제",
-      "date": "Mon, 16 Nov 2026 14:50:50 GMT"
+      "title": "트럼프 “중국서 김정은 만날 수도…시진핑·푸틴과 함께”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nLWNiTGRmeUg4T0NQYktzUkllUFl0NjlrbGVzSjJwVGlMSklZWUtCUEdHanpSNlY4bXpUcnZ0MmFHT0d2OGJXOHVocUVudmh3UUhZUG1VYlBKNWM?oc=5",
+      "source": "에너지경제신문",
+      "date": "Mon, 16 Nov 2026 15:47:29 GMT"
     },
     {
       "title": "트럼프 “중국에서 김정은 만날 수도 있어”",
@@ -54,28 +72,10 @@
       "date": "Mon, 16 Nov 2026 08:16:01 GMT"
     },
     {
-      "title": "중국 소비 증가율 0.4%로 둔화…부동산 투자 21.6% 급감, 첨단 제조업은 성장",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtUWZ5ajVaWnFIajVyMFJrcFBUc2JCOWwxb05BZWptcUJqVXJwdFkwbHNGVm9yZ2FhLTUwbS1qOU1Hbnl6NTZJN3MyMTlNX0lBeUg1QmZHLXZkZzI1UElKaHRYUzBfTVU4UjFSdzhuUmnSAXRBVV95cUxNMmdIcVJObEVobGNSWFFROFY2LVVwMTNHT1FtSHg0T2VGSlczeWVrc09fOEtnY2FKYXFJUzBRVWlBNk5FTmtzSGFTWHdnYTk3dklqMU9mWm9QbW0yZ2M0LUsxTkplRnFRQndadXd2WE1wT0pocQ?oc=5",
-      "source": "뉴스워커",
-      "date": "Mon, 16 Nov 2026 08:13:02 GMT"
-    },
-    {
       "title": "中경제, 부양 조치에도 둔화…10월 생산·소비·투자지표 부진",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsT2o2elRoSVJVSlVXZl9sZFZPZ2JUekhjM2JCTkRNX1d5WE9TTXRrNWlyY2NGa0doOHVkT3FjZ29MU29vTzE1QUpsVktGSzk4YUhZVlJsOHo5REHSAWBBVV95cUxOS1Q4aUlFdTUwZzc4emNjOEQzc21RbzAxWGREblN3Y0tFRDdVc19xOHlFTDhkclRPdUU4bmtDSHB3QXNmeVBQbWlKeTU1SWIyV2x1N25Wa0hVRkZuU3VXVVE?oc=5",
       "source": "연합뉴스",
       "date": "Mon, 16 Nov 2026 05:32:44 GMT"
-    },
-    {
-      "title": "[글로벌 여행경제] 중국 관광객의 달라진 소비…여행은 늘리고 지갑은 닫았다",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DM1dXMWVSRFNwRXM2ZG9IZ19jcmxrMVN2b2FodGpTZHVuT1JmYU5xbm9yeWlSQlNHaFBDTWM0dVZ4cGsyT216UEhEOHk4S2dCbkNoOU9OejVJN1lKNmJBUjdIYzdZN0Q5T1E?oc=5",
-      "source": "관광레저신문",
-      "date": "Mon, 16 Nov 2026 02:30:00 GMT"
-    },
-    {
-      "title": "2026년 9월 중국경제 동향과 전망",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWXZOcXR6YTdmT0ZRR24tbUFJRmNhOFEwQ2cwajRBMWdxaVp4WW1USm9oSF81bUtlelhJNnl0czhuN213YzR6U040eGVNbEE1NWZFMEg0dm5qMFFKcWxwUWdIaURGaVJUUnBwVm9uUGIySmFnSUJCNUI4a3RSRWRiMFRmY01scFpSMGJseEZhYVhNOWxYMnFfeUVUSFdyMnN0NEE?oc=5",
-      "source": "KDI 경제교육·정보센터",
-      "date": "Thu, 12 Nov 2026 10:48:17 GMT"
     }
   ]
 }

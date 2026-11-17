@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-17T07:20:03+09:00",
+  "run_at_kst": "2026-11-17T10:10:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,10 +8,40 @@
   "count": 14,
   "items": [
     {
+      "title": "Why Iraq Just Fast-Tracked Chevron’s Takeover Of A 14-Billion-Barrel Supergiant",
+      "link": "https://oilprice.com/Energy/Energy-General/Why-Iraq-Just-Fast-Tracked-Chevrons-Takeover-Of-A-14-Billion-Barrel-Supergiant.html",
+      "source": "OilPrice",
+      "date": "Mon, 16 Nov 2026 19:00:00 -0600"
+    },
+    {
+      "title": "Airlines Face Fuel Crisis as Price Hedges Expire",
+      "link": "https://oilprice.com/Energy/Energy-General/Airlines-Face-Fuel-Crisis-as-Price-Hedges-Expire.html",
+      "source": "OilPrice",
+      "date": "Mon, 16 Nov 2026 18:00:00 -0600"
+    },
+    {
+      "title": "Uganda Pushes First Oil to Mid-2027 as Iran War Holds Up Equipment",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Uganda-Pushes-First-Oil-to-Mid-2027-as-Iran-War-Holds-Up-Equipment.html",
+      "source": "OilPrice",
+      "date": "Mon, 16 Nov 2026 17:00:00 -0600"
+    },
+    {
+      "title": "Perenti inks $67 million contract with AngloGold Ashanti at Geita gold mine",
+      "link": "https://www.mining.com/perenti-inks-67-million-contract-with-anglogold-ashanti-at-geita-gold-mine/",
+      "source": "mining.com",
+      "date": "Mon, 16 Nov 2026 22:38:02 +0000"
+    },
+    {
       "title": "Can Underwater Data Centers Escape the Land-Based Backlash?",
       "link": "https://oilprice.com/Energy/Energy-General/Can-Underwater-Data-Centers-Escape-the-Land-Based-Backlash.html",
       "source": "OilPrice",
       "date": "Mon, 16 Nov 2026 16:00:00 -0600"
+    },
+    {
+      "title": "Greenland Energy, 80 Mile merge in $97 million all share deal",
+      "link": "https://www.mining.com/greenland-energy-80-mile-merge-in-97-million-all-share-deal/",
+      "source": "mining.com",
+      "date": "Mon, 16 Nov 2026 21:49:32 +0000"
     },
     {
       "title": "Can Economic Populism Survive an Age of Scarcity?",
@@ -38,28 +68,10 @@
       "date": "Mon, 16 Nov 2026 12:30:00 -0600"
     },
     {
-      "title": "The Hidden Cost Holding Back Europe’s Energy Innovators",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Hidden-Cost-Holding-Back-Europes-Energy-Innovators.html",
-      "source": "OilPrice",
-      "date": "Mon, 16 Nov 2026 12:00:00 -0600"
-    },
-    {
-      "title": "Illinois Ethanol Plant Bomb Is the Latest Threat to U.S. Energy Sites",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Illinois-Ethanol-Plant-Bomb-Is-the-Latest-Threat-to-US-Energy-Sites.html",
-      "source": "OilPrice",
-      "date": "Mon, 16 Nov 2026 11:30:00 -0600"
-    },
-    {
       "title": "Rio pledges $250 million to address Panguna damage",
       "link": "https://www.mining.com/rio-pledges-250m-to-address-panguna-damage/",
       "source": "mining.com",
       "date": "Mon, 16 Nov 2026 17:00:54 +0000"
-    },
-    {
-      "title": "Venezuela’s Oil Comeback Faces a New Threat From Washington",
-      "link": "https://oilprice.com/Energy/Energy-General/Venezuelas-Oil-Comeback-Faces-a-New-Threat-From-Washington.html",
-      "source": "OilPrice",
-      "date": "Mon, 16 Nov 2026 11:00:00 -0600"
     },
     {
       "title": "China’s rare earth giants double profits as prices soar",
@@ -78,18 +90,6 @@
       "link": "https://www.mining.com/scotia-metals-targets-hidden-lithium-in-brazils-bahia/",
       "source": "mining.com",
       "date": "Mon, 16 Nov 2026 16:14:00 +0000"
-    },
-    {
-      "title": "CleanTech’s key Chile lithium contract faces final review",
-      "link": "https://www.mining.com/chile-approval-delay-puts-cleantech-lithium-project-on-hold/",
-      "source": "mining.com",
-      "date": "Mon, 16 Nov 2026 15:03:00 +0000"
-    },
-    {
-      "title": "Ground View Pakistan: The miner who never mentioned the grade",
-      "link": "https://www.mining.com/ground-view-pakistan-the-miner-who-never-mentioned-the-grade/",
-      "source": "mining.com",
-      "date": "Mon, 16 Nov 2026 12:45:00 +0000"
     }
   ]
 }
