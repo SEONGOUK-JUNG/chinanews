@@ -1,15 +1,27 @@
 {
-  "run_at_kst": "2026-11-19T10:10:04+09:00",
+  "run_at_kst": "2026-11-19T14:10:05+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "\"대기업 해외법인 70% APEC에 집중…미국 늘고 중국 줄어\"",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3WnpRYWw1VFE2WUxCOHg0a2hYaDVTN3kxeHk0dDdjYWdDU0xiOVdVTGZNN1BnSnVzOUtEcUVWWDY1ZklNNXpQazBvVUlpeFlRdHNYNXZ0N1V0QdIBVEFVX3lxTFBqUzFsN3JCMVVaT0l5UXFJRGJsMkNIdm5HbHhZUkRULW96SkE1MXIyMkNoSDJxanhuMC1VSVp1RW5KU25GVTZNNzlBcF9jU2hGdnlKNQ?oc=5",
-      "source": "더팩트",
-      "date": "Thu, 19 Nov 2026 01:00:02 GMT"
+      "title": "APEC 정상회의 본회의 개막…트럼프 \"초지능은 거대한 기술적 변혁, 규제 반대\"",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KY2tGUHJ4UnVVRTlNS2FtV2pVQzhVbFNWdVNaMnJqZlMyZWVRWjhTY1lVbXZsa0hDZmNtMmdramVCclpCNUozRGJUaHZjUzBJ0gFTQVVfeXFMTUhUUDhRWWtMUGhvLW9uaVZSNllkVmxmaTBKbmFucnNXVDZ4elZodjgtdU1MRmxLakR5YUI4NTNHZzZmTWZ4LUdKUnpPQkdlZTJya1E?oc=5",
+      "source": "VOA 한국어 홈페이지",
+      "date": "Thu, 19 Nov 2026 03:09:56 GMT"
+    },
+    {
+      "title": "​​​​​​​[선전 APEC] 아태 경제질서 주도하겠다…시진핑, 중국 역할 강조",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GcFY2UlhYczh6MGhyWFFIb3Rfa3B4bEloLWJ6M2JWa1JOOUp5VVRxUDBPY0xnMEVReV96VEhvTXdMNVJnZ1VVbXdpVFdDM2ZPTHZaenZ1ZV93Z9IBWEFVX3lxTE4wNXV6dUNXZVJab09tMFdJbGpaUmJlcGdWRUk3Zk5sdUNLQmRYcGZ1aVFkd01IWWoyVmFXMUdfeHc0TXg3TU5TWEJscUJuZHJVQmtER2pPNFg?oc=5",
+      "source": "아주경제",
+      "date": "Thu, 19 Nov 2026 02:57:46 GMT"
+    },
+    {
+      "title": "습근평 아시아태평양경제협력기구 공상업 지도자 정상회의 개막식 참석 및 기조연설 발표--고위층동향",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pN2Z0VTE1TEM5ZjJWX2VTYnktUlg5SmRLZU90TzZlbGVRanp6c096b1NuY2tJSFJaeVQ1aGd6ZHVSbHI5cmJ5YWVIWVU0X3IxZC1tUjY4TkRJdkJUSDc0MTY0eDJUdE5nWTlBYmpR?oc=5",
+      "source": "인민넷",
+      "date": "Thu, 19 Nov 2026 01:26:00 GMT"
     },
     {
       "title": "중국 ‘한한령’ 해제 가능성에 부진했던 엔터테인먼트·콘텐츠주 급등...상승 이어질까",
@@ -24,16 +36,16 @@
       "date": "Wed, 18 Nov 2026 23:43:02 GMT"
     },
     {
+      "title": "한미러일, 중국 APEC 도착의 온도차",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1paW5PQkdpUG5IcjQ3VGFyeks2eTR4dF94ZTJVSERSc2FLTk9tYUNfR0dMTUh5eVZ5VDBhWU1MV0pPVG1pWUlkbjVkTkE2NnlRZEdvUXFB?oc=5",
+      "source": "매일경제",
+      "date": "Wed, 18 Nov 2026 23:11:44 GMT"
+    },
+    {
       "title": "중국 문 다시 열린다…\"엔터·미디어株 재평가 가능성\"",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zLU5DaFdVVFQyN2N6Zktvc2Zsd2Z5NlRsa1I2bXZEOVFaT0pIbkRjRE5JdXZpVHo2VmNhdW5TMHpFMG90d3JlZ3RtdERSSGE4UWp0STFpREMyZw?oc=5",
       "source": "한국경제",
       "date": "Wed, 18 Nov 2026 22:41:28 GMT"
-    },
-    {
-      "title": "중국 '한한령' 해제…\"K기업, 중국 내 매장 운영하고 여행객 모집 가능\" - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5anJ2azA1MGp2RXBmTjdkWFhpRzA4RThxZ29HdGNoN0xWNnpKc0Zuay1yR1ZQbWZVWXBSTXNucXBCWEVvU0lWMkx3eGVuY0NOLUh1QXYyRm53VUlhZjVPVzlEZXVpdTdWaVFR0gFwQVVfeXFMT05KZWNPVjVKTE9ZUjg1Y3dHY2xITWJxek5RcmliaWlwZE0zdHB1c1BUSDV1WXdSY2F3LU44ZUVTc1dac2EtZGxkTm5qenBZWHEydEllRUxhMWw2dENTWmtQcmtBYklEdE1NTDNnZTNWdw?oc=5",
-      "source": "머니투데이",
-      "date": "Wed, 18 Nov 2026 22:20:58 GMT"
     },
     {
       "title": "크고 빠른 중국에 맞설 한국의 전략…조평규 '칸동중국' [새책]",
@@ -42,40 +54,28 @@
       "date": "Wed, 18 Nov 2026 22:00:00 GMT"
     },
     {
-      "title": "中 시 주석, APEC CEO 서밋 개막식 기조연설...\"중국식 현대화 기회 함께 누리자\"-Xinhua",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QOEkwbURsVXNSZjIzMk5fQ3oyQThNXy12bnhGekxGbThPT0VjaGpGMndxWDZYOEVBamtUY29OZm9STTRwSkhMR3dNNEp0U2NxRXJyUk5pSlVtNFlBbU1YT0V3d2tld0NHcDBfcF9MdDlqOHRU?oc=5",
-      "source": "신화망",
-      "date": "Wed, 18 Nov 2026 08:47:48 GMT"
+      "title": "중국 '한한령' 해제…\"K기업, 중국 내 매장 운영하고 여행객 모집 가능\" - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5anJ2azA1MGp2RXBmTjdkWFhpRzA4RThxZ29HdGNoN0xWNnpKc0Zuay1yR1ZQbWZVWXBSTXNucXBCWEVvU0lWMkx3eGVuY0NOLUh1QXYyRm53VUlhZjVPVzlEZXVpdTdWaVFR0gFwQVVfeXFMT05KZWNPVjVKTE9ZUjg1Y3dHY2xITWJxek5RcmliaWlwZE0zdHB1c1BUSDV1WXdSY2F3LU44ZUVTc1dac2EtZGxkTm5qenBZWHEydEllRUxhMWw2dENTWmtQcmtBYklEdE1NTDNnZTNWdw?oc=5",
+      "source": "머니투데이",
+      "date": "Wed, 18 Nov 2026 07:05:10 GMT"
     },
     {
-      "title": "[심층-아프리카 블록] 아프리카, 대중 무역적자 1,000억 달러 돌파…중국 경제 의존 심화 우려",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DZHNXLWFzQlZXT1lFSEw4RWtPb3ZBdS1ONEczYjFNQVJYUW1MZ3JXamxEX1JhQ1RyQUNFRGphdFNzaWhxR1ZyQ29tNlpDZUkzZFdLN29TdFlDMXdSWDRmNlZBYkRNVFRT?oc=5",
-      "source": "국제통상신문",
-      "date": "Wed, 18 Nov 2026 07:28:04 GMT"
+      "title": "중국의 선전 APEC 개최는 '미국과 차별화 시도' 평가, 무역 개방과 공급망 협력 강조",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96dHBPalFiRjJENG9qVk1xVW1GdmlvY1RwQnlZbmprQ2h1REJUVHF2ZGR2TjZ3emRMaGtFSTVybUJRTVJuZmVicXUxX1E2Z0oyTWEwU1FkM3NMb2tDRF9HZUlXc3Jyb3hEVi1Kd0ZSNTRnVk0?oc=5",
+      "source": "비즈니스포스트",
+      "date": "Wed, 18 Nov 2026 06:55:12 GMT"
     },
     {
-      "title": "[선전 APEC 개막 ] 시진핑 '중국 경제' 글로벌 기업에 협력 기회 제공",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuN1hSNzh4aUdaQmZJd1VPNHpUOFpiSWVOcmJjbGFBUTg3LUlnUTZ3RlhJRHN3QjFEUWFxN1FEN01vYkNoMG41X2ZFZ3cxTmIyZ2c3X01IUGxfeFdG?oc=5",
-      "source": "뉴스핌",
-      "date": "Wed, 18 Nov 2026 03:12:00 GMT"
-    },
-    {
-      "title": "\"중국 경제회복 부담 누적…정부 지원책 나올 듯\"",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ITVpzY0FPaEwzYjFQd2FZNkFtRzg2bHo1TzYxbmxPclR0TjJjZHlYQy1ocWU3Q1FSS2xrb1ppZWYycVNmV1oxeEhmQmltdkhVa3FsMmNQRkItVnRTc2c?oc=5",
-      "source": "뉴스투데이",
-      "date": "Tue, 17 Nov 2026 00:16:00 GMT"
+      "title": "시진핑 \"일방주의·보호주의 기승…개방과 협력으로 아·태 번영 이끌어야\"",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tMVFsZWthOEhNNUxoVGF3aHhNRlR5ellqcDN0Y1liaGdBYld4ZVVyRXZueXRVb0xteXg5VUhrMG9ra0xpTTdxbHR2WXB3VE9wR3gxdnY5T1JITEdzdmNtMjNyYmJqQ0lONEg1V1Jn0gFzQVVfeXFMT2NvLTBSTDFuOVNQRWp3X1NUZm5RSWVYVnVkcmlXMmI1WkU0MFRZNERUbmNfVVNuUTdBYkVnaXppa3E0TTdXWGFDOVpJQWRtMHpSSXdVVTZLV1ZrSk1GWUliTDBfd0hPRV9aVzRXWDY5M2RoRQ?oc=5",
+      "source": "한국일보",
+      "date": "Wed, 18 Nov 2026 04:44:00 GMT"
     },
     {
       "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
       "source": ":: 위즈경제 ::",
       "date": "Fri, 13 Nov 2026 08:00:00 GMT"
-    },
-    {
-      "title": "2026년 9월 중국경제 동향과 전망",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWXZOcXR6YTdmT0ZRR24tbUFJRmNhOFEwQ2cwajRBMWdxaVp4WW1USm9oSF81bUtlelhJNnl0czhuN213YzR6U040eGVNbEE1NWZFMEg0dm5qMFFKcWxwUWdIaURGaVJUUnBwVm9uUGIySmFnSUJCNUI4a3RSRWRiMFRmY01scFpSMGJseEZhYVhNOWxYMnFfeUVUSFdyMnN0NEE?oc=5",
-      "source": "KDI 경제교육·정보센터",
-      "date": "Thu, 12 Nov 2026 10:48:17 GMT"
     }
   ]
 }

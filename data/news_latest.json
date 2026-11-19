@@ -1,12 +1,17 @@
 {
-  "run_at_kst": "2026-11-19T10:10:04+09:00",
+  "run_at_kst": "2026-11-19T14:10:05+09:00",
   "schema_version": "1.0",
   "sources": [
-    "mining.com",
     "OilPrice"
   ],
-  "count": 14,
+  "count": 8,
   "items": [
+    {
+      "title": "Inside the Army’s 75 Year Plan to Escape China’s Rare Earth Dominance",
+      "link": "https://oilprice.com/Energy/Energy-General/Inside-the-Armys-75-Year-Plan-to-Escape-Chinas-Rare-Earth-Dominance.html",
+      "source": "OilPrice",
+      "date": "Wed, 18 Nov 2026 20:00:00 -0600"
+    },
     {
       "title": "Permian Growth Turns Moderate Despite War",
       "link": "https://oilprice.com/Energy/Crude-Oil/Permian-Growth-Turns-Moderate-Despite-War.html",
@@ -26,18 +31,6 @@
       "date": "Wed, 18 Nov 2026 17:00:00 -0600"
     },
     {
-      "title": "Molten Industries launches first US graphite plant using natural gas",
-      "link": "https://www.mining.com/molten-industries-launches-first-us-graphite-plant-using-natural-gas/",
-      "source": "mining.com",
-      "date": "Wed, 18 Nov 2026 22:38:30 +0000"
-    },
-    {
-      "title": "AngloGold outlines $2.5B Quebradona copper plan",
-      "link": "https://www.mining.com/anglogold-outlines-2-5b-quebradona-copper-plan/",
-      "source": "mining.com",
-      "date": "Wed, 18 Nov 2026 22:17:00 +0000"
-    },
-    {
       "title": "China Burns Less Oil and Coal as the Iran War Reshapes Its Energy Mix",
       "link": "https://oilprice.com/Energy/Energy-General/China-Burns-Less-Oil-and-Coal-as-the-Iran-War-Reshapes-Its-Energy-Mix.html",
       "source": "OilPrice",
@@ -50,12 +43,6 @@
       "date": "Wed, 18 Nov 2026 15:00:00 -0600"
     },
     {
-      "title": "US rare earths regulations to get stricter in the new year",
-      "link": "https://www.mining.com/us-rare-earths-regulations-to-get-stricter-in-the-new-year/",
-      "source": "mining.com",
-      "date": "Wed, 18 Nov 2026 20:14:53 +0000"
-    },
-    {
       "title": "Iraq's Border Shutdown With Iran Threatens a Much Bigger Economic Crisis",
       "link": "https://oilprice.com/Geopolitics/Middle-East/Iraqs-Border-Shutdown-With-Iran-Threatens-a-Much-Bigger-Economic-Crisis.html",
       "source": "OilPrice",
@@ -66,30 +53,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/China-Secures-Major-Gas-Deal-as-Its-Influence-Grows-Across-Central-Asia.html",
       "source": "OilPrice",
       "date": "Wed, 18 Nov 2026 13:00:00 -0600"
-    },
-    {
-      "title": "Collective hits gold in rock classed as waste at Apollo",
-      "link": "https://www.mining.com/collective-hits-gold-in-rock-classed-as-waste-at-apollo/",
-      "source": "mining.com",
-      "date": "Wed, 18 Nov 2026 18:20:02 +0000"
-    },
-    {
-      "title": "Phoenix hits broad gold and copper at old BC mine",
-      "link": "https://www.mining.com/phoenix-hits-broad-gold-and-copper-at-old-bc-mine/",
-      "source": "mining.com",
-      "date": "Wed, 18 Nov 2026 18:17:48 +0000"
-    },
-    {
-      "title": "Copper Heads for Longest Weekly Losing Streak in Two Years",
-      "link": "https://oilprice.com/Metals/Commodities/Copper-Heads-for-Longest-Weekly-Losing-Streak-in-Two-Years.html",
-      "source": "OilPrice",
-      "date": "Wed, 18 Nov 2026 12:00:00 -0600"
-    },
-    {
-      "title": "Copper price craters as AI, tariff trades unwind, wiping $186 billion off top producers in a month",
-      "link": "https://www.mining.com/copper-price-craters-as-ai-tariff-trades-unwind-and-asia-copper-week-hears-of-recessionary-like-demand/",
-      "source": "mining.com",
-      "date": "Wed, 18 Nov 2026 15:58:41 +0000"
     }
   ]
 }
