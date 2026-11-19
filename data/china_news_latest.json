@@ -1,15 +1,33 @@
 {
-  "run_at_kst": "2026-11-19T20:10:05+09:00",
+  "run_at_kst": "2026-11-20T07:20:03+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "중국 '한한령' 해제…\"K기업, 중국 내 매장 운영하고 여행객 모집 가능\" - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5anJ2azA1MGp2RXBmTjdkWFhpRzA4RThxZ29HdGNoN0xWNnpKc0Zuay1yR1ZQbWZVWXBSTXNucXBCWEVvU0lWMkx3eGVuY0NOLUh1QXYyRm53VUlhZjVPVzlEZXVpdTdWaVFR0gFwQVVfeXFMT05KZWNPVjVKTE9ZUjg1Y3dHY2xITWJxek5RcmliaWlwZE0zdHB1c1BUSDV1WXdSY2F3LU44ZUVTc1dac2EtZGxkTm5qenBZWHEydEllRUxhMWw2dENTWmtQcmtBYklEdE1NTDNnZTNWdw?oc=5",
-      "source": "머니투데이",
-      "date": "Thu, 19 Nov 2026 10:23:54 GMT"
+      "title": "중국 구이린에 어린 항일의 숨결 내일의 기회 여는 경제 나침반",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8teThta21PVDJ1cHNESS1wcnpmLWpiSnJjaWh1a1dUZDU0NXJYQmprbnpIQzI0TmhPX1NRbHQ4SDdDWTIwVG0zOHZhWHNMVExoSzFNMFQyUVRQUFpySjEzaVlRUVVFeVVMTk40TTRhaw?oc=5",
+      "source": "기호일보",
+      "date": "Thu, 19 Nov 2026 20:50:48 GMT"
+    },
+    {
+      "title": "미 전문가들 “미중러 정상회담, 실질적 성과 제한적…중국 위상 강화”",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ0c3RmRRN2FIR24zRmtoeTdaQjBqM3o4a0l6bGVWTjctZTRrNVowcFliaDZZaXRmR3dnRE9KOFNta25SUUVpYUFaWjlZWXR5NGVPVnVjN3VzM2JuX1Y1U0VUbEJCeUJDa014QVZESjJwdmFqS0lPTjBQOHJJQXI3X29LUnlEQ193a3VN0gGOAUFVX3lxTE5DaTJqRklxb1dRZ3FxR2pLU0tQN1dCYkRmLUdVNVJLdWh2bFFia1NqTGtvTzVYczJ6aXFCd3dUY2NrakY2VVRsYVltb3kta01sMWJZVGNuZU1DbzBIMzdhOG1tSzgwYjRCaEZCUkxJblVQU0ltUmQwQ3dmT3cwd1VkbHFoZ3FQYmk3cFJTRHc?oc=5",
+      "source": "VOA 한국어 홈페이지",
+      "date": "Thu, 19 Nov 2026 20:22:14 GMT"
+    },
+    {
+      "title": "[조윤제 칼럼] 중국 제조업이 세계 질서를 바꾼다",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94bWpzdTBmYlM3R2pxUzZFM2tqZDM4SzZ0VGVIQlFWU1l2Z1JjUHVrTHBmeXBhQnB2VjQtTDdqODRnWWZpNEd0MzI2Qm1CdG1wN1V2SXd3?oc=5",
+      "source": "중앙일보",
+      "date": "Thu, 19 Nov 2026 15:18:00 GMT"
+    },
+    {
+      "title": "[김학균의 쓰고 달콤한 경제]중국 제조업의 약진과 자본 효율성의 딜레마",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zdkt5M1UtQXhsbXY0NG9odkFid0tiZFlNcV9aM0ttX2VNQkRJUUV5TThtLXhZWjlMTVF0S3E0U0VOSVJvNDlKcU1QLXJ6RGRiUjZWZmdRMExBUdIBX0FVX3lxTFBQR1FOLWd3UWhGUTNjWGttRVhfVzBVT3p1dS1kTEYwRzU2LUd0c2tDRmlBVi1OT3VKanRWN0NmV0lqX2FYeFI0ZEhjYUpKcm0tSHFDdENjSGg3NzQ1a0Jn?oc=5",
+      "source": "경향신문",
+      "date": "Thu, 19 Nov 2026 11:04:00 GMT"
     },
     {
       "title": "미중러 정상회담: 시진핑에게 놀라운 외교적 순간…3자 정상회담엔 복병도",
@@ -18,16 +36,10 @@
       "date": "Thu, 19 Nov 2026 10:17:03 GMT"
     },
     {
-      "title": "전면 철수 10년 만에 다시 열린 중국 시장…14억 수요에 기대 부푼 산업계",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KREh5QXFSY3d1enZHRmkzMU9oZTJBbnFvclBsRlU4enJ3U1hnZW1tVFBLbGFXS09uZ1lTRkdJdmlQOTBNdzQ1QmlJb3dUcG85LWZtODdn?oc=5",
-      "source": "중앙일보",
-      "date": "Thu, 19 Nov 2026 09:06:49 GMT"
-    },
-    {
-      "title": "중국 구이린에 어린 항일의 숨결 내일의 기회 여는 경제 나침반",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8teThta21PVDJ1cHNESS1wcnpmLWpiSnJjaWh1a1dUZDU0NXJYQmprbnpIQzI0TmhPX1NRbHQ4SDdDWTIwVG0zOHZhWHNMVExoSzFNMFQyUVRQUFpySjEzaVlRUVVFeVVMTk40TTRhaw?oc=5",
-      "source": "기호일보",
-      "date": "Thu, 19 Nov 2026 08:56:23 GMT"
+      "title": "[세계 수소경제 대전환 ②] 중국·미국·유럽·일본, 수소 패권 경쟁의 승자는 누구인가",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9laE9xVEljSkdESHB3X2otNWpTdjUyeWQ0eGJ5X0lUQ1o5M3J0SUc0dkFtdHpvYXhzbFE5anR0OVJ5QkNnTFdqTWoxd2l4VjBOWnVmbllKNVIyeEM5MVMwNFBqSW5EX2h3dFNKLQ?oc=5",
+      "source": "https://www.climatepol.com/",
+      "date": "Thu, 19 Nov 2026 08:59:10 GMT"
     },
     {
       "title": "'28년 COP33 한국에서 열리나...중국·인도 후퇴로 기회 열려",
@@ -48,28 +60,16 @@
       "date": "Thu, 19 Nov 2026 05:38:00 GMT"
     },
     {
-      "title": "APEC 정상회의 본회의 개막…트럼프 \"초지능은 거대한 기술적 변혁, 규제 반대\"",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KY2tGUHJ4UnVVRTlNS2FtV2pVQzhVbFNWdVNaMnJqZlMyZWVRWjhTY1lVbXZsa0hDZmNtMmdramVCclpCNUozRGJUaHZjUzBJ0gFTQVVfeXFMTUhUUDhRWWtMUGhvLW9uaVZSNllkVmxmaTBKbmFucnNXVDZ4elZodjgtdU1MRmxLakR5YUI4NTNHZzZmTWZ4LUdKUnpPQkdlZTJya1E?oc=5",
-      "source": "VOA 한국어 홈페이지",
-      "date": "Thu, 19 Nov 2026 03:09:56 GMT"
-    },
-    {
-      "title": "습근평 아시아태평양경제협력기구 공상업 지도자 정상회의 개막식 참석 및 기조연설 발표--고위층동향",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pN2Z0VTE1TEM5ZjJWX2VTYnktUlg5SmRLZU90TzZlbGVRanp6c096b1NuY2tJSFJaeVQ1aGd6ZHVSbHI5cmJ5YWVIWVU0X3IxZC1tUjY4TkRJdkJUSDc0MTY0eDJUdE5nWTlBYmpR?oc=5",
-      "source": "인민넷",
-      "date": "Thu, 19 Nov 2026 01:26:00 GMT"
-    },
-    {
-      "title": "[김석우 칼럼] '자유' 없는 중국...중국몽은 아메리칸 드림을 이길 수 없다",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QQnpTT3dmbzVTYjVsSVZENzhXUHhMXzlLQWN6a1BQb2lXUGxvYkJ3UUJtVXAxWU95ODFQc3k2SlIxU2xJUVZRTWJyOWFMN25xZVlsTmMtcGlLbmhQdHJmNUUzSlk3YlpWLTIw0gFvQVVfeXFMT0ZLSEltaDJpcVRRT2cyajY0MGR5cnpBeHduODZnWllFSEF3TDBuT3JUQ0NGRFQxS0V0Q0ZScFluakJXSG54cURzZUl3OWgtdDg3bDhGYmplVGZveW9nN21TNktLYmFZcmFta2J3cE9z?oc=5",
-      "source": "펜앤마이크",
-      "date": "Wed, 18 Nov 2026 23:43:02 GMT"
-    },
-    {
       "title": "[선전 APEC 개막 ] 시진핑 '중국 경제' 글로벌 기업에 협력 기회 제공",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuN1hSNzh4aUdaQmZJd1VPNHpUOFpiSWVOcmJjbGFBUTg3LUlnUTZ3RlhJRHN3QjFEUWFxN1FEN01vYkNoMG41X2ZFZ3cxTmIyZ2c3X01IUGxfeFdG?oc=5",
       "source": "뉴스핌",
       "date": "Wed, 18 Nov 2026 03:12:00 GMT"
+    },
+    {
+      "title": "조평규 한중기업연합회 회장: 중국 첨단기술, 중한 협력의 미래",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GdTFkVkJuSjNqNWVvM3hrZkFuQS1BdFNGUzJXUkxTbTA1U3hFcWx1el8xMy03SElhT2lwQkNvZERjZGszUVR0bkdYT2p0aEVSMXlJZDNsZEdUeUZiYy02TFZFNA?oc=5",
+      "source": "CGTN",
+      "date": "Tue, 17 Nov 2026 13:56:10 GMT"
     },
     {
       "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
