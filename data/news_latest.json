@@ -1,11 +1,42 @@
 {
-  "run_at_kst": "2026-11-19T14:10:05+09:00",
+  "run_at_kst": "2026-11-19T20:10:05+09:00",
   "schema_version": "1.0",
   "sources": [
+    "mining.com",
     "OilPrice"
   ],
-  "count": 8,
+  "count": 14,
   "items": [
+    {
+      "title": "India’s Oil Imports Hit Record High as Saudi Shipments Surge",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Oil-Imports-Hit-Record-High-as-Saudi-Shipments-Surge.html",
+      "source": "OilPrice",
+      "date": "Thu, 19 Nov 2026 04:30:00 -0600"
+    },
+    {
+      "title": "Ground View Pakistan: The message behind the words",
+      "link": "https://www.mining.com/ground-view-pakistan-the-message-behind-the-words/",
+      "source": "mining.com",
+      "date": "Thu, 19 Nov 2026 10:00:00 +0000"
+    },
+    {
+      "title": "The Middle East War Has Wiped 2.8 Billion Barrels Off Global Oil Supply",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/The-Middle-East-War-Has-Wiped-28-Billion-Barrels-Off-Global-Oil-Supply.html",
+      "source": "OilPrice",
+      "date": "Thu, 19 Nov 2026 03:00:00 -0600"
+    },
+    {
+      "title": "EU Delays Methane Rules by Two Years Amid Energy Supply Fears",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Delays-Methane-Rules-by-Two-Years-Amid-Energy-Supply-Fears.html",
+      "source": "OilPrice",
+      "date": "Thu, 19 Nov 2026 01:30:00 -0600"
+    },
+    {
+      "title": "Oil Prices Steady as Hormuz Tanker Threats Offset Supply Glut Fears",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Steady-as-Hormuz-Tanker-Threats-Offset-Supply-Glut-Fears.html",
+      "source": "OilPrice",
+      "date": "Thu, 19 Nov 2026 00:00:00 -0600"
+    },
     {
       "title": "Inside the Army’s 75 Year Plan to Escape China’s Rare Earth Dominance",
       "link": "https://oilprice.com/Energy/Energy-General/Inside-the-Armys-75-Year-Plan-to-Escape-Chinas-Rare-Earth-Dominance.html",
@@ -31,28 +62,34 @@
       "date": "Wed, 18 Nov 2026 17:00:00 -0600"
     },
     {
-      "title": "China Burns Less Oil and Coal as the Iran War Reshapes Its Energy Mix",
-      "link": "https://oilprice.com/Energy/Energy-General/China-Burns-Less-Oil-and-Coal-as-the-Iran-War-Reshapes-Its-Energy-Mix.html",
-      "source": "OilPrice",
-      "date": "Wed, 18 Nov 2026 16:00:00 -0600"
+      "title": "Molten Industries launches first US graphite plant using natural gas",
+      "link": "https://www.mining.com/molten-industries-launches-first-us-graphite-plant-using-natural-gas/",
+      "source": "mining.com",
+      "date": "Wed, 18 Nov 2026 22:38:30 +0000"
     },
     {
-      "title": "Thames Water's Rescue Deal Comes With a Dirty Catch",
-      "link": "https://oilprice.com/Energy/Energy-General/Thames-Waters-Rescue-Deal-Comes-With-a-Dirty-Catch.html",
-      "source": "OilPrice",
-      "date": "Wed, 18 Nov 2026 15:00:00 -0600"
+      "title": "AngloGold outlines $2.5B Quebradona copper plan",
+      "link": "https://www.mining.com/anglogold-outlines-2-5b-quebradona-copper-plan/",
+      "source": "mining.com",
+      "date": "Wed, 18 Nov 2026 22:17:00 +0000"
     },
     {
-      "title": "Iraq's Border Shutdown With Iran Threatens a Much Bigger Economic Crisis",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/Iraqs-Border-Shutdown-With-Iran-Threatens-a-Much-Bigger-Economic-Crisis.html",
-      "source": "OilPrice",
-      "date": "Wed, 18 Nov 2026 14:00:00 -0600"
+      "title": "US rare earths regulations to get stricter in the new year",
+      "link": "https://www.mining.com/us-rare-earths-regulations-to-get-stricter-in-the-new-year/",
+      "source": "mining.com",
+      "date": "Wed, 18 Nov 2026 20:14:53 +0000"
     },
     {
-      "title": "China Secures Major Gas Deal as Its Influence Grows Across Central Asia",
-      "link": "https://oilprice.com/Energy/Energy-General/China-Secures-Major-Gas-Deal-as-Its-Influence-Grows-Across-Central-Asia.html",
-      "source": "OilPrice",
-      "date": "Wed, 18 Nov 2026 13:00:00 -0600"
+      "title": "Collective hits gold in rock classed as waste at Apollo",
+      "link": "https://www.mining.com/collective-hits-gold-in-rock-classed-as-waste-at-apollo/",
+      "source": "mining.com",
+      "date": "Wed, 18 Nov 2026 18:20:02 +0000"
+    },
+    {
+      "title": "Phoenix hits broad gold and copper at old BC mine",
+      "link": "https://www.mining.com/phoenix-hits-broad-gold-and-copper-at-old-bc-mine/",
+      "source": "mining.com",
+      "date": "Wed, 18 Nov 2026 18:17:48 +0000"
     }
   ]
 }
