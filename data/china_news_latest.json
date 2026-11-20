@@ -1,45 +1,39 @@
 {
-  "run_at_kst": "2026-11-20T14:10:03+09:00",
+  "run_at_kst": "2026-11-21T07:20:02+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "APEC 만찬식탁 오른 中리치와인 품절 대란…\"매출 900배 급증\"",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zajJYMmdMR1c0ODNsUXlTejk4Zk4teDJscjdXbGdMRGxUQU5fREppWUU5b2ZucHVncnVpZHZ3TzF5OGxud2c0azlfbVQtRElueFFIQUxyUVZqUElnLW5ZcUlIengyT2ZoblI1X2RTTjFxYUlM?oc=5",
-      "source": "연합뉴스 한민족센터",
-      "date": "Fri, 20 Nov 2026 04:15:20 GMT"
+      "title": "국제적 비난 받던 신장, 중국 경제 야망의 핵심이 되다 [PADO] - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MeVBxcmlZdVY1dlNTbjJMWXZSVTJEVFJuU0RZTVFCbnN4ZVYzeUtwV3RPcUJ1YV8zXzdxMEV3MkpXN0JQNS1wWGt3bjlxOGxuVElDelhZSlQwcDFUWXV5SmtSQ20xdHZX0gFuQVVfeXFMTlFIb3pkei1iVWN4dHpOTlRncmx0ejJzZFRHVGEyVm50d0dyQ0pieGlmRF9LZjlQVHdvcHN6TlJURnF6ZlZ5UzUtdURKMGk5WXRhbWcwbGZUN0lxQVhIT2NXdlR5Tl9oRTBDR2FadFE?oc=5",
+      "source": "머니투데이",
+      "date": "Fri, 20 Nov 2026 21:00:00 GMT"
     },
     {
-      "title": "AMD도 중국 수출 규제 의혹…주가 7.7% 급락",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BeHoxd201V1FKN01ad3FSUWpqQi1JWWE3TzVLWGNTMGRWNEplUGdZdmlxN19YQVpWckg4Nk10RzY4c1loV3RNeXd2bkR2b1hhb1VaZ1NxN1Atczd2amVvcGNrVTJsS0JWYjl5Wg?oc=5",
-      "source": "스페셜경제",
-      "date": "Fri, 20 Nov 2026 02:32:47 GMT"
+      "title": "[오늘의 경제뉴스] AMD까지 중국 수출통제 위반 의혹…삼전·닉스에 불똥 튀나",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92czhhcjEwWGZRV3N0a09Zb3ZZQ0NpRENZTVRDcERGZ0VnTmRWTVRscG8yVVFmM0JMbm1RdjJGVjR3cFBZVHR4eWxwQ0RuY2F0V0xqR3g5c3VmWkExSGRFQk1NMDBxWlB4d1E?oc=5",
+      "source": "뉴스버스",
+      "date": "Fri, 20 Nov 2026 16:20:49 GMT"
     },
     {
-      "title": "[중국 뉴스 브리핑] 2026년 11월 20일",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tRmlCSElGNzVwa3F6WWlJN1VmU0FJcFNZbEViQ3J3bFdFcURocnFHaDI2SWxnclpBVVkxOFhpdmczUXpjUTltbTdzTnJaOU9MMEpCalhTSldtZ1JWM2c5a2VpSU54dFNOWEE?oc=5",
-      "source": "인민망 한국어판",
-      "date": "Fri, 20 Nov 2026 02:22:00 GMT"
+      "title": "중국 AI로 성장한 미국 커서, 이번엔 ‘중국 모델 퇴출’ 검토",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDeWdlUjZwNS15SFdpcGZJUkE4Y0tRMEJ3TlFvV3QyU2VGN2tpYV9FOU02dXZpOXdYbG0tNnM1LTZEbC11TmMzTFVGd1lDcVoxRHNTSVJNS0w2eVVQQXRtRHEtNzFpTUxzTHc?oc=5",
+      "source": "OBC 뉴스",
+      "date": "Fri, 20 Nov 2026 16:01:26 GMT"
     },
     {
-      "title": "'문화 협력'은 '한한령 해제'와는 다르다",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ucS1hNWpsNEljVnpLRU1pWnhDYUZ4MkQwMUdBdkZNaEpkXzBGd0tGQy1MYjdJLWhrRTVvZkhLWWEzZHpTMHR4bWtXOUYyd0RRY3hxTU13QVdmeXltZllfbllvN1RhZlAxc0xraFoxSzZPMUhaMV8w?oc=5",
-      "source": "OhmyNews",
-      "date": "Thu, 19 Nov 2026 23:49:00 GMT"
+      "title": "\"나는 중국의 열렬한 팬\"…머스크 한마디에 '들썩'",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZU0puYjcxcDZ1d3VJdzd3aWE2S2g2MXZ6bkNvSkNQWFI5cjVrdmJ1ZmtyVmRKSVFfTVNiMTdYWmRDdEY2dVdQNTdwR0hJdlBwTnR0VE9xSUh0dw?oc=5",
+      "source": "한국경제",
+      "date": "Fri, 20 Nov 2026 12:54:31 GMT"
     },
     {
-      "title": "이재명 대통령의 필리핀·중국 순방, 경제 협력과 한반도 평화 새 장 열다",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rSXQ0SThjQmc0TU53TXY3b25PVlhYSkZJMms1WFNVN0J1dHB0Vm1VQmhZUWYtNkdrVlFNa1pzTTM1ZXBxMVNCS2NqT25aQ2FRVlhkaGIyX3M5UFFoTW5YMGlpMlVabElV?oc=5",
-      "source": "공감신문",
-      "date": "Thu, 19 Nov 2026 22:24:03 GMT"
-    },
-    {
-      "title": "[월드 프리즘] 시진핑이 성사시킨 역사적 미·중·러 3자회담...중국 외교력 과시 이면의 복잡한 국내외 과제",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FVzVSeVpXWnpHYzdXSmxTMGZQNDMzeHRSUGo3b2pidWZXTllzbGp2Tm85TG9rSFd0T3hJaDhsVVRxRDh6cDhBOHBMUF9mTUEtbEk0T21OdVNGWmRYLXZwLWFtdTBoNWo4UG5SYUpqdnE?oc=5",
-      "source": "위키리크스한국",
-      "date": "Thu, 19 Nov 2026 20:52:00 GMT"
+      "title": "제주도·제주창경, 로컬기업 22개사 중국 판로 개척 나선다",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yV3YzZ2JNTnNlLWNyZzRqbkxfT0IxUVVJU0w5dU4zZUZmOE9xT2MxZXdGcFV2dk9ackZ6SFhjOC1VSUhzbmlHMzZNUGVQVkRUMU9tMzRrdC1YcVlWY3ZGeG8xSFZFMkJmV29qM3R3?oc=5",
+      "source": "지금제주",
+      "date": "Fri, 20 Nov 2026 06:50:01 GMT"
     },
     {
       "title": "중국 구이린에 어린 항일의 숨결 내일의 기회 여는 경제 나침반",
@@ -72,10 +66,16 @@
       "date": "Wed, 18 Nov 2026 03:12:00 GMT"
     },
     {
-      "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Fri, 13 Nov 2026 08:00:00 GMT"
+      "title": "조평규 한중기업연합회 회장: 중국 첨단기술, 중한 협력의 미래",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GdTFkVkJuSjNqNWVvM3hrZkFuQS1BdFNGUzJXUkxTbTA1U3hFcWx1el8xMy03SElhT2lwQkNvZERjZGszUVR0bkdYT2p0aEVSMXlJZDNsZEdUeUZiYy02TFZFNA?oc=5",
+      "source": "CGTN",
+      "date": "Tue, 17 Nov 2026 13:56:10 GMT"
+    },
+    {
+      "title": "2026년 하반기 중국경제 전망",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsRkFRbC1OWUhGcnR5TnpySzJ1QmlEQWV0dVRjSWVldElNV3dmVnRKMDhXWEdEa0pxLXRHdlZnTUU5RUx2ampxYUVvUWFJakhsdFpZejVXb2taeFZNWkZ2VUNKNXREZVBkaXpB?oc=5",
+      "source": "KDI 경제교육·정보센터",
+      "date": "Tue, 03 Nov 2026 20:41:54 GMT"
     }
   ]
 }
