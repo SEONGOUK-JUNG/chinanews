@@ -1,10 +1,28 @@
 {
-  "run_at_kst": "2026-11-20T07:20:03+09:00",
+  "run_at_kst": "2026-11-20T10:10:08+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "'문화 협력'은 '한한령 해제'와는 다르다",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ucS1hNWpsNEljVnpLRU1pWnhDYUZ4MkQwMUdBdkZNaEpkXzBGd0tGQy1MYjdJLWhrRTVvZkhLWWEzZHpTMHR4bWtXOUYyd0RRY3hxTU13QVdmeXltZllfbllvN1RhZlAxc0xraFoxSzZPMUhaMV8w?oc=5",
+      "source": "OhmyNews",
+      "date": "Thu, 19 Nov 2026 23:49:00 GMT"
+    },
+    {
+      "title": "이재명 대통령의 필리핀·중국 순방, 경제 협력과 한반도 평화 새 장 열다",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rSXQ0SThjQmc0TU53TXY3b25PVlhYSkZJMms1WFNVN0J1dHB0Vm1VQmhZUWYtNkdrVlFNa1pzTTM1ZXBxMVNCS2NqT25aQ2FRVlhkaGIyX3M5UFFoTW5YMGlpMlVabElV?oc=5",
+      "source": "공감신문",
+      "date": "Thu, 19 Nov 2026 22:24:03 GMT"
+    },
+    {
+      "title": "[월드 프리즘] 시진핑이 성사시킨 역사적 미·중·러 3자회담...중국 외교력 과시 이면의 복잡한 국내외 과제",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FVzVSeVpXWnpHYzdXSmxTMGZQNDMzeHRSUGo3b2pidWZXTllzbGp2Tm85TG9rSFd0T3hJaDhsVVRxRDh6cDhBOHBMUF9mTUEtbEk0T21OdVNGWmRYLXZwLWFtdTBoNWo4UG5SYUpqdnE?oc=5",
+      "source": "위키리크스한국",
+      "date": "Thu, 19 Nov 2026 20:52:22 GMT"
+    },
     {
       "title": "중국 구이린에 어린 항일의 숨결 내일의 기회 여는 경제 나침반",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8teThta21PVDJ1cHNESS1wcnpmLWpiSnJjaWh1a1dUZDU0NXJYQmprbnpIQzI0TmhPX1NRbHQ4SDdDWTIwVG0zOHZhWHNMVExoSzFNMFQyUVRQUFpySjEzaVlRUVVFeVVMTk40TTRhaw?oc=5",
@@ -25,7 +43,7 @@
     },
     {
       "title": "[김학균의 쓰고 달콤한 경제]중국 제조업의 약진과 자본 효율성의 딜레마",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zdkt5M1UtQXhsbXY0NG9odkFid0tiZFlNcV9aM0ttX2VNQkRJUUV5TThtLXhZWjlMTVF0S3E0U0VOSVJvNDlKcU1QLXJ6RGRiUjZWZmdRMExBUdIBX0FVX3lxTFBQR1FOLWd3UWhGUTNjWGttRVhfVzBVT3p1dS1kTEYwRzU2LUd0c2tDRmlBVi1OT3VKanRWN0NmV0lqX2FYeFI0ZEhjYUpKcm0tSHFDdENjSGg3NzQ1a0Jn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zdkt5M1UtQXhsbXY0NG9odkFid0tiZFlNcV9aM0ttX2VNQkRJUUV5TThtLXhZWjlMTVF0S3E0U0VOSVJvNDlKcU1QLXJ6RGRiUjZWZmdRMExBUQ?oc=5",
       "source": "경향신문",
       "date": "Thu, 19 Nov 2026 11:04:00 GMT"
     },
@@ -36,22 +54,10 @@
       "date": "Thu, 19 Nov 2026 10:17:03 GMT"
     },
     {
-      "title": "[세계 수소경제 대전환 ②] 중국·미국·유럽·일본, 수소 패권 경쟁의 승자는 누구인가",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9laE9xVEljSkdESHB3X2otNWpTdjUyeWQ0eGJ5X0lUQ1o5M3J0SUc0dkFtdHpvYXhzbFE5anR0OVJ5QkNnTFdqTWoxd2l4VjBOWnVmbllKNVIyeEM5MVMwNFBqSW5EX2h3dFNKLQ?oc=5",
-      "source": "https://www.climatepol.com/",
-      "date": "Thu, 19 Nov 2026 08:59:10 GMT"
-    },
-    {
       "title": "'28년 COP33 한국에서 열리나...중국·인도 후퇴로 기회 열려",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80RDdzSFJUTFJGLTBPa1dDMUVDNXc1eVF6MXBVQUhhdG9mQmxyTUVXMS1xRnVTZU5wTXV1WDBxdzhCajRjdzZ5Z1lxXzhsV3Z2ek84c3pVdWNzUVJlVHpacVFVNTFpTjE1b1J2Tw?oc=5",
       "source": "ESG경제",
       "date": "Thu, 19 Nov 2026 08:27:50 GMT"
-    },
-    {
-      "title": "제주 로컬기업 22곳 바다 건너 중국 시장 ‘정조준’",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MV29KNkNwOVN5WnMxNlZZTWdlS2N6R0M5MTk5Y0JiQ09JOWFWb3k1WERFTklhdmdrRlJKd2V4UmNIWTVTRWQyNzhZRFRNUUtISnNCY29HbkdVWXVoZ3lfZFV4MGNrc2Z4TVZV?oc=5",
-      "source": "제주의소리",
-      "date": "Thu, 19 Nov 2026 08:14:33 GMT"
     },
     {
       "title": "[경제 포커스] 한국-중국 상호 수출 의존도 다시 높아졌다",
@@ -64,12 +70,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuN1hSNzh4aUdaQmZJd1VPNHpUOFpiSWVOcmJjbGFBUTg3LUlnUTZ3RlhJRHN3QjFEUWFxN1FEN01vYkNoMG41X2ZFZ3cxTmIyZ2c3X01IUGxfeFdG?oc=5",
       "source": "뉴스핌",
       "date": "Wed, 18 Nov 2026 03:12:00 GMT"
-    },
-    {
-      "title": "조평규 한중기업연합회 회장: 중국 첨단기술, 중한 협력의 미래",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GdTFkVkJuSjNqNWVvM3hrZkFuQS1BdFNGUzJXUkxTbTA1U3hFcWx1el8xMy03SElhT2lwQkNvZERjZGszUVR0bkdYT2p0aEVSMXlJZDNsZEdUeUZiYy02TFZFNA?oc=5",
-      "source": "CGTN",
-      "date": "Tue, 17 Nov 2026 13:56:10 GMT"
     },
     {
       "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
