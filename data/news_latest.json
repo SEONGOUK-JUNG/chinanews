@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-21T07:20:02+09:00",
+  "run_at_kst": "2026-11-21T10:10:03+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,10 +8,28 @@
   "count": 14,
   "items": [
     {
+      "title": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil",
+      "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Caught-Between-a-Looming-Glut-and-Middle-East-Turmoil.html",
+      "source": "OilPrice",
+      "date": "Fri, 20 Nov 2026 18:00:00 -0600"
+    },
+    {
       "title": "Argentine Energy Firms Rush to Sell Bonds Before the 2027 Election",
       "link": "https://oilprice.com/Energy/Energy-General/Argentine-Energy-Firms-Rush-to-Sell-Bonds-Before-the-2027-Election.html",
       "source": "OilPrice",
       "date": "Fri, 20 Nov 2026 16:00:00 -0600"
+    },
+    {
+      "title": "Niron Magnetics to build $1.8 billion manufacturing plant in Alabama",
+      "link": "https://www.mining.com/niron-magnetics-to-build-1-8-billion-manufacturing-plant-in-alabama/",
+      "source": "mining.com",
+      "date": "Fri, 20 Nov 2026 21:31:00 +0000"
+    },
+    {
+      "title": "ElementUSA, Geophysx partner to advance Jamaica’s critical minerals sector",
+      "link": "https://www.mining.com/elementusa-geophysx-partner-to-advance-jamaicas-critical-minerals-sector/",
+      "source": "mining.com",
+      "date": "Fri, 20 Nov 2026 20:41:07 +0000"
     },
     {
       "title": "US Data Center Boom Faces a New Political Reality",
@@ -56,12 +74,6 @@
       "date": "Fri, 20 Nov 2026 11:00:00 -0600"
     },
     {
-      "title": "Norway’s Gas Sales Surge Nearly 20% as Europe Braces for Winter",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Norways-Gas-Sales-Surge-Nearly-20-as-Europe-Braces-for-Winter.html",
-      "source": "OilPrice",
-      "date": "Fri, 20 Nov 2026 10:30:00 -0600"
-    },
-    {
       "title": "Ground View Pakistan: The smelter before the mine",
       "link": "https://www.mining.com/ground-view-pakistan-the-smelter-before-the-mine/",
       "source": "mining.com",
@@ -78,18 +90,6 @@
       "link": "https://www.mining.com/gold-price-falls-nears-3500-as-miners-face-soaring-costs/",
       "source": "mining.com",
       "date": "Fri, 20 Nov 2026 12:29:03 +0000"
-    },
-    {
-      "title": "Angola’s $180 million De Beers bid puts $1.8 billion value in play",
-      "link": "https://www.mining.com/angolas-180-million-de-beers-bid-puts-1-8-billion-value-in-play/",
-      "source": "mining.com",
-      "date": "Fri, 20 Nov 2026 11:48:00 +0000"
-    },
-    {
-      "title": "Chile’s $111 billion mining boom hinges on lithium approvals",
-      "link": "https://www.mining.com/chiles-111-billion-mining-boom-hinges-on-lithium-approvals/",
-      "source": "mining.com",
-      "date": "Fri, 20 Nov 2026 10:15:00 +0000"
     }
   ]
 }

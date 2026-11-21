@@ -1,27 +1,39 @@
 {
-  "run_at_kst": "2026-11-21T07:20:02+09:00",
+  "run_at_kst": "2026-11-21T10:10:03+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "차이나쇼크 2.0, 유럽의 몰락...대한민국 메가프로젝트는?",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBZTUxaTJsN0dVdVB1dlZMNUhXY2MwN0ZrQXlvT2ZiRTRPTUhkMGJZa2JRUEF5WXIxXzZ4QnMyQThDM0lTQ0JTdC1NUC1vakJlaFhxUzZaRFNTVXVWRUFVZ1NmX09ZVXlwMEFz?oc=5",
+      "source": "제주의소리",
+      "date": "Sat, 21 Nov 2026 01:00:00 GMT"
+    },
+    {
+      "title": "중국차에 밀린 벤츠…최대 주주도 중국차 기업",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XS2hhVzdkekhOb2hMUnc5WFp6b25La3ZWbE51cXM4THlqMzh5YVZKN25wOVI4SzhPckQ5RDBlTzMxeUlRWGN6NEZ0cDRodnhjUndOZWVkMFlqSEFydy1oZGc1bmdVb2pFYVE?oc=5",
+      "source": "OBC 뉴스",
+      "date": "Sat, 21 Nov 2026 00:32:29 GMT"
+    },
+    {
+      "title": "[판으로 읽는 경제] 중국선 게임 허가, 멕시코선 자동차 관세…한국 통상의 두 전선",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40czMydktkZ3dFNHE2QXJrUzJXVEp6UTVHQjVBUFJ4RS1mWTQ3dlBuNWhVUzJPSHhadldJZF9hV1lnbGYwOFFXSlFNb2tOMDVJVmlfUUpicW5JUXBlcUhN?oc=5",
+      "source": "MTN 머니투데이방송",
+      "date": "Fri, 20 Nov 2026 23:00:30 GMT"
+    },
+    {
+      "title": "[해설] 중국, 한중 FTA 2단계 타결로 본 통상전략의 변화…미국 견제 속 한국과 연결고리 강화",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yQkpycnllNkI0YVlId2Z1b0xxdmRkZ01LbmZKNkdva0FlNXZzUmQtVXNCVzJOam15bzVQVHFpWGpFbmFQM1k5dzZhdWt1aG9udlpsU0swZktkVzdHLVBaWFhpbnhBX1NSblE?oc=5",
+      "source": "www.cn-insight.kr",
+      "date": "Fri, 20 Nov 2026 22:23:03 GMT"
+    },
+    {
       "title": "국제적 비난 받던 신장, 중국 경제 야망의 핵심이 되다 [PADO] - 머니투데이",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MeVBxcmlZdVY1dlNTbjJMWXZSVTJEVFJuU0RZTVFCbnN4ZVYzeUtwV3RPcUJ1YV8zXzdxMEV3MkpXN0JQNS1wWGt3bjlxOGxuVElDelhZSlQwcDFUWXV5SmtSQ20xdHZX0gFuQVVfeXFMTlFIb3pkei1iVWN4dHpOTlRncmx0ejJzZFRHVGEyVm50d0dyQ0pieGlmRF9LZjlQVHdvcHN6TlJURnF6ZlZ5UzUtdURKMGk5WXRhbWcwbGZUN0lxQVhIT2NXdlR5Tl9oRTBDR2FadFE?oc=5",
       "source": "머니투데이",
       "date": "Fri, 20 Nov 2026 21:00:00 GMT"
-    },
-    {
-      "title": "[오늘의 경제뉴스] AMD까지 중국 수출통제 위반 의혹…삼전·닉스에 불똥 튀나",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92czhhcjEwWGZRV3N0a09Zb3ZZQ0NpRENZTVRDcERGZ0VnTmRWTVRscG8yVVFmM0JMbm1RdjJGVjR3cFBZVHR4eWxwQ0RuY2F0V0xqR3g5c3VmWkExSGRFQk1NMDBxWlB4d1E?oc=5",
-      "source": "뉴스버스",
-      "date": "Fri, 20 Nov 2026 16:20:49 GMT"
-    },
-    {
-      "title": "중국 AI로 성장한 미국 커서, 이번엔 ‘중국 모델 퇴출’ 검토",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDeWdlUjZwNS15SFdpcGZJUkE4Y0tRMEJ3TlFvV3QyU2VGN2tpYV9FOU02dXZpOXdYbG0tNnM1LTZEbC11TmMzTFVGd1lDcVoxRHNTSVJNS0w2eVVQQXRtRHEtNzFpTUxzTHc?oc=5",
-      "source": "OBC 뉴스",
-      "date": "Fri, 20 Nov 2026 16:01:26 GMT"
     },
     {
       "title": "\"나는 중국의 열렬한 팬\"…머스크 한마디에 '들썩'",
@@ -30,28 +42,10 @@
       "date": "Fri, 20 Nov 2026 12:54:31 GMT"
     },
     {
-      "title": "제주도·제주창경, 로컬기업 22개사 중국 판로 개척 나선다",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yV3YzZ2JNTnNlLWNyZzRqbkxfT0IxUVVJU0w5dU4zZUZmOE9xT2MxZXdGcFV2dk9ackZ6SFhjOC1VSUhzbmlHMzZNUGVQVkRUMU9tMzRrdC1YcVlWY3ZGeG8xSFZFMkJmV29qM3R3?oc=5",
-      "source": "지금제주",
-      "date": "Fri, 20 Nov 2026 06:50:01 GMT"
-    },
-    {
-      "title": "중국 구이린에 어린 항일의 숨결 내일의 기회 여는 경제 나침반",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8teThta21PVDJ1cHNESS1wcnpmLWpiSnJjaWh1a1dUZDU0NXJYQmprbnpIQzI0TmhPX1NRbHQ4SDdDWTIwVG0zOHZhWHNMVExoSzFNMFQyUVRQUFpySjEzaVlRUVVFeVVMTk40TTRhaw?oc=5",
-      "source": "기호일보",
-      "date": "Thu, 19 Nov 2026 20:50:48 GMT"
-    },
-    {
       "title": "[김학균의 쓰고 달콤한 경제]중국 제조업의 약진과 자본 효율성의 딜레마",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zdkt5M1UtQXhsbXY0NG9odkFid0tiZFlNcV9aM0ttX2VNQkRJUUV5TThtLXhZWjlMTVF0S3E0U0VOSVJvNDlKcU1QLXJ6RGRiUjZWZmdRMExBUdIBX0FVX3lxTFBQR1FOLWd3UWhGUTNjWGttRVhfVzBVT3p1dS1kTEYwRzU2LUd0c2tDRmlBVi1OT3VKanRWN0NmV0lqX2FYeFI0ZEhjYUpKcm0tSHFDdENjSGg3NzQ1a0Jn?oc=5",
       "source": "경향신문",
       "date": "Thu, 19 Nov 2026 11:04:00 GMT"
-    },
-    {
-      "title": "미중러 정상회담: 시진핑에게 놀라운 외교적 순간…3자 정상회담엔 복병도",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwV3R4dkNzbnhEY3hjd0JNeHRlbzNPQ0ljMU9GT0ZYU0xiTWR1WkZ5SEx0U295Qm5hZ1diWDNQQTV2SThSSGFpNzl3Uk9MbkJEbWxOWjd3ZXhmbDByMUHSAWNBVV95cUxOMlJrMVF2RVZLTmhjVENSOVVLWllkV1RjM2xqeXExb3o3NXBzVU1YbXBCWm5nWDBLc2ROZ1pqYW5vZExmQTNBeUhWaXdKcVFFYm9UYjQyanNvcWxtRDI5R1Z2eWM?oc=5",
-      "source": "BBC",
-      "date": "Thu, 19 Nov 2026 10:17:03 GMT"
     },
     {
       "title": "[경제 포커스] 한국-중국 상호 수출 의존도 다시 높아졌다",
@@ -60,16 +54,22 @@
       "date": "Thu, 19 Nov 2026 05:38:00 GMT"
     },
     {
+      "title": "중국이 다시 쓰는 글로벌 원자재 지형도",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vSVcxbVNPR3dOOE92RXhjRHAwX01CeWhTTjVDSDIzY1ExRDlfRDc4MDlrQk9WYk9EM0l5T1laNGZtODNUaTcxSGc4b2Fsb1N3SWcxc2hCUzZNUQ?oc=5",
+      "source": "네이버페이 머니스토리",
+      "date": "Thu, 19 Nov 2026 00:53:08 GMT"
+    },
+    {
+      "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Wed, 18 Nov 2026 08:00:00 GMT"
+    },
+    {
       "title": "[선전 APEC 개막 ] 시진핑 '중국 경제' 글로벌 기업에 협력 기회 제공",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuN1hSNzh4aUdaQmZJd1VPNHpUOFpiSWVOcmJjbGFBUTg3LUlnUTZ3RlhJRHN3QjFEUWFxN1FEN01vYkNoMG41X2ZFZ3cxTmIyZ2c3X01IUGxfeFdG?oc=5",
       "source": "뉴스핌",
       "date": "Wed, 18 Nov 2026 03:12:00 GMT"
-    },
-    {
-      "title": "조평규 한중기업연합회 회장: 중국 첨단기술, 중한 협력의 미래",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GdTFkVkJuSjNqNWVvM3hrZkFuQS1BdFNGUzJXUkxTbTA1U3hFcWx1el8xMy03SElhT2lwQkNvZERjZGszUVR0bkdYT2p0aEVSMXlJZDNsZEdUeUZiYy02TFZFNA?oc=5",
-      "source": "CGTN",
-      "date": "Tue, 17 Nov 2026 13:56:10 GMT"
     },
     {
       "title": "2026년 하반기 중국경제 전망",
