@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-21T10:10:03+09:00",
+  "run_at_kst": "2026-11-22T07:20:03+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Wind Could Cut the Cost of Round-the-Clock Solar Power by 18%, Ember Says",
+      "link": "https://oilprice.com/Alternative-Energy/Wind-Power/Wind-Could-Cut-the-Cost-of-Round-the-Clock-Solar-Power-by-18-Ember-Says.html",
+      "source": "OilPrice",
+      "date": "Sat, 21 Nov 2026 16:00:00 -0600"
+    },
+    {
+      "title": "Trump’s Coal Revival Is Costing Americans More Than Expected",
+      "link": "https://oilprice.com/Energy/Coal/Trumps-Coal-Revival-Is-Costing-Americans-More-Than-Expected.html",
+      "source": "OilPrice",
+      "date": "Sat, 21 Nov 2026 14:00:00 -0600"
+    },
+    {
+      "title": "Thanksgiving Gas Prices Could Break a Record Despite Recent Plunge",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Thanksgiving-Gas-Prices-Could-Break-a-Record-Despite-Recent-Plunge.html",
+      "source": "OilPrice",
+      "date": "Sat, 21 Nov 2026 13:10:00 -0600"
+    },
+    {
+      "title": "Britain's Net Zero Revolution Has a China Problem",
+      "link": "https://oilprice.com/Energy/Energy-General/Britains-Net-Zero-Revolution-Has-a-China-Problem.html",
+      "source": "OilPrice",
+      "date": "Sat, 21 Nov 2026 12:00:00 -0600"
+    },
+    {
+      "title": "UK Races to Rewrite Nuclear Rules by 2027",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/UK-Races-to-Rewrite-Nuclear-Rules-by-2027.html",
+      "source": "OilPrice",
+      "date": "Sat, 21 Nov 2026 10:00:00 -0600"
+    },
     {
       "title": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil",
       "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Caught-Between-a-Looming-Glut-and-Middle-East-Turmoil.html",
@@ -38,40 +68,10 @@
       "date": "Fri, 20 Nov 2026 13:00:00 -0600"
     },
     {
-      "title": "Saudi Arabia Expands Oil Storage in Japan as Tokyo Restocks",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Expands-Oil-Storage-in-Japan-as-Tokyo-Restocks.html",
-      "source": "OilPrice",
-      "date": "Fri, 20 Nov 2026 12:30:00 -0600"
-    },
-    {
-      "title": "U.S. Oil Drillers Pick Up the Pace Just as Oil Prices Fall",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Oil-Drillers-Pick-Up-the-Pace-Just-as-Oil-Prices-Fall.html",
-      "source": "OilPrice",
-      "date": "Fri, 20 Nov 2026 12:09:09 -0600"
-    },
-    {
-      "title": "Lufthansa to Slash 1,000 Jobs as Airlines Reel from High Fuel Costs",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Lufthansa-to-Slash-1000-Jobs-as-Airlines-Reel-from-High-Fuel-Costs.html",
-      "source": "OilPrice",
-      "date": "Fri, 20 Nov 2026 11:30:00 -0600"
-    },
-    {
       "title": "Copper price sinks into bear market, erasing 2026 gains in worst week of the year",
       "link": "https://www.mining.com/copper-price-sinks-into-bear-market-erasing-2026-gains-in-worst-week-of-the-year/",
       "source": "mining.com",
       "date": "Fri, 20 Nov 2026 17:29:39 +0000"
-    },
-    {
-      "title": "Tankers Are Being Hit Daily. So Why Is Oil Falling?",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Tankers-Are-Being-Hit-Daily-So-Why-Is-Oil-Falling.html",
-      "source": "OilPrice",
-      "date": "Fri, 20 Nov 2026 11:11:05 -0600"
-    },
-    {
-      "title": "The 2026 Midterms Have Changed the Battle for American Energy",
-      "link": "https://oilprice.com/Energy/Energy-General/The-2026-Midterms-Have-Changed-the-Battle-for-American-Energy.html",
-      "source": "OilPrice",
-      "date": "Fri, 20 Nov 2026 11:00:00 -0600"
     },
     {
       "title": "Ground View Pakistan: The smelter before the mine",
