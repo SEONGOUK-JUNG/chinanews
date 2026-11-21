@@ -1,10 +1,28 @@
 {
-  "run_at_kst": "2026-11-21T10:10:03+09:00",
+  "run_at_kst": "2026-11-21T20:10:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "중국: 정책 지원이 거시경제 부진 상쇄 – BNY",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOajhZZ3ozZmswdFcyMjcyMXBFZUt2U1o1ZjdZR1d4RmtUVWdaRXUxbDhXWHotcGpMNkxENXlUa0JMSXRGSWFsVFVFMFRUeTM0ajl3WlF6WHRKeFJrOWRZS2d6Z2xCMEpZU1RVUDloZndCOFJJb0tHN2NWZVVwSFBtN2tSMV9ubVZ5amNZamV1MnY2T1dMV1RKZGR4eHZfZzV4dm1QaEJwT2I5NGs1ekdn?oc=5",
+      "source": "www.tmgm.com",
+      "date": "Sat, 21 Nov 2026 06:34:04 GMT"
+    },
+    {
+      "title": "[차이나 트렌드] 1호점 효과 톡톡...中, 론칭 경제 활기로 내수 시장 훈풍",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NNDFZS2ZJYjFYNWxpbkd4RjhUa2N1ZXRXWXpRcDBic3g3aGc3cEtTajNWYVlUX1E0RDZqbHZNRzNTRGpVRjZTN3hFbm80X2xwOU5kN19NbGhVVlhGS1lkYkJkdGZfc3BWVVZpXzR3VTNfeFE?oc=5",
+      "source": "동방일보",
+      "date": "Sat, 21 Nov 2026 02:40:01 GMT"
+    },
+    {
+      "title": "aT, 중국 베이징서 K-푸드 상품설명회 개최",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyb2NYcjgyaDMtVHJVU3Q3ZlYybHJnV0lDSEI0Y2Z5VnN0MFN0MThJaTQ1X2tSM3BPRnJaX0hIQldWbnlLbjY2bVcyb0xuMGJkdXNFVmZiZEdaQUg3QjlvNjZPNnpYRkFhTU1J?oc=5",
+      "source": "BBS불교방송",
+      "date": "Sat, 21 Nov 2026 02:08:37 GMT"
+    },
     {
       "title": "차이나쇼크 2.0, 유럽의 몰락...대한민국 메가프로젝트는?",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBZTUxaTJsN0dVdVB1dlZMNUhXY2MwN0ZrQXlvT2ZiRTRPTUhkMGJZa2JRUEF5WXIxXzZ4QnMyQThDM0lTQ0JTdC1NUC1vakJlaFhxUzZaRFNTVXVWRUFVZ1NmX09ZVXlwMEFz?oc=5",
@@ -16,12 +34,6 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XS2hhVzdkekhOb2hMUnc5WFp6b25La3ZWbE51cXM4THlqMzh5YVZKN25wOVI4SzhPckQ5RDBlTzMxeUlRWGN6NEZ0cDRodnhjUndOZWVkMFlqSEFydy1oZGc1bmdVb2pFYVE?oc=5",
       "source": "OBC 뉴스",
       "date": "Sat, 21 Nov 2026 00:32:29 GMT"
-    },
-    {
-      "title": "[판으로 읽는 경제] 중국선 게임 허가, 멕시코선 자동차 관세…한국 통상의 두 전선",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40czMydktkZ3dFNHE2QXJrUzJXVEp6UTVHQjVBUFJ4RS1mWTQ3dlBuNWhVUzJPSHhadldJZF9hV1lnbGYwOFFXSlFNb2tOMDVJVmlfUUpicW5JUXBlcUhN?oc=5",
-      "source": "MTN 머니투데이방송",
-      "date": "Fri, 20 Nov 2026 23:00:30 GMT"
     },
     {
       "title": "[해설] 중국, 한중 FTA 2단계 타결로 본 통상전략의 변화…미국 견제 속 한국과 연결고리 강화",
@@ -36,34 +48,22 @@
       "date": "Fri, 20 Nov 2026 21:00:00 GMT"
     },
     {
-      "title": "\"나는 중국의 열렬한 팬\"…머스크 한마디에 '들썩'",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZU0puYjcxcDZ1d3VJdzd3aWE2S2g2MXZ6bkNvSkNQWFI5cjVrdmJ1ZmtyVmRKSVFfTVNiMTdYWmRDdEY2dVdQNTdwR0hJdlBwTnR0VE9xSUh0dw?oc=5",
-      "source": "한국경제",
-      "date": "Fri, 20 Nov 2026 12:54:31 GMT"
-    },
-    {
       "title": "[김학균의 쓰고 달콤한 경제]중국 제조업의 약진과 자본 효율성의 딜레마",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zdkt5M1UtQXhsbXY0NG9odkFid0tiZFlNcV9aM0ttX2VNQkRJUUV5TThtLXhZWjlMTVF0S3E0U0VOSVJvNDlKcU1QLXJ6RGRiUjZWZmdRMExBUdIBX0FVX3lxTFBQR1FOLWd3UWhGUTNjWGttRVhfVzBVT3p1dS1kTEYwRzU2LUd0c2tDRmlBVi1OT3VKanRWN0NmV0lqX2FYeFI0ZEhjYUpKcm0tSHFDdENjSGg3NzQ1a0Jn?oc=5",
       "source": "경향신문",
       "date": "Thu, 19 Nov 2026 11:04:00 GMT"
     },
     {
+      "title": "미중러 정상회담: 시진핑에게 놀라운 외교적 순간…3자 정상회담엔 복병도",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwV3R4dkNzbnhEY3hjd0JNeHRlbzNPQ0ljMU9GT0ZYU0xiTWR1WkZ5SEx0U295Qm5hZ1diWDNQQTV2SThSSGFpNzl3Uk9MbkJEbWxOWjd3ZXhmbDByMUHSAWNBVV95cUxOMlJrMVF2RVZLTmhjVENSOVVLWllkV1RjM2xqeXExb3o3NXBzVU1YbXBCWm5nWDBLc2ROZ1pqYW5vZExmQTNBeUhWaXdKcVFFYm9UYjQyanNvcWxtRDI5R1Z2eWM?oc=5",
+      "source": "BBC",
+      "date": "Thu, 19 Nov 2026 10:17:03 GMT"
+    },
+    {
       "title": "[경제 포커스] 한국-중국 상호 수출 의존도 다시 높아졌다",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUHlYaU0xS0VNdmc3djdFNUR3YnlFT205LWhvRWE2cE9XZ0w1MVZLbE9EazFaTXZERmRpdmZPM3dhRnZiM2R2YTg3X05sQ3ZBN280TmN5THdDbmpFTmpnR2dORVFYSWkxNmp6Q2ZMbk9DZ0p4REM2UzYxaG9OYVFYTnFubDFCUdIBmgFBVV95cUxPTlM4RDhXeHhpckR4ckVLMEZ1aUVkbERiSHV1aFhfbHh4V1NkQWQ5N29VbGl5Rkg4dXFrLUdFdUVVSy1MdUM2R0Ntc1pDa0hnb3JmWUxDTktrNFVIU0ZBWURJRUViYUJTbGhCMXJNRmlvZG0wVVVCM2ZESm9rb2tNVkNOS21pR2hSQVlqWGpfMkkzR3dPdFFoM0pB?oc=5",
       "source": "Chosunbiz",
       "date": "Thu, 19 Nov 2026 05:38:00 GMT"
-    },
-    {
-      "title": "중국이 다시 쓰는 글로벌 원자재 지형도",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vSVcxbVNPR3dOOE92RXhjRHAwX01CeWhTTjVDSDIzY1ExRDlfRDc4MDlrQk9WYk9EM0l5T1laNGZtODNUaTcxSGc4b2Fsb1N3SWcxc2hCUzZNUQ?oc=5",
-      "source": "네이버페이 머니스토리",
-      "date": "Thu, 19 Nov 2026 00:53:08 GMT"
-    },
-    {
-      "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Wed, 18 Nov 2026 08:00:00 GMT"
     },
     {
       "title": "[선전 APEC 개막 ] 시진핑 '중국 경제' 글로벌 기업에 협력 기회 제공",
