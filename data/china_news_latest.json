@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-11-22T10:10:02+09:00",
+  "run_at_kst": "2026-11-22T14:10:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "‘중국산 테슬라’ 돌풍불더니…대중국 자동차 무역적자 6조",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLRktXdWppa2hlQ0xvUWtRNVBQNVY0ZmRkZ3hDMDd2QWpCWWFPR0NLYURNYUx5Ylh4c25SQ1hGV1VfQkZ3aTZBcWNGc2wwSkZFLU4wMA?oc=5",
+      "source": "JTBC",
+      "date": "Sun, 22 Nov 2026 03:41:00 GMT"
+    },
     {
       "title": "中 경제에 ‘장기불황의 그림자’ 짙어졌다",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNSWwxWXdMVTllalljM00yelFTS3BuNlNpTHhpRE9wejZ4RC1DYjlvX0JvV1R2dmxKOTE4Q3lBbWZNbEdIZnJDOWszTHZnZXNEQTVqSW9KQ0hmejdZSXg2aWUtZW8zUDBCRU1JeGZIT2VMN3lBbW9VakxwNk9nZFRHdkdxY290aEdsSmE1bUNneFk2Qk8tcmwwbXpwSEFETk9wTjNPUVhjZTgtQndRWmJyTThCa0RvMWsyTlJwT0Z1ZWRPSDhtQjZONnNRZVI5RlhKQktZWktqaUZqMWM2b005X180UHBKRTFxUEpLUko4WmlTTXdGbV9zMFFIZ0JWY0VXY1FrR3VuWXlMRzhMb1FhcnJ4X20zdUFiem5pV2hfLU1RTVE?oc=5",
@@ -18,22 +24,16 @@
       "date": "Sat, 21 Nov 2026 20:00:00 GMT"
     },
     {
-      "title": "중국: 정책 지원이 거시경제 부진 상쇄 – BNY",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOajhZZ3ozZmswdFcyMjcyMXBFZUt2U1o1ZjdZR1d4RmtUVWdaRXUxbDhXWHotcGpMNkxENXlUa0JMSXRGSWFsVFVFMFRUeTM0ajl3WlF6WHRKeFJrOWRZS2d6Z2xCMEpZU1RVUDloZndCOFJJb0tHN2NWZVVwSFBtN2tSMV9ubVZ5amNZamV1MnY2T1dMV1RKZGR4eHZfZzV4dm1QaEJwT2I5NGs1ekdn?oc=5",
-      "source": "www.tmgm.com",
-      "date": "Sat, 21 Nov 2026 06:34:04 GMT"
+      "title": "차이나쇼크 2.0, 유럽의 몰락...대한민국 메가프로젝트는?",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBZTUxaTJsN0dVdVB1dlZMNUhXY2MwN0ZrQXlvT2ZiRTRPTUhkMGJZa2JRUEF5WXIxXzZ4QnMyQThDM0lTQ0JTdC1NUC1vakJlaFhxUzZaRFNTVXVWRUFVZ1NmX09ZVXlwMEFz?oc=5",
+      "source": "제주의소리",
+      "date": "Sat, 21 Nov 2026 01:00:00 GMT"
     },
     {
-      "title": "국제적 비난 받던 신장, 중국 경제 야망의 핵심이 되다 [PADO] - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RSG96ZHotYlVjeHR6Tk5UZ3JsdHoyc2RUR1RhMlZudHdHckNKYnhpZkRfS2Y5UFR3b3Bzek5SVEZxemZWeVM1LXVESjBpOVl0YW1nMGxmVDdJcUFYSE9jV3ZUeU5faEUwQ0dhWnRR0gFuQVVfeXFMTlFIb3pkei1iVWN4dHpOTlRncmx0ejJzZFRHVGEyVm50d0dyQ0pieGlmRF9LZjlQVHdvcHN6TlJURnF6ZlZ5UzUtdURKMGk5WXRhbWcwbGZUN0lxQVhIT2NXdlR5Tl9oRTBDR2FadFE?oc=5",
-      "source": "머니투데이",
-      "date": "Fri, 20 Nov 2026 21:00:00 GMT"
-    },
-    {
-      "title": "국제적 비난 받던 신장, 중국 경제 야망의 핵심이 되다",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GZUs5U3o4T01Ia1JkbjlIWm1XT1MtaUJ4X1ZmdHJFZmJqSjhWUUJnN24td19oNFA4N3MtSkk2N205RDdadzU5RVZLR01ldmlMcE5hT2pwYVFPSWM?oc=5",
-      "source": "https://www.pado.kr/",
-      "date": "Fri, 20 Nov 2026 07:42:33 GMT"
+      "title": "중국 구이린에 어린 항일의 숨결 내일의 기회 여는 경제 나침반",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8teThta21PVDJ1cHNESS1wcnpmLWpiSnJjaWh1a1dUZDU0NXJYQmprbnpIQzI0TmhPX1NRbHQ4SDdDWTIwVG0zOHZhWHNMVExoSzFNMFQyUVRQUFpySjEzaVlRUVVFeVVMTk40TTRhaw?oc=5",
+      "source": "기호일보",
+      "date": "Thu, 19 Nov 2026 20:50:48 GMT"
     },
     {
       "title": "[김학균의 쓰고 달콤한 경제]중국 제조업의 약진과 자본 효율성의 딜레마",
@@ -54,28 +54,28 @@
       "date": "Thu, 19 Nov 2026 05:38:00 GMT"
     },
     {
-      "title": "중국이 다시 쓰는 글로벌 원자재 지형도",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vSVcxbVNPR3dOOE92RXhjRHAwX01CeWhTTjVDSDIzY1ExRDlfRDc4MDlrQk9WYk9EM0l5T1laNGZtODNUaTcxSGc4b2Fsb1N3SWcxc2hCUzZNUQ?oc=5",
-      "source": "네이버페이 머니스토리",
-      "date": "Thu, 19 Nov 2026 00:53:08 GMT"
-    },
-    {
-      "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Wed, 18 Nov 2026 08:00:00 GMT"
-    },
-    {
       "title": "[선전 APEC 개막 ] 시진핑 '중국 경제' 글로벌 기업에 협력 기회 제공",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuN1hSNzh4aUdaQmZJd1VPNHpUOFpiSWVOcmJjbGFBUTg3LUlnUTZ3RlhJRHN3QjFEUWFxN1FEN01vYkNoMG41X2ZFZ3cxTmIyZ2c3X01IUGxfeFdG?oc=5",
       "source": "뉴스핌",
       "date": "Wed, 18 Nov 2026 03:12:00 GMT"
     },
     {
+      "title": "[CMG중국통신] 10월 중국 경제 전반적 안정 속 ‘신(新)동력 고도화’",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rM0dicXFMZ3c4ZE9Bay00b1lmeTVBRXpSRm1RQTJtOHJRMkp0a1JFd3ozcjFLRWlqdVlFQXVvdFd4X2xVTmkxU2wxUE4xQWtGUHZEY2N3?oc=5",
+      "source": "중앙일보",
+      "date": "Tue, 17 Nov 2026 00:19:10 GMT"
+    },
+    {
       "title": "2026년 하반기 중국경제 전망",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsRkFRbC1OWUhGcnR5TnpySzJ1QmlEQWV0dVRjSWVldElNV3dmVnRKMDhXWEdEa0pxLXRHdlZnTUU5RUx2ampxYUVvUWFJakhsdFpZejVXb2taeFZNWkZ2VUNKNXREZVBkaXpB?oc=5",
       "source": "KDI 경제교육·정보센터",
       "date": "Tue, 03 Nov 2026 20:41:54 GMT"
+    },
+    {
+      "title": "[곽재원 컬럼] 중국경제는 지금:첨단산업은 질주, 내수는 침체?",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGZXB0alVBMC1sMl95bzM1dXkzZ2FFc2VtQ1NpOE9LUi1QSUtpemdIbDQ5dC1YdzdwY1FmNnJOMGRiQ2pnamkybV9vQVZHTmxlY3dIWFZhcw?oc=5",
+      "source": "https://technovalue.com/",
+      "date": "Tue, 03 Nov 2026 08:00:00 GMT"
     }
   ]
 }
