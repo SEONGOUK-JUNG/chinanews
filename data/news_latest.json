@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-22T07:20:03+09:00",
+  "run_at_kst": "2026-11-22T10:10:02+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,12 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "AI Boom Forces Massive Investment in Power Grids Worldwide",
+      "link": "https://oilprice.com/Energy/Crude-Oil/AI-Boom-Forces-Massive-Investment-in-Power-Grids-Worldwide.html",
+      "source": "OilPrice",
+      "date": "Sat, 21 Nov 2026 18:00:00 -0600"
+    },
     {
       "title": "Wind Could Cut the Cost of Round-the-Clock Solar Power by 18%, Ember Says",
       "link": "https://oilprice.com/Alternative-Energy/Wind-Power/Wind-Could-Cut-the-Cost-of-Round-the-Clock-Solar-Power-by-18-Ember-Says.html",
@@ -60,12 +66,6 @@
       "link": "https://www.mining.com/elementusa-geophysx-partner-to-advance-jamaicas-critical-minerals-sector/",
       "source": "mining.com",
       "date": "Fri, 20 Nov 2026 20:41:07 +0000"
-    },
-    {
-      "title": "US Data Center Boom Faces a New Political Reality",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Data-Center-Boom-Faces-a-New-Political-Reality.html",
-      "source": "OilPrice",
-      "date": "Fri, 20 Nov 2026 13:00:00 -0600"
     },
     {
       "title": "Copper price sinks into bear market, erasing 2026 gains in worst week of the year",
