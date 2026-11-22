@@ -1,10 +1,46 @@
 {
-  "run_at_kst": "2026-11-22T14:10:04+09:00",
+  "run_at_kst": "2026-11-22T20:10:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "[편집국에서] 중국차 압박 속 현대차의 생존전략은",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ldUx4Tk5IdWdfeFc2SHJwS19jamRwMWY5R2ZaUjI1Y1pMWDduQ1FDbnZ4NHR5em15X3VhQTN4eGdORDdXQjh3ZnQ0N0hpUUZvSTk1Y003OHNOZi1mS2VlSXRIa1pxOHNFZnRtRmgxa1ZHRGZMMENBUA?oc=5",
+      "source": "부산일보",
+      "date": "Sun, 22 Nov 2026 09:00:15 GMT"
+    },
+    {
+      "title": "광양경자청 하동사무소, 중국 투자유치 활동",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fQWJ2SU5oWnFqVUw3TlRsRzlSWllKcXR2NC1ySThlTHMzRkU2aEhHenRjNU5PdXNhSTlQVFRldTMzVUZFZnhsUVZZcUJkNmg1RnRWTmR1SVRmMWdHdmNIdDBGemt1SW5IaGN3?oc=5",
+      "source": "광양경제신문",
+      "date": "Sun, 22 Nov 2026 08:49:03 GMT"
+    },
+    {
+      "title": "중 관영매체 “비관론자는 늘 틀렸다” 경제 우려 적극 반박…온라인에서는 냉소도",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnbFk0TzVzajhiRTVYSEFVbHlXa3ptcDRGQ3hLRHZwMklMVVlLbWdBYmhMMFV3VVo5WFhNbGJta2d2VFhyZlp4N1o3dHZtZEVyamd1YWtzV1laZ9IBX0FVX3lxTE1YaGhhS0hQSGNsYTNnT0o2UFllNkVfSEFUTzQwWjcxQ2dTb2gzWUNyaHJUMDhrRDg1NFEtMk5FT3E4bkE1Wk9GTXc2TGZJWlZuSzFZUjlDdkNHcWJqcHpJ?oc=5",
+      "source": "경향신문",
+      "date": "Sun, 22 Nov 2026 06:53:00 GMT"
+    },
+    {
+      "title": "[특파원 시선] 中 경제에 드리우는 日의 비극",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vSUVMQjI1azcyeGlxeWhOUmYzUExNSUZWSnY1enE5Q0pobEdWMWxmeFFDWXZpeW1lMGZEc2ZpSHJJVkFUUHJ5dkJaamdTaHlJdGFkQ2Z5NzdXSHRYdFQwQmpPRjg4M0xzZWJmd0x3?oc=5",
+      "source": "아시아투데이",
+      "date": "Sun, 22 Nov 2026 06:17:56 GMT"
+    },
+    {
+      "title": "대중국 자동차 무역적자 5조7000억원 ‘역대 최대’ 기록",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2d2xWMEkyYVl2UG9ISnl3OGw4c2VLTnAzRnpISVB6eFBfTkJaWl8tNW9rLTFabHh3eGRWUzRZYm4wOHVhWGR4YkpGNTJxdU1ha0doaFN2bFdYOXdVSExLcHczZlRBQ1g1TUM0QXZETWVFb3J3Sm01N2JnNzVqVlE?oc=5",
+      "source": "조선일보",
+      "date": "Sun, 22 Nov 2026 05:37:39 GMT"
+    },
+    {
+      "title": "APEC 선전 정상회의 폐막…21개 경제체, 무역·AI·공급망 협력에 합의",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0NTRkZVVDVGozRzQwV1dob01McE0tWEVTTmdZTWt6cVF6NnFMWjlRSm02VmJZbERwb0k0Q0M5V2hkWVB0Y0piQUc1UXBjZ0tCUTRNVDdR?oc=5",
+      "source": "인터내셔널포커스",
+      "date": "Sun, 22 Nov 2026 05:13:30 GMT"
+    },
     {
       "title": "‘중국산 테슬라’ 돌풍불더니…대중국 자동차 무역적자 6조",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLRktXdWppa2hlQ0xvUWtRNVBQNVY0ZmRkZ3hDMDd2QWpCWWFPR0NLYURNYUx5Ylh4c25SQ1hGV1VfQkZ3aTZBcWNGc2wwSkZFLU4wMA?oc=5",
@@ -18,40 +54,10 @@
       "date": "Sat, 21 Nov 2026 22:08:00 GMT"
     },
     {
-      "title": "'눈으로 일본 욕한' 중국의 의전 외교, 한국의 돌파구는[경제적 본능]",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fNTFuMndNcTlMOXJ4dUdpYWY4Ui1fRDdYLTF4d1FfejBWQzJ1N29lYWt5clBfRzVyelRvcEUwZGhMcU1PRElnZ0Q2elVRbjI0bUE?oc=5",
-      "source": "노컷뉴스",
-      "date": "Sat, 21 Nov 2026 20:00:00 GMT"
-    },
-    {
-      "title": "차이나쇼크 2.0, 유럽의 몰락...대한민국 메가프로젝트는?",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBZTUxaTJsN0dVdVB1dlZMNUhXY2MwN0ZrQXlvT2ZiRTRPTUhkMGJZa2JRUEF5WXIxXzZ4QnMyQThDM0lTQ0JTdC1NUC1vakJlaFhxUzZaRFNTVXVWRUFVZ1NmX09ZVXlwMEFz?oc=5",
-      "source": "제주의소리",
-      "date": "Sat, 21 Nov 2026 01:00:00 GMT"
-    },
-    {
-      "title": "중국 구이린에 어린 항일의 숨결 내일의 기회 여는 경제 나침반",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8teThta21PVDJ1cHNESS1wcnpmLWpiSnJjaWh1a1dUZDU0NXJYQmprbnpIQzI0TmhPX1NRbHQ4SDdDWTIwVG0zOHZhWHNMVExoSzFNMFQyUVRQUFpySjEzaVlRUVVFeVVMTk40TTRhaw?oc=5",
-      "source": "기호일보",
-      "date": "Thu, 19 Nov 2026 20:50:48 GMT"
-    },
-    {
-      "title": "[김학균의 쓰고 달콤한 경제]중국 제조업의 약진과 자본 효율성의 딜레마",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zdkt5M1UtQXhsbXY0NG9odkFid0tiZFlNcV9aM0ttX2VNQkRJUUV5TThtLXhZWjlMTVF0S3E0U0VOSVJvNDlKcU1QLXJ6RGRiUjZWZmdRMExBUdIBX0FVX3lxTFBQR1FOLWd3UWhGUTNjWGttRVhfVzBVT3p1dS1kTEYwRzU2LUd0c2tDRmlBVi1OT3VKanRWN0NmV0lqX2FYeFI0ZEhjYUpKcm0tSHFDdENjSGg3NzQ1a0Jn?oc=5",
-      "source": "경향신문",
-      "date": "Thu, 19 Nov 2026 11:04:00 GMT"
-    },
-    {
       "title": "미중러 정상회담: 시진핑에게 놀라운 외교적 순간…3자 정상회담엔 복병도",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwV3R4dkNzbnhEY3hjd0JNeHRlbzNPQ0ljMU9GT0ZYU0xiTWR1WkZ5SEx0U295Qm5hZ1diWDNQQTV2SThSSGFpNzl3Uk9MbkJEbWxOWjd3ZXhmbDByMUHSAWNBVV95cUxOMlJrMVF2RVZLTmhjVENSOVVLWllkV1RjM2xqeXExb3o3NXBzVU1YbXBCWm5nWDBLc2ROZ1pqYW5vZExmQTNBeUhWaXdKcVFFYm9UYjQyanNvcWxtRDI5R1Z2eWM?oc=5",
       "source": "BBC",
       "date": "Thu, 19 Nov 2026 10:17:03 GMT"
-    },
-    {
-      "title": "[경제 포커스] 한국-중국 상호 수출 의존도 다시 높아졌다",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUHlYaU0xS0VNdmc3djdFNUR3YnlFT205LWhvRWE2cE9XZ0w1MVZLbE9EazFaTXZERmRpdmZPM3dhRnZiM2R2YTg3X05sQ3ZBN280TmN5THdDbmpFTmpnR2dORVFYSWkxNmp6Q2ZMbk9DZ0p4REM2UzYxaG9OYVFYTnFubDFCUdIBmgFBVV95cUxPTlM4RDhXeHhpckR4ckVLMEZ1aUVkbERiSHV1aFhfbHh4V1NkQWQ5N29VbGl5Rkg4dXFrLUdFdUVVSy1MdUM2R0Ntc1pDa0hnb3JmWUxDTktrNFVIU0ZBWURJRUViYUJTbGhCMXJNRmlvZG0wVVVCM2ZESm9rb2tNVkNOS21pR2hSQVlqWGpfMkkzR3dPdFFoM0pB?oc=5",
-      "source": "Chosunbiz",
-      "date": "Thu, 19 Nov 2026 05:38:00 GMT"
     },
     {
       "title": "[선전 APEC 개막 ] 시진핑 '중국 경제' 글로벌 기업에 협력 기회 제공",
@@ -66,16 +72,10 @@
       "date": "Tue, 17 Nov 2026 00:19:10 GMT"
     },
     {
-      "title": "2026년 하반기 중국경제 전망",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsRkFRbC1OWUhGcnR5TnpySzJ1QmlEQWV0dVRjSWVldElNV3dmVnRKMDhXWEdEa0pxLXRHdlZnTUU5RUx2ampxYUVvUWFJakhsdFpZejVXb2taeFZNWkZ2VUNKNXREZVBkaXpB?oc=5",
+      "title": "2026년 9월 중국경제 동향과 전망",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWXZOcXR6YTdmT0ZRR24tbUFJRmNhOFEwQ2cwajRBMWdxaVp4WW1USm9oSF81bUtlelhJNnl0czhuN213YzR6U040eGVNbEE1NWZFMEg0dm5qMFFKcWxwUWdIaURGaVJUUnBwVm9uUGIySmFnSUJCNUI4a3RSRWRiMFRmY01scFpSMGJseEZhYVhNOWxYMnFfeUVUSFdyMnN0NEE?oc=5",
       "source": "KDI 경제교육·정보센터",
-      "date": "Tue, 03 Nov 2026 20:41:54 GMT"
-    },
-    {
-      "title": "[곽재원 컬럼] 중국경제는 지금:첨단산업은 질주, 내수는 침체?",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGZXB0alVBMC1sMl95bzM1dXkzZ2FFc2VtQ1NpOE9LUi1QSUtpemdIbDQ5dC1YdzdwY1FmNnJOMGRiQ2pnamkybV9vQVZHTmxlY3dIWFZhcw?oc=5",
-      "source": "https://technovalue.com/",
-      "date": "Tue, 03 Nov 2026 08:00:00 GMT"
+      "date": "Thu, 12 Nov 2026 10:48:17 GMT"
     }
   ]
 }
