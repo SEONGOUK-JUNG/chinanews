@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-22T10:10:02+09:00",
+  "run_at_kst": "2026-11-23T07:20:02+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,24 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "California’s Wildfire Crisis Is Threatening Its Energy Future",
+      "link": "https://oilprice.com/Energy/Energy-General/Californias-Wildfire-Crisis-Is-Threatening-Its-Energy-Future.html",
+      "source": "OilPrice",
+      "date": "Sun, 22 Nov 2026 14:00:00 -0600"
+    },
+    {
+      "title": "Google Backs Superhot Geothermal in 50 MW Oregon Power Deal",
+      "link": "https://oilprice.com/Energy/Energy-General/Google-Backs-Superhot-Geothermal-in-50-MW-Oregon-Power-Deal.html",
+      "source": "OilPrice",
+      "date": "Sun, 22 Nov 2026 12:00:00 -0600"
+    },
+    {
+      "title": "The $25 Billion Problem Facing Australia’s Hydropower Revolution",
+      "link": "https://oilprice.com/Energy/Energy-General/The-25-Billion-Problem-Facing-Australias-Hydropower-Revolution.html",
+      "source": "OilPrice",
+      "date": "Sun, 22 Nov 2026 10:00:00 -0600"
+    },
     {
       "title": "AI Boom Forces Massive Investment in Power Grids Worldwide",
       "link": "https://oilprice.com/Energy/Crude-Oil/AI-Boom-Forces-Massive-Investment-in-Power-Grids-Worldwide.html",
@@ -36,24 +54,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/Britains-Net-Zero-Revolution-Has-a-China-Problem.html",
       "source": "OilPrice",
       "date": "Sat, 21 Nov 2026 12:00:00 -0600"
-    },
-    {
-      "title": "UK Races to Rewrite Nuclear Rules by 2027",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/UK-Races-to-Rewrite-Nuclear-Rules-by-2027.html",
-      "source": "OilPrice",
-      "date": "Sat, 21 Nov 2026 10:00:00 -0600"
-    },
-    {
-      "title": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil",
-      "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Caught-Between-a-Looming-Glut-and-Middle-East-Turmoil.html",
-      "source": "OilPrice",
-      "date": "Fri, 20 Nov 2026 18:00:00 -0600"
-    },
-    {
-      "title": "Argentine Energy Firms Rush to Sell Bonds Before the 2027 Election",
-      "link": "https://oilprice.com/Energy/Energy-General/Argentine-Energy-Firms-Rush-to-Sell-Bonds-Before-the-2027-Election.html",
-      "source": "OilPrice",
-      "date": "Fri, 20 Nov 2026 16:00:00 -0600"
     },
     {
       "title": "Niron Magnetics to build $1.8 billion manufacturing plant in Alabama",

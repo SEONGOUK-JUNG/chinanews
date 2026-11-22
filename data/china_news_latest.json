@@ -1,10 +1,40 @@
 {
-  "run_at_kst": "2026-11-22T20:10:04+09:00",
+  "run_at_kst": "2026-11-23T07:20:02+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "K유통에 닥친 C자본 역습…정부 규칙 없으면 개방 아닌 '방치'",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY1FzNVBLOHkwTW9abDNweVhpR25ydXRZY3pHUXJRNDZnOHNnSl82QlZFbXdXT0lzck9YZkUyRVNGNVpLTy1WcW1SVnZpQmlPbDUyZmxNc2oyS0I3aVhxZmdpRTdQN3Z0N2V2U3Ftc2NHYkl2aERhTkU2SlB1aXZlUA?oc=5",
+      "source": "이데일리",
+      "date": "Sun, 22 Nov 2026 20:50:03 GMT"
+    },
+    {
+      "title": "中 관영매체 “해외 언론이 中 경제위기 과장”…네티즌들은 주가 폭락에 냉소",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9idnhoM1REUFVjTnhCRmJyLVF4YTY5U1k1UXI3STdGZUlwUDgyTGxud0c5bWdrV0lubWJ3R3V1RVYxd2doRXVYUU14OG1xandYQXfSAVNBVV95cUxNNFVEdDlTc1I4czl2TzJ5Sy1qUGFiWllNcW14U1E1WmNpUFQ2ZGZvckhpLVZiS2N1N2dCXzRfYjFPWlVqcGRsb1Frc3ljeUdIclF1bw?oc=5",
+      "source": "서울경제",
+      "date": "Sun, 22 Nov 2026 20:30:00 GMT"
+    },
+    {
+      "title": "중국 AI 잘나가더니…\"2300조 사라졌다\" 날벼락 맞은 까닭",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3N2RUbXFfOW9nUk50aFl4WFFTbkhMSWRwUUxiUm1YVTI5WDBUZS0xcklyYnVfQi05WUFQelR6b0R6cjRCejJtU0JTeWg3S2ZCdTZvZjg4UzBwQQ?oc=5",
+      "source": "한국경제",
+      "date": "Sun, 22 Nov 2026 12:41:59 GMT"
+    },
+    {
+      "title": "‘AI 열풍’ 식자 中 기술주서 2289조원 증발…中당국이 꺼낸 유동성 카드 규모가?",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56ckxRbzViVkwyTFNaU0lNbEtuWjE4RHg3SmpyQnRWb21DUjVLenhoSFV2RjBySG56TFk3UnJGY0dtNHZxUVEyMUlHN21jYTRTN1E?oc=5",
+      "source": "매일경제",
+      "date": "Sun, 22 Nov 2026 11:52:49 GMT"
+    },
+    {
+      "title": "\"中 '기술주 지수' 시총, 6월말 이후 2천300조원 증발\"(종합)",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxSGZ6clo0NzlxNVdpeFE4N3BWdjY1QzJFMjRoa3FVVy1QcGp2QlVTMmpMQUtUbjBnWEFNNGdiTE9VSnJFejAyZ1hlaVloWXZkMF9HSWtPRldrdmPSAWBBVV95cUxOdkhDMUhlQ2VTNnFLanRrSmdqNjFjd1N6bXhjRUN2S2I3dm5pMWc2WHZZZHBsWEg0QnZYTnlwc2locGxJMFg0MFExVTdUa29qT29CQ3Z1UHhWS2wzNDR6RmM?oc=5",
+      "source": "연합뉴스",
+      "date": "Sun, 22 Nov 2026 11:11:35 GMT"
+    },
     {
       "title": "[편집국에서] 중국차 압박 속 현대차의 생존전략은",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ldUx4Tk5IdWdfeFc2SHJwS19jamRwMWY5R2ZaUjI1Y1pMWDduQ1FDbnZ4NHR5em15X3VhQTN4eGdORDdXQjh3ZnQ0N0hpUUZvSTk1Y003OHNOZi1mS2VlSXRIa1pxOHNFZnRtRmgxa1ZHRGZMMENBUA?oc=5",
@@ -30,52 +60,22 @@
       "date": "Sun, 22 Nov 2026 06:17:56 GMT"
     },
     {
-      "title": "대중국 자동차 무역적자 5조7000억원 ‘역대 최대’ 기록",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2d2xWMEkyYVl2UG9ISnl3OGw4c2VLTnAzRnpISVB6eFBfTkJaWl8tNW9rLTFabHh3eGRWUzRZYm4wOHVhWGR4YkpGNTJxdU1ha0doaFN2bFdYOXdVSExLcHczZlRBQ1g1TUM0QXZETWVFb3J3Sm01N2JnNzVqVlE?oc=5",
-      "source": "조선일보",
-      "date": "Sun, 22 Nov 2026 05:37:39 GMT"
-    },
-    {
-      "title": "APEC 선전 정상회의 폐막…21개 경제체, 무역·AI·공급망 협력에 합의",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0NTRkZVVDVGozRzQwV1dob01McE0tWEVTTmdZTWt6cVF6NnFMWjlRSm02VmJZbERwb0k0Q0M5V2hkWVB0Y0piQUc1UXBjZ0tCUTRNVDdR?oc=5",
-      "source": "인터내셔널포커스",
-      "date": "Sun, 22 Nov 2026 05:13:30 GMT"
-    },
-    {
-      "title": "‘중국산 테슬라’ 돌풍불더니…대중국 자동차 무역적자 6조",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLRktXdWppa2hlQ0xvUWtRNVBQNVY0ZmRkZ3hDMDd2QWpCWWFPR0NLYURNYUx5Ylh4c25SQ1hGV1VfQkZ3aTZBcWNGc2wwSkZFLU4wMA?oc=5",
-      "source": "JTBC",
-      "date": "Sun, 22 Nov 2026 03:41:00 GMT"
-    },
-    {
-      "title": "中 경제에 ‘장기불황의 그림자’ 짙어졌다",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNSWwxWXdMVTllalljM00yelFTS3BuNlNpTHhpRE9wejZ4RC1DYjlvX0JvV1R2dmxKOTE4Q3lBbWZNbEdIZnJDOWszTHZnZXNEQTVqSW9KQ0hmejdZSXg2aWUtZW8zUDBCRU1JeGZIT2VMN3lBbW9VakxwNk9nZFRHdkdxY290aEdsSmE1bUNneFk2Qk8tcmwwbXpwSEFETk9wTjNPUVhjZTgtQndRWmJyTThCa0RvMWsyTlJwT0Z1ZWRPSDhtQjZONnNRZVI5RlhKQktZWktqaUZqMWM2b005X180UHBKRTFxUEpLUko4WmlTTXdGbV9zMFFIZ0JWY0VXY1FrR3VuWXlMRzhMb1FhcnJ4X20zdUFiem5pV2hfLU1RTVE?oc=5",
-      "source": "데일리안",
-      "date": "Sat, 21 Nov 2026 22:08:00 GMT"
-    },
-    {
       "title": "미중러 정상회담: 시진핑에게 놀라운 외교적 순간…3자 정상회담엔 복병도",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwV3R4dkNzbnhEY3hjd0JNeHRlbzNPQ0ljMU9GT0ZYU0xiTWR1WkZ5SEx0U295Qm5hZ1diWDNQQTV2SThSSGFpNzl3Uk9MbkJEbWxOWjd3ZXhmbDByMUHSAWNBVV95cUxOMlJrMVF2RVZLTmhjVENSOVVLWllkV1RjM2xqeXExb3o3NXBzVU1YbXBCWm5nWDBLc2ROZ1pqYW5vZExmQTNBeUhWaXdKcVFFYm9UYjQyanNvcWxtRDI5R1Z2eWM?oc=5",
       "source": "BBC",
       "date": "Thu, 19 Nov 2026 10:17:03 GMT"
     },
     {
+      "title": "[경제 포커스] 한국-중국 상호 수출 의존도 다시 높아졌다",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUHlYaU0xS0VNdmc3djdFNUR3YnlFT205LWhvRWE2cE9XZ0w1MVZLbE9EazFaTXZERmRpdmZPM3dhRnZiM2R2YTg3X05sQ3ZBN280TmN5THdDbmpFTmpnR2dORVFYSWkxNmp6Q2ZMbk9DZ0p4REM2UzYxaG9OYVFYTnFubDFCUdIBmgFBVV95cUxPTlM4RDhXeHhpckR4ckVLMEZ1aUVkbERiSHV1aFhfbHh4V1NkQWQ5N29VbGl5Rkg4dXFrLUdFdUVVSy1MdUM2R0Ntc1pDa0hnb3JmWUxDTktrNFVIU0ZBWURJRUViYUJTbGhCMXJNRmlvZG0wVVVCM2ZESm9rb2tNVkNOS21pR2hSQVlqWGpfMkkzR3dPdFFoM0pB?oc=5",
+      "source": "Chosunbiz",
+      "date": "Thu, 19 Nov 2026 05:38:00 GMT"
+    },
+    {
       "title": "[선전 APEC 개막 ] 시진핑 '중국 경제' 글로벌 기업에 협력 기회 제공",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuN1hSNzh4aUdaQmZJd1VPNHpUOFpiSWVOcmJjbGFBUTg3LUlnUTZ3RlhJRHN3QjFEUWFxN1FEN01vYkNoMG41X2ZFZ3cxTmIyZ2c3X01IUGxfeFdG?oc=5",
       "source": "뉴스핌",
       "date": "Wed, 18 Nov 2026 03:12:00 GMT"
-    },
-    {
-      "title": "[CMG중국통신] 10월 중국 경제 전반적 안정 속 ‘신(新)동력 고도화’",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rM0dicXFMZ3c4ZE9Bay00b1lmeTVBRXpSRm1RQTJtOHJRMkp0a1JFd3ozcjFLRWlqdVlFQXVvdFd4X2xVTmkxU2wxUE4xQWtGUHZEY2N3?oc=5",
-      "source": "중앙일보",
-      "date": "Tue, 17 Nov 2026 00:19:10 GMT"
-    },
-    {
-      "title": "2026년 9월 중국경제 동향과 전망",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWXZOcXR6YTdmT0ZRR24tbUFJRmNhOFEwQ2cwajRBMWdxaVp4WW1USm9oSF81bUtlelhJNnl0czhuN213YzR6U040eGVNbEE1NWZFMEg0dm5qMFFKcWxwUWdIaURGaVJUUnBwVm9uUGIySmFnSUJCNUI4a3RSRWRiMFRmY01scFpSMGJseEZhYVhNOWxYMnFfeUVUSFdyMnN0NEE?oc=5",
-      "source": "KDI 경제교육·정보센터",
-      "date": "Thu, 12 Nov 2026 10:48:17 GMT"
     }
   ]
 }
