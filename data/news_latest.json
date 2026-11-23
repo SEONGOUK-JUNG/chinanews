@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-23T07:20:02+09:00",
+  "run_at_kst": "2026-11-23T14:10:08+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,18 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Oil Markets Are Betting on a Surplus That Hasn't Arrived Yet",
+      "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Markets-Are-Betting-on-a-Surplus-That-Hasnt-Arrived-Yet.html",
+      "source": "OilPrice",
+      "date": "Sun, 22 Nov 2026 18:00:00 -0600"
+    },
+    {
+      "title": "U.S. Energy Exports Hit Records as Global Competition Intensifies",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Energy-Exports-Hit-Records-as-Global-Competition-Intensifies.html",
+      "source": "OilPrice",
+      "date": "Sun, 22 Nov 2026 16:00:00 -0600"
+    },
     {
       "title": "California’s Wildfire Crisis Is Threatening Its Energy Future",
       "link": "https://oilprice.com/Energy/Energy-General/Californias-Wildfire-Crisis-Is-Threatening-Its-Energy-Future.html",
@@ -42,18 +54,6 @@
       "link": "https://oilprice.com/Energy/Coal/Trumps-Coal-Revival-Is-Costing-Americans-More-Than-Expected.html",
       "source": "OilPrice",
       "date": "Sat, 21 Nov 2026 14:00:00 -0600"
-    },
-    {
-      "title": "Thanksgiving Gas Prices Could Break a Record Despite Recent Plunge",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Thanksgiving-Gas-Prices-Could-Break-a-Record-Despite-Recent-Plunge.html",
-      "source": "OilPrice",
-      "date": "Sat, 21 Nov 2026 13:10:00 -0600"
-    },
-    {
-      "title": "Britain's Net Zero Revolution Has a China Problem",
-      "link": "https://oilprice.com/Energy/Energy-General/Britains-Net-Zero-Revolution-Has-a-China-Problem.html",
-      "source": "OilPrice",
-      "date": "Sat, 21 Nov 2026 12:00:00 -0600"
     },
     {
       "title": "Niron Magnetics to build $1.8 billion manufacturing plant in Alabama",

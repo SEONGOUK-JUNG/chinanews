@@ -1,21 +1,39 @@
 {
-  "run_at_kst": "2026-11-23T07:20:02+09:00",
+  "run_at_kst": "2026-11-23T14:10:08+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "K유통에 닥친 C자본 역습…정부 규칙 없으면 개방 아닌 '방치'",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY1FzNVBLOHkwTW9abDNweVhpR25ydXRZY3pHUXJRNDZnOHNnSl82QlZFbXdXT0lzck9YZkUyRVNGNVpLTy1WcW1SVnZpQmlPbDUyZmxNc2oyS0I3aVhxZmdpRTdQN3Z0N2V2U3Ftc2NHYkl2aERhTkU2SlB1aXZlUA?oc=5",
-      "source": "이데일리",
-      "date": "Sun, 22 Nov 2026 20:50:03 GMT"
+      "title": "SK그룹, 중국 장시성서 한·중 청년 교류 행사",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EY2QwNjEtY2JBWjkxaTAxY3EyOTJRaTZEUTc5cldtbWgyYmlzVjBXei1WWEtJalNvekYxWnBSUmxpLW9vYmFfejBWUlpvanlZN20yRVd3?oc=5",
+      "source": "헤럴드경제",
+      "date": "Mon, 23 Nov 2026 03:17:07 GMT"
+    },
+    {
+      "title": "칩 이어 통신까지 잇단 규제…美·中 무역전쟁 다시 불붙나",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvckh6RkRRaC1leVViRlo3cU83cVRpMV9ueVlpbzZ3RHZaTDhjeDlsWXF0SkZReWNfdTBHR2R0ZmkzaThoa1dlbjdVSXFxSV9CM0gzajFKNXo1cWZXN0pnUGRqT3BSWUN3VEFWSkRCd0NHTXc?oc=5",
+      "source": "마켓인",
+      "date": "Mon, 23 Nov 2026 00:39:30 GMT"
+    },
+    {
+      "title": "중국 기술주 3개 지수 편입기업 시총 1조7,000억달러 감소…AI 투자 수익성 시험대",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uSW1qZUg3ekV1V2Z6b24wYTJBd01iNHB5MThJQnVLRGFsV0ozZjJRbGNpVHFXdjZJclhyYVFFYUhhcmdsWmZLcmNkdzFUNFpWVjZqVzVIRU1aUWc2a3BLdWtoczI1Ylhp?oc=5",
+      "source": "시사프리즘",
+      "date": "Sun, 22 Nov 2026 23:47:00 GMT"
     },
     {
       "title": "中 관영매체 “해외 언론이 中 경제위기 과장”…네티즌들은 주가 폭락에 냉소",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9idnhoM1REUFVjTnhCRmJyLVF4YTY5U1k1UXI3STdGZUlwUDgyTGxud0c5bWdrV0lubWJ3R3V1RVYxd2doRXVYUU14OG1xandYQXfSAVNBVV95cUxNNFVEdDlTc1I4czl2TzJ5Sy1qUGFiWllNcW14U1E1WmNpUFQ2ZGZvckhpLVZiS2N1N2dCXzRfYjFPWlVqcGRsb1Frc3ljeUdIclF1bw?oc=5",
       "source": "서울경제",
       "date": "Sun, 22 Nov 2026 20:30:00 GMT"
+    },
+    {
+      "title": "[중국증시 주간 포인트] 美 금리향방 가를 경제지표, 中 공업기업 이익, 미중 후속 AI 대화, 18개 액티브 ETF 동시 상장, 차이나 하이테크 페어, 화웨이 신제품 등",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrYnBHMm9BRVlMbnpoa1lFeEtSQ2h1VTlHT2xKQ0pNZmxCMEVIQXdiNXFLNzl5OHFnLXc1RHlWVXlJUGNaUkwxMnBZR25uVjFhY0EyY0lPQzAxVWNySTlzQkVXNlgzdlZFT3NxODhyT2hSME1ObHdFRS1rRQ?oc=5",
+      "source": "네이버 프리미엄콘텐츠",
+      "date": "Sun, 22 Nov 2026 14:55:00 GMT"
     },
     {
       "title": "중국 AI 잘나가더니…\"2300조 사라졌다\" 날벼락 맞은 까닭",
@@ -42,12 +60,6 @@
       "date": "Sun, 22 Nov 2026 09:00:15 GMT"
     },
     {
-      "title": "광양경자청 하동사무소, 중국 투자유치 활동",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fQWJ2SU5oWnFqVUw3TlRsRzlSWllKcXR2NC1ySThlTHMzRkU2aEhHenRjNU5PdXNhSTlQVFRldTMzVUZFZnhsUVZZcUJkNmg1RnRWTmR1SVRmMWdHdmNIdDBGemt1SW5IaGN3?oc=5",
-      "source": "광양경제신문",
-      "date": "Sun, 22 Nov 2026 08:49:03 GMT"
-    },
-    {
       "title": "중 관영매체 “비관론자는 늘 틀렸다” 경제 우려 적극 반박…온라인에서는 냉소도",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnbFk0TzVzajhiRTVYSEFVbHlXa3ptcDRGQ3hLRHZwMklMVVlLbWdBYmhMMFV3VVo5WFhNbGJta2d2VFhyZlp4N1o3dHZtZEVyamd1YWtzV1laZ9IBX0FVX3lxTE1YaGhhS0hQSGNsYTNnT0o2UFllNkVfSEFUTzQwWjcxQ2dTb2gzWUNyaHJUMDhrRDg1NFEtMk5FT3E4bkE1Wk9GTXc2TGZJWlZuSzFZUjlDdkNHcWJqcHpJ?oc=5",
       "source": "경향신문",
@@ -60,22 +72,10 @@
       "date": "Sun, 22 Nov 2026 06:17:56 GMT"
     },
     {
-      "title": "미중러 정상회담: 시진핑에게 놀라운 외교적 순간…3자 정상회담엔 복병도",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwV3R4dkNzbnhEY3hjd0JNeHRlbzNPQ0ljMU9GT0ZYU0xiTWR1WkZ5SEx0U295Qm5hZ1diWDNQQTV2SThSSGFpNzl3Uk9MbkJEbWxOWjd3ZXhmbDByMUHSAWNBVV95cUxOMlJrMVF2RVZLTmhjVENSOVVLWllkV1RjM2xqeXExb3o3NXBzVU1YbXBCWm5nWDBLc2ROZ1pqYW5vZExmQTNBeUhWaXdKcVFFYm9UYjQyanNvcWxtRDI5R1Z2eWM?oc=5",
-      "source": "BBC",
-      "date": "Thu, 19 Nov 2026 10:17:03 GMT"
-    },
-    {
       "title": "[경제 포커스] 한국-중국 상호 수출 의존도 다시 높아졌다",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUHlYaU0xS0VNdmc3djdFNUR3YnlFT205LWhvRWE2cE9XZ0w1MVZLbE9EazFaTXZERmRpdmZPM3dhRnZiM2R2YTg3X05sQ3ZBN280TmN5THdDbmpFTmpnR2dORVFYSWkxNmp6Q2ZMbk9DZ0p4REM2UzYxaG9OYVFYTnFubDFCUdIBmgFBVV95cUxPTlM4RDhXeHhpckR4ckVLMEZ1aUVkbERiSHV1aFhfbHh4V1NkQWQ5N29VbGl5Rkg4dXFrLUdFdUVVSy1MdUM2R0Ntc1pDa0hnb3JmWUxDTktrNFVIU0ZBWURJRUViYUJTbGhCMXJNRmlvZG0wVVVCM2ZESm9rb2tNVkNOS21pR2hSQVlqWGpfMkkzR3dPdFFoM0pB?oc=5",
       "source": "Chosunbiz",
       "date": "Thu, 19 Nov 2026 05:38:00 GMT"
-    },
-    {
-      "title": "[선전 APEC 개막 ] 시진핑 '중국 경제' 글로벌 기업에 협력 기회 제공",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuN1hSNzh4aUdaQmZJd1VPNHpUOFpiSWVOcmJjbGFBUTg3LUlnUTZ3RlhJRHN3QjFEUWFxN1FEN01vYkNoMG41X2ZFZ3cxTmIyZ2c3X01IUGxfeFdG?oc=5",
-      "source": "뉴스핌",
-      "date": "Wed, 18 Nov 2026 03:12:00 GMT"
     }
   ]
 }
