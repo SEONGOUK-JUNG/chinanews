@@ -1,27 +1,51 @@
 {
-  "run_at_kst": "2026-11-23T14:10:08+09:00",
+  "run_at_kst": "2026-11-23T20:10:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "SK그룹, 중국 장시성서 한·중 청년 교류 행사",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EY2QwNjEtY2JBWjkxaTAxY3EyOTJRaTZEUTc5cldtbWgyYmlzVjBXei1WWEtJalNvekYxWnBSUmxpLW9vYmFfejBWUlpvanlZN20yRVd3?oc=5",
-      "source": "헤럴드경제",
-      "date": "Mon, 23 Nov 2026 03:17:07 GMT"
-    },
-    {
-      "title": "칩 이어 통신까지 잇단 규제…美·中 무역전쟁 다시 불붙나",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvckh6RkRRaC1leVViRlo3cU83cVRpMV9ueVlpbzZ3RHZaTDhjeDlsWXF0SkZReWNfdTBHR2R0ZmkzaThoa1dlbjdVSXFxSV9CM0gzajFKNXo1cWZXN0pnUGRqT3BSWUN3VEFWSkRCd0NHTXc?oc=5",
+      "title": "다시 보는 중국...자본시장에 韓中 협력 훈풍 불까",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IVGdQMXFiZTZwX1E2Z1A1ZFRoSHdoLWR6bkpMb2dmQXRsQVBYWGNMN3dVQmdveHgzNllIb3Z2RjFPcER0U3BKMGtVa0w3Q0tyb3VzUTFFdkVRbTNKdmxOYWxzcUJ2NHY0R3JHYi04MUlsdw?oc=5",
       "source": "마켓인",
-      "date": "Mon, 23 Nov 2026 00:39:30 GMT"
+      "date": "Mon, 23 Nov 2026 08:01:04 GMT"
     },
     {
-      "title": "중국 기술주 3개 지수 편입기업 시총 1조7,000억달러 감소…AI 투자 수익성 시험대",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uSW1qZUg3ekV1V2Z6b24wYTJBd01iNHB5MThJQnVLRGFsV0ozZjJRbGNpVHFXdjZJclhyYVFFYUhhcmdsWmZLcmNkdzFUNFpWVjZqVzVIRU1aUWc2a3BLdWtoczI1Ylhp?oc=5",
-      "source": "시사프리즘",
-      "date": "Sun, 22 Nov 2026 23:47:00 GMT"
+      "title": "[화요초대석-전병서] 2027년 한국경제가 파야 할 세 개의 굴",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Oay1ZcVNIbVJCaThSRHQtRjlJX2NLLTNDdUdkMnYzZHhZaFFqYmxMTldpTXRsaC1qcUdzVnlfSWxJTkNFVW85cjJMQWhuN1A5bVplYzEyRFRlTnhsM1ZzcUpR?oc=5",
+      "source": "매일신문",
+      "date": "Mon, 23 Nov 2026 06:30:00 GMT"
+    },
+    {
+      "title": "중국차, 세계 39개국서 일본차 추월⋯한국·독일 등 14개국 새 역전",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tSGlQOTJseDBvbXlCRU9UVVVZR2pTZ3dfNmFmVmloNFZOT2tOenNET25BbFhaNTlrdDZhV0Z3SXBrMl9VQVJDSzZnaFI4VXZ3MmVPV1JBR2J5aWVRLVE?oc=5",
+      "source": "포커스온경제",
+      "date": "Mon, 23 Nov 2026 05:51:47 GMT"
+    },
+    {
+      "title": "미중 반도체 여론전?…中관영매체 ＂美우위 과장은 자아도취＂",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRTk0dnlJakQxam1Zd1pYNHhIeHRlanB4Sm1INkt0NWhxdmgtX2dHQXhtZEFTMDdnbkxxbjZzMkRpWEFGeU9pS2NzdDVmR3E2VDFhc0NhLXotNFJTNjBSUUJLaE16SVRhYUU0SThvRDVWLWViVERzNnd0VWVIZm5FMg?oc=5",
+      "source": "한국경제TV",
+      "date": "Mon, 23 Nov 2026 05:33:00 GMT"
+    },
+    {
+      "title": "AI거품론에 習 경제개혁도 흔들...중국증시 안정 총력전",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uaGRXcDl6OVlxMlgtZm1TcW4wNDZOYzZRaTM2aklYWTNCTlBQY0Q5RWJCUHB4UEhNOFVNMDRXN3NCVy1keWRZNzhuSm53UDR4V3RNWjBVMkN2QdIBWEFVX3lxTE1Bd3NmZS1VQTd5cFpFR0ZHMXMyQWJQVExkZXE0NTZ2d2dQT1NaNUxCWGJVUHpfUFZUc1BVbTBKOTh1THdPWUlqTFM0SjY0WXozcmEzUEd1T2E?oc=5",
+      "source": "아주경제",
+      "date": "Mon, 23 Nov 2026 05:21:03 GMT"
+    },
+    {
+      "title": "AI투자 늘리는 중국 '불균등 이중 경제’는 더 악화",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XY3lTOE1aQWxSNlRVVVR4VjVPdWI2NGRrbkJjdnBuOFpkUzhZRC1nbUVqS3ZSSTA0UWE5ZUdrNVhHb3dyUjlfUGJEY2FxbnBHUVBaeHRCcGUwZ3ZCNHBMWmI5blI5aW1QbkNIMw?oc=5",
+      "source": "세상을 바꾸는 시민언론 민들레",
+      "date": "Mon, 23 Nov 2026 05:00:00 GMT"
+    },
+    {
+      "title": "[중국 특징주] 中 전문가 \"AI 산업 생산액 2천조 돌파 전망…상하이 부동산 낙관\"",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfdzV2VTkyMkhtcEl5aWFZOVI0b3hHamhqZF9QQy1ITi1NczE0NkJlT181ZURqVXpIcEo5U3Fqd1lBTDgyNVltMEJGUHhiWThtZUhXWGZKNnh4WVRx?oc=5",
+      "source": "뉴스핌",
+      "date": "Mon, 23 Nov 2026 01:36:00 GMT"
     },
     {
       "title": "中 관영매체 “해외 언론이 中 경제위기 과장”…네티즌들은 주가 폭락에 냉소",
@@ -42,24 +66,6 @@
       "date": "Sun, 22 Nov 2026 12:41:59 GMT"
     },
     {
-      "title": "‘AI 열풍’ 식자 中 기술주서 2289조원 증발…中당국이 꺼낸 유동성 카드 규모가?",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56ckxRbzViVkwyTFNaU0lNbEtuWjE4RHg3SmpyQnRWb21DUjVLenhoSFV2RjBySG56TFk3UnJGY0dtNHZxUVEyMUlHN21jYTRTN1E?oc=5",
-      "source": "매일경제",
-      "date": "Sun, 22 Nov 2026 11:52:49 GMT"
-    },
-    {
-      "title": "\"中 '기술주 지수' 시총, 6월말 이후 2천300조원 증발\"(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxSGZ6clo0NzlxNVdpeFE4N3BWdjY1QzJFMjRoa3FVVy1QcGp2QlVTMmpMQUtUbjBnWEFNNGdiTE9VSnJFejAyZ1hlaVloWXZkMF9HSWtPRldrdmPSAWBBVV95cUxOdkhDMUhlQ2VTNnFLanRrSmdqNjFjd1N6bXhjRUN2S2I3dm5pMWc2WHZZZHBsWEg0QnZYTnlwc2locGxJMFg0MFExVTdUa29qT29CQ3Z1UHhWS2wzNDR6RmM?oc=5",
-      "source": "연합뉴스",
-      "date": "Sun, 22 Nov 2026 11:11:35 GMT"
-    },
-    {
-      "title": "[편집국에서] 중국차 압박 속 현대차의 생존전략은",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ldUx4Tk5IdWdfeFc2SHJwS19jamRwMWY5R2ZaUjI1Y1pMWDduQ1FDbnZ4NHR5em15X3VhQTN4eGdORDdXQjh3ZnQ0N0hpUUZvSTk1Y003OHNOZi1mS2VlSXRIa1pxOHNFZnRtRmgxa1ZHRGZMMENBUA?oc=5",
-      "source": "부산일보",
-      "date": "Sun, 22 Nov 2026 09:00:15 GMT"
-    },
-    {
       "title": "중 관영매체 “비관론자는 늘 틀렸다” 경제 우려 적극 반박…온라인에서는 냉소도",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnbFk0TzVzajhiRTVYSEFVbHlXa3ptcDRGQ3hLRHZwMklMVVlLbWdBYmhMMFV3VVo5WFhNbGJta2d2VFhyZlp4N1o3dHZtZEVyamd1YWtzV1laZ9IBX0FVX3lxTE1YaGhhS0hQSGNsYTNnT0o2UFllNkVfSEFUTzQwWjcxQ2dTb2gzWUNyaHJUMDhrRDg1NFEtMk5FT3E4bkE1Wk9GTXc2TGZJWlZuSzFZUjlDdkNHcWJqcHpJ?oc=5",
       "source": "경향신문",
@@ -70,12 +76,6 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vSUVMQjI1azcyeGlxeWhOUmYzUExNSUZWSnY1enE5Q0pobEdWMWxmeFFDWXZpeW1lMGZEc2ZpSHJJVkFUUHJ5dkJaamdTaHlJdGFkQ2Z5NzdXSHRYdFQwQmpPRjg4M0xzZWJmd0x3?oc=5",
       "source": "아시아투데이",
       "date": "Sun, 22 Nov 2026 06:17:56 GMT"
-    },
-    {
-      "title": "[경제 포커스] 한국-중국 상호 수출 의존도 다시 높아졌다",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUHlYaU0xS0VNdmc3djdFNUR3YnlFT205LWhvRWE2cE9XZ0w1MVZLbE9EazFaTXZERmRpdmZPM3dhRnZiM2R2YTg3X05sQ3ZBN280TmN5THdDbmpFTmpnR2dORVFYSWkxNmp6Q2ZMbk9DZ0p4REM2UzYxaG9OYVFYTnFubDFCUdIBmgFBVV95cUxPTlM4RDhXeHhpckR4ckVLMEZ1aUVkbERiSHV1aFhfbHh4V1NkQWQ5N29VbGl5Rkg4dXFrLUdFdUVVSy1MdUM2R0Ntc1pDa0hnb3JmWUxDTktrNFVIU0ZBWURJRUViYUJTbGhCMXJNRmlvZG0wVVVCM2ZESm9rb2tNVkNOS21pR2hSQVlqWGpfMkkzR3dPdFFoM0pB?oc=5",
-      "source": "Chosunbiz",
-      "date": "Thu, 19 Nov 2026 05:38:00 GMT"
     }
   ]
 }

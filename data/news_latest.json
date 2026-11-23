@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-23T14:10:08+09:00",
+  "run_at_kst": "2026-11-23T20:10:04+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "ConocoPhillips to Exit Norway in $4.4 Billion Deal With Vår Energi",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/ConocoPhillips-to-Exit-Norway-in-44-Billion-Deal-With-Vr-Energi.html",
+      "source": "OilPrice",
+      "date": "Mon, 23 Nov 2026 05:00:00 -0600"
+    },
+    {
+      "title": "Libya’s Oil Output Plunges as Armed Groups Shut Key Pipelines",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Libyas-Oil-Output-Plunges-as-Armed-Groups-Shut-Key-Pipelines.html",
+      "source": "OilPrice",
+      "date": "Mon, 23 Nov 2026 03:45:00 -0600"
+    },
+    {
+      "title": "European Natural Gas Prices Surge 8.6% as Cold Snap Looms",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/European-Natural-Gas-Prices-Surge-86-as-Cold-Snap-Looms.html",
+      "source": "OilPrice",
+      "date": "Mon, 23 Nov 2026 02:30:00 -0600"
+    },
+    {
+      "title": "EU Green Energy Giants Slam €40 Billion Budget Cut",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Green-Energy-Giants-Slam-40-Billion-Budget-Cut.html",
+      "source": "OilPrice",
+      "date": "Mon, 23 Nov 2026 01:30:00 -0600"
+    },
+    {
+      "title": "Oil Prices Slide as AI Bubble Fears Rattle Global Markets",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Slide-as-AI-Bubble-Fears-Rattle-Global-Markets.html",
+      "source": "OilPrice",
+      "date": "Sun, 22 Nov 2026 23:50:00 -0600"
+    },
     {
       "title": "Oil Markets Are Betting on a Surplus That Hasn't Arrived Yet",
       "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Markets-Are-Betting-on-a-Surplus-That-Hasnt-Arrived-Yet.html",
@@ -24,36 +54,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/Californias-Wildfire-Crisis-Is-Threatening-Its-Energy-Future.html",
       "source": "OilPrice",
       "date": "Sun, 22 Nov 2026 14:00:00 -0600"
-    },
-    {
-      "title": "Google Backs Superhot Geothermal in 50 MW Oregon Power Deal",
-      "link": "https://oilprice.com/Energy/Energy-General/Google-Backs-Superhot-Geothermal-in-50-MW-Oregon-Power-Deal.html",
-      "source": "OilPrice",
-      "date": "Sun, 22 Nov 2026 12:00:00 -0600"
-    },
-    {
-      "title": "The $25 Billion Problem Facing Australia’s Hydropower Revolution",
-      "link": "https://oilprice.com/Energy/Energy-General/The-25-Billion-Problem-Facing-Australias-Hydropower-Revolution.html",
-      "source": "OilPrice",
-      "date": "Sun, 22 Nov 2026 10:00:00 -0600"
-    },
-    {
-      "title": "AI Boom Forces Massive Investment in Power Grids Worldwide",
-      "link": "https://oilprice.com/Energy/Crude-Oil/AI-Boom-Forces-Massive-Investment-in-Power-Grids-Worldwide.html",
-      "source": "OilPrice",
-      "date": "Sat, 21 Nov 2026 18:00:00 -0600"
-    },
-    {
-      "title": "Wind Could Cut the Cost of Round-the-Clock Solar Power by 18%, Ember Says",
-      "link": "https://oilprice.com/Alternative-Energy/Wind-Power/Wind-Could-Cut-the-Cost-of-Round-the-Clock-Solar-Power-by-18-Ember-Says.html",
-      "source": "OilPrice",
-      "date": "Sat, 21 Nov 2026 16:00:00 -0600"
-    },
-    {
-      "title": "Trump’s Coal Revival Is Costing Americans More Than Expected",
-      "link": "https://oilprice.com/Energy/Coal/Trumps-Coal-Revival-Is-Costing-Americans-More-Than-Expected.html",
-      "source": "OilPrice",
-      "date": "Sat, 21 Nov 2026 14:00:00 -0600"
     },
     {
       "title": "Niron Magnetics to build $1.8 billion manufacturing plant in Alabama",
