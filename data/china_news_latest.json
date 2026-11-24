@@ -1,14 +1,26 @@
 {
-  "run_at_kst": "2026-11-24T07:20:03+09:00",
+  "run_at_kst": "2026-11-24T10:10:03+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
+      "title": "충청권 관광패키지로 중국 관광객 ‘홀릭’",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UQU5halZsOWgwOTFvbGt4VXFuUTJTOEdnYzNjQ1h5dGJxQjV6VXVleG1WTTRsTTVLdXlieFBKcTVXMjZDd0ZLbm8zQkFtTUxmODVPN3hn?oc=5",
+      "source": "헤럴드경제",
+      "date": "Mon, 23 Nov 2026 22:53:58 GMT"
+    },
+    {
+      "title": "트럼프, 중국 보잉 250대 추가 구매 발언…5월 언급 200대도 아직 미확정",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNemF4WXNJSzdWYzJPWGtCMDJST0lPTUhKOTVNLWczT09NeWYweVI5bXRSa2V3c2FfTTF2czdzUWtYQXhEdFQybGtJeEdublQtQ2lQR19lb0VTX0tVei1lM3JNelV5U0xnT3ZoV0piRWttUmtrTV9Edk9UekRKYUdubEFaRlBlUU1B?oc=5",
+      "source": "글로벌이코노믹",
+      "date": "Mon, 23 Nov 2026 22:01:23 GMT"
+    },
+    {
       "title": "'중국과 불멸의 친선' 부각 위해 73년전 협정 꺼낸 北외무성",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0ycmVFX0I1TzlwUDdiNFlsSFRKSWVuSkFvZWl6WWhKQjFyZGJER2hFTUtjT19IcDdJdGRwWHNYT3lqREdvRTJKdUxMSzV2MXNHVFUzSndSRks2S1HSAWBBVV95cUxQUjh1MWNXcThmYkVMYXJ6T0ljN19WM1BLdzRNeGlMRl9yTl9NMlRKbVhUekh6OTI3bXRNSGZPSDFwMG02aktoS3M5Q3hNWHZRWGxqQUEzNkRUVDFFYktlRS0?oc=5",
-      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yX3cxZDNHUzFGVXNrMHBRNkhiWlFXWDNIbEhRRjR4dU5LTENra1Q0NWt2bTNIV1czNUpaZ2p2RmFhWU8ybEhKd09nbE9iZkVlZFN0MWNzOFBTZ2tfSU5Za0otQlVIV0taN0V2dEYyQU8tWW1f?oc=5",
+      "source": "연합뉴스 한민족센터",
       "date": "Mon, 23 Nov 2026 09:04:49 GMT"
     },
     {
@@ -24,10 +36,10 @@
       "date": "Mon, 23 Nov 2026 06:30:00 GMT"
     },
     {
-      "title": "중국이 다시 쓰는 글로벌 원자재 지형도",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oVDZ2ejJjWXJPWDdzeVNrU0I5VWx5d2FKV0lMcFUwTU5ENnVvNm1fUE9HSnh0SVlNMGZtT2ZCRlB0TzFjSU5ZX3FXX3V2TkdSaXc?oc=5",
-      "source": "네이버페이 머니스토리",
-      "date": "Mon, 23 Nov 2026 06:28:40 GMT"
+      "title": "AI거품론에 習 경제개혁도 흔들...중국증시 안정 총력전",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uaGRXcDl6OVlxMlgtZm1TcW4wNDZOYzZRaTM2aklYWTNCTlBQY0Q5RWJCUHB4UEhNOFVNMDRXN3NCVy1keWRZNzhuSm53UDR4V3RNWjBVMkN2QdIBWEFVX3lxTE1Bd3NmZS1VQTd5cFpFR0ZHMXMyQWJQVExkZXE0NTZ2d2dQT1NaNUxCWGJVUHpfUFZUc1BVbTBKOTh1THdPWUlqTFM0SjY0WXozcmEzUEd1T2E?oc=5",
+      "source": "아주경제",
+      "date": "Mon, 23 Nov 2026 05:21:03 GMT"
     },
     {
       "title": "AI투자 늘리는 중국 '불균등 이중 경제’는 더 악화",
@@ -42,10 +54,16 @@
       "date": "Mon, 23 Nov 2026 01:36:00 GMT"
     },
     {
-      "title": "중국경제 중장기 성장 전망과 성장구조 변화에 대한 연구 | 기타 | 보고서 | 발간물",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaW5vU3UyVGNtVU95NWk4bGx2d0ZZdDFpcWhyanI4RFA3Mjd1UHcwT1k0dG1wZjBUSy1oaUhhNDVGOEJEZnNLYlU5Ukt2cDBpSUQ3amcyTTNwTkUwY3RvQ2NVazIzdVp0VTJYcmVwS0MxeDR4V0hISVVpLXdYa0ZtejJQSktUbnhCQXZRUUJ5NWFRWEFqNDdWSnZoMnluS1JpUzI1aW1LNFR5aHJuZWhyajlRdVZ1NHpoQk44RTZDU3Zob2RFbC1wRzZyVDdMcmR6T1FUSmV0VlhaM25vU1J6RFZYbXc?oc=5",
-      "source": "대외경제정책연구원",
-      "date": "Sun, 22 Nov 2026 10:04:38 GMT"
+      "title": "[중국증시 주간 포인트] 美 금리향방 가를 경제지표, 中 공업기업 이익, 미중 후속 AI 대화, 18개 액티브 ETF 동시 상장, 차이나 하이테크 페어, 화웨이 신제품 등",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrYnBHMm9BRVlMbnpoa1lFeEtSQ2h1VTlHT2xKQ0pNZmxCMEVIQXdiNXFLNzl5OHFnLXc1RHlWVXlJUGNaUkwxMnBZR25uVjFhY0EyY0lPQzAxVWNySTlzQkVXNlgzdlZFT3NxODhyT2hSME1ObHdFRS1rRQ?oc=5",
+      "source": "네이버 프리미엄콘텐츠",
+      "date": "Sun, 22 Nov 2026 14:55:00 GMT"
+    },
+    {
+      "title": "중국 AI 잘나가더니…\"2300조 사라졌다\" 날벼락 맞은 까닭",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3N2RUbXFfOW9nUk50aFl4WFFTbkhMSWRwUUxiUm1YVTI5WDBUZS0xcklyYnVfQi05WUFQelR6b0R6cjRCejJtU0JTeWg3S2ZCdTZvZjg4UzBwQQ?oc=5",
+      "source": "한국경제",
+      "date": "Sun, 22 Nov 2026 12:41:59 GMT"
     },
     {
       "title": "중 관영매체 “비관론자는 늘 틀렸다” 경제 우려 적극 반박…온라인에서는 냉소도",
@@ -58,24 +76,6 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vSUVMQjI1azcyeGlxeWhOUmYzUExNSUZWSnY1enE5Q0pobEdWMWxmeFFDWXZpeW1lMGZEc2ZpSHJJVkFUUHJ5dkJaamdTaHlJdGFkQ2Z5NzdXSHRYdFQwQmpPRjg4M0xzZWJmd0x3?oc=5",
       "source": "아시아투데이",
       "date": "Sun, 22 Nov 2026 06:17:56 GMT"
-    },
-    {
-      "title": "국제적 비난 받던 신장, 중국 경제 야망의 핵심이 되다 [PADO] - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RSG96ZHotYlVjeHR6Tk5UZ3JsdHoyc2RUR1RhMlZudHdHckNKYnhpZkRfS2Y5UFR3b3Bzek5SVEZxemZWeVM1LXVESjBpOVl0YW1nMGxmVDdJcUFYSE9jV3ZUeU5faEUwQ0dhWnRR0gFuQVVfeXFMTlFIb3pkei1iVWN4dHpOTlRncmx0ejJzZFRHVGEyVm50d0dyQ0pieGlmRF9LZjlQVHdvcHN6TlJURnF6ZlZ5UzUtdURKMGk5WXRhbWcwbGZUN0lxQVhIT2NXdlR5Tl9oRTBDR2FadFE?oc=5",
-      "source": "머니투데이",
-      "date": "Fri, 20 Nov 2026 21:00:00 GMT"
-    },
-    {
-      "title": "국제적 비난 받던 신장, 중국 경제 야망의 핵심이 되다",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GZUs5U3o4T01Ia1JkbjlIWm1XT1MtaUJ4X1ZmdHJFZmJqSjhWUUJnN24td19oNFA4N3MtSkk2N205RDdadzU5RVZLR01ldmlMcE5hT2pwYVFPSWM?oc=5",
-      "source": "https://www.pado.kr/",
-      "date": "Fri, 20 Nov 2026 07:42:33 GMT"
-    },
-    {
-      "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Wed, 18 Nov 2026 08:00:00 GMT"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-24T07:20:03+09:00",
+  "run_at_kst": "2026-11-24T10:10:03+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "America's Refiners Drowned Their Own Gasoline Windfall",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Americas-Refiners-Drowned-Their-Own-Gasoline-Windfall.html",
+      "source": "OilPrice",
+      "date": "Mon, 23 Nov 2026 19:00:00 -0600"
+    },
+    {
+      "title": "Climate Finance Dispute Derails COP31 Negotiations",
+      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Climate-Finance-Dispute-Derails-COP31-Negotiations.html",
+      "source": "OilPrice",
+      "date": "Mon, 23 Nov 2026 18:00:00 -0600"
+    },
+    {
+      "title": "Quantum Computing Could Accelerate the Energy Transition",
+      "link": "https://oilprice.com/Energy/Energy-General/Quantum-Computing-Could-Accelerate-the-Energy-Transition.html",
+      "source": "OilPrice",
+      "date": "Mon, 23 Nov 2026 17:00:00 -0600"
+    },
+    {
+      "title": "Empower EIT inks 10 year lithium offtake deal with Glencore",
+      "link": "https://www.mining.com/empower-eit-inks-10-year-lithium-offtake-deal-with-glencore/",
+      "source": "mining.com",
+      "date": "Mon, 23 Nov 2026 22:21:43 +0000"
+    },
     {
       "title": "5 Energy Stocks That Can Shrug Off a December Fed Rate Hike",
       "link": "https://oilprice.com/Energy/Energy-General/5-Energy-Stocks-That-Can-Shrug-Off-a-December-Fed-Rate-Hike.html",
@@ -18,6 +42,12 @@
       "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Will-Batteries-Kill-Off-Gas-Turbines-at-Data-Centers.html",
       "source": "OilPrice",
       "date": "Mon, 23 Nov 2026 15:00:00 -0600"
+    },
+    {
+      "title": "Pakistan and Iran Move to Boost Energy Cooperation",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-and-Iran-Move-to-Boost-Energy-Cooperation.html",
+      "source": "OilPrice",
+      "date": "Mon, 23 Nov 2026 14:30:00 -0600"
     },
     {
       "title": "Washington's Iran Strategy Risks Strengthening Its Biggest Rivals",
@@ -32,34 +62,10 @@
       "date": "Mon, 23 Nov 2026 13:30:00 -0600"
     },
     {
-      "title": "Why Blocking the Sun Won't Solve the Climate Crisis",
-      "link": "https://oilprice.com/Energy/Energy-General/Why-Blocking-the-Sun-Wont-Solve-the-Climate-Crisis.html",
-      "source": "OilPrice",
-      "date": "Mon, 23 Nov 2026 13:00:00 -0600"
-    },
-    {
-      "title": "Pakistan and Iran Move to Boost Energy Cooperation",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-and-Iran-Move-to-Boost-Energy-Cooperation.html",
-      "source": "OilPrice",
-      "date": "Mon, 23 Nov 2026 12:30:00 -0600"
-    },
-    {
-      "title": "The Energy Transition Needs More Metals but Less Extraction",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Energy-Transition-Needs-More-Metals-but-Less-Extraction.html",
-      "source": "OilPrice",
-      "date": "Mon, 23 Nov 2026 12:00:00 -0600"
-    },
-    {
       "title": "Copper rout threatens Chile’s budget recovery hopes",
       "link": "https://www.mining.com/copper-rout-threatens-chiles-budget-recovery-hopes/",
       "source": "mining.com",
       "date": "Mon, 23 Nov 2026 17:49:17 +0000"
-    },
-    {
-      "title": "Japan’s Electricity Prices Surge to 2022 High as Cold Weather Arrives",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Electricity-Prices-Surge-to-2022-High-as-Cold-Weather-Arrives.html",
-      "source": "OilPrice",
-      "date": "Mon, 23 Nov 2026 11:30:00 -0600"
     },
     {
       "title": "Namib Minerals pours first gold at historic Redwing gold mine",
@@ -84,12 +90,6 @@
       "link": "https://www.mining.com/copper-price-roars-back-from-bear-market-as-nvidias-huang-u-turn-revives-ai-trade/",
       "source": "mining.com",
       "date": "Mon, 23 Nov 2026 15:09:57 +0000"
-    },
-    {
-      "title": "Prospectiva hits rich copper zone at São Francisco",
-      "link": "https://www.mining.com/prospectiva-hits-rich-copper-zone-at-sao-francisco/",
-      "source": "mining.com",
-      "date": "Mon, 23 Nov 2026 14:07:02 +0000"
     }
   ]
 }
