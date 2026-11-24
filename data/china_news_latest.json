@@ -1,27 +1,45 @@
 {
-  "run_at_kst": "2026-11-24T10:10:03+09:00",
+  "run_at_kst": "2026-11-24T14:10:04+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "충청권 관광패키지로 중국 관광객 ‘홀릭’",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UQU5halZsOWgwOTFvbGt4VXFuUTJTOEdnYzNjQ1h5dGJxQjV6VXVleG1WTTRsTTVLdXlieFBKcTVXMjZDd0ZLbm8zQkFtTUxmODVPN3hn?oc=5",
-      "source": "헤럴드경제",
-      "date": "Mon, 23 Nov 2026 22:53:58 GMT"
+      "title": "강금실, 중국 연변 경제특보까지 맡았다",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uclg3RG50WTBzUm1Sd29rRFJPVG5mbDJMVXZ3U3Q5UnJfNXNFYUpVM1RMV3dINjlHRElfS05MMGsyRmhyT3ZjUzQ2UUdTbG9tZ01jdzhtbkRSdTFHUW1ISGJ5ZDNITW52X3NN0gFvQVVfeXFMUFpkdDU3WUJZOTFxY2pQX2RwNHU5UVFVemxNdFVSdkpLYzNhQXVHX1BnU2lYdnVtRjNxYS0yeE1JNzZvUVZVX3Z1emNpQXZGTkt2Z1doU1piRFVFOHJyQUFFUzZqZlBEN2VyOTZmYndJ?oc=5",
+      "source": "펜앤마이크",
+      "date": "Tue, 24 Nov 2026 04:07:37 GMT"
+    },
+    {
+      "title": "[중국 뉴스 브리핑] 2026년 11월 24일",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56UXVZaUJGbVVXZl9ZRG5FUERlTFVlZnZ3TXJING5DeVcyazBvczA5V1d0RVpTM1dZOVNzSzc3bDhNbVNDd2Ryb1hpN1dTMDVUWW1DSEZyTDViMWFrak9yNkV2S3o2LVJueUE?oc=5",
+      "source": "인민망 한국어판",
+      "date": "Tue, 24 Nov 2026 01:51:00 GMT"
+    },
+    {
+      "title": "중국에서 하동지구 투자유치 활동",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlVXRWVnNCNWE3d1BWSm9vdnozVGlybTFVN1VhUjZZZ1V5MjdtbzVuOEpSSWxkOE5DR08wdW5rdVY0a3JxSkZHZnhPa2JoTnRxY1FEbkhBU3p3V1pVMTh4X2dPZTZ5TkhpYTd3QmVhZFQ?oc=5",
+      "source": "하동신문",
+      "date": "Tue, 24 Nov 2026 01:50:44 GMT"
+    },
+    {
+      "title": "전북특별자치도, 중국 경제사절단 초청해 투자유치·산업협력 확대 나서",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XbjdjZ0RqMTA5MGFTVDd2RkxFcTFhYi00bnBCRDQ3YTVEY3NFcW14MTdaZlVIRXhYT3htRzRRcTFqLTZwa0FMMDJsSEx4cmp1MWxyTTBYNWNVN0V5QmxqRWJFZzBIcmpTMlE?oc=5",
+      "source": "전북제일신문",
+      "date": "Tue, 24 Nov 2026 01:15:54 GMT"
+    },
+    {
+      "title": "한중 FTA 후속타결…K-뷰티·여행업 중국시장 재공략",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JSGRRb3RIeHBBalpzbnVtTU56VVUxNHVZZ1EyTWhSZnNqYlBvWUVxZExGeDlKbHB3Qjl2X3Nta1VQSzZoMVVfdGJCQzkwZW5tRjdDM29XQmpaZ3BwbjZxbjdjUE9XUlBqa1E?oc=5",
+      "source": "OBC 뉴스",
+      "date": "Mon, 23 Nov 2026 23:46:12 GMT"
     },
     {
       "title": "트럼프, 중국 보잉 250대 추가 구매 발언…5월 언급 200대도 아직 미확정",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNemF4WXNJSzdWYzJPWGtCMDJST0lPTUhKOTVNLWczT09NeWYweVI5bXRSa2V3c2FfTTF2czdzUWtYQXhEdFQybGtJeEdublQtQ2lQR19lb0VTX0tVei1lM3JNelV5U0xnT3ZoV0piRWttUmtrTV9Edk9UekRKYUdubEFaRlBlUU1B?oc=5",
       "source": "글로벌이코노믹",
       "date": "Mon, 23 Nov 2026 22:01:23 GMT"
-    },
-    {
-      "title": "'중국과 불멸의 친선' 부각 위해 73년전 협정 꺼낸 北외무성",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yX3cxZDNHUzFGVXNrMHBRNkhiWlFXWDNIbEhRRjR4dU5LTENra1Q0NWt2bTNIV1czNUpaZ2p2RmFhWU8ybEhKd09nbE9iZkVlZFN0MWNzOFBTZ2tfSU5Za0otQlVIV0taN0V2dEYyQU8tWW1f?oc=5",
-      "source": "연합뉴스 한민족센터",
-      "date": "Mon, 23 Nov 2026 09:04:49 GMT"
     },
     {
       "title": "다시 보는 중국...자본시장에 韓中 협력 훈풍 불까",
@@ -36,34 +54,16 @@
       "date": "Mon, 23 Nov 2026 06:30:00 GMT"
     },
     {
-      "title": "AI거품론에 習 경제개혁도 흔들...중국증시 안정 총력전",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uaGRXcDl6OVlxMlgtZm1TcW4wNDZOYzZRaTM2aklYWTNCTlBQY0Q5RWJCUHB4UEhNOFVNMDRXN3NCVy1keWRZNzhuSm53UDR4V3RNWjBVMkN2QdIBWEFVX3lxTE1Bd3NmZS1VQTd5cFpFR0ZHMXMyQWJQVExkZXE0NTZ2d2dQT1NaNUxCWGJVUHpfUFZUc1BVbTBKOTh1THdPWUlqTFM0SjY0WXozcmEzUEd1T2E?oc=5",
-      "source": "아주경제",
-      "date": "Mon, 23 Nov 2026 05:21:03 GMT"
-    },
-    {
       "title": "AI투자 늘리는 중국 '불균등 이중 경제’는 더 악화",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XY3lTOE1aQWxSNlRVVVR4VjVPdWI2NGRrbkJjdnBuOFpkUzhZRC1nbUVqS3ZSSTA0UWE5ZUdrNVhHb3dyUjlfUGJEY2FxbnBHUVBaeHRCcGUwZ3ZCNHBMWmI5blI5aW1QbkNIMw?oc=5",
       "source": "세상을 바꾸는 시민언론 민들레",
       "date": "Mon, 23 Nov 2026 05:00:00 GMT"
     },
     {
-      "title": "[중국 특징주] 中 전문가 \"AI 산업 생산액 2천조 돌파 전망…상하이 부동산 낙관\"",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfdzV2VTkyMkhtcEl5aWFZOVI0b3hHamhqZF9QQy1ITi1NczE0NkJlT181ZURqVXpIcEo5U3Fqd1lBTDgyNVltMEJGUHhiWThtZUhXWGZKNnh4WVRx?oc=5",
-      "source": "뉴스핌",
-      "date": "Mon, 23 Nov 2026 01:36:00 GMT"
-    },
-    {
-      "title": "[중국증시 주간 포인트] 美 금리향방 가를 경제지표, 中 공업기업 이익, 미중 후속 AI 대화, 18개 액티브 ETF 동시 상장, 차이나 하이테크 페어, 화웨이 신제품 등",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrYnBHMm9BRVlMbnpoa1lFeEtSQ2h1VTlHT2xKQ0pNZmxCMEVIQXdiNXFLNzl5OHFnLXc1RHlWVXlJUGNaUkwxMnBZR25uVjFhY0EyY0lPQzAxVWNySTlzQkVXNlgzdlZFT3NxODhyT2hSME1ObHdFRS1rRQ?oc=5",
-      "source": "네이버 프리미엄콘텐츠",
-      "date": "Sun, 22 Nov 2026 14:55:00 GMT"
-    },
-    {
-      "title": "중국 AI 잘나가더니…\"2300조 사라졌다\" 날벼락 맞은 까닭",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3N2RUbXFfOW9nUk50aFl4WFFTbkhMSWRwUUxiUm1YVTI5WDBUZS0xcklyYnVfQi05WUFQelR6b0R6cjRCejJtU0JTeWg3S2ZCdTZvZjg4UzBwQQ?oc=5",
-      "source": "한국경제",
-      "date": "Sun, 22 Nov 2026 12:41:59 GMT"
+      "title": "‘AI 열풍’ 식자 中 기술주서 2289조원 증발…中당국이 꺼낸 유동성 카드 규모가?",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nUnVtOTRlZFlPbFR2ZXYwODhsT3VwUl9CTjFnWDM5bk5yaHZBTHBPSE9mcS15X20tQlo0d1JyeF9FS0dlVTkwcnNZVFhzTjRvV3c?oc=5",
+      "source": "매일경제 마켓",
+      "date": "Sun, 22 Nov 2026 11:52:49 GMT"
     },
     {
       "title": "중 관영매체 “비관론자는 늘 틀렸다” 경제 우려 적극 반박…온라인에서는 냉소도",
