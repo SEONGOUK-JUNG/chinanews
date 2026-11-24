@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-24T10:10:03+09:00",
+  "run_at_kst": "2026-11-24T20:10:04+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Japan Poised to Ramp Up LNG Buying as Power Prices Surge",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Poised-to-Ramp-Up-LNG-Buying-as-Power-Prices-Surge.html",
+      "source": "OilPrice",
+      "date": "Tue, 24 Nov 2026 04:35:00 -0600"
+    },
+    {
+      "title": "Equinor Locks In Longest Gas Supply Deal in 40 Years",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-Locks-In-Longest-Gas-Supply-Deal-in-40-Years.html",
+      "source": "OilPrice",
+      "date": "Tue, 24 Nov 2026 03:25:00 -0600"
+    },
+    {
+      "title": "Oil Prices Hold Near Three-Month Lows Despite Hormuz Mine Claims",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Hold-Near-Three-Month-Lows-Despite-Hormuz-Mine-Claims.html",
+      "source": "OilPrice",
+      "date": "Tue, 24 Nov 2026 01:05:00 -0600"
+    },
+    {
+      "title": "Electric and Hybrid Cars Capture Three-Quarters of Europe’s Auto Market",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Electric-and-Hybrid-Cars-Capture-Three-Quarters-of-Europes-Auto-Market.html",
+      "source": "OilPrice",
+      "date": "Tue, 24 Nov 2026 00:30:00 -0600"
+    },
     {
       "title": "America's Refiners Drowned Their Own Gasoline Windfall",
       "link": "https://oilprice.com/Energy/Crude-Oil/Americas-Refiners-Drowned-Their-Own-Gasoline-Windfall.html",
@@ -36,30 +60,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/5-Energy-Stocks-That-Can-Shrug-Off-a-December-Fed-Rate-Hike.html",
       "source": "OilPrice",
       "date": "Mon, 23 Nov 2026 16:00:00 -0600"
-    },
-    {
-      "title": "Will Batteries Kill Off Gas Turbines at Data Centers",
-      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Will-Batteries-Kill-Off-Gas-Turbines-at-Data-Centers.html",
-      "source": "OilPrice",
-      "date": "Mon, 23 Nov 2026 15:00:00 -0600"
-    },
-    {
-      "title": "Pakistan and Iran Move to Boost Energy Cooperation",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-and-Iran-Move-to-Boost-Energy-Cooperation.html",
-      "source": "OilPrice",
-      "date": "Mon, 23 Nov 2026 14:30:00 -0600"
-    },
-    {
-      "title": "Washington's Iran Strategy Risks Strengthening Its Biggest Rivals",
-      "link": "https://oilprice.com/Energy/Energy-General/Washingtons-Iran-Strategy-Risks-Strengthening-Its-Biggest-Rivals.html",
-      "source": "OilPrice",
-      "date": "Mon, 23 Nov 2026 14:00:00 -0600"
-    },
-    {
-      "title": "ConocoPhillips to Exit Norway in $4.43 Billion Deal with Vaar Energi",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/ConocoPhillips-to-Exit-Norway-in-443-Billion-Deal-with-Vaar-Energi.html",
-      "source": "OilPrice",
-      "date": "Mon, 23 Nov 2026 13:30:00 -0600"
     },
     {
       "title": "Copper rout threatens Chile’s budget recovery hopes",
