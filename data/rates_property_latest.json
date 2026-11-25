@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-11-25T14:10:07+09:00",
+  "updated_at_kst": "2026-11-25T20:10:05+09:00",
   "as_of": "2026-11-25",
   "source": "Trading Economics",
   "source_url": "https://tradingeconomics.com/china/indicators",
@@ -20,9 +20,9 @@
     {
       "label": "10년 국채금리",
       "label_en": "10Y Govt Bond",
-      "value": 1.6,
+      "value": 1.61,
       "previous": null,
-      "display": "1.60%",
+      "display": "1.61%",
       "ref": "2026-11-25",
       "ref_en": "2026-11-25",
       "hint": "발표치 · 기준기간 확인",

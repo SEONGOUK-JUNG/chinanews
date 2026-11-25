@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-25T14:10:13+09:00",
+  "run_at_kst": "2026-11-25T20:10:09+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,42 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Dangote Refinery Set to Become Africa’s Most Valuable Listed Company",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Dangote-Refinery-Set-to-Become-Africas-Most-Valuable-Listed-Company.html",
+      "source": "OilPrice",
+      "date": "Wed, 25 Nov 2026 05:00:00 -0600"
+    },
+    {
+      "title": "Iran Reports Fresh Tanker Explosions as Hormuz Attacks Intensify",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Reports-Fresh-Tanker-Explosions-as-Hormuz-Attacks-Intensify.html",
+      "source": "OilPrice",
+      "date": "Wed, 25 Nov 2026 03:30:00 -0600"
+    },
+    {
+      "title": "Global LNG Supply Crunch Set to Spill Into 2027",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Global-LNG-Supply-Crunch-Set-to-Spill-Into-2027.html",
+      "source": "OilPrice",
+      "date": "Wed, 25 Nov 2026 02:30:00 -0600"
+    },
+    {
+      "title": "Goldman Sachs Sees U.S. Natural Gas Demand Surging on Data Center Boom",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Sees-US-Natural-Gas-Demand-Surging-on-Data-Center-Boom.html",
+      "source": "OilPrice",
+      "date": "Wed, 25 Nov 2026 00:45:00 -0600"
+    },
+    {
+      "title": "Oil Prices Slide Despite Mounting Threats in the Strait of Hormuz",
+      "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Slide-Despite-Mounting-Threats-in-the-Strait-of-Hormuz.html",
+      "source": "OilPrice",
+      "date": "Tue, 24 Nov 2026 23:50:00 -0600"
+    },
+    {
+      "title": "China Goes on Oil Buying Spree as Crude Prices Slide",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Goes-on-Oil-Buying-Spree-as-Crude-Prices-Slide.html",
+      "source": "OilPrice",
+      "date": "Tue, 24 Nov 2026 23:25:00 -0600"
+    },
     {
       "title": "The Diesel Crunch Isn’t Over Yet",
       "link": "https://oilprice.com/Energy/Energy-General/The-Diesel-Crunch-Isnt-Over-Yet.html",
@@ -26,52 +62,16 @@
       "date": "Tue, 24 Nov 2026 23:30:52 +0000"
     },
     {
-      "title": "Washington Is Buying Its Way Out of China's Tungsten Grip",
-      "link": "https://oilprice.com/Metals/Commodities/Washington-Is-Buying-Its-Way-Out-of-Chinas-Tungsten-Grip.html",
-      "source": "OilPrice",
-      "date": "Tue, 24 Nov 2026 17:00:00 -0600"
-    },
-    {
       "title": "Nisga’a, Tahltan Nations affirm KSM project support after BC Supreme Court setback",
       "link": "https://www.mining.com/nisgaa-tahltan-nations-affirm-support-for-seabridge-golds-ksm-project-after-bc-supreme-court-setback/",
       "source": "mining.com",
       "date": "Tue, 24 Nov 2026 22:17:39 +0000"
     },
     {
-      "title": "Why Trump's Flagship Lithium Project Now Costs 31% More Than Planned",
-      "link": "https://oilprice.com/Metals/Commodities/Why-Trumps-Flagship-Lithium-Project-Now-Costs-31-More-Than-Planned.html",
-      "source": "OilPrice",
-      "date": "Tue, 24 Nov 2026 16:00:00 -0600"
-    },
-    {
-      "title": "US Crude Oil Inventories Inches Up as Gasoline Holds Steady",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Inches-Up-as-Gasoline-Holds-Steady.html",
-      "source": "OilPrice",
-      "date": "Tue, 24 Nov 2026 16:00:00 -0600"
-    },
-    {
-      "title": "Where Does Texas' Data Center Boom Go From Here?",
-      "link": "https://oilprice.com/Energy/Energy-General/Where-Does-Texas-Data-Center-Boom-Go-From-Here.html",
-      "source": "OilPrice",
-      "date": "Tue, 24 Nov 2026 15:00:00 -0600"
-    },
-    {
       "title": "Tudor sees $2.3B value in Treaty Creek mine",
       "link": "https://www.mining.com/tudor-sees-2-3b-value-in-treaty-creek-mine/",
       "source": "mining.com",
       "date": "Tue, 24 Nov 2026 20:53:00 +0000"
-    },
-    {
-      "title": "Is This Tiny Oil Giant The Real Crown Jewel Of Trump’s New World Order?",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Is-This-Tiny-Oil-Giant-The-Real-Crown-Jewel-Of-Trumps-New-World-Order.html",
-      "source": "OilPrice",
-      "date": "Tue, 24 Nov 2026 14:00:00 -0600"
-    },
-    {
-      "title": "Central Asia Pushes Ahead With Regional Electricity Market",
-      "link": "https://oilprice.com/Energy/Energy-General/Central-Asia-Pushes-Ahead-With-Regional-Electricity-Market.html",
-      "source": "OilPrice",
-      "date": "Tue, 24 Nov 2026 13:00:00 -0600"
     },
     {
       "title": "Copper price erases Nvidia rebound as investors steer clear of metals",
