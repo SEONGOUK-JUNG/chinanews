@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-11-25T07:20:03+09:00",
+  "updated_at_kst": "2026-11-25T14:10:07+09:00",
   "as_of": "2026-11-25",
   "source": "Trading Economics",
   "source_url": "https://tradingeconomics.com/china/indicators",
@@ -23,8 +23,8 @@
       "value": 1.6,
       "previous": null,
       "display": "1.60%",
-      "ref": "2026-11-24",
-      "ref_en": "2026-11-24",
+      "ref": "2026-11-25",
+      "ref_en": "2026-11-25",
       "hint": "발표치 · 기준기간 확인",
       "hint_en": "published actual · reference period shown",
       "source_url": "https://tradingeconomics.com/china/government-bond-yield"

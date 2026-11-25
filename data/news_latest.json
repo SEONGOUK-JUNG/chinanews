@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-25T07:20:06+09:00",
+  "run_at_kst": "2026-11-25T14:10:13+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,36 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "The Diesel Crunch Isn’t Over Yet",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Diesel-Crunch-Isnt-Over-Yet.html",
+      "source": "OilPrice",
+      "date": "Tue, 24 Nov 2026 19:00:00 -0600"
+    },
+    {
+      "title": "Senate Investigates Vance’s Alleged Role in Venezuela Oil Deal",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Senate-Investigates-Vances-Alleged-Role-in-Venezuela-Oil-Deal.html",
+      "source": "OilPrice",
+      "date": "Tue, 24 Nov 2026 18:00:00 -0600"
+    },
+    {
+      "title": "BHP Foundation, Canada’s First Nations Major Projects Coalition strike $3.9 million deal",
+      "link": "https://www.mining.com/bhp-foundation-canadas-first-nations-major-projects-coalition-strike-3-9-million-deal/",
+      "source": "mining.com",
+      "date": "Tue, 24 Nov 2026 23:30:52 +0000"
+    },
+    {
+      "title": "Washington Is Buying Its Way Out of China's Tungsten Grip",
+      "link": "https://oilprice.com/Metals/Commodities/Washington-Is-Buying-Its-Way-Out-of-Chinas-Tungsten-Grip.html",
+      "source": "OilPrice",
+      "date": "Tue, 24 Nov 2026 17:00:00 -0600"
+    },
+    {
+      "title": "Nisga’a, Tahltan Nations affirm KSM project support after BC Supreme Court setback",
+      "link": "https://www.mining.com/nisgaa-tahltan-nations-affirm-support-for-seabridge-golds-ksm-project-after-bc-supreme-court-setback/",
+      "source": "mining.com",
+      "date": "Tue, 24 Nov 2026 22:17:39 +0000"
+    },
     {
       "title": "Why Trump's Flagship Lithium Project Now Costs 31% More Than Planned",
       "link": "https://oilprice.com/Metals/Commodities/Why-Trumps-Flagship-Lithium-Project-Now-Costs-31-More-Than-Planned.html",
@@ -26,6 +56,12 @@
       "date": "Tue, 24 Nov 2026 15:00:00 -0600"
     },
     {
+      "title": "Tudor sees $2.3B value in Treaty Creek mine",
+      "link": "https://www.mining.com/tudor-sees-2-3b-value-in-treaty-creek-mine/",
+      "source": "mining.com",
+      "date": "Tue, 24 Nov 2026 20:53:00 +0000"
+    },
+    {
       "title": "Is This Tiny Oil Giant The Real Crown Jewel Of Trump’s New World Order?",
       "link": "https://oilprice.com/Energy/Crude-Oil/Is-This-Tiny-Oil-Giant-The-Real-Crown-Jewel-Of-Trumps-New-World-Order.html",
       "source": "OilPrice",
@@ -36,24 +72,6 @@
       "link": "https://oilprice.com/Energy/Energy-General/Central-Asia-Pushes-Ahead-With-Regional-Electricity-Market.html",
       "source": "OilPrice",
       "date": "Tue, 24 Nov 2026 13:00:00 -0600"
-    },
-    {
-      "title": "Iraq Refuses to Accept OPEC+ Assessment of its Production Capacity",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Refuses-to-Accept-OPEC-Assessment-of-its-Production-Capacity.html",
-      "source": "OilPrice",
-      "date": "Tue, 24 Nov 2026 12:30:00 -0600"
-    },
-    {
-      "title": "Canada’s Oilfield Services Sector Is Gearing Up for a Stronger 2027",
-      "link": "https://oilprice.com/Energy/Energy-General/Canadas-Oilfield-Services-Sector-Is-Gearing-Up-for-a-Stronger-2027.html",
-      "source": "OilPrice",
-      "date": "Tue, 24 Nov 2026 12:00:00 -0600"
-    },
-    {
-      "title": "Europe’s Gas Prices Jumped 163% in a Year",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Europes-Gas-Prices-Jumped-163-in-a-Year.html",
-      "source": "OilPrice",
-      "date": "Tue, 24 Nov 2026 11:00:00 -0600"
     },
     {
       "title": "Copper price erases Nvidia rebound as investors steer clear of metals",
@@ -72,24 +90,6 @@
       "link": "https://www.mining.com/vale-to-resume-operations-at-viga-iron-ore-mine/",
       "source": "mining.com",
       "date": "Tue, 24 Nov 2026 15:23:20 +0000"
-    },
-    {
-      "title": "An under-resourced mining agency might be Brazil’s next challenge in mining push",
-      "link": "https://www.mining.com/an-under-resourced-mining-agency-might-be-brazils-next-challenge-in-mining-push/",
-      "source": "mining.com",
-      "date": "Tue, 24 Nov 2026 15:10:38 +0000"
-    },
-    {
-      "title": "Silver miners struggle to close persistent supply gap",
-      "link": "https://www.mining.com/silver-miners-struggle-to-close-persistent-supply-gap/",
-      "source": "mining.com",
-      "date": "Tue, 24 Nov 2026 15:00:00 +0000"
-    },
-    {
-      "title": "Marimaca gets Sprott’s backing for Chile copper project",
-      "link": "https://www.mining.com/marimaca-gets-sprotts-backing-for-chile-copper-project/",
-      "source": "mining.com",
-      "date": "Tue, 24 Nov 2026 14:25:45 +0000"
     }
   ]
 }
