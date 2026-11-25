@@ -1,15 +1,21 @@
 {
-  "run_at_kst": "2026-11-25T20:10:09+09:00",
+  "run_at_kst": "2026-11-26T07:20:07+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "\"중국 개혁없는 AI 도입, 경제 불균형 더욱 심화\"",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TTFpENnd5VzUyUzU5R2xyZjRVTGkxelVMdEpiV3JFUkdwNFpuRVRiLUtHNHdrNjdOeV96UGZDWnNSdWhOMFhSVGw4LWF0MzRTeXc?oc=5",
-      "source": "노컷뉴스",
-      "date": "Wed, 25 Nov 2026 09:40:21 GMT"
+      "title": "美, 중국 등 14개 경제주체에 과잉생산 관세…韓 15% 상한 유지(종합2보)",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yZFNGTkRhVTZJQlA4am5tM0dCdlBqeTcycUxjU0drN0EwOU0wT2xld2c0SWhkRWl1YXVOdU5NRkdPS2RZaUZXaFI4VVdzaHY2YVE1TE04eVo4UTjSAWBBVV95cUxNbWpNSGFrSWdnZUJOX3JsTDI3VXhXZV84bnNvdWk2SFZqNW94ajN4Z08tT3lDN3dYc0wtUXNERkkwSFo2V1ctMjhTdHA2RHV3T2RlS0o1amFYZWFQMmcxSUE?oc=5",
+      "source": "연합뉴스",
+      "date": "Wed, 25 Nov 2026 16:09:32 GMT"
+    },
+    {
+      "title": "수출 의존도가 중국 경제의 약점",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNE5WU2ZwQzI2aXFocVB1OXpSZGRwUUtJWTZpd0JfTndjY3A2angzeUE3VVpPcGxDOGlJWEctVURfMWtUTU1ValJQZHZRSlQzZk9qQ3hRRmhIaHVnZ3lsQ1RNa0lua2x4OGttZUVwV2YzNlJHUHh2ZVBvMXRMck5KVU1nZkFaejZ5MHRhcDdUdS00TjVhNVNzZlk0V1ItT1JXcl9hQl8yWFVNa0RqdHB2S1Y0ZGlUZTZTdkdMdGdCdmtHMEp2MkM2WmxUdHB0dGJVS2tpRE1tay1KVHdKSjBpR25zaS0zNHlWU2NGRVZZNlhpWTh4Wkc2eQ?oc=5",
+      "source": "IDNFinancials",
+      "date": "Wed, 25 Nov 2026 12:00:00 GMT"
     },
     {
       "title": "중국의 전기차 전환, 원자재 시장의 연결고리를 어떻게 바꿨나?",
@@ -18,16 +24,10 @@
       "date": "Wed, 25 Nov 2026 08:48:27 GMT"
     },
     {
-      "title": "중국 전기차 '대공세' 속 흔들리는 미·유럽 경제..현대차그룹 '비상등' - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MYmlqZzgtNUtPeEFMUVBGUnE0N2ZSbm1OLVFpMWY3SzNEcTFPRGZlWkd0OEFBWUVWS1hpUmVyV3JQZjNUOTBFQVdjaFNqYjZZT0FubW4zSl96eGNHbDV6VFc2YmkzRjlzSG1HNkcxYjNydkw1bTNIR3lB0gF_QVVfeXFMUFc3b01NYU5mc012QWtLeWM3eDBiUTBhSG5vNzh0MWx3aWc2aUJBOU1ISUxBODlLT04yNkNncFdKbXktenhuYmFpekR2OXhvWDFrSVF5b3BPbU82N0NmUm1ndXNqWUpBNFlJOUFOd2pFTXlZZGZfdlY2dmRKM1BDUQ?oc=5",
-      "source": "머니투데이",
-      "date": "Wed, 25 Nov 2026 08:30:00 GMT"
-    },
-    {
-      "title": "中 10월 소매판매· 산업생산 회복세…반등 모멘텀 되살아나나(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOHAtZ3l1UkZFUlNINlQ3MXBHc3hxbXBZWFBNX2N4VkI1WTVRaGtObTY5ZkpaT091UXRZTVg1LXVJbDN3M2c5N1Q1WndkczBh?oc=5",
-      "source": "매일경제 마켓",
-      "date": "Wed, 25 Nov 2026 00:49:14 GMT"
+      "title": "中, 경제 발전∙민생 개선 '두 마리 토끼' 잡는다...'15차 5개년 계획' 분야별 로드맵 구체화 박차-Xinhua",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByY3dfRmxwSEpMY0g5aTZZTHkwczhKYWxzXzdJdmJOYzE1bFBHZ2dHc0IzZ2J4NWJmZTNUdnZIbU55SXI4aXVUV25LZlhQal9CUUExYUpMUE5ybHFkaXVLaHRvcjR4YlJlTFJheF9SWjZUTGcx?oc=5",
+      "source": "신화망",
+      "date": "Wed, 25 Nov 2026 02:02:41 GMT"
     },
     {
       "title": "“중국 경제 심장 상하이 당서기도 조사받아”…부패 연루 가능성",
@@ -44,14 +44,8 @@
     {
       "title": "외국 자본, 서방 언론의 중국 경제 '비관론'에도 투자 열기는 여전",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VZnJPdmU4b2hUYzJvOEplWk1TckxpUXJHQ0cydk9PaTRsS1BCU3NuaWVzazVMN1FSTjV1LXlPVUZNdUxfOUJiVndqRXhNblc5Yk55YWwzemstUU5ibFAwLThrcw?oc=5",
-      "source": "CGTN",
+      "source": "国际在线",
       "date": "Tue, 24 Nov 2026 10:57:24 GMT"
-    },
-    {
-      "title": "전북자치도, 중국 경제사절단 초청해 투자유치·산업협력 확대 나선다",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU1FfMG90T21JcHhZTDk4MmtPdUsxWFhBdFYzaHJ1Z25qSkQ2STA3eVNmaGpyeF9QdzdacG5nYTJ1c1F3WGRFRDJiRXVkenp6cTJNa08zcHVyc1pwZ1BSVjFyRkRiMmtIZnB0bWF6REVhWjJDV25LVXE0dHpaN3JMcWF5OUJ2anc?oc=5",
-      "source": "전북도민일보",
-      "date": "Tue, 24 Nov 2026 09:42:00 GMT"
     },
     {
       "title": "중국 경제사절단 전북 방문… 첨단산업 투자협력 모색",
@@ -60,16 +54,22 @@
       "date": "Tue, 24 Nov 2026 08:56:00 GMT"
     },
     {
-      "title": "내년 중국 경제, 내수가 수출 바통을 이어받을 수 있을까",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuUlhWaFJycDVFRkZQME9sUmZrR1BLOWFBb1JLb2dtZGtxVWNhLW54SkdWd281VzdBREp2ajlIUUdzOVZteG5Xc1l3SmxSMWgyMWlKNkM1MkNidFhKXzJPSVJhMFc5WWF0ZFE?oc=5",
-      "source": "중기이코노미",
-      "date": "Tue, 24 Nov 2026 06:21:40 GMT"
+      "title": "전북특별자치도, 중국 경제사절단 초청해 투자유치·산업협력 확대 나서",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1mRGZpa1ZabFBVVkw2OVl4NkdDUFZ5Y2M2by1qR3JMaklVRFhjdUExS0U4Zll3SlNsX0YzLXBHVHI?oc=5",
+      "source": "전북금강일보",
+      "date": "Tue, 24 Nov 2026 08:09:00 GMT"
     },
     {
-      "title": "중국경제 중장기 성장 전망과 성장구조 변화에 대한 연구 | 기타 | 보고서 | 발간물",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaW5vU3UyVGNtVU95NWk4bGx2d0ZZdDFpcWhyanI4RFA3Mjd1UHcwT1k0dG1wZjBUSy1oaUhhNDVGOEJEZnNLYlU5Ukt2cDBpSUQ3amcyTTNwTkUwY3RvQ2NVazIzdVp0VTJYcmVwS0MxeDR4V0hISVVpLXdYa0ZtejJQSktUbnhCQXZRUUJ5NWFRWEFqNDdWSnZoMnluS1JpUzI1aW1LNFR5aHJuZWhyajlRdVZ1NHpoQk44RTZDU3Zob2RFbC1wRzZyVDdMcmR6T1FUSmV0VlhaM25vU1J6RFZYbXc?oc=5",
-      "source": "대외경제정책연구원",
-      "date": "Sun, 22 Nov 2026 10:04:38 GMT"
+      "title": "AI투자 늘리는 중국 '불균등 이중 경제’는 더 악화",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XY3lTOE1aQWxSNlRVVVR4VjVPdWI2NGRrbkJjdnBuOFpkUzhZRC1nbUVqS3ZSSTA0UWE5ZUdrNVhHb3dyUjlfUGJEY2FxbnBHUVBaeHRCcGUwZ3ZCNHBMWmI5blI5aW1QbkNIMw?oc=5",
+      "source": "세상을 바꾸는 시민언론 민들레",
+      "date": "Mon, 23 Nov 2026 05:00:00 GMT"
+    },
+    {
+      "title": "‘AI 열풍’ 식자 中 기술주서 2289조원 증발…中당국이 꺼낸 유동성 카드 규모가?",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nUnVtOTRlZFlPbFR2ZXYwODhsT3VwUl9CTjFnWDM5bk5yaHZBTHBPSE9mcS15X20tQlo0d1JyeF9FS0dlVTkwcnNZVFhzTjRvV3c?oc=5",
+      "source": "매일경제 마켓",
+      "date": "Sun, 22 Nov 2026 11:52:49 GMT"
     },
     {
       "title": "중 관영매체 “비관론자는 늘 틀렸다” 경제 우려 적극 반박…온라인에서는 냉소도",
