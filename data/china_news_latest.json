@@ -1,10 +1,28 @@
 {
-  "run_at_kst": "2026-11-26T14:10:07+09:00",
+  "run_at_kst": "2026-11-26T20:10:08+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "[경제] 중국경제원탁회의 \"中 광시, 항구-공장 연계로 수출입에 새 활력\"-Xinhua",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0td1NDMmJfRWlaaEdSenJaTloxRGM0SklvekVJM0FyeVZvU2VoNGdsN0RtRDFVTmt4VlBkX3BZR3RlT08yV0VmUGtsWndia2Z5NC1zd3I5WmxLZ0I0VnNWbU05ZVFDWWFFaW52VzFVWFVYcWxGdFE?oc=5",
+      "source": "신화망",
+      "date": "Thu, 26 Nov 2026 10:07:15 GMT"
+    },
+    {
+      "title": "대항만서 세계로, 중국 대외무역 회복력과 활력 보여주다",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SLVhlM0RqdFlIVnY3NzhxeFNJVWJteGVNYl9OQU9rbUJ2ZEtkbTdGWEFCbEswZVl5YTdzMVF5MVQ1ZkJ0X2VPUTZweGJIdTZ1dUN3YzluNkpQSUhmQXA0cHEzbEdlRzZkWFE?oc=5",
+      "source": "인민망 한국어판",
+      "date": "Thu, 26 Nov 2026 06:34:00 GMT"
+    },
+    {
+      "title": "美, 중국 등 14개 경제주체에 과잉생산 관세…韓 15% 상한 유지(종합2보)",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yZFNGTkRhVTZJQlA4am5tM0dCdlBqeTcycUxjU0drN0EwOU0wT2xld2c0SWhkRWl1YXVOdU5NRkdPS2RZaUZXaFI4VVdzaHY2YVE1TE04eVo4UTjSAWBBVV95cUxNbWpNSGFrSWdnZUJOX3JsTDI3VXhXZV84bnNvdWk2SFZqNW94ajN4Z08tT3lDN3dYc0wtUXNERkkwSFo2V1ctMjhTdHA2RHV3T2RlS0o1amFYZWFQMmcxSUE?oc=5",
+      "source": "연합뉴스",
+      "date": "Thu, 26 Nov 2026 05:47:24 GMT"
+    },
     {
       "title": "미국, 중국 등 14개 경제주체에 '과잉생산' 관세...한국은 15% 상한 유지할듯",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwbG1kVTFxSl9ndnVoekZ0TGtjUFR0d045UjJtWTVsY05pTDFHZjlYX2xNbWtlVkRXNWYxNklTWTYzTkdwcGEyblVJRnJNT2kzd2RfVXZjWFpkR3cxcFHSAWNBVV95cUxQWFpEMk9aMXlRQWNQMk83NzhRcWJsTW5WYnRtSEdzbndaRTFmM09SZ3RJSUsyWURTU1F1QkVYRDdIQkRScVowN2ZMUFJBWU9RTF8zQVFrV1M2ZFRwa2xQcThERFE?oc=5",
@@ -12,28 +30,16 @@
       "date": "Thu, 26 Nov 2026 03:54:05 GMT"
     },
     {
-      "title": "우즈벡과 스마트농업, 중국과 투자협력…충남 '글로벌 경제 외교' 시동",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvQVlueGpwT2V3b01iWlg0U1pVWHJpZXd4VzNMMlE3YkRyXzh5eXlYOG1pOHFGUUVlVExsNjhqNGFlY0cyNXYySEpxUmxGeG9MWHJzM1dfTnBGUFRWdTR6eGMtRnhBR202NjNxdnFZdjc?oc=5",
-      "source": "신아일보",
-      "date": "Wed, 25 Nov 2026 23:29:43 GMT"
-    },
-    {
-      "title": "美, 중국 등 14개 경제주체에 과잉생산 관세…韓 15% 상한 유지(종합2보)",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yZFNGTkRhVTZJQlA4am5tM0dCdlBqeTcycUxjU0drN0EwOU0wT2xld2c0SWhkRWl1YXVOdU5NRkdPS2RZaUZXaFI4VVdzaHY2YVE1TE04eVo4UTjSAWBBVV95cUxNbWpNSGFrSWdnZUJOX3JsTDI3VXhXZV84bnNvdWk2SFZqNW94ajN4Z08tT3lDN3dYc0wtUXNERkkwSFo2V1ctMjhTdHA2RHV3T2RlS0o1amFYZWFQMmcxSUE?oc=5",
-      "source": "연합뉴스",
-      "date": "Wed, 25 Nov 2026 16:09:32 GMT"
+      "title": "中관영지 \"자본시장 안정화로 글로벌 금융 영향력 높일 수 있어\"",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJYUFuTGt1RzEyNG52NmFyZm5BZVBQNHh5NmVldy1VX0dCNVJIUllXRk9TVmltcHhjajY2WUZ5b2U4TVZORHVWRTZaR3lVS2dxbWJXN2d3SDdzUDJSTDB3YVRJUDNyMGNsX09sUV8yNDlBZy1R?oc=5",
+      "source": "연합뉴스 한민족센터",
+      "date": "Thu, 26 Nov 2026 03:44:58 GMT"
     },
     {
       "title": "중국이 다시 쓰는 글로벌 원자재 지형도",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oVDZ2ejJjWXJPWDdzeVNrU0I5VWx5d2FKV0lMcFUwTU5ENnVvNm1fUE9HSnh0SVlNMGZtT2ZCRlB0TzFjSU5ZX3FXX3V2TkdSaXc?oc=5",
       "source": "네이버페이 머니스토리",
       "date": "Wed, 25 Nov 2026 13:14:10 GMT"
-    },
-    {
-      "title": "수출 의존도가 중국 경제의 약점",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNE5WU2ZwQzI2aXFocVB1OXpSZGRwUUtJWTZpd0JfTndjY3A2angzeUE3VVpPcGxDOGlJWEctVURfMWtUTU1ValJQZHZRSlQzZk9qQ3hRRmhIaHVnZ3lsQ1RNa0lua2x4OGttZUVwV2YzNlJHUHh2ZVBvMXRMck5KVU1nZkFaejZ5MHRhcDdUdS00TjVhNVNzZlk0V1ItT1JXcl9hQl8yWFVNa0RqdHB2S1Y0ZGlUZTZTdkdMdGdCdmtHMEp2MkM2WmxUdHB0dGJVS2tpRE1tay1KVHdKSjBpR25zaS0zNHlWU2NGRVZZNlhpWTh4Wkc2eQ?oc=5",
-      "source": "IDNFinancials",
-      "date": "Wed, 25 Nov 2026 12:00:00 GMT"
     },
     {
       "title": "기본연구보고서 중국경제 중장기 성장 전망과 성장구조 변화에 대한 연구 경제성장 경제전망",
@@ -52,12 +58,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
       "source": ":: 위즈경제 ::",
       "date": "Tue, 24 Nov 2026 11:56:38 GMT"
-    },
-    {
-      "title": "외국 자본, 서방 언론의 중국 경제 '비관론'에도 투자 열기는 여전",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VZnJPdmU4b2hUYzJvOEplWk1TckxpUXJHQ0cydk9PaTRsS1BCU3NuaWVzazVMN1FSTjV1LXlPVUZNdUxfOUJiVndqRXhNblc5Yk55YWwzemstUU5ibFAwLThrcw?oc=5",
-      "source": "国际在线",
-      "date": "Tue, 24 Nov 2026 10:57:24 GMT"
     },
     {
       "title": "전북자치도, 중국 경제사절단 초청해 투자유치·산업협력 확대 나선다",

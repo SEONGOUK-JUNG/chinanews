@@ -2,8 +2,8 @@
   "id": "crude_oil",
   "name": "원유",
   "unit": "USD/bbl",
-  "updated_at_kst": "2026-11-25T20:11:01+09:00",
-  "count": 159,
+  "updated_at_kst": "2026-11-26T20:10:52+09:00",
+  "count": 160,
   "candles": [
     {
       "time": "2025-01-01",
@@ -640,6 +640,10 @@
     {
       "time": "2026-11-25",
       "value": 88.87
+    },
+    {
+      "time": "2026-11-26",
+      "value": 90.73
     }
   ],
   "history_note": "Pre-2026-05: monthly observations (month-start/end). From late May 2026: daily.",

@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-11-26T14:10:04+09:00",
+  "updated_at_kst": "2026-11-26T20:10:06+09:00",
   "as_of": "2026-11-26",
   "source": "Trading Economics",
   "source_url": "https://tradingeconomics.com/china/indicators",
@@ -152,9 +152,9 @@
     {
       "label": "상하이종합지수",
       "label_en": "SSE Composite",
-      "value": 3475.0,
+      "value": 3477.0,
       "previous": 3476.0,
-      "display": "3,475",
+      "display": "3,477",
       "ref": "2026-11",
       "hint": "발표치 · 기준기간 확인",
       "hint_en": "published actual · reference period shown",

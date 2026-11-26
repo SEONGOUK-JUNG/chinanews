@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-26T14:10:07+09:00",
+  "run_at_kst": "2026-11-26T20:10:08+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Japan’s Nuclear Revival Hits a Snag as TEPCO Delays Reactor Restart",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Nuclear-Revival-Hits-a-Snag-as-TEPCO-Delays-Reactor-Restart.html",
+      "source": "OilPrice",
+      "date": "Thu, 26 Nov 2026 04:55:00 -0600"
+    },
+    {
+      "title": "Libya Plans New Oil Bidding Rounds Despite Mounting Security Risks",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Libya-Plans-New-Oil-Bidding-Rounds-Despite-Mounting-Security-Risks.html",
+      "source": "OilPrice",
+      "date": "Thu, 26 Nov 2026 02:30:00 -0600"
+    },
+    {
+      "title": "Enbridge Eyes $1 Billion Pipeline Deal With Indigenous Communities",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Enbridge-Eyes-1-Billion-Pipeline-Deal-With-Indigenous-Communities.html",
+      "source": "OilPrice",
+      "date": "Thu, 26 Nov 2026 00:45:00 -0600"
+    },
+    {
+      "title": "Oil Rallies as Hormuz Mine Strikes Rattle Global Markets",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Rallies-as-Hormuz-Mine-Strikes-Rattle-Global-Markets.html",
+      "source": "OilPrice",
+      "date": "Wed, 25 Nov 2026 23:18:59 -0600"
+    },
     {
       "title": "Labor Shortages Could Derail Canada’s Oil and Gas Growth Momentum",
       "link": "https://oilprice.com/Energy/Energy-General/Labor-Shortages-Could-Derail-Canadas-Oil-and-Gas-Growth-Momentum.html",
@@ -38,34 +62,10 @@
       "date": "Wed, 25 Nov 2026 21:08:00 +0000"
     },
     {
-      "title": "U.S. Rig Count Holds Steady as Oil Production Hits Fifth Straight Record",
-      "link": "https://oilprice.com/Energy/Crude-Oil/US-Rig-Count-Holds-Steady-as-Oil-Production-Hits-Fifth-Straight-Record.html",
-      "source": "OilPrice",
-      "date": "Wed, 25 Nov 2026 15:06:52 -0600"
-    },
-    {
-      "title": "The Pentagon Wants Detroit to Build America's Next Drone Army",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Pentagon-Wants-Detroit-to-Build-Americas-Next-Drone-Army.html",
-      "source": "OilPrice",
-      "date": "Wed, 25 Nov 2026 15:00:00 -0600"
-    },
-    {
       "title": "Kazatomprom operations chief detained in bribery probe",
       "link": "https://www.mining.com/kazatomprom-operations-chief-detained-in-bribery-probe/",
       "source": "mining.com",
       "date": "Wed, 25 Nov 2026 20:36:00 +0000"
-    },
-    {
-      "title": "U.S.-Backed Consortium Signs Deal for Lukoil's International Oil Empire",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Backed-Consortium-Signs-Deal-for-Lukoils-International-Oil-Empire.html",
-      "source": "OilPrice",
-      "date": "Wed, 25 Nov 2026 14:30:00 -0600"
-    },
-    {
-      "title": "Cheaper Gasoline Won't Fix the Diesel Squeeze Hitting Freight Costs",
-      "link": "https://oilprice.com/Energy/Gas-Prices/Cheaper-Gasoline-Wont-Fix-the-Diesel-Squeeze-Hitting-Freight-Costs.html",
-      "source": "OilPrice",
-      "date": "Wed, 25 Nov 2026 14:00:00 -0600"
     },
     {
       "title": "Gold at $8,000 could signal dollar crisis: economist",
