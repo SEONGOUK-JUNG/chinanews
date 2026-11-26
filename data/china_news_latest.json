@@ -1,10 +1,22 @@
 {
-  "run_at_kst": "2026-11-26T20:10:08+09:00",
+  "run_at_kst": "2026-11-27T07:20:07+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "트럼프, 세계 경제 절반에 관세 압박...중국, 대응 경고…한국·일본·EU, 과잉생산 반박",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaYjVRaXhyaEhIT2hORzl1Q2VsbUxfRjh6ZVZmZG5tamNEMDRUcUctZzJ6T25NSUN2SHdrUzNqeW9SMkpPRmVIOVNmMmpGcFgyRmhheUFETlJPUWZ1UEZrWEpSQmJCbFNNZkQyMkxn?oc=5",
+      "source": "아시아투데이",
+      "date": "Thu, 26 Nov 2026 21:54:38 GMT"
+    },
+    {
+      "title": "[전병서 칼럼] 수출 1조 달러 …축배인가 독배인가",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JV2FaRXZyT25WLXNOTGc2d2l0eDF2WDFfMFFqNkt5YUVMOTVfdjB2VmFBQWdWd0JtUFJ2VVdDR0xWVUJGT08wd2FFOFV0TWk0NllqZXZFeU5Fd9IBWEFVX3lxTE9KTVJwc1lENXZudk8xclBmYjZ1dTQxcGRwRTBFaE9LVzMyWGNuUUplWFI2aWFuRnNsVzRGVjBwOWxFTUVtZFM5SzVuR09wb0FCSjEyak1WZkg?oc=5",
+      "source": "아주경제",
+      "date": "Thu, 26 Nov 2026 21:00:00 GMT"
+    },
     {
       "title": "[경제] 중국경제원탁회의 \"中 광시, 항구-공장 연계로 수출입에 새 활력\"-Xinhua",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0td1NDMmJfRWlaaEdSenJaTloxRGM0SklvekVJM0FyeVZvU2VoNGdsN0RtRDFVTmt4VlBkX3BZR3RlT08yV0VmUGtsWndia2Z5NC1zd3I5WmxLZ0I0VnNWbU05ZVFDWWFFaW52VzFVWFVYcWxGdFE?oc=5",
@@ -12,16 +24,16 @@
       "date": "Thu, 26 Nov 2026 10:07:15 GMT"
     },
     {
+      "title": "[경제] 중국경제원탁회의 \"무관세 품목 비중 74%...하이난 자유무역항, 대외개방 성과 가시화\"",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwRHpYd28zNkhpbUI4TVJabFBsU0pKUmplVi1MMmdlcHhYczlFdmZJVmZmUV9qVTlzM1NHMGM1MTFUT0doUUw1WnN3RVRPakZDdUpNcGFZQzZlc1B6U29kOUVobVpBcHR0S3A3Ug?oc=5",
+      "source": "서울뉴스통신",
+      "date": "Thu, 26 Nov 2026 08:06:40 GMT"
+    },
+    {
       "title": "대항만서 세계로, 중국 대외무역 회복력과 활력 보여주다",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SLVhlM0RqdFlIVnY3NzhxeFNJVWJteGVNYl9OQU9rbUJ2ZEtkbTdGWEFCbEswZVl5YTdzMVF5MVQ1ZkJ0X2VPUTZweGJIdTZ1dUN3YzluNkpQSUhmQXA0cHEzbEdlRzZkWFE?oc=5",
       "source": "인민망 한국어판",
       "date": "Thu, 26 Nov 2026 06:34:00 GMT"
-    },
-    {
-      "title": "美, 중국 등 14개 경제주체에 과잉생산 관세…韓 15% 상한 유지(종합2보)",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yZFNGTkRhVTZJQlA4am5tM0dCdlBqeTcycUxjU0drN0EwOU0wT2xld2c0SWhkRWl1YXVOdU5NRkdPS2RZaUZXaFI4VVdzaHY2YVE1TE04eVo4UTjSAWBBVV95cUxNbWpNSGFrSWdnZUJOX3JsTDI3VXhXZV84bnNvdWk2SFZqNW94ajN4Z08tT3lDN3dYc0wtUXNERkkwSFo2V1ctMjhTdHA2RHV3T2RlS0o1amFYZWFQMmcxSUE?oc=5",
-      "source": "연합뉴스",
-      "date": "Thu, 26 Nov 2026 05:47:24 GMT"
     },
     {
       "title": "미국, 중국 등 14개 경제주체에 '과잉생산' 관세...한국은 15% 상한 유지할듯",
@@ -42,10 +54,10 @@
       "date": "Wed, 25 Nov 2026 13:14:10 GMT"
     },
     {
-      "title": "기본연구보고서 중국경제 중장기 성장 전망과 성장구조 변화에 대한 연구 경제성장 경제전망",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSkc1V2hQMm81MjVHemtKb1dYUEFvNnNEWWJKLTdGY3hja3VXdTBfM1ZGVjhnZ2Z6VUtwVkw2SGdUYjNPa3RjRm5WMXpERWJvczRJTzFPeHRnc2lJQkk5VG9vdEMxQ09TX0k0d195RnpNTGQ1dFFyTGZObURteG54VVRVNmRPYkxJYW5mRjhrbUpUcjZWdWRyZHFRbWxMaWFGNnhxRG5BbVBodEZfZEhjV0xWSUJaekpaV2w4dXE3TlFvZFduUG9WVVpzMnVxS0tUTWJMQTI4WnB2RFpuM1RGMnNyUng?oc=5",
-      "source": "대외경제정책연구원",
-      "date": "Wed, 25 Nov 2026 00:58:54 GMT"
+      "title": "수출 의존도가 중국 경제의 약점",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNE5WU2ZwQzI2aXFocVB1OXpSZGRwUUtJWTZpd0JfTndjY3A2angzeUE3VVpPcGxDOGlJWEctVURfMWtUTU1ValJQZHZRSlQzZk9qQ3hRRmhIaHVnZ3lsQ1RNa0lua2x4OGttZUVwV2YzNlJHUHh2ZVBvMXRMck5KVU1nZkFaejZ5MHRhcDdUdS00TjVhNVNzZlk0V1ItT1JXcl9hQl8yWFVNa0RqdHB2S1Y0ZGlUZTZTdkdMdGdCdmtHMEp2MkM2WmxUdHB0dGJVS2tpRE1tay1KVHdKSjBpR25zaS0zNHlWU2NGRVZZNlhpWTh4Wkc2eQ?oc=5",
+      "source": "IDNFinancials",
+      "date": "Wed, 25 Nov 2026 12:00:00 GMT"
     },
     {
       "title": "“중국 경제 심장 상하이 당서기도 조사받아”…부패 연루 가능성",
@@ -60,22 +72,10 @@
       "date": "Tue, 24 Nov 2026 11:56:38 GMT"
     },
     {
-      "title": "전북자치도, 중국 경제사절단 초청해 투자유치·산업협력 확대 나선다",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU1FfMG90T21JcHhZTDk4MmtPdUsxWFhBdFYzaHJ1Z25qSkQ2STA3eVNmaGpyeF9QdzdacG5nYTJ1c1F3WGRFRDJiRXVkenp6cTJNa08zcHVyc1pwZ1BSVjFyRkRiMmtIZnB0bWF6REVhWjJDV25LVXE0dHpaN3JMcWF5OUJ2anc?oc=5",
-      "source": "전북도민일보",
-      "date": "Tue, 24 Nov 2026 09:42:00 GMT"
-    },
-    {
       "title": "중국 경제사절단 전북 방문… 첨단산업 투자협력 모색",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FemU5d3JyNUJyVDZQVUp0WWlJWXBRTWoydnZ0ZUVGdElkWnBhSW1TZVZybFZqVlBBTkgxSFhaNnJWNU9IRlB6ZkFLcXh6ckxGaFE?oc=5",
       "source": "전라매일",
       "date": "Tue, 24 Nov 2026 08:56:00 GMT"
-    },
-    {
-      "title": "중 관영매체 “비관론자는 늘 틀렸다” 경제 우려 적극 반박…온라인에서는 냉소도",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnbFk0TzVzajhiRTVYSEFVbHlXa3ptcDRGQ3hLRHZwMklMVVlLbWdBYmhMMFV3VVo5WFhNbGJta2d2VFhyZlp4N1o3dHZtZEVyamd1YWtzV1laZ9IBX0FVX3lxTE1YaGhhS0hQSGNsYTNnT0o2UFllNkVfSEFUTzQwWjcxQ2dTb2gzWUNyaHJUMDhrRDg1NFEtMk5FT3E4bkE1Wk9GTXc2TGZJWlZuSzFZUjlDdkNHcWJqcHpJ?oc=5",
-      "source": "경향신문",
-      "date": "Sun, 22 Nov 2026 06:53:00 GMT"
     }
   ]
 }
