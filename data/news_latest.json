@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-27T07:20:07+09:00",
+  "run_at_kst": "2026-11-27T14:10:07+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "Standard Chartered: Oil Needs a New Shock to Fall Further",
+      "link": "https://oilprice.com/Energy/Oil-Prices/Standard-Chartered-Oil-Needs-a-New-Shock-to-Fall-Further.html",
+      "source": "OilPrice",
+      "date": "Thu, 26 Nov 2026 19:00:00 -0600"
+    },
+    {
+      "title": "Ukraine's Strike in Benghazi Threatens the Deal That Keeps Libya at Peace",
+      "link": "https://oilprice.com/Geopolitics/Africa/Ukraines-Strike-in-Benghazi-Threatens-the-Deal-That-Keeps-Libya-at-Peace.html",
+      "source": "OilPrice",
+      "date": "Thu, 26 Nov 2026 18:00:00 -0600"
+    },
+    {
+      "title": "NASA Wanted a 100-Kilowatt Reactor on the Moon but Is Settling for 20",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/NASA-Wanted-a-100-Kilowatt-Reactor-on-the-Moon-but-Is-Settling-for-20.html",
+      "source": "OilPrice",
+      "date": "Thu, 26 Nov 2026 18:00:00 -0600"
+    },
+    {
+      "title": "Op-Ed: US midterms won’t change mining policy. They’ll change who gets subpoenaed",
+      "link": "https://www.mining.com/op-ed-us-midterms-wont-change-mining-policy-theyll-change-who-gets-subpoenaed/",
+      "source": "mining.com",
+      "date": "Thu, 26 Nov 2026 23:51:53 +0000"
+    },
     {
       "title": "The Next Big Clean Energy Bet Borrows Its Drilling Tech From Big Oil",
       "link": "https://oilprice.com/Energy/Energy-General/The-Next-Big-Clean-Energy-Bet-Borrows-Its-Drilling-Tech-From-Big-Oil.html",
@@ -20,10 +44,28 @@
       "date": "Thu, 26 Nov 2026 15:00:00 -0600"
     },
     {
+      "title": "BC Securities Commission stays insider trading charges in case linked to former gold junior CFO",
+      "link": "https://www.mining.com/bc-securities-commission-stays-insider-trading-charges-in-case-linked-to-former-gold-junior-cfo/",
+      "source": "mining.com",
+      "date": "Thu, 26 Nov 2026 20:11:35 +0000"
+    },
+    {
       "title": "Norway Pauses Data Center Grid Reservations as Requests Top Peak Demand",
       "link": "https://oilprice.com/Energy/Energy-General/Norway-Pauses-Data-Center-Grid-Reservations-as-Requests-Top-Peak-Demand.html",
       "source": "OilPrice",
       "date": "Thu, 26 Nov 2026 14:00:00 -0600"
+    },
+    {
+      "title": "Silverco gains as Cusi restart advances in Mexico",
+      "link": "https://www.mining.com/silverco-gains-as-cusi-restart-advances-in-mexico/",
+      "source": "mining.com",
+      "date": "Thu, 26 Nov 2026 19:39:00 +0000"
+    },
+    {
+      "title": "Nyrstar to halt production at Dutch zinc smelter",
+      "link": "https://www.mining.com/nyrstar-to-halt-production-at-dutch-zinc-smelter/",
+      "source": "mining.com",
+      "date": "Thu, 26 Nov 2026 18:41:40 +0000"
     },
     {
       "title": "When the Grid Fails, Solar Does Not Wait for the State",
@@ -44,52 +86,10 @@
       "date": "Thu, 26 Nov 2026 11:00:00 -0600"
     },
     {
-      "title": "Tanker Traffic at Hormuz Ticks Up Despite Intensified Attacks",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Tanker-Traffic-at-Hormuz-Ticks-Up-Despite-Intensified-Attacks.html",
-      "source": "OilPrice",
-      "date": "Thu, 26 Nov 2026 10:30:00 -0600"
-    },
-    {
       "title": "Op-Ed: Critical minerals face a post-construction test",
       "link": "https://www.mining.com/op-ed-critical-minerals-face-a-post-construction-test/",
       "source": "mining.com",
       "date": "Thu, 26 Nov 2026 16:01:00 +0000"
-    },
-    {
-      "title": "Why Copper's Thanksgiving Bounce May Not Be the Start of Anything",
-      "link": "https://oilprice.com/Metals/Commodities/Why-Coppers-Thanksgiving-Bounce-May-Not-Be-the-Start-of-Anything.html",
-      "source": "OilPrice",
-      "date": "Thu, 26 Nov 2026 10:00:00 -0600"
-    },
-    {
-      "title": "Turkey’s Çöpler gold mine restarts after 2024 fatal landslide",
-      "link": "https://www.mining.com/turkeys-copler-gold-mine-restarts-after-2024-fatal-landslide/",
-      "source": "mining.com",
-      "date": "Thu, 26 Nov 2026 15:40:00 +0000"
-    },
-    {
-      "title": "Cold Snap Squeezes UK Spare Power Capacity",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Cold-Snap-Squeezes-UK-Spare-Power-Capacity.html",
-      "source": "OilPrice",
-      "date": "Thu, 26 Nov 2026 09:30:00 -0600"
-    },
-    {
-      "title": "Planet One leads $933M plan for Senegal iron ore",
-      "link": "https://www.mining.com/planet-one-leads-933m-plan-for-senegal-iron-ore/",
-      "source": "mining.com",
-      "date": "Thu, 26 Nov 2026 13:33:06 +0000"
-    },
-    {
-      "title": "Congo closes in on Chile’s long-held copper crown",
-      "link": "https://www.mining.com/congo-closes-in-on-chiles-long-held-copper-crown/",
-      "source": "mining.com",
-      "date": "Thu, 26 Nov 2026 12:47:00 +0000"
-    },
-    {
-      "title": "Chile clears Marimaca to start early copper mine works",
-      "link": "https://www.mining.com/chile-clears-marimaca-to-start-early-copper-mine-works/",
-      "source": "mining.com",
-      "date": "Thu, 26 Nov 2026 12:30:40 +0000"
     }
   ]
 }

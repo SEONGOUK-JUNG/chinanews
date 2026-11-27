@@ -1,5 +1,5 @@
 {
-  "updated_at_kst": "2026-11-27T07:20:05+09:00",
+  "updated_at_kst": "2026-11-27T14:10:05+09:00",
   "as_of": "2026-11-27",
   "source": "Trading Economics",
   "source_url": "https://tradingeconomics.com/china/indicators",
@@ -141,7 +141,7 @@
       "label": "USD/CNY",
       "label_en": "USD/CNY",
       "value": 6.66,
-      "previous": 6.67,
+      "previous": 6.66,
       "display": "6.66",
       "ref": "2026-11",
       "hint": "발표치 · 기준기간 확인",
@@ -152,9 +152,9 @@
     {
       "label": "상하이종합지수",
       "label_en": "SSE Composite",
-      "value": 3477.0,
-      "previous": 3476.0,
-      "display": "3,477",
+      "value": 3487.0,
+      "previous": 3477.0,
+      "display": "3,487",
       "ref": "2026-11",
       "hint": "발표치 · 기준기간 확인",
       "hint_en": "published actual · reference period shown",

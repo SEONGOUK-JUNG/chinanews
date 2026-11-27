@@ -1,10 +1,34 @@
 {
-  "run_at_kst": "2026-11-27T07:20:07+09:00",
+  "run_at_kst": "2026-11-27T14:10:07+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "AI·반도체가 떠받친 中경제…1~10월 공업이익 16% 증가",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zZ1pjNXJTcmo5QVNrYW5EU05ObUhmSmRCQ0NvQzQzVlR5ekxIODFkSTBpWENhQVhiOFJMSzk5aHM5OWZkMlRxaFBCLXE2TjB6Yk9rSjk3U2Fic3dvSlJORQ?oc=5",
+      "source": "아시아경제",
+      "date": "Fri, 27 Nov 2026 04:58:43 GMT"
+    },
+    {
+      "title": "“독일차 연구개발직은 중국으로…생산직은 동유럽으로”",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwcXFvZUE2VWNXcFBRR2t5S0hmWVZsMDZKc3VlRGNrNVkxXy1UTFM2b2hnbEo1aUFFX0ZRM1lDS04zRDdqRW5VM3h3dFM3LTVkX2cyVjg0Z0NZbjV3TFo1aFRB?oc=5",
+      "source": "한겨레",
+      "date": "Fri, 27 Nov 2026 02:14:52 GMT"
+    },
+    {
+      "title": "중국 투자기업 대표단 홍성 방문…반도체·의료기기 협력 모색",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrRG51N2VDNGlYM2hwbDZodEI4VjM2VDJ2bjBmZmtXSzJkemNkT1EyNWNQYk15Z2pibG1NYVQ2dDdsX0x3Y1JjcjJhMXRpam1MMlNVRmVhQjNsSk1FWVBsby1abTNwWlNBYXdLUw?oc=5",
+      "source": "메가충청뉴스",
+      "date": "Fri, 27 Nov 2026 01:07:15 GMT"
+    },
+    {
+      "title": "인천시, 중국 진출 제조기업 대상 웨이하이 지원실 입주기업 모집",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EUEl5YWdUbGxNUUg0b3U4czRxS0NnY3RzR240MU1ERU85NlFabEx2ek45Tnh1aWltZUJ6MHljU1FLZW1CZWx1aWF4S3BCZDB3cW12dFlzMGY4ckFfcUdsNGRIRTV0OTNxYzhjRkpHcEc?oc=5",
+      "source": "인천투데이",
+      "date": "Fri, 27 Nov 2026 00:31:26 GMT"
+    },
     {
       "title": "트럼프, 세계 경제 절반에 관세 압박...중국, 대응 경고…한국·일본·EU, 과잉생산 반박",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaYjVRaXhyaEhIT2hORzl1Q2VsbUxfRjh6ZVZmZG5tamNEMDRUcUctZzJ6T25NSUN2SHdrUzNqeW9SMkpPRmVIOVNmMmpGcFgyRmhheUFETlJPUWZ1UEZrWEpSQmJCbFNNZkQyMkxn?oc=5",
@@ -24,40 +48,16 @@
       "date": "Thu, 26 Nov 2026 10:07:15 GMT"
     },
     {
-      "title": "[경제] 중국경제원탁회의 \"무관세 품목 비중 74%...하이난 자유무역항, 대외개방 성과 가시화\"",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwRHpYd28zNkhpbUI4TVJabFBsU0pKUmplVi1MMmdlcHhYczlFdmZJVmZmUV9qVTlzM1NHMGM1MTFUT0doUUw1WnN3RVRPakZDdUpNcGFZQzZlc1B6U29kOUVobVpBcHR0S3A3Ug?oc=5",
-      "source": "서울뉴스통신",
-      "date": "Thu, 26 Nov 2026 08:06:40 GMT"
-    },
-    {
-      "title": "대항만서 세계로, 중국 대외무역 회복력과 활력 보여주다",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SLVhlM0RqdFlIVnY3NzhxeFNJVWJteGVNYl9OQU9rbUJ2ZEtkbTdGWEFCbEswZVl5YTdzMVF5MVQ1ZkJ0X2VPUTZweGJIdTZ1dUN3YzluNkpQSUhmQXA0cHEzbEdlRzZkWFE?oc=5",
-      "source": "인민망 한국어판",
-      "date": "Thu, 26 Nov 2026 06:34:00 GMT"
-    },
-    {
-      "title": "미국, 중국 등 14개 경제주체에 '과잉생산' 관세...한국은 15% 상한 유지할듯",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwbG1kVTFxSl9ndnVoekZ0TGtjUFR0d045UjJtWTVsY05pTDFHZjlYX2xNbWtlVkRXNWYxNklTWTYzTkdwcGEyblVJRnJNT2kzd2RfVXZjWFpkR3cxcFHSAWNBVV95cUxQWFpEMk9aMXlRQWNQMk83NzhRcWJsTW5WYnRtSEdzbndaRTFmM09SZ3RJSUsyWURTU1F1QkVYRDdIQkRScVowN2ZMUFJBWU9RTF8zQVFrV1M2ZFRwa2xQcThERFE?oc=5",
-      "source": "BBC",
-      "date": "Thu, 26 Nov 2026 03:54:05 GMT"
-    },
-    {
-      "title": "中관영지 \"자본시장 안정화로 글로벌 금융 영향력 높일 수 있어\"",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJYUFuTGt1RzEyNG52NmFyZm5BZVBQNHh5NmVldy1VX0dCNVJIUllXRk9TVmltcHhjajY2WUZ5b2U4TVZORHVWRTZaR3lVS2dxbWJXN2d3SDdzUDJSTDB3YVRJUDNyMGNsX09sUV8yNDlBZy1R?oc=5",
-      "source": "연합뉴스 한민족센터",
-      "date": "Thu, 26 Nov 2026 03:44:58 GMT"
-    },
-    {
-      "title": "중국이 다시 쓰는 글로벌 원자재 지형도",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oVDZ2ejJjWXJPWDdzeVNrU0I5VWx5d2FKV0lMcFUwTU5ENnVvNm1fUE9HSnh0SVlNMGZtT2ZCRlB0TzFjSU5ZX3FXX3V2TkdSaXc?oc=5",
+      "title": "중국의 전기차 전환, 원자재 시장의 연결고리를 어떻게 바꿨나?",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aT2Nvd1FFU1lOakZfMXVTNEZKaEsxdklLSDgtbDNHMElGZHA3a2l4MG5rU05Ec0kwb0staUplSjFOcmxiTzhEZWR6SW5SVUtuVGhvOVRmOTVjdw?oc=5",
       "source": "네이버페이 머니스토리",
-      "date": "Wed, 25 Nov 2026 13:14:10 GMT"
+      "date": "Wed, 25 Nov 2026 08:48:27 GMT"
     },
     {
-      "title": "수출 의존도가 중국 경제의 약점",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNE5WU2ZwQzI2aXFocVB1OXpSZGRwUUtJWTZpd0JfTndjY3A2angzeUE3VVpPcGxDOGlJWEctVURfMWtUTU1ValJQZHZRSlQzZk9qQ3hRRmhIaHVnZ3lsQ1RNa0lua2x4OGttZUVwV2YzNlJHUHh2ZVBvMXRMck5KVU1nZkFaejZ5MHRhcDdUdS00TjVhNVNzZlk0V1ItT1JXcl9hQl8yWFVNa0RqdHB2S1Y0ZGlUZTZTdkdMdGdCdmtHMEp2MkM2WmxUdHB0dGJVS2tpRE1tay1KVHdKSjBpR25zaS0zNHlWU2NGRVZZNlhpWTh4Wkc2eQ?oc=5",
-      "source": "IDNFinancials",
-      "date": "Wed, 25 Nov 2026 12:00:00 GMT"
+      "title": "기본연구보고서 중국경제 중장기 성장 전망과 성장구조 변화에 대한 연구 경제성장 경제전망",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSkc1V2hQMm81MjVHemtKb1dYUEFvNnNEWWJKLTdGY3hja3VXdTBfM1ZGVjhnZ2Z6VUtwVkw2SGdUYjNPa3RjRm5WMXpERWJvczRJTzFPeHRnc2lJQkk5VG9vdEMxQ09TX0k0d195RnpNTGQ1dFFyTGZObURteG54VVRVNmRPYkxJYW5mRjhrbUpUcjZWdWRyZHFRbWxMaWFGNnhxRG5BbVBodEZfZEhjV0xWSUJaekpaV2w4dXE3TlFvZFduUG9WVVpzMnVxS0tUTWJMQTI4WnB2RFpuM1RGMnNyUng?oc=5",
+      "source": "대외경제정책연구원",
+      "date": "Wed, 25 Nov 2026 00:58:54 GMT"
     },
     {
       "title": "“중국 경제 심장 상하이 당서기도 조사받아”…부패 연루 가능성",
