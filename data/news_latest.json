@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-27T14:10:07+09:00",
+  "run_at_kst": "2026-11-27T20:10:06+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -7,6 +7,30 @@
   ],
   "count": 14,
   "items": [
+    {
+      "title": "China Has More Than Enough Energy to Weather the Winter",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Has-More-Than-Enough-Energy-to-Weather-the-Winter.html",
+      "source": "OilPrice",
+      "date": "Fri, 27 Nov 2026 04:20:00 -0600"
+    },
+    {
+      "title": "Iraq Delays Up to 30 Million Barrels of Crude Oil Shipments",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Delays-Up-to-30-Million-Barrels-of-Crude-Oil-Shipments.html",
+      "source": "OilPrice",
+      "date": "Fri, 27 Nov 2026 02:30:00 -0600"
+    },
+    {
+      "title": "Australia Passes Landmark Law to Reserve Gas for Domestic Consumers",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Australia-Passes-Landmark-Law-to-Reserve-Gas-for-Domestic-Consumers.html",
+      "source": "OilPrice",
+      "date": "Fri, 27 Nov 2026 01:30:00 -0600"
+    },
+    {
+      "title": "Oil Prices Climb as Middle East Supply Risks Overshadow Glut Fears",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-Middle-East-Supply-Risks-Overshadow-Glut-Fears.html",
+      "source": "OilPrice",
+      "date": "Thu, 26 Nov 2026 23:18:44 -0600"
+    },
     {
       "title": "Standard Chartered: Oil Needs a New Shock to Fall Further",
       "link": "https://oilprice.com/Energy/Oil-Prices/Standard-Chartered-Oil-Needs-a-New-Shock-to-Fall-Further.html",
@@ -38,22 +62,10 @@
       "date": "Thu, 26 Nov 2026 16:00:00 -0600"
     },
     {
-      "title": "Why Making Electricity From Seawater Has Failed",
-      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Why-Making-Electricity-From-Seawater-Has-Failed.html",
-      "source": "OilPrice",
-      "date": "Thu, 26 Nov 2026 15:00:00 -0600"
-    },
-    {
       "title": "BC Securities Commission stays insider trading charges in case linked to former gold junior CFO",
       "link": "https://www.mining.com/bc-securities-commission-stays-insider-trading-charges-in-case-linked-to-former-gold-junior-cfo/",
       "source": "mining.com",
       "date": "Thu, 26 Nov 2026 20:11:35 +0000"
-    },
-    {
-      "title": "Norway Pauses Data Center Grid Reservations as Requests Top Peak Demand",
-      "link": "https://oilprice.com/Energy/Energy-General/Norway-Pauses-Data-Center-Grid-Reservations-as-Requests-Top-Peak-Demand.html",
-      "source": "OilPrice",
-      "date": "Thu, 26 Nov 2026 14:00:00 -0600"
     },
     {
       "title": "Silverco gains as Cusi restart advances in Mexico",
@@ -68,22 +80,10 @@
       "date": "Thu, 26 Nov 2026 18:41:40 +0000"
     },
     {
-      "title": "When the Grid Fails, Solar Does Not Wait for the State",
-      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/When-the-Grid-Fails-Solar-Does-Not-Wait-for-the-State.html",
-      "source": "OilPrice",
-      "date": "Thu, 26 Nov 2026 12:00:00 -0600"
-    },
-    {
       "title": "MaxMine launches predictive fleet allocation technology",
       "link": "https://www.mining.com/maxmine-launches-predictive-fleet-allocation-technology/",
       "source": "mining.com",
       "date": "Thu, 26 Nov 2026 17:21:41 +0000"
-    },
-    {
-      "title": "Why Gasoline Prices Are Falling While Diesel Remains Expensive",
-      "link": "https://oilprice.com/Energy/Energy-General/Why-Gasoline-Prices-Are-Falling-While-Diesel-Remains-Expensive.html",
-      "source": "OilPrice",
-      "date": "Thu, 26 Nov 2026 11:00:00 -0600"
     },
     {
       "title": "Op-Ed: Critical minerals face a post-construction test",

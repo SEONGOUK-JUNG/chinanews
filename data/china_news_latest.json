@@ -1,27 +1,33 @@
 {
-  "run_at_kst": "2026-11-27T14:10:07+09:00",
+  "run_at_kst": "2026-11-27T20:10:06+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
     {
-      "title": "AI·반도체가 떠받친 中경제…1~10월 공업이익 16% 증가",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zZ1pjNXJTcmo5QVNrYW5EU05ObUhmSmRCQ0NvQzQzVlR5ekxIODFkSTBpWENhQVhiOFJMSzk5aHM5OWZkMlRxaFBCLXE2TjB6Yk9rSjk3U2Fic3dvSlJORQ?oc=5",
-      "source": "아시아경제",
-      "date": "Fri, 27 Nov 2026 04:58:43 GMT"
+      "title": "[차이나 리포트] 中 '경제수도' 상하이 천지닝 사실상 실각…시진핑 차기 권력구도 '요동'",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE04ZFNpcWE4eHNOamlqUzQtZU5JZ0hzalJHRTZOTTVzbVg1YkVMVGJTRkZrUVFsVTJrbU9LbEpleHNoMk9LTmpZNzktTk93TGdYbEZIeGU2eHVpa0FWaTRRaFNCbWo1TmE1T29jejBxcUsxZw?oc=5",
+      "source": "오피니언뉴스",
+      "date": "Fri, 27 Nov 2026 05:26:08 GMT"
     },
     {
-      "title": "“독일차 연구개발직은 중국으로…생산직은 동유럽으로”",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwcXFvZUE2VWNXcFBRR2t5S0hmWVZsMDZKc3VlRGNrNVkxXy1UTFM2b2hnbEo1aUFFX0ZRM1lDS04zRDdqRW5VM3h3dFM3LTVkX2cyVjg0Z0NZbjV3TFo1aFRB?oc=5",
-      "source": "한겨레",
-      "date": "Fri, 27 Nov 2026 02:14:52 GMT"
+      "title": "중국 1~10월 공업이익, 16% 증가⋯AI 산업 견인",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCdzJ3alJTSVhFLVZwM21qdEV5bF9CWmxaN05GTkVuXzBITHV1Yjh4VDVaMUZIR0J6bDYwazFhMDItdU1mS29XSWFad1lhWW1LekJtYQ?oc=5",
+      "source": "이투데이",
+      "date": "Fri, 27 Nov 2026 05:18:00 GMT"
     },
     {
-      "title": "중국 투자기업 대표단 홍성 방문…반도체·의료기기 협력 모색",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrRG51N2VDNGlYM2hwbDZodEI4VjM2VDJ2bjBmZmtXSzJkemNkT1EyNWNQYk15Z2pibG1NYVQ2dDdsX0x3Y1JjcjJhMXRpam1MMlNVRmVhQjNsSk1FWVBsby1abTNwWlNBYXdLUw?oc=5",
-      "source": "메가충청뉴스",
-      "date": "Fri, 27 Nov 2026 01:07:15 GMT"
+      "title": "인천시, 중소기업 중국 시장 진출 교두보 마련",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOek9IejVFSGZoMHBUTER1amhKaFBvNjNlS0R1NUllUkx6Z0xQakNseHo2TGxpSFhrSV9SWEV3enNWQko4VDZWTmd0XzB2THdNbVREZC11RVB2dWJpcVN4WmhTNGNfRU9HR1pDS3lJeTFjQXJrSnlDSXpfejRCSkxwUHptOV82Q2dPTTBZ?oc=5",
+      "source": "글로벌이코노믹",
+      "date": "Fri, 27 Nov 2026 05:17:35 GMT"
+    },
+    {
+      "title": "​​​​​​​트럼프 관세의 역설…닥치고 중국으로 돌아가자",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JSlF0SXY0aGQ3MHFsT01IMGJIbVJCM2EzSmZOcnBfbF9pUlZzMDFybnNSWHhlV0hzX2JlNFkzX0o1Z2dyaVdlVi12X3dvUU5FRTRKYXVOTjBFZ9IBWEFVX3lxTE9WZTA0V3RxeFh4OURFazQyeUdrQ212ZmJCNnlMN0Q5cjgteDFDNndhSWg4aEstY3pJal9JSlgwVnl1UFZsMVpKbmFpdjZnQWNIZzRkMDV0ZDg?oc=5",
+      "source": "아주경제",
+      "date": "Fri, 27 Nov 2026 02:13:30 GMT"
     },
     {
       "title": "인천시, 중국 진출 제조기업 대상 웨이하이 지원실 입주기업 모집",
@@ -36,28 +42,28 @@
       "date": "Thu, 26 Nov 2026 21:54:38 GMT"
     },
     {
-      "title": "[전병서 칼럼] 수출 1조 달러 …축배인가 독배인가",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JV2FaRXZyT25WLXNOTGc2d2l0eDF2WDFfMFFqNkt5YUVMOTVfdjB2VmFBQWdWd0JtUFJ2VVdDR0xWVUJGT08wd2FFOFV0TWk0NllqZXZFeU5Fd9IBWEFVX3lxTE9KTVJwc1lENXZudk8xclBmYjZ1dTQxcGRwRTBFaE9LVzMyWGNuUUplWFI2aWFuRnNsVzRGVjBwOWxFTUVtZFM5SzVuR09wb0FCSjEyak1WZkg?oc=5",
-      "source": "아주경제",
-      "date": "Thu, 26 Nov 2026 21:00:00 GMT"
+      "title": "[경제] 중국경제원탁회의 \"中 광시, 항구-공장 연계로 수출입에 새 활력\"",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ld0lqRDBsNS1Fc3FwOWpKeTVRTF9VTDJCb1QzeXhYYTh4T3RGRXl0WnRMdmR5MGZkQTdWbkI3dWZLNFlpN3VOcmhQUDd0NkhvOVAyU0hZUUZzYmV2UTM3dkR5bkFLcVpFOUo4Xw?oc=5",
+      "source": "내외뉴스통신",
+      "date": "Thu, 26 Nov 2026 11:15:09 GMT"
     },
     {
-      "title": "[경제] 중국경제원탁회의 \"中 광시, 항구-공장 연계로 수출입에 새 활력\"-Xinhua",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0td1NDMmJfRWlaaEdSenJaTloxRGM0SklvekVJM0FyeVZvU2VoNGdsN0RtRDFVTmt4VlBkX3BZR3RlT08yV0VmUGtsWndia2Z5NC1zd3I5WmxLZ0I0VnNWbU05ZVFDWWFFaW52VzFVWFVYcWxGdFE?oc=5",
-      "source": "신화망",
-      "date": "Thu, 26 Nov 2026 10:07:15 GMT"
+      "title": "미국, 중국 등 14개 경제주체에 '과잉생산' 관세...한국은 15% 상한 유지할듯",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwbG1kVTFxSl9ndnVoekZ0TGtjUFR0d045UjJtWTVsY05pTDFHZjlYX2xNbWtlVkRXNWYxNklTWTYzTkdwcGEyblVJRnJNT2kzd2RfVXZjWFpkR3cxcFHSAWNBVV95cUxQWFpEMk9aMXlRQWNQMk83NzhRcWJsTW5WYnRtSEdzbndaRTFmM09SZ3RJSUsyWURTU1F1QkVYRDdIQkRScVowN2ZMUFJBWU9RTF8zQVFrV1M2ZFRwa2xQcThERFE?oc=5",
+      "source": "BBC",
+      "date": "Thu, 26 Nov 2026 03:54:05 GMT"
     },
     {
-      "title": "중국의 전기차 전환, 원자재 시장의 연결고리를 어떻게 바꿨나?",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aT2Nvd1FFU1lOakZfMXVTNEZKaEsxdklLSDgtbDNHMElGZHA3a2l4MG5rU05Ec0kwb0staUplSjFOcmxiTzhEZWR6SW5SVUtuVGhvOVRmOTVjdw?oc=5",
-      "source": "네이버페이 머니스토리",
-      "date": "Wed, 25 Nov 2026 08:48:27 GMT"
+      "title": "美, 중국 등 14개 경제주체에 과잉생산 관세…韓 15% 상한 유지(종합2보)",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yZFNGTkRhVTZJQlA4am5tM0dCdlBqeTcycUxjU0drN0EwOU0wT2xld2c0SWhkRWl1YXVOdU5NRkdPS2RZaUZXaFI4VVdzaHY2YVE1TE04eVo4UTjSAWBBVV95cUxNbWpNSGFrSWdnZUJOX3JsTDI3VXhXZV84bnNvdWk2SFZqNW94ajN4Z08tT3lDN3dYc0wtUXNERkkwSFo2V1ctMjhTdHA2RHV3T2RlS0o1amFYZWFQMmcxSUE?oc=5",
+      "source": "연합뉴스",
+      "date": "Wed, 25 Nov 2026 16:09:32 GMT"
     },
     {
-      "title": "기본연구보고서 중국경제 중장기 성장 전망과 성장구조 변화에 대한 연구 경제성장 경제전망",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSkc1V2hQMm81MjVHemtKb1dYUEFvNnNEWWJKLTdGY3hja3VXdTBfM1ZGVjhnZ2Z6VUtwVkw2SGdUYjNPa3RjRm5WMXpERWJvczRJTzFPeHRnc2lJQkk5VG9vdEMxQ09TX0k0d195RnpNTGQ1dFFyTGZObURteG54VVRVNmRPYkxJYW5mRjhrbUpUcjZWdWRyZHFRbWxMaWFGNnhxRG5BbVBodEZfZEhjV0xWSUJaekpaV2w4dXE3TlFvZFduUG9WVVpzMnVxS0tUTWJMQTI4WnB2RFpuM1RGMnNyUng?oc=5",
-      "source": "대외경제정책연구원",
-      "date": "Wed, 25 Nov 2026 00:58:54 GMT"
+      "title": "[기고] G2 슈퍼파워 중국과 대체불가 대한민국",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WLTJhdkNFemN1TzFPZmw0b0VMRjFwcTNkbjZ2ZkpnQ0hqajdmc094UXk0eEZRMDVFYVVEQm0wWlRkakpiNktrdExRN0dzVldtREhFQkFOWXrSAVRBVV95cUxPMjB6bXp6aDczanh0RDlGVTBXYkg2UjdEMmE4Qi1uTmJYRmJHSTFjSXV5NW9GcENvYzE0cVRaTVl0TWpCOHhDa2dWM29GN3lWRlFFb3A?oc=5",
+      "source": "세계일보",
+      "date": "Wed, 25 Nov 2026 03:04:06 GMT"
     },
     {
       "title": "“중국 경제 심장 상하이 당서기도 조사받아”…부패 연루 가능성",
@@ -70,12 +76,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
       "source": ":: 위즈경제 ::",
       "date": "Tue, 24 Nov 2026 11:56:38 GMT"
-    },
-    {
-      "title": "중국 경제사절단 전북 방문… 첨단산업 투자협력 모색",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FemU5d3JyNUJyVDZQVUp0WWlJWXBRTWoydnZ0ZUVGdElkWnBhSW1TZVZybFZqVlBBTkgxSFhaNnJWNU9IRlB6ZkFLcXh6ckxGaFE?oc=5",
-      "source": "전라매일",
-      "date": "Tue, 24 Nov 2026 08:56:00 GMT"
     }
   ]
 }
