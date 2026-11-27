@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-11-27T20:10:06+09:00",
+  "run_at_kst": "2026-11-28T07:20:06+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "중국서 일했던 강금실… 현지 자격 규정엔 ‘공산당 노선 옹호’",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY0hSa013Y3ZLNlpoeS1oU0M4Mm1LZ2xoVGlhV3d2TkRfOFM5RjNKTVhMSTU3NTU4c01qTFBuYzFyVGdlVnhBUllYak9neWQ5dldVNmc2VFdDS2VndVdzd1BrQjhPaFctM0JIRzA4ZFdDcHNuNGtBZUN6ZGJJcjBYbmlEcWNFdw?oc=5",
+      "source": "조선일보",
+      "date": "Fri, 27 Nov 2026 15:37:00 GMT"
+    },
     {
       "title": "[차이나 리포트] 中 '경제수도' 상하이 천지닝 사실상 실각…시진핑 차기 권력구도 '요동'",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE04ZFNpcWE4eHNOamlqUzQtZU5JZ0hzalJHRTZOTTVzbVg1YkVMVGJTRkZrUVFsVTJrbU9LbEpleHNoMk9LTmpZNzktTk93TGdYbEZIeGU2eHVpa0FWaTRRaFNCbWo1TmE1T29jejBxcUsxZw?oc=5",
@@ -30,16 +36,16 @@
       "date": "Fri, 27 Nov 2026 02:13:30 GMT"
     },
     {
-      "title": "인천시, 중국 진출 제조기업 대상 웨이하이 지원실 입주기업 모집",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EUEl5YWdUbGxNUUg0b3U4czRxS0NnY3RzR240MU1ERU85NlFabEx2ek45Tnh1aWltZUJ6MHljU1FLZW1CZWx1aWF4S3BCZDB3cW12dFlzMGY4ckFfcUdsNGRIRTV0OTNxYzhjRkpHcEc?oc=5",
-      "source": "인천투데이",
-      "date": "Fri, 27 Nov 2026 00:31:26 GMT"
-    },
-    {
       "title": "트럼프, 세계 경제 절반에 관세 압박...중국, 대응 경고…한국·일본·EU, 과잉생산 반박",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaYjVRaXhyaEhIT2hORzl1Q2VsbUxfRjh6ZVZmZG5tamNEMDRUcUctZzJ6T25NSUN2SHdrUzNqeW9SMkpPRmVIOVNmMmpGcFgyRmhheUFETlJPUWZ1UEZrWEpSQmJCbFNNZkQyMkxn?oc=5",
       "source": "아시아투데이",
       "date": "Thu, 26 Nov 2026 21:54:38 GMT"
+    },
+    {
+      "title": "“미국은 ASML의 상전 아냐”…중국과 손잡은 네덜란드",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03dmdDRmhNUVBXWDNrNnFSUHNOTHdkdmNvcnlySEtFWWJaR2R2cms1OENVVzh2d1h3XzFhMWNvTFVWdU84ZWR6elNueVhkTW1yMkHSAVNBVV95cUxQMXFXQ1lZeWhScTRoNlhXR050RjZuTnd6V2VOQ0NfV3BGbXY1OEdjMU16cUkyOE5PSExxRWI3T0JDdDQzZ0FnYWFfZTlqWkZsUlU3Zw?oc=5",
+      "source": "서울경제",
+      "date": "Thu, 26 Nov 2026 21:31:00 GMT"
     },
     {
       "title": "[경제] 중국경제원탁회의 \"中 광시, 항구-공장 연계로 수출입에 새 활력\"",
@@ -64,12 +70,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WLTJhdkNFemN1TzFPZmw0b0VMRjFwcTNkbjZ2ZkpnQ0hqajdmc094UXk0eEZRMDVFYVVEQm0wWlRkakpiNktrdExRN0dzVldtREhFQkFOWXrSAVRBVV95cUxPMjB6bXp6aDczanh0RDlGVTBXYkg2UjdEMmE4Qi1uTmJYRmJHSTFjSXV5NW9GcENvYzE0cVRaTVl0TWpCOHhDa2dWM29GN3lWRlFFb3A?oc=5",
       "source": "세계일보",
       "date": "Wed, 25 Nov 2026 03:04:06 GMT"
-    },
-    {
-      "title": "“중국 경제 심장 상하이 당서기도 조사받아”…부패 연루 가능성",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wSEtnVG1BNC0tLXZldmxZd2pZbGl4TmFkVXlCc1l0UWJtUmhnRGR4dkR3Q0d4X2I4cVR3YUMwVXRtNW9qWkVhY1pWQ0p4Qng1dFV6RzduanNDOTA?oc=5",
-      "source": "KBS 뉴스",
-      "date": "Tue, 24 Nov 2026 14:34:00 GMT"
     },
     {
       "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
