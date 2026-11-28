@@ -1,5 +1,5 @@
 {
-  "run_at_kst": "2026-11-28T07:20:06+09:00",
+  "run_at_kst": "2026-11-28T10:10:05+09:00",
   "schema_version": "1.0",
   "sources": [
     "mining.com",
@@ -8,10 +8,28 @@
   "count": 14,
   "items": [
     {
+      "title": "Wasted Wind and Solar Power Could Run Factories and Data Centers",
+      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Wasted-Wind-and-Solar-Power-Could-Run-Factories-and-Data-Centers.html",
+      "source": "OilPrice",
+      "date": "Fri, 27 Nov 2026 18:00:00 -0600"
+    },
+    {
       "title": "Op-Ed: The global reshuffle – who will control the next era of manganese?",
       "link": "https://www.mining.com/op-ed-the-global-reshuffle-who-will-control-the-next-era-of-manganese/",
       "source": "mining.com",
       "date": "Fri, 27 Nov 2026 21:32:42 +0000"
+    },
+    {
+      "title": "Entrée, Mongolia target March 31 for Oyu Tolgoi deal",
+      "link": "https://www.mining.com/entree-mongolia-target-march-31-for-oyu-tolgoi-deal/",
+      "source": "mining.com",
+      "date": "Fri, 27 Nov 2026 20:50:00 +0000"
+    },
+    {
+      "title": "Barrick gives mine managers more say on targets",
+      "link": "https://www.mining.com/barrick-gives-mine-managers-more-say-on-targets/",
+      "source": "mining.com",
+      "date": "Fri, 27 Nov 2026 20:38:00 +0000"
     },
     {
       "title": "Georgia Voters to Decide Fate of $17 Billion Data Center Megaproject",
@@ -62,12 +80,6 @@
       "date": "Fri, 27 Nov 2026 09:00:00 -0600"
     },
     {
-      "title": "U.S. Encouraged Iraq and Venezuela to Leave OPEC, Sources Say",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Pushed-Iraq-and-Venezuela-to-Consider-Quitting-OPEC-Sources-Say.html",
-      "source": "OilPrice",
-      "date": "Fri, 27 Nov 2026 08:30:00 -0600"
-    },
-    {
       "title": "EIB backs African minerals with $327M facility",
       "link": "https://www.mining.com/eib-backs-african-minerals-with-327m-facility/",
       "source": "mining.com",
@@ -78,18 +90,6 @@
       "link": "https://www.mining.com/ero-copper-halts-brazil-mine-after-water-overflows/",
       "source": "mining.com",
       "date": "Fri, 27 Nov 2026 12:05:31 +0000"
-    },
-    {
-      "title": "Rio Tinto ships first Simandou iron ore cargo to Europe",
-      "link": "https://www.mining.com/rio-tinto-ships-first-simandou-iron-ore-cargo-to-europe/",
-      "source": "mining.com",
-      "date": "Fri, 27 Nov 2026 11:03:00 +0000"
-    },
-    {
-      "title": "Trafigura poaches Codelco commercial executive in fresh shakeup",
-      "link": "https://www.mining.com/trafigura-poaches-codelco-commercial-executive-in-fresh-shakeup/",
-      "source": "mining.com",
-      "date": "Fri, 27 Nov 2026 10:05:00 +0000"
     }
   ]
 }
