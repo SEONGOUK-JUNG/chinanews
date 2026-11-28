@@ -1,10 +1,16 @@
 {
-  "run_at_kst": "2026-11-28T07:20:06+09:00",
+  "run_at_kst": "2026-11-28T14:10:07+09:00",
   "schema_version": "1.0",
   "query": "중국 경제",
   "source": "Google News (한국어)",
   "count": 12,
   "items": [
+    {
+      "title": "인천시, 인천기업 중국 시장 진출‘전방위 지원’",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80NmFsMWNSa3RqcFdzXzRIZHIzS3VBZ2h3OFY0dGJTT0lSTEpmeGk2RzhYY2Nldm9fRU1YaDRMV3FidVg3b2tHSWhza1dLSy1CMnRjbXNscDZhaUp5aERyYks0NzfSAWdBVV95cUxONDJyM1RSQ3BGQ3pEcUM5Sl9oOUFIUUdGRy12WG5QendPYWV2X0s3Q3lPSC1aTmdJSV9EZHlGUWtMV29OQllvZThHUjJrem1sSC1hZW5ybnhIS1FYU1BmTzkwbjA0N1Rv?oc=5",
+      "source": "국민기자뉴스",
+      "date": "Fri, 27 Nov 2026 23:00:00 GMT"
+    },
     {
       "title": "중국서 일했던 강금실… 현지 자격 규정엔 ‘공산당 노선 옹호’",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY0hSa013Y3ZLNlpoeS1oU0M4Mm1LZ2xoVGlhV3d2TkRfOFM5RjNKTVhMSTU3NTU4c01qTFBuYzFyVGdlVnhBUllYak9neWQ5dldVNmc2VFdDS2VndVdzd1BrQjhPaFctM0JIRzA4ZFdDcHNuNGtBZUN6ZGJJcjBYbmlEcWNFdw?oc=5",
@@ -30,12 +36,6 @@
       "date": "Fri, 27 Nov 2026 05:17:35 GMT"
     },
     {
-      "title": "​​​​​​​트럼프 관세의 역설…닥치고 중국으로 돌아가자",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JSlF0SXY0aGQ3MHFsT01IMGJIbVJCM2EzSmZOcnBfbF9pUlZzMDFybnNSWHhlV0hzX2JlNFkzX0o1Z2dyaVdlVi12X3dvUU5FRTRKYXVOTjBFZ9IBWEFVX3lxTE9WZTA0V3RxeFh4OURFazQyeUdrQ212ZmJCNnlMN0Q5cjgteDFDNndhSWg4aEstY3pJal9JSlgwVnl1UFZsMVpKbmFpdjZnQWNIZzRkMDV0ZDg?oc=5",
-      "source": "아주경제",
-      "date": "Fri, 27 Nov 2026 02:13:30 GMT"
-    },
-    {
       "title": "트럼프, 세계 경제 절반에 관세 압박...중국, 대응 경고…한국·일본·EU, 과잉생산 반박",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaYjVRaXhyaEhIT2hORzl1Q2VsbUxfRjh6ZVZmZG5tamNEMDRUcUctZzJ6T25NSUN2SHdrUzNqeW9SMkpPRmVIOVNmMmpGcFgyRmhheUFETlJPUWZ1UEZrWEpSQmJCbFNNZkQyMkxn?oc=5",
       "source": "아시아투데이",
@@ -48,10 +48,10 @@
       "date": "Thu, 26 Nov 2026 21:31:00 GMT"
     },
     {
-      "title": "[경제] 중국경제원탁회의 \"中 광시, 항구-공장 연계로 수출입에 새 활력\"",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ld0lqRDBsNS1Fc3FwOWpKeTVRTF9VTDJCb1QzeXhYYTh4T3RGRXl0WnRMdmR5MGZkQTdWbkI3dWZLNFlpN3VOcmhQUDd0NkhvOVAyU0hZUUZzYmV2UTM3dkR5bkFLcVpFOUo4Xw?oc=5",
-      "source": "내외뉴스통신",
-      "date": "Thu, 26 Nov 2026 11:15:09 GMT"
+      "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
+      "source": ":: 위즈경제 ::",
+      "date": "Thu, 26 Nov 2026 08:00:00 GMT"
     },
     {
       "title": "미국, 중국 등 14개 경제주체에 '과잉생산' 관세...한국은 15% 상한 유지할듯",
@@ -72,10 +72,10 @@
       "date": "Wed, 25 Nov 2026 03:04:06 GMT"
     },
     {
-      "title": "AI 수출은 뛰는데 소비는 멈춰…중국 경제에 짙어지는 ‘K자형 양극화’",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUjlXLWZBOGpBbWxVangxZC1LeDg5bExSVFZuUlBqdWc5dF83bWQwVWVyMnRLcjZESEJwU0hVY1pKcjMwREVjUnJqWGtlSnY4dUNJUg?oc=5",
-      "source": ":: 위즈경제 ::",
-      "date": "Tue, 24 Nov 2026 11:56:38 GMT"
+      "title": "기본연구보고서 중국경제 중장기 성장 전망과 성장구조 변화에 대한 연구 경제성장 경제전망",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSkc1V2hQMm81MjVHemtKb1dYUEFvNnNEWWJKLTdGY3hja3VXdTBfM1ZGVjhnZ2Z6VUtwVkw2SGdUYjNPa3RjRm5WMXpERWJvczRJTzFPeHRnc2lJQkk5VG9vdEMxQ09TX0k0d195RnpNTGQ1dFFyTGZObURteG54VVRVNmRPYkxJYW5mRjhrbUpUcjZWdWRyZHFRbWxMaWFGNnhxRG5BbVBodEZfZEhjV0xWSUJaekpaV2w4dXE3TlFvZFduUG9WVVpzMnVxS0tUTWJMQTI4WnB2RFpuM1RGMnNyUng?oc=5",
+      "source": "대외경제정책연구원",
+      "date": "Wed, 25 Nov 2026 00:58:54 GMT"
     }
   ]
 }
